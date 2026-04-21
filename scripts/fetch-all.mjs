@@ -21,11 +21,13 @@ import reddit from "./sources/reddit.mjs";
 import github from "./sources/github-trending.mjs";
 import googleTrends from "./sources/google-trends.mjs";
 import cloudflareRadar from "./sources/cloudflare-radar.mjs";
-import gdelt from "./sources/gdelt.mjs";
+import mediastack from "./sources/mediastack.mjs";
 import stackoverflow from "./sources/stackoverflow.mjs";
 import steam from "./sources/steam.mjs";
 import youtube from "./sources/youtube.mjs";
 import bluesky from "./sources/bluesky.mjs";
+import mastodonTrending from "./sources/mastodon-trending.mjs";
+import productHunt from "./sources/product-hunt.mjs";
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const ROOT = join(__dirname, "..");
@@ -39,11 +41,13 @@ const SOURCES = [
   { name: "github", fn: github },
   { name: "google-trends", fn: googleTrends },
   { name: "cloudflare-radar", fn: cloudflareRadar },
-  { name: "gdelt", fn: gdelt },
+  { name: "mediastack", fn: mediastack },
   { name: "stackoverflow", fn: stackoverflow },
   { name: "steam", fn: steam },
   { name: "youtube", fn: youtube },
   { name: "bluesky", fn: bluesky },
+  { name: "mastodon-trending", fn: mastodonTrending },
+  { name: "product-hunt", fn: productHunt },
 ];
 
 function dateStamp() {

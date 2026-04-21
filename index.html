@@ -35,6 +35,8 @@
       --coral: #FB7185;
       --violet: #A78BFA;
       --amber: #FBBF24;
+      --salmon: #FA8072;
+      --indigo: #818CF8;
     }
     * { box-sizing: border-box; }
     html, body { margin: 0; padding: 0; }
@@ -224,6 +226,64 @@
     .badge.new    { background: rgba(94,234,212,.15); color: var(--cyan); border: 1px solid rgba(94,234,212,.4); }
     .badge.streak { background: rgba(36,66,111,.35); color: var(--muted); border: 1px solid var(--border); }
 
+    .blob-container { position: relative; width: 100%; height: 100%; overflow: hidden; }
+    .blob-container .blob-more {
+      position: absolute; bottom: 6px; left: 50%; transform: translateX(-50%);
+      font-family: var(--mono); font-size: 9px; color: var(--dim);
+      letter-spacing: 0.04em; white-space: nowrap; pointer-events: none;
+    }
+    .item.blob {
+      position: absolute; border-radius: 50%;
+      transform: translate(-50%, -50%);
+      transition: transform 150ms ease;
+      z-index: 1; visibility: hidden;
+    }
+    .item.blob:hover { transform: translate(-50%, -50%) scale(1.1); z-index: 10; }
+    .item.blob .blob-circle {
+      width: 100%; height: 100%; border-radius: 50%;
+      display: flex; flex-direction: column; align-items: center; justify-content: center;
+      text-align: center; text-decoration: none; padding: 6px; overflow: hidden;
+      border: 1px solid; transition: border-color 150ms ease, box-shadow 150ms ease;
+    }
+    .item.blob:hover .blob-circle { box-shadow: 0 0 20px var(--blob-glow); }
+    .item.blob .blob-title {
+      font-size: 10px; line-height: 1.2; color: var(--text);
+      overflow: hidden; text-overflow: ellipsis;
+      display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical;
+      max-width: 100%; word-break: break-word;
+    }
+    .item.blob .blob-sub {
+      font-family: var(--mono); font-size: 8px; color: var(--dim);
+      margin-top: 1px; white-space: nowrap;
+    }
+    .item.blob .blob-badges {
+      position: absolute; top: -2px; right: -2px;
+      display: flex; gap: 2px; z-index: 2;
+    }
+    .item.blob .blob-badges .badge { margin-left: 0; font-size: 7px; padding: 1px 4px; }
+    .item.blob .blob-badges .delta { margin-left: 0; font-size: 8px; padding: 0 3px; }
+    .item.blob .blob-tip {
+      position: absolute; bottom: calc(100% + 6px); left: 50%;
+      transform: translateX(-50%); background: var(--deep);
+      border: 1px solid var(--line2); border-radius: 3px;
+      padding: 5px 8px; white-space: nowrap;
+      opacity: 0; pointer-events: none; transition: opacity 150ms ease;
+      z-index: 20; font-size: 11px; color: var(--text);
+    }
+    .item.blob .blob-tip span { display: block; font-family: var(--mono); font-size: 9px; color: var(--dim); margin-top: 2px; }
+    .item.blob:hover .blob-tip { opacity: 1; }
+    .item.blob.search-hidden { display: none; }
+
+    .display-toggle { display: flex; gap: 4px; margin-left: 8px; padding-left: 8px; border-left: 1px solid var(--border); }
+    .display-toggle button {
+      font-family: var(--mono); font-size: 10px; padding: 3px 10px;
+      border: 1px solid var(--border); border-radius: 2px;
+      background: transparent; color: var(--muted); cursor: pointer;
+      text-transform: uppercase; letter-spacing: 0.08em; transition: all 150ms ease;
+    }
+    .display-toggle button:hover { color: var(--text); }
+    .display-toggle button.active { background: rgba(94,234,212,.06); color: var(--cyan); border-color: rgba(94,234,212,.4); }
+
     .view-toggle { display: flex; gap: 4px; }
     .view-toggle button {
       font-family: var(--mono); font-size: 10px; padding: 3px 10px;
@@ -255,11 +315,13 @@
     .badge-github           { color: var(--muted); background: rgba(159,178,198,.06); border-color: rgba(159,178,198,.3); }
     .badge-google-trends    { color: var(--cyan); background: rgba(94,234,212,.06); border-color: rgba(94,234,212,.4); }
     .badge-cloudflare-radar { color: var(--violet); background: rgba(167,139,250,.06); border-color: rgba(167,139,250,.4); }
-    .badge-gdelt           { color: var(--cyan); background: rgba(94,234,212,.06); border-color: rgba(94,234,212,.4); }
+    .badge-mediastack      { color: var(--cyan); background: rgba(94,234,212,.06); border-color: rgba(94,234,212,.4); }
     .badge-stackoverflow   { color: var(--gold); background: rgba(252,211,77,.06); border-color: rgba(252,211,77,.4); }
     .badge-steam           { color: var(--plankton); background: rgba(167,243,208,.06); border-color: rgba(167,243,208,.4); }
     .badge-youtube         { color: var(--magenta); background: rgba(244,114,182,.06); border-color: rgba(244,114,182,.4); }
     .badge-bluesky         { color: var(--violet); background: rgba(167,139,250,.06); border-color: rgba(167,139,250,.4); }
+    .badge-mastodon-trending { color: var(--indigo); background: rgba(129,140,248,.06); border-color: rgba(129,140,248,.4); }
+    .badge-product-hunt      { color: var(--salmon); background: rgba(250,128,114,.06); border-color: rgba(250,128,114,.4); }
 
     .filter-bar {
       padding: 10px 20px; display: flex; flex-wrap: wrap; gap: 8px;
@@ -344,9 +406,15 @@
 <body>
   <header class="site">
     <h1><span class="dot"></span>Web Pulse</h1>
-    <div class="view-toggle">
-      <button data-view="today" class="active">Today</button>
-      <button data-view="week">This week</button>
+    <div style="display:flex;align-items:center;gap:0">
+      <div class="view-toggle">
+        <button data-view="today" class="active">Today</button>
+        <button data-view="week">This week</button>
+      </div>
+      <div class="display-toggle">
+        <button data-display="list" class="active">List</button>
+        <button data-display="bubble">Bubble</button>
+      </div>
     </div>
     <input type="search" id="search" placeholder="Search everything..." autocomplete="off" />
     <div class="meta" id="generated">—</div>
@@ -418,7 +486,9 @@
         case "github":           return item.title
         case "google-trends":    return item.title.toLowerCase()
         case "cloudflare-radar": return item.title
-        case "gdelt":            return item.url
+        case "mediastack":       return item.url
+        case "mastodon-trending": return item.url
+        case "product-hunt":     return item.url
         case "stackoverflow":    return item.url
         case "steam":            return item.title
         case "youtube":          return item.url
@@ -435,13 +505,141 @@
         case "github":           return item.stars_today
         case "google-trends":    return item.geos?.length
         case "cloudflare-radar": return undefined
-        case "gdelt":            return undefined
+        case "mediastack":       return undefined
+        case "mastodon-trending": return item.likes
+        case "product-hunt":     return item.votes_count
         case "stackoverflow":    return item.score
         case "steam":            return item.players
         case "youtube":          return item.views
         case "bluesky":          return item.likes
         default:                 return undefined
       }
+    }
+
+    // ---- blob helpers -------------------------------------------------------
+    const SOURCE_COLORS = {
+      wikipedia: '#A7F3D0', hackernews: '#FBBF24', reddit: '#FB7185',
+      github: '#9FB2C6', 'google-trends': '#5EEAD4', 'cloudflare-radar': '#A78BFA',
+      mediastack: '#5EEAD4', 'mastodon-trending': '#818CF8', 'product-hunt': '#FA8072',
+      stackoverflow: '#FCD34D', steam: '#A7F3D0',
+      youtube: '#F472B6', bluesky: '#A78BFA',
+    }
+
+    function blobSubtext(source, item) {
+      const v = metricFor(source, item)
+      if (v == null) return '#' + item.rank
+      switch (source) {
+        case 'wikipedia': return fmt(v) + ' views'
+        case 'hackernews': return v + ' pts'
+        case 'reddit': return fmt(v)
+        case 'github': return '+' + fmt(v) + ' stars'
+        case 'google-trends': return (item.geos?.length || 0) + ' countries'
+        case 'stackoverflow': return v + ' score'
+        case 'steam': return fmt(v) + ' players'
+        case 'youtube': return fmt(v) + ' views'
+        case 'bluesky': return fmt(v) + ' likes'
+        case 'mastodon-trending': return fmt(v) + ' likes'
+        case 'product-hunt': return fmt(v) + ' votes'
+        default: return '#' + item.rank
+      }
+    }
+
+    function packCircles(circles, W, H) {
+      const placed = []
+      const cx = W / 2, cy = H / 2
+      for (const c of circles) {
+        if (placed.length === 0) {
+          placed.push({ ...c, x: cx, y: cy })
+          continue
+        }
+        let found = false
+        for (let t = 0; t < 1200; t++) {
+          const angle = t * 0.3
+          const dist = t * 0.28
+          const x = cx + dist * Math.cos(angle)
+          const y = cy + dist * Math.sin(angle)
+          if (x - c.r < 0 || x + c.r > W || y - c.r < 0 || y + c.r > H) continue
+          let ok = true
+          for (const p of placed) {
+            const dx = x - p.x, dy = y - p.y
+            if (dx * dx + dy * dy < (c.r + p.r + 2) ** 2) { ok = false; break }
+          }
+          if (ok) { placed.push({ ...c, x, y }); found = true; break }
+        }
+        if (!found) placed.push({ ...c, x: cx, y: cy })
+      }
+      return placed
+    }
+
+    const BLOB_MAX = 15
+    const BLOB_MAX_R = 55
+    const BLOB_MIN_R = 14
+
+    function renderBlobView(sourceKey, data, items) {
+      if (!items || items.length === 0) return ''
+      const color = SOURCE_COLORS[sourceKey] || '#5EEAD4'
+      const show = items.slice(0, BLOB_MAX)
+      const extra = items.length - show.length
+      const values = show.map(it => {
+        let v = metricFor(sourceKey, it)
+        if (v == null || v <= 0) v = (show.length - it.rank + 1) / show.length
+        return v
+      })
+      const maxVal = Math.max(...values, 1)
+      const radii = values.map(v => BLOB_MIN_R + (BLOB_MAX_R - BLOB_MIN_R) * Math.sqrt(v / maxVal))
+
+      const blobData = show.map((it, i) => ({
+        r: radii[i], item: it, idx: i,
+      }))
+      blobData.sort((a, b) => b.r - a.r)
+
+      let html = show.map((it, i) => {
+        const r = radii[i]
+        const d = r * 2
+        const sub = blobSubtext(sourceKey, it)
+        const bg = `radial-gradient(circle at 35% 35%, ${color}30, ${color}08 70%)`
+        const borderC = `${color}50`
+        const showText = r >= 22
+        const titleHtml = showText
+          ? `<span class="blob-title">${esc(it.title)}</span><span class="blob-sub">${esc(sub)}</span>`
+          : ''
+        const tipHtml = !showText
+          ? `<div class="blob-tip">${esc(it.title)}<span>${esc(sub)}</span></div>`
+          : ''
+        const bdg = badges(it)
+        const badgeHtml = bdg ? `<div class="blob-badges">${bdg}</div>` : ''
+        const url = it.url || it.hn_url || it.news_url || '#'
+        return `<div class="item blob" style="width:${d}px;height:${d}px;--blob-glow:${color}40" data-blob-idx="${i}">
+          <a class="blob-circle" href="${esc(url)}" target="_blank" rel="noopener"
+             style="background:${bg};border-color:${borderC}">
+            ${titleHtml}
+          </a>
+          ${tipHtml}${badgeHtml}
+        </div>`
+      }).join('')
+
+      if (extra > 0) html += `<div class="blob-more">and ${extra} more</div>`
+      return `<div class="blob-container" data-source="${esc(sourceKey)}">${html}</div>`
+    }
+
+    function layoutBlobs() {
+      document.querySelectorAll('.blob-container').forEach(container => {
+        const W = container.clientWidth || 360
+        const H = container.clientHeight || 400
+        const blobs = [...container.querySelectorAll('.item.blob')]
+        if (blobs.length === 0) return
+        const circles = blobs.map(el => ({
+          r: parseInt(el.style.width) / 2,
+          el,
+        }))
+        circles.sort((a, b) => b.r - a.r)
+        const packed = packCircles(circles, W, H)
+        for (const p of packed) {
+          p.el.style.left = p.x + 'px'
+          p.el.style.top = p.y + 'px'
+          p.el.style.visibility = 'visible'
+        }
+      })
     }
 
     // ---- badges ------------------------------------------------------------
@@ -655,13 +853,18 @@
             <div class="metric">${it._weekItem ? `${it.appearances}d` : ""}</div>
           </div>`).join("")
       },
-      gdelt(data, ann) {
+      mediastack(data, ann) {
+        if (data.configured === false) {
+          return `<div style="padding:20px 16px;color:var(--muted);font-size:13px">
+            ${esc(data.message || "Not configured.")}
+          </div>`
+        }
         return (ann || data.items).map((it) => `
           <div class="item">
             <div class="rank">${it.rank}</div>
             <div>
               <div class="title"><a href="${esc(it.url)}" target="_blank" rel="noopener">${esc(it.title)}</a>${rankSpark(it)}${badges(it)}</div>
-              <div class="sub">${esc(it.domain || "")}${it.source_country ? ` · ${esc(it.source_country)}` : ""}</div>
+              <div class="sub">${esc(it.source_name || "")}${it.country ? ` \u00b7 ${esc(it.country)}` : ""}${it.category ? ` \u00b7 ${esc(it.category)}` : ""}</div>
             </div>
             <div class="metric">${it._weekItem ? `${it.appearances}d` : ""}</div>
           </div>`).join("")
@@ -715,6 +918,33 @@
             <div class="metric">${it._weekItem ? `${it.appearances}d` : fmt(it.likes)}</div>
           </div>`).join("")
       },
+      "mastodon-trending"(data, ann) {
+        return (ann || data.items).map((it) => `
+          <div class="item">
+            <div class="rank">${it.rank}</div>
+            <div>
+              <div class="title"><a href="${esc(it.url)}" target="_blank" rel="noopener">${esc(it.title)}</a>${rankSpark(it)}${badges(it)}</div>
+              <div class="sub">${esc(it.author || "")} \u00b7 ${fmt(it.likes)} likes \u00b7 ${fmt(it.boosts)} boosts</div>
+            </div>
+            <div class="metric">${it._weekItem ? `${it.appearances}d` : fmt(it.likes)}</div>
+          </div>`).join("")
+      },
+      "product-hunt"(data, ann) {
+        if (data.configured === false) {
+          return `<div style="padding:20px 16px;color:var(--muted);font-size:13px">
+            ${esc(data.message || "Not configured.")}
+          </div>`
+        }
+        return (ann || data.items).map((it) => `
+          <div class="item">
+            <div class="rank">${it.rank}</div>
+            <div>
+              <div class="title"><a href="${esc(it.url)}" target="_blank" rel="noopener">${esc(it.title)}</a>${rankSpark(it)}${badges(it)}</div>
+              <div class="sub">${esc(it.tagline || "")}</div>
+            </div>
+            <div class="metric">${it._weekItem ? `${it.appearances}d` : `\u25b2${fmt(it.votes_count)}`}</div>
+          </div>`).join("")
+      },
     }
 
     // ---- layout ------------------------------------------------------------
@@ -722,8 +952,9 @@
     const SOURCE_LABELS = {
       "wikipedia": "Wikipedia", "hackernews": "HN", "reddit": "Reddit",
       "github": "GitHub", "google-trends": "Trends", "cloudflare-radar": "Radar",
-      "gdelt": "GDELT", "stackoverflow": "SO", "steam": "Steam",
+      "mediastack": "News", "stackoverflow": "SO", "steam": "Steam",
       "youtube": "YouTube", "bluesky": "Bluesky",
+      "mastodon-trending": "Mastodon", "product-hunt": "PH",
     }
 
     function renderClusters(clusters) {
@@ -750,18 +981,19 @@
     const TILE_CATEGORIES = {
       wikipedia: ["news", "culture"], hackernews: ["tech"], reddit: ["news", "culture"],
       github: ["tech"], "google-trends": ["news", "global"],
-      "cloudflare-radar": ["tech", "global"], gdelt: ["news", "global"],
+      "cloudflare-radar": ["tech", "global"], mediastack: ["news", "global"],
       youtube: ["entertainment"], steam: ["gaming"],
       bluesky: ["social"], stackoverflow: ["tech"],
+      "mastodon-trending": ["social"], "product-hunt": ["tech"],
     }
 
     // ---- layout ------------------------------------------------------------
     const ORDER = [
       "hackernews", "github", "stackoverflow",
-      "google-trends", "gdelt", "wikipedia",
-      "reddit", "bluesky",
+      "google-trends", "mediastack", "wikipedia",
+      "reddit", "bluesky", "mastodon-trending",
       "youtube", "steam",
-      "cloudflare-radar",
+      "product-hunt", "cloudflare-radar",
     ]
 
     // ---- hash routing ------------------------------------------------------
@@ -771,6 +1003,7 @@
         view: params.get("view") || "today",
         filter: params.get("filter") || "all",
         history: params.get("history") || null,
+        display: params.get("display") || "list",
       }
     }
 
@@ -781,6 +1014,7 @@
       if (merged.view !== "today") params.set("view", merged.view)
       if (merged.filter !== "all") params.set("filter", merged.filter)
       if (merged.history) params.set("history", merged.history)
+      if (merged.display !== "list") params.set("display", merged.display)
       const str = params.toString()
       history.pushState(null, "", str ? `#${str}` : window.location.pathname)
       route()
@@ -816,6 +1050,11 @@
       // Sync view toggle
       document.querySelectorAll(".view-toggle button").forEach(b =>
         b.classList.toggle("active", b.dataset.view === state.view)
+      )
+
+      // Sync display toggle
+      document.querySelectorAll(".display-toggle button").forEach(b =>
+        b.classList.toggle("active", b.dataset.display === state.display)
       )
 
       // Sync filter bar
@@ -861,7 +1100,7 @@
           tile.classList.add("error")
           body = `<div>Failed to load: ${esc(data.error)}</div>`
         } else if (!data.items || data.items.length === 0) {
-          if ((key === "cloudflare-radar" || key === "youtube") && data.configured === false) {
+          if ((key === "cloudflare-radar" || key === "youtube" || key === "mediastack" || key === "product-hunt") && data.configured === false) {
             body = renderers[key](data, [])
           } else {
             tile.classList.add("empty")
@@ -870,10 +1109,14 @@
         } else if (state.view === "week") {
           const weekItems = aggregateWeek(key, _historyData)
           const ann = annotate(key, weekItems, _historyData)
-          body = renderers[key]({ ...data, items: weekItems }, ann)
+          body = state.display === 'bubble'
+            ? renderBlobView(key, data, ann)
+            : renderers[key]({ ...data, items: weekItems }, ann)
         } else {
           const ann = annotate(key, data.items, _historyData)
-          body = renderers[key](data, ann)
+          body = state.display === 'bubble'
+            ? renderBlobView(key, data, ann)
+            : renderers[key](data, ann)
         }
 
         tile.innerHTML = `
@@ -885,6 +1128,8 @@
         `
         grid.appendChild(tile)
       }
+
+      if (state.display === 'bubble') requestAnimationFrame(layoutBlobs)
     }
 
     // ---- history view ------------------------------------------------------
@@ -1006,8 +1251,8 @@
       _searchTimer = setTimeout(() => {
         const query = e.target.value.trim().toLowerCase()
         document.querySelectorAll(".tile .item").forEach(item => {
-          const text = (item.querySelector(".title")?.textContent || "") +
-            " " + (item.querySelector(".sub")?.textContent || "")
+          const text = (item.querySelector(".title, .blob-title")?.textContent || "") +
+            " " + (item.querySelector(".sub, .blob-sub")?.textContent || "")
           item.classList.toggle("search-hidden", query.length > 0 && !text.toLowerCase().includes(query))
         })
         // Mark tiles with all items hidden
@@ -1032,6 +1277,13 @@
       const btn = e.target.closest("button[data-view]")
       if (!btn) return
       setHash({ view: btn.dataset.view })
+    })
+
+    // ---- display toggle ----------------------------------------------------
+    document.querySelector(".display-toggle").addEventListener("click", (e) => {
+      const btn = e.target.closest("button[data-display]")
+      if (!btn) return
+      setHash({ display: btn.dataset.display })
     })
 
     // ---- filter bar --------------------------------------------------------

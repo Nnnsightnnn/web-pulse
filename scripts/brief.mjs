@@ -32,9 +32,10 @@ export function generateBrief(latest) {
 
   const picks = [
     { key: "github", prefix: "In tech" },
-    { key: "gdelt", prefix: "In news" },
+    { key: "mediastack", prefix: "In news" },
     { key: "reddit", prefix: "On Reddit" },
     { key: "steam", prefix: "In gaming" },
+    { key: "product-hunt", prefix: "In startups" },
   ]
 
   let added = 0

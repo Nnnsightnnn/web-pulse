@@ -1,232 +1,223 @@
 {
   "source": "hackernews",
   "label": "Hacker News — top stories",
-  "fetched_at": "2026-04-21T15:25:20.870Z",
+  "fetched_at": "2026-04-21T21:14:56.258Z",
   "items": [
     {
       "rank": 1,
-      "title": "Laws of Software Engineering",
-      "url": "https://lawsofsoftwareengineering.com",
-      "hn_url": "https://news.ycombinator.com/item?id=47847179",
-      "score": 374,
-      "comments": 178,
-      "author": "milanm081"
+      "title": "The Vercel breach: OAuth attack exposes risk in platform environment variables",
+      "url": "https://www.trendmicro.com/en_us/research/26/d/vercel-breach-oauth-supply-chain.html",
+      "hn_url": "https://news.ycombinator.com/item?id=47851634",
+      "score": 191,
+      "comments": 78,
+      "author": "queenelvis"
     },
     {
       "rank": 2,
-      "title": "As Oceans Warm, Great White Sharks Are Overheating",
-      "url": "https://e360.yale.edu/digest/great-white-sharks-climate",
-      "hn_url": "https://news.ycombinator.com/item?id=47849592",
-      "score": 26,
-      "comments": 7,
-      "author": "speckx"
+      "title": "Britannica11.org – a structured edition of the 1911 Encyclopædia Britannica",
+      "url": "https://britannica11.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=47851885",
+      "score": 141,
+      "comments": 73,
+      "author": "ahaspel"
     },
     {
       "rank": 3,
-      "title": "Fusion Power Plant Simulator",
-      "url": "https://www.fusionenergybase.com/fusion-power-plant-simulator",
-      "hn_url": "https://news.ycombinator.com/item?id=47849315",
-      "score": 26,
-      "comments": 6,
-      "author": "sam"
+      "title": "Cal.diy: open-source community edition of cal.com",
+      "url": "https://github.com/calcom/cal.diy",
+      "hn_url": "https://news.ycombinator.com/item?id=47852155",
+      "score": 92,
+      "comments": 24,
+      "author": "petecooper"
     },
     {
       "rank": 4,
-      "title": "Tim Cook's Impeccable Timing",
-      "url": "https://stratechery.com/2026/tim-cooks-impeccable-timing/",
-      "hn_url": "https://news.ycombinator.com/item?id=47847324",
-      "score": 101,
-      "comments": 139,
-      "author": "hasheddan"
+      "title": "Framework Laptop 13 Pro",
+      "url": "https://frame.work/laptop13pro",
+      "hn_url": "https://news.ycombinator.com/item?id=47852177",
+      "score": 576,
+      "comments": 336,
+      "author": "Trollmann"
     },
     {
       "rank": 5,
-      "title": "Show HN: VidStudio, a browser based video editor that doesn't upload your files",
-      "url": "https://vidstudio.app/video-editor",
-      "hn_url": "https://news.ycombinator.com/item?id=47847558",
-      "score": 129,
-      "comments": 53,
-      "author": "kolx"
+      "title": "Laws of Software Engineering",
+      "url": "https://lawsofsoftwareengineering.com",
+      "hn_url": "https://news.ycombinator.com/item?id=47847179",
+      "score": 738,
+      "comments": 369,
+      "author": "milanm081"
     },
     {
       "rank": 6,
-      "title": "John Ternus to become Apple CEO",
-      "url": "https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/",
-      "hn_url": "https://news.ycombinator.com/item?id=47840219",
-      "score": 2067,
-      "comments": 1167,
-      "author": "schappim"
+      "title": "10 years: Stephen's Sausage Roll still one of the most influential puzzle games",
+      "url": "https://thinkygames.com/features/10-years-of-grilling-stephens-sausage-roll-remains-one-of-the-most-influential-puzzle-games-ever-created/",
+      "hn_url": "https://news.ycombinator.com/item?id=47814874",
+      "score": 47,
+      "comments": 12,
+      "author": "tobr"
     },
     {
       "rank": 7,
-      "title": "Show HN: GoModel – an open-source AI gateway in Go; 44x lighter than LiteLLM",
-      "url": "https://github.com/ENTERPILOT/GOModel/",
-      "hn_url": "https://news.ycombinator.com/item?id=47849097",
-      "score": 23,
-      "comments": 3,
-      "author": "santiago-pl"
+      "title": "A Periodic Map of Cheese",
+      "url": "https://cheesemap.netlify.app/",
+      "hn_url": "https://news.ycombinator.com/item?id=47851077",
+      "score": 125,
+      "comments": 58,
+      "author": "sfrechtling"
     },
     {
       "rank": 8,
-      "title": "Running a Minecraft Server and More on a 1960s Univac Computer",
-      "url": "https://farlow.dev/2026/04/17/running-a-minecraft-server-and-more-on-a-1960s-univac-computer",
-      "hn_url": "https://news.ycombinator.com/item?id=47815462",
-      "score": 73,
-      "comments": 14,
-      "author": "brilee"
+      "title": "California has more money than projected after admin miscalculated state budget",
+      "url": "https://www.kcra.com/article/california-more-money-than-projected-newsom-miscalculated-budget/71056376",
+      "hn_url": "https://news.ycombinator.com/item?id=47854125",
+      "score": 9,
+      "comments": 0,
+      "author": "littlexsparkee"
     },
     {
       "rank": 9,
-      "title": "A type-safe, realtime collaborative Graph Database in a CRDT",
-      "url": "https://codemix.com/graph",
-      "hn_url": "https://news.ycombinator.com/item?id=47846946",
-      "score": 81,
-      "comments": 27,
-      "author": "phpnode"
+      "title": "Edit store price tags using Flipper Zero",
+      "url": "https://github.com/i12bp8/TagTinker",
+      "hn_url": "https://news.ycombinator.com/item?id=47822978",
+      "score": 226,
+      "comments": 234,
+      "author": "trueduke"
     },
     {
       "rank": 10,
-      "title": "Tindie store under \"scheduled maintenance\" for days",
-      "url": "https://www.tindie.com/",
-      "hn_url": "https://news.ycombinator.com/item?id=47848195",
-      "score": 50,
-      "comments": 13,
-      "author": "somemisopaste"
-    },
-    {
-      "rank": 11,
-      "title": "Anthropic says OpenClaw-style Claude CLI usage is allowed again",
-      "url": "https://docs.openclaw.ai/providers/anthropic",
-      "hn_url": "https://news.ycombinator.com/item?id=47844269",
-      "score": 346,
-      "comments": 207,
-      "author": "jmsflknr"
-    },
-    {
-      "rank": 12,
-      "title": "MNT Reform is an open hardware laptop, designed and assembled in Germany",
-      "url": "http://mnt.stanleylieber.com/reform/",
-      "hn_url": "https://news.ycombinator.com/item?id=47834689",
-      "score": 164,
-      "comments": 64,
+      "title": "I don't want your PRs anymore",
+      "url": "https://dpc.pw/posts/i-dont-want-your-prs-anymore/",
+      "hn_url": "https://news.ycombinator.com/item?id=47854051",
+      "score": 13,
+      "comments": 0,
       "author": "speckx"
     },
     {
+      "rank": 11,
+      "title": "My practitioner view of program analysis",
+      "url": "https://sawyer.dev/posts/practitioner-program-analysis/",
+      "hn_url": "https://news.ycombinator.com/item?id=47835728",
+      "score": 14,
+      "comments": 0,
+      "author": "evakhoury"
+    },
+    {
+      "rank": 12,
+      "title": "Fusion Power Plant Simulator",
+      "url": "https://www.fusionenergybase.com/fusion-power-plant-simulator",
+      "hn_url": "https://news.ycombinator.com/item?id=47849315",
+      "score": 123,
+      "comments": 64,
+      "author": "sam"
+    },
+    {
       "rank": 13,
-      "title": "Anthropic takes $5B from Amazon and pledges $100B in cloud spending in return",
-      "url": "https://techcrunch.com/2026/04/20/anthropic-takes-5b-from-amazon-and-pledges-100b-in-cloud-spending-in-return/",
-      "hn_url": "https://news.ycombinator.com/item?id=47848276",
-      "score": 89,
-      "comments": 89,
-      "author": "Brajeshwar"
+      "title": "Show HN: GoModel – an open-source AI gateway in Go",
+      "url": "https://github.com/ENTERPILOT/GOModel/",
+      "hn_url": "https://news.ycombinator.com/item?id=47849097",
+      "score": 143,
+      "comments": 53,
+      "author": "santiago-pl"
     },
     {
       "rank": 14,
-      "title": "Slava's Monoid Zoo",
-      "url": "https://factorcode.org/slava/monoids.html",
-      "hn_url": "https://news.ycombinator.com/item?id=47828568",
-      "score": 25,
-      "comments": 4,
-      "author": "luu"
+      "title": "Theseus, a Static Windows Emulator",
+      "url": "https://neugierig.org/software/blog/2026/04/theseus.html",
+      "hn_url": "https://news.ycombinator.com/item?id=47830332",
+      "score": 41,
+      "comments": 3,
+      "author": "zdw"
     },
     {
       "rank": 15,
-      "title": "Leonardo, Borgia, and Machiavelli: A Fateful Collusion",
-      "url": "https://www.historytoday.com/archive/leonardo-borgia-and-machiavelli-fateful-collusion",
-      "hn_url": "https://news.ycombinator.com/item?id=47789445",
-      "score": 8,
-      "comments": 0,
-      "author": "apollinaire"
+      "title": "In the UK, EVs are cheaper than petrol cars, thanks to Chinese competition",
+      "url": "https://electrek.co/2026/04/18/in-the-uk-evs-are-cheaper-than-petrol-cars-thanks-to-chinese-competition/",
+      "hn_url": "https://news.ycombinator.com/item?id=47823179",
+      "score": 29,
+      "comments": 5,
+      "author": "breve"
     },
     {
       "rank": 16,
-      "title": "Salmon exposed to cocaine and its main byproduct roam more widely",
-      "url": "https://www.science.org/content/article/cocaine-pollution-gives-salmon-wanderlust",
-      "hn_url": "https://news.ycombinator.com/item?id=47844890",
-      "score": 92,
-      "comments": 55,
-      "author": "1659447091"
+      "title": "Running a Minecraft Server and More on a 1960s Univac Computer",
+      "url": "https://farlow.dev/2026/04/17/running-a-minecraft-server-and-more-on-a-1960s-univac-computer",
+      "hn_url": "https://news.ycombinator.com/item?id=47815462",
+      "score": 162,
+      "comments": 26,
+      "author": "brilee"
     },
     {
       "rank": 17,
-      "title": "The Beauty of Bonsai Styles",
-      "url": "https://longwoodgardens.org/blog/2023-05-17/beauty-bonsai-styles",
-      "hn_url": "https://news.ycombinator.com/item?id=47844539",
-      "score": 147,
-      "comments": 26,
-      "author": "lagniappe"
+      "title": "Show HN: VidStudio, a browser based video editor that doesn't upload your files",
+      "url": "https://vidstudio.app/video-editor",
+      "hn_url": "https://news.ycombinator.com/item?id=47847558",
+      "score": 216,
+      "comments": 76,
+      "author": "kolx"
     },
     {
       "rank": 18,
-      "title": "Scammer Used an AI-Generated MAGA Girl to Grift 'Super Dumb' Men",
-      "url": "https://www.wired.com/story/ai-generated-maga-girls/",
-      "hn_url": "https://news.ycombinator.com/item?id=47849494",
-      "score": 27,
-      "comments": 7,
-      "author": "Aboutplants"
+      "title": "Anthropic says OpenClaw-style Claude CLI usage is allowed again",
+      "url": "https://docs.openclaw.ai/providers/anthropic",
+      "hn_url": "https://news.ycombinator.com/item?id=47844269",
+      "score": 465,
+      "comments": 261,
+      "author": "jmsflknr"
     },
     {
       "rank": 19,
-      "title": "A Roblox cheat and one AI tool brought down Vercel's platform",
-      "url": "https://webmatrices.com/post/how-a-roblox-cheat-and-one-ai-tool-brought-down-vercel-s-entire-platform",
-      "hn_url": "https://news.ycombinator.com/item?id=47844431",
-      "score": 248,
-      "comments": 138,
-      "author": "bishwasbh"
+      "title": "Modern Front end Complexity: essential or accidental?",
+      "url": "https://binaryigor.com/modern-frontend-complexity.html",
+      "hn_url": "https://news.ycombinator.com/item?id=47824051",
+      "score": 47,
+      "comments": 31,
+      "author": "gsky"
     },
     {
       "rank": 20,
-      "title": "Apple ignores DMA interoperability requests and contradicts own documentation",
-      "url": "https://fsfe.org/news/2026/news-20260420-01.html",
-      "hn_url": "https://news.ycombinator.com/item?id=47847124",
-      "score": 154,
-      "comments": 25,
-      "author": "kirschner"
+      "title": "A type-safe, realtime collaborative Graph Database in a CRDT",
+      "url": "https://codemix.com/graph",
+      "hn_url": "https://news.ycombinator.com/item?id=47846946",
+      "score": 134,
+      "comments": 39,
+      "author": "phpnode"
     },
     {
       "rank": 21,
-      "title": "Louis Zocchi, games industry pioneer, has died",
-      "url": "https://icv2.com/articles/news/view/62176/r-i-p-louis-zocchi-the-godfather-dice",
-      "hn_url": "https://news.ycombinator.com/item?id=47845231",
-      "score": 101,
-      "comments": 48,
-      "author": "sgbeal"
+      "title": "Zindex – Diagram Infrastructure for Agents",
+      "url": "https://zindex.ai/",
+      "hn_url": "https://news.ycombinator.com/item?id=47854116",
+      "score": 4,
+      "comments": 1,
+      "author": "_ben_"
     },
     {
       "rank": 22,
-      "title": "High-Fidelity KV Cache Summarization Using Entropy and Low-Rank Reconstruction",
-      "url": "https://jchandra.com/posts/hae-ols/",
-      "hn_url": "https://news.ycombinator.com/item?id=47823549",
-      "score": 42,
-      "comments": 6,
-      "author": "jchandra"
+      "title": "Ibuilt a tiny Unix‑like 'OS' with shell and filesystem for Arduino UNO (2KB RAM)",
+      "url": "https://github.com/Arc1011/KernelUNO",
+      "hn_url": "https://news.ycombinator.com/item?id=47851630",
+      "score": 46,
+      "comments": 10,
+      "author": "Arc1011"
     },
     {
       "rank": 23,
-      "title": "Qwen3.6-Max-Preview: Smarter, Sharper, Still Evolving",
-      "url": "https://qwen.ai/blog?id=qwen3.6-max-preview",
-      "hn_url": "https://news.ycombinator.com/item?id=47834565",
-      "score": 667,
-      "comments": 358,
-      "author": "mfiguiere"
+      "title": "Kasane: New drop-in Kakoune front end with GPU rendering and WASM Plugins",
+      "url": "https://github.com/Yus314/kasane",
+      "hn_url": "https://news.ycombinator.com/item?id=47850542",
+      "score": 35,
+      "comments": 5,
+      "author": "nsagent"
     },
     {
       "rank": 24,
-      "title": "The purist's guide to phở in Hanoi",
-      "url": "https://connla.substack.com/p/pho-in-hanoi-a-purists-guide",
-      "hn_url": "https://news.ycombinator.com/item?id=47822742",
-      "score": 72,
-      "comments": 24,
-      "author": "vinhnx"
-    },
-    {
-      "rank": 25,
-      "title": "How to make a fast dynamic language interpreter",
-      "url": "https://zef-lang.dev/implementation",
-      "hn_url": "https://news.ycombinator.com/item?id=47843194",
-      "score": 222,
-      "comments": 42,
-      "author": "pizlonator"
+      "title": "MNT Reform is an open hardware laptop, designed and assembled in Germany",
+      "url": "http://mnt.stanleylieber.com/reform/",
+      "hn_url": "https://news.ycombinator.com/item?id=47834689",
+      "score": 252,
+      "comments": 95,
+      "author": "speckx"
     }
   ]
 }

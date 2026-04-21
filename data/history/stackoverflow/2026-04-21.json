@@ -1,166 +1,199 @@
 {
   "source": "stackoverflow",
   "label": "Stack Overflow — hot questions",
-  "fetched_at": "2026-04-21T15:25:21.036Z",
+  "fetched_at": "2026-04-21T21:14:56.636Z",
   "items": [
     {
       "rank": 1,
-      "title": "Common scenarios for memory leaks in Vanilla JavaScript and how to properly clean up?",
-      "url": "https://stackoverflow.com/questions/79929543/common-scenarios-for-memory-leaks-in-vanilla-javascript-and-how-to-properly-clea",
+      "title": "Vertex AI RAG agent returns InternalError when datastore is in US multi-region and agent runs in us-central1",
+      "url": "https://stackoverflow.com/questions/79929720/vertex-ai-rag-agent-returns-internalerror-when-datastore-is-in-us-multi-region-a",
       "score": 0,
       "answers": 0,
-      "views": 12,
+      "views": 17,
       "tags": [
-        "javascript"
+        "google-cloud-platform",
+        "retrieval-augmented-generation",
+        "vertex-ai-search"
       ]
     },
     {
       "rank": 2,
-      "title": "C# Socket handling - how to set the timeout",
-      "url": "https://stackoverflow.com/questions/79929483/c-socket-handling-how-to-set-the-timeout",
-      "score": 2,
-      "answers": 2,
-      "views": 43,
+      "title": "How one can learn the DEVOPS fundamentals while learning Fullstacks",
+      "url": "https://stackoverflow.com/questions/79929723/how-one-can-learn-the-devops-fundamentals-while-learning-fullstacks",
+      "score": -1,
+      "answers": 0,
+      "views": 16,
       "tags": [
-        "c#",
-        "sockets",
-        "timeout"
+        "network-programming",
+        "terminal",
+        "devops",
+        "react-fullstack"
       ]
     },
     {
       "rank": 3,
-      "title": "I have been learning graphs recently, but I’m not able to understand how graph loops work",
-      "url": "https://stackoverflow.com/questions/79929506/i-have-been-learning-graphs-recently-but-i-m-not-able-to-understand-how-graph-l",
-      "score": 0,
-      "answers": 1,
-      "views": 32,
+      "title": "Drop components in modelsummary",
+      "url": "https://stackoverflow.com/questions/79929718/drop-components-in-modelsummary",
+      "score": -1,
+      "answers": 0,
+      "views": 15,
       "tags": [
-        "algorithm",
-        "graph"
+        "r",
+        "modelsummary",
+        "glmmtmb"
       ]
     },
     {
       "rank": 4,
-      "title": "WinForms (.NET 8): How to open a Form or UserControl from a property in a UserControl (Designer support)",
-      "url": "https://stackoverflow.com/questions/79929511/winforms-net-8-how-to-open-a-form-or-usercontrol-from-a-property-in-a-userco",
-      "score": 0,
+      "title": "How to transfer a file via command line using TeraTerm xmodemsend",
+      "url": "https://stackoverflow.com/questions/79929734/how-to-transfer-a-file-via-command-line-using-teraterm-xmodemsend",
+      "score": -1,
       "answers": 0,
-      "views": 32,
+      "views": 12,
       "tags": [
-        "c#",
-        "user-controls",
-        ".net-8.0"
+        "macros",
+        "serial-port",
+        "teraterm",
+        "xmodem"
       ]
     },
     {
       "rank": 5,
-      "title": "Do you use raw pytorch or some wrapper or such?",
-      "url": "https://stackoverflow.com/questions/79929510/do-you-use-raw-pytorch-or-some-wrapper-or-such",
+      "title": "I would like to get some advice on this sql connenction with php. We use this in our school. Can you guys help if there is a better way to do it?",
+      "url": "https://stackoverflow.com/questions/79929636/i-would-like-to-get-some-advice-on-this-sql-connenction-with-php-we-use-this-in",
       "score": 0,
-      "answers": 0,
-      "views": 27,
+      "answers": 9,
+      "views": 76,
       "tags": [
-        "python",
-        "deep-learning",
-        "pytorch"
+        "php",
+        "mysqli"
       ]
     },
     {
       "rank": 6,
-      "title": "Storing game state in sprin boot in memory",
-      "url": "https://stackoverflow.com/questions/79929527/storing-game-state-in-sprin-boot-in-memory",
-      "score": -1,
-      "answers": 0,
-      "views": 26,
+      "title": "jq getpath error: Cannot index number with string \"id\"",
+      "url": "https://stackoverflow.com/questions/79929709/jq-getpath-error-cannot-index-number-with-string-id",
+      "score": 0,
+      "answers": 2,
+      "views": 36,
       "tags": [
-        "java",
-        "spring-boot"
+        "json",
+        "bash",
+        "jq"
       ]
     },
     {
       "rank": 7,
-      "title": "Python Get Request URL returning errors compared to hard-coded URL",
-      "url": "https://stackoverflow.com/questions/79929505/python-get-request-url-returning-errors-compared-to-hard-coded-url",
-      "score": -1,
-      "answers": 2,
-      "views": 55,
+      "title": "Qt Svg element with percentage size not correct size",
+      "url": "https://stackoverflow.com/questions/79929704/qt-svg-element-with-percentage-size-not-correct-size",
+      "score": 0,
+      "answers": 1,
+      "views": 26,
       "tags": [
         "python",
-        "pandas",
-        "dataframe",
-        "python-requests"
+        "qt",
+        "svg",
+        "pyqt6"
       ]
     },
     {
       "rank": 8,
-      "title": "Why are the opening and closing positions in the backtest inconsistent with the webhook signal timing?",
-      "url": "https://stackoverflow.com/questions/79929519/why-are-the-opening-and-closing-positions-in-the-backtest-inconsistent-with-the",
-      "score": -1,
+      "title": "C++ Loop skips condition of getline",
+      "url": "https://stackoverflow.com/questions/79929697/c-loop-skips-condition-of-getline",
+      "score": 0,
       "answers": 0,
-      "views": 18,
+      "views": 26,
       "tags": [
-        "tradingview-api",
-        "back-testing"
+        "c++",
+        "getline"
       ]
     },
     {
       "rank": 9,
-      "title": "What is IMPORTED_SONAME used for?",
-      "url": "https://stackoverflow.com/questions/79929521/what-is-imported-soname-used-for",
+      "title": "Prevent soft keyboard briefly dropping when focus lost because a button was pressed",
+      "url": "https://stackoverflow.com/questions/79929687/prevent-soft-keyboard-briefly-dropping-when-focus-lost-because-a-button-was-pres",
       "score": 0,
-      "answers": 0,
-      "views": 18,
+      "answers": 1,
+      "views": 23,
       "tags": [
-        "cmake",
-        "shared-libraries"
+        "javascript",
+        "html",
+        "google-chrome",
+        "firefox"
       ]
     },
     {
       "rank": 10,
-      "title": "Azure Data factory vs Microsoft Fabric",
-      "url": "https://stackoverflow.com/questions/79929532/azure-data-factory-vs-microsoft-fabric",
+      "title": "Building monorepo with multiple node.js projects with pnpm",
+      "url": "https://stackoverflow.com/questions/79929693/building-monorepo-with-multiple-node-js-projects-with-pnpm",
       "score": 0,
-      "answers": 0,
-      "views": 15,
+      "answers": 2,
+      "views": 21,
       "tags": [
-        "azure-data-factory",
-        "analytics",
-        "data-transform",
-        "microsoft-fabric"
+        "docker",
+        "package.json",
+        "monorepo",
+        "pnpm",
+        "pnpm-workspace"
       ]
     },
     {
       "rank": 11,
-      "title": "Wayland using wrong backlight device on ubuntu (AMD + NVIDIA laptop)",
-      "url": "https://stackoverflow.com/questions/79929535/wayland-using-wrong-backlight-device-on-ubuntu-amd-nvidia-laptop",
+      "title": "Line magic interferes with linting in VSCode",
+      "url": "https://stackoverflow.com/questions/79929714/line-magic-interferes-with-linting-in-vscode",
       "score": 0,
       "answers": 0,
-      "views": 14,
+      "views": 20,
       "tags": [
-        "ubuntu",
-        "brightness",
-        "wayland"
+        "visual-studio-code"
       ]
     },
     {
       "rank": 12,
-      "title": "Android Studio disable Compact Middle Package not working",
-      "url": "https://stackoverflow.com/questions/79929504/android-studio-disable-compact-middle-package-not-working",
+      "title": "Dropping rows based on a \"trial\" marker if subvectors in that trial meet conditions",
+      "url": "https://stackoverflow.com/questions/79929712/dropping-rows-based-on-a-trial-marker-if-subvectors-in-that-trial-meet-conditi",
       "score": 0,
       "answers": 0,
-      "views": 14,
+      "views": 17,
       "tags": [
-        "java",
-        "android-studio"
+        "r",
+        "for-loop",
+        "data-wrangling"
       ]
     },
     {
       "rank": 13,
+      "title": "How to build a mobile barcode scanner that retrieves product prices from a custom API (similar to Scan2Info)?",
+      "url": "https://stackoverflow.com/questions/79929587/how-to-build-a-mobile-barcode-scanner-that-retrieves-product-prices-from-a-custo",
+      "score": 0,
+      "answers": 2,
+      "views": 66,
+      "tags": [
+        "javascript",
+        "python",
+        "c#",
+        "barcode"
+      ]
+    },
+    {
+      "rank": 14,
+      "title": "Use designated initializer for std::optional struct members",
+      "url": "https://stackoverflow.com/questions/79929662/use-designated-initializer-for-stdoptional-struct-members",
+      "score": 0,
+      "answers": 0,
+      "views": 59,
+      "tags": [
+        "c++",
+        "c++20"
+      ]
+    },
+    {
+      "rank": 15,
       "title": "Is strtol(str, &str, 10) legal in C99 due to restrict aliasing?",
       "url": "https://stackoverflow.com/questions/79929448/is-strtolstr-str-10-legal-in-c99-due-to-restrict-aliasing",
-      "score": 6,
+      "score": 7,
       "answers": 2,
-      "views": 84,
+      "views": 128,
       "tags": [
         "c",
         "language-lawyer",
@@ -170,154 +203,123 @@
       ]
     },
     {
-      "rank": 14,
-      "title": "PowerSync: How to serialize data for crud upload",
-      "url": "https://stackoverflow.com/questions/79929541/powersync-how-to-serialize-data-for-crud-upload",
+      "rank": 16,
+      "title": "Loaded 3D models have inconsistent sizes — how can I normalize their scale?",
+      "url": "https://stackoverflow.com/questions/79929671/loaded-3d-models-have-inconsistent-sizes-how-can-i-normalize-their-scale",
       "score": 0,
       "answers": 0,
-      "views": 12,
+      "views": 44,
       "tags": [
-        "sql",
-        "kotlin"
+        "unity-game-engine"
       ]
     },
     {
-      "rank": 15,
+      "rank": 17,
+      "title": "Derived attribute storing",
+      "url": "https://stackoverflow.com/questions/79929634/derived-attribute-storing",
+      "score": 0,
+      "answers": 2,
+      "views": 28,
+      "tags": [
+        "database",
+        "database-design",
+        "architecture"
+      ]
+    },
+    {
+      "rank": 18,
+      "title": "How to filter llvm tests by name",
+      "url": "https://stackoverflow.com/questions/79929680/how-to-filter-llvm-tests-by-name",
+      "score": 1,
+      "answers": 1,
+      "views": 28,
+      "tags": [
+        "llvm",
+        "ninja"
+      ]
+    },
+    {
+      "rank": 19,
       "title": "Apparently my code is AI generated (Except it's not)",
       "url": "https://stackoverflow.com/questions/79929371/apparently-my-code-is-ai-generated-except-its-not",
       "score": 5,
-      "answers": 5,
-      "views": 168,
+      "answers": 7,
+      "views": 194,
       "tags": [
         "c#"
       ]
     },
     {
-      "rank": 16,
-      "title": "When should I call `globfree` on a `glob_t`?",
-      "url": "https://stackoverflow.com/questions/79929487/when-should-i-call-globfree-on-a-glob-t",
-      "score": 4,
-      "answers": 1,
-      "views": 44,
-      "tags": [
-        "c",
-        "posix",
-        "glob"
-      ]
-    },
-    {
-      "rank": 17,
-      "title": "Insert class methods not working with class inside another class",
-      "url": "https://stackoverflow.com/questions/79929442/insert-class-methods-not-working-with-class-inside-another-class",
-      "score": 0,
-      "answers": 0,
-      "views": 69,
-      "tags": [
-        "c++",
-        "codeblocks"
-      ]
-    },
-    {
-      "rank": 18,
-      "title": "Can NASM behave like a 8086 assembler?",
-      "url": "https://stackoverflow.com/questions/79929484/can-nasm-behave-like-a-8086-assembler",
-      "score": 0,
-      "answers": 1,
-      "views": 38,
-      "tags": [
-        "assembly",
-        "x86",
-        "nasm",
-        "x86-16"
-      ]
-    },
-    {
-      "rank": 19,
-      "title": "How to be accepted by Google AdSense",
-      "url": "https://stackoverflow.com/questions/79929476/how-to-be-accepted-by-google-adsense",
-      "score": 0,
-      "answers": 0,
-      "views": 32,
-      "tags": [
-        "adsense",
-        "adsense-api",
-        "google-ads-script"
-      ]
-    },
-    {
       "rank": 20,
-      "title": "How do I copy files to a volume when composing?",
-      "url": "https://stackoverflow.com/questions/79929481/how-do-i-copy-files-to-a-volume-when-composing",
+      "title": "How can I read and parse a semicolon-separated file into objects in C# in a clean and readable way?",
+      "url": "https://stackoverflow.com/questions/79929612/how-can-i-read-and-parse-a-semicolon-separated-file-into-objects-in-c-in-a-clea",
       "score": 0,
-      "answers": 1,
-      "views": 25,
+      "answers": 4,
+      "views": 48,
       "tags": [
-        "docker-compose",
-        "docker-volume"
+        "c#"
       ]
     },
     {
       "rank": 21,
-      "title": "Repeated CUDA kernel calls get slower, not faster",
-      "url": "https://stackoverflow.com/questions/79929471/repeated-cuda-kernel-calls-get-slower-not-faster",
+      "title": "Error converting python DataFrame to MATLAB table",
+      "url": "https://stackoverflow.com/questions/79929669/error-converting-python-dataframe-to-matlab-table",
       "score": 0,
       "answers": 0,
-      "views": 24,
+      "views": 32,
       "tags": [
-        "cuda"
+        "python",
+        "pandas",
+        "matlab",
+        "data-conversion"
       ]
     },
     {
       "rank": 22,
-      "title": "Ask for help for optimize the model to be fast",
-      "url": "https://stackoverflow.com/questions/79929489/ask-for-help-for-optimize-the-model-to-be-fast",
-      "score": 0,
-      "answers": 0,
-      "views": 22,
+      "title": "Why doesn't TypeScript type narrowing work here",
+      "url": "https://stackoverflow.com/questions/79929601/why-doesnt-typescript-type-narrowing-work-here",
+      "score": -1,
+      "answers": 1,
+      "views": 49,
       "tags": [
-        "optimization",
-        "deep-learning",
-        "pytorch",
-        "nlp"
+        "typescript"
       ]
     },
     {
       "rank": 23,
-      "title": "AVCapture layerPointConverted gives device coordinates incorrectly",
-      "url": "https://stackoverflow.com/questions/79929473/avcapture-layerpointconverted-gives-device-coordinates-incorrectly",
+      "title": "What is the significance of the number 2147480064",
+      "url": "https://stackoverflow.com/questions/79929621/what-is-the-significance-of-the-number-2147480064",
       "score": 0,
-      "answers": 0,
-      "views": 21,
+      "answers": 1,
+      "views": 67,
       "tags": [
-        "ios",
-        "swift",
-        "avcapturedevice"
+        "floating-point",
+        "precision",
+        "integer-overflow"
       ]
     },
     {
       "rank": 24,
-      "title": "Wazuh Not Ingesting Logs",
-      "url": "https://stackoverflow.com/questions/79929493/wazuh-not-ingesting-logs",
+      "title": "AKS deployment consistently fail due to readiness probe status code 500",
+      "url": "https://stackoverflow.com/questions/79929639/aks-deployment-consistently-fail-due-to-readiness-probe-status-code-500",
       "score": 0,
       "answers": 0,
-      "views": 21,
+      "views": 54,
       "tags": [
-        "filebeat",
-        "wazuh"
+        "kubernetes",
+        "azure-aks"
       ]
     },
     {
       "rank": 25,
-      "title": "AspNet Core Serilog logging in a Docker container",
-      "url": "https://stackoverflow.com/questions/79929467/aspnet-core-serilog-logging-in-a-docker-container",
-      "score": 0,
+      "title": "Why does chmod 600 result in 777 permissions in WSL2?",
+      "url": "https://stackoverflow.com/questions/79929628/why-does-chmod-600-result-in-777-permissions-in-wsl2",
+      "score": -1,
       "answers": 0,
-      "views": 20,
+      "views": 44,
       "tags": [
-        ".net",
-        "docker",
-        "asp.net-core",
-        "serilog"
+        "linux",
+        "ssh"
       ]
     }
   ]
