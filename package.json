@@ -1,0 +1,17 @@
+{
+  "name": "web-pulse",
+  "version": "0.1.0",
+  "description": "A live dashboard of what the world is doing on the web — Wikipedia, HN, Reddit, GitHub, Google Trends, Cloudflare Radar.",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "fetch": "node scripts/fetch-all.mjs",
+    "serve": "python3 -m http.server 8080"
+  },
+  "dependencies": {
+    "node-html-parser": "^6.1.13"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

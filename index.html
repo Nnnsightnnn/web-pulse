@@ -1,0 +1,402 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Web Pulse — what the world is doing on the web</title>
+  <meta name="description" content="A daily snapshot of what people are reading, discussing, and building across the web." />
+  <style>
+    :root {
+      --bg: #0a0a0a;
+      --card: #141414;
+      --card-hover: #1a1a1a;
+      --border: #262626;
+      --text: #e8e8e8;
+      --muted: #888;
+      --dim: #555;
+      --accent: #f5a524;
+      --up: #22c55e;
+      --down: #ef4444;
+      --mono: ui-monospace, "SF Mono", Menlo, Consolas, monospace;
+      --sans: ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    }
+    @media (prefers-color-scheme: light) {
+      :root {
+        --bg: #fafafa;
+        --card: #fff;
+        --card-hover: #f4f4f4;
+        --border: #e5e5e5;
+        --text: #111;
+        --muted: #666;
+        --dim: #999;
+      }
+    }
+    * { box-sizing: border-box; }
+    html, body { margin: 0; padding: 0; }
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: var(--sans);
+      font-size: 14px;
+      line-height: 1.45;
+      -webkit-font-smoothing: antialiased;
+    }
+    header.site {
+      padding: 28px 24px 18px;
+      border-bottom: 1px solid var(--border);
+      display: flex;
+      align-items: baseline;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    header.site h1 {
+      margin: 0;
+      font-size: 18px;
+      font-weight: 600;
+      letter-spacing: -0.01em;
+    }
+    header.site h1 span.dot {
+      display: inline-block;
+      width: 8px; height: 8px;
+      background: var(--accent);
+      border-radius: 50%;
+      margin-right: 8px;
+      vertical-align: 2px;
+    }
+    header.site .meta {
+      font-family: var(--mono);
+      font-size: 12px;
+      color: var(--muted);
+    }
+
+    main {
+      padding: 20px;
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(360px, 1fr));
+      gap: 16px;
+      max-width: 1600px;
+      margin: 0 auto;
+    }
+
+    .tile {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      overflow: hidden;
+      display: flex;
+      flex-direction: column;
+      min-height: 400px;
+      max-height: 600px;
+    }
+    .tile header {
+      padding: 14px 16px 10px;
+      border-bottom: 1px solid var(--border);
+      display: flex;
+      justify-content: space-between;
+      align-items: baseline;
+      gap: 8px;
+    }
+    .tile h2 {
+      margin: 0;
+      font-size: 13px;
+      font-weight: 600;
+      letter-spacing: 0.02em;
+      text-transform: uppercase;
+      color: var(--text);
+    }
+    .tile .stamp {
+      font-family: var(--mono);
+      font-size: 11px;
+      color: var(--muted);
+      white-space: nowrap;
+    }
+    .tile .body {
+      overflow-y: auto;
+      flex: 1;
+    }
+    .tile .body::-webkit-scrollbar { width: 8px; }
+    .tile .body::-webkit-scrollbar-thumb { background: var(--border); border-radius: 4px; }
+
+    .item {
+      display: grid;
+      grid-template-columns: 28px 1fr auto;
+      gap: 10px;
+      padding: 10px 16px;
+      border-bottom: 1px solid var(--border);
+      align-items: start;
+    }
+    .item:last-child { border-bottom: none; }
+    .item:hover { background: var(--card-hover); }
+    .item .rank {
+      font-family: var(--mono);
+      font-size: 11px;
+      color: var(--dim);
+      padding-top: 1px;
+    }
+    .item .title {
+      font-size: 13px;
+      line-height: 1.4;
+    }
+    .item .title a {
+      color: var(--text);
+      text-decoration: none;
+    }
+    .item .title a:hover { color: var(--accent); }
+    .item .sub {
+      margin-top: 3px;
+      font-family: var(--mono);
+      font-size: 11px;
+      color: var(--muted);
+    }
+    .item .metric {
+      font-family: var(--mono);
+      font-size: 11px;
+      color: var(--muted);
+      white-space: nowrap;
+      padding-top: 1px;
+    }
+
+    .tile.error .body, .tile.empty .body {
+      padding: 20px 16px;
+      color: var(--muted);
+      font-size: 13px;
+    }
+
+    .sparkline {
+      display: inline-block;
+      vertical-align: middle;
+      margin-left: 6px;
+    }
+    .sparkline path.line {
+      fill: none;
+      stroke: var(--accent);
+      stroke-width: 1.2;
+      opacity: 0.75;
+    }
+
+    footer {
+      padding: 28px 24px 40px;
+      text-align: center;
+      font-family: var(--mono);
+      font-size: 11px;
+      color: var(--dim);
+    }
+    footer a { color: var(--muted); text-decoration: none; }
+    footer a:hover { color: var(--accent); }
+  </style>
+</head>
+<body>
+  <header class="site">
+    <h1><span class="dot"></span>Web Pulse</h1>
+    <div class="meta" id="generated">—</div>
+  </header>
+
+  <main id="grid"></main>
+
+  <footer>
+    auto-refreshes daily · <a id="repo-link" href="#" target="_blank" rel="noopener">source</a>
+  </footer>
+
+  <script type="module">
+    // ---- helpers -----------------------------------------------------------
+    const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({
+      "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;",
+    }[c]));
+    const fmt = (n) => {
+      if (n == null) return "";
+      if (n >= 1_000_000) return (n / 1_000_000).toFixed(1).replace(/\.0$/, "") + "M";
+      if (n >= 1_000) return (n / 1_000).toFixed(1).replace(/\.0$/, "") + "k";
+      return String(n);
+    };
+    const rel = (iso) => {
+      if (!iso) return "—";
+      const d = new Date(iso);
+      const diff = (Date.now() - d.getTime()) / 1000;
+      if (diff < 60) return `${Math.round(diff)}s ago`;
+      if (diff < 3600) return `${Math.round(diff / 60)}m ago`;
+      if (diff < 86400) return `${Math.round(diff / 3600)}h ago`;
+      return `${Math.round(diff / 86400)}d ago`;
+    };
+
+    // ---- sparkline ---------------------------------------------------------
+    function sparkline(values, w = 48, h = 16) {
+      if (!values || values.length < 2) return "";
+      const min = Math.min(...values);
+      const max = Math.max(...values);
+      const range = max - min || 1;
+      const step = w / (values.length - 1);
+      const pts = values.map((v, i) => {
+        const x = i * step;
+        const y = h - ((v - min) / range) * h;
+        return `${x.toFixed(1)},${y.toFixed(1)}`;
+      });
+      return `<svg class="sparkline" width="${w}" height="${h}" viewBox="0 0 ${w} ${h}"><path class="line" d="M${pts.join(" L")}"/></svg>`;
+    }
+
+    // ---- per-source renderers ---------------------------------------------
+    const renderers = {
+      wikipedia(data, history) {
+        return data.items.map((it) => {
+          const series = history?.[it.title];
+          const spark = series && series.length >= 2 ? sparkline(series) : "";
+          return `
+            <div class="item">
+              <div class="rank">${it.rank}</div>
+              <div>
+                <div class="title"><a href="${esc(it.url)}" target="_blank" rel="noopener">${esc(it.title)}</a>${spark}</div>
+                <div class="sub">${fmt(it.views)} views</div>
+              </div>
+              <div class="metric">${fmt(it.views)}</div>
+            </div>`;
+        }).join("");
+      },
+      hackernews(data) {
+        return data.items.map((it) => `
+          <div class="item">
+            <div class="rank">${it.rank}</div>
+            <div>
+              <div class="title"><a href="${esc(it.url)}" target="_blank" rel="noopener">${esc(it.title)}</a></div>
+              <div class="sub">${it.score} pts · <a href="${esc(it.hn_url)}" target="_blank" rel="noopener" style="color:inherit">${it.comments} comments</a> · ${esc(it.author)}</div>
+            </div>
+            <div class="metric">${it.score}</div>
+          </div>`).join("");
+      },
+      reddit(data) {
+        return data.items.map((it) => `
+          <div class="item">
+            <div class="rank">${it.rank}</div>
+            <div>
+              <div class="title"><a href="${esc(it.url)}" target="_blank" rel="noopener">${esc(it.title)}</a></div>
+              <div class="sub">${esc(it.subreddit)} · ${fmt(it.score)} · ${it.comments} comments</div>
+            </div>
+            <div class="metric">${fmt(it.score)}</div>
+          </div>`).join("");
+      },
+      github(data) {
+        return data.items.map((it) => `
+          <div class="item">
+            <div class="rank">${it.rank}</div>
+            <div>
+              <div class="title"><a href="${esc(it.url)}" target="_blank" rel="noopener">${esc(it.title)}</a></div>
+              <div class="sub">${esc(it.language || "—")} · ${esc(it.description || "").slice(0, 110)}</div>
+            </div>
+            <div class="metric">${it.stars_today != null ? `+${fmt(it.stars_today)}` : fmt(it.stars)}</div>
+          </div>`).join("");
+      },
+      "google-trends"(data) {
+        return data.items.map((it) => `
+          <div class="item">
+            <div class="rank">${it.rank}</div>
+            <div>
+              <div class="title">${it.news_url ? `<a href="${esc(it.news_url)}" target="_blank" rel="noopener">${esc(it.title)}</a>` : esc(it.title)}</div>
+              <div class="sub">${it.geos.join(" · ")}${it.news_source ? ` · ${esc(it.news_source)}` : ""}</div>
+            </div>
+            <div class="metric">${it.geos.length}×</div>
+          </div>`).join("");
+      },
+      "cloudflare-radar"(data) {
+        if (!data.configured) {
+          return `<div style="padding:20px 16px;color:var(--muted);font-size:13px">
+            ${esc(data.message || "Not configured.")}
+          </div>`;
+        }
+        return data.items.map((it) => `
+          <div class="item">
+            <div class="rank">${it.rank}</div>
+            <div>
+              <div class="title"><a href="${esc(it.url)}" target="_blank" rel="noopener">${esc(it.title)}</a></div>
+              ${it.category ? `<div class="sub">${esc(it.category)}</div>` : ""}
+            </div>
+          </div>`).join("");
+      },
+    };
+
+    // ---- load history for wikipedia sparklines -----------------------------
+    async function loadWikipediaHistory() {
+      const byTitle = {};
+      const today = new Date();
+      const days = 7;
+      for (let i = days - 1; i >= 0; i--) {
+        const d = new Date(today);
+        d.setUTCDate(d.getUTCDate() - i);
+        const stamp = d.toISOString().slice(0, 10);
+        try {
+          const r = await fetch(`data/history/wikipedia/${stamp}.json`, { cache: "no-store" });
+          if (!r.ok) continue;
+          const day = await r.json();
+          for (const it of day.items || []) {
+            if (!byTitle[it.title]) byTitle[it.title] = [];
+            byTitle[it.title].push(it.views);
+          }
+        } catch { /* ignore */ }
+      }
+      return byTitle;
+    }
+
+    // ---- layout ------------------------------------------------------------
+    const ORDER = ["wikipedia", "hackernews", "reddit", "github", "google-trends", "cloudflare-radar"];
+
+    async function load() {
+      const res = await fetch(`data/latest.json?t=${Date.now()}`);
+      if (!res.ok) throw new Error(`latest.json: HTTP ${res.status}`);
+      const latest = await res.json();
+
+      document.getElementById("generated").textContent = `updated ${rel(latest.generated_at)}`;
+
+      const wikiHistory = await loadWikipediaHistory();
+
+      const grid = document.getElementById("grid");
+      grid.innerHTML = "";
+      for (const key of ORDER) {
+        const data = latest.sources[key];
+        if (!data) continue;
+
+        const tile = document.createElement("section");
+        tile.className = "tile";
+
+        const label = data.label || key;
+        const stamp = data.error ? "error" : (data.data_date ? `for ${data.data_date}` : rel(data.fetched_at));
+
+        let body = "";
+        if (data.error) {
+          tile.classList.add("error");
+          body = `<div>Failed to load: ${esc(data.error)}</div>`;
+        } else if (!data.items || data.items.length === 0) {
+          if (key === "cloudflare-radar" && data.configured === false) {
+            body = renderers["cloudflare-radar"](data);
+          } else {
+            tile.classList.add("empty");
+            body = `<div>No items.</div>`;
+          }
+        } else {
+          body = renderers[key](data, key === "wikipedia" ? wikiHistory : null);
+        }
+
+        tile.innerHTML = `
+          <header>
+            <h2>${esc(label)}</h2>
+            <span class="stamp">${esc(stamp)}</span>
+          </header>
+          <div class="body">${body}</div>
+        `;
+        grid.appendChild(tile);
+      }
+    }
+
+    load().catch((err) => {
+      document.getElementById("grid").innerHTML =
+        `<div style="padding:40px;color:var(--muted)">Failed to load data: ${esc(err.message)}</div>`;
+    });
+
+    // Re-load when the tab regains focus (but not more than once per 30s).
+    let lastLoad = Date.now();
+    document.addEventListener("visibilitychange", () => {
+      if (document.visibilityState === "visible" && Date.now() - lastLoad > 30_000) {
+        lastLoad = Date.now();
+        load().catch(() => {});
+      }
+    });
+  </script>
+</body>
+</html>
