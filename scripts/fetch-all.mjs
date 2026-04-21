@@ -10,6 +10,7 @@
 import "./env.mjs";
 
 import { clusterItems } from "./cluster.mjs";
+import { generateBrief } from "./brief.mjs";
 import { writeFile, mkdir, readdir } from "node:fs/promises";
 import { dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";
@@ -96,6 +97,13 @@ async function run() {
     sources: byName,
     clusters,
   };
+
+  try {
+    latest.brief = generateBrief(latest);
+  } catch (err) {
+    console.warn("  brief generation failed:", err.message);
+    latest.brief = "";
+  }
 
   await mkdir(DATA_DIR, { recursive: true });
   await writeFile(join(DATA_DIR, "latest.json"), JSON.stringify(latest, null, 2));

@@ -230,6 +230,64 @@
       .badge-bluesky         { background: #e0e7ff; color: #3730a3; }
     }
 
+    .filter-bar {
+      padding: 12px 20px; display: flex; flex-wrap: wrap; gap: 8px;
+      border-bottom: 1px solid var(--border);
+    }
+    .filter-bar button {
+      font-family: var(--mono); font-size: 12px; padding: 4px 12px;
+      border-radius: 14px; border: 1px solid var(--border);
+      background: transparent; color: var(--muted); cursor: pointer;
+    }
+    .filter-bar button:hover { border-color: var(--accent); color: var(--text); }
+    .filter-bar button.active { background: var(--accent); color: var(--bg); border-color: var(--accent); }
+
+    #search {
+      font-family: var(--mono); font-size: 13px; padding: 6px 12px;
+      border: 1px solid var(--border); border-radius: 6px;
+      background: var(--bg); color: var(--text); width: 200px; outline: none;
+    }
+    #search:focus { border-color: var(--accent); }
+    .item.search-hidden { display: none; }
+    .tile.filtered-empty .body::after {
+      content: "No matches"; display: block; padding: 20px 16px;
+      color: var(--muted); font-size: 13px;
+    }
+
+    .brief {
+      max-width: 1600px; margin: 0 auto; padding: 16px 20px;
+      border-bottom: 1px solid var(--border);
+    }
+    .brief-label {
+      margin: 0 0 4px; font-family: var(--mono); font-size: 11px;
+      text-transform: uppercase; letter-spacing: 0.04em; color: var(--muted);
+    }
+    .brief-text { margin: 0; font-size: 14px; line-height: 1.6; color: var(--text); }
+
+    .history-view { max-width: 1000px; margin: 0 auto; padding: 20px; }
+    .history-header { margin-bottom: 24px; }
+    .back-link { font-family: var(--mono); font-size: 12px; color: var(--muted); text-decoration: none; }
+    .back-link:hover { color: var(--accent); }
+    .history-view h2 { font-size: 18px; margin: 8px 0 4px; }
+    .history-meta { font-family: var(--mono); font-size: 12px; color: var(--muted); margin: 0; }
+    .history-chart {
+      background: var(--card); border: 1px solid var(--border);
+      border-radius: 10px; padding: 20px; margin-bottom: 20px;
+    }
+    .history-items {
+      background: var(--card); border: 1px solid var(--border);
+      border-radius: 10px; overflow: hidden;
+    }
+    .history-items h3 {
+      font-size: 13px; text-transform: uppercase; letter-spacing: 0.02em;
+      padding: 14px 16px; margin: 0; border-bottom: 1px solid var(--border);
+    }
+
+    @media (max-width: 600px) {
+      #search { width: 100%; }
+      header.site { flex-direction: column; }
+    }
+
     footer {
       padding: 28px 24px 40px;
       text-align: center;
@@ -248,8 +306,24 @@
       <button data-view="today" class="active">Today</button>
       <button data-view="week">This week</button>
     </div>
+    <input type="search" id="search" placeholder="Search everything..." autocomplete="off" />
     <div class="meta" id="generated">—</div>
   </header>
+
+  <nav class="filter-bar" id="filter-bar">
+    <button data-filter="all" class="active">All</button>
+    <button data-filter="tech">Tech</button>
+    <button data-filter="news">News</button>
+    <button data-filter="entertainment">Entertainment</button>
+    <button data-filter="gaming">Gaming</button>
+    <button data-filter="social">Social</button>
+    <button data-filter="global">Global</button>
+  </nav>
+
+  <section class="brief" id="brief" style="display:none">
+    <p class="brief-label">Today's brief</p>
+    <p class="brief-text" id="brief-text"></p>
+  </section>
 
   <main id="grid"></main>
 
@@ -630,6 +704,15 @@
       }).join("")
     }
 
+    // ---- tile categories ---------------------------------------------------
+    const TILE_CATEGORIES = {
+      wikipedia: ["news", "culture"], hackernews: ["tech"], reddit: ["news", "culture"],
+      github: ["tech"], "google-trends": ["news", "global"],
+      "cloudflare-radar": ["tech", "global"], gdelt: ["news", "global"],
+      youtube: ["entertainment"], steam: ["gaming"],
+      bluesky: ["social"], stackoverflow: ["tech"],
+    }
+
     // ---- layout ------------------------------------------------------------
     const ORDER = [
       "hackernews", "github", "stackoverflow",
@@ -639,22 +722,70 @@
       "cloudflare-radar",
     ]
 
-    let currentView = location.hash === "#view=week" ? "week" : "today"
+    // ---- hash routing ------------------------------------------------------
+    function parseHash() {
+      const params = new URLSearchParams(location.hash.slice(1))
+      return {
+        view: params.get("view") || "today",
+        filter: params.get("filter") || "all",
+        history: params.get("history") || null,
+      }
+    }
 
-    async function load() {
+    function setHash(updates) {
+      const current = parseHash()
+      const merged = { ...current, ...updates }
+      const params = new URLSearchParams()
+      if (merged.view !== "today") params.set("view", merged.view)
+      if (merged.filter !== "all") params.set("filter", merged.filter)
+      if (merged.history) params.set("history", merged.history)
+      const str = params.toString()
+      history.pushState(null, "", str ? `#${str}` : window.location.pathname)
+      route()
+    }
+
+    // ---- data fetching (cached) --------------------------------------------
+    let _latestData = null
+    let _historyData = null
+
+    async function fetchData() {
       const res = await fetch(`data/latest.json?t=${Date.now()}`)
       if (!res.ok) throw new Error(`latest.json: HTTP ${res.status}`)
-      const latest = await res.json()
+      _latestData = await res.json()
+      document.getElementById("generated").textContent = `updated ${rel(_latestData.generated_at)}`
+      _historyData = await loadHistory(7)
+    }
 
-      document.getElementById("generated").textContent = `updated ${rel(latest.generated_at)}`
+    // ---- grid view ---------------------------------------------------------
+    function showGridView(state) {
+      const latest = _latestData
+      if (!latest) return
 
-      const history = await loadHistory(7)
+      // Show filter bar and brief
+      document.getElementById("filter-bar").style.display = ""
+      const briefEl = document.getElementById("brief")
+      if (latest.brief && state.view === "today") {
+        document.getElementById("brief-text").textContent = latest.brief
+        briefEl.style.display = ""
+      } else {
+        briefEl.style.display = "none"
+      }
+
+      // Sync view toggle
+      document.querySelectorAll(".view-toggle button").forEach(b =>
+        b.classList.toggle("active", b.dataset.view === state.view)
+      )
+
+      // Sync filter bar
+      document.querySelectorAll(".filter-bar button").forEach(b =>
+        b.classList.toggle("active", b.dataset.filter === state.filter)
+      )
 
       const grid = document.getElementById("grid")
       grid.innerHTML = ""
 
-      // Cluster tile (full-width, prepended)
-      if (currentView === "today" && latest.clusters && latest.clusters.length > 0) {
+      // Cluster tile (full-width, today view only)
+      if (state.view === "today" && state.filter === "all" && latest.clusters?.length > 0) {
         const clusterTile = document.createElement("section")
         clusterTile.className = "tile tile-wide"
         clusterTile.innerHTML = `
@@ -671,8 +802,14 @@
         const data = latest.sources[key]
         if (!data) continue
 
+        const cats = TILE_CATEGORIES[key] || []
+
+        // Category filter
+        if (state.filter !== "all" && !cats.includes(state.filter)) continue
+
         const tile = document.createElement("section")
         tile.className = "tile"
+        tile.setAttribute("data-categories", cats.join(" "))
 
         const label = data.label || key
         const stamp = data.error ? "error" : (data.data_date ? `for ${data.data_date}` : rel(data.fetched_at))
@@ -682,25 +819,25 @@
           tile.classList.add("error")
           body = `<div>Failed to load: ${esc(data.error)}</div>`
         } else if (!data.items || data.items.length === 0) {
-          if (key === "cloudflare-radar" && data.configured === false) {
-            body = renderers["cloudflare-radar"](data, [])
+          if ((key === "cloudflare-radar" || key === "youtube") && data.configured === false) {
+            body = renderers[key](data, [])
           } else {
             tile.classList.add("empty")
             body = `<div>No items.</div>`
           }
-        } else if (currentView === "week") {
-          const weekItems = aggregateWeek(key, history)
-          const ann = annotate(key, weekItems, history)
+        } else if (state.view === "week") {
+          const weekItems = aggregateWeek(key, _historyData)
+          const ann = annotate(key, weekItems, _historyData)
           body = renderers[key]({ ...data, items: weekItems }, ann)
         } else {
-          const ann = annotate(key, data.items, history)
+          const ann = annotate(key, data.items, _historyData)
           body = renderers[key](data, ann)
         }
 
         tile.innerHTML = `
           <header>
             <h2>${esc(label)}</h2>
-            <span class="stamp">${currentView === "week" ? "this week" : esc(stamp)}</span>
+            <span class="stamp">${state.view === "week" ? "this week" : esc(stamp)}</span>
           </header>
           <div class="body">${body}</div>
         `
@@ -708,27 +845,162 @@
       }
     }
 
+    // ---- history view ------------------------------------------------------
+    function renderBarChart(dailyCounts) {
+      if (!dailyCounts.length) return "<p style='color:var(--muted)'>No data found.</p>"
+      const maxCount = Math.max(...dailyCounts.map(d => d.count), 1)
+      const barW = Math.max(4, Math.floor(600 / dailyCounts.length) - 2)
+      const gap = 2
+      const h = 160
+      let bars = ""
+      dailyCounts.forEach((d, i) => {
+        const barH = Math.max(1, (d.count / maxCount) * (h - 24))
+        const x = i * (barW + gap)
+        const y = h - 24 - barH
+        bars += `<rect x="${x}" y="${y}" width="${barW}" height="${barH}" fill="var(--accent)" opacity="0.8" rx="1"><title>${d.date}: ${d.count} match${d.count !== 1 ? "es" : ""}</title></rect>`
+        if (i % 7 === 0) {
+          bars += `<text x="${x}" y="${h - 6}" font-size="9" fill="var(--muted)" font-family="var(--mono)">${d.date.slice(5)}</text>`
+        }
+      })
+      const totalW = dailyCounts.length * (barW + gap)
+      return `<svg width="100%" viewBox="0 0 ${totalW} ${h}" preserveAspectRatio="xMinYMid meet">${bars}</svg>`
+    }
+
+    async function showHistoryView(keyword) {
+      document.getElementById("brief").style.display = "none"
+      document.getElementById("filter-bar").style.display = "none"
+
+      const grid = document.getElementById("grid")
+      grid.innerHTML = '<div class="history-view"><p style="color:var(--muted)">Loading history...</p></div>'
+
+      const allSources = Object.keys(_latestData?.sources || {})
+      const days = 30
+      const today = new Date()
+      const dates = []
+      for (let i = days - 1; i >= 0; i--) {
+        const d = new Date(today)
+        d.setUTCDate(d.getUTCDate() - i)
+        dates.push(d.toISOString().slice(0, 10))
+      }
+
+      const matchesByDate = {}
+      const allMatches = []
+      const lowerKeyword = keyword.toLowerCase()
+      for (const date of dates) matchesByDate[date] = 0
+
+      const fetches = []
+      for (const source of allSources) {
+        for (const date of dates) {
+          fetches.push(
+            fetch(`data/history/${source}/${date}.json`, { cache: "no-store" })
+              .then(r => r.ok ? r.json() : null)
+              .catch(() => null)
+              .then(data => {
+                if (!data?.items) return
+                for (const item of data.items) {
+                  if ((item.title || "").toLowerCase().includes(lowerKeyword)) {
+                    matchesByDate[date] = (matchesByDate[date] || 0) + 1
+                    allMatches.push({ ...item, source, date })
+                  }
+                }
+              })
+          )
+        }
+      }
+
+      await Promise.all(fetches)
+
+      const dailyCounts = dates.map(date => ({ date, count: matchesByDate[date] || 0 }))
+      const topItems = allMatches
+        .sort((a, b) => (a.rank || 99) - (b.rank || 99))
+        .slice(0, 20)
+
+      grid.innerHTML = `
+        <div class="history-view">
+          <div class="history-header">
+            <a href="#" class="back-link" id="history-back">\u2190 Back to dashboard</a>
+            <h2>History: \u201c${esc(keyword)}\u201d</h2>
+            <p class="history-meta">Last ${days} days across ${allSources.length} sources \u00b7 ${allMatches.length} total matches</p>
+          </div>
+          <div class="history-chart">${renderBarChart(dailyCounts)}</div>
+          <div class="history-items">
+            <h3>Top matching items</h3>
+            ${topItems.map(it => `
+              <div class="item">
+                <div class="rank" style="font-size:10px">${esc(it.source)}</div>
+                <div>
+                  <div class="title"><a href="${esc(it.url || "#")}" target="_blank" rel="noopener">${esc(it.title)}</a></div>
+                  <div class="sub">${esc(it.date)}</div>
+                </div>
+              </div>
+            `).join("")}
+            ${topItems.length === 0 ? '<p style="color:var(--muted);padding:16px">No matching items found.</p>' : ""}
+          </div>
+        </div>
+      `
+
+      document.getElementById("history-back").addEventListener("click", (e) => {
+        e.preventDefault()
+        setHash({ history: null })
+      })
+    }
+
+    // ---- routing -----------------------------------------------------------
+    function route() {
+      const state = parseHash()
+      if (state.history) {
+        showHistoryView(state.history)
+      } else {
+        showGridView(state)
+      }
+    }
+
+    window.addEventListener("hashchange", route)
+
+    // ---- search ------------------------------------------------------------
+    let _searchTimer = null
+    document.getElementById("search").addEventListener("input", (e) => {
+      clearTimeout(_searchTimer)
+      _searchTimer = setTimeout(() => {
+        const query = e.target.value.trim().toLowerCase()
+        document.querySelectorAll(".tile .item").forEach(item => {
+          const text = (item.querySelector(".title")?.textContent || "") +
+            " " + (item.querySelector(".sub")?.textContent || "")
+          item.classList.toggle("search-hidden", query.length > 0 && !text.toLowerCase().includes(query))
+        })
+        // Mark tiles with all items hidden
+        document.querySelectorAll(".tile:not(.tile-wide)").forEach(tile => {
+          const items = tile.querySelectorAll(".item")
+          const visible = tile.querySelectorAll(".item:not(.search-hidden)")
+          tile.classList.toggle("filtered-empty", items.length > 0 && visible.length === 0)
+        })
+      }, 100)
+    })
+
+    // Enter in search -> history view
+    document.getElementById("search").addEventListener("keydown", (e) => {
+      if (e.key === "Enter") {
+        const q = e.target.value.trim()
+        if (q) setHash({ history: q })
+      }
+    })
+
     // ---- view toggle -------------------------------------------------------
     document.querySelector(".view-toggle").addEventListener("click", (e) => {
       const btn = e.target.closest("button[data-view]")
       if (!btn) return
-      const view = btn.dataset.view
-      if (view === currentView) return
-      currentView = view
-      location.hash = view === "week" ? "#view=week" : ""
-      document.querySelectorAll(".view-toggle button").forEach(b =>
-        b.classList.toggle("active", b.dataset.view === view)
-      )
-      load().catch(() => {})
+      setHash({ view: btn.dataset.view })
     })
 
-    // Sync toggle state on load
-    document.querySelectorAll(".view-toggle button").forEach(b =>
-      b.classList.toggle("active", b.dataset.view === currentView)
-    )
+    // ---- filter bar --------------------------------------------------------
+    document.getElementById("filter-bar").addEventListener("click", (e) => {
+      const btn = e.target.closest("button[data-filter]")
+      if (!btn) return
+      setHash({ filter: btn.dataset.filter })
+    })
 
     // ---- init --------------------------------------------------------------
-    load().catch((err) => {
+    fetchData().then(() => route()).catch((err) => {
       document.getElementById("grid").innerHTML =
         `<div style="padding:40px;color:var(--muted)">Failed to load data: ${esc(err.message)}</div>`
     })
@@ -738,7 +1010,7 @@
     document.addEventListener("visibilitychange", () => {
       if (document.visibilityState === "visible" && Date.now() - lastLoad > 30_000) {
         lastLoad = Date.now()
-        load().catch(() => {})
+        fetchData().then(() => route()).catch(() => {})
       }
     })
   </script>
