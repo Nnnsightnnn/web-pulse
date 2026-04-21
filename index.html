@@ -233,28 +233,41 @@
       letter-spacing: 0.04em; white-space: nowrap; pointer-events: none;
     }
     .item.blob {
+      /* reset .item base styles that cause oval distortion */
+      display: block; grid-template-columns: none; gap: 0;
+      padding: 0; border-bottom: none; align-items: initial;
+      background: none !important;
+      /* blob positioning */
       position: absolute; border-radius: 50%;
       transform: translate(-50%, -50%);
-      transition: transform 150ms ease;
+      transition: transform 180ms ease;
       z-index: 1; visibility: hidden;
+      aspect-ratio: 1 / 1;
     }
-    .item.blob:hover { transform: translate(-50%, -50%) scale(1.1); z-index: 10; }
+    .item.blob:last-child { border-bottom: none; }
+    .item.blob:hover {
+      transform: translate(-50%, -50%) scale(1.12);
+      z-index: 10;
+    }
     .item.blob .blob-circle {
       width: 100%; height: 100%; border-radius: 50%;
       display: flex; flex-direction: column; align-items: center; justify-content: center;
-      text-align: center; text-decoration: none; padding: 6px; overflow: hidden;
-      border: 1px solid; transition: border-color 150ms ease, box-shadow 150ms ease;
+      text-align: center; text-decoration: none; padding: 8px; overflow: hidden;
+      border: 1.5px solid; transition: border-color 180ms ease, box-shadow 180ms ease;
+      aspect-ratio: 1 / 1;
     }
-    .item.blob:hover .blob-circle { box-shadow: 0 0 20px var(--blob-glow); }
+    .item.blob:hover .blob-circle {
+      box-shadow: 0 0 24px var(--blob-glow), inset 0 0 16px var(--blob-glow);
+    }
     .item.blob .blob-title {
-      font-size: 10px; line-height: 1.2; color: var(--text);
+      font-size: 10px; line-height: 1.15; color: var(--text); font-weight: 500;
       overflow: hidden; text-overflow: ellipsis;
       display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical;
-      max-width: 100%; word-break: break-word;
+      max-width: 90%; word-break: break-word;
     }
     .item.blob .blob-sub {
-      font-family: var(--mono); font-size: 8px; color: var(--dim);
-      margin-top: 1px; white-space: nowrap;
+      font-family: var(--mono); font-size: 8px; color: var(--muted);
+      margin-top: 2px; white-space: nowrap; opacity: .8;
     }
     .item.blob .blob-badges {
       position: absolute; top: -2px; right: -2px;
@@ -263,12 +276,13 @@
     .item.blob .blob-badges .badge { margin-left: 0; font-size: 7px; padding: 1px 4px; }
     .item.blob .blob-badges .delta { margin-left: 0; font-size: 8px; padding: 0 3px; }
     .item.blob .blob-tip {
-      position: absolute; bottom: calc(100% + 6px); left: 50%;
+      position: absolute; bottom: calc(100% + 8px); left: 50%;
       transform: translateX(-50%); background: var(--deep);
-      border: 1px solid var(--line2); border-radius: 3px;
-      padding: 5px 8px; white-space: nowrap;
+      border: 1px solid var(--line2); border-radius: 4px;
+      padding: 6px 10px; white-space: nowrap;
       opacity: 0; pointer-events: none; transition: opacity 150ms ease;
       z-index: 20; font-size: 11px; color: var(--text);
+      box-shadow: 0 4px 12px rgba(0,0,0,.4);
     }
     .item.blob .blob-tip span { display: block; font-family: var(--mono); font-size: 9px; color: var(--dim); margin-top: 2px; }
     .item.blob:hover .blob-tip { opacity: 1; }
@@ -401,6 +415,111 @@
     }
     footer a { color: var(--muted); text-decoration: none; }
     footer a:hover { color: var(--cyan); }
+
+    /* ---- FAB Navigation ---- */
+    .fab-nav {
+      position: fixed;
+      bottom: 24px;
+      right: 24px;
+      z-index: 50;
+      display: flex;
+      flex-direction: column;
+      align-items: flex-end;
+      gap: 8px;
+      pointer-events: none;
+    }
+    .fab-nav-toggle {
+      pointer-events: auto;
+      width: 48px;
+      height: 48px;
+      border-radius: 50%;
+      border: 1px solid var(--line2);
+      background: var(--deep);
+      color: var(--cyan);
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      box-shadow: 0 4px 20px rgba(0,0,0,.5), 0 0 12px rgba(94,234,212,.15);
+      transition: transform 200ms ease, border-color 200ms ease, box-shadow 200ms ease;
+      backdrop-filter: blur(8px);
+      -webkit-backdrop-filter: blur(8px);
+    }
+    .fab-nav-toggle:hover {
+      border-color: var(--cyan);
+      box-shadow: 0 4px 20px rgba(0,0,0,.5), 0 0 20px rgba(94,234,212,.25);
+      transform: scale(1.08);
+    }
+    .fab-nav.open .fab-nav-toggle {
+      background: var(--surf);
+      border-color: var(--cyan);
+    }
+    .fab-nav-panel {
+      pointer-events: auto;
+      display: flex;
+      flex-direction: column;
+      gap: 2px;
+      background: var(--deep);
+      border: 1px solid var(--line2);
+      border-radius: 4px;
+      padding: 6px;
+      max-height: 70vh;
+      overflow-y: auto;
+      box-shadow: 0 8px 32px rgba(0,0,0,.6);
+      opacity: 0;
+      transform: translateY(8px) scale(0.95);
+      transition: opacity 180ms ease, transform 180ms ease;
+      pointer-events: none;
+      visibility: hidden;
+    }
+    .fab-nav.open .fab-nav-panel {
+      opacity: 1;
+      transform: translateY(0) scale(1);
+      pointer-events: auto;
+      visibility: visible;
+    }
+    .fab-nav-panel::-webkit-scrollbar { width: 4px; }
+    .fab-nav-panel::-webkit-scrollbar-track { background: transparent; }
+    .fab-nav-panel::-webkit-scrollbar-thumb { background: var(--dimmer); border-radius: 2px; }
+    .fab-nav-item {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      padding: 6px 14px 6px 10px;
+      border: none;
+      border-radius: 2px;
+      background: transparent;
+      color: var(--muted);
+      font-family: var(--mono);
+      font-size: 10.5px;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      cursor: pointer;
+      white-space: nowrap;
+      transition: background 150ms ease, color 150ms ease;
+      text-align: left;
+    }
+    .fab-nav-item:hover {
+      background: rgba(94,234,212,.06);
+      color: var(--cyan);
+    }
+    .fab-nav-top {
+      border-bottom: 1px solid var(--border);
+      margin-bottom: 2px;
+      padding-bottom: 8px;
+    }
+    .fab-nav-icon {
+      font-size: 12px;
+      width: 16px;
+      text-align: center;
+      flex-shrink: 0;
+    }
+    .fab-nav.fab-hidden { display: none; }
+    @media (max-width: 600px) {
+      .fab-nav { bottom: 16px; right: 16px; }
+      .fab-nav-toggle { width: 44px; height: 44px; }
+      .fab-nav-panel { max-height: 60vh; }
+    }
   </style>
 </head>
 <body>
@@ -547,33 +666,40 @@
     function packCircles(circles, W, H) {
       const placed = []
       const cx = W / 2, cy = H / 2
+      const pad = 3
       for (const c of circles) {
         if (placed.length === 0) {
           placed.push({ ...c, x: cx, y: cy })
           continue
         }
-        let found = false
-        for (let t = 0; t < 1200; t++) {
-          const angle = t * 0.3
-          const dist = t * 0.28
+        let bestX = cx, bestY = cy, bestDist = Infinity, found = false
+        // tighter spiral: smaller step for denser packing
+        for (let t = 0; t < 2000; t++) {
+          const angle = t * 0.2
+          const dist = t * 0.18
           const x = cx + dist * Math.cos(angle)
           const y = cy + dist * Math.sin(angle)
-          if (x - c.r < 0 || x + c.r > W || y - c.r < 0 || y + c.r > H) continue
+          if (x - c.r < pad || x + c.r > W - pad || y - c.r < pad || y + c.r > H - pad) continue
           let ok = true
           for (const p of placed) {
             const dx = x - p.x, dy = y - p.y
-            if (dx * dx + dy * dy < (c.r + p.r + 2) ** 2) { ok = false; break }
+            if (dx * dx + dy * dy < (c.r + p.r + pad) ** 2) { ok = false; break }
           }
-          if (ok) { placed.push({ ...c, x, y }); found = true; break }
+          if (ok) {
+            const d2 = (x - cx) ** 2 + (y - cy) ** 2
+            if (d2 < bestDist) { bestX = x; bestY = y; bestDist = d2; found = true }
+            // accept first good position near center
+            if (d2 < (c.r * 2) ** 2) break
+          }
         }
-        if (!found) placed.push({ ...c, x: cx, y: cy })
+        if (found) placed.push({ ...c, x: bestX, y: bestY })
       }
       return placed
     }
 
     const BLOB_MAX = 15
-    const BLOB_MAX_R = 55
-    const BLOB_MIN_R = 14
+    const BLOB_MAX_R = 58
+    const BLOB_MIN_R = 16
 
     function renderBlobView(sourceKey, data, items) {
       if (!items || items.length === 0) return ''
@@ -588,28 +714,23 @@
       const maxVal = Math.max(...values, 1)
       const radii = values.map(v => BLOB_MIN_R + (BLOB_MAX_R - BLOB_MIN_R) * Math.sqrt(v / maxVal))
 
-      const blobData = show.map((it, i) => ({
-        r: radii[i], item: it, idx: i,
-      }))
-      blobData.sort((a, b) => b.r - a.r)
-
       let html = show.map((it, i) => {
         const r = radii[i]
         const d = r * 2
         const sub = blobSubtext(sourceKey, it)
-        const bg = `radial-gradient(circle at 35% 35%, ${color}30, ${color}08 70%)`
-        const borderC = `${color}50`
-        const showText = r >= 22
+        const bg = `radial-gradient(circle at 30% 30%, ${color}50, ${color}18 60%, ${color}06 100%)`
+        const borderC = `${color}66`
+        const showText = r >= 24
         const titleHtml = showText
           ? `<span class="blob-title">${esc(it.title)}</span><span class="blob-sub">${esc(sub)}</span>`
           : ''
-        const tipHtml = !showText
+        const tipHtml = r < 24
           ? `<div class="blob-tip">${esc(it.title)}<span>${esc(sub)}</span></div>`
           : ''
         const bdg = badges(it)
         const badgeHtml = bdg ? `<div class="blob-badges">${bdg}</div>` : ''
         const url = it.url || it.hn_url || it.news_url || '#'
-        return `<div class="item blob" style="width:${d}px;height:${d}px;--blob-glow:${color}40" data-blob-idx="${i}">
+        return `<div class="item blob" style="width:${d}px;height:${d}px;--blob-glow:${color}55" data-blob-idx="${i}">
           <a class="blob-circle" href="${esc(url)}" target="_blank" rel="noopener"
              style="background:${bg};border-color:${borderC}">
             ${titleHtml}
@@ -634,9 +755,21 @@
         }))
         circles.sort((a, b) => b.r - a.r)
         const packed = packCircles(circles, W, H)
+        if (packed.length === 0) return
+        // re-center the packed group within the container
+        let minX = Infinity, maxX = -Infinity, minY = Infinity, maxY = -Infinity
         for (const p of packed) {
-          p.el.style.left = p.x + 'px'
-          p.el.style.top = p.y + 'px'
+          minX = Math.min(minX, p.x - p.r)
+          maxX = Math.max(maxX, p.x + p.r)
+          minY = Math.min(minY, p.y - p.r)
+          maxY = Math.max(maxY, p.y + p.r)
+        }
+        const groupW = maxX - minX, groupH = maxY - minY
+        const offX = (W - groupW) / 2 - minX
+        const offY = (H - groupH) / 2 - minY
+        for (const p of packed) {
+          p.el.style.left = (p.x + offX) + 'px'
+          p.el.style.top = (p.y + offY) + 'px'
           p.el.style.visibility = 'visible'
         }
       })
@@ -1091,6 +1224,7 @@
         const tile = document.createElement("section")
         tile.className = "tile"
         tile.setAttribute("data-categories", cats.join(" "))
+        tile.setAttribute("data-source", key)
 
         const label = data.label || key
         const stamp = data.error ? "error" : (data.data_date ? `for ${data.data_date}` : rel(data.fetched_at))
@@ -1130,6 +1264,17 @@
       }
 
       if (state.display === 'bubble') requestAnimationFrame(layoutBlobs)
+
+      // Update FAB navigation with currently visible tiles
+      const visibleTiles = []
+      for (const key of ORDER) {
+        const data = latest.sources[key]
+        if (!data) continue
+        const cats = TILE_CATEGORIES[key] || []
+        if (state.filter !== "all" && !cats.includes(state.filter)) continue
+        visibleTiles.push({ key, label: SOURCE_LABELS[key] || key })
+      }
+      updateFabNav(visibleTiles)
     }
 
     // ---- history view ------------------------------------------------------
@@ -1237,6 +1382,7 @@
       const state = parseHash()
       if (state.history) {
         showHistoryView(state.history)
+        document.getElementById('fab-nav').classList.add('fab-hidden')
       } else {
         showGridView(state)
       }
@@ -1291,6 +1437,87 @@
       const btn = e.target.closest("button[data-filter]")
       if (!btn) return
       setHash({ filter: btn.dataset.filter })
+    })
+
+    // ---- FAB Navigation ----------------------------------------------------
+    const fabNav = document.createElement('div')
+    fabNav.className = 'fab-nav fab-hidden'
+    fabNav.id = 'fab-nav'
+    fabNav.innerHTML = `
+      <div class="fab-nav-panel" id="fab-nav-panel"></div>
+      <button class="fab-nav-toggle" id="fab-nav-toggle" aria-label="Navigate to tile">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none"
+             stroke="currentColor" stroke-width="2"
+             stroke-linecap="round" stroke-linejoin="round">
+          <circle cx="12" cy="12" r="10"/>
+          <polygon points="16.24 7.76 14.12 14.12 7.76 16.24 9.88 9.88"/>
+        </svg>
+      </button>
+    `
+    document.body.appendChild(fabNav)
+
+    function toggleFabPanel(forceClose) {
+      const fab = document.getElementById('fab-nav')
+      if (forceClose || fab.classList.contains('open')) {
+        fab.classList.remove('open')
+      } else {
+        fab.classList.add('open')
+      }
+    }
+
+    function updateFabNav(visibleTiles) {
+      const panel = document.getElementById('fab-nav-panel')
+      const fab = document.getElementById('fab-nav')
+
+      let html = `<button class="fab-nav-item fab-nav-top" data-target="top">
+        <span class="fab-nav-icon">\u2191</span>
+        <span class="fab-nav-label">Top</span>
+      </button>`
+
+      for (const { key, label } of visibleTiles) {
+        html += `<button class="fab-nav-item" data-target="${esc(key)}">
+          <span class="fab-nav-label">${esc(label)}</span>
+        </button>`
+      }
+
+      panel.innerHTML = html
+      fab.classList.toggle('fab-hidden', visibleTiles.length === 0)
+    }
+
+    document.getElementById('fab-nav-toggle').addEventListener('click', (e) => {
+      e.stopPropagation()
+      toggleFabPanel()
+    })
+
+    document.getElementById('fab-nav-panel').addEventListener('click', (e) => {
+      const btn = e.target.closest('.fab-nav-item')
+      if (!btn) return
+      const target = btn.dataset.target
+
+      if (target === 'top') {
+        window.scrollTo({ top: 0, behavior: 'smooth' })
+      } else {
+        const tile = document.querySelector(`.tile[data-source="${target}"]`)
+        if (tile) {
+          const header = document.querySelector('header.site')
+          const headerH = header ? header.offsetHeight : 0
+          const filterBar = document.getElementById('filter-bar')
+          const filterH = (filterBar && filterBar.offsetParent !== null) ? filterBar.offsetHeight : 0
+          const top = tile.getBoundingClientRect().top + window.scrollY - headerH - filterH - 8
+          window.scrollTo({ top, behavior: 'smooth' })
+        }
+      }
+
+      toggleFabPanel(true)
+    })
+
+    document.addEventListener('click', (e) => {
+      const fab = document.getElementById('fab-nav')
+      if (!fab.contains(e.target)) toggleFabPanel(true)
+    })
+
+    document.addEventListener('keydown', (e) => {
+      if (e.key === 'Escape') toggleFabPanel(true)
     })
 
     // ---- init --------------------------------------------------------------
