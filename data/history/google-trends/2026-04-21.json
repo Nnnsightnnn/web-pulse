@@ -1,7 +1,7 @@
 {
   "source": "google-trends",
   "label": "Google Trends — trending searches",
-  "fetched_at": "2026-04-21T13:15:16.429Z",
+  "fetched_at": "2026-04-21T13:18:39.401Z",
   "countries": [
     "US",
     "GB",
@@ -69,17 +69,6 @@
     },
     {
       "rank": 6,
-      "title": "pistons",
-      "geos": [
-        "US"
-      ],
-      "traffic_estimate": 2000,
-      "news_title": "Magic 112-101 Pistons (Apr 19, 2026) Final Score",
-      "news_url": "https://www.espn.com/nba/game/_/gameId/401869193/magic-pistons",
-      "news_source": "ESPN"
-    },
-    {
-      "rank": 7,
       "title": "detlef steves hund kai uwe verstorben",
       "geos": [
         "DE"
@@ -90,7 +79,7 @@
       "news_source": "TV Spielfilm"
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "social security administration",
       "geos": [
         "US"
@@ -101,7 +90,7 @@
       "news_source": "Yahoo"
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "పింఛను",
       "geos": [
         "IN"
@@ -112,7 +101,7 @@
       "news_source": "Eenadu"
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "戸田恵梨香",
       "geos": [
         "JP"
@@ -123,7 +112,7 @@
       "news_source": "Yahoo!ニュース"
     },
     {
-      "rank": 11,
+      "rank": 10,
       "title": "ベイスターズ",
       "geos": [
         "JP"
@@ -132,6 +121,17 @@
       "news_title": "ＤｅＮＡ・デュプランティエは「上半身のコンディション不良」 相川監督が明かす ２０日に出場選手登録抹消（デイリースポーツ）",
       "news_url": "https://news.yahoo.co.jp/articles/124ecab3624af468642b3c096fc28561b7525133",
       "news_source": "Yahoo!ニュース"
+    },
+    {
+      "rank": 11,
+      "title": "br-251",
+      "geos": [
+        "BR"
+      ],
+      "traffic_estimate": 1000,
+      "news_title": "Seis pessoas de uma mesma família morrem em batida entre carro e carreta em rodovia mineira",
+      "news_url": "https://g1.globo.com/mg/grande-minas/noticia/2026/04/21/seis-pessoas-morrem-em-batida-entre-carro-e-carreta-em-rodovia-mineira.ghtml",
+      "news_source": "G1"
     },
     {
       "rank": 12,
@@ -234,17 +234,6 @@
     },
     {
       "rank": 21,
-      "title": "br-251",
-      "geos": [
-        "BR"
-      ],
-      "traffic_estimate": 500,
-      "news_title": "Seis pessoas de uma mesma família morrem em batida entre carro e carreta em rodovia mineira",
-      "news_url": "https://g1.globo.com/mg/grande-minas/noticia/2026/04/21/seis-pessoas-morrem-em-batida-entre-carro-e-carreta-em-rodovia-mineira.ghtml",
-      "news_source": "G1"
-    },
-    {
-      "rank": 22,
       "title": "olivia rodrigo",
       "geos": [
         "DE"
@@ -255,7 +244,7 @@
       "news_source": "Yahoo Sports"
     },
     {
-      "rank": 23,
+      "rank": 22,
       "title": "marvel cosmic invasion",
       "geos": [
         "DE"
@@ -266,7 +255,7 @@
       "news_source": "4P.de"
     },
     {
-      "rank": 24,
+      "rank": 23,
       "title": "ironman",
       "geos": [
         "DE"
@@ -277,7 +266,7 @@
       "news_source": "The Guardian"
     },
     {
-      "rank": 25,
+      "rank": 24,
       "title": "bvb werder",
       "geos": [
         "DE"
@@ -286,6 +275,17 @@
       "news_title": "Bundesliga: Er könnte 40 Mio. Euro kosten! BVB nimmt Werder-Juwel ins Visier",
       "news_url": "https://www.bild.de/sport/fussball/bundesliga-er-koennte-40-mio-euro-kosten-bvb-nimmt-werder-juwel-ins-visier-69e7257bb6150a5f72a95bf2",
       "news_source": "BILD"
+    },
+    {
+      "rank": 25,
+      "title": "splatoon raiders",
+      "geos": [
+        "US"
+      ],
+      "traffic_estimate": 200,
+      "news_title": "Nintendo announces Splatoon Raiders Switch 2 release date with new trailer",
+      "news_url": "https://nintendoeverything.com/nintendo-announces-splatoon-raiders-switch-2-release-date-with-new-trailer/",
+      "news_source": "Nintendo Everything"
     }
   ]
 }
