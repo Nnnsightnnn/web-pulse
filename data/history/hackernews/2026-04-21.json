@@ -1,42 +1,42 @@
 {
   "source": "hackernews",
   "label": "Hacker News — top stories",
-  "fetched_at": "2026-04-21T13:01:20.823Z",
+  "fetched_at": "2026-04-21T13:11:29.100Z",
   "items": [
     {
       "rank": 1,
       "title": "Laws of Software Engineering",
       "url": "https://lawsofsoftwareengineering.com",
       "hn_url": "https://news.ycombinator.com/item?id=47847179",
-      "score": 143,
-      "comments": 50,
+      "score": 170,
+      "comments": 58,
       "author": "milanm081"
     },
     {
       "rank": 2,
-      "title": "John Ternus to become Apple CEO",
-      "url": "https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/",
-      "hn_url": "https://news.ycombinator.com/item?id=47840219",
-      "score": 1960,
-      "comments": 1077,
-      "author": "schappim"
-    },
-    {
-      "rank": 3,
       "title": "Show HN: VidStudio, a browser based video editor that doesn't upload your files",
       "url": "https://vidstudio.app/video-editor",
       "hn_url": "https://news.ycombinator.com/item?id=47847558",
-      "score": 31,
-      "comments": 6,
+      "score": 44,
+      "comments": 10,
       "author": "kolx"
+    },
+    {
+      "rank": 3,
+      "title": "John Ternus to become Apple CEO",
+      "url": "https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/",
+      "hn_url": "https://news.ycombinator.com/item?id=47840219",
+      "score": 1972,
+      "comments": 1084,
+      "author": "schappim"
     },
     {
       "rank": 4,
       "title": "A type-safe, realtime collaborative Graph Database in a CRDT",
       "url": "https://codemix.com/graph",
       "hn_url": "https://news.ycombinator.com/item?id=47846946",
-      "score": 43,
-      "comments": 13,
+      "score": 47,
+      "comments": 14,
       "author": "phpnode"
     },
     {
@@ -44,8 +44,8 @@
       "title": "Anthropic says OpenClaw-style Claude CLI usage is allowed again",
       "url": "https://docs.openclaw.ai/providers/anthropic",
       "hn_url": "https://news.ycombinator.com/item?id=47844269",
-      "score": 281,
-      "comments": 175,
+      "score": 289,
+      "comments": 177,
       "author": "jmsflknr"
     },
     {
@@ -53,8 +53,8 @@
       "title": "MNT Reform is an open hardware laptop, designed and assembled in Germany",
       "url": "http://mnt.stanleylieber.com/reform/",
       "hn_url": "https://news.ycombinator.com/item?id=47834689",
-      "score": 109,
-      "comments": 39,
+      "score": 114,
+      "comments": 40,
       "author": "speckx"
     },
     {
@@ -62,8 +62,8 @@
       "title": "Tim Cook's Impeccable Timing",
       "url": "https://stratechery.com/2026/tim-cooks-impeccable-timing/",
       "hn_url": "https://news.ycombinator.com/item?id=47847324",
-      "score": 12,
-      "comments": 0,
+      "score": 17,
+      "comments": 2,
       "author": "hasheddan"
     },
     {
@@ -71,162 +71,162 @@
       "title": "Apple ignores DMA interoperability requests and contradicts own documentation",
       "url": "https://fsfe.org/news/2026/news-20260420-01.html",
       "hn_url": "https://news.ycombinator.com/item?id=47847124",
-      "score": 90,
-      "comments": 7,
+      "score": 94,
+      "comments": 10,
       "author": "kirschner"
     },
     {
       "rank": 9,
-      "title": "Salmon exposed to cocaine and its main byproduct roam more widely",
-      "url": "https://www.science.org/content/article/cocaine-pollution-gives-salmon-wanderlust",
-      "hn_url": "https://news.ycombinator.com/item?id=47844890",
-      "score": 62,
-      "comments": 36,
-      "author": "1659447091"
+      "title": "Show HN: Antenna – RSS reader with a built-in MCP server",
+      "url": "https://antennafeed.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=47848110",
+      "score": 3,
+      "comments": 0,
+      "author": "toddllm"
     },
     {
       "rank": 10,
-      "title": "A Roblox cheat and one AI tool brought down Vercel's platform",
-      "url": "https://webmatrices.com/post/how-a-roblox-cheat-and-one-ai-tool-brought-down-vercel-s-entire-platform",
-      "hn_url": "https://news.ycombinator.com/item?id=47844431",
-      "score": 208,
-      "comments": 105,
-      "author": "bishwasbh"
+      "title": "Salmon exposed to cocaine and its main byproduct roam more widely",
+      "url": "https://www.science.org/content/article/cocaine-pollution-gives-salmon-wanderlust",
+      "hn_url": "https://news.ycombinator.com/item?id=47844890",
+      "score": 65,
+      "comments": 38,
+      "author": "1659447091"
     },
     {
       "rank": 11,
-      "title": "The Beauty of Bonsai Styles",
-      "url": "https://longwoodgardens.org/blog/2023-05-17/beauty-bonsai-styles",
-      "hn_url": "https://news.ycombinator.com/item?id=47844539",
-      "score": 120,
-      "comments": 22,
-      "author": "lagniappe"
+      "title": "A Roblox cheat and one AI tool brought down Vercel's platform",
+      "url": "https://webmatrices.com/post/how-a-roblox-cheat-and-one-ai-tool-brought-down-vercel-s-entire-platform",
+      "hn_url": "https://news.ycombinator.com/item?id=47844431",
+      "score": 209,
+      "comments": 108,
+      "author": "bishwasbh"
     },
     {
       "rank": 12,
-      "title": "Louis Zocchi, inventor of the d100, has died",
-      "url": "https://icv2.com/articles/news/view/62176/r-i-p-louis-zocchi-the-godfather-dice",
-      "hn_url": "https://news.ycombinator.com/item?id=47845231",
-      "score": 82,
-      "comments": 38,
-      "author": "sgbeal"
+      "title": "The Beauty of Bonsai Styles",
+      "url": "https://longwoodgardens.org/blog/2023-05-17/beauty-bonsai-styles",
+      "hn_url": "https://news.ycombinator.com/item?id=47844539",
+      "score": 124,
+      "comments": 23,
+      "author": "lagniappe"
     },
     {
       "rank": 13,
       "title": "Running a Minecraft Server and More on a 1960s Univac Computer",
       "url": "https://farlow.dev/2026/04/17/running-a-minecraft-server-and-more-on-a-1960s-univac-computer",
       "hn_url": "https://news.ycombinator.com/item?id=47815462",
-      "score": 13,
-      "comments": 1,
+      "score": 15,
+      "comments": 2,
       "author": "brilee"
     },
     {
       "rank": 14,
+      "title": "Louis Zocchi, inventor of the d100, has died",
+      "url": "https://icv2.com/articles/news/view/62176/r-i-p-louis-zocchi-the-godfather-dice",
+      "hn_url": "https://news.ycombinator.com/item?id=47845231",
+      "score": 82,
+      "comments": 39,
+      "author": "sgbeal"
+    },
+    {
+      "rank": 15,
       "title": "How to make a fast dynamic language interpreter",
       "url": "https://zef-lang.dev/implementation",
       "hn_url": "https://news.ycombinator.com/item?id=47843194",
-      "score": 198,
+      "score": 200,
       "comments": 37,
       "author": "pizlonator"
     },
     {
-      "rank": 15,
+      "rank": 16,
       "title": "Qwen3.6-Max-Preview: Smarter, Sharper, Still Evolving",
       "url": "https://qwen.ai/blog?id=qwen3.6-max-preview",
       "hn_url": "https://news.ycombinator.com/item?id=47834565",
-      "score": 642,
+      "score": 645,
       "comments": 347,
       "author": "mfiguiere"
     },
     {
-      "rank": 16,
+      "rank": 17,
       "title": "Show HN: Mediator.ai – Using Nash bargaining and LLMs to systematize fairness",
       "url": "https://mediator.ai/",
       "hn_url": "https://news.ycombinator.com/item?id=47835411",
-      "score": 95,
-      "comments": 36,
+      "score": 97,
+      "comments": 39,
       "author": "sanity"
     },
     {
-      "rank": 17,
+      "rank": 18,
       "title": "How a subsea cable is repaired (2021)",
       "url": "https://www.onesteppower.com/post/subsea-cable-repair",
       "hn_url": "https://news.ycombinator.com/item?id=47797457",
-      "score": 100,
-      "comments": 29,
+      "score": 101,
+      "comments": 30,
       "author": "slicktux"
     },
     {
-      "rank": 18,
+      "rank": 19,
       "title": "Types and Neural Networks",
       "url": "https://www.brunogavranovic.com/posts/2026-04-20-types-and-neural-networks.html",
       "hn_url": "https://news.ycombinator.com/item?id=47845111",
-      "score": 49,
+      "score": 51,
       "comments": 9,
       "author": "bgavran"
     },
     {
-      "rank": 19,
+      "rank": 20,
       "title": "Kimi vendor verifier – verify accuracy of inference providers",
       "url": "https://www.kimi.com/blog/kimi-vendor-verifier",
       "hn_url": "https://news.ycombinator.com/item?id=47838703",
-      "score": 276,
-      "comments": 25,
+      "score": 277,
+      "comments": 26,
       "author": "Alifatisk"
     },
     {
-      "rank": 20,
+      "rank": 21,
       "title": "Ternary Bonsai: Top Intelligence at 1.58 Bits",
       "url": "https://prismml.com/news/ternary-bonsai",
       "hn_url": "https://news.ycombinator.com/item?id=47812749",
-      "score": 180,
+      "score": 183,
       "comments": 51,
       "author": "nnx"
     },
     {
-      "rank": 21,
+      "rank": 22,
       "title": "Air is full of DNA",
       "url": "https://www.nature.com/articles/d41586-026-01099-2",
       "hn_url": "https://news.ycombinator.com/item?id=47819738",
       "score": 126,
-      "comments": 36,
+      "comments": 39,
       "author": "howrude"
     },
     {
-      "rank": 22,
+      "rank": 23,
       "title": "The purist's guide to phở in Hanoi",
       "url": "https://connla.substack.com/p/pho-in-hanoi-a-purists-guide",
       "hn_url": "https://news.ycombinator.com/item?id=47822742",
-      "score": 36,
-      "comments": 2,
+      "score": 37,
+      "comments": 5,
       "author": "vinhnx"
     },
     {
-      "rank": 23,
+      "rank": 24,
       "title": "High-Fidelity KV Cache Summarization Using Entropy and Low-Rank Reconstruction",
       "url": "https://jchandra.com/posts/hae-ols/",
       "hn_url": "https://news.ycombinator.com/item?id=47823549",
-      "score": 15,
+      "score": 18,
       "comments": 1,
       "author": "jchandra"
     },
     {
-      "rank": 24,
+      "rank": 25,
       "title": "Bullshit About Bullshit Machines [pdf]",
       "url": "https://aphyr.com/data/posts/411/the-future-of-everything-is-lies.pdf",
       "hn_url": "https://news.ycombinator.com/item?id=47822372",
-      "score": 59,
+      "score": 61,
       "comments": 20,
       "author": "hedayet"
-    },
-    {
-      "rank": 25,
-      "title": "Brussels launched an age checking app. Hackers took 2 minutes to break it",
-      "url": "https://www.politico.eu/article/eu-brussels-launched-age-checking-app-hackers-say-took-them-2-minutes-break-it/",
-      "hn_url": "https://news.ycombinator.com/item?id=47831742",
-      "score": 258,
-      "comments": 164,
-      "author": "axbyte"
     }
   ]
 }

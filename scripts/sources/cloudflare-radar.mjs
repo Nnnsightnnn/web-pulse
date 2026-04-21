@@ -4,11 +4,15 @@
 //
 // Without a token we return an empty result with a helpful note so the dashboard
 // can render a "not configured yet" tile instead of blowing up.
+//
+// Token is read inside the function (not at module top) so the .env loader
+// has a chance to populate process.env first.
 
-const TOKEN = process.env.CF_RADAR_TOKEN;
 const ENDPOINT = "https://api.cloudflare.com/client/v4/radar/ranking/top";
 
 export default async function fetchCloudflareRadar() {
+  const TOKEN = process.env.CF_RADAR_TOKEN;
+
   if (!TOKEN) {
     return {
       source: "cloudflare-radar",
@@ -20,14 +24,14 @@ export default async function fetchCloudflareRadar() {
     };
   }
 
-  const params = new URLSearchParams({
-    limit: "25",
-    // "name": "TRENDING_RISING", // optional: highlight rising domains
-  });
+  const params = new URLSearchParams({ limit: "25" });
   const res = await fetch(`${ENDPOINT}?${params}`, {
     headers: { Authorization: `Bearer ${TOKEN}` },
   });
-  if (!res.ok) throw new Error(`Cloudflare Radar: HTTP ${res.status}`);
+  if (!res.ok) {
+    const body = await res.text().catch(() => "");
+    throw new Error(`Cloudflare Radar: HTTP ${res.status}${body ? ` — ${body.slice(0, 200)}` : ""}`);
+  }
   const json = await res.json();
 
   const raw = json.result?.top_0 || [];

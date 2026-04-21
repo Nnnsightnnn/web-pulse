@@ -1,7 +1,7 @@
 {
   "source": "google-trends",
   "label": "Google Trends — trending searches",
-  "fetched_at": "2026-04-21T13:01:21.102Z",
+  "fetched_at": "2026-04-21T13:11:29.890Z",
   "countries": [
     "US",
     "GB",
@@ -13,6 +13,18 @@
   "items": [
     {
       "rank": 1,
+      "title": "paula badosa",
+      "geos": [
+        "BR",
+        "US"
+      ],
+      "traffic_estimate": 400,
+      "news_title": "Aryna Sabalenka, número 1 del tenis femenino: \"Antes de conocerla bien, creía que Badosa no era demasiado agradable y ella me confesó que pensaba exactamente lo mismo de mí\"",
+      "news_url": "https://www.elmundo.es/yodona/actualidad/2026/04/20/69e5e9cdfc6c83c6278b4593.html",
+      "news_source": "El Mundo"
+    },
+    {
+      "rank": 2,
       "title": "weather",
       "geos": [
         "US"
@@ -23,7 +35,40 @@
       "news_source": "FOX 4 News Dallas-Fort Worth"
     },
     {
-      "rank": 2,
+      "rank": 3,
+      "title": "阪神",
+      "geos": [
+        "JP"
+      ],
+      "traffic_estimate": 5000,
+      "news_title": "「勘弁してくれよ…」阪神即戦力ルーキー“3度目”の離脱報道にファン衝撃走る「早く1軍で見たいのに」「レフト埋まっちまうぞ！」",
+      "news_url": "https://news.yahoo.co.jp/articles/552be7f80ce0e8bc942bfae041f632d4be9bbe94",
+      "news_source": "Yahoo!ニュース"
+    },
+    {
+      "rank": 4,
+      "title": "lyrids meteor showers",
+      "geos": [
+        "US"
+      ],
+      "traffic_estimate": 2000,
+      "news_title": "The Lyrid meteor shower opens the season. Here’s how to watch",
+      "news_url": "https://www.cnn.com/2026/04/21/science/lyrid-meteor-shower-april-2026",
+      "news_source": "CNN"
+    },
+    {
+      "rank": 5,
+      "title": "pistons",
+      "geos": [
+        "US"
+      ],
+      "traffic_estimate": 2000,
+      "news_title": "Magic 112-101 Pistons (Apr 19, 2026) Final Score",
+      "news_url": "https://www.espn.com/nba/game/_/gameId/401869193/magic-pistons",
+      "news_source": "ESPN"
+    },
+    {
+      "rank": 6,
       "title": "कर्मचारी भविष्य निधि संगठन",
       "geos": [
         "IN"
@@ -34,7 +79,7 @@
       "news_source": "Navbharat Times"
     },
     {
-      "rank": 3,
+      "rank": 7,
       "title": "detlef steves hund kai uwe verstorben",
       "geos": [
         "DE"
@@ -45,29 +90,51 @@
       "news_source": "TV Spielfilm"
     },
     {
-      "rank": 4,
-      "title": "आरव कुमार",
+      "rank": 8,
+      "title": "戸田恵梨香",
       "geos": [
-        "IN"
+        "JP"
       ],
       "traffic_estimate": 1000,
-      "news_title": "करोड़ों कमाने वाले अक्षय कुमार का बेटा गांव में कर रहा नौकरी, सैलरी सुन उड़ेंगे होश",
-      "news_url": "https://www.aajtak.in/entertainment/bollywood-news/story/akshay-kumar-son-aarav-earn-4500-rs-job-village-fashion-no-bollywood-debut-tmovh-dskc-2528958-2026-04-21",
-      "news_source": "AajTak"
+      "news_title": "戸田恵梨香さん(37歳) 、40歳を意識して思う目標は「男性人気が欲しい！」｜STORY（magacol）",
+      "news_url": "https://news.yahoo.co.jp/articles/e91662388cd922a6c9a9c6d4ca45f1e444836c27",
+      "news_source": "Yahoo!ニュース"
     },
     {
-      "rank": 5,
+      "rank": 9,
       "title": "ベイスターズ",
       "geos": [
         "JP"
       ],
       "traffic_estimate": 1000,
-      "news_title": "龍玄とし、セレモニアルピッチ降臨でハマスタ興奮！「本当に感無量」熱唱ライブで得意のハイトーン披露（スポニチアネックス）",
-      "news_url": "https://news.yahoo.co.jp/articles/cc5a21577e62524dd0d2a0c4c90937a2cfaaa67e",
+      "news_title": "ＤｅＮＡ・デュプランティエは「上半身のコンディション不良」 相川監督が明かす ２０日に出場選手登録抹消（デイリースポーツ）",
+      "news_url": "https://news.yahoo.co.jp/articles/124ecab3624af468642b3c096fc28561b7525133",
       "news_source": "Yahoo!ニュース"
     },
     {
-      "rank": 6,
+      "rank": 10,
+      "title": "shawn mendes",
+      "geos": [
+        "BR"
+      ],
+      "traffic_estimate": 1000,
+      "news_title": "Sorridente, Bruna Marquezine passeia com Shawn Mendes e a cunhada em Malibu",
+      "news_url": "https://gshow.globo.com/cultura-pop/famosos/noticia/sorridente-bruna-marquezine-passeia-com-shawn-mendes-e-a-cunhada-em-malibu.ghtml",
+      "news_source": "Gshow"
+    },
+    {
+      "rank": 11,
+      "title": "juventus mooca",
+      "geos": [
+        "BR"
+      ],
+      "traffic_estimate": 1000,
+      "news_title": "Acesso inédito ou retorno após 19 anos: Paulistão 2027 terá \"novo\" entre os grandes",
+      "news_url": "https://ge.globo.com/sp/tem-esporte/futebol/paulista-serie-a2/noticia/2026/04/20/acesso-inedito-ou-retorno-apos-19-anos-paulistao-2027-tera-novo-entre-os-grandes.ghtml",
+      "news_source": "ge"
+    },
+    {
+      "rank": 12,
       "title": "hugo motta",
       "geos": [
         "BR"
@@ -78,18 +145,7 @@
       "news_source": "VEJA"
     },
     {
-      "rank": 7,
-      "title": "jair bolsonaro",
-      "geos": [
-        "BR"
-      ],
-      "traffic_estimate": 1000,
-      "news_title": "Em tom de campanha, mulher de Flávio o chama de “Bolsonaro moderado” e diz ter \"reeducado\" o marido",
-      "news_url": "https://oglobo.globo.com/politica/noticia/2026/04/20/em-tom-de-campanha-mulher-de-flavio-o-chama-de-bolsonaro-moderado-e-diz-ter-reeducado-o-marido.ghtml",
-      "news_source": "O GLOBO"
-    },
-    {
-      "rank": 8,
+      "rank": 13,
       "title": "polizei hessen",
       "geos": [
         "DE"
@@ -100,18 +156,40 @@
       "news_source": "Polizei Hessen"
     },
     {
-      "rank": 9,
+      "rank": 14,
+      "title": "cubs",
+      "geos": [
+        "US"
+      ],
+      "traffic_estimate": 500,
+      "news_title": "Ascending Cubs tap Shota Imanaga to face free-falling Phillies",
+      "news_url": "https://www.cbssports.com/mlb/news/ascending-cubs-tap-shota-imanaga-to-face-free-falling-phillies/",
+      "news_source": "CBS Sports"
+    },
+    {
+      "rank": 15,
       "title": "social security administration",
       "geos": [
         "US"
       ],
       "traffic_estimate": 500,
-      "news_title": "Social Security is temporarily closing locations: Is yours one of them?",
-      "news_url": "https://www.yahoo.com/news/articles/social-security-temporarily-closing-locations-095040237.html",
-      "news_source": "Yahoo"
+      "news_title": "Here's who gets Social Security payments this week on April 22",
+      "news_url": "https://www.usatoday.com/story/money/2026/04/20/social-security-payments-april-2026/89647724007/",
+      "news_source": "USA Today"
     },
     {
-      "rank": 10,
+      "rank": 16,
+      "title": "trump cnbc",
+      "geos": [
+        "US"
+      ],
+      "traffic_estimate": 500,
+      "news_title": "Trump tells CNBC he expects U.S. to make ‘great deal’ with Iran",
+      "news_url": "https://www.cnbc.com/2026/04/21/trump-iran-war-ceasefire-peace-talks.html",
+      "news_source": "CNBC"
+    },
+    {
+      "rank": 17,
       "title": "moon",
       "geos": [
         "US"
@@ -122,29 +200,51 @@
       "news_source": "The New York Times"
     },
     {
-      "rank": 11,
-      "title": "jkbopee",
+      "rank": 18,
+      "title": "michael",
+      "geos": [
+        "GB"
+      ],
+      "traffic_estimate": 500,
+      "news_title": "Michael review – cliched Jackson biopic is bland, bowdlerised … and bad",
+      "news_url": "https://www.theguardian.com/film/2026/apr/21/michael-review-cliched-jackson-biopic-is-bland-bowdlerised-and-bad",
+      "news_source": "The Guardian"
+    },
+    {
+      "rank": 19,
+      "title": "बारामती",
       "geos": [
         "IN"
       ],
       "traffic_estimate": 500,
-      "news_title": "Jammu Kashmir: BOPEE Conducts CET for BE/BTech Admissions Across Jammu Kashmir and Ladakh",
-      "news_url": "https://kashmirlife.net/jammu-kashmir-bopee-conducts-cet-for-be-btech-admissions-across-jammu-kashmir-and-ladakh-432924/",
-      "news_source": "Kashmir Life"
+      "news_title": "बारामती उपचुनाव के लिए आज थमेगा प्रचार, महाराष्ट्र CM देवेंद्र फडणवीस करेंगे सुनेत्रा पवार के समर्थन में रैली",
+      "news_url": "https://www.aajtak.in/india/maharashtra/story/baramati-bypoll-devendra-fadnavis-rally-for-sunetra-pawar-maharashtra-ntc-dhrj-dskc-2529195-2026-04-21",
+      "news_source": "AajTak"
     },
     {
-      "rank": 12,
-      "title": "横浜denaベイスターズ",
+      "rank": 20,
+      "title": "कंपनी",
       "geos": [
-        "JP"
+        "IN"
       ],
       "traffic_estimate": 500,
-      "news_title": "共創で脱炭素の輪を広げる JERA、広告キャンペーン「灯そう。みんなで。」",
-      "news_url": "https://eleminist.com/article/4626",
-      "news_source": "ELEMINIST"
+      "news_title": "Vedanta Demerger: पांच टुकड़ों में बंटने जा रही अनिल अग्रवाल की वेदांता, 21 लाख को मिलेंगे 5 कंपनियों के शेयर",
+      "news_url": "https://www.aajtak.in/business/news/story/vedanta-demerger-in-five-companies-21-lakhs-investors-gets-new-share-tutd-dskc-2529661-2026-04-21",
+      "news_source": "AajTak"
     },
     {
-      "rank": 13,
+      "rank": 21,
+      "title": "br-251",
+      "geos": [
+        "BR"
+      ],
+      "traffic_estimate": 500,
+      "news_title": "Seis pessoas de uma mesma família morrem em batida entre carro e carreta em rodovia mineira",
+      "news_url": "https://g1.globo.com/mg/grande-minas/noticia/2026/04/21/seis-pessoas-morrem-em-batida-entre-carro-e-carreta-em-rodovia-mineira.ghtml",
+      "news_source": "G1"
+    },
+    {
+      "rank": 22,
       "title": "olivia rodrigo",
       "geos": [
         "DE"
@@ -155,7 +255,7 @@
       "news_source": "The Guardian"
     },
     {
-      "rank": 14,
+      "rank": 23,
       "title": "marvel cosmic invasion",
       "geos": [
         "DE"
@@ -166,7 +266,7 @@
       "news_source": "4P.de"
     },
     {
-      "rank": 15,
+      "rank": 24,
       "title": "ironman",
       "geos": [
         "DE"
@@ -177,7 +277,7 @@
       "news_source": "The Guardian"
     },
     {
-      "rank": 16,
+      "rank": 25,
       "title": "bvb werder",
       "geos": [
         "DE"
@@ -186,105 +286,6 @@
       "news_title": "Bundesliga: Er könnte 40 Mio. Euro kosten! BVB nimmt Werder-Juwel ins Visier",
       "news_url": "https://www.bild.de/sport/fussball/bundesliga-er-koennte-40-mio-euro-kosten-bvb-nimmt-werder-juwel-ins-visier-69e7257bb6150a5f72a95bf2",
       "news_source": "BILD"
-    },
-    {
-      "rank": 17,
-      "title": "paula badosa",
-      "geos": [
-        "US"
-      ],
-      "traffic_estimate": 200,
-      "news_title": "Aryna Sabalenka, número 1 del tenis femenino: \"Antes de conocerla bien, creía que Badosa no era demasiado agradable y ella me confesó que pensaba exactamente lo mismo de mí\"",
-      "news_url": "https://www.elmundo.es/yodona/actualidad/2026/04/20/69e5e9cdfc6c83c6278b4593.html",
-      "news_source": "El Mundo"
-    },
-    {
-      "rank": 18,
-      "title": "trump cnbc",
-      "geos": [
-        "US"
-      ],
-      "traffic_estimate": 200,
-      "news_title": "Oil Prices Recede and Stocks Gain as Investors Eye Peace Talks",
-      "news_url": "https://www.nytimes.com/2026/04/21/business/oil-stocks-gas-iran.html",
-      "news_source": "The New York Times"
-    },
-    {
-      "rank": 19,
-      "title": "drc",
-      "geos": [
-        "US"
-      ],
-      "traffic_estimate": 200,
-      "news_title": "Uganda's army UPDF says more than 200 civilians rescued from ADF in DR Congo",
-      "news_url": "https://www.bbc.com/news/articles/cy7144jr68lo",
-      "news_source": "BBC"
-    },
-    {
-      "rank": 20,
-      "title": "anna blinkova",
-      "geos": [
-        "US"
-      ],
-      "traffic_estimate": 200,
-      "news_title": "Anna Blinkova vs Elvina Kalieva Prediction & Picks - WTA Mutua Madrid Open",
-      "news_url": "https://www.sportytrader.com/us/picks/anna-blinkova-elvina-kalieva-343845/",
-      "news_source": "SportyTrader"
-    },
-    {
-      "rank": 21,
-      "title": "new zealand",
-      "geos": [
-        "US"
-      ],
-      "traffic_estimate": 200,
-      "news_title": "New Zealand Declares Emergency in Capital After It Was Battered by Torrential Rain",
-      "news_url": "https://www.nytimes.com/2026/04/21/world/australia/wellington-new-zealand-emergency-flooding.html",
-      "news_source": "The New York Times"
-    },
-    {
-      "rank": 22,
-      "title": "steve nicol medals",
-      "geos": [
-        "GB"
-      ],
-      "traffic_estimate": 200,
-      "news_title": "Ex-Liverpool star Steve Nicol to sell FA and European Cup medals",
-      "news_url": "https://www.bbc.com/news/articles/c3r3051rgjvo",
-      "news_source": "BBC"
-    },
-    {
-      "rank": 23,
-      "title": "cnbc",
-      "geos": [
-        "GB"
-      ],
-      "traffic_estimate": 200,
-      "news_title": "CNBC Washington Bureau Chief Matt Cuddy Retires After More Than Three Decades",
-      "news_url": "https://www.citybiz.co/article/834643/cnbc-washington-bureau-chief-matt-cuddy-retires-after-more-than-three-decades/",
-      "news_source": "citybiz"
-    },
-    {
-      "rank": 24,
-      "title": "starlink",
-      "geos": [
-        "GB"
-      ],
-      "traffic_estimate": 200,
-      "news_title": "600 rocket landings! SpaceX notches another milestone during Sunday Starlink launch (video)",
-      "news_url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-17-22-b1097-vsfb-ofisly-600th-falcon-landing",
-      "news_source": "Space"
-    },
-    {
-      "rank": 25,
-      "title": "peter phillips",
-      "geos": [
-        "GB"
-      ],
-      "traffic_estimate": 200,
-      "news_title": "Five years on, the image of Queen Elizabeth II alone at Prince Philip's funeral is still a ‘heartbreaking’ testament to a world in turmoil",
-      "news_url": "https://www.tatler.com/article/queen-elizabeth-alone-prince-philips-funeral-anniversary",
-      "news_source": "Tatler"
     }
   ]
 }

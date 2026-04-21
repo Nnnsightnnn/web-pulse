@@ -5,7 +5,11 @@
 // whole run. Each source's section of latest.json includes either its items or
 // an error payload the dashboard can render.
 
-import { writeFile, mkdir, readdir, readFile } from "node:fs/promises";
+// Env loader MUST be the first import so secrets are in process.env
+// before any source module's top-level code runs.
+import "./env.mjs";
+
+import { writeFile, mkdir, readdir } from "node:fs/promises";
 import { dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";
 
