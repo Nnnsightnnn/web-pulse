@@ -90,7 +90,7 @@ async function run() {
   }
 
   // Prune history older than 30 days to keep the repo small.
-  await pruneOldHistory(30);
+  await pruneOldHistory(180);
 
   console.log(`[web-pulse] done in ${Date.now() - start}ms → data/latest.json`);
 }

@@ -175,6 +175,23 @@
       opacity: 0.75;
     }
 
+    .delta { font-family: var(--mono); font-size: 11px; padding: 1px 5px; border-radius: 4px; margin-left: 6px; }
+    .delta.up   { color: var(--up); }
+    .delta.down { color: var(--down); }
+    .delta.flat { color: var(--dim); }
+    .badge { font-family: var(--mono); font-size: 10px; text-transform: uppercase; padding: 1px 5px; border-radius: 3px; margin-left: 6px; letter-spacing: 0.04em; }
+    .badge.new    { background: var(--accent); color: var(--bg); }
+    .badge.streak { background: var(--border); color: var(--muted); }
+
+    .view-toggle { display: flex; gap: 4px; }
+    .view-toggle button {
+      font-family: var(--mono); font-size: 11px; padding: 4px 10px;
+      border: 1px solid var(--border); border-radius: 5px;
+      background: transparent; color: var(--muted); cursor: pointer;
+    }
+    .view-toggle button:hover { color: var(--text); }
+    .view-toggle button.active { background: var(--accent); color: var(--bg); border-color: var(--accent); }
+
     footer {
       padding: 28px 24px 40px;
       text-align: center;
@@ -189,6 +206,10 @@
 <body>
   <header class="site">
     <h1><span class="dot"></span>Web Pulse</h1>
+    <div class="view-toggle">
+      <button data-view="today" class="active">Today</button>
+      <button data-view="week">This week</button>
+    </div>
     <div class="meta" id="generated">—</div>
   </header>
 
@@ -202,201 +223,367 @@
     // ---- helpers -----------------------------------------------------------
     const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({
       "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;",
-    }[c]));
+    }[c]))
     const fmt = (n) => {
-      if (n == null) return "";
-      if (n >= 1_000_000) return (n / 1_000_000).toFixed(1).replace(/\.0$/, "") + "M";
-      if (n >= 1_000) return (n / 1_000).toFixed(1).replace(/\.0$/, "") + "k";
-      return String(n);
-    };
+      if (n == null) return ""
+      if (n >= 1_000_000) return (n / 1_000_000).toFixed(1).replace(/\.0$/, "") + "M"
+      if (n >= 1_000) return (n / 1_000).toFixed(1).replace(/\.0$/, "") + "k"
+      return String(n)
+    }
     const rel = (iso) => {
-      if (!iso) return "—";
-      const d = new Date(iso);
-      const diff = (Date.now() - d.getTime()) / 1000;
-      if (diff < 60) return `${Math.round(diff)}s ago`;
-      if (diff < 3600) return `${Math.round(diff / 60)}m ago`;
-      if (diff < 86400) return `${Math.round(diff / 3600)}h ago`;
-      return `${Math.round(diff / 86400)}d ago`;
-    };
+      if (!iso) return "\u2014"
+      const d = new Date(iso)
+      const diff = (Date.now() - d.getTime()) / 1000
+      if (diff < 60) return `${Math.round(diff)}s ago`
+      if (diff < 3600) return `${Math.round(diff / 60)}m ago`
+      if (diff < 86400) return `${Math.round(diff / 3600)}h ago`
+      return `${Math.round(diff / 86400)}d ago`
+    }
 
     // ---- sparkline ---------------------------------------------------------
     function sparkline(values, w = 48, h = 16) {
-      if (!values || values.length < 2) return "";
-      const min = Math.min(...values);
-      const max = Math.max(...values);
-      const range = max - min || 1;
-      const step = w / (values.length - 1);
+      if (!values || values.length < 2) return ""
+      const min = Math.min(...values)
+      const max = Math.max(...values)
+      const range = max - min || 1
+      const step = w / (values.length - 1)
       const pts = values.map((v, i) => {
-        const x = i * step;
-        const y = h - ((v - min) / range) * h;
-        return `${x.toFixed(1)},${y.toFixed(1)}`;
-      });
-      return `<svg class="sparkline" width="${w}" height="${h}" viewBox="0 0 ${w} ${h}"><path class="line" d="M${pts.join(" L")}"/></svg>`;
+        const x = i * step
+        const y = h - ((v - min) / range) * h
+        return `${x.toFixed(1)},${y.toFixed(1)}`
+      })
+      return `<svg class="sparkline" width="${w}" height="${h}" viewBox="0 0 ${w} ${h}"><path class="line" d="M${pts.join(" L")}"/></svg>`
+    }
+
+    // ---- identity & metrics ------------------------------------------------
+    function itemKey(source, item) {
+      switch (source) {
+        case "wikipedia":        return item.title
+        case "hackernews":       return `hn:${item.url || item.hn_url}`
+        case "reddit":           return `reddit:${item.url}`
+        case "github":           return item.title
+        case "google-trends":    return item.title.toLowerCase()
+        case "cloudflare-radar": return item.title
+        default:                 return item.title
+      }
+    }
+
+    function metricFor(source, item) {
+      switch (source) {
+        case "wikipedia":        return item.views
+        case "hackernews":       return item.score
+        case "reddit":           return item.score
+        case "github":           return item.stars_today
+        case "google-trends":    return item.geos?.length
+        case "cloudflare-radar": return undefined
+        default:                 return undefined
+      }
+    }
+
+    // ---- badges ------------------------------------------------------------
+    function badges(item) {
+      let html = ""
+      if (item.delta != null) {
+        if (item.delta < 0) html += `<span class="delta up">\u2191${Math.abs(item.delta)}</span>`
+        else if (item.delta > 0) html += `<span class="delta down">\u2193${item.delta}</span>`
+        else html += `<span class="delta flat">\u2014</span>`
+      }
+      if (item.isNew) html += `<span class="badge new">NEW</span>`
+      if (item.streak >= 3) html += `<span class="badge streak">streak ${item.streak}d</span>`
+      return html
+    }
+
+    function rankSpark(item) {
+      const valid = item.series?.filter(v => v != null) || []
+      // negate ranks so lower rank (better) = higher sparkline position
+      return valid.length >= 2 ? sparkline(valid.map(v => -v)) : ""
+    }
+
+    // ---- load history for all sources --------------------------------------
+    const _historyCache = new Map()
+
+    async function loadHistory(days = 7) {
+      const result = {}
+      const today = new Date()
+      const fetches = []
+
+      for (const source of ORDER) {
+        result[source] = {}
+        for (let i = days - 1; i >= 0; i--) {
+          const d = new Date(today)
+          d.setUTCDate(d.getUTCDate() - i)
+          const stamp = d.toISOString().slice(0, 10)
+          const url = `data/history/${source}/${stamp}.json`
+          fetches.push({ source, stamp, url })
+        }
+      }
+
+      const responses = await Promise.allSettled(
+        fetches.map(async ({ url }) => {
+          if (_historyCache.has(url)) return _historyCache.get(url)
+          const r = await fetch(url, { cache: "no-store" })
+          if (!r.ok) return null
+          const data = await r.json()
+          _historyCache.set(url, data)
+          return data
+        })
+      )
+
+      responses.forEach((r, idx) => {
+        if (r.status !== "fulfilled" || !r.value) return
+        const { source, stamp } = fetches[idx]
+        const data = r.value
+        for (const item of data.items || []) {
+          const key = itemKey(source, item)
+          if (!result[source][key]) result[source][key] = []
+          result[source][key].push({
+            date: stamp,
+            rank: item.rank,
+            metric: metricFor(source, item),
+            _item: item,
+          })
+        }
+      })
+
+      return result
+    }
+
+    // ---- annotate items with history data ----------------------------------
+    function annotate(source, todayItems, history) {
+      const sourceHist = history[source] || {}
+
+      // Collect all dates present in this source's history
+      const allDates = new Set()
+      for (const entries of Object.values(sourceHist)) {
+        for (const e of entries) allDates.add(e.date)
+      }
+      const sortedDates = [...allDates].sort()
+      const todayStr = new Date().toISOString().slice(0, 10)
+
+      return todayItems.map((item) => {
+        const key = itemKey(source, item)
+        const entries = sourceHist[key] || []
+
+        // Find yesterday's entry (most recent history entry before today)
+        const pastEntries = entries.filter(e => e.date < todayStr)
+        const yesterday = pastEntries.length > 0 ? pastEntries[pastEntries.length - 1] : null
+        const delta = yesterday ? item.rank - yesterday.rank : null
+
+        // isNew: not present in any of last 3 days of past history
+        const pastDates = sortedDates.filter(d => d < todayStr)
+        const last3Days = pastDates.slice(-3)
+        const isNew = last3Days.length > 0 &&
+          !pastEntries.some(e => last3Days.includes(e.date))
+
+        // streak: consecutive days including today, walking backwards
+        let streak = 1
+        const entryDates = new Set(entries.map(e => e.date))
+        for (let i = pastDates.length - 1; i >= 0; i--) {
+          if (entryDates.has(pastDates[i])) streak++
+          else break
+        }
+
+        // series: rank values for last 7 days, oldest first, null for gaps
+        const entryByDate = new Map(entries.map(e => [e.date, e]))
+        const last7 = [...pastDates.slice(-6), todayStr]
+        const series = last7.map(d => {
+          if (d === todayStr) return item.rank
+          const e = entryByDate.get(d)
+          return e ? e.rank : null
+        })
+
+        return { ...item, delta, isNew, streak, series }
+      })
+    }
+
+    // ---- week aggregation --------------------------------------------------
+    function aggregateWeek(source, history) {
+      const sourceHist = history[source] || {}
+      const aggregated = []
+
+      for (const [key, entries] of Object.entries(sourceHist)) {
+        if (entries.length === 0) continue
+        const appearances = entries.length
+        const avgRank = entries.reduce((sum, e) => sum + e.rank, 0) / entries.length
+        const latest = entries[entries.length - 1]
+        aggregated.push({
+          ...latest._item,
+          appearances,
+          avgRank,
+          _weekItem: true,
+        })
+      }
+
+      aggregated.sort((a, b) => b.appearances - a.appearances || a.avgRank - b.avgRank)
+      return aggregated.slice(0, 25).map((it, i) => ({ ...it, rank: i + 1 }))
     }
 
     // ---- per-source renderers ---------------------------------------------
     const renderers = {
-      wikipedia(data, history) {
-        return data.items.map((it) => {
-          const series = history?.[it.title];
-          const spark = series && series.length >= 2 ? sparkline(series) : "";
-          return `
-            <div class="item">
-              <div class="rank">${it.rank}</div>
-              <div>
-                <div class="title"><a href="${esc(it.url)}" target="_blank" rel="noopener">${esc(it.title)}</a>${spark}</div>
-                <div class="sub">${fmt(it.views)} views</div>
-              </div>
-              <div class="metric">${fmt(it.views)}</div>
-            </div>`;
-        }).join("");
-      },
-      hackernews(data) {
-        return data.items.map((it) => `
+      wikipedia(data, ann) {
+        return (ann || data.items).map((it) => `
           <div class="item">
             <div class="rank">${it.rank}</div>
             <div>
-              <div class="title"><a href="${esc(it.url)}" target="_blank" rel="noopener">${esc(it.title)}</a></div>
+              <div class="title"><a href="${esc(it.url)}" target="_blank" rel="noopener">${esc(it.title)}</a>${rankSpark(it)}${badges(it)}</div>
+              <div class="sub">${fmt(it.views)} views</div>
+            </div>
+            <div class="metric">${it._weekItem ? `${it.appearances}d` : fmt(it.views)}</div>
+          </div>`).join("")
+      },
+      hackernews(data, ann) {
+        return (ann || data.items).map((it) => `
+          <div class="item">
+            <div class="rank">${it.rank}</div>
+            <div>
+              <div class="title"><a href="${esc(it.url)}" target="_blank" rel="noopener">${esc(it.title)}</a>${rankSpark(it)}${badges(it)}</div>
               <div class="sub">${it.score} pts · <a href="${esc(it.hn_url)}" target="_blank" rel="noopener" style="color:inherit">${it.comments} comments</a> · ${esc(it.author)}</div>
             </div>
-            <div class="metric">${it.score}</div>
-          </div>`).join("");
+            <div class="metric">${it._weekItem ? `${it.appearances}d` : it.score}</div>
+          </div>`).join("")
       },
-      reddit(data) {
-        return data.items.map((it) => `
+      reddit(data, ann) {
+        return (ann || data.items).map((it) => `
           <div class="item">
             <div class="rank">${it.rank}</div>
             <div>
-              <div class="title"><a href="${esc(it.url)}" target="_blank" rel="noopener">${esc(it.title)}</a></div>
+              <div class="title"><a href="${esc(it.url)}" target="_blank" rel="noopener">${esc(it.title)}</a>${rankSpark(it)}${badges(it)}</div>
               <div class="sub">${esc(it.subreddit)} · ${fmt(it.score)} · ${it.comments} comments</div>
             </div>
-            <div class="metric">${fmt(it.score)}</div>
-          </div>`).join("");
+            <div class="metric">${it._weekItem ? `${it.appearances}d` : fmt(it.score)}</div>
+          </div>`).join("")
       },
-      github(data) {
-        return data.items.map((it) => `
+      github(data, ann) {
+        return (ann || data.items).map((it) => `
           <div class="item">
             <div class="rank">${it.rank}</div>
             <div>
-              <div class="title"><a href="${esc(it.url)}" target="_blank" rel="noopener">${esc(it.title)}</a></div>
-              <div class="sub">${esc(it.language || "—")} · ${esc(it.description || "").slice(0, 110)}</div>
+              <div class="title"><a href="${esc(it.url)}" target="_blank" rel="noopener">${esc(it.title)}</a>${rankSpark(it)}${badges(it)}</div>
+              <div class="sub">${esc(it.language || "\u2014")} · ${esc(it.description || "").slice(0, 110)}</div>
             </div>
-            <div class="metric">${it.stars_today != null ? `+${fmt(it.stars_today)}` : fmt(it.stars)}</div>
-          </div>`).join("");
+            <div class="metric">${it._weekItem ? `${it.appearances}d` : (it.stars_today != null ? `+${fmt(it.stars_today)}` : fmt(it.stars))}</div>
+          </div>`).join("")
       },
-      "google-trends"(data) {
-        return data.items.map((it) => `
+      "google-trends"(data, ann) {
+        return (ann || data.items).map((it) => `
           <div class="item">
             <div class="rank">${it.rank}</div>
             <div>
-              <div class="title">${it.news_url ? `<a href="${esc(it.news_url)}" target="_blank" rel="noopener">${esc(it.title)}</a>` : esc(it.title)}</div>
-              <div class="sub">${it.geos.join(" · ")}${it.news_source ? ` · ${esc(it.news_source)}` : ""}</div>
+              <div class="title">${it.news_url ? `<a href="${esc(it.news_url)}" target="_blank" rel="noopener">${esc(it.title)}</a>` : esc(it.title)}${rankSpark(it)}${badges(it)}</div>
+              <div class="sub">${it.geos?.join(" · ") || ""}${it.news_source ? ` · ${esc(it.news_source)}` : ""}</div>
             </div>
-            <div class="metric">${it.geos.length}×</div>
-          </div>`).join("");
+            <div class="metric">${it._weekItem ? `${it.appearances}d` : `${it.geos?.length || 0}\u00d7`}</div>
+          </div>`).join("")
       },
-      "cloudflare-radar"(data) {
-        if (!data.configured) {
+      "cloudflare-radar"(data, ann) {
+        if (data.configured === false) {
           return `<div style="padding:20px 16px;color:var(--muted);font-size:13px">
             ${esc(data.message || "Not configured.")}
-          </div>`;
+          </div>`
         }
-        return data.items.map((it) => `
+        return (ann || data.items).map((it) => `
           <div class="item">
             <div class="rank">${it.rank}</div>
             <div>
-              <div class="title"><a href="${esc(it.url)}" target="_blank" rel="noopener">${esc(it.title)}</a></div>
+              <div class="title"><a href="${esc(it.url)}" target="_blank" rel="noopener">${esc(it.title)}</a>${rankSpark(it)}${badges(it)}</div>
               ${it.category ? `<div class="sub">${esc(it.category)}</div>` : ""}
             </div>
-          </div>`).join("");
+            <div class="metric">${it._weekItem ? `${it.appearances}d` : ""}</div>
+          </div>`).join("")
       },
-    };
-
-    // ---- load history for wikipedia sparklines -----------------------------
-    async function loadWikipediaHistory() {
-      const byTitle = {};
-      const today = new Date();
-      const days = 7;
-      for (let i = days - 1; i >= 0; i--) {
-        const d = new Date(today);
-        d.setUTCDate(d.getUTCDate() - i);
-        const stamp = d.toISOString().slice(0, 10);
-        try {
-          const r = await fetch(`data/history/wikipedia/${stamp}.json`, { cache: "no-store" });
-          if (!r.ok) continue;
-          const day = await r.json();
-          for (const it of day.items || []) {
-            if (!byTitle[it.title]) byTitle[it.title] = [];
-            byTitle[it.title].push(it.views);
-          }
-        } catch { /* ignore */ }
-      }
-      return byTitle;
     }
 
     // ---- layout ------------------------------------------------------------
-    const ORDER = ["wikipedia", "hackernews", "reddit", "github", "google-trends", "cloudflare-radar"];
+    const ORDER = ["wikipedia", "hackernews", "reddit", "github", "google-trends", "cloudflare-radar"]
+
+    let currentView = location.hash === "#view=week" ? "week" : "today"
 
     async function load() {
-      const res = await fetch(`data/latest.json?t=${Date.now()}`);
-      if (!res.ok) throw new Error(`latest.json: HTTP ${res.status}`);
-      const latest = await res.json();
+      const res = await fetch(`data/latest.json?t=${Date.now()}`)
+      if (!res.ok) throw new Error(`latest.json: HTTP ${res.status}`)
+      const latest = await res.json()
 
-      document.getElementById("generated").textContent = `updated ${rel(latest.generated_at)}`;
+      document.getElementById("generated").textContent = `updated ${rel(latest.generated_at)}`
 
-      const wikiHistory = await loadWikipediaHistory();
+      const history = await loadHistory(7)
 
-      const grid = document.getElementById("grid");
-      grid.innerHTML = "";
+      const grid = document.getElementById("grid")
+      grid.innerHTML = ""
+
       for (const key of ORDER) {
-        const data = latest.sources[key];
-        if (!data) continue;
+        const data = latest.sources[key]
+        if (!data) continue
 
-        const tile = document.createElement("section");
-        tile.className = "tile";
+        const tile = document.createElement("section")
+        tile.className = "tile"
 
-        const label = data.label || key;
-        const stamp = data.error ? "error" : (data.data_date ? `for ${data.data_date}` : rel(data.fetched_at));
+        const label = data.label || key
+        const stamp = data.error ? "error" : (data.data_date ? `for ${data.data_date}` : rel(data.fetched_at))
 
-        let body = "";
+        let body = ""
         if (data.error) {
-          tile.classList.add("error");
-          body = `<div>Failed to load: ${esc(data.error)}</div>`;
+          tile.classList.add("error")
+          body = `<div>Failed to load: ${esc(data.error)}</div>`
         } else if (!data.items || data.items.length === 0) {
           if (key === "cloudflare-radar" && data.configured === false) {
-            body = renderers["cloudflare-radar"](data);
+            body = renderers["cloudflare-radar"](data, [])
           } else {
-            tile.classList.add("empty");
-            body = `<div>No items.</div>`;
+            tile.classList.add("empty")
+            body = `<div>No items.</div>`
           }
+        } else if (currentView === "week") {
+          const weekItems = aggregateWeek(key, history)
+          const ann = annotate(key, weekItems, history)
+          body = renderers[key]({ ...data, items: weekItems }, ann)
         } else {
-          body = renderers[key](data, key === "wikipedia" ? wikiHistory : null);
+          const ann = annotate(key, data.items, history)
+          body = renderers[key](data, ann)
         }
 
         tile.innerHTML = `
           <header>
             <h2>${esc(label)}</h2>
-            <span class="stamp">${esc(stamp)}</span>
+            <span class="stamp">${currentView === "week" ? "this week" : esc(stamp)}</span>
           </header>
           <div class="body">${body}</div>
-        `;
-        grid.appendChild(tile);
+        `
+        grid.appendChild(tile)
       }
     }
 
+    // ---- view toggle -------------------------------------------------------
+    document.querySelector(".view-toggle").addEventListener("click", (e) => {
+      const btn = e.target.closest("button[data-view]")
+      if (!btn) return
+      const view = btn.dataset.view
+      if (view === currentView) return
+      currentView = view
+      location.hash = view === "week" ? "#view=week" : ""
+      document.querySelectorAll(".view-toggle button").forEach(b =>
+        b.classList.toggle("active", b.dataset.view === view)
+      )
+      load().catch(() => {})
+    })
+
+    // Sync toggle state on load
+    document.querySelectorAll(".view-toggle button").forEach(b =>
+      b.classList.toggle("active", b.dataset.view === currentView)
+    )
+
+    // ---- init --------------------------------------------------------------
     load().catch((err) => {
       document.getElementById("grid").innerHTML =
-        `<div style="padding:40px;color:var(--muted)">Failed to load data: ${esc(err.message)}</div>`;
-    });
+        `<div style="padding:40px;color:var(--muted)">Failed to load data: ${esc(err.message)}</div>`
+    })
 
     // Re-load when the tab regains focus (but not more than once per 30s).
-    let lastLoad = Date.now();
+    let lastLoad = Date.now()
     document.addEventListener("visibilitychange", () => {
       if (document.visibilityState === "visible" && Date.now() - lastLoad > 30_000) {
-        lastLoad = Date.now();
-        load().catch(() => {});
+        lastLoad = Date.now()
+        load().catch(() => {})
       }
-    });
+    })
   </script>
 </body>
 </html>
