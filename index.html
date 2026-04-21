@@ -192,6 +192,34 @@
     .view-toggle button:hover { color: var(--text); }
     .view-toggle button.active { background: var(--accent); color: var(--bg); border-color: var(--accent); }
 
+    .tile-wide { grid-column: 1 / -1; max-height: 320px; }
+    .cluster-row {
+      display: grid; grid-template-columns: 28px 1fr auto; gap: 10px;
+      padding: 10px 16px; border-bottom: 1px solid var(--border); align-items: start;
+    }
+    .cluster-row:last-child { border-bottom: none; }
+    .cluster-row:hover { background: var(--card-hover); }
+    .badge-src {
+      display: inline-block; font-family: var(--mono); font-size: 10px;
+      padding: 1px 6px; border-radius: 3px; margin-right: 4px; margin-top: 3px;
+    }
+    .badge-src a { color: inherit; text-decoration: none; }
+    .badge-src a:hover { text-decoration: underline; }
+    .badge-wikipedia        { background: #1a3a1a; color: #4ade80; }
+    .badge-hackernews       { background: #3a2a1a; color: #fb923c; }
+    .badge-reddit           { background: #3a1a1a; color: #f87171; }
+    .badge-github           { background: #2a2a2a; color: #a3a3a3; }
+    .badge-google-trends    { background: #1a1a3a; color: #60a5fa; }
+    .badge-cloudflare-radar { background: #2a1a3a; color: #c084fc; }
+    @media (prefers-color-scheme: light) {
+      .badge-wikipedia        { background: #dcfce7; color: #166534; }
+      .badge-hackernews       { background: #ffedd5; color: #9a3412; }
+      .badge-reddit           { background: #fee2e2; color: #991b1b; }
+      .badge-github           { background: #f5f5f5; color: #404040; }
+      .badge-google-trends    { background: #dbeafe; color: #1e40af; }
+      .badge-cloudflare-radar { background: #f3e8ff; color: #6b21a8; }
+    }
+
     footer {
       padding: 28px 24px 40px;
       text-align: center;
@@ -494,6 +522,33 @@
     }
 
     // ---- layout ------------------------------------------------------------
+    // ---- cluster renderer ---------------------------------------------------
+    const SOURCE_LABELS = {
+      "wikipedia": "Wikipedia", "hackernews": "HN", "reddit": "Reddit",
+      "github": "GitHub", "google-trends": "Trends", "cloudflare-radar": "Radar",
+    }
+
+    function renderClusters(clusters) {
+      if (!clusters || clusters.length === 0) return ""
+      return clusters.map((cl, i) => {
+        const srcBadges = cl.items.map(it => {
+          const label = SOURCE_LABELS[it.source] || it.source
+          const href = it.url ? ` href="${esc(it.url)}" target="_blank" rel="noopener"` : ""
+          return `<span class="badge-src badge-${it.source}"><a${href}>${esc(label)} #${it.rank}</a></span>`
+        }).join("")
+        return `
+          <div class="cluster-row">
+            <div class="rank">${i + 1}</div>
+            <div>
+              <div class="title">${esc(cl.name)}</div>
+              <div class="sub">${srcBadges}</div>
+            </div>
+            <div class="metric">${cl.sources.length}\u00d7</div>
+          </div>`
+      }).join("")
+    }
+
+    // ---- layout ------------------------------------------------------------
     const ORDER = ["wikipedia", "hackernews", "reddit", "github", "google-trends", "cloudflare-radar"]
 
     let currentView = location.hash === "#view=week" ? "week" : "today"
@@ -509,6 +564,20 @@
 
       const grid = document.getElementById("grid")
       grid.innerHTML = ""
+
+      // Cluster tile (full-width, prepended)
+      if (currentView === "today" && latest.clusters && latest.clusters.length > 0) {
+        const clusterTile = document.createElement("section")
+        clusterTile.className = "tile tile-wide"
+        clusterTile.innerHTML = `
+          <header>
+            <h2>Cross-source hits</h2>
+            <span class="stamp">${latest.clusters.length} topics in 2+ sources</span>
+          </header>
+          <div class="body">${renderClusters(latest.clusters)}</div>
+        `
+        grid.appendChild(clusterTile)
+      }
 
       for (const key of ORDER) {
         const data = latest.sources[key]

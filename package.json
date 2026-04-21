@@ -6,7 +6,8 @@
   "private": true,
   "scripts": {
     "fetch": "node scripts/fetch-all.mjs",
-    "serve": "python3 -m http.server 8080"
+    "serve": "python3 -m http.server 8080",
+    "test": "node --test scripts/*.test.mjs"
   },
   "dependencies": {
     "node-html-parser": "^6.1.13"

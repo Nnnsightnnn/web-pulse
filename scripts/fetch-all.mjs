@@ -9,6 +9,7 @@
 // before any source module's top-level code runs.
 import "./env.mjs";
 
+import { clusterItems } from "./cluster.mjs";
 import { writeFile, mkdir, readdir } from "node:fs/promises";
 import { dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";
@@ -72,9 +73,18 @@ async function run() {
     }
   });
 
+  let clusters = [];
+  try {
+    clusters = clusterItems(byName);
+    console.log(`  \u2295 ${clusters.length} cross-source clusters`);
+  } catch (err) {
+    console.warn("  \u2298 clustering failed:", err.message);
+  }
+
   const latest = {
     generated_at: new Date().toISOString(),
     sources: byName,
+    clusters,
   };
 
   await mkdir(DATA_DIR, { recursive: true });
