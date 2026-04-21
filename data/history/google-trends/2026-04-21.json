@@ -1,7 +1,7 @@
 {
   "source": "google-trends",
   "label": "Google Trends — trending searches",
-  "fetched_at": "2026-04-21T13:11:29.890Z",
+  "fetched_at": "2026-04-21T13:15:16.429Z",
   "countries": [
     "US",
     "GB",
@@ -25,14 +25,14 @@
     },
     {
       "rank": 2,
-      "title": "weather",
+      "title": "洗濯",
       "geos": [
-        "US"
+        "JP"
       ],
-      "traffic_estimate": 20000,
-      "news_title": "Dallas weather: Widespread showers, lightning moving through North Texas Tuesday",
-      "news_url": "https://www.fox4news.com/news/dallas-weather-widespread-showers-radar-forecast",
-      "news_source": "FOX 4 News Dallas-Fort Worth"
+      "traffic_estimate": 200000,
+      "news_title": "明日にかけて黄砂が飛来 霞んだ空に注意",
+      "news_url": "https://weathernews.jp/news/202604/210201/",
+      "news_source": "ウェザーニュース"
     },
     {
       "rank": 3,
@@ -47,6 +47,17 @@
     },
     {
       "rank": 4,
+      "title": "transfer portal basketball",
+      "geos": [
+        "US"
+      ],
+      "traffic_estimate": 2000,
+      "news_title": "Seth Trimble Explains Why he Entered the Transfer Portal",
+      "news_url": "https://247sports.com/college/north-carolina/article/seth-trimble-explains-why-he-entered-the-transfer-portal-282534811/",
+      "news_source": "247Sports"
+    },
+    {
+      "rank": 5,
       "title": "lyrids meteor showers",
       "geos": [
         "US"
@@ -57,7 +68,7 @@
       "news_source": "CNN"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "pistons",
       "geos": [
         "US"
@@ -66,17 +77,6 @@
       "news_title": "Magic 112-101 Pistons (Apr 19, 2026) Final Score",
       "news_url": "https://www.espn.com/nba/game/_/gameId/401869193/magic-pistons",
       "news_source": "ESPN"
-    },
-    {
-      "rank": 6,
-      "title": "कर्मचारी भविष्य निधि संगठन",
-      "geos": [
-        "IN"
-      ],
-      "traffic_estimate": 2000,
-      "news_title": "सहारा इंडिया पर EPFO का बड़ा एक्शन, ₹1204 करोड़ की रिकवरी प्रक्रिया शुरू, चल और अचल संपत्तियां होंगी कुर्क",
-      "news_url": "https://navbharattimes.indiatimes.com/business/business-news/epfo-launched-proceedings-against-sahara-india-to-recover-unpaid-provident-fund-dues/articleshow/130407241.cms",
-      "news_source": "Navbharat Times"
     },
     {
       "rank": 7,
@@ -91,6 +91,28 @@
     },
     {
       "rank": 8,
+      "title": "social security administration",
+      "geos": [
+        "US"
+      ],
+      "traffic_estimate": 1000,
+      "news_title": "Social Security is temporarily closing locations: Is yours one of them?",
+      "news_url": "https://www.yahoo.com/news/articles/social-security-temporarily-closing-locations-095040237.html",
+      "news_source": "Yahoo"
+    },
+    {
+      "rank": 9,
+      "title": "పింఛను",
+      "geos": [
+        "IN"
+      ],
+      "traffic_estimate": 1000,
+      "news_title": "FDI in pension sector: బీమా తరహాలో పింఛన్ల రంగంలోకి నూరు శాతం ఎఫ్‌డీఐలు",
+      "news_url": "https://www.eenadu.net/telugu-news/business/govt-may-hike-fdi-limit-in-pension-sector-bill-likely-in-monsoon-session/0101/126068558",
+      "news_source": "Eenadu"
+    },
+    {
+      "rank": 10,
       "title": "戸田恵梨香",
       "geos": [
         "JP"
@@ -101,7 +123,7 @@
       "news_source": "Yahoo!ニュース"
     },
     {
-      "rank": 9,
+      "rank": 11,
       "title": "ベイスターズ",
       "geos": [
         "JP"
@@ -112,7 +134,7 @@
       "news_source": "Yahoo!ニュース"
     },
     {
-      "rank": 10,
+      "rank": 12,
       "title": "shawn mendes",
       "geos": [
         "BR"
@@ -123,7 +145,7 @@
       "news_source": "Gshow"
     },
     {
-      "rank": 11,
+      "rank": 13,
       "title": "juventus mooca",
       "geos": [
         "BR"
@@ -134,7 +156,7 @@
       "news_source": "ge"
     },
     {
-      "rank": 12,
+      "rank": 14,
       "title": "hugo motta",
       "geos": [
         "BR"
@@ -145,7 +167,7 @@
       "news_source": "VEJA"
     },
     {
-      "rank": 13,
+      "rank": 15,
       "title": "polizei hessen",
       "geos": [
         "DE"
@@ -154,28 +176,6 @@
       "news_title": "Polizei sucht nach 17- und 15-jährigen Schwestern",
       "news_url": "https://www.polizei.hessen.de/vermisste-personen/polizei-sucht-nach-17-und-15-jaehrigen-schwestern",
       "news_source": "Polizei Hessen"
-    },
-    {
-      "rank": 14,
-      "title": "cubs",
-      "geos": [
-        "US"
-      ],
-      "traffic_estimate": 500,
-      "news_title": "Ascending Cubs tap Shota Imanaga to face free-falling Phillies",
-      "news_url": "https://www.cbssports.com/mlb/news/ascending-cubs-tap-shota-imanaga-to-face-free-falling-phillies/",
-      "news_source": "CBS Sports"
-    },
-    {
-      "rank": 15,
-      "title": "social security administration",
-      "geos": [
-        "US"
-      ],
-      "traffic_estimate": 500,
-      "news_title": "Here's who gets Social Security payments this week on April 22",
-      "news_url": "https://www.usatoday.com/story/money/2026/04/20/social-security-payments-april-2026/89647724007/",
-      "news_source": "USA Today"
     },
     {
       "rank": 16,
@@ -190,17 +190,6 @@
     },
     {
       "rank": 17,
-      "title": "moon",
-      "geos": [
-        "US"
-      ],
-      "traffic_estimate": 500,
-      "news_title": "‘Earthset’ Is Captured on Video for First Time",
-      "news_url": "https://www.nytimes.com/2026/04/20/science/reid-wiseman-earthset-photo-artemis-2.html",
-      "news_source": "The New York Times"
-    },
-    {
-      "rank": 18,
       "title": "michael",
       "geos": [
         "GB"
@@ -209,6 +198,17 @@
       "news_title": "Michael review – cliched Jackson biopic is bland, bowdlerised … and bad",
       "news_url": "https://www.theguardian.com/film/2026/apr/21/michael-review-cliched-jackson-biopic-is-bland-bowdlerised-and-bad",
       "news_source": "The Guardian"
+    },
+    {
+      "rank": 18,
+      "title": "gerald coetzee",
+      "geos": [
+        "IN"
+      ],
+      "traffic_estimate": 500,
+      "news_title": "Sunrisers Hyderabad pick Gerald Coetzee as injury replacement for David Payne",
+      "news_url": "https://www.iplt20.com/news/4300/sunrisers-hyderabad-pick-gerald-coetzee-as-injury-replacement-for-david-payne",
+      "news_source": "IPL T20"
     },
     {
       "rank": 19,
@@ -250,9 +250,9 @@
         "DE"
       ],
       "traffic_estimate": 500,
-      "news_title": "Olivia Rodrigo: Drop Dead review – a maximalist rush of infatuation that’s just a bauble short of festive",
-      "news_url": "https://www.theguardian.com/music/2026/apr/17/olivia-rodrigo-drop-dead-review-single",
-      "news_source": "The Guardian"
+      "news_title": "Olivia Rodrigo to feature on Barcelona shirts for El Clasico against Real Madrid",
+      "news_url": "https://sports.yahoo.com/articles/olivia-rodrigo-feature-barcelona-shirts-075336296.html",
+      "news_source": "Yahoo Sports"
     },
     {
       "rank": 23,
