@@ -9,6 +9,8 @@
 // before any source module's top-level code runs.
 import "./env.mjs";
 
+import { clusterItems } from "./cluster.mjs";
+import { generateBrief } from "./brief.mjs";
 import { writeFile, mkdir, readdir } from "node:fs/promises";
 import { dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";
@@ -19,6 +21,11 @@ import reddit from "./sources/reddit.mjs";
 import github from "./sources/github-trending.mjs";
 import googleTrends from "./sources/google-trends.mjs";
 import cloudflareRadar from "./sources/cloudflare-radar.mjs";
+import gdelt from "./sources/gdelt.mjs";
+import stackoverflow from "./sources/stackoverflow.mjs";
+import steam from "./sources/steam.mjs";
+import youtube from "./sources/youtube.mjs";
+import bluesky from "./sources/bluesky.mjs";
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const ROOT = join(__dirname, "..");
@@ -32,6 +39,11 @@ const SOURCES = [
   { name: "github", fn: github },
   { name: "google-trends", fn: googleTrends },
   { name: "cloudflare-radar", fn: cloudflareRadar },
+  { name: "gdelt", fn: gdelt },
+  { name: "stackoverflow", fn: stackoverflow },
+  { name: "steam", fn: steam },
+  { name: "youtube", fn: youtube },
+  { name: "bluesky", fn: bluesky },
 ];
 
 function dateStamp() {
@@ -72,10 +84,26 @@ async function run() {
     }
   });
 
+  let clusters = [];
+  try {
+    clusters = clusterItems(byName);
+    console.log(`  \u2295 ${clusters.length} cross-source clusters`);
+  } catch (err) {
+    console.warn("  \u2298 clustering failed:", err.message);
+  }
+
   const latest = {
     generated_at: new Date().toISOString(),
     sources: byName,
+    clusters,
   };
+
+  try {
+    latest.brief = generateBrief(latest);
+  } catch (err) {
+    console.warn("  brief generation failed:", err.message);
+    latest.brief = "";
+  }
 
   await mkdir(DATA_DIR, { recursive: true });
   await writeFile(join(DATA_DIR, "latest.json"), JSON.stringify(latest, null, 2));
@@ -90,7 +118,7 @@ async function run() {
   }
 
   // Prune history older than 30 days to keep the repo small.
-  await pruneOldHistory(30);
+  await pruneOldHistory(180);
 
   console.log(`[web-pulse] done in ${Date.now() - start}ms → data/latest.json`);
 }
