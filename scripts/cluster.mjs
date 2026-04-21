@@ -4,6 +4,8 @@
 const SOURCE_WEIGHTS = {
   "wikipedia": 1, "hackernews": 1, "reddit": 1,
   "github": 1, "google-trends": 1, "cloudflare-radar": 1,
+  "gdelt": 1, "stackoverflow": 1, "steam": 1,
+  "youtube": 1, "bluesky": 1,
 }
 
 const STOPWORDS = new Set([
