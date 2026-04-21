@@ -1,232 +1,232 @@
 {
   "source": "hackernews",
   "label": "Hacker News — top stories",
-  "fetched_at": "2026-04-21T13:18:39.236Z",
+  "fetched_at": "2026-04-21T15:25:20.870Z",
   "items": [
     {
       "rank": 1,
       "title": "Laws of Software Engineering",
       "url": "https://lawsofsoftwareengineering.com",
       "hn_url": "https://news.ycombinator.com/item?id=47847179",
-      "score": 176,
-      "comments": 64,
+      "score": 374,
+      "comments": 178,
       "author": "milanm081"
     },
     {
       "rank": 2,
-      "title": "Show HN: VidStudio, a browser based video editor that doesn't upload your files",
-      "url": "https://vidstudio.app/video-editor",
-      "hn_url": "https://news.ycombinator.com/item?id=47847558",
-      "score": 48,
-      "comments": 12,
-      "author": "kolx"
-    },
-    {
-      "rank": 3,
-      "title": "John Ternus to become Apple CEO",
-      "url": "https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/",
-      "hn_url": "https://news.ycombinator.com/item?id=47840219",
-      "score": 1978,
-      "comments": 1089,
-      "author": "schappim"
-    },
-    {
-      "rank": 4,
-      "title": "A type-safe, realtime collaborative Graph Database in a CRDT",
-      "url": "https://codemix.com/graph",
-      "hn_url": "https://news.ycombinator.com/item?id=47846946",
-      "score": 49,
-      "comments": 16,
-      "author": "phpnode"
-    },
-    {
-      "rank": 5,
-      "title": "Tim Cook's Impeccable Timing",
-      "url": "https://stratechery.com/2026/tim-cooks-impeccable-timing/",
-      "hn_url": "https://news.ycombinator.com/item?id=47847324",
-      "score": 20,
+      "title": "As Oceans Warm, Great White Sharks Are Overheating",
+      "url": "https://e360.yale.edu/digest/great-white-sharks-climate",
+      "hn_url": "https://news.ycombinator.com/item?id=47849592",
+      "score": 26,
       "comments": 7,
-      "author": "hasheddan"
-    },
-    {
-      "rank": 6,
-      "title": "MNT Reform is an open hardware laptop, designed and assembled in Germany",
-      "url": "http://mnt.stanleylieber.com/reform/",
-      "hn_url": "https://news.ycombinator.com/item?id=47834689",
-      "score": 117,
-      "comments": 41,
       "author": "speckx"
     },
     {
+      "rank": 3,
+      "title": "Fusion Power Plant Simulator",
+      "url": "https://www.fusionenergybase.com/fusion-power-plant-simulator",
+      "hn_url": "https://news.ycombinator.com/item?id=47849315",
+      "score": 26,
+      "comments": 6,
+      "author": "sam"
+    },
+    {
+      "rank": 4,
+      "title": "Tim Cook's Impeccable Timing",
+      "url": "https://stratechery.com/2026/tim-cooks-impeccable-timing/",
+      "hn_url": "https://news.ycombinator.com/item?id=47847324",
+      "score": 101,
+      "comments": 139,
+      "author": "hasheddan"
+    },
+    {
+      "rank": 5,
+      "title": "Show HN: VidStudio, a browser based video editor that doesn't upload your files",
+      "url": "https://vidstudio.app/video-editor",
+      "hn_url": "https://news.ycombinator.com/item?id=47847558",
+      "score": 129,
+      "comments": 53,
+      "author": "kolx"
+    },
+    {
+      "rank": 6,
+      "title": "John Ternus to become Apple CEO",
+      "url": "https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/",
+      "hn_url": "https://news.ycombinator.com/item?id=47840219",
+      "score": 2067,
+      "comments": 1167,
+      "author": "schappim"
+    },
+    {
       "rank": 7,
-      "title": "Anthropic says OpenClaw-style Claude CLI usage is allowed again",
-      "url": "https://docs.openclaw.ai/providers/anthropic",
-      "hn_url": "https://news.ycombinator.com/item?id=47844269",
-      "score": 289,
-      "comments": 178,
-      "author": "jmsflknr"
+      "title": "Show HN: GoModel – an open-source AI gateway in Go; 44x lighter than LiteLLM",
+      "url": "https://github.com/ENTERPILOT/GOModel/",
+      "hn_url": "https://news.ycombinator.com/item?id=47849097",
+      "score": 23,
+      "comments": 3,
+      "author": "santiago-pl"
     },
     {
       "rank": 8,
-      "title": "Apple ignores DMA interoperability requests and contradicts own documentation",
-      "url": "https://fsfe.org/news/2026/news-20260420-01.html",
-      "hn_url": "https://news.ycombinator.com/item?id=47847124",
-      "score": 96,
-      "comments": 10,
-      "author": "kirschner"
-    },
-    {
-      "rank": 9,
-      "title": "Show HN: Antenna – RSS reader with a built-in MCP server",
-      "url": "https://antennafeed.com/",
-      "hn_url": "https://news.ycombinator.com/item?id=47848110",
-      "score": 4,
-      "comments": 1,
-      "author": "toddllm"
-    },
-    {
-      "rank": 10,
-      "title": "Salmon exposed to cocaine and its main byproduct roam more widely",
-      "url": "https://www.science.org/content/article/cocaine-pollution-gives-salmon-wanderlust",
-      "hn_url": "https://news.ycombinator.com/item?id=47844890",
-      "score": 66,
-      "comments": 38,
-      "author": "1659447091"
-    },
-    {
-      "rank": 11,
       "title": "Running a Minecraft Server and More on a 1960s Univac Computer",
       "url": "https://farlow.dev/2026/04/17/running-a-minecraft-server-and-more-on-a-1960s-univac-computer",
       "hn_url": "https://news.ycombinator.com/item?id=47815462",
-      "score": 16,
-      "comments": 2,
+      "score": 73,
+      "comments": 14,
       "author": "brilee"
     },
     {
+      "rank": 9,
+      "title": "A type-safe, realtime collaborative Graph Database in a CRDT",
+      "url": "https://codemix.com/graph",
+      "hn_url": "https://news.ycombinator.com/item?id=47846946",
+      "score": 81,
+      "comments": 27,
+      "author": "phpnode"
+    },
+    {
+      "rank": 10,
+      "title": "Tindie store under \"scheduled maintenance\" for days",
+      "url": "https://www.tindie.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=47848195",
+      "score": 50,
+      "comments": 13,
+      "author": "somemisopaste"
+    },
+    {
+      "rank": 11,
+      "title": "Anthropic says OpenClaw-style Claude CLI usage is allowed again",
+      "url": "https://docs.openclaw.ai/providers/anthropic",
+      "hn_url": "https://news.ycombinator.com/item?id=47844269",
+      "score": 346,
+      "comments": 207,
+      "author": "jmsflknr"
+    },
+    {
       "rank": 12,
-      "title": "A Roblox cheat and one AI tool brought down Vercel's platform",
-      "url": "https://webmatrices.com/post/how-a-roblox-cheat-and-one-ai-tool-brought-down-vercel-s-entire-platform",
-      "hn_url": "https://news.ycombinator.com/item?id=47844431",
-      "score": 211,
-      "comments": 112,
-      "author": "bishwasbh"
+      "title": "MNT Reform is an open hardware laptop, designed and assembled in Germany",
+      "url": "http://mnt.stanleylieber.com/reform/",
+      "hn_url": "https://news.ycombinator.com/item?id=47834689",
+      "score": 164,
+      "comments": 64,
+      "author": "speckx"
     },
     {
       "rank": 13,
-      "title": "The Beauty of Bonsai Styles",
-      "url": "https://longwoodgardens.org/blog/2023-05-17/beauty-bonsai-styles",
-      "hn_url": "https://news.ycombinator.com/item?id=47844539",
-      "score": 125,
-      "comments": 23,
-      "author": "lagniappe"
+      "title": "Anthropic takes $5B from Amazon and pledges $100B in cloud spending in return",
+      "url": "https://techcrunch.com/2026/04/20/anthropic-takes-5b-from-amazon-and-pledges-100b-in-cloud-spending-in-return/",
+      "hn_url": "https://news.ycombinator.com/item?id=47848276",
+      "score": 89,
+      "comments": 89,
+      "author": "Brajeshwar"
     },
     {
       "rank": 14,
-      "title": "Louis Zocchi, inventor of the d100, has died",
-      "url": "https://icv2.com/articles/news/view/62176/r-i-p-louis-zocchi-the-godfather-dice",
-      "hn_url": "https://news.ycombinator.com/item?id=47845231",
-      "score": 82,
-      "comments": 40,
-      "author": "sgbeal"
+      "title": "Slava's Monoid Zoo",
+      "url": "https://factorcode.org/slava/monoids.html",
+      "hn_url": "https://news.ycombinator.com/item?id=47828568",
+      "score": 25,
+      "comments": 4,
+      "author": "luu"
     },
     {
       "rank": 15,
-      "title": "How to make a fast dynamic language interpreter",
-      "url": "https://zef-lang.dev/implementation",
-      "hn_url": "https://news.ycombinator.com/item?id=47843194",
-      "score": 201,
-      "comments": 38,
-      "author": "pizlonator"
+      "title": "Leonardo, Borgia, and Machiavelli: A Fateful Collusion",
+      "url": "https://www.historytoday.com/archive/leonardo-borgia-and-machiavelli-fateful-collusion",
+      "hn_url": "https://news.ycombinator.com/item?id=47789445",
+      "score": 8,
+      "comments": 0,
+      "author": "apollinaire"
     },
     {
       "rank": 16,
-      "title": "Qwen3.6-Max-Preview: Smarter, Sharper, Still Evolving",
-      "url": "https://qwen.ai/blog?id=qwen3.6-max-preview",
-      "hn_url": "https://news.ycombinator.com/item?id=47834565",
-      "score": 647,
-      "comments": 347,
-      "author": "mfiguiere"
+      "title": "Salmon exposed to cocaine and its main byproduct roam more widely",
+      "url": "https://www.science.org/content/article/cocaine-pollution-gives-salmon-wanderlust",
+      "hn_url": "https://news.ycombinator.com/item?id=47844890",
+      "score": 92,
+      "comments": 55,
+      "author": "1659447091"
     },
     {
       "rank": 17,
-      "title": "Types and Neural Networks",
-      "url": "https://www.brunogavranovic.com/posts/2026-04-20-types-and-neural-networks.html",
-      "hn_url": "https://news.ycombinator.com/item?id=47845111",
-      "score": 53,
-      "comments": 9,
-      "author": "bgavran"
+      "title": "The Beauty of Bonsai Styles",
+      "url": "https://longwoodgardens.org/blog/2023-05-17/beauty-bonsai-styles",
+      "hn_url": "https://news.ycombinator.com/item?id=47844539",
+      "score": 147,
+      "comments": 26,
+      "author": "lagniappe"
     },
     {
       "rank": 18,
-      "title": "How a subsea cable is repaired (2021)",
-      "url": "https://www.onesteppower.com/post/subsea-cable-repair",
-      "hn_url": "https://news.ycombinator.com/item?id=47797457",
-      "score": 102,
-      "comments": 30,
-      "author": "slicktux"
+      "title": "Scammer Used an AI-Generated MAGA Girl to Grift 'Super Dumb' Men",
+      "url": "https://www.wired.com/story/ai-generated-maga-girls/",
+      "hn_url": "https://news.ycombinator.com/item?id=47849494",
+      "score": 27,
+      "comments": 7,
+      "author": "Aboutplants"
     },
     {
       "rank": 19,
-      "title": "Show HN: Mediator.ai – Using Nash bargaining and LLMs to systematize fairness",
-      "url": "https://mediator.ai/",
-      "hn_url": "https://news.ycombinator.com/item?id=47835411",
-      "score": 100,
-      "comments": 41,
-      "author": "sanity"
+      "title": "A Roblox cheat and one AI tool brought down Vercel's platform",
+      "url": "https://webmatrices.com/post/how-a-roblox-cheat-and-one-ai-tool-brought-down-vercel-s-entire-platform",
+      "hn_url": "https://news.ycombinator.com/item?id=47844431",
+      "score": 248,
+      "comments": 138,
+      "author": "bishwasbh"
     },
     {
       "rank": 20,
-      "title": "Kimi vendor verifier – verify accuracy of inference providers",
-      "url": "https://www.kimi.com/blog/kimi-vendor-verifier",
-      "hn_url": "https://news.ycombinator.com/item?id=47838703",
-      "score": 279,
-      "comments": 26,
-      "author": "Alifatisk"
+      "title": "Apple ignores DMA interoperability requests and contradicts own documentation",
+      "url": "https://fsfe.org/news/2026/news-20260420-01.html",
+      "hn_url": "https://news.ycombinator.com/item?id=47847124",
+      "score": 154,
+      "comments": 25,
+      "author": "kirschner"
     },
     {
       "rank": 21,
-      "title": "Ternary Bonsai: Top Intelligence at 1.58 Bits",
-      "url": "https://prismml.com/news/ternary-bonsai",
-      "hn_url": "https://news.ycombinator.com/item?id=47812749",
-      "score": 186,
-      "comments": 51,
-      "author": "nnx"
+      "title": "Louis Zocchi, games industry pioneer, has died",
+      "url": "https://icv2.com/articles/news/view/62176/r-i-p-louis-zocchi-the-godfather-dice",
+      "hn_url": "https://news.ycombinator.com/item?id=47845231",
+      "score": 101,
+      "comments": 48,
+      "author": "sgbeal"
     },
     {
       "rank": 22,
-      "title": "Air is full of DNA",
-      "url": "https://www.nature.com/articles/d41586-026-01099-2",
-      "hn_url": "https://news.ycombinator.com/item?id=47819738",
-      "score": 127,
-      "comments": 39,
-      "author": "howrude"
-    },
-    {
-      "rank": 23,
       "title": "High-Fidelity KV Cache Summarization Using Entropy and Low-Rank Reconstruction",
       "url": "https://jchandra.com/posts/hae-ols/",
       "hn_url": "https://news.ycombinator.com/item?id=47823549",
-      "score": 19,
-      "comments": 1,
+      "score": 42,
+      "comments": 6,
       "author": "jchandra"
     },
     {
-      "rank": 24,
-      "title": "Bullshit About Bullshit Machines [pdf]",
-      "url": "https://aphyr.com/data/posts/411/the-future-of-everything-is-lies.pdf",
-      "hn_url": "https://news.ycombinator.com/item?id=47822372",
-      "score": 65,
-      "comments": 21,
-      "author": "hedayet"
+      "rank": 23,
+      "title": "Qwen3.6-Max-Preview: Smarter, Sharper, Still Evolving",
+      "url": "https://qwen.ai/blog?id=qwen3.6-max-preview",
+      "hn_url": "https://news.ycombinator.com/item?id=47834565",
+      "score": 667,
+      "comments": 358,
+      "author": "mfiguiere"
     },
     {
-      "rank": 25,
+      "rank": 24,
       "title": "The purist's guide to phở in Hanoi",
       "url": "https://connla.substack.com/p/pho-in-hanoi-a-purists-guide",
       "hn_url": "https://news.ycombinator.com/item?id=47822742",
-      "score": 38,
-      "comments": 5,
+      "score": 72,
+      "comments": 24,
       "author": "vinhnx"
+    },
+    {
+      "rank": 25,
+      "title": "How to make a fast dynamic language interpreter",
+      "url": "https://zef-lang.dev/implementation",
+      "hn_url": "https://news.ycombinator.com/item?id=47843194",
+      "score": 222,
+      "comments": 42,
+      "author": "pizlonator"
     }
   ]
 }
