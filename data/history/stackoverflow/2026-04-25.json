@@ -1,19 +1,19 @@
 {
   "source": "stackoverflow",
   "label": "Stack Overflow — hot questions",
-  "fetched_at": "2026-04-25T08:19:48.559Z",
+  "fetched_at": "2026-04-25T09:16:25.572Z",
   "items": [
     {
       "rank": 1,
-      "title": "I believe I have malicious tasks gaining access to my computor. Could someone have a look for me please and tell me if they see anything suspect",
-      "url": "https://stackoverflow.com/questions/79931655/i-believe-i-have-malicious-tasks-gaining-access-to-my-computor-could-someone-ha",
-      "score": -1,
+      "title": "How to implement real-time GPS tracking for multiple vehicles using WebSockets or polling?",
+      "url": "https://stackoverflow.com/questions/79931674/how-to-implement-real-time-gps-tracking-for-multiple-vehicles-using-websockets-o",
+      "score": 0,
       "answers": 0,
-      "views": 23,
+      "views": 16,
       "tags": [
-        "task",
-        "taskmanager",
-        "spyware"
+        "javascript",
+        "java",
+        "gps"
       ]
     },
     {
@@ -22,7 +22,7 @@
       "url": "https://stackoverflow.com/questions/79931653/the-action-requires-write-permission-to-add-labels-to-pull-requests",
       "score": -1,
       "answers": 0,
-      "views": 12,
+      "views": 16,
       "tags": [
         "github",
         "github-actions"
@@ -30,11 +30,75 @@
     },
     {
       "rank": 3,
+      "title": "Java , Python , MERN & ML Libraries",
+      "url": "https://stackoverflow.com/questions/79931666/java-python-mern-ml-libraries",
+      "score": 0,
+      "answers": 0,
+      "views": 16,
+      "tags": [
+        "java",
+        "python-3.x",
+        "selenium-webdriver",
+        "machine-learning"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Can anyone get tc-lib-pdf working . I can't",
+      "url": "https://stackoverflow.com/questions/79931671/can-anyone-get-tc-lib-pdf-working-i-cant",
+      "score": 0,
+      "answers": 0,
+      "views": 14,
+      "tags": [
+        "php",
+        "html",
+        "pdf"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Matplotlib 3D plot Z-axis label not showing",
+      "url": "https://stackoverflow.com/questions/79931664/matplotlib-3d-plot-z-axis-label-not-showing",
+      "score": 0,
+      "answers": 0,
+      "views": 13,
+      "tags": [
+        "matplotlib",
+        "matplotlib-3d"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "I believe I have malicious tasks gaining access to my computor. Could someone have a look for me please and tell me if they see anything suspect",
+      "url": "https://stackoverflow.com/questions/79931655/i-believe-i-have-malicious-tasks-gaining-access-to-my-computor-could-someone-ha",
+      "score": -3,
+      "answers": 0,
+      "views": 34,
+      "tags": [
+        "task",
+        "taskmanager",
+        "spyware"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "C# Entity Framework issue when working with SQL Server in blog project",
+      "url": "https://stackoverflow.com/questions/79931643/c-entity-framework-issue-when-working-with-sql-server-in-blog-project",
+      "score": 0,
+      "answers": 1,
+      "views": 28,
+      "tags": [
+        "c#",
+        "entity-framework"
+      ]
+    },
+    {
+      "rank": 8,
       "title": "Use selectors in replace_na",
       "url": "https://stackoverflow.com/questions/79931640/use-selectors-in-replace-na",
       "score": 0,
       "answers": 0,
-      "views": 23,
+      "views": 30,
       "tags": [
         "r",
         "dplyr",
@@ -42,37 +106,23 @@
       ]
     },
     {
-      "rank": 4,
-      "title": "C# Entity Framework issue when working with SQL Server in blog project",
-      "url": "https://stackoverflow.com/questions/79931643/c-entity-framework-issue-when-working-with-sql-server-in-blog-project",
+      "rank": 9,
+      "title": "Linkedin Profile Scraper",
+      "url": "https://stackoverflow.com/questions/79931631/linkedin-profile-scraper",
       "score": 0,
       "answers": 1,
-      "views": 22,
+      "views": 28,
       "tags": [
-        "c#",
-        "entity-framework"
+        "linkedin-api"
       ]
     },
     {
-      "rank": 5,
-      "title": "Migrating from expo to React native crashes the app",
-      "url": "https://stackoverflow.com/questions/79931641/migrating-from-expo-to-react-native-crashes-the-app",
-      "score": -1,
-      "answers": 0,
-      "views": 16,
-      "tags": [
-        "react-native",
-        "expo",
-        "metro-bundler"
-      ]
-    },
-    {
-      "rank": 6,
+      "rank": 10,
       "title": "Why does Livewire reload the page after event or function fired (Acorn/Bedrock/Sage)?",
       "url": "https://stackoverflow.com/questions/79931634/why-does-livewire-reload-the-page-after-event-or-function-fired-acorn-bedrock-s",
       "score": 0,
-      "answers": 0,
-      "views": 25,
+      "answers": 1,
+      "views": 28,
       "tags": [
         "laravel-livewire",
         "sage",
@@ -82,23 +132,37 @@
       ]
     },
     {
-      "rank": 7,
-      "title": "Linkedin Profile Scrapper",
-      "url": "https://stackoverflow.com/questions/79931631/linkedin-profile-scrapper",
-      "score": 0,
+      "rank": 11,
+      "title": "Migrating from expo to React native crashes the app",
+      "url": "https://stackoverflow.com/questions/79931641/migrating-from-expo-to-react-native-crashes-the-app",
+      "score": -1,
       "answers": 0,
-      "views": 21,
+      "views": 18,
       "tags": [
-        "linkedin-api"
+        "react-native",
+        "expo",
+        "metro-bundler"
       ]
     },
     {
-      "rank": 8,
+      "rank": 12,
+      "title": "WM_NCCREATE not called as first message in custom Framework's WndProc function",
+      "url": "https://stackoverflow.com/questions/79931593/wm-nccreate-not-called-as-first-message-in-custom-frameworks-wndproc-function",
+      "score": 0,
+      "answers": 2,
+      "views": 59,
+      "tags": [
+        "c++",
+        "winapi"
+      ]
+    },
+    {
+      "rank": 13,
       "title": "How to upload file to cloudinary via Multer with Fasity",
       "url": "https://stackoverflow.com/questions/79931633/how-to-upload-file-to-cloudinary-via-multer-with-fasity",
       "score": 0,
       "answers": 0,
-      "views": 20,
+      "views": 21,
       "tags": [
         "express",
         "multer",
@@ -106,59 +170,75 @@
       ]
     },
     {
-      "rank": 9,
-      "title": "WM_NCCREATE not called as first message in custom Framework's WndProc function",
-      "url": "https://stackoverflow.com/questions/79931593/wm-nccreate-not-called-as-first-message-in-custom-frameworks-wndproc-function",
-      "score": -1,
-      "answers": 2,
-      "views": 49,
-      "tags": [
-        "c++",
-        "winapi"
-      ]
-    },
-    {
-      "rank": 10,
+      "rank": 14,
       "title": "What to include to access a standard concept, such as ContiguousContainer?",
       "url": "https://stackoverflow.com/questions/79931583/what-to-include-to-access-a-standard-concept-such-as-contiguouscontainer",
       "score": 2,
       "answers": 1,
-      "views": 89,
+      "views": 92,
       "tags": [
         "c++",
         "c++-concepts"
       ]
     },
     {
-      "rank": 11,
+      "rank": 15,
       "title": "Why does recursion in scheme macro cause error",
       "url": "https://stackoverflow.com/questions/79931604/why-does-recursion-in-scheme-macro-cause-error",
       "score": 0,
       "answers": 0,
-      "views": 28,
+      "views": 30,
       "tags": [
         "scheme",
         "racket"
       ]
     },
     {
-      "rank": 12,
+      "rank": 16,
       "title": "How do I cleanly return from a method that views labels moving through a position cursor?",
       "url": "https://stackoverflow.com/questions/79931627/how-do-i-cleanly-return-from-a-method-that-views-labels-moving-through-a-positio",
       "score": 0,
       "answers": 0,
-      "views": 24,
+      "views": 25,
       "tags": [
         "codenameone"
       ]
     },
     {
-      "rank": 13,
+      "rank": 17,
+      "title": "YouTube IFrame API: Is conditional autoplay queue progression required when document.visibilityState is 'hidden'?",
+      "url": "https://stackoverflow.com/questions/79931626/youtube-iframe-api-is-conditional-autoplay-queue-progression-required-when-docu",
+      "score": 0,
+      "answers": 0,
+      "views": 21,
+      "tags": [
+        "javascript",
+        "youtube-api",
+        "youtube-iframe-api",
+        "autoplay"
+      ]
+    },
+    {
+      "rank": 18,
+      "title": "Printer detected via USB but not via CUPS and thus printing is failing",
+      "url": "https://stackoverflow.com/questions/79931618/printer-detected-via-usb-but-not-via-cups-and-thus-printing-is-failing",
+      "score": 0,
+      "answers": 0,
+      "views": 20,
+      "tags": [
+        "linux",
+        "printing",
+        "usb",
+        "cups"
+      ]
+    },
+    {
+      "rank": 19,
       "title": "postEfficient mapping between index and permutation for very large n",
       "url": "https://stackoverflow.com/questions/79931595/postefficient-mapping-between-index-and-permutation-for-very-large-n",
       "score": 0,
       "answers": 2,
-      "views": 45,
+      "views": 47,
       "tags": [
         "javascript",
         "python",
@@ -168,7 +248,18 @@
       ]
     },
     {
-      "rank": 14,
+      "rank": 20,
+      "title": "Unambiguously delimited XPath results from xmllint",
+      "url": "https://stackoverflow.com/questions/79931621/unambiguously-delimited-xpath-results-from-xmllint",
+      "score": 0,
+      "answers": 1,
+      "views": 15,
+      "tags": [
+        "xmllint"
+      ]
+    },
+    {
+      "rank": 21,
       "title": "Full featured install4j license",
       "url": "https://stackoverflow.com/questions/79931603/full-featured-install4j-license",
       "score": 1,
@@ -179,51 +270,12 @@
       ]
     },
     {
-      "rank": 15,
-      "title": "Printer detected via USB but not via CUPS and thus printing is failing",
-      "url": "https://stackoverflow.com/questions/79931618/printer-detected-via-usb-but-not-via-cups-and-thus-printing-is-failing",
-      "score": 0,
-      "answers": 0,
-      "views": 18,
-      "tags": [
-        "linux",
-        "printing",
-        "usb",
-        "cups"
-      ]
-    },
-    {
-      "rank": 16,
-      "title": "Unambiguously delimited XPath results from xmllint",
-      "url": "https://stackoverflow.com/questions/79931621/unambiguously-delimited-xpath-results-from-xmllint",
-      "score": 0,
-      "answers": 1,
-      "views": 14,
-      "tags": [
-        "xmllint"
-      ]
-    },
-    {
-      "rank": 17,
-      "title": "YouTube IFrame API: Is conditional autoplay queue progression required when document.visibilityState is 'hidden'?",
-      "url": "https://stackoverflow.com/questions/79931626/youtube-iframe-api-is-conditional-autoplay-queue-progression-required-when-docu",
-      "score": 0,
-      "answers": 0,
-      "views": 17,
-      "tags": [
-        "javascript",
-        "youtube-api",
-        "youtube-iframe-api",
-        "autoplay"
-      ]
-    },
-    {
-      "rank": 18,
+      "rank": 22,
       "title": "What does the future holds for programmers",
       "url": "https://stackoverflow.com/questions/79931551/what-does-the-future-holds-for-programmers",
       "score": 1,
       "answers": 2,
-      "views": 95,
+      "views": 96,
       "tags": [
         "python",
         "automation",
@@ -233,7 +285,20 @@
       ]
     },
     {
-      "rank": 19,
+      "rank": 23,
+      "title": "What is the best career path in programming in 2026?",
+      "url": "https://stackoverflow.com/questions/79931529/what-is-the-best-career-path-in-programming-in-2026",
+      "score": 1,
+      "answers": 2,
+      "views": 87,
+      "tags": [
+        "security",
+        "artificial-intelligence",
+        "ml"
+      ]
+    },
+    {
+      "rank": 24,
       "title": "Salesforce dependency tree creation",
       "url": "https://stackoverflow.com/questions/79931615/salesforce-dependency-tree-creation",
       "score": 0,
@@ -245,83 +310,17 @@
       ]
     },
     {
-      "rank": 20,
+      "rank": 25,
       "title": "How to print the pages as they are with TipTap Pagination React?",
       "url": "https://stackoverflow.com/questions/79931610/how-to-print-the-pages-as-they-are-with-tiptap-pagination-react",
       "score": 1,
       "answers": 0,
-      "views": 35,
+      "views": 36,
       "tags": [
         "css",
         "reactjs",
         "typescript",
         "tiptap"
-      ]
-    },
-    {
-      "rank": 21,
-      "title": "The parameters don't match the method signature for SpreadsheetApp.Range.setBorder",
-      "url": "https://stackoverflow.com/questions/79931543/the-parameters-dont-match-the-method-signature-for-spreadsheetapp-range-setbord",
-      "score": -2,
-      "answers": 0,
-      "views": 50,
-      "tags": [
-        "google-sheets",
-        "google-apps-script"
-      ]
-    },
-    {
-      "rank": 22,
-      "title": "Best approach for handling large file uploads and ZIP generation in Laravel?",
-      "url": "https://stackoverflow.com/questions/79931563/best-approach-for-handling-large-file-uploads-and-zip-generation-in-laravel",
-      "score": 0,
-      "answers": 0,
-      "views": 42,
-      "tags": [
-        "php",
-        "file-upload",
-        "zip",
-        "php-ziparchive"
-      ]
-    },
-    {
-      "rank": 23,
-      "title": "Background leaflet image TileLayer goes black when returning to frozen tab",
-      "url": "https://stackoverflow.com/questions/79931515/background-leaflet-image-tilelayer-goes-black-when-returning-to-frozen-tab",
-      "score": 0,
-      "answers": 0,
-      "views": 32,
-      "tags": [
-        "javascript",
-        "leaflet"
-      ]
-    },
-    {
-      "rank": 24,
-      "title": "Want pthread_cond_timedwait alternative for CLOCK_PROCESS_CPUTIME_ID",
-      "url": "https://stackoverflow.com/questions/79931506/want-pthread-cond-timedwait-alternative-for-clock-process-cputime-id",
-      "score": 0,
-      "answers": 0,
-      "views": 52,
-      "tags": [
-        "c",
-        "linux",
-        "timer",
-        "pthreads",
-        "signals"
-      ]
-    },
-    {
-      "rank": 25,
-      "title": "Is this possible? a new AI age language， easy as py, fast as C++, more secure than Rust",
-      "url": "https://stackoverflow.com/questions/79931063/is-this-possible-a-new-ai-age-language-easy-as-py-fast-as-c-more-secure-th",
-      "score": 0,
-      "answers": 23,
-      "views": 306,
-      "tags": [
-        "python",
-        "c++",
-        "rust"
       ]
     }
   ]
