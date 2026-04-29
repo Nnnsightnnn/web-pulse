@@ -1,117 +1,117 @@
 {
   "source": "github",
   "label": "GitHub — trending today",
-  "fetched_at": "2026-04-29T06:01:33.294Z",
+  "fetched_at": "2026-04-29T11:30:56.967Z",
   "items": [
     {
       "rank": 1,
+      "title": "warpdotdev/warp",
+      "url": "https://github.com/warpdotdev/warp",
+      "description": "Warp is an agentic development environment, born out of the terminal.",
+      "language": "Rust",
+      "stars_today": 11955,
+      "stars": 38748,
+      "forks": 2090
+    },
+    {
+      "rank": 2,
       "title": "mattpocock/skills",
       "url": "https://github.com/mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .claude directory.",
       "language": "Shell",
       "stars_today": 7321,
-      "stars": 39075,
-      "forks": 3073
-    },
-    {
-      "rank": 2,
-      "title": "abhigyanpatwari/GitNexus",
-      "url": "https://github.com/abhigyanpatwari/GitNexus",
-      "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
-      "language": "TypeScript",
-      "stars_today": 1607,
-      "stars": 32813,
-      "forks": 3721
+      "stars": 41198,
+      "forks": 3227
     },
     {
       "rank": 3,
-      "title": "ComposioHQ/awesome-codex-skills",
-      "url": "https://github.com/ComposioHQ/awesome-codex-skills",
-      "description": "A curated list of practical Codex skills for automating workflows across the Codex CLI and API.",
-      "language": "Python",
-      "stars_today": 953,
-      "stars": 4245,
-      "forks": 269
-    },
-    {
-      "rank": 4,
-      "title": "microsoft/VibeVoice",
-      "url": "https://github.com/microsoft/VibeVoice",
-      "description": "Open-Source Frontier Voice AI",
-      "language": "Python",
-      "stars_today": 1483,
-      "stars": 45102,
-      "forks": 4998
-    },
-    {
-      "rank": 5,
-      "title": "davila7/claude-code-templates",
-      "url": "https://github.com/davila7/claude-code-templates",
-      "description": "CLI tool for configuring and monitoring Claude Code",
-      "language": "Python",
-      "stars_today": 346,
-      "stars": 26271,
-      "forks": 2619
-    },
-    {
-      "rank": 6,
       "title": "HunxByts/GhostTrack",
       "url": "https://github.com/HunxByts/GhostTrack",
       "description": "Useful tool to track location or mobile number",
       "language": "Python",
       "stars_today": 967,
-      "stars": 10854,
-      "forks": 1513
+      "stars": 11087,
+      "forks": 1532
+    },
+    {
+      "rank": 4,
+      "title": "ComposioHQ/awesome-codex-skills",
+      "url": "https://github.com/ComposioHQ/awesome-codex-skills",
+      "description": "A curated list of practical Codex skills for automating workflows across the Codex CLI and API.",
+      "language": "Python",
+      "stars_today": 953,
+      "stars": 4466,
+      "forks": 282
+    },
+    {
+      "rank": 5,
+      "title": "1jehuang/jcode",
+      "url": "https://github.com/1jehuang/jcode",
+      "description": "Coding Agent Harness",
+      "language": "Rust",
+      "stars_today": 386,
+      "stars": 1007,
+      "forks": 111
+    },
+    {
+      "rank": 6,
+      "title": "abhigyanpatwari/GitNexus",
+      "url": "https://github.com/abhigyanpatwari/GitNexus",
+      "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
+      "language": "TypeScript",
+      "stars_today": 1607,
+      "stars": 33020,
+      "forks": 3741
     },
     {
       "rank": 7,
-      "title": "fspecii/ace-step-ui",
-      "url": "https://github.com/fspecii/ace-step-ui",
-      "description": "🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno!",
-      "language": "JavaScript",
-      "stars_today": 162,
-      "stars": 1877,
-      "forks": 273
+      "title": "microsoft/VibeVoice",
+      "url": "https://github.com/microsoft/VibeVoice",
+      "description": "Open-Source Frontier Voice AI",
+      "language": "Python",
+      "stars_today": 1483,
+      "stars": 45367,
+      "forks": 5018
     },
     {
       "rank": 8,
-      "title": "public-apis/public-apis",
-      "url": "https://github.com/public-apis/public-apis",
-      "description": "A collective list of free APIs",
-      "language": "Python",
-      "stars_today": 644,
-      "stars": 428466,
-      "forks": 46772
-    },
-    {
-      "rank": 9,
       "title": "CJackHwang/ds2api",
       "url": "https://github.com/CJackHwang/ds2api",
       "description": "Deepseek to API: A lightweight, high-performance full-stack middleware converting client protocols to universal APIs. Supports multi-account rotation, compiled binaries, Vercel Serverless, and Docker. Compatible with Google, Claude, and OpenAI API formats.",
       "language": "Go",
       "stars_today": 417,
-      "stars": 2455,
-      "forks": 665
+      "stars": 2559,
+      "forks": 693
+    },
+    {
+      "rank": 9,
+      "title": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars_today": 1683,
+      "stars": 172402,
+      "forks": 15214
     },
     {
       "rank": 10,
-      "title": "Alishahryar1/free-claude-code",
-      "url": "https://github.com/Alishahryar1/free-claude-code",
-      "description": "Use claude-code for free in the terminal, VSCode extension or discord like openclaw",
+      "title": "ZhuLinsen/daily_stock_analysis",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "description": "LLM驱动的 A/H/美股智能分析器：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets.",
       "language": "Python",
-      "stars_today": 1741,
-      "stars": 17759,
-      "forks": 2492
+      "stars_today": 278,
+      "stars": 32378,
+      "forks": 32800
     },
     {
       "rank": 11,
-      "title": "donnemartin/system-design-primer",
-      "url": "https://github.com/donnemartin/system-design-primer",
-      "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
-      "language": "Python",
-      "stars_today": 744,
-      "stars": 345997,
-      "forks": 55840
+      "title": "lukilabs/craft-agents-oss",
+      "url": "https://github.com/lukilabs/craft-agents-oss",
+      "description": "",
+      "language": "TypeScript",
+      "stars_today": 432,
+      "stars": 5162,
+      "forks": 710
     },
     {
       "rank": 12,
@@ -120,18 +120,48 @@
       "description": "📚 Freely available programming books",
       "language": "Python",
       "stars_today": 147,
-      "stars": 386778,
-      "forks": 66165
+      "stars": 386934,
+      "forks": 66174
     },
     {
       "rank": 13,
-      "title": "iamgio/quarkdown",
-      "url": "https://github.com/iamgio/quarkdown",
-      "description": "🪐 Markdown with superpowers: from ideas to papers, presentations, websites, books, and knowledge bases.",
-      "language": "Kotlin",
-      "stars_today": 699,
-      "stars": 12274,
-      "forks": 324
+      "title": "soxoj/maigret",
+      "url": "https://github.com/soxoj/maigret",
+      "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
+      "language": "Python",
+      "stars_today": 31,
+      "stars": 19825,
+      "forks": 1405
+    },
+    {
+      "rank": 14,
+      "title": "iv-org/invidious",
+      "url": "https://github.com/iv-org/invidious",
+      "description": "Invidious is an alternative front-end to YouTube",
+      "language": "Crystal",
+      "stars_today": 143,
+      "stars": 19272,
+      "forks": 2132
+    },
+    {
+      "rank": 15,
+      "title": "gorhill/uBlock",
+      "url": "https://github.com/gorhill/uBlock",
+      "description": "uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.",
+      "language": "JavaScript",
+      "stars_today": 569,
+      "stars": 63868,
+      "forks": 4069
+    },
+    {
+      "rank": 16,
+      "title": "microsoft/PowerToys",
+      "url": "https://github.com/microsoft/PowerToys",
+      "description": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
+      "language": "C#",
+      "stars_today": 79,
+      "stars": 132175,
+      "forks": 7906
     }
   ]
 }

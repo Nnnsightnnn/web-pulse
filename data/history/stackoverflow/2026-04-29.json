@@ -1,324 +1,322 @@
 {
   "source": "stackoverflow",
   "label": "Stack Overflow — hot questions",
-  "fetched_at": "2026-04-29T06:01:33.677Z",
+  "fetched_at": "2026-04-29T11:30:56.210Z",
   "items": [
     {
       "rank": 1,
-      "title": "looking for embedded webrtc solution for ip camera?",
-      "url": "https://stackoverflow.com/questions/79933438/looking-for-embedded-webrtc-solution-for-ip-camera",
-      "score": 0,
-      "answers": 0,
-      "views": 16,
-      "tags": [
-        "c"
-      ]
-    },
-    {
-      "rank": 2,
-      "title": "TypeError: 'NoneType' object is not subscriptable?",
-      "url": "https://stackoverflow.com/questions/79933410/typeerror-nonetype-object-is-not-subscriptable",
-      "score": -1,
-      "answers": 1,
-      "views": 29,
-      "tags": [
-        "python"
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "The script doesn't work for the owner but works fine for me",
-      "url": "https://stackoverflow.com/questions/79933429/the-script-doesnt-work-for-the-owner-but-works-fine-for-me",
-      "score": -2,
-      "answers": 0,
-      "views": 25,
-      "tags": [
-        "roblox",
-        "roblox-studio"
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "Child div getting wider than parent on CSS grid, with content queries",
-      "url": "https://stackoverflow.com/questions/79933425/child-div-getting-wider-than-parent-on-css-grid-with-content-queries",
-      "score": 1,
-      "answers": 1,
-      "views": 25,
-      "tags": [
-        "html",
-        "css",
-        "css-grid"
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "Issue with SharePoint Access Due to Discontinuation of Basic Authentication",
-      "url": "https://stackoverflow.com/questions/79933431/issue-with-sharepoint-access-due-to-discontinuation-of-basic-authentication",
-      "score": -2,
-      "answers": 0,
-      "views": 15,
-      "tags": [
-        "vb.net",
-        "sharepoint"
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "How to get rid of “vec_is_vector() is defunct” error in mutate() function in R?",
-      "url": "https://stackoverflow.com/questions/79933422/how-to-get-rid-of-vec-is-vector-is-defunct-error-in-mutate-function-in-r",
-      "score": 0,
-      "answers": 0,
-      "views": 21,
-      "tags": [
-        "r",
-        "dplyr",
-        "vector",
-        "error-handling",
-        "mutate"
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "Can Core Data avoid index rebuild when adding a new attribute during lightweight migration?",
-      "url": "https://stackoverflow.com/questions/79933417/can-core-data-avoid-index-rebuild-when-adding-a-new-attribute-during-lightweight",
+      "title": "Get a constant value in struts-config.xml from Java class",
+      "url": "https://stackoverflow.com/questions/79933606/get-a-constant-value-in-struts-config-xml-from-java-class",
       "score": 1,
       "answers": 0,
       "views": 19,
       "tags": [
-        "ios",
-        "swift",
-        "core-data",
-        "core-data-migration"
+        "struts-1",
+        "struts-config"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Fusing row with previous row(s) depending on criteria",
+      "url": "https://stackoverflow.com/questions/79933604/fusing-row-with-previous-rows-depending-on-criteria",
+      "score": 1,
+      "answers": 1,
+      "views": 17,
+      "tags": [
+        "python",
+        "pandas",
+        "dataframe",
+        "csv"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Pointer Value not being modified",
+      "url": "https://stackoverflow.com/questions/79933588/pointer-value-not-being-modified",
+      "score": 1,
+      "answers": 2,
+      "views": 41,
+      "tags": [
+        "c",
+        "pointers"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Problem with searchable combo box in Java Swing",
+      "url": "https://stackoverflow.com/questions/79933543/problem-with-searchable-combo-box-in-java-swing",
+      "score": 1,
+      "answers": 1,
+      "views": 26,
+      "tags": [
+        "java",
+        "swing",
+        "combobox",
+        "textfield"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "How can I mask an image with a different HTML element?",
+      "url": "https://stackoverflow.com/questions/79933587/how-can-i-mask-an-image-with-a-different-html-element",
+      "score": 1,
+      "answers": 0,
+      "views": 37,
+      "tags": [
+        "javascript",
+        "html",
+        "css",
+        "mask"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "If i had fast algorithm that prove P=NP then how many bitcoin should i mine per year",
+      "url": "https://stackoverflow.com/questions/79933600/if-i-had-fast-algorithm-that-prove-p-np-then-how-many-bitcoin-should-i-mine-per",
+      "score": 0,
+      "answers": 2,
+      "views": 34,
+      "tags": [
+        "cryptography",
+        "computer-science",
+        "bitcoin"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "During template argument deduction and substitution of function template, do class template specialization get implicily instantiated?",
+      "url": "https://stackoverflow.com/questions/79933548/during-template-argument-deduction-and-substitution-of-function-template-do-cla",
+      "score": 0,
+      "answers": 2,
+      "views": 33,
+      "tags": [
+        "c++",
+        "templates"
       ]
     },
     {
       "rank": 8,
-      "title": "Resetting audio graph? (Reconnecting after disconnecting audio nodes)",
-      "url": "https://stackoverflow.com/questions/79933415/resetting-audio-graph-reconnecting-after-disconnecting-audio-nodes",
-      "score": 0,
+      "title": "How to develop USB audio driver on Windows",
+      "url": "https://stackoverflow.com/questions/79933585/how-to-develop-usb-audio-driver-on-windows",
+      "score": -1,
       "answers": 0,
-      "views": 16,
+      "views": 23,
       "tags": [
-        "javascript",
-        "web-audio-api"
+        "c++",
+        "windows",
+        "windows-driver"
       ]
     },
     {
       "rank": 9,
-      "title": "YouTube blocks requests (Sign in to confirm you're not a bot) when using yt-dlp / YoutubeExplode on Azure",
-      "url": "https://stackoverflow.com/questions/79933409/youtube-blocks-requests-sign-in-to-confirm-youre-not-a-bot-when-using-yt-dlp",
-      "score": -3,
+      "title": ".NET PerformanceCounter CPU freezes on initalisation",
+      "url": "https://stackoverflow.com/questions/79933575/net-performancecounter-cpu-freezes-on-initalisation",
+      "score": 0,
       "answers": 0,
-      "views": 16,
+      "views": 20,
       "tags": [
-        "azure",
-        "youtube-data-api"
+        ".net",
+        "performancecounter"
       ]
     },
     {
       "rank": 10,
-      "title": "Why pvs,vgs and lvs commands do not detecting NVMe partition on my Ubuntu",
-      "url": "https://stackoverflow.com/questions/79933421/why-pvs-vgs-and-lvs-commands-do-not-detecting-nvme-partition-on-my-ubuntu",
-      "score": -1,
-      "answers": 0,
-      "views": 15,
+      "title": "Active MQ APACHE NMS MessageId header",
+      "url": "https://stackoverflow.com/questions/79933581/active-mq-apache-nms-messageid-header",
+      "score": 0,
+      "answers": 1,
+      "views": 18,
       "tags": [
-        "ubuntu",
-        "lvm"
+        "apache",
+        "activemq-classic",
+        "amqp",
+        "nms",
+        "messageid"
       ]
     },
     {
       "rank": 11,
-      "title": "Issues with redirecting output text to a separate window in Python",
-      "url": "https://stackoverflow.com/questions/79933363/issues-with-redirecting-output-text-to-a-separate-window-in-python",
-      "score": 2,
-      "answers": 1,
-      "views": 43,
+      "title": "Entity doesn't contain attribute name that exists in the sub entity",
+      "url": "https://stackoverflow.com/questions/79933601/entity-doesnt-contain-attribute-name-that-exists-in-the-sub-entity",
+      "score": 0,
+      "answers": 0,
+      "views": 14,
       "tags": [
-        "python",
-        "tkinter",
-        "stdout"
+        "dynamics-crm",
+        "dynamics-crm-odata"
       ]
     },
     {
       "rank": 12,
-      "title": "How does the vptr work and can point to vtables of 2 classes?",
-      "url": "https://stackoverflow.com/questions/79933337/how-does-the-vptr-work-and-can-point-to-vtables-of-2-classes",
-      "score": 0,
-      "answers": 3,
-      "views": 58,
+      "title": "Error in calculating the RSI and SMA by the talib",
+      "url": "https://stackoverflow.com/questions/79933586/error-in-calculating-the-rsi-and-sma-by-the-talib",
+      "score": 2,
+      "answers": 0,
+      "views": 12,
       "tags": [
-        "c++",
-        "polymorphism",
-        "virtual-functions",
-        "vtable",
-        "vptr"
+        "ta-lib"
       ]
     },
     {
       "rank": 13,
-      "title": "How to avoid \"Close\" button on Windows notification via Electron",
-      "url": "https://stackoverflow.com/questions/79933381/how-to-avoid-close-button-on-windows-notification-via-electron",
-      "score": 0,
-      "answers": 1,
-      "views": 28,
+      "title": "uploader_email = models.EmailField(blank=True) # optional email field",
+      "url": "https://stackoverflow.com/questions/79933584/uploader-email-models-emailfieldblank-true-optional-email-field",
+      "score": -1,
+      "answers": 0,
+      "views": 11,
       "tags": [
-        "javascript",
-        "node.js",
-        "windows",
-        "notifications",
-        "electron"
+        "django",
+        "media"
       ]
     },
     {
       "rank": 14,
-      "title": "How to add 2nd VLAN attachment spoke to a GCP hub",
-      "url": "https://stackoverflow.com/questions/79933405/how-to-add-2nd-vlan-attachment-spoke-to-a-gcp-hub",
-      "score": -1,
-      "answers": 0,
-      "views": 23,
+      "title": "Content is appearing over fixed header",
+      "url": "https://stackoverflow.com/questions/79933523/content-is-appearing-over-fixed-header",
+      "score": 2,
+      "answers": 2,
+      "views": 35,
       "tags": [
-        "google-cloud-platform"
+        "html",
+        "css"
       ]
     },
     {
       "rank": 15,
-      "title": "Flutter Custom Crop Ui",
-      "url": "https://stackoverflow.com/questions/79933399/flutter-custom-crop-ui",
-      "score": -1,
+      "title": "Why keyof never is union of string number and symbol?",
+      "url": "https://stackoverflow.com/questions/79933564/why-keyof-never-is-union-of-string-number-and-symbol",
+      "score": 0,
       "answers": 0,
-      "views": 22,
+      "views": 33,
       "tags": [
-        "flutter"
+        "typescript"
       ]
     },
     {
       "rank": 16,
-      "title": "GoTo API - Unable to get OAuth Token using Personal Access Token - using C# code sample - HttpClient and OAuth",
-      "url": "https://stackoverflow.com/questions/79933392/goto-api-unable-to-get-oauth-token-using-personal-access-token-using-c-code",
-      "score": 0,
+      "title": "How to Enahnce the predictions of LSTM model",
+      "url": "https://stackoverflow.com/questions/79933560/how-to-enahnce-the-predictions-of-lstm-model",
+      "score": -1,
       "answers": 0,
-      "views": 18,
+      "views": 29,
       "tags": [
-        "rest",
-        "oauth",
-        "dotnet-httpclient"
+        "python",
+        "pandas",
+        "tensorflow",
+        "keras",
+        "finance"
       ]
     },
     {
       "rank": 17,
-      "title": "Quartz.net clustering mode",
-      "url": "https://stackoverflow.com/questions/79933341/quartz-net-clustering-mode",
+      "title": "GitHub Action \"Generate Snake\" not displaying GIF in README preview",
+      "url": "https://stackoverflow.com/questions/79933535/github-action-generate-snake-not-displaying-gif-in-readme-preview",
       "score": -1,
-      "answers": 0,
-      "views": 32,
+      "answers": 1,
+      "views": 21,
       "tags": [
-        "asp.net-core",
-        "quartz.net",
-        ".net-10.0"
+        "github",
+        "github-actions"
       ]
     },
     {
       "rank": 18,
-      "title": "Where to find core.logic's api doc?",
-      "url": "https://stackoverflow.com/questions/79933393/where-to-find-core-logics-api-doc",
+      "title": "How to populate nested objects simultaneously in ASP.NET",
+      "url": "https://stackoverflow.com/questions/79933550/how-to-populate-nested-objects-simultaneously-in-asp-net",
       "score": 0,
-      "answers": 1,
-      "views": 14,
+      "answers": 2,
+      "views": 26,
       "tags": [
-        "clojure-core.logic"
+        "asp.net",
+        "postgresql",
+        "asp.net-web-api"
       ]
     },
     {
       "rank": 19,
-      "title": "How to build logic to solve any python coding questions?",
-      "url": "https://stackoverflow.com/questions/79933388/how-to-build-logic-to-solve-any-python-coding-questions",
-      "score": -5,
-      "answers": 1,
-      "views": 60,
+      "title": "Should I explicitly use a rounding utility within ERPNext (if yes, which one)?",
+      "url": "https://stackoverflow.com/questions/79933553/should-i-explicitly-use-a-rounding-utility-within-erpnext-if-yes-which-one",
+      "score": -4,
+      "answers": 0,
+      "views": 23,
       "tags": [
-        "python",
-        "string",
-        "reverse"
+        "erpnext"
       ]
     },
     {
       "rank": 20,
-      "title": "How to copy files in Windows while preserving their dates?",
-      "url": "https://stackoverflow.com/questions/79933375/how-to-copy-files-in-windows-while-preserving-their-dates",
-      "score": 0,
+      "title": "Enabling ACLs + OAuth on an existing cluster required a full reformat, is this expected?",
+      "url": "https://stackoverflow.com/questions/79933544/enabling-acls-oauth-on-an-existing-cluster-required-a-full-reformat-is-this-e",
+      "score": -1,
       "answers": 0,
-      "views": 61,
+      "views": 19,
       "tags": [
-        "c++",
-        "c",
-        "windows",
-        "winapi",
-        "filesystems"
+        "apache-kafka",
+        "acl"
       ]
     },
     {
       "rank": 21,
-      "title": "MySQL query fetchall() result",
-      "url": "https://stackoverflow.com/questions/79933336/mysql-query-fetchall-result",
-      "score": 0,
-      "answers": 1,
-      "views": 48,
+      "title": "Invalid object storage secret contents: scheme of S3 endpoint URL is unsupported: minio.minio.svc.cluster.local",
+      "url": "https://stackoverflow.com/questions/79933563/invalid-object-storage-secret-contents-scheme-of-s3-endpoint-url-is-unsupported",
+      "score": 1,
+      "answers": 0,
+      "views": 17,
       "tags": [
-        "python",
-        "mysql",
-        "mysql-connector-python"
+        "openshift",
+        "grafana-loki"
       ]
     },
     {
       "rank": 22,
-      "title": "Best method for loading a new page based on the value of an API response: Call API before or after landing",
-      "url": "https://stackoverflow.com/questions/79933377/best-method-for-loading-a-new-page-based-on-the-value-of-an-api-response-call-a",
+      "title": "Snowflake Git Repository with Azure DevOps Service Principal, \"Operation 'clone' is not authorized\"",
+      "url": "https://stackoverflow.com/questions/79933541/snowflake-git-repository-with-azure-devops-service-principal-operation-clone",
       "score": 0,
-      "answers": 2,
-      "views": 17,
+      "answers": 0,
+      "views": 14,
       "tags": [
-        "html",
-        "angular",
-        "angular-ui-router"
+        "git",
+        "azure-devops",
+        "oauth-2.0",
+        "snowflake-cloud-data-platform"
       ]
     },
     {
       "rank": 23,
-      "title": "Emscripten build gives an error in building, error is about SDL3_ttf",
-      "url": "https://stackoverflow.com/questions/79933326/emscripten-build-gives-an-error-in-building-error-is-about-sdl3-ttf",
-      "score": -1,
-      "answers": 1,
-      "views": 36,
+      "title": "How can I completely disable git support inside the Visual Studio 2026 Community Edition?",
+      "url": "https://stackoverflow.com/questions/79933504/how-can-i-completely-disable-git-support-inside-the-visual-studio-2026-community",
+      "score": 0,
+      "answers": 0,
+      "views": 41,
       "tags": [
-        "c++",
-        "cmake",
-        "sdl",
-        "emscripten",
-        "sdl-3"
+        "git",
+        "visual-studio-2026"
       ]
     },
     {
       "rank": 24,
-      "title": "Git branching workflow with regular commits to staging and production",
-      "url": "https://stackoverflow.com/questions/79933362/git-branching-workflow-with-regular-commits-to-staging-and-production",
-      "score": 0,
-      "answers": 1,
-      "views": 23,
+      "title": "React Router v6 throwing \"Uncaught TypeError: Cannot read properties of null (reading 'useRef')\" and \"Invalid Hook Call\"",
+      "url": "https://stackoverflow.com/questions/79933501/react-router-v6-throwing-uncaught-typeerror-cannot-read-properties-of-null-re",
+      "score": -1,
+      "answers": 0,
+      "views": 36,
       "tags": [
-        "git"
+        "javascript",
+        "reactjs",
+        "npm",
+        "react-hooks",
+        "react-router-dom"
       ]
     },
     {
       "rank": 25,
-      "title": "PostgreSQL to MySQL Data Migration -Need a Reliable Converter",
-      "url": "https://stackoverflow.com/questions/79933166/postgresql-to-mysql-data-migration-need-a-reliable-converter",
+      "title": "Can anyone explain what are maven tests",
+      "url": "https://stackoverflow.com/questions/79933514/can-anyone-explain-what-are-maven-tests",
       "score": 0,
-      "answers": 7,
-      "views": 66,
+      "answers": 2,
+      "views": 33,
       "tags": [
-        "mysql",
-        "postgresql"
+        "maven"
       ]
     }
   ]

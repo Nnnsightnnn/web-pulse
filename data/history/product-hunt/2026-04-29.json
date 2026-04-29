@@ -1,7 +1,7 @@
 {
   "source": "product-hunt",
   "label": "Product Hunt — top products",
-  "fetched_at": "2026-04-29T06:01:34.428Z",
+  "fetched_at": "2026-04-29T11:30:56.515Z",
   "configured": true,
   "items": [
     {
@@ -15,9 +15,9 @@
     {
       "rank": 2,
       "title": "Fathom 3.0",
-      "url": "https://www.producthunt.com/products/fathom?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+web-pulse+%28ID%3A+282925%29",
+      "url": "https://www.producthunt.com/products/fathom/launches/fathom-3-0?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+web-pulse+%28ID%3A+282925%29",
       "tagline": "AI meeting notes: now bot-free, in ChatGPT & Claude + more",
-      "votes_count": 729,
+      "votes_count": 732,
       "comments_count": 227
     },
     {
@@ -25,8 +25,8 @@
       "title": "ProdShort",
       "url": "https://www.producthunt.com/products/prodshort/launches/prodshort?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+web-pulse+%28ID%3A+282925%29",
       "tagline": "Turn meetings into ready-to-post shorts and posts",
-      "votes_count": 711,
-      "comments_count": 150
+      "votes_count": 713,
+      "comments_count": 151
     },
     {
       "rank": 4,
@@ -49,7 +49,7 @@
       "title": "Dune",
       "url": "https://www.producthunt.com/products/dune-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+web-pulse+%28ID%3A+282925%29",
       "tagline": "Context-aware Mac keypad to automate workflows + meetings",
-      "votes_count": 607,
+      "votes_count": 606,
       "comments_count": 62
     },
     {
@@ -71,9 +71,9 @@
     {
       "rank": 9,
       "title": "Claude Code Routines",
-      "url": "https://www.producthunt.com/products/claude?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+web-pulse+%28ID%3A+282925%29",
+      "url": "https://www.producthunt.com/products/claude/launches/claude-code-routines?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+web-pulse+%28ID%3A+282925%29",
       "tagline": "Put Claude Code tasks on autopilot with smart routines",
-      "votes_count": 588,
+      "votes_count": 587,
       "comments_count": 16
     },
     {
@@ -89,7 +89,7 @@
       "title": "RankAI",
       "url": "https://www.producthunt.com/products/rankai-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+web-pulse+%28ID%3A+282925%29",
       "tagline": "RankAI autonomously gets you buyers from Google & AI Search",
-      "votes_count": 575,
+      "votes_count": 574,
       "comments_count": 107
     },
     {
@@ -126,14 +126,22 @@
     },
     {
       "rank": 16,
-      "title": "Notion MCP",
-      "url": "https://www.producthunt.com/products/notion-mcp/launches/notion-mcp?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+web-pulse+%28ID%3A+282925%29",
-      "tagline": "Your Notion workspace, inside every AI agent",
-      "votes_count": 487,
-      "comments_count": 49
+      "title": "Clera",
+      "url": "https://www.producthunt.com/products/clera?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+web-pulse+%28ID%3A+282925%29",
+      "tagline": "An AI agent matching candidates to the right roles.",
+      "votes_count": 515,
+      "comments_count": 221
     },
     {
       "rank": 17,
+      "title": "Notion MCP",
+      "url": "https://www.producthunt.com/products/notion-mcp/launches/notion-mcp?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+web-pulse+%28ID%3A+282925%29",
+      "tagline": "Your Notion workspace, inside every AI agent",
+      "votes_count": 486,
+      "comments_count": 49
+    },
+    {
+      "rank": 18,
       "title": "Build Check",
       "url": "https://www.producthunt.com/products/build-check-for-outsiders?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+web-pulse+%28ID%3A+282925%29",
       "tagline": "Is your app idea actually worth building?",
@@ -141,28 +149,20 @@
       "comments_count": 52
     },
     {
-      "rank": 18,
+      "rank": 19,
       "title": "Orange Slice",
       "url": "https://www.producthunt.com/products/orange-slice?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+web-pulse+%28ID%3A+282925%29",
       "tagline": "Automate any sales task with AI",
-      "votes_count": 463,
+      "votes_count": 461,
       "comments_count": 48
     },
     {
-      "rank": 19,
+      "rank": 20,
       "title": "Computer Use in Claude Code",
       "url": "https://www.producthunt.com/products/claude/launches/computer-use-in-claude-code-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+web-pulse+%28ID%3A+282925%29",
       "tagline": "Let Claude use your computer from the CLI",
       "votes_count": 459,
       "comments_count": 6
-    },
-    {
-      "rank": 20,
-      "title": "Influcio",
-      "url": "https://www.producthunt.com/products/influcio-2/launches/influcio-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+web-pulse+%28ID%3A+282925%29",
-      "tagline": "AI marketing Agent for result-driven influencer campaign",
-      "votes_count": 459,
-      "comments_count": 35
     }
   ]
 }
