@@ -1,0 +1,331 @@
+{
+  "source": "stackoverflow",
+  "label": "Stack Overflow — hot questions",
+  "fetched_at": "2026-04-30T11:07:06.809Z",
+  "items": [
+    {
+      "rank": 1,
+      "title": "Is CPU allowed to perform a speculative execution on nullptr branch conditions?",
+      "url": "https://stackoverflow.com/questions/79934149/is-cpu-allowed-to-perform-a-speculative-execution-on-nullptr-branch-conditions",
+      "score": 0,
+      "answers": 2,
+      "views": 21,
+      "tags": [
+        "c++",
+        "x86",
+        "x86-64",
+        "cpu",
+        "cpu-architecture"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "How to open Android app if installed, otherwise redirect to Google Play (no JavaScript)",
+      "url": "https://stackoverflow.com/questions/79934138/how-to-open-android-app-if-installed-otherwise-redirect-to-google-play-no-java",
+      "score": 0,
+      "answers": 1,
+      "views": 16,
+      "tags": [
+        "android",
+        "android-deep-link"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "FILEX on STM32 reading incorrect cluster value for FAT32 drive",
+      "url": "https://stackoverflow.com/questions/79934154/filex-on-stm32-reading-incorrect-cluster-value-for-fat32-drive",
+      "score": 1,
+      "answers": 0,
+      "views": 13,
+      "tags": [
+        "stm32",
+        "fat32"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "How to programatically start a drag for an Electron app on X11",
+      "url": "https://stackoverflow.com/questions/79934164/how-to-programatically-start-a-drag-for-an-electron-app-on-x11",
+      "score": 0,
+      "answers": 0,
+      "views": 12,
+      "tags": [
+        "linux",
+        "electron",
+        "x11",
+        "ewmh"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "GCLID Data Transfer CSV Load Failure – BigQuery Job Error (All Fields Table)",
+      "url": "https://stackoverflow.com/questions/79934146/gclid-data-transfer-csv-load-failure-bigquery-job-error-all-fields-table",
+      "score": 0,
+      "answers": 0,
+      "views": 11,
+      "tags": [
+        "google-bigquery"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Aliasing concerns for custom std::byte-like type",
+      "url": "https://stackoverflow.com/questions/79934099/aliasing-concerns-for-custom-stdbyte-like-type",
+      "score": 1,
+      "answers": 1,
+      "views": 43,
+      "tags": [
+        "c++",
+        "undefined-behavior",
+        "pointer-aliasing",
+        "std-byte"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Claude probe ran but did not return `hello` as expected - Paperclip AI",
+      "url": "https://stackoverflow.com/questions/79934115/claude-probe-ran-but-did-not-return-hello-as-expected-paperclip-ai",
+      "score": -2,
+      "answers": 0,
+      "views": 31,
+      "tags": [
+        "claude",
+        "claude-code"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "ESP32 not receiving ESP-NOW packages when connected to AP (despite WIFI_AP_STA mode and despite correct wifi channel)",
+      "url": "https://stackoverflow.com/questions/79934125/esp32-not-receiving-esp-now-packages-when-connected-to-ap-despite-wifi-ap-sta-m",
+      "score": 0,
+      "answers": 0,
+      "views": 26,
+      "tags": [
+        "arduino",
+        "esp32",
+        "esp-now"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "How to create a functional test on an existing resource on Google Cloud?",
+      "url": "https://stackoverflow.com/questions/79934106/how-to-create-a-functional-test-on-an-existing-resource-on-google-cloud",
+      "score": 1,
+      "answers": 1,
+      "views": 20,
+      "tags": [
+        "python",
+        "google-cloud-platform",
+        "pytest",
+        "functional-testing",
+        "monkeypatching"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Why does OpenAI Responses API (with web_search) return different results than ChatGPT for the same query?",
+      "url": "https://stackoverflow.com/questions/79934107/why-does-openai-responses-api-with-web-search-return-different-results-than-ch",
+      "score": 0,
+      "answers": 0,
+      "views": 18,
+      "tags": [
+        "openai-api",
+        "prompt",
+        "large-language-model",
+        "chatgpt-api"
+      ]
+    },
+    {
+      "rank": 11,
+      "title": "jquery fileupload - missing header HTTP_CONTENT_RANGE",
+      "url": "https://stackoverflow.com/questions/79934110/jquery-fileupload-missing-header-http-content-range",
+      "score": -6,
+      "answers": 0,
+      "views": 20,
+      "tags": [
+        "php",
+        "jquery",
+        "file",
+        "upload",
+        "blueimp"
+      ]
+    },
+    {
+      "rank": 12,
+      "title": "Running jsRuntime.InvokeAsync twice clears the first set of <canvas> images",
+      "url": "https://stackoverflow.com/questions/79934109/running-jsruntime-invokeasync-twice-clears-the-first-set-of-canvas-images",
+      "score": -2,
+      "answers": 0,
+      "views": 15,
+      "tags": [
+        "javascript",
+        "canvas",
+        "blazor",
+        "webr"
+      ]
+    },
+    {
+      "rank": 13,
+      "title": "IBM MQ: CONNS and CURSHCNV show same value despite multiple JMS sessions",
+      "url": "https://stackoverflow.com/questions/79934117/ibm-mq-conns-and-curshcnv-show-same-value-despite-multiple-jms-sessions",
+      "score": 0,
+      "answers": 1,
+      "views": 11,
+      "tags": [
+        "ibm-mq"
+      ]
+    },
+    {
+      "rank": 14,
+      "title": "The German version of my Wordpress website displays the newsletter sign-up form (shortcode), but the English version does not",
+      "url": "https://stackoverflow.com/questions/79934092/the-german-version-of-my-wordpress-website-displays-the-newsletter-sign-up-form",
+      "score": -4,
+      "answers": 0,
+      "views": 31,
+      "tags": [
+        "wordpress",
+        "shortcode",
+        "activecampaign"
+      ]
+    },
+    {
+      "rank": 15,
+      "title": "Add chart in a Word document",
+      "url": "https://stackoverflow.com/questions/79934101/add-chart-in-a-word-document",
+      "score": -2,
+      "answers": 0,
+      "views": 28,
+      "tags": [
+        "c#",
+        "npoi"
+      ]
+    },
+    {
+      "rank": 16,
+      "title": "How to publish utility executable as part of regular build?",
+      "url": "https://stackoverflow.com/questions/79934080/how-to-publish-utility-executable-as-part-of-regular-build",
+      "score": 1,
+      "answers": 1,
+      "views": 28,
+      "tags": [
+        ".net",
+        "build",
+        "msbuild",
+        "executable"
+      ]
+    },
+    {
+      "rank": 17,
+      "title": "Problems with emulator in android studio",
+      "url": "https://stackoverflow.com/questions/79934036/problems-with-emulator-in-android-studio",
+      "score": 0,
+      "answers": 2,
+      "views": 27,
+      "tags": [
+        "android",
+        "localhost",
+        "adb"
+      ]
+    },
+    {
+      "rank": 18,
+      "title": "New Beginner starting in flutter advice needed",
+      "url": "https://stackoverflow.com/questions/79934075/new-beginner-starting-in-flutter-advice-needed",
+      "score": 0,
+      "answers": 1,
+      "views": 23,
+      "tags": [
+        "android",
+        "flutter",
+        "user-interface"
+      ]
+    },
+    {
+      "rank": 19,
+      "title": "Merge values from a JSON file into a new key-value in another JSON file",
+      "url": "https://stackoverflow.com/questions/79934084/merge-values-from-a-json-file-into-a-new-key-value-in-another-json-file",
+      "score": 0,
+      "answers": 2,
+      "views": 22,
+      "tags": [
+        "json",
+        "jq"
+      ]
+    },
+    {
+      "rank": 20,
+      "title": "How to install Supabase in windows Locally?",
+      "url": "https://stackoverflow.com/questions/79934100/how-to-install-supabase-in-windows-locally",
+      "score": -2,
+      "answers": 0,
+      "views": 21,
+      "tags": [
+        "supabase"
+      ]
+    },
+    {
+      "rank": 21,
+      "title": "Yii3 REST API Authentication & Authorization Setup",
+      "url": "https://stackoverflow.com/questions/79934035/yii3-rest-api-authentication-authorization-setup",
+      "score": 0,
+      "answers": 1,
+      "views": 21,
+      "tags": [
+        "php",
+        "rest",
+        "authentication",
+        "yii",
+        "authorization"
+      ]
+    },
+    {
+      "rank": 22,
+      "title": "Keycloak 25: Custom UserStorageProvider – different lookup logic for Identity Provider login vs username login",
+      "url": "https://stackoverflow.com/questions/79934086/keycloak-25-custom-userstorageprovider-different-lookup-logic-for-identity-pr",
+      "score": 0,
+      "answers": 0,
+      "views": 19,
+      "tags": [
+        "keycloak",
+        "openid-connect"
+      ]
+    },
+    {
+      "rank": 23,
+      "title": "How To Become Pro Devops Eng",
+      "url": "https://stackoverflow.com/questions/79933978/how-to-become-pro-devops-eng",
+      "score": 0,
+      "answers": 1,
+      "views": 55,
+      "tags": [
+        "devops"
+      ]
+    },
+    {
+      "rank": 24,
+      "title": "LinkageError in tomee 10.1 with scope=\"request\"",
+      "url": "https://stackoverflow.com/questions/79934076/linkageerror-in-tomee-10-1-with-scope-request",
+      "score": 0,
+      "answers": 0,
+      "views": 20,
+      "tags": [
+        "jsf",
+        "cdi",
+        "apache-tomee",
+        "openwebbeans"
+      ]
+    },
+    {
+      "rank": 25,
+      "title": "Issue in Angular Material version 21 - animation not working",
+      "url": "https://stackoverflow.com/questions/79934005/issue-in-angular-material-version-21-animation-not-working",
+      "score": 2,
+      "answers": 1,
+      "views": 32,
+      "tags": [
+        "angular",
+        "angular-material"
+      ]
+    }
+  ]
+}

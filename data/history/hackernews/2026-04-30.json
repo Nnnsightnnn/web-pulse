@@ -1,0 +1,232 @@
+{
+  "source": "hackernews",
+  "label": "Hacker News — top stories",
+  "fetched_at": "2026-04-30T11:07:06.733Z",
+  "items": [
+    {
+      "rank": 1,
+      "title": "Granite 4.1: IBM's 8B Model Matching 32B MoE",
+      "url": "https://firethering.com/granite-4-1-ibm-open-source-model-family/",
+      "hn_url": "https://news.ycombinator.com/item?id=47960507",
+      "score": 34,
+      "comments": 5,
+      "author": "steveharing1"
+    },
+    {
+      "rank": 2,
+      "title": "Where the goblins came from",
+      "url": "https://openai.com/index/where-the-goblins-came-from/",
+      "hn_url": "https://news.ycombinator.com/item?id=47957688",
+      "score": 690,
+      "comments": 373,
+      "author": "ilreb"
+    },
+    {
+      "rank": 3,
+      "title": "Noctua releases official 3D CAD models for its cooling fans",
+      "url": "https://www.noctua.at/en/3d-cad-models",
+      "hn_url": "https://news.ycombinator.com/item?id=47927627",
+      "score": 282,
+      "comments": 64,
+      "author": "embedding-shape"
+    },
+    {
+      "rank": 4,
+      "title": "Zed 1.0",
+      "url": "https://zed.dev/blog/zed-1-0",
+      "hn_url": "https://news.ycombinator.com/item?id=47949027",
+      "score": 1882,
+      "comments": 598,
+      "author": "salkahfi"
+    },
+    {
+      "rank": 5,
+      "title": "The Zig project's rationale for their anti-AI contribution policy",
+      "url": "https://simonwillison.net/2026/Apr/30/zig-anti-ai/",
+      "hn_url": "https://news.ycombinator.com/item?id=47957294",
+      "score": 323,
+      "comments": 153,
+      "author": "lumpa"
+    },
+    {
+      "rank": 6,
+      "title": "Copy Fail",
+      "url": "https://copy.fail/",
+      "hn_url": "https://news.ycombinator.com/item?id=47952181",
+      "score": 1030,
+      "comments": 369,
+      "author": "unsnap_biceps"
+    },
+    {
+      "rank": 7,
+      "title": "Craig Venter has died",
+      "url": "https://www.jcvi.org/media-center/j-craig-venter-genomics-pioneer-and-founder-jcvi-and-diploid-genomics-inc-dies-79",
+      "hn_url": "https://news.ycombinator.com/item?id=47957101",
+      "score": 246,
+      "comments": 44,
+      "author": "rdl"
+    },
+    {
+      "rank": 8,
+      "title": "\"Parse, don't validate\" through the years with C++",
+      "url": "https://derekrodriguez.dev/parse-dont-validate-through-the-years-with-c-/",
+      "hn_url": "https://news.ycombinator.com/item?id=47923429",
+      "score": 30,
+      "comments": 5,
+      "author": "dwrodri"
+    },
+    {
+      "rank": 9,
+      "title": "Mozilla's Opposition to Chrome's Prompt API",
+      "url": "https://github.com/mozilla/standards-positions/issues/1213",
+      "hn_url": "https://news.ycombinator.com/item?id=47959463",
+      "score": 110,
+      "comments": 49,
+      "author": "jaffathecake"
+    },
+    {
+      "rank": 10,
+      "title": "Alignment whack-a-mole: Finetuning activates recall of copyrighted books in LLMs",
+      "url": "https://github.com/cauchy221/Alignment-Whack-a-Mole-Code",
+      "hn_url": "https://news.ycombinator.com/item?id=47957627",
+      "score": 145,
+      "comments": 108,
+      "author": "reconnecting"
+    },
+    {
+      "rank": 11,
+      "title": "Cursor Camp",
+      "url": "https://neal.fun/cursor-camp/",
+      "hn_url": "https://news.ycombinator.com/item?id=47949939",
+      "score": 975,
+      "comments": 159,
+      "author": "bpierre"
+    },
+    {
+      "rank": 12,
+      "title": "Biology is a Burrito: A text- and visual-based journey through a living cell",
+      "url": "https://burrito.bio/essays/biology-is-a-burrito",
+      "hn_url": "https://news.ycombinator.com/item?id=47957714",
+      "score": 111,
+      "comments": 17,
+      "author": "the-mitr"
+    },
+    {
+      "rank": 13,
+      "title": "Why isn't AMD's MI300X competitive?",
+      "url": "https://newsletter.semianalysis.com/p/mi300x-vs-h100-vs-h200-benchmark-part-1-training",
+      "hn_url": "https://news.ycombinator.com/item?id=47929354",
+      "score": 19,
+      "comments": 12,
+      "author": "colonCapitalDee"
+    },
+    {
+      "rank": 14,
+      "title": "London to Calcutta by Bus (2022)",
+      "url": "https://www.amusingplanet.com/2022/08/london-to-calcutta-by-bus.html",
+      "hn_url": "https://news.ycombinator.com/item?id=47941931",
+      "score": 67,
+      "comments": 25,
+      "author": "CGMthrowaway"
+    },
+    {
+      "rank": 15,
+      "title": "FastCGI: 30 years old and still the better protocol for reverse proxies",
+      "url": "https://www.agwa.name/blog/post/fastcgi_is_the_better_protocol_for_reverse_proxies",
+      "hn_url": "https://news.ycombinator.com/item?id=47950510",
+      "score": 353,
+      "comments": 84,
+      "author": "agwa"
+    },
+    {
+      "rank": 16,
+      "title": "OpenTrafficMap",
+      "url": "https://opentrafficmap.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=47953541",
+      "score": 281,
+      "comments": 69,
+      "author": "moooo99"
+    },
+    {
+      "rank": 17,
+      "title": "Monad Tutorials Timeline",
+      "url": "https://wiki.haskell.org/Monad_tutorials_timeline",
+      "hn_url": "https://news.ycombinator.com/item?id=47958106",
+      "score": 42,
+      "comments": 15,
+      "author": "brudgers"
+    },
+    {
+      "rank": 18,
+      "title": "Mike: open-source legal AI",
+      "url": "https://mikeoss.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=47956739",
+      "score": 112,
+      "comments": 43,
+      "author": "noleary"
+    },
+    {
+      "rank": 19,
+      "title": "HERMES.md in commit messages causes requests to route to extra usage billing",
+      "url": "https://github.com/anthropics/claude-code/issues/53262",
+      "hn_url": "https://news.ycombinator.com/item?id=47952722",
+      "score": 1141,
+      "comments": 487,
+      "author": "homebrewer"
+    },
+    {
+      "rank": 20,
+      "title": "DataCenter.FM – background noise app featuring the sound of the AI bubble",
+      "url": "https://datacenter.fm/",
+      "hn_url": "https://news.ycombinator.com/item?id=47959513",
+      "score": 20,
+      "comments": 5,
+      "author": "louisbarclay"
+    },
+    {
+      "rank": 21,
+      "title": "Laws of UX",
+      "url": "https://lawsofux.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=47951137",
+      "score": 279,
+      "comments": 42,
+      "author": "bobbiechen"
+    },
+    {
+      "rank": 22,
+      "title": "Functional programmers need to take a look at Zig",
+      "url": "https://pure-systems.org/posts/2026-04-29-functional-programmers-need-to-take-a-look-at-zig.html",
+      "hn_url": "https://news.ycombinator.com/item?id=47957624",
+      "score": 135,
+      "comments": 97,
+      "author": "xngbuilds"
+    },
+    {
+      "rank": 23,
+      "title": "An open-source stethoscope that costs between $2.5 and $5 to produce",
+      "url": "https://github.com/GliaX/Stethoscope",
+      "hn_url": "https://news.ycombinator.com/item?id=47949204",
+      "score": 260,
+      "comments": 110,
+      "author": "0x54MUR41"
+    },
+    {
+      "rank": 24,
+      "title": "Why I still reach for Lisp and Scheme instead of Haskell",
+      "url": "https://jointhefreeworld.org/blog/articles/lisps/why-i-still-reach-for-scheme-instead-of-haskell/index.html",
+      "hn_url": "https://news.ycombinator.com/item?id=47945707",
+      "score": 234,
+      "comments": 125,
+      "author": "jjba23"
+    },
+    {
+      "rank": 25,
+      "title": "Creating a Color Palette from an Image",
+      "url": "https://amandahinton.com/blog/creating-a-color-palette-from-an-image",
+      "hn_url": "https://news.ycombinator.com/item?id=47936610",
+      "score": 81,
+      "comments": 12,
+      "author": "evakhoury"
+    }
+  ]
+}
