@@ -1,0 +1,338 @@
+{
+  "source": "stackoverflow",
+  "label": "Stack Overflow — hot questions",
+  "fetched_at": "2026-05-01T11:06:48.235Z",
+  "items": [
+    {
+      "rank": 1,
+      "title": "RAG pipeline returns correct answers but wrong page citations and occasional hallucinations (LangGraph + cross-encoder)",
+      "url": "https://stackoverflow.com/questions/79934606/rag-pipeline-returns-correct-answers-but-wrong-page-citations-and-occasional-hal",
+      "score": 0,
+      "answers": 0,
+      "views": 14,
+      "tags": [
+        "python",
+        "artificial-intelligence",
+        "large-language-model",
+        "rag",
+        "retrieval-augmented-generation"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "How to adapt boxplot graph to the boxplot.stats data?",
+      "url": "https://stackoverflow.com/questions/79934611/how-to-adapt-boxplot-graph-to-the-boxplot-stats-data",
+      "score": 0,
+      "answers": 0,
+      "views": 12,
+      "tags": [
+        "r",
+        "customization",
+        "boxplot",
+        "fix-protocol",
+        "quartile"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Malloc makes code crash in C while doing merge sort",
+      "url": "https://stackoverflow.com/questions/79934597/malloc-makes-code-crash-in-c-while-doing-merge-sort",
+      "score": 0,
+      "answers": 1,
+      "views": 49,
+      "tags": [
+        "c",
+        "algorithm",
+        "malloc",
+        "mergesort"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "API for study purpose",
+      "url": "https://stackoverflow.com/questions/79934589/api-for-study-purpose",
+      "score": 0,
+      "answers": 1,
+      "views": 22,
+      "tags": [
+        "javascript",
+        "java",
+        "html",
+        "css",
+        "web-applications"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Collecting samples from adc and presenting the information using median filtering",
+      "url": "https://stackoverflow.com/questions/79934573/collecting-samples-from-adc-and-presenting-the-information-using-median-filterin",
+      "score": 0,
+      "answers": 1,
+      "views": 16,
+      "tags": [
+        "data-science",
+        "sampling",
+        "adc"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "What methods can I use to provide an upload page on a static (github pages) website?",
+      "url": "https://stackoverflow.com/questions/79934580/what-methods-can-i-use-to-provide-an-upload-page-on-a-static-github-pages-webs",
+      "score": 0,
+      "answers": 0,
+      "views": 14,
+      "tags": [
+        "github",
+        "security",
+        "github-actions",
+        "github-pages",
+        "github-api"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Problem closing an ajaxToolkit:ModalPopupExtender",
+      "url": "https://stackoverflow.com/questions/79934577/problem-closing-an-ajaxtoolkitmodalpopupextender",
+      "score": 0,
+      "answers": 0,
+      "views": 12,
+      "tags": [
+        "c#",
+        "asp.net",
+        "ajaxcontroltoolkit"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Loading pytest fixtures from separate Poetry package",
+      "url": "https://stackoverflow.com/questions/79934592/loading-pytest-fixtures-from-separate-poetry-package",
+      "score": 0,
+      "answers": 0,
+      "views": 11,
+      "tags": [
+        "python",
+        "pytest",
+        "python-poetry"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Custom splash screen and icon not showing in Flet Android build",
+      "url": "https://stackoverflow.com/questions/79934585/custom-splash-screen-and-icon-not-showing-in-flet-android-build",
+      "score": 1,
+      "answers": 0,
+      "views": 11,
+      "tags": [
+        "android",
+        "apk",
+        "flet"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "SQL Query for Unpivot compatible with SQLGLOT parser",
+      "url": "https://stackoverflow.com/questions/79934578/sql-query-for-unpivot-compatible-with-sqlglot-parser",
+      "score": 0,
+      "answers": 0,
+      "views": 11,
+      "tags": [
+        "sql",
+        "apache-spark-sql",
+        "unpivot",
+        "databricks-sql",
+        "sqlglot"
+      ]
+    },
+    {
+      "rank": 11,
+      "title": "Spark Structured Streaming from many S3 buckets with different customer credentials and schemas",
+      "url": "https://stackoverflow.com/questions/79934574/spark-structured-streaming-from-many-s3-buckets-with-different-customer-credenti",
+      "score": 0,
+      "answers": 0,
+      "views": 11,
+      "tags": [
+        "apache-spark",
+        "kubernetes",
+        "pyspark",
+        "spark-streaming"
+      ]
+    },
+    {
+      "rank": 12,
+      "title": "What is the best way to implement fast media search with autocomplete suggestions?",
+      "url": "https://stackoverflow.com/questions/79934505/what-is-the-best-way-to-implement-fast-media-search-with-autocomplete-suggestion",
+      "score": 0,
+      "answers": 3,
+      "views": 44,
+      "tags": [
+        "php"
+      ]
+    },
+    {
+      "rank": 13,
+      "title": "DatabaseException \"out of memory\" when opening SQLCipher 3 encrypted DB on versions > 2.2.1",
+      "url": "https://stackoverflow.com/questions/79934557/databaseexception-out-of-memory-when-opening-sqlcipher-3-encrypted-db-on-versi",
+      "score": 0,
+      "answers": 0,
+      "views": 24,
+      "tags": [
+        "ios",
+        "flutter",
+        "sqlite",
+        "sqlcipher"
+      ]
+    },
+    {
+      "rank": 14,
+      "title": "One aync lock call or multiple async lock calls, what is better and safer in Python?",
+      "url": "https://stackoverflow.com/questions/79934522/one-aync-lock-call-or-multiple-async-lock-calls-what-is-better-and-safer-in-pyt",
+      "score": 1,
+      "answers": 1,
+      "views": 43,
+      "tags": [
+        "python",
+        "caching",
+        "python-asyncio",
+        "atomic",
+        "rate-limiting"
+      ]
+    },
+    {
+      "rank": 15,
+      "title": "Python code in train.py how to update it into confusion matrix",
+      "url": "https://stackoverflow.com/questions/79934545/python-code-in-train-py-how-to-update-it-into-confusion-matrix",
+      "score": 0,
+      "answers": 1,
+      "views": 20,
+      "tags": [
+        "python"
+      ]
+    },
+    {
+      "rank": 16,
+      "title": "Comment/note for instructions inside .md markdown",
+      "url": "https://stackoverflow.com/questions/79934547/comment-note-for-instructions-inside-md-markdown",
+      "score": 0,
+      "answers": 0,
+      "views": 13,
+      "tags": [
+        "markdown",
+        "comments"
+      ]
+    },
+    {
+      "rank": 17,
+      "title": "Kerberos Authentication Flow on Openshift",
+      "url": "https://stackoverflow.com/questions/79934554/kerberos-authentication-flow-on-openshift",
+      "score": 0,
+      "answers": 0,
+      "views": 11,
+      "tags": [
+        "active-directory",
+        "kerberos"
+      ]
+    },
+    {
+      "rank": 18,
+      "title": "How to test the database security - phpmyadmin",
+      "url": "https://stackoverflow.com/questions/79934544/how-to-test-the-database-security-phpmyadmin",
+      "score": -3,
+      "answers": 0,
+      "views": 21,
+      "tags": [
+        "mysql",
+        "database",
+        "web",
+        "phpmyadmin"
+      ]
+    },
+    {
+      "rank": 19,
+      "title": "How to make a dialog close when pressing Esc key?",
+      "url": "https://stackoverflow.com/questions/79934528/how-to-make-a-dialog-close-when-pressing-esc-key",
+      "score": 0,
+      "answers": 1,
+      "views": 42,
+      "tags": [
+        "reactjs",
+        "material-ui"
+      ]
+    },
+    {
+      "rank": 20,
+      "title": "SwiftUI PhaseAnimator causing AttributeGraph cycle crash when nested in List with @Observable",
+      "url": "https://stackoverflow.com/questions/79934489/swiftui-phaseanimator-causing-attributegraph-cycle-crash-when-nested-in-list-wit",
+      "score": 1,
+      "answers": 1,
+      "views": 28,
+      "tags": [
+        "ios",
+        "swift"
+      ]
+    },
+    {
+      "rank": 21,
+      "title": "Can a strictly conforming definition of main have argc and argv const-qualified?",
+      "url": "https://stackoverflow.com/questions/79934397/can-a-strictly-conforming-definition-of-main-have-argc-and-argv-const-qualified",
+      "score": 1,
+      "answers": 11,
+      "views": 86,
+      "tags": [
+        "c",
+        "language-lawyer"
+      ]
+    },
+    {
+      "rank": 22,
+      "title": "How to handle WebSocket reconnect with RealMarketAPI in C#?",
+      "url": "https://stackoverflow.com/questions/79934521/how-to-handle-websocket-reconnect-with-realmarketapi-in-c",
+      "score": 0,
+      "answers": 0,
+      "views": 27,
+      "tags": [
+        "c#",
+        "websocket"
+      ]
+    },
+    {
+      "rank": 23,
+      "title": "Django - Register User with Confirm Password validation/error message on Bootstrap form",
+      "url": "https://stackoverflow.com/questions/79934515/django-register-user-with-confirm-password-validation-error-message-on-bootstr",
+      "score": 0,
+      "answers": 0,
+      "views": 21,
+      "tags": [
+        "django",
+        "validation"
+      ]
+    },
+    {
+      "rank": 24,
+      "title": "Are Programmer ViberCoder?",
+      "url": "https://stackoverflow.com/questions/79934472/are-programmer-vibercoder",
+      "score": 2,
+      "answers": 1,
+      "views": 55,
+      "tags": [
+        "artificial-intelligence",
+        "documentation"
+      ]
+    },
+    {
+      "rank": 25,
+      "title": "NestJS Swagger UI loads on real Android device but \"Try it out\" fails with CORS / Failed to fetch",
+      "url": "https://stackoverflow.com/questions/79934530/nestjs-swagger-ui-loads-on-real-android-device-but-try-it-out-fails-with-cors",
+      "score": 0,
+      "answers": 0,
+      "views": 20,
+      "tags": [
+        "android",
+        "cors",
+        "nestjs",
+        "swagger",
+        "typescript2.0"
+      ]
+    }
+  ]
+}

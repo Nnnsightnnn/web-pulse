@@ -1,0 +1,232 @@
+{
+  "source": "hackernews",
+  "label": "Hacker News — top stories",
+  "fetched_at": "2026-05-01T11:06:48.004Z",
+  "items": [
+    {
+      "rank": 1,
+      "title": "Show HN: WhatCable, a tiny menu bar app for inspecting USB-C cables",
+      "url": "https://github.com/darrylmorley/whatcable",
+      "hn_url": "https://news.ycombinator.com/item?id=47972511",
+      "score": 93,
+      "comments": 22,
+      "author": "sleepingNomad"
+    },
+    {
+      "rank": 2,
+      "title": "The Rotary Un-Smartphone",
+      "url": "https://skysedge.com/telecom/RUSP/index.html",
+      "hn_url": "https://news.ycombinator.com/item?id=47972807",
+      "score": 18,
+      "comments": 2,
+      "author": "tzury"
+    },
+    {
+      "rank": 3,
+      "title": "Auto Polo",
+      "url": "https://en.wikipedia.org/wiki/Auto_polo",
+      "hn_url": "https://news.ycombinator.com/item?id=47936184",
+      "score": 65,
+      "comments": 18,
+      "author": "canjobear"
+    },
+    {
+      "rank": 4,
+      "title": "Show HN: Perfect Bluetooth MIDI for Windows",
+      "url": "https://news.ycombinator.com/item?id=47972888",
+      "hn_url": "https://news.ycombinator.com/item?id=47972888",
+      "score": 24,
+      "comments": 3,
+      "author": "mayerwin"
+    },
+    {
+      "rank": 5,
+      "title": "How Mark Klein told the EFF about Room 641A [book excerpt]",
+      "url": "https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/",
+      "hn_url": "https://news.ycombinator.com/item?id=47965060",
+      "score": 608,
+      "comments": 204,
+      "author": "the-mitr"
+    },
+    {
+      "rank": 6,
+      "title": "New copy of earliest poem in English, written 1,3k years ago, discovered in Rome",
+      "url": "https://www.tcd.ie/news_events/articles/2026/caedmons-hymn-discovery/",
+      "hn_url": "https://news.ycombinator.com/item?id=47946899",
+      "score": 72,
+      "comments": 40,
+      "author": "giuliomagnifico"
+    },
+    {
+      "rank": 7,
+      "title": "For Linux kernel vulnerabilities, there is no heads-up to distributions",
+      "url": "https://www.openwall.com/lists/oss-security/2026/04/30/10",
+      "hn_url": "https://news.ycombinator.com/item?id=47965108",
+      "score": 511,
+      "comments": 399,
+      "author": "ori_b"
+    },
+    {
+      "rank": 8,
+      "title": "Grok 4.3",
+      "url": "https://docs.x.ai/developers/models/grok-4.3",
+      "hn_url": "https://news.ycombinator.com/item?id=47972447",
+      "score": 100,
+      "comments": 107,
+      "author": "simianwords"
+    },
+    {
+      "rank": 9,
+      "title": "If I could make my own GitHub",
+      "url": "https://matduggan.com/if-i-could-make-my-own-github/",
+      "hn_url": "https://news.ycombinator.com/item?id=47971771",
+      "score": 65,
+      "comments": 45,
+      "author": "vinhnx"
+    },
+    {
+      "rank": 10,
+      "title": "Git Your Freedom Back: A Beginner's Guide to Sourcehut (2025)",
+      "url": "https://btxx.org/posts/beginners-guide-sourcehut/",
+      "hn_url": "https://news.ycombinator.com/item?id=47973084",
+      "score": 3,
+      "comments": 0,
+      "author": "bradley_taunt"
+    },
+    {
+      "rank": 11,
+      "title": "OpenWarp",
+      "url": "https://openwarp.zerx.dev",
+      "hn_url": "https://news.ycombinator.com/item?id=47970622",
+      "score": 101,
+      "comments": 82,
+      "author": "zero-lab"
+    },
+    {
+      "rank": 12,
+      "title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
+      "url": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/",
+      "hn_url": "https://news.ycombinator.com/item?id=47964617",
+      "score": 399,
+      "comments": 143,
+      "author": "j12y"
+    },
+    {
+      "rank": 13,
+      "title": "Opus 4.7 knows the real Kelsey",
+      "url": "https://www.theargumentmag.com/p/i-can-never-talk-to-an-ai-anonymously",
+      "hn_url": "https://news.ycombinator.com/item?id=47951295",
+      "score": 360,
+      "comments": 189,
+      "author": "ilamont"
+    },
+    {
+      "rank": 14,
+      "title": "Softmax, can you derive the Jacobian? And should you care?",
+      "url": "https://idlemachines.co.uk/essays/softmax",
+      "hn_url": "https://news.ycombinator.com/item?id=47927011",
+      "score": 54,
+      "comments": 6,
+      "author": "smaddrellmander"
+    },
+    {
+      "rank": 15,
+      "title": "Maladaptive Frugality",
+      "url": "https://herbertlui.net/maladaptive-frugality/",
+      "hn_url": "https://news.ycombinator.com/item?id=47942863",
+      "score": 110,
+      "comments": 86,
+      "author": "herbertl"
+    },
+    {
+      "rank": 16,
+      "title": "CPanel and WHM Authentication Bypass – CVE-2026-41940",
+      "url": "https://labs.watchtowr.com/the-internet-is-falling-down-falling-down-falling-down-cpanel-whm-authentication-bypass-cve-2026-41940/",
+      "hn_url": "https://news.ycombinator.com/item?id=47969288",
+      "score": 111,
+      "comments": 47,
+      "author": "zikani_03"
+    },
+    {
+      "rank": 17,
+      "title": "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
+      "url": "https://twitter.com/theo/status/2049645973350363168",
+      "hn_url": "https://news.ycombinator.com/item?id=47963204",
+      "score": 1177,
+      "comments": 647,
+      "author": "elmean"
+    },
+    {
+      "rank": 18,
+      "title": "How an oil refinery works",
+      "url": "https://www.construction-physics.com/p/how-an-oil-refinery-works",
+      "hn_url": "https://news.ycombinator.com/item?id=47962548",
+      "score": 429,
+      "comments": 135,
+      "author": "chmaynard"
+    },
+    {
+      "rank": 19,
+      "title": "I built a Game Boy emulator in F#",
+      "url": "https://nickkossolapov.github.io/fame-boy/building-a-game-boy-emulator-in-fsharp/",
+      "hn_url": "https://news.ycombinator.com/item?id=47965503",
+      "score": 283,
+      "comments": 66,
+      "author": "elvis70"
+    },
+    {
+      "rank": 20,
+      "title": "Can I disable all data collection from my vehicle?",
+      "url": "https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle",
+      "hn_url": "https://news.ycombinator.com/item?id=47967786",
+      "score": 636,
+      "comments": 264,
+      "author": "Cider9986"
+    },
+    {
+      "rank": 21,
+      "title": "How we run iSCSI over the internet",
+      "url": "https://scsipub.com/blog/how-we-run-iscsi-over-the-internet",
+      "hn_url": "https://news.ycombinator.com/item?id=47948188",
+      "score": 18,
+      "comments": 7,
+      "author": "qdotme"
+    },
+    {
+      "rank": 22,
+      "title": "You can beat the binary search",
+      "url": "https://lemire.me/blog/2026/04/27/you-can-beat-the-binary-search/",
+      "hn_url": "https://news.ycombinator.com/item?id=47924912",
+      "score": 323,
+      "comments": 143,
+      "author": "vok"
+    },
+    {
+      "rank": 23,
+      "title": "Roboticist-Turned-Teacher Built a Life-Size Replica of Eniac",
+      "url": "https://spectrum.ieee.org/roboticist-turned-teacher-eniac-replica",
+      "hn_url": "https://news.ycombinator.com/item?id=47948152",
+      "score": 33,
+      "comments": 8,
+      "author": "oldnetguy"
+    },
+    {
+      "rank": 24,
+      "title": "Reverse Engineering SimTower",
+      "url": "https://phulin.me/blog/simtower",
+      "hn_url": "https://news.ycombinator.com/item?id=47937814",
+      "score": 206,
+      "comments": 44,
+      "author": "patrickhulin"
+    },
+    {
+      "rank": 25,
+      "title": "New mechanical panoramic film camera from Jeff Bridges",
+      "url": "https://wideluxx.com",
+      "hn_url": "https://news.ycombinator.com/item?id=47937033",
+      "score": 150,
+      "comments": 68,
+      "author": "armadsen"
+    }
+  ]
+}

@@ -1,0 +1,291 @@
+{
+  "source": "google-trends",
+  "label": "Google Trends — trending searches",
+  "fetched_at": "2026-05-01T11:06:48.336Z",
+  "countries": [
+    "US",
+    "GB",
+    "IN",
+    "JP",
+    "BR",
+    "DE"
+  ],
+  "items": [
+    {
+      "rank": 1,
+      "title": "rachel zegler",
+      "geos": [
+        "GB",
+        "US"
+      ],
+      "traffic_estimate": 400,
+      "news_title": "‘Evita,’ Starring Rachel Zegler, Is Heading to Broadway",
+      "news_url": "https://www.nytimes.com/2026/04/29/theater/evita-broadway-rachel-zegler.html",
+      "news_source": "The New York Times"
+    },
+    {
+      "rank": 2,
+      "title": "bayesian yacht sinking",
+      "geos": [
+        "GB"
+      ],
+      "traffic_estimate": 10000,
+      "news_title": "Bayesian superyacht sinking did not happen due to storm, investigators find",
+      "news_url": "https://news.sky.com/story/bayesian-superyacht-sinking-did-not-happen-due-to-storm-investigators-find-13538648",
+      "news_source": "Sky News"
+    },
+    {
+      "rank": 3,
+      "title": "shakira",
+      "geos": [
+        "BR"
+      ],
+      "traffic_estimate": 10000,
+      "news_title": "Praia, caipirinha e biquínis: veja rotina das bailarinas de Shakira no Rio de Janeiro",
+      "news_url": "https://f5.folha.uol.com.br/celebridades/2026/04/praia-caipirinha-e-biquinis-veja-rotina-de-bailarinas-da-shakira-no-rio-de-janeiro.shtml",
+      "news_source": "UOL"
+    },
+    {
+      "rank": 4,
+      "title": "pennymac",
+      "geos": [
+        "US"
+      ],
+      "traffic_estimate": 2000,
+      "news_title": "Rosen Law Firm Encourages PennyMac Financial Services, Inc. Investors to Inquire About Securities Class Action Investigation - PFSI",
+      "news_url": "https://www.morningstar.com/news/pr-newswire/20260430dc48311/rosen-law-firm-encourages-pennymac-financial-services-inc-investors-to-inquire-about-securities-class-action-investigation-pfsi",
+      "news_source": "Morningstar"
+    },
+    {
+      "rank": 5,
+      "title": "james holder",
+      "geos": [
+        "GB"
+      ],
+      "traffic_estimate": 2000,
+      "news_title": "Superdry co-founder found guilty of rape",
+      "news_url": "https://www.bbc.co.uk/news/articles/czx2gwpe9evo",
+      "news_source": "BBC"
+    },
+    {
+      "rank": 6,
+      "title": "पाकिस्तान",
+      "geos": [
+        "IN"
+      ],
+      "traffic_estimate": 2000,
+      "news_title": "ईरान युद्ध से पाकिस्तान में कितनी तबाही मची है, शहबाज शरीफ के आंसू बता रहे हैं",
+      "news_url": "https://www.aajtak.in/defence-news/story/pakistan-oil-bill-rises-worries-prime-minister-shehbaz-sharif-dskc-2538039-2026-04-30",
+      "news_source": "AajTak"
+    },
+    {
+      "rank": 7,
+      "title": "コストコ",
+      "geos": [
+        "JP"
+      ],
+      "traffic_estimate": 2000,
+      "news_title": "【コストコ】今日から「3日間だけ大幅値下げ！」買わなきゃもったいない人気商品3選（舞） - エキスパート",
+      "news_url": "https://news.yahoo.co.jp/expert/articles/1b12d36cb4b3aeb1b4b507629f66cf85bfc559f9",
+      "news_source": "Yahoo!ニュース"
+    },
+    {
+      "rank": 8,
+      "title": "supermercado bh",
+      "geos": [
+        "BR"
+      ],
+      "traffic_estimate": 2000,
+      "news_title": "Supermercados BH, EPA e Mineirão assinam acordo para unir operações em MG e mais 3 estados",
+      "news_url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/04/30/supermercados-bh-epa-e-mineirao-assinam-acordo-para-unir-operacoes-em-mg-e-outros-tres-estados.ghtml",
+      "news_source": "G1"
+    },
+    {
+      "rank": 9,
+      "title": "aaron pierre",
+      "geos": [
+        "GB"
+      ],
+      "traffic_estimate": 1000,
+      "news_title": "Lanterns Sets Premiere Date At HBO",
+      "news_url": "https://www.tvline.com/2161349/lanterns-dc-universe-series-hbo-max-premiere-date-hbo/",
+      "news_source": "TVLine"
+    },
+    {
+      "rank": 10,
+      "title": "पश्चिम बंगाल में चुनाव",
+      "geos": [
+        "IN"
+      ],
+      "traffic_estimate": 1000,
+      "news_title": "पश्चिम बंगाल चुनाव: इस बार ऐसा क्या-क्या हुआ जो पहले कभी नहीं हुआ",
+      "news_url": "https://www.bbc.com/hindi/articles/c392l2lexy9o",
+      "news_source": "BBC"
+    },
+    {
+      "rank": 11,
+      "title": "नेपाळचे पंतप्रधान",
+      "geos": [
+        "IN"
+      ],
+      "traffic_estimate": 1000,
+      "news_title": "Indian Goods: नेपाळ सरकार झुकलं! भारतीय मालावरील त्या जाचक अटीबाबत घेतला यू-टर्न, भारताशी पंगा घेणे पडलं महाग?",
+      "news_url": "https://marathi.ndtv.com/india/indian-goods-news-nepal-government-faces-backlash-over-taxes-on-indian-goods-backtracks-on-decision-find-out-the-reason-why-11433968",
+      "news_source": "NDTV Marathi"
+    },
+    {
+      "rank": 12,
+      "title": "加藤和樹",
+      "geos": [
+        "JP"
+      ],
+      "traffic_estimate": 1000,
+      "news_title": "加藤和樹、20周年イヤーにミニアルバム『SMASH BOX』リリース 収録曲「Chu La Pa Pan!!!」先行配信も（リアルサウンド）",
+      "news_url": "https://news.yahoo.co.jp/articles/75ea48ddc9c87167aa22479ad8f4127044f9dc82",
+      "news_source": "Yahoo!ニュース"
+    },
+    {
+      "rank": 13,
+      "title": "sebastian tigges",
+      "geos": [
+        "DE"
+      ],
+      "traffic_estimate": 1000,
+      "news_title": "Sebastian Tigges über Ex-GNTM-Model Marie Nasemann: Der wahre Grund für unser Ehe-Aus",
+      "news_url": "https://www.bild.de/unterhaltung/stars-und-leute/sebastian-tigges-ueber-ex-gntm-model-marie-nasemann-der-wahre-grund-fuer-unser-ehe-aus-69e9c3cbff0951f41af9066b",
+      "news_source": "BILD"
+    },
+    {
+      "rank": 14,
+      "title": "grace gummer",
+      "geos": [
+        "US"
+      ],
+      "traffic_estimate": 500,
+      "news_title": "Grace Gummer In Cerulean Blue Colleen Allen For 'Love Story'",
+      "news_url": "https://www.redcarpet-fashionawards.com/2026/04/30/grace-gummer-wore-colleen-allen-to-love-story-john-f-kennedy-jr-carolyn-bessette-awards-event/",
+      "news_source": "Red Carpet Fashion Awards"
+    },
+    {
+      "rank": 15,
+      "title": "susan calman",
+      "geos": [
+        "GB"
+      ],
+      "traffic_estimate": 500,
+      "news_title": "Vernon Kay admits tearful Strictly star 'knocked me off my feet' in heartbreaking chat",
+      "news_url": "https://www.dailystar.co.uk/showbiz/vernon-kay-admits-tearful-strictly-37096328",
+      "news_source": "Daily Star"
+    },
+    {
+      "rank": 16,
+      "title": "administration",
+      "geos": [
+        "GB"
+      ],
+      "traffic_estimate": 500,
+      "news_title": "Trump administration says hostilities in Iran ‘terminated’ ahead of war powers deadline",
+      "news_url": "https://www.theguardian.com/world/2026/apr/30/senate-republicans-block-trump-iran-war-halt",
+      "news_source": "The Guardian"
+    },
+    {
+      "rank": 17,
+      "title": "bbc eurovision 2026 coverage",
+      "geos": [
+        "GB"
+      ],
+      "traffic_estimate": 500,
+      "news_title": "Eurovision Song Contest 2026 across the BBC",
+      "news_url": "https://www.bbc.com/mediacentre/2026/eurovision-2026-across-the-bbc",
+      "news_source": "BBC"
+    },
+    {
+      "rank": 18,
+      "title": "italy women vs nepal women",
+      "geos": [
+        "IN"
+      ],
+      "traffic_estimate": 500,
+      "news_title": "Match 20: Italy Women vs Nepal Women – Squads, Preview and Live Streaming Details",
+      "news_url": "https://femalecricket.com/icc-womens-t20i-challenge-trophy-2026/88029-match-20-italy-women-vs-nepal-women-squads-preview-and-live-streaming-details.html",
+      "news_source": "Female Cricket"
+    },
+    {
+      "rank": 19,
+      "title": "લગ્ન",
+      "geos": [
+        "IN"
+      ],
+      "traffic_estimate": 500,
+      "news_title": "હિમાચલમાં જોવા મળ્યા અનોખા લગ્ન: 66 વર્ષના દાદાએ પૌત્રીની ઉંમરની છોકરી સાથે લગ્ન કર્યા, ચારેકોર થઈ રહી છે ચ...",
+      "news_url": "https://gujarati.news18.com/news/national-international/shimla-unique-wedding-banjar-valley-66-year-old-man-marries-35-year-old-young-woman-trending-on-social-media-pk-ws-b-2515660.html",
+      "news_source": "News18 Gujarati"
+    },
+    {
+      "rank": 20,
+      "title": "नीतीश कुमार",
+      "geos": [
+        "IN"
+      ],
+      "traffic_estimate": 500,
+      "news_title": "नीतीश कुमार बनेंगे लालू यादव के पड़ोसी, खाली कर रहे सीएम आवास",
+      "news_url": "https://www.aajtak.in/bihar/story/nitish-kumar-cm-residence-7-circular-road-patna-political-shift-lalu-yadav-ntc-bktw-rpti-2538836-2026-05-01",
+      "news_source": "AajTak"
+    },
+    {
+      "rank": 21,
+      "title": "भारतीय विदेशी नागरिकता (ओसीआई) योजना",
+      "geos": [
+        "IN"
+      ],
+      "traffic_estimate": 500,
+      "news_title": "नागरिकता नियमों में बड़ा बदलाव, नाबालिगों के पासपोर्ट नियम सख्त, OCI पंजीकरण हुआ ऑनलाइन",
+      "news_url": "https://www.aajtak.in/india/news/story/citizenship-rules-2026-oci-registration-fully-digital-with-reforms-ntc-ksrj-rpti-2538720-2026-05-01",
+      "news_source": "AajTak"
+    },
+    {
+      "rank": 22,
+      "title": "マウイ",
+      "geos": [
+        "JP"
+      ],
+      "traffic_estimate": 500,
+      "news_title": "Maui Council Budget Committee slightly trims mayor’s $1.616 billion budget",
+      "news_url": "https://mauinow.com/2026/04/30/maui-council-budget-committee-slightly-trims-mayors-1-616-billion-budget/",
+      "news_source": "Maui Now"
+    },
+    {
+      "rank": 23,
+      "title": "モアナ",
+      "geos": [
+        "JP"
+      ],
+      "traffic_estimate": 500,
+      "news_title": "「『モアナ』なんか実写化しなくてもいいので、コッチを実写化しましょうよ！」ARCO アルコ FCアクセルJr.'09さんの映画レビュー（感想・評価）",
+      "news_url": "https://eiga.com/movie/105460/review/06453058/",
+      "news_source": "映画.com"
+    },
+    {
+      "rank": 24,
+      "title": "南明奈",
+      "geos": [
+        "JP"
+      ],
+      "traffic_estimate": 500,
+      "news_title": "",
+      "news_url": "",
+      "news_source": ""
+    },
+    {
+      "rank": 25,
+      "title": "ruhestand",
+      "geos": [
+        "DE"
+      ],
+      "traffic_estimate": 500,
+      "news_title": "Ex-Lehrerin hat im Ruhestand mehr Geld, als sie ausgeben kann",
+      "news_url": "https://www.focus.de/finanzen/ex-lehrerin-69-hat-im-ruhestand-mehr-geld-als-sie-ausgeben-kann_6fd93db0-9ff7-490e-8082-f773eb0d2311.html",
+      "news_source": "FOCUS online"
+    }
+  ]
+}
