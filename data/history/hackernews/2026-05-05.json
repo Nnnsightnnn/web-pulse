@@ -1,0 +1,232 @@
+{
+  "source": "hackernews",
+  "label": "Hacker News — top stories",
+  "fetched_at": "2026-05-05T11:30:38.072Z",
+  "items": [
+    {
+      "rank": 1,
+      "title": "Async Rust never left the MVP state",
+      "url": "https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state",
+      "hn_url": "https://news.ycombinator.com/item?id=48019163",
+      "score": 195,
+      "comments": 91,
+      "author": "pjmlp"
+    },
+    {
+      "rank": 2,
+      "title": "Should I Run Plain Docker Compose in Production in 2026?",
+      "url": "https://distr.sh/blog/running-docker-in-production/",
+      "hn_url": "https://news.ycombinator.com/item?id=47962032",
+      "score": 66,
+      "comments": 44,
+      "author": "pmig"
+    },
+    {
+      "rank": 3,
+      "title": "Bun is being ported from Zig to Rust",
+      "url": "https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5",
+      "hn_url": "https://news.ycombinator.com/item?id=48016880",
+      "score": 555,
+      "comments": 389,
+      "author": "SergeAx"
+    },
+    {
+      "rank": 4,
+      "title": "Empty Screenings – Finds AMC movie screenings with few or no tickets sold",
+      "url": "https://walzr.com/empty-screenings",
+      "hn_url": "https://news.ycombinator.com/item?id=48018066",
+      "score": 171,
+      "comments": 133,
+      "author": "MrBuddyCasino"
+    },
+    {
+      "rank": 5,
+      "title": "When everyone has AI and the company still learns nothing",
+      "url": "https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/",
+      "hn_url": "https://news.ycombinator.com/item?id=48020063",
+      "score": 25,
+      "comments": 9,
+      "author": "youngbrioche"
+    },
+    {
+      "rank": 6,
+      "title": "Lessons for Agentic Coding: What should we do when code is cheap?",
+      "url": "https://www.dbreunig.com/2026/05/04/10-lessons-for-agentic-coding.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48019025",
+      "score": 86,
+      "comments": 65,
+      "author": "ingve"
+    },
+    {
+      "rank": 7,
+      "title": "Hand Drawn QR Codes",
+      "url": "https://sethmlarson.dev/hand-drawn-qr-codes",
+      "hn_url": "https://news.ycombinator.com/item?id=48017907",
+      "score": 128,
+      "comments": 22,
+      "author": "jollyjerry"
+    },
+    {
+      "rank": 8,
+      "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
+      "url": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/",
+      "hn_url": "https://news.ycombinator.com/item?id=48019219",
+      "score": 318,
+      "comments": 333,
+      "author": "john-doe"
+    },
+    {
+      "rank": 9,
+      "title": "How OpenAI delivers low-latency voice AI at scale",
+      "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/",
+      "hn_url": "https://news.ycombinator.com/item?id=48013919",
+      "score": 415,
+      "comments": 130,
+      "author": "Sean-Der"
+    },
+    {
+      "rank": 10,
+      "title": "CVE-2026-31431: Copy Fail vs. rootless containers",
+      "url": "https://www.dragonsreach.it/2026/05/04/cve-2026-31431-copy-fail-rootless-containers/",
+      "hn_url": "https://news.ycombinator.com/item?id=48017813",
+      "score": 116,
+      "comments": 51,
+      "author": "averi"
+    },
+    {
+      "rank": 11,
+      "title": "Farewell to a Giant of Botany",
+      "url": "https://nautil.us/farewell-to-a-giant-of-botany-1280409",
+      "hn_url": "https://news.ycombinator.com/item?id=47990491",
+      "score": 36,
+      "comments": 0,
+      "author": "Brajeshwar"
+    },
+    {
+      "rank": 12,
+      "title": "Train Your Own LLM from Scratch",
+      "url": "https://github.com/angelos-p/llm-from-scratch",
+      "hn_url": "https://news.ycombinator.com/item?id=48017948",
+      "score": 277,
+      "comments": 29,
+      "author": "kristianpaul"
+    },
+    {
+      "rank": 13,
+      "title": "Agent Skills",
+      "url": "https://addyosmani.com/blog/agent-skills/",
+      "hn_url": "https://news.ycombinator.com/item?id=48015397",
+      "score": 270,
+      "comments": 131,
+      "author": "BOOSTERHIDROGEN"
+    },
+    {
+      "rank": 14,
+      "title": "Why I Created phpc.tv",
+      "url": "https://afilina.com/why-phpc-tv",
+      "hn_url": "https://news.ycombinator.com/item?id=48002890",
+      "score": 27,
+      "comments": 4,
+      "author": "luu"
+    },
+    {
+      "rank": 15,
+      "title": "The Frog for Whom the Bell Tolls",
+      "url": "https://sethmlarson.dev/the-frog-for-whom-the-bell-tolls",
+      "hn_url": "https://news.ycombinator.com/item?id=48019165",
+      "score": 17,
+      "comments": 5,
+      "author": "anujbans"
+    },
+    {
+      "rank": 16,
+      "title": "How Many Children Learned Mathematics from Kiselev's Textbooks?",
+      "url": "https://valeman.medium.com/how-many-children-learned-mathematics-from-kiselevs-textbooks-ff4efceade0d",
+      "hn_url": "https://news.ycombinator.com/item?id=48008925",
+      "score": 22,
+      "comments": 4,
+      "author": "ibobev"
+    },
+    {
+      "rank": 17,
+      "title": "Mouse Pointer as a Mere Mortal",
+      "url": "https://unsung.aresluna.org/mouse-pointer-as-a-mere-mortal/",
+      "hn_url": "https://news.ycombinator.com/item?id=47993585",
+      "score": 33,
+      "comments": 10,
+      "author": "zdw"
+    },
+    {
+      "rank": 18,
+      "title": "Does Employment Slow Cognitive Decline? Evidence from Labor Market Shocks",
+      "url": "https://www.nber.org/papers/w35117",
+      "hn_url": "https://news.ycombinator.com/item?id=48009983",
+      "score": 304,
+      "comments": 288,
+      "author": "littlexsparkee"
+    },
+    {
+      "rank": 19,
+      "title": "Securing a DoD contractor: Finding a multi-tenant authorization vulnerability",
+      "url": "https://www.strix.ai/blog/how-strix-found-zero-auth-vulnerability-dod-backed-startup",
+      "hn_url": "https://news.ycombinator.com/item?id=48012162",
+      "score": 200,
+      "comments": 82,
+      "author": "bearsyankees"
+    },
+    {
+      "rank": 20,
+      "title": "pgxbackup: Continuity Support for pgBackRest",
+      "url": "https://thebuild.com/blog/2026/05/01/pgxbackup-continuity-support-for-pgbackrest/",
+      "hn_url": "https://news.ycombinator.com/item?id=47988439",
+      "score": 56,
+      "comments": 10,
+      "author": "Wingy"
+    },
+    {
+      "rank": 21,
+      "title": "Redis array: short story of a long development process",
+      "url": "https://antirez.com/news/164",
+      "hn_url": "https://news.ycombinator.com/item?id=48009172",
+      "score": 287,
+      "comments": 103,
+      "author": "antirez"
+    },
+    {
+      "rank": 22,
+      "title": "Biscuit",
+      "url": "https://github.com/yattsu/biscuit",
+      "hn_url": "https://news.ycombinator.com/item?id=48017641",
+      "score": 59,
+      "comments": 3,
+      "author": "unixfg"
+    },
+    {
+      "rank": 23,
+      "title": "When networking doesn't work",
+      "url": "https://www.os2museum.com/wp/when-networking-doesnt-work/",
+      "hn_url": "https://news.ycombinator.com/item?id=48014868",
+      "score": 69,
+      "comments": 11,
+      "author": "kencausey"
+    },
+    {
+      "rank": 24,
+      "title": "Talking to strangers at the gym",
+      "url": "https://thienantran.com/talking-to-35-strangers-at-the-gym/",
+      "hn_url": "https://news.ycombinator.com/item?id=48007438",
+      "score": 1382,
+      "comments": 657,
+      "author": "thitran"
+    },
+    {
+      "rank": 25,
+      "title": "Formatting a 25M-line codebase overnight",
+      "url": "https://stripe.dev/blog/formatting-an-entire-25-million-line-codebase-overnight-the-rubyfmt-story",
+      "hn_url": "https://news.ycombinator.com/item?id=48014325",
+      "score": 173,
+      "comments": 88,
+      "author": "r00k"
+    }
+  ]
+}
