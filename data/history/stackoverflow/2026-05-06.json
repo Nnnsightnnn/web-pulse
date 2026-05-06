@@ -1,0 +1,321 @@
+{
+  "source": "stackoverflow",
+  "label": "Stack Overflow — hot questions",
+  "fetched_at": "2026-05-06T11:07:02.260Z",
+  "items": [
+    {
+      "rank": 1,
+      "title": "How do I make certain keywords unsearchable in my search bar?",
+      "url": "https://stackoverflow.com/questions/79936912/how-do-i-make-certain-keywords-unsearchable-in-my-search-bar",
+      "score": 1,
+      "answers": 2,
+      "views": 41,
+      "tags": [
+        "javascript"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Google Agent Registry : In the agent registry google Vertex AI agents are visible but Gemini Enterprise Agents are not visible",
+      "url": "https://stackoverflow.com/questions/79936913/google-agent-registry-in-the-agent-registry-google-vertex-ai-agents-are-visibl",
+      "score": -1,
+      "answers": 0,
+      "views": 20,
+      "tags": [
+        "google-cloud-platform",
+        "google-gemini"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "In Sublime Text is there a way to open a single folded block with a keyboard shortcut?",
+      "url": "https://stackoverflow.com/questions/79936906/in-sublime-text-is-there-a-way-to-open-a-single-folded-block-with-a-keyboard-sho",
+      "score": 0,
+      "answers": 0,
+      "views": 18,
+      "tags": [
+        "keyboard-shortcuts",
+        "sublimetext"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "How does quantize() work with ROUND_HALF_UP?",
+      "url": "https://stackoverflow.com/questions/79936915/how-does-quantize-work-with-round-half-up",
+      "score": -1,
+      "answers": 0,
+      "views": 14,
+      "tags": [
+        "python",
+        "python-decimal"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Join in composite primary key with Hibernate in Spring Boot not working with partial composite primary key",
+      "url": "https://stackoverflow.com/questions/79936926/join-in-composite-primary-key-with-hibernate-in-spring-boot-not-working-with-par",
+      "score": -1,
+      "answers": 0,
+      "views": 13,
+      "tags": [
+        "spring-boot",
+        "kotlin",
+        "hibernate",
+        "jpa"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "volatile global variables vs asm volatile memory clobber?",
+      "url": "https://stackoverflow.com/questions/79936866/volatile-global-variables-vs-asm-volatile-memory-clobber",
+      "score": 0,
+      "answers": 6,
+      "views": 49,
+      "tags": [
+        "c",
+        "gcc",
+        "compiler-optimization",
+        "volatile",
+        "memory-barriers"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Generate a .NET .exe file that doesn't include IL, JIT, metadata in it",
+      "url": "https://stackoverflow.com/questions/79936878/generate-a-net-exe-file-that-doesnt-include-il-jit-metadata-in-it",
+      "score": 0,
+      "answers": 1,
+      "views": 42,
+      "tags": [
+        "c#",
+        "vb.net"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Python `.split()` for Bash?",
+      "url": "https://stackoverflow.com/questions/79936900/python-split-for-bash",
+      "score": 0,
+      "answers": 1,
+      "views": 43,
+      "tags": [
+        "python",
+        "bash",
+        "shell",
+        "split",
+        "delimiter"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "HTML issues in REDCap",
+      "url": "https://stackoverflow.com/questions/79936874/html-issues-in-redcap",
+      "score": -1,
+      "answers": 0,
+      "views": 31,
+      "tags": [
+        "html",
+        "redcap"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "\"exclude-newer\" does not respect duration",
+      "url": "https://stackoverflow.com/questions/79936904/exclude-newer-does-not-respect-duration",
+      "score": 0,
+      "answers": 1,
+      "views": 25,
+      "tags": [
+        "python",
+        "uv"
+      ]
+    },
+    {
+      "rank": 11,
+      "title": "What does `add_difference` show for categorical variables?",
+      "url": "https://stackoverflow.com/questions/79936888/what-does-add-difference-show-for-categorical-variables",
+      "score": -2,
+      "answers": 0,
+      "views": 30,
+      "tags": [
+        "r",
+        "gtsummary"
+      ]
+    },
+    {
+      "rank": 12,
+      "title": "Best fine-tuning method",
+      "url": "https://stackoverflow.com/questions/79936890/best-fine-tuning-method",
+      "score": 0,
+      "answers": 0,
+      "views": 24,
+      "tags": [
+        "large-language-model",
+        "fine-tuning"
+      ]
+    },
+    {
+      "rank": 13,
+      "title": "VPN server with privoxy/tor",
+      "url": "https://stackoverflow.com/questions/79936876/vpn-server-with-privoxy-tor",
+      "score": 0,
+      "answers": 0,
+      "views": 23,
+      "tags": [
+        "youtube",
+        "vpn",
+        "tor",
+        "privoxy"
+      ]
+    },
+    {
+      "rank": 14,
+      "title": "In DDD, should domain logic that depends on external libraries be placed in the infrastructure layer?",
+      "url": "https://stackoverflow.com/questions/79936880/in-ddd-should-domain-logic-that-depends-on-external-libraries-be-placed-in-the",
+      "score": -1,
+      "answers": 0,
+      "views": 21,
+      "tags": [
+        "python",
+        "architecture",
+        "domain-driven-design",
+        "clean-architecture",
+        "hexagonal-architecture"
+      ]
+    },
+    {
+      "rank": 15,
+      "title": "how to redirect root home \"/\" to defined directory index page in browser bar",
+      "url": "https://stackoverflow.com/questions/79936848/how-to-redirect-root-home-to-defined-directory-index-page-in-browser-bar",
+      "score": -1,
+      "answers": 1,
+      "views": 73,
+      "tags": [
+        ".htaccess"
+      ]
+    },
+    {
+      "rank": 16,
+      "title": "How to properly fetch data inside useEffect without causing unnecessary re-renders or bugs",
+      "url": "https://stackoverflow.com/questions/79936840/how-to-properly-fetch-data-inside-useeffect-without-causing-unnecessary-re-rende",
+      "score": 1,
+      "answers": 1,
+      "views": 53,
+      "tags": [
+        "reactjs"
+      ]
+    },
+    {
+      "rank": 17,
+      "title": "What's the correct way to host a Laravel application at a sub-directory?",
+      "url": "https://stackoverflow.com/questions/79936897/whats-the-correct-way-to-host-a-laravel-application-at-a-sub-directory",
+      "score": 1,
+      "answers": 0,
+      "views": 17,
+      "tags": [
+        "php",
+        "laravel",
+        "inertiajs",
+        "ziggy"
+      ]
+    },
+    {
+      "rank": 18,
+      "title": "Opening any project in vs, it says Miscellaneous Files, .net SDK not found",
+      "url": "https://stackoverflow.com/questions/79936839/opening-any-project-in-vs-it-says-miscellaneous-files-net-sdk-not-found",
+      "score": -2,
+      "answers": 0,
+      "views": 33,
+      "tags": [
+        "c#",
+        ".net",
+        "visual-studio",
+        "sdk",
+        "visual-studio-2026"
+      ]
+    },
+    {
+      "rank": 19,
+      "title": "Is it possible to hide/show pinned extension icons in Chrome toolbar via shortcut without disabling them?",
+      "url": "https://stackoverflow.com/questions/79936856/is-it-possible-to-hide-show-pinned-extension-icons-in-chrome-toolbar-via-shortcu",
+      "score": 0,
+      "answers": 0,
+      "views": 33,
+      "tags": [
+        "javascript",
+        "google-chrome"
+      ]
+    },
+    {
+      "rank": 20,
+      "title": "GridDB Rust client cannot create index on existing column",
+      "url": "https://stackoverflow.com/questions/79936845/griddb-rust-client-cannot-create-index-on-existing-column",
+      "score": 1,
+      "answers": 1,
+      "views": 37,
+      "tags": [
+        "rust",
+        "griddb"
+      ]
+    },
+    {
+      "rank": 21,
+      "title": "Error in installing mongodb-community and mongodb-shell",
+      "url": "https://stackoverflow.com/questions/79936844/error-in-installing-mongodb-community-and-mongodb-shell",
+      "score": 4,
+      "answers": 1,
+      "views": 45,
+      "tags": [
+        "mongodb",
+        "mongodb-query"
+      ]
+    },
+    {
+      "rank": 22,
+      "title": "Disable Warning on DataWeave Script",
+      "url": "https://stackoverflow.com/questions/79936857/disable-warning-on-dataweave-script",
+      "score": 1,
+      "answers": 0,
+      "views": 26,
+      "tags": [
+        "mulesoft",
+        "anypoint-studio"
+      ]
+    },
+    {
+      "rank": 23,
+      "title": "Can you make a JavaScript object where every missing property becomes a valid value?",
+      "url": "https://stackoverflow.com/questions/79936775/can-you-make-a-javascript-object-where-every-missing-property-becomes-a-valid-va",
+      "score": 2,
+      "answers": 1,
+      "views": 95,
+      "tags": [
+        "javascript"
+      ]
+    },
+    {
+      "rank": 24,
+      "title": "How to define generic type aliases in the puppet language?",
+      "url": "https://stackoverflow.com/questions/79936868/how-to-define-generic-type-aliases-in-the-puppet-language",
+      "score": -1,
+      "answers": 0,
+      "views": 21,
+      "tags": [
+        "generics",
+        "puppet"
+      ]
+    },
+    {
+      "rank": 25,
+      "title": "GridDB Java: is there any way to limit query results (like LIMIT in SQL)?",
+      "url": "https://stackoverflow.com/questions/79936826/griddb-java-is-there-any-way-to-limit-query-results-like-limit-in-sql",
+      "score": 0,
+      "answers": 2,
+      "views": 47,
+      "tags": [
+        "java",
+        "griddb"
+      ]
+    }
+  ]
+}
