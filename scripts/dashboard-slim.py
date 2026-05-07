@@ -22,6 +22,10 @@ def slim_item(it: dict) -> dict:
         or it.get("comments")
         or it.get("players")
         or it.get("peak_24h")
+        or it.get("downloads")     # huggingface
+        or it.get("volume_24h")    # polymarket
+        or it.get("viewers")       # twitch
+        or it.get("sig")           # usgs significance
         or 0
     )
     return {"t": title, "m": metric}

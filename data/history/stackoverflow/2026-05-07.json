@@ -1,39 +1,26 @@
 {
   "source": "stackoverflow",
   "label": "Stack Overflow — hot questions",
-  "fetched_at": "2026-05-07T19:01:59.429Z",
+  "fetched_at": "2026-05-07T19:15:10.113Z",
   "items": [
     {
       "rank": 1,
       "title": "What Are Good Improvements for My Simple React Shopping List?",
       "url": "https://stackoverflow.com/questions/79937729/what-are-good-improvements-for-my-simple-react-shopping-list",
       "score": 0,
-      "answers": 1,
-      "views": 31,
+      "answers": 2,
+      "views": 44,
       "tags": [
         "typescript"
       ]
     },
     {
       "rank": 2,
-      "title": "How to import global.css into cypress component tests",
-      "url": "https://stackoverflow.com/questions/79937723/how-to-import-global-css-into-cypress-component-tests",
-      "score": 0,
-      "answers": 0,
-      "views": 13,
-      "tags": [
-        "next.js",
-        "cypress",
-        "cypress-component-testing"
-      ]
-    },
-    {
-      "rank": 3,
       "title": "Dependency list generated from import in TypeScript",
       "url": "https://stackoverflow.com/questions/79937726/dependency-list-generated-from-import-in-typescript",
       "score": 0,
       "answers": 0,
-      "views": 13,
+      "views": 17,
       "tags": [
         "typescript",
         "npm",
@@ -41,12 +28,64 @@
       ]
     },
     {
+      "rank": 3,
+      "title": "Best way to configure a softphone (e.g. baresip) to stream audio for capture by live transcription service?",
+      "url": "https://stackoverflow.com/questions/79937740/best-way-to-configure-a-softphone-e-g-baresip-to-stream-audio-for-capture-by",
+      "score": 0,
+      "answers": 0,
+      "views": 16,
+      "tags": [
+        "audio-streaming",
+        "linphone",
+        "baresip"
+      ]
+    },
+    {
       "rank": 4,
+      "title": "multi-cert handling by caddy in front of kamal-deployed applications",
+      "url": "https://stackoverflow.com/questions/79937728/multi-cert-handling-by-caddy-in-front-of-kamal-deployed-applications",
+      "score": 0,
+      "answers": 0,
+      "views": 16,
+      "tags": [
+        "ruby-on-rails",
+        "caddy",
+        "kamal"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "How to import global.css into cypress component tests",
+      "url": "https://stackoverflow.com/questions/79937723/how-to-import-global-css-into-cypress-component-tests",
+      "score": 0,
+      "answers": 0,
+      "views": 14,
+      "tags": [
+        "next.js",
+        "cypress",
+        "cypress-component-testing"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Module Not Found\" and \"PrismaClientInitializationError\" in Prisma 7 with Node.js ES Modules",
+      "url": "https://stackoverflow.com/questions/79937733/module-not-found-and-prismaclientinitializationerror-in-prisma-7-with-node-js",
+      "score": 0,
+      "answers": 0,
+      "views": 13,
+      "tags": [
+        "node.js",
+        "postgresql",
+        "prisma"
+      ]
+    },
+    {
+      "rank": 7,
       "title": "How can I debug where an error is coming from in a Laravel + Axios project?",
       "url": "https://stackoverflow.com/questions/79937716/how-can-i-debug-where-an-error-is-coming-from-in-a-laravel-axios-project",
       "score": -2,
       "answers": 0,
-      "views": 59,
+      "views": 63,
       "tags": [
         "laravel",
         "debugging",
@@ -54,59 +93,84 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 8,
+      "title": "What do you use to keep track of everything?",
+      "url": "https://stackoverflow.com/questions/79937673/what-do-you-use-to-keep-track-of-everything",
+      "score": 1,
+      "answers": 2,
+      "views": 36,
+      "tags": [
+        "wordpress",
+        "content-management-system",
+        "project"
+      ]
+    },
+    {
+      "rank": 9,
       "title": "why can't i utilize the \"def\" function?",
       "url": "https://stackoverflow.com/questions/79937711/why-cant-i-utilize-the-def-function",
       "score": -11,
       "answers": 0,
-      "views": 85,
+      "views": 91,
       "tags": [
         "python",
         "visual-studio-code"
       ]
     },
     {
-      "rank": 6,
+      "rank": 10,
       "title": "Stored procedure in MySQL after run for unknown reason returns query interrupted",
       "url": "https://stackoverflow.com/questions/79937698/stored-procedure-in-mysql-after-run-for-unknown-reason-returns-query-interrupted",
       "score": 0,
       "answers": 1,
-      "views": 29,
+      "views": 34,
       "tags": [
         "mysql"
       ]
     },
     {
-      "rank": 7,
+      "rank": 11,
       "title": "When creating a new 'ColorSpec' in the Material Color Utilities library, do I also need to modify the 'variants.ts' file as well?",
       "url": "https://stackoverflow.com/questions/79937702/when-creating-a-new-colorspec-in-the-material-color-utilities-library-do-i-al",
       "score": 0,
       "answers": 1,
-      "views": 29,
+      "views": 33,
       "tags": [
         "typescript",
         "material-design"
       ]
     },
     {
-      "rank": 8,
+      "rank": 12,
       "title": "Getting Partial eta squared for repeated measures ANOVA",
       "url": "https://stackoverflow.com/questions/79937697/getting-partial-eta-squared-for-repeated-measures-anova",
       "score": 0,
       "answers": 1,
-      "views": 20,
+      "views": 24,
       "tags": [
         "r",
         "anova"
       ]
     },
     {
-      "rank": 9,
+      "rank": 13,
+      "title": "no operator \"==\" matches these operands when trying to compare a template function",
+      "url": "https://stackoverflow.com/questions/79937695/no-operator-matches-these-operands-when-trying-to-compare-a-template-functi",
+      "score": -1,
+      "answers": 2,
+      "views": 88,
+      "tags": [
+        "c++",
+        "templates"
+      ]
+    },
+    {
+      "rank": 14,
       "title": "How to filter $_REQUEST agains SQL injection and XSS?",
       "url": "https://stackoverflow.com/questions/79937701/how-to-filter-request-agains-sql-injection-and-xss",
       "score": -1,
       "answers": 0,
-      "views": 18,
+      "views": 19,
       "tags": [
         "php",
         "security",
@@ -115,37 +179,12 @@
       ]
     },
     {
-      "rank": 10,
-      "title": "no operator \"==\" matches these operands when trying to compare a template function",
-      "url": "https://stackoverflow.com/questions/79937695/no-operator-matches-these-operands-when-trying-to-compare-a-template-functi",
-      "score": -1,
-      "answers": 2,
-      "views": 81,
-      "tags": [
-        "c++",
-        "templates"
-      ]
-    },
-    {
-      "rank": 11,
-      "title": "What do you use to keep track of everything?",
-      "url": "https://stackoverflow.com/questions/79937673/what-do-you-use-to-keep-track-of-everything",
-      "score": 1,
-      "answers": 1,
-      "views": 34,
-      "tags": [
-        "wordpress",
-        "content-management-system",
-        "project"
-      ]
-    },
-    {
-      "rank": 12,
+      "rank": 15,
       "title": "Rider can't locate .NET Core",
       "url": "https://stackoverflow.com/questions/79937680/rider-cant-locate-net-core",
       "score": 0,
       "answers": 0,
-      "views": 45,
+      "views": 48,
       "tags": [
         "c#",
         ".net-core",
@@ -154,12 +193,12 @@
       ]
     },
     {
-      "rank": 13,
+      "rank": 16,
       "title": "Leaflet: Uncaught TypeError: can't access property \"lat\", t is null",
       "url": "https://stackoverflow.com/questions/79937663/leaflet-uncaught-typeerror-cant-access-property-lat-t-is-null",
       "score": 0,
       "answers": 0,
-      "views": 43,
+      "views": 45,
       "tags": [
         "javascript",
         "csv",
@@ -167,12 +206,12 @@
       ]
     },
     {
-      "rank": 14,
+      "rank": 17,
       "title": "Best way to design SPA routing with ALB and private S3?",
       "url": "https://stackoverflow.com/questions/79937691/best-way-to-design-spa-routing-with-alb-and-private-s3",
       "score": -4,
       "answers": 0,
-      "views": 34,
+      "views": 37,
       "tags": [
         "reactjs",
         "amazon-web-services",
@@ -180,24 +219,24 @@
       ]
     },
     {
-      "rank": 15,
+      "rank": 18,
       "title": "I am looking for a GUI tool similar to win32 API Spy for a popular linux distro such as Linux Mint",
       "url": "https://stackoverflow.com/questions/79937683/i-am-looking-for-a-gui-tool-similar-to-win32-api-spy-for-a-popular-linux-distro",
       "score": 0,
       "answers": 1,
-      "views": 33,
+      "views": 35,
       "tags": [
         "linux",
         "user-interface"
       ]
     },
     {
-      "rank": 16,
+      "rank": 19,
       "title": "AWS CLI Error: LOADER: failed to restart process: Operation not permitted",
       "url": "https://stackoverflow.com/questions/79937686/aws-cli-error-loader-failed-to-restart-process-operation-not-permitted",
       "score": 0,
       "answers": 0,
-      "views": 31,
+      "views": 32,
       "tags": [
         "python",
         "amazon-web-services",
@@ -206,24 +245,36 @@
       ]
     },
     {
-      "rank": 17,
+      "rank": 20,
       "title": "RATE_LIMIT_EXCEEDED without reaching quota / YouTube API",
       "url": "https://stackoverflow.com/questions/79937672/rate-limit-exceeded-without-reaching-quota-youtube-api",
       "score": -1,
       "answers": 0,
-      "views": 25,
+      "views": 28,
       "tags": [
         "youtube-api",
         "youtube-data-api"
       ]
     },
     {
-      "rank": 18,
+      "rank": 21,
+      "title": "EDG vs GCC/Clang in constexpr rvalue reference behavior in constant expressions",
+      "url": "https://stackoverflow.com/questions/79937637/edg-vs-gcc-clang-in-constexpr-rvalue-reference-behavior-in-constant-expressions",
+      "score": 6,
+      "answers": 1,
+      "views": 94,
+      "tags": [
+        "c++",
+        "language-lawyer"
+      ]
+    },
+    {
+      "rank": 22,
       "title": "How to generate cognito token post a device biometric verification",
       "url": "https://stackoverflow.com/questions/79937689/how-to-generate-cognito-token-post-a-device-biometric-verification",
       "score": 1,
       "answers": 0,
-      "views": 24,
+      "views": 26,
       "tags": [
         "authentication",
         "amazon-cognito",
@@ -232,12 +283,12 @@
       ]
     },
     {
-      "rank": 19,
+      "rank": 23,
       "title": "S3 ErrorDocument behavior when accessed through ALB and VPC Endpoint",
       "url": "https://stackoverflow.com/questions/79937676/s3-errordocument-behavior-when-accessed-through-alb-and-vpc-endpoint",
       "score": 0,
       "answers": 2,
-      "views": 20,
+      "views": 23,
       "tags": [
         "amazon-web-services",
         "amazon-s3",
@@ -245,24 +296,12 @@
       ]
     },
     {
-      "rank": 20,
-      "title": "EDG vs GCC/Clang in constexpr rvalue reference behavior in constant expressions",
-      "url": "https://stackoverflow.com/questions/79937637/edg-vs-gcc-clang-in-constexpr-rvalue-reference-behavior-in-constant-expressions",
-      "score": 6,
-      "answers": 1,
-      "views": 93,
-      "tags": [
-        "c++",
-        "language-lawyer"
-      ]
-    },
-    {
-      "rank": 21,
+      "rank": 24,
       "title": "Struggling to change responsive breakpoint on Wordpress theme",
       "url": "https://stackoverflow.com/questions/79937639/struggling-to-change-responsive-breakpoint-on-wordpress-theme",
       "score": -3,
       "answers": 1,
-      "views": 51,
+      "views": 52,
       "tags": [
         "css",
         "wordpress",
@@ -272,52 +311,18 @@
       ]
     },
     {
-      "rank": 22,
-      "title": "AnyLogic; function unpredicted change, connection time out",
-      "url": "https://stackoverflow.com/questions/79937656/anylogic-function-unpredicted-change-connection-time-out",
-      "score": -5,
-      "answers": 0,
-      "views": 49,
-      "tags": [
-        "anylogic"
-      ]
-    },
-    {
-      "rank": 23,
-      "title": "Gratuitous loads in the SASS for a simple copying CUDA Kernel",
-      "url": "https://stackoverflow.com/questions/79937590/gratuitous-loads-in-the-sass-for-a-simple-copying-cuda-kernel",
-      "score": 0,
-      "answers": 0,
-      "views": 34,
-      "tags": [
-        "cuda",
-        "nvidia-sass"
-      ]
-    },
-    {
-      "rank": 24,
+      "rank": 25,
       "title": "How to optimize the background parallax to be smoother on scrollbar control?",
       "url": "https://stackoverflow.com/questions/79937522/how-to-optimize-the-background-parallax-to-be-smoother-on-scrollbar-control",
       "score": 1,
       "answers": 1,
-      "views": 89,
+      "views": 92,
       "tags": [
         "javascript",
         "html",
         "css",
         "elementor",
         "background-parallax"
-      ]
-    },
-    {
-      "rank": 25,
-      "title": "GCP API Gateway triggers multiple JWKS fetches despite documented 5-minute caching",
-      "url": "https://stackoverflow.com/questions/79937666/gcp-api-gateway-triggers-multiple-jwks-fetches-despite-documented-5-minute-cachi",
-      "score": -2,
-      "answers": 0,
-      "views": 31,
-      "tags": [
-        "google-cloud-api-gateway"
       ]
     }
   ]

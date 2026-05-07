@@ -227,6 +227,12 @@
     .badge { font-family: var(--mono); font-size: 9px; text-transform: uppercase; padding: 2px 6px; border-radius: 2px; margin-left: 6px; letter-spacing: 0.06em; }
     .badge.new    { background: rgba(94,234,212,.15); color: var(--cyan); border: 1px solid rgba(94,234,212,.4); }
     .badge.streak { background: rgba(36,66,111,.35); color: var(--muted); border: 1px solid var(--border); }
+    .pill         { font-family: var(--mono); font-size: 9px; text-transform: uppercase; padding: 1px 5px; border-radius: 2px; letter-spacing: 0.06em; background: rgba(122,162,247,.12); color: var(--cyan); border: 1px solid rgba(122,162,247,.3); }
+    .prob         { font-family: var(--mono); font-size: 11px; color: var(--up); }
+    .mag-major    { color: #ef4444; font-weight: 600; }
+    .mag-mod      { color: #fb923c; font-weight: 600; }
+    .mag-light    { color: #fbbf24; }
+    .mag-minor    { color: var(--muted); }
 
     .blob-container { position: relative; width: 100%; height: 100%; overflow: hidden; }
     .blob-container .blob-more {
@@ -633,6 +639,10 @@
         case "steam":            return item.players
         case "youtube":          return item.views
         case "bluesky":          return item.likes
+        case "huggingface":      return item.downloads
+        case "polymarket":       return item.volume_24h
+        case "usgs":             return item.sig
+        case "twitch":           return item.viewers
         default:                 return undefined
       }
     }
@@ -644,6 +654,10 @@
       mediastack: '#5EEAD4', 'mastodon-trending': '#818CF8', 'product-hunt': '#FA8072',
       stackoverflow: '#FCD34D', steam: '#A7F3D0',
       youtube: '#F472B6', bluesky: '#A78BFA',
+      huggingface: '#FFD21E',  // HF yellow
+      polymarket: '#0072F5',   // Polymarket blue
+      usgs: '#FB923C',          // seismic orange
+      twitch: '#9146FF',        // Twitch purple
     }
 
     function blobSubtext(source, item) {
@@ -661,6 +675,10 @@
         case 'bluesky': return fmt(v) + ' likes'
         case 'mastodon-trending': return fmt(v) + ' likes'
         case 'product-hunt': return fmt(v) + ' votes'
+        case 'huggingface': return fmt(v) + ' downloads'
+        case 'polymarket': return '$' + fmt(v)
+        case 'usgs': return 'M' + (item.magnitude ?? '?')
+        case 'twitch': return fmt(v) + ' viewers'
         default: return '#' + item.rank
       }
     }
@@ -1098,6 +1116,72 @@
             <div class="metric">${it._weekItem ? `${it.appearances}d` : `\u25b2${fmt(it.votes_count)}`}</div>
           </div>`).join("")
       },
+      huggingface(data, ann) {
+        return (ann || data.items).map((it) => {
+          const tag = it.pipeline_tag ? `<span class="pill">${esc(it.pipeline_tag)}</span> ` : ""
+          return `
+          <div class="item">
+            <div class="rank">${it.rank}</div>
+            <div>
+              <div class="title"><a href="${esc(it.url)}" target="_blank" rel="noopener">${esc(it.title)}</a>${rankSpark(it)}${badges(it)}</div>
+              <div class="sub">${tag}${fmt(it.downloads)} downloads \u00b7 \u2665 ${fmt(it.likes)}</div>
+            </div>
+            <div class="metric">${it._weekItem ? `${it.appearances}d` : fmt(it.downloads)}</div>
+          </div>`
+        }).join("")
+      },
+      polymarket(data, ann) {
+        return (ann || data.items).map((it) => {
+          let prob = ""
+          if (it.yes_price != null) {
+            prob = `<span class="prob">${Math.round(it.yes_price * 100)}\u00a2 Yes</span>`
+          } else if (it.leader) {
+            prob = `<span class="prob">${esc(it.leader.name)} ${Math.round(it.leader.price * 100)}\u00a2</span>`
+          }
+          return `
+          <div class="item">
+            <div class="rank">${it.rank}</div>
+            <div>
+              <div class="title"><a href="${esc(it.url)}" target="_blank" rel="noopener">${esc(it.title)}</a>${rankSpark(it)}${badges(it)}</div>
+              <div class="sub">${prob}${prob ? " \u00b7 " : ""}$${fmt(Math.round(it.volume_24h))} 24h vol</div>
+            </div>
+            <div class="metric">${it._weekItem ? `${it.appearances}d` : "$" + fmt(Math.round(it.volume_24h))}</div>
+          </div>`
+        }).join("")
+      },
+      usgs(data, ann) {
+        return (ann || data.items).map((it) => {
+          const m = it.magnitude
+          const magClass = m == null ? "" : (m >= 6 ? "mag-major" : m >= 5 ? "mag-mod" : m >= 4 ? "mag-light" : "mag-minor")
+          const tsu = it.tsunami ? ' \u00b7 <span style="color:var(--down)">tsunami</span>' : ""
+          const felt = it.felt ? ` \u00b7 ${fmt(it.felt)} felt` : ""
+          return `
+          <div class="item">
+            <div class="rank"><span class="${magClass}">M${m ?? "?"}</span></div>
+            <div>
+              <div class="title"><a href="${esc(it.url)}" target="_blank" rel="noopener">${esc(it.place || "Unknown")}</a>${rankSpark(it)}${badges(it)}</div>
+              <div class="sub">depth ${it.depth_km ?? "?"} km${felt}${tsu}</div>
+            </div>
+            <div class="metric">${it._weekItem ? `${it.appearances}d` : "sig " + it.sig}</div>
+          </div>`
+        }).join("")
+      },
+      twitch(data, ann) {
+        if (data.configured === false) {
+          return `<div style="padding:20px 16px;color:var(--muted);font-size:13px">
+            ${esc(data.message || "Not configured.")}
+          </div>`
+        }
+        return (ann || data.items).map((it) => `
+          <div class="item">
+            <div class="rank">${it.rank}</div>
+            <div>
+              <div class="title"><a href="${esc(it.url)}" target="_blank" rel="noopener">${esc(it.title)}</a>${rankSpark(it)}${badges(it)}</div>
+              <div class="sub">${esc(it.game || "\u2014")} \u00b7 ${esc((it.stream_title || "").slice(0, 80))}</div>
+            </div>
+            <div class="metric">${it._weekItem ? `${it.appearances}d` : fmt(it.viewers)}</div>
+          </div>`).join("")
+      },
     }
 
     // ---- layout ------------------------------------------------------------
@@ -1135,18 +1219,20 @@
       wikipedia: ["news", "culture"], hackernews: ["tech"], reddit: ["news", "culture"],
       github: ["tech"], "google-trends": ["news", "global"],
       "cloudflare-radar": ["tech", "global"], mediastack: ["news", "global"],
-      youtube: ["entertainment"], steam: ["gaming"],
+      youtube: ["entertainment"], steam: ["gaming"], twitch: ["gaming", "entertainment"],
       bluesky: ["social"], stackoverflow: ["tech"],
       "mastodon-trending": ["social"], "product-hunt": ["tech"],
+      huggingface: ["tech"], polymarket: ["news", "global"], usgs: ["news", "global"],
     }
 
     // ---- layout ------------------------------------------------------------
     const ORDER = [
       "hackernews", "github", "stackoverflow",
+      "huggingface", "product-hunt", "cloudflare-radar",
       "google-trends", "mediastack", "wikipedia",
       "reddit", "bluesky", "mastodon-trending",
-      "youtube", "steam",
-      "product-hunt", "cloudflare-radar",
+      "youtube", "steam", "twitch",
+      "polymarket", "usgs",
     ]
 
     // ---- hash routing ------------------------------------------------------

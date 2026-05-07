@@ -28,6 +28,10 @@ import youtube from "./sources/youtube.mjs";
 import bluesky from "./sources/bluesky.mjs";
 import mastodonTrending from "./sources/mastodon-trending.mjs";
 import productHunt from "./sources/product-hunt.mjs";
+import huggingface from "./sources/huggingface.mjs";
+import polymarket from "./sources/polymarket.mjs";
+import usgs from "./sources/usgs.mjs";
+import twitch from "./sources/twitch.mjs";
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const ROOT = join(__dirname, "..");
@@ -48,6 +52,10 @@ const SOURCES = [
   { name: "bluesky", fn: bluesky },
   { name: "mastodon-trending", fn: mastodonTrending },
   { name: "product-hunt", fn: productHunt },
+  { name: "huggingface", fn: huggingface },
+  { name: "polymarket", fn: polymarket },
+  { name: "usgs", fn: usgs },
+  { name: "twitch", fn: twitch },
 ];
 
 function dateStamp() {

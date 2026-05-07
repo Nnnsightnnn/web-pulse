@@ -1,15 +1,15 @@
 {
   "source": "hackernews",
   "label": "Hacker News — top stories",
-  "fetched_at": "2026-05-07T19:01:59.761Z",
+  "fetched_at": "2026-05-07T19:15:11.018Z",
   "items": [
     {
       "rank": 1,
       "title": "The map that keeps Burning Man honest",
       "url": "https://www.not-ship.com/burning-man-moop/",
       "hn_url": "https://news.ycombinator.com/item?id=48049653",
-      "score": 380,
-      "comments": 171,
+      "score": 396,
+      "comments": 174,
       "author": "speckx"
     },
     {
@@ -17,8 +17,8 @@
       "title": "Agents need control flow, not more prompts",
       "url": "https://bsuh.bearblog.dev/agents-need-control-flow/",
       "hn_url": "https://news.ycombinator.com/item?id=48051562",
-      "score": 94,
-      "comments": 45,
+      "score": 106,
+      "comments": 52,
       "author": "bsuh"
     },
     {
@@ -26,35 +26,35 @@
       "title": "AlphaEvolve: Gemini-powered coding agent scaling impact across fields",
       "url": "https://deepmind.google/blog/alphaevolve-impact/",
       "hn_url": "https://news.ycombinator.com/item?id=48050278",
-      "score": 173,
-      "comments": 64,
+      "score": 179,
+      "comments": 67,
       "author": "berlianta"
     },
     {
       "rank": 4,
-      "title": "DeepSeek 4 Flash local inference engine for Metal",
-      "url": "https://github.com/antirez/ds4",
-      "hn_url": "https://news.ycombinator.com/item?id=48050751",
-      "score": 122,
-      "comments": 35,
-      "author": "tamnd"
-    },
-    {
-      "rank": 5,
       "title": "Natural Language Autoencoders: Turning Claude's Thoughts into Text",
       "url": "https://www.anthropic.com/research/natural-language-autoencoders",
       "hn_url": "https://news.ycombinator.com/item?id=48052537",
-      "score": 27,
+      "score": 35,
       "comments": 7,
       "author": "instagraham"
+    },
+    {
+      "rank": 5,
+      "title": "DeepSeek 4 Flash local inference engine for Metal",
+      "url": "https://github.com/antirez/ds4",
+      "hn_url": "https://news.ycombinator.com/item?id=48050751",
+      "score": 135,
+      "comments": 41,
+      "author": "tamnd"
     },
     {
       "rank": 6,
       "title": "Child marriages plunged when girls stayed in school in Nigeria",
       "url": "https://www.nature.com/articles/d41586-026-00720-8",
       "hn_url": "https://news.ycombinator.com/item?id=48049208",
-      "score": 253,
-      "comments": 165,
+      "score": 259,
+      "comments": 171,
       "author": "surprisetalk"
     },
     {
@@ -62,8 +62,8 @@
       "title": "Chrome removes claim of On-device Al not sending data to Google Servers",
       "url": "https://old.reddit.com/r/chrome/comments/1t5qayz/chrome_removes_claim_of_ondevice_al_not_sending/",
       "hn_url": "https://news.ycombinator.com/item?id=48050964",
-      "score": 212,
-      "comments": 71,
+      "score": 232,
+      "comments": 78,
       "author": "newsoftheday"
     },
     {
@@ -71,8 +71,8 @@
       "title": "PySimpleGUI 6",
       "url": "https://github.com/PySimpleGUI/PySimpleGUI",
       "hn_url": "https://news.ycombinator.com/item?id=48026412",
-      "score": 53,
-      "comments": 15,
+      "score": 56,
+      "comments": 17,
       "author": "geophph"
     },
     {
@@ -80,144 +80,144 @@
       "title": "I want to live like Costco people",
       "url": "https://tastecooking.com/i-want-to-live-like-costco-people/",
       "hn_url": "https://news.ycombinator.com/item?id=48050499",
-      "score": 69,
-      "comments": 160,
+      "score": 75,
+      "comments": 183,
       "author": "speckx"
     },
     {
       "rank": 10,
-      "title": "OpenBSD Stories: The closest thing to cute kittens (OpenBSD/zaurus)",
-      "url": "http://miod.online.fr/software/openbsd/stories/zaurus1.html",
-      "hn_url": "https://news.ycombinator.com/item?id=48040465",
-      "score": 32,
-      "comments": 5,
-      "author": "zdw"
+      "title": "AI Slop Is Killing Online Communities",
+      "url": "https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/",
+      "hn_url": "https://news.ycombinator.com/item?id=48053203",
+      "score": 26,
+      "comments": 0,
+      "author": "thm"
     },
     {
       "rank": 11,
-      "title": "RaTeX: KaTeX-compatible LaTeX rendering engine in pure Rust",
-      "url": "https://ratex.lites.dev/",
-      "hn_url": "https://news.ycombinator.com/item?id=48010729",
-      "score": 122,
-      "comments": 75,
-      "author": "atilimcetin"
+      "title": "Principles for agent-native CLIs",
+      "url": "https://twitter.com/trevin/status/2051316002730991795",
+      "hn_url": "https://news.ycombinator.com/item?id=48052333",
+      "score": 12,
+      "comments": 1,
+      "author": "blumpy22"
     },
     {
       "rank": 12,
-      "title": "Printing Blogs",
-      "url": "https://fi-le.net/print/",
-      "hn_url": "https://news.ycombinator.com/item?id=48029732",
-      "score": 17,
-      "comments": 2,
-      "author": "fi-le"
+      "title": "OpenBSD Stories: The closest thing to cute kittens (OpenBSD/zaurus)",
+      "url": "http://miod.online.fr/software/openbsd/stories/zaurus1.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48040465",
+      "score": 39,
+      "comments": 5,
+      "author": "zdw"
     },
     {
       "rank": 13,
       "title": "The Self-Cancelling Subscription",
       "url": "https://predr.ag/blog/the-self-cancelling-subscription/",
       "hn_url": "https://news.ycombinator.com/item?id=48049764",
-      "score": 100,
-      "comments": 43,
+      "score": 106,
+      "comments": 44,
       "author": "surprisetalk"
     },
     {
       "rank": 14,
-      "title": "Principles for agent-native CLIs",
-      "url": "https://twitter.com/trevin/status/2051316002730991795",
-      "hn_url": "https://news.ycombinator.com/item?id=48052333",
-      "score": 8,
-      "comments": 0,
-      "author": "blumpy22"
+      "title": "RaTeX: KaTeX-compatible LaTeX rendering engine in pure Rust",
+      "url": "https://ratex.lites.dev/",
+      "hn_url": "https://news.ycombinator.com/item?id=48010729",
+      "score": 126,
+      "comments": 77,
+      "author": "atilimcetin"
     },
     {
       "rank": 15,
+      "title": "Printing Blogs",
+      "url": "https://fi-le.net/print/",
+      "hn_url": "https://news.ycombinator.com/item?id=48029732",
+      "score": 20,
+      "comments": 3,
+      "author": "fi-le"
+    },
+    {
+      "rank": 16,
+      "title": "SQLite Is a Library of Congress Recommended Storage Format",
+      "url": "https://sqlite.org/locrsf.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48042434",
+      "score": 560,
+      "comments": 170,
+      "author": "whatisabcdefgh"
+    },
+    {
+      "rank": 17,
+      "title": "Motherboard sales 'collapse' amid unprecedented shortages fueled by AI",
+      "url": "https://www.tomshardware.com/pc-components/motherboards/motherboard-sales-collapse-by-more-than-25-percent-as-chipmakers-strangle-enthusiast-pc-market-to-build-more-ai-chips-asus-projected-to-sell-5-million-fewer-boards-in-2025-gigabyte-msi-and-asrock-also-expected-to-see-reduced-sales-numbers",
+      "hn_url": "https://news.ycombinator.com/item?id=48050540",
+      "score": 154,
+      "comments": 154,
+      "author": "speckx"
+    },
+    {
+      "rank": 18,
       "title": "MPEG-2 Transport Stream Packaging for Media over QUIC Transport",
       "url": "https://www.ietf.org/archive/id/draft-gregoire-moq-msfts-00.html",
       "hn_url": "https://news.ycombinator.com/item?id=48049963",
-      "score": 37,
+      "score": 40,
       "comments": 9,
       "author": "mondainx"
     },
     {
-      "rank": 16,
-      "title": "Motherboard sales 'collapse' amid unprecedented shortages fueled by AI",
-      "url": "https://www.tomshardware.com/pc-components/motherboards/motherboard-sales-collapse-by-more-than-25-percent-as-chipmakers-strangle-enthusiast-pc-market-to-build-more-ai-chips-asus-projected-to-sell-5-million-fewer-boards-in-2025-gigabyte-msi-and-asrock-also-expected-to-see-reduced-sales-numbers",
-      "hn_url": "https://news.ycombinator.com/item?id=48050540",
-      "score": 151,
-      "comments": 146,
-      "author": "speckx"
-    },
-    {
-      "rank": 17,
-      "title": "SQLite Is a Library of Congress Recommended Storage Format",
-      "url": "https://sqlite.org/locrsf.html",
-      "hn_url": "https://news.ycombinator.com/item?id=48042434",
-      "score": 559,
-      "comments": 169,
-      "author": "whatisabcdefgh"
-    },
-    {
-      "rank": 18,
-      "title": "I switched from Mac to a Lenovo Chromebook",
-      "url": "https://blog.johnozbay.com/i-left-apples-ecosystem-for-a-lenovo-chromebook-and-you-can-too.html",
-      "hn_url": "https://news.ycombinator.com/item?id=48051025",
-      "score": 72,
-      "comments": 94,
-      "author": "speckx"
-    },
-    {
       "rank": 19,
-      "title": "How Cloudflare responded to the “Copy Fail” Linux vulnerability",
-      "url": "https://blog.cloudflare.com/copy-fail-linux-vulnerability-mitigation/",
-      "hn_url": "https://news.ycombinator.com/item?id=48049160",
-      "score": 59,
-      "comments": 54,
-      "author": "mobeigi"
+      "title": "Show HN: Stage CLI – an easier way of reading your AI generated changes locally",
+      "url": "https://github.com/ReviewStage/stage-cli",
+      "hn_url": "https://news.ycombinator.com/item?id=48050732",
+      "score": 13,
+      "comments": 9,
+      "author": "cpan22"
     },
     {
       "rank": 20,
       "title": "Brazil's Pix Payment System Faces Pressure from Visa and Mastercard",
       "url": "https://www.elciudadano.com/en/brazils-pix-payment-system-faces-pressure-from-visa-and-mastercard/04/04/",
       "hn_url": "https://news.ycombinator.com/item?id=48052371",
-      "score": 32,
-      "comments": 18,
+      "score": 39,
+      "comments": 23,
       "author": "wslh"
     },
     {
       "rank": 21,
-      "title": "Show HN: Stage CLI – an easier way of reading your AI generated changes locally",
-      "url": "https://github.com/ReviewStage/stage-cli",
-      "hn_url": "https://news.ycombinator.com/item?id=48050732",
-      "score": 11,
-      "comments": 6,
-      "author": "cpan22"
+      "title": "How Cloudflare responded to the “Copy Fail” Linux vulnerability",
+      "url": "https://blog.cloudflare.com/copy-fail-linux-vulnerability-mitigation/",
+      "hn_url": "https://news.ycombinator.com/item?id=48049160",
+      "score": 61,
+      "comments": 54,
+      "author": "mobeigi"
     },
     {
       "rank": 22,
       "title": "OurCar: What I learned making an app for my family",
       "url": "https://mendelgreenberg.com/posts/ourcar/",
       "hn_url": "https://news.ycombinator.com/item?id=48036190",
-      "score": 75,
-      "comments": 53,
+      "score": 77,
+      "comments": 54,
       "author": "chabad360"
     },
     {
       "rank": 23,
-      "title": "Speedup in Lattice Boltzmann Cylinder Flow",
-      "url": "https://github.com/alikamp/Parks-KPBM-Scaling",
-      "hn_url": "https://news.ycombinator.com/item?id=48012342",
-      "score": 40,
-      "comments": 3,
-      "author": "kauai1"
-    },
-    {
-      "rank": 24,
       "title": "Show HN: TRUST – Coding Rust like it's 1989",
       "url": "https://github.com/wojtczyk/trust",
       "hn_url": "https://news.ycombinator.com/item?id=48045939",
-      "score": 82,
-      "comments": 54,
+      "score": 84,
+      "comments": 55,
       "author": "wojtczyk"
+    },
+    {
+      "rank": 24,
+      "title": "Speedup in Lattice Boltzmann Cylinder Flow",
+      "url": "https://github.com/alikamp/Parks-KPBM-Scaling",
+      "hn_url": "https://news.ycombinator.com/item?id=48012342",
+      "score": 41,
+      "comments": 3,
+      "author": "kauai1"
     }
   ]
 }
