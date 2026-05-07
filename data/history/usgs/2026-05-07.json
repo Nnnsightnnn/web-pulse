@@ -1,7 +1,7 @@
 {
   "source": "usgs",
   "label": "USGS — earthquakes (24h, M2.5+)",
-  "fetched_at": "2026-05-07T19:15:09.622Z",
+  "fetched_at": "2026-05-07T19:26:20.016Z",
   "items": [
     {
       "rank": 1,
@@ -9,13 +9,13 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75358752",
       "magnitude": 4.4,
       "place": "2 km NW of The Geysers, CA",
-      "time": 1778146963380,
+      "time": 1778146963400,
       "sig": 531,
       "felt": 396,
       "tsunami": false,
-      "depth_km": 3.5,
-      "lat": 38.7908325195312,
-      "lon": -122.77433013916
+      "depth_km": 3.7,
+      "lat": 38.7913333333333,
+      "lon": -122.777166666667
     },
     {
       "rank": 2,
@@ -61,20 +61,6 @@
     },
     {
       "rank": 5,
-      "title": "South Sandwich Islands region",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000svrl",
-      "magnitude": 5,
-      "place": "South Sandwich Islands region",
-      "time": 1778095157896,
-      "sig": 385,
-      "felt": 0,
-      "tsunami": false,
-      "depth_km": 10,
-      "lat": -59.5634,
-      "lon": -24.0873
-    },
-    {
-      "rank": 6,
       "title": "central Mid-Atlantic Ridge",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000svzd",
       "magnitude": 4.7,
@@ -88,7 +74,7 @@
       "lon": -34.6353
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "98 km SW of Puerto Madero, Mexico",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000svvr",
       "magnitude": 4.7,
@@ -102,7 +88,7 @@
       "lon": -93.13
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "88 km NNW of Tatsugō, Japan",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000svvf",
       "magnitude": 4.7,
@@ -116,7 +102,7 @@
       "lon": 129.4091
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "25 km NE of La Troncal, Ecuador",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000svsx",
       "magnitude": 4.6,
@@ -130,7 +116,7 @@
       "lon": -79.181
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "68 km W of Ollagüe, Chile",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000svti",
       "magnitude": 4.3,
@@ -144,21 +130,21 @@
       "lon": -68.9134
     },
     {
-      "rank": 11,
+      "rank": 10,
       "title": "17 km SSW of Weston, Colorado",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000svzn",
       "magnitude": 4,
       "place": "17 km SSW of Weston, Colorado",
       "time": 1778175864086,
-      "sig": 255,
-      "felt": 24,
+      "sig": 257,
+      "felt": 29,
       "tsunami": false,
       "depth_km": 8.7,
       "lat": 36.9854,
       "lon": -104.9295
     },
     {
-      "rank": 12,
+      "rank": 11,
       "title": "265 km W of Adak, Alaska",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026izwvuf",
       "magnitude": 3.7,
@@ -172,7 +158,7 @@
       "lon": 179.558
     },
     {
-      "rank": 13,
+      "rank": 12,
       "title": "102 km N of Charlotte Amalie, U.S. Virgin Islands",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2026127000",
       "magnitude": 3.6,
@@ -186,7 +172,7 @@
       "lon": -64.8158
     },
     {
-      "rank": 14,
+      "rank": 13,
       "title": "12 km NNE of Cruz Bay, U.S. Virgin Islands",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2026127001",
       "magnitude": 3.5,
@@ -200,7 +186,7 @@
       "lon": -64.7433
     },
     {
-      "rank": 15,
+      "rank": 14,
       "title": "1 km W of Concrete, Washington",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw62242697",
       "magnitude": 2.8,
@@ -214,7 +200,7 @@
       "lon": -121.77283477783203
     },
     {
-      "rank": 16,
+      "rank": 15,
       "title": "3 km NW of Anderson Springs, CA",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75358597",
       "magnitude": 3.1,
@@ -228,7 +214,7 @@
       "lon": -122.713836669922
     },
     {
-      "rank": 17,
+      "rank": 16,
       "title": "19 km N of Barstow, CA",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41243583",
       "magnitude": 3.1,
@@ -242,7 +228,7 @@
       "lon": -116.983833333333
     },
     {
-      "rank": 18,
+      "rank": 17,
       "title": "17 km SW of Esperanza, Puerto Rico",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71515983",
       "magnitude": 2.9,
@@ -256,7 +242,7 @@
       "lon": -65.59
     },
     {
-      "rank": 19,
+      "rank": 18,
       "title": "158 km ESE of McCarthy, Alaska",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000svza",
       "magnitude": 2.8,
@@ -270,7 +256,7 @@
       "lon": -140.081
     },
     {
-      "rank": 20,
+      "rank": 19,
       "title": "34 km N of Chickaloon, Alaska",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026iyqwyh",
       "magnitude": 2.8,
@@ -284,7 +270,7 @@
       "lon": -148.379
     },
     {
-      "rank": 21,
+      "rank": 20,
       "title": "26 km ENE of Manley Hot Springs, Alaska",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026izqtxn",
       "magnitude": 2.7,
@@ -298,7 +284,7 @@
       "lon": -150.15
     },
     {
-      "rank": 22,
+      "rank": 21,
       "title": "4 km SSW of Anderson Springs, CA",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75358892",
       "magnitude": 2.7,
@@ -312,7 +298,7 @@
       "lon": -122.708335876465
     },
     {
-      "rank": 23,
+      "rank": 22,
       "title": "4 km E of Covelo, CA",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75359492",
       "magnitude": 2.7,
@@ -326,7 +312,7 @@
       "lon": -123.196502685547
     },
     {
-      "rank": 24,
+      "rank": 23,
       "title": "11 km SSE of Guánica, Puerto Rico",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71516033",
       "magnitude": 2.6,
@@ -340,7 +326,7 @@
       "lon": -66.8798333333333
     },
     {
-      "rank": 25,
+      "rank": 24,
       "title": "9 km N of Sterling, Alaska",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026izxcgu",
       "magnitude": 2.6,
@@ -352,6 +338,20 @@
       "depth_km": 53.8,
       "lat": 60.625,
       "lon": -150.77
+    },
+    {
+      "rank": 25,
+      "title": "3 km SSW of Pāhala, Hawaii",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74955172",
+      "magnitude": 2.5,
+      "place": "3 km SSW of Pāhala, Hawaii",
+      "time": 1778175960480,
+      "sig": 99,
+      "felt": 0,
+      "tsunami": false,
+      "depth_km": 35.5,
+      "lat": 19.1733333333333,
+      "lon": -155.485666666667
     }
   ]
 }

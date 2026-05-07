@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-05-07T19:15:11.036Z",
+  "generated_at": "2026-05-07T19:26:20.752Z",
   "sources": {
     "wikipedia": {
       "source": "wikipedia",
       "label": "Wikipedia — most read yesterday",
-      "fetched_at": "2026-05-07T19:15:09.550Z",
+      "fetched_at": "2026-05-07T19:26:19.837Z",
       "data_date": "2026-05-06",
       "items": [
         {
@@ -162,15 +162,15 @@
     "hackernews": {
       "source": "hackernews",
       "label": "Hacker News — top stories",
-      "fetched_at": "2026-05-07T19:15:11.018Z",
+      "fetched_at": "2026-05-07T19:26:20.078Z",
       "items": [
         {
           "rank": 1,
           "title": "The map that keeps Burning Man honest",
           "url": "https://www.not-ship.com/burning-man-moop/",
           "hn_url": "https://news.ycombinator.com/item?id=48049653",
-          "score": 396,
-          "comments": 174,
+          "score": 410,
+          "comments": 176,
           "author": "speckx"
         },
         {
@@ -178,8 +178,8 @@
           "title": "Agents need control flow, not more prompts",
           "url": "https://bsuh.bearblog.dev/agents-need-control-flow/",
           "hn_url": "https://news.ycombinator.com/item?id=48051562",
-          "score": 106,
-          "comments": 52,
+          "score": 120,
+          "comments": 57,
           "author": "bsuh"
         },
         {
@@ -187,8 +187,8 @@
           "title": "AlphaEvolve: Gemini-powered coding agent scaling impact across fields",
           "url": "https://deepmind.google/blog/alphaevolve-impact/",
           "hn_url": "https://news.ycombinator.com/item?id=48050278",
-          "score": 179,
-          "comments": 67,
+          "score": 186,
+          "comments": 69,
           "author": "berlianta"
         },
         {
@@ -196,8 +196,8 @@
           "title": "Natural Language Autoencoders: Turning Claude's Thoughts into Text",
           "url": "https://www.anthropic.com/research/natural-language-autoencoders",
           "hn_url": "https://news.ycombinator.com/item?id=48052537",
-          "score": 35,
-          "comments": 7,
+          "score": 49,
+          "comments": 8,
           "author": "instagraham"
         },
         {
@@ -205,70 +205,70 @@
           "title": "DeepSeek 4 Flash local inference engine for Metal",
           "url": "https://github.com/antirez/ds4",
           "hn_url": "https://news.ycombinator.com/item?id=48050751",
-          "score": 135,
-          "comments": 41,
+          "score": 143,
+          "comments": 42,
           "author": "tamnd"
         },
         {
           "rank": 6,
-          "title": "Child marriages plunged when girls stayed in school in Nigeria",
-          "url": "https://www.nature.com/articles/d41586-026-00720-8",
-          "hn_url": "https://news.ycombinator.com/item?id=48049208",
-          "score": 259,
-          "comments": 171,
-          "author": "surprisetalk"
-        },
-        {
-          "rank": 7,
-          "title": "Chrome removes claim of On-device Al not sending data to Google Servers",
-          "url": "https://old.reddit.com/r/chrome/comments/1t5qayz/chrome_removes_claim_of_ondevice_al_not_sending/",
-          "hn_url": "https://news.ycombinator.com/item?id=48050964",
-          "score": 232,
-          "comments": 78,
-          "author": "newsoftheday"
-        },
-        {
-          "rank": 8,
-          "title": "PySimpleGUI 6",
-          "url": "https://github.com/PySimpleGUI/PySimpleGUI",
-          "hn_url": "https://news.ycombinator.com/item?id=48026412",
-          "score": 56,
-          "comments": 17,
-          "author": "geophph"
-        },
-        {
-          "rank": 9,
-          "title": "I want to live like Costco people",
-          "url": "https://tastecooking.com/i-want-to-live-like-costco-people/",
-          "hn_url": "https://news.ycombinator.com/item?id=48050499",
-          "score": 75,
-          "comments": 183,
-          "author": "speckx"
-        },
-        {
-          "rank": 10,
           "title": "AI Slop Is Killing Online Communities",
           "url": "https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/",
           "hn_url": "https://news.ycombinator.com/item?id=48053203",
-          "score": 26,
-          "comments": 0,
+          "score": 61,
+          "comments": 13,
           "author": "thm"
         },
         {
-          "rank": 11,
+          "rank": 7,
+          "title": "Child marriages plunged when girls stayed in school in Nigeria",
+          "url": "https://www.nature.com/articles/d41586-026-00720-8",
+          "hn_url": "https://news.ycombinator.com/item?id=48049208",
+          "score": 266,
+          "comments": 180,
+          "author": "surprisetalk"
+        },
+        {
+          "rank": 8,
           "title": "Principles for agent-native CLIs",
           "url": "https://twitter.com/trevin/status/2051316002730991795",
           "hn_url": "https://news.ycombinator.com/item?id=48052333",
-          "score": 12,
+          "score": 17,
           "comments": 1,
           "author": "blumpy22"
+        },
+        {
+          "rank": 9,
+          "title": "Chrome removes claim of On-device Al not sending data to Google Servers",
+          "url": "https://old.reddit.com/r/chrome/comments/1t5qayz/chrome_removes_claim_of_ondevice_al_not_sending/",
+          "hn_url": "https://news.ycombinator.com/item?id=48050964",
+          "score": 243,
+          "comments": 86,
+          "author": "newsoftheday"
+        },
+        {
+          "rank": 10,
+          "title": "PySimpleGUI 6",
+          "url": "https://github.com/PySimpleGUI/PySimpleGUI",
+          "hn_url": "https://news.ycombinator.com/item?id=48026412",
+          "score": 58,
+          "comments": 18,
+          "author": "geophph"
+        },
+        {
+          "rank": 11,
+          "title": "I want to live like Costco people",
+          "url": "https://tastecooking.com/i-want-to-live-like-costco-people/",
+          "hn_url": "https://news.ycombinator.com/item?id=48050499",
+          "score": 82,
+          "comments": 197,
+          "author": "speckx"
         },
         {
           "rank": 12,
           "title": "OpenBSD Stories: The closest thing to cute kittens (OpenBSD/zaurus)",
           "url": "http://miod.online.fr/software/openbsd/stories/zaurus1.html",
           "hn_url": "https://news.ycombinator.com/item?id=48040465",
-          "score": 39,
+          "score": 41,
           "comments": 5,
           "author": "zdw"
         },
@@ -277,8 +277,8 @@
           "title": "The Self-Cancelling Subscription",
           "url": "https://predr.ag/blog/the-self-cancelling-subscription/",
           "hn_url": "https://news.ycombinator.com/item?id=48049764",
-          "score": 106,
-          "comments": 44,
+          "score": 109,
+          "comments": 46,
           "author": "surprisetalk"
         },
         {
@@ -286,8 +286,8 @@
           "title": "RaTeX: KaTeX-compatible LaTeX rendering engine in pure Rust",
           "url": "https://ratex.lites.dev/",
           "hn_url": "https://news.ycombinator.com/item?id=48010729",
-          "score": 126,
-          "comments": 77,
+          "score": 127,
+          "comments": 79,
           "author": "atilimcetin"
         },
         {
@@ -304,63 +304,63 @@
           "title": "SQLite Is a Library of Congress Recommended Storage Format",
           "url": "https://sqlite.org/locrsf.html",
           "hn_url": "https://news.ycombinator.com/item?id=48042434",
-          "score": 560,
-          "comments": 170,
+          "score": 563,
+          "comments": 172,
           "author": "whatisabcdefgh"
         },
         {
           "rank": 17,
-          "title": "Motherboard sales 'collapse' amid unprecedented shortages fueled by AI",
-          "url": "https://www.tomshardware.com/pc-components/motherboards/motherboard-sales-collapse-by-more-than-25-percent-as-chipmakers-strangle-enthusiast-pc-market-to-build-more-ai-chips-asus-projected-to-sell-5-million-fewer-boards-in-2025-gigabyte-msi-and-asrock-also-expected-to-see-reduced-sales-numbers",
-          "hn_url": "https://news.ycombinator.com/item?id=48050540",
-          "score": 154,
-          "comments": 154,
-          "author": "speckx"
-        },
-        {
-          "rank": 18,
           "title": "MPEG-2 Transport Stream Packaging for Media over QUIC Transport",
           "url": "https://www.ietf.org/archive/id/draft-gregoire-moq-msfts-00.html",
           "hn_url": "https://news.ycombinator.com/item?id=48049963",
-          "score": 40,
+          "score": 41,
           "comments": 9,
           "author": "mondainx"
         },
         {
+          "rank": 18,
+          "title": "Motherboard sales 'collapse' amid unprecedented shortages fueled by AI",
+          "url": "https://www.tomshardware.com/pc-components/motherboards/motherboard-sales-collapse-by-more-than-25-percent-as-chipmakers-strangle-enthusiast-pc-market-to-build-more-ai-chips-asus-projected-to-sell-5-million-fewer-boards-in-2025-gigabyte-msi-and-asrock-also-expected-to-see-reduced-sales-numbers",
+          "hn_url": "https://news.ycombinator.com/item?id=48050540",
+          "score": 158,
+          "comments": 166,
+          "author": "speckx"
+        },
+        {
           "rank": 19,
-          "title": "Show HN: Stage CLI – an easier way of reading your AI generated changes locally",
-          "url": "https://github.com/ReviewStage/stage-cli",
-          "hn_url": "https://news.ycombinator.com/item?id=48050732",
-          "score": 13,
-          "comments": 9,
-          "author": "cpan22"
-        },
-        {
-          "rank": 20,
-          "title": "Brazil's Pix Payment System Faces Pressure from Visa and Mastercard",
-          "url": "https://www.elciudadano.com/en/brazils-pix-payment-system-faces-pressure-from-visa-and-mastercard/04/04/",
-          "hn_url": "https://news.ycombinator.com/item?id=48052371",
-          "score": 39,
-          "comments": 23,
-          "author": "wslh"
-        },
-        {
-          "rank": 21,
           "title": "How Cloudflare responded to the “Copy Fail” Linux vulnerability",
           "url": "https://blog.cloudflare.com/copy-fail-linux-vulnerability-mitigation/",
           "hn_url": "https://news.ycombinator.com/item?id=48049160",
-          "score": 61,
+          "score": 64,
           "comments": 54,
           "author": "mobeigi"
         },
         {
-          "rank": 22,
+          "rank": 20,
+          "title": "Show HN: Stage CLI – an easier way of reading your AI generated changes locally",
+          "url": "https://github.com/ReviewStage/stage-cli",
+          "hn_url": "https://news.ycombinator.com/item?id=48050732",
+          "score": 14,
+          "comments": 10,
+          "author": "cpan22"
+        },
+        {
+          "rank": 21,
           "title": "OurCar: What I learned making an app for my family",
           "url": "https://mendelgreenberg.com/posts/ourcar/",
           "hn_url": "https://news.ycombinator.com/item?id=48036190",
           "score": 77,
           "comments": 54,
           "author": "chabad360"
+        },
+        {
+          "rank": 22,
+          "title": "Brazil's Pix Payment System Faces Pressure from Visa and Mastercard",
+          "url": "https://www.elciudadano.com/en/brazils-pix-payment-system-faces-pressure-from-visa-and-mastercard/04/04/",
+          "hn_url": "https://news.ycombinator.com/item?id=48052371",
+          "score": 44,
+          "comments": 25,
+          "author": "wslh"
         },
         {
           "rank": 23,
@@ -373,69 +373,69 @@
         },
         {
           "rank": 24,
-          "title": "Speedup in Lattice Boltzmann Cylinder Flow",
-          "url": "https://github.com/alikamp/Parks-KPBM-Scaling",
-          "hn_url": "https://news.ycombinator.com/item?id=48012342",
-          "score": 41,
-          "comments": 3,
-          "author": "kauai1"
+          "title": "ZAYA1-8B matches DeepSeek-R1 on math with less than 1B active parameters",
+          "url": "https://firethering.com/zaya1-8b-open-source-math-coding-model/",
+          "hn_url": "https://news.ycombinator.com/item?id=48047082",
+          "score": 66,
+          "comments": 49,
+          "author": "steveharing1"
         }
       ]
     },
     "reddit": {
       "source": "reddit",
       "label": "Reddit — r/all, past hour",
-      "fetched_at": "2026-05-07T19:15:10.025Z",
+      "fetched_at": "2026-05-07T19:26:20.309Z",
       "items": [
         {
           "rank": 1,
-          "title": "The Art of the Short",
-          "url": "https://reddit.com/r/wallstreetbets/comments/1t6iuxc/the_art_of_the_short/",
-          "external_url": "https://i.redd.it/kpc4yetacrzg1.jpeg",
-          "subreddit": "r/wallstreetbets",
-          "score": 2116,
-          "comments": 96,
-          "author": "FancyAd9588"
-        },
-        {
-          "rank": 2,
-          "title": "Just be patient",
-          "url": "https://reddit.com/r/facepalm/comments/1t6itqx/just_be_patient/",
-          "external_url": "https://v.redd.it/oxqcobk3crzg1",
-          "subreddit": "r/facepalm",
-          "score": 1828,
-          "comments": 133,
-          "author": "TheTitanCoeus"
-        },
-        {
-          "rank": 3,
-          "title": "Melléthei-Barna Márton: Bejelentés - lemondok a miniszteri jelöltségről",
-          "url": "https://reddit.com/r/hungary/comments/1t6ipmm/mellétheibarna_márton_bejelentés_lemondok_a/",
-          "external_url": null,
-          "subreddit": "r/hungary",
-          "score": 1143,
-          "comments": 360,
-          "author": "vivuss77"
-        },
-        {
-          "rank": 4,
-          "title": "John Roberts likes being political. He just doesn't like the accountability that comes with it.",
-          "url": "https://reddit.com/r/law/comments/1t6iuxw/john_roberts_likes_being_political_he_just_doesnt/",
-          "external_url": "https://www.lawdork.com/p/john-roberts-likes-being-political",
-          "subreddit": "r/law",
-          "score": 952,
-          "comments": 33,
-          "author": "DoremusJessup"
-        },
-        {
-          "rank": 5,
           "title": "Blue hair don’t care.",
           "url": "https://reddit.com/r/CuratedTumblr/comments/1t6j4ju/blue_hair_dont_care/",
           "external_url": "https://i.redd.it/xs7ldaa9drzg1.jpeg",
           "subreddit": "r/CuratedTumblr",
-          "score": 761,
-          "comments": 52,
+          "score": 965,
+          "comments": 66,
           "author": "Infamous-Rutabaga-50"
+        },
+        {
+          "rank": 2,
+          "title": "Jaylen Brown responds to Stephen A Smith: \"I'll \"be quiet\" / stop streaming if you \"be quiet\" and retire let's give the people what they want\"",
+          "url": "https://reddit.com/r/nba/comments/1t6jvy7/jaylen_brown_responds_to_stephen_a_smith_ill_be/",
+          "external_url": null,
+          "subreddit": "r/nba",
+          "score": 815,
+          "comments": 142,
+          "author": "AncientOneAurelius"
+        },
+        {
+          "rank": 3,
+          "title": "shouldn't this apply to any age",
+          "url": "https://reddit.com/r/SipsTea/comments/1t6k0i2/shouldnt_this_apply_to_any_age/",
+          "external_url": "https://i.redd.it/i384cphhjrzg1.jpeg",
+          "subreddit": "r/SipsTea",
+          "score": 813,
+          "comments": 381,
+          "author": "Executits"
+        },
+        {
+          "rank": 4,
+          "title": "Someone just spent $50 million to make a 50/50 joke. 5,000 $50 calls, 5,000 $50 puts, 500,000 shares (x2)",
+          "url": "https://reddit.com/r/Superstonk/comments/1t6jlp0/someone_just_spent_50_million_to_make_a_5050_joke/",
+          "external_url": "https://www.reddit.com/gallery/1t6jlp0",
+          "subreddit": "r/Superstonk",
+          "score": 599,
+          "comments": 65,
+          "author": "TheUltimator5"
+        },
+        {
+          "rank": 5,
+          "title": "Petty or justified?",
+          "url": "https://reddit.com/r/Wellthatsucks/comments/1t6jhc4/petty_or_justified/",
+          "external_url": "https://i.redd.it/5ogiwr07grzg1.jpeg",
+          "subreddit": "r/Wellthatsucks",
+          "score": 585,
+          "comments": 98,
+          "author": "The_Dean_France"
         },
         {
           "rank": 6,
@@ -443,89 +443,89 @@
           "url": "https://reddit.com/r/KitchenConfidential/comments/1t6jduu/someone_hates_prepping_the_baconwrapped_dates/",
           "external_url": "https://i.redd.it/7z78qcxlfrzg1.jpeg",
           "subreddit": "r/KitchenConfidential",
-          "score": 403,
-          "comments": 30,
+          "score": 528,
+          "comments": 39,
           "author": "DoorstepCult"
         },
         {
           "rank": 7,
-          "title": "Someone just spent $50 million to make a 50/50 joke. 5,000 $50 calls, 5,000 $50 puts, 500,000 shares (x2)",
-          "url": "https://reddit.com/r/Superstonk/comments/1t6jlp0/someone_just_spent_50_million_to_make_a_5050_joke/",
-          "external_url": "https://www.reddit.com/gallery/1t6jlp0",
-          "subreddit": "r/Superstonk",
-          "score": 383,
-          "comments": 39,
-          "author": "TheUltimator5"
+          "title": "American Icons [OC]",
+          "url": "https://reddit.com/r/comics/comments/1t6jqo3/american_icons_oc/",
+          "external_url": "https://www.reddit.com/gallery/1t6jqo3",
+          "subreddit": "r/comics",
+          "score": 549,
+          "comments": 57,
+          "author": "kaikimanga"
         },
         {
           "rank": 8,
-          "title": "Market after you buy",
-          "url": "https://reddit.com/r/wallstreetbets/comments/1t6jcws/market_after_you_buy/",
-          "external_url": "https://i.redd.it/is0iktqffrzg1.gif",
-          "subreddit": "r/wallstreetbets",
-          "score": 330,
-          "comments": 18,
-          "author": "Mr-Night-Owl"
+          "title": "My Mom and her best friend Seoul South Korea 1970s",
+          "url": "https://reddit.com/r/OldSchoolCool/comments/1t6jfnd/my_mom_and_her_best_friend_seoul_south_korea_1970s/",
+          "external_url": "https://www.reddit.com/gallery/1t6jfnd",
+          "subreddit": "r/OldSchoolCool",
+          "score": 492,
+          "comments": 42,
+          "author": "Av8erphoto"
         },
         {
           "rank": 9,
-          "title": "Justin Jones burning a confederate flag in protest of more racially gerrymandered maps. This administration is afraid of what’s coming during midterms and is now working overtime to disenfranchise as many voters as possible!",
-          "url": "https://reddit.com/r/50501/comments/1t6iqg3/justin_jones_burning_a_confederate_flag_in/",
-          "external_url": "https://v.redd.it/bdk7f4ofbrzg1",
-          "subreddit": "r/50501",
-          "score": 304,
-          "comments": 2,
-          "author": "transcendent167"
-        },
-        {
-          "rank": 10,
-          "title": "NACHO",
-          "url": "https://reddit.com/r/oil/comments/1t6isc4/nacho/",
-          "external_url": "https://i.redd.it/tmk230rubrzg1.jpeg",
-          "subreddit": "r/oil",
-          "score": 293,
-          "comments": 102,
-          "author": "Ninefingerzs"
-        },
-        {
-          "rank": 11,
           "title": "never thought it would happen to me",
           "url": "https://reddit.com/r/CatDistributionSystem/comments/1t6jk3j/never_thought_it_would_happen_to_me/",
           "external_url": "https://www.reddit.com/gallery/1t6jk3j",
           "subreddit": "r/CatDistributionSystem",
-          "score": 320,
-          "comments": 16,
+          "score": 483,
+          "comments": 18,
           "author": "Fun-Environment-7982"
         },
         {
-          "rank": 12,
-          "title": "Neko Leva",
-          "url": "https://reddit.com/r/GirlsFrontline2/comments/1t6ipes/neko_leva/",
-          "external_url": "https://i.redd.it/xrazq0rcbrzg1.jpeg",
-          "subreddit": "r/GirlsFrontline2",
-          "score": 256,
-          "comments": 9,
-          "author": "Lima8Tango"
-        },
-        {
-          "rank": 13,
+          "rank": 10,
           "title": "Petty or justified?",
-          "url": "https://reddit.com/r/Wellthatsucks/comments/1t6jhc4/petty_or_justified/",
-          "external_url": "https://i.redd.it/5ogiwr07grzg1.jpeg",
-          "subreddit": "r/Wellthatsucks",
-          "score": 343,
-          "comments": 74,
+          "url": "https://reddit.com/r/whoathatsinteresting/comments/1t6jcf9/petty_or_justified/",
+          "external_url": "https://i.redd.it/j2h48m2dfrzg1.jpeg",
+          "subreddit": "r/whoathatsinteresting",
+          "score": 458,
+          "comments": 167,
           "author": "The_Dean_France"
         },
         {
+          "rank": 11,
+          "title": "Imagine losing to a washed LSG",
+          "url": "https://reddit.com/r/CricketShitpost/comments/1t6jv5g/imagine_losing_to_a_washed_lsg/",
+          "external_url": "https://i.redd.it/ye8mtywlirzg1.jpeg",
+          "subreddit": "r/CricketShitpost",
+          "score": 432,
+          "comments": 48,
+          "author": "Same_Investigator_46"
+        },
+        {
+          "rank": 12,
+          "title": "Cute animation!",
+          "url": "https://reddit.com/r/MadeMeSmile/comments/1t6jqfd/cute_animation/",
+          "external_url": "https://v.redd.it/egv74lqshrzg1",
+          "subreddit": "r/MadeMeSmile",
+          "score": 390,
+          "comments": 21,
+          "author": "chocolatecake1563"
+        },
+        {
+          "rank": 13,
+          "title": "Lula foi o único presidente capaz de fazer o Trump sorrir em fotos",
+          "url": "https://reddit.com/r/brasil/comments/1t6jpp0/lula_foi_o_único_presidente_capaz_de_fazer_o/",
+          "external_url": "https://i.redd.it/8ls2fqfohrzg1.jpeg",
+          "subreddit": "r/brasil",
+          "score": 339,
+          "comments": 90,
+          "author": "pretinho-da-zo"
+        },
+        {
           "rank": 14,
-          "title": "Jaylen Brown responds to Stephen A Smith: \"I'll \"be quiet\" / stop streaming if you \"be quiet\" and retire let's give the people what they want\"",
-          "url": "https://reddit.com/r/nba/comments/1t6jvy7/jaylen_brown_responds_to_stephen_a_smith_ill_be/",
-          "external_url": null,
-          "subreddit": "r/nba",
-          "score": 384,
-          "comments": 92,
-          "author": "AncientOneAurelius"
+          "title": "Painting bananas to look like glass",
+          "url": "https://reddit.com/r/oddlysatisfying/comments/1t6jgzv/painting_bananas_to_look_like_glass/",
+          "external_url": "https://v.redd.it/kxmm2dm4grzg1",
+          "subreddit": "r/oddlysatisfying",
+          "score": 340,
+          "comments": 19,
+          "author": "sewn_of_a_gun"
         },
         {
           "rank": 15,
@@ -533,19 +533,19 @@
           "url": "https://reddit.com/r/hungary/comments/1t6j2mj/mp_is_reagált_holnap_új_jelöltet_jelent_be/",
           "external_url": "https://i.redd.it/qdswp6indrzg1.jpeg",
           "subreddit": "r/hungary",
-          "score": 256,
-          "comments": 123,
+          "score": 305,
+          "comments": 141,
           "author": "Delicious-Panic-9132"
         },
         {
           "rank": 16,
-          "title": "of a Bearded Vulture",
-          "url": "https://reddit.com/r/AbsoluteUnits/comments/1t6is6n/of_a_bearded_vulture/",
-          "external_url": "https://v.redd.it/ulzlzp6lbrzg1",
-          "subreddit": "r/AbsoluteUnits",
-          "score": 264,
-          "comments": 28,
-          "author": "Objective_Bowl2923"
+          "title": "The Three Kings",
+          "url": "https://reddit.com/r/LiverpoolFC/comments/1t6jp6m/the_three_kings/",
+          "external_url": "https://i.redd.it/9epvzwzkhrzg1.jpeg",
+          "subreddit": "r/LiverpoolFC",
+          "score": 305,
+          "comments": 25,
+          "author": "R3dInterpol"
         },
         {
           "rank": 17,
@@ -553,96 +553,96 @@
           "url": "https://reddit.com/r/NYYankees/comments/1t6j7t8/trent_grisham_clears_the_bases_and_gives_the/",
           "external_url": "https://v.redd.it/h023yacjerzg1",
           "subreddit": "r/NYYankees",
-          "score": 250,
-          "comments": 35,
+          "score": 286,
+          "comments": 37,
           "author": "CicadaOk8885"
         },
         {
           "rank": 18,
-          "title": "Petty or justified?",
-          "url": "https://reddit.com/r/whoathatsinteresting/comments/1t6jcf9/petty_or_justified/",
-          "external_url": "https://i.redd.it/j2h48m2dfrzg1.jpeg",
-          "subreddit": "r/whoathatsinteresting",
-          "score": 286,
-          "comments": 127,
-          "author": "The_Dean_France"
+          "title": "Imagine being added to your own rejection email...😑",
+          "url": "https://reddit.com/r/recruitinghell/comments/1t6jd62/imagine_being_added_to_your_own_rejection_email/",
+          "external_url": "https://i.redd.it/li1svinhfrzg1.jpeg",
+          "subreddit": "r/recruitinghell",
+          "score": 293,
+          "comments": 68,
+          "author": "Silly-Noodlesk"
         },
         {
           "rank": 19,
-          "title": "Botany and espionage departments finaly present their new device",
-          "url": "https://reddit.com/r/doohickeycorporation/comments/1t6ivhc/botany_and_espionage_departments_finaly_present/",
-          "external_url": "https://v.redd.it/fi1qdtvdcrzg1",
-          "subreddit": "r/doohickeycorporation",
-          "score": 243,
-          "comments": 19,
-          "author": "FunApple"
-        },
-        {
-          "rank": 20,
-          "title": "Recreated limeware platter",
-          "url": "https://reddit.com/r/Morrowind/comments/1t6itld/recreated_limeware_platter/",
-          "external_url": "https://i.redd.it/qg8x6wn2crzg1.jpeg",
-          "subreddit": "r/Morrowind",
-          "score": 227,
-          "comments": 12,
-          "author": "Familiar-Preference7"
-        },
-        {
-          "rank": 21,
-          "title": "Imagine losing to a washed LSG",
-          "url": "https://reddit.com/r/CricketShitpost/comments/1t6jv5g/imagine_losing_to_a_washed_lsg/",
-          "external_url": "https://i.redd.it/ye8mtywlirzg1.jpeg",
-          "subreddit": "r/CricketShitpost",
-          "score": 302,
-          "comments": 27,
-          "author": "Same_Investigator_46"
-        },
-        {
-          "rank": 22,
           "title": "A note on our work to combat viewbotting, from CEO Dan Clancy:",
           "url": "https://reddit.com/r/LivestreamFail/comments/1t6j765/a_note_on_our_work_to_combat_viewbotting_from_ceo/",
           "external_url": "https://twitter.com/TwitchSupport/status/2052455504761561481?s=20",
           "subreddit": "r/LivestreamFail",
-          "score": 224,
-          "comments": 78,
+          "score": 279,
+          "comments": 91,
           "author": "lukigeri"
         },
         {
+          "rank": 20,
+          "title": "Southern Republicans Are Already Deleting Black Districts",
+          "url": "https://reddit.com/r/politics/comments/1t6jcut/southern_republicans_are_already_deleting_black/",
+          "external_url": "https://newrepublic.com/article/210055/southern-republicans-black-voting-rights",
+          "subreddit": "r/politics",
+          "score": 273,
+          "comments": 83,
+          "author": "Sufficient_Candy1642"
+        },
+        {
+          "rank": 21,
+          "title": "Twitch Announces Viewcount Cap on Streamers that are Persistently Viewbotting",
+          "url": "https://reddit.com/r/LivestreamFail/comments/1t6jy6j/twitch_announces_viewcount_cap_on_streamers_that/",
+          "external_url": "https://i.postimg.cc/7h6m7wMJ/clancyview.png",
+          "subreddit": "r/LivestreamFail",
+          "score": 268,
+          "comments": 75,
+          "author": "Tarrot_Card"
+        },
+        {
+          "rank": 22,
+          "title": "Izutsumi slept over at Falin's house (By @skipdidoo)",
+          "url": "https://reddit.com/r/DungeonMeshi/comments/1t6j4e7/izutsumi_slept_over_at_falins_house_by_skipdidoo/",
+          "external_url": "https://www.reddit.com/gallery/1t6j4e7",
+          "subreddit": "r/DungeonMeshi",
+          "score": 256,
+          "comments": 4,
+          "author": "Riot-Knight"
+        },
+        {
           "rank": 23,
+          "title": "keeping the internet safe",
+          "url": "https://reddit.com/r/CuratedTumblr/comments/1t6jc1n/keeping_the_internet_safe/",
+          "external_url": "https://i.redd.it/xrmr9vpafrzg1.jpeg",
+          "subreddit": "r/CuratedTumblr",
+          "score": 250,
+          "comments": 8,
+          "author": "Faenix_Wright"
+        },
+        {
+          "rank": 24,
           "title": "LPT: When someone shows you something they're proud of, a drawing, a meal they cooked, a project they built, your first response should always be about their effort, not the result.",
           "url": "https://reddit.com/r/LifeProTips/comments/1t6j6az/lpt_when_someone_shows_you_something_theyre_proud/",
           "external_url": null,
           "subreddit": "r/LifeProTips",
-          "score": 211,
-          "comments": 42,
+          "score": 243,
+          "comments": 45,
           "author": "meissloth"
         },
         {
-          "rank": 24,
-          "title": "The Three Kings",
-          "url": "https://reddit.com/r/LiverpoolFC/comments/1t6jp6m/the_three_kings/",
-          "external_url": "https://i.redd.it/9epvzwzkhrzg1.jpeg",
-          "subreddit": "r/LiverpoolFC",
-          "score": 236,
-          "comments": 20,
-          "author": "R3dInterpol"
-        },
-        {
           "rank": 25,
-          "title": "The Tiburon",
-          "url": "https://reddit.com/r/starcitizen/comments/1t6ix0w/the_tiburon/",
-          "external_url": "https://i.redd.it/3mqn8h5mcrzg1.png",
-          "subreddit": "r/starcitizen",
-          "score": 228,
-          "comments": 103,
-          "author": "ScrubSoba"
+          "title": "Man United after Real Madrid’s recent dressing room issues👀",
+          "url": "https://reddit.com/r/reddevils/comments/1t6jpqx/man_united_after_real_madrids_recent_dressing/",
+          "external_url": "https://i.redd.it/k4unevynhrzg1.jpeg",
+          "subreddit": "r/reddevils",
+          "score": 251,
+          "comments": 18,
+          "author": "Yasser__21"
         }
       ]
     },
     "github": {
       "source": "github",
       "label": "GitHub — trending today",
-      "fetched_at": "2026-05-07T19:15:10.517Z",
+      "fetched_at": "2026-05-07T19:26:20.738Z",
       "items": [
         {
           "rank": 1,
@@ -651,8 +651,8 @@
           "description": "",
           "language": "Python",
           "stars_today": 1367,
-          "stars": 11096,
-          "forks": 1447
+          "stars": 11124,
+          "forks": 1449
         },
         {
           "rank": 2,
@@ -661,8 +661,8 @@
           "description": "Coding agent for DeepSeek models that runs in your terminal",
           "language": "Rust",
           "stars_today": 5787,
-          "stars": 18384,
-          "forks": 1389
+          "stars": 18393,
+          "forks": 1391
         },
         {
           "rank": 3,
@@ -671,7 +671,7 @@
           "description": "DFlash: Block Diffusion for Flash Speculative Decoding",
           "language": "Python",
           "stars_today": 654,
-          "stars": 3415,
+          "stars": 3417,
           "forks": 241
         },
         {
@@ -681,7 +681,7 @@
           "description": "InsForge is a Postgres-based backend with auth, storage, compute, hosting, and AI gateway. Built for coding agents.",
           "language": "TypeScript",
           "stars_today": 459,
-          "stars": 8779,
+          "stars": 8781,
           "forks": 727
         },
         {
@@ -691,7 +691,7 @@
           "description": "~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encrypted.",
           "language": "Python",
           "stars_today": 564,
-          "stars": 6150,
+          "stars": 6153,
           "forks": 544
         },
         {
@@ -701,8 +701,8 @@
           "description": "Production-grade engineering skills for AI coding agents.",
           "language": "Shell",
           "stars_today": 3058,
-          "stars": 32687,
-          "forks": 3786
+          "stars": 32695,
+          "forks": 3785
         },
         {
           "rank": 7,
@@ -711,7 +711,7 @@
           "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
           "language": "Python",
           "stars_today": 953,
-          "stars": 29428,
+          "stars": 29432,
           "forks": 2484
         },
         {
@@ -731,7 +731,7 @@
           "description": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
           "language": "Ruby",
           "stars_today": 899,
-          "stars": 15479,
+          "stars": 15483,
           "forks": 1401
         },
         {
@@ -741,8 +741,8 @@
           "description": "🆓 Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
           "language": "JavaScript",
           "stars_today": 249,
-          "stars": 4395,
-          "forks": 966
+          "stars": 4400,
+          "forks": 967
         },
         {
           "rank": 11,
@@ -761,7 +761,7 @@
           "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
           "language": "Rust",
           "stars_today": 431,
-          "stars": 44413,
+          "stars": 44416,
           "forks": 4550
         },
         {
@@ -771,7 +771,7 @@
           "description": "OpenReel Video - Professional browser-based video editor. Open source CapCut alternative. 100% browser-based, no installation, no cloud uploads, no watermarks.",
           "language": "TypeScript",
           "stars_today": 208,
-          "stars": 1509,
+          "stars": 1521,
           "forks": 238
         }
       ]
@@ -779,7 +779,7 @@
     "google-trends": {
       "source": "google-trends",
       "label": "Google Trends — trending searches",
-      "fetched_at": "2026-05-07T19:15:10.188Z",
+      "fetched_at": "2026-05-07T19:26:20.349Z",
       "countries": [
         "US",
         "GB",
@@ -791,16 +791,14 @@
       "items": [
         {
           "rank": 1,
-          "title": "ignacio buse",
+          "title": "ipl points table",
           "geos": [
-            "BR",
-            "GB",
-            "US"
+            "IN"
           ],
-          "traffic_estimate": 1400,
-          "news_title": "Licensable picture: Italian Open",
-          "news_url": "https://www.reutersconnect.com/item/italian-open/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNNTcxRjJNWTg",
-          "news_source": "Reuters Connect"
+          "traffic_estimate": 20000,
+          "news_title": "Power of the bluff - Cummins pulls a fast one on Arya",
+          "news_url": "https://www.espncricinfo.com/story/ipl-2026-srh-vs-pbks-crafty-cummins-shows-arya-the-power-of-the-bluff-1535609",
+          "news_source": "ESPNcricinfo"
         },
         {
           "rank": 2,
@@ -819,24 +817,13 @@
           "geos": [
             "IN"
           ],
-          "traffic_estimate": 10000,
-          "news_title": "Ball by Ball Commentary & Live Score - SRH vs PBKS, 49th Match",
-          "news_url": "https://www.espncricinfo.com/series/ipl-2026-1510719/sunrisers-hyderabad-vs-punjab-kings-49th-match-1529292/ball-by-ball-commentary",
-          "news_source": "ESPNcricinfo"
+          "traffic_estimate": 5000,
+          "news_title": "IPL 2026 playoffs: Qualified teams, format and qualification scenarios",
+          "news_url": "https://www.olympics.com/en/news/ipl-2026-playoffs-qualified-teams-qualification-scenarios",
+          "news_source": "Olympics"
         },
         {
           "rank": 4,
-          "title": "trent grisham",
-          "geos": [
-            "US"
-          ],
-          "traffic_estimate": 5000,
-          "news_title": "Where to watch Texas Rangers vs. New York Yankees: Live stream, start time, TV channel, odds for Thursday, May 7",
-          "news_url": "https://sports.yahoo.com/mlb/article/where-to-watch-texas-rangers-vs-new-york-yankees-live-stream-start-time-tv-channel-odds-for-thursday-may-7-145712830.html",
-          "news_source": "Yahoo Sports"
-        },
-        {
-          "rank": 5,
           "title": "セブン",
           "geos": [
             "JP"
@@ -847,18 +834,40 @@
           "news_source": "GAME Watch"
         },
         {
-          "rank": 6,
-          "title": "vaazha 2",
+          "rank": 5,
+          "title": "michael conforto",
           "geos": [
-            "IN"
+            "US"
           ],
           "traffic_estimate": 2000,
-          "news_title": "'Vaazha 2' box office collection: Hashir’s film becomes blockbuster with Rs 234.46 crore worldwide; Nears",
-          "news_url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/vaazha-2-box-office-collection-hashirs-film-becomes-blockbuster-eith-rs-234-46-crore-worldwide-nears-ott-premiere/articleshow/130874772.cms",
-          "news_source": "The Times of India"
+          "news_title": "PCA defies the odds to help Cubs steal 3rd straight walk-off victory",
+          "news_url": "https://www.mlb.com/news/cubs-third-straight-walk-off-extends-home-winning-streak-to-14-games",
+          "news_source": "MLB.com"
+        },
+        {
+          "rank": 6,
+          "title": "palace vs shakhtar donetsk",
+          "geos": [
+            "GB"
+          ],
+          "traffic_estimate": 2000,
+          "news_title": "Crystal Palace vs Shakhtar Donetsk LIVE: UEFA Conference League stats & head-to-head",
+          "news_url": "https://www.bbc.co.uk/sport/football/live/c1d235pp06vt",
+          "news_source": "BBC"
         },
         {
           "rank": 7,
+          "title": "morgan gibbs white injury",
+          "geos": [
+            "GB"
+          ],
+          "traffic_estimate": 2000,
+          "news_title": "TEAM NEWS FOR SEMI-FINAL SECOND LEG AGAINST ASTON VILLA",
+          "news_url": "https://www.nottinghamforest.co.uk/news/2026/may/06/team-news-for-semi-final-second-leg-against-aston-villa/",
+          "news_source": "Nottingham Forest FC"
+        },
+        {
+          "rank": 8,
           "title": "nomeação",
           "geos": [
             "BR"
@@ -869,7 +878,7 @@
           "news_source": "Extra online"
         },
         {
-          "rank": 8,
+          "rank": 9,
           "title": "rtl+",
           "geos": [
             "DE"
@@ -880,62 +889,29 @@
           "news_source": "Kicker"
         },
         {
-          "rank": 9,
-          "title": "crystal palace",
-          "geos": [
-            "US"
-          ],
-          "traffic_estimate": 1000,
-          "news_title": "Aston Villa vs Nottingham Forest LIVE: Europa League semi-final score, commentary & updates",
-          "news_url": "https://www.bbc.com/sport/football/live/c0m2v0zzkgyt",
-          "news_source": "BBC"
-        },
-        {
           "rank": 10,
-          "title": "meenu batra ice detention",
+          "title": "xavier becerra",
           "geos": [
             "US"
           ],
           "traffic_estimate": 1000,
-          "news_title": "Texas mother of 4 says \"no one is safe\" after spending more than 6 weeks in ICE custody",
-          "news_url": "https://www.cbsnews.com/news/texas-mother-speaks-weeks-ice-custody/",
-          "news_source": "CBS News"
+          "news_title": "Becerra’s rise baffles his former Biden colleagues",
+          "news_url": "https://www.politico.com/news/2026/05/07/xavier-becerra-california-governor-race-biden-officials-00909552",
+          "news_source": "Politico"
         },
         {
           "rank": 11,
-          "title": "capital one class action lawsuit",
+          "title": "aston villa vs nottm forest",
           "geos": [
-            "US"
+            "IN"
           ],
           "traffic_estimate": 1000,
-          "news_title": "Capital One class action claims credit card rewards were unlawfully canceled",
-          "news_url": "https://topclassactions.com/lawsuit-settlements/lawsuit-news/capital-one-class-action-claims-credit-card-rewards-were-unlawfully-canceled/",
-          "news_source": "Class Action Lawsuits"
+          "news_title": "Aston Villa v Nottingham Forest: Europa League semi-final, second leg – live",
+          "news_url": "https://www.theguardian.com/football/live/2026/may/07/aston-villa-v-nottingham-forest-europa-league-semi-final-second-leg-live",
+          "news_source": "The Guardian"
         },
         {
           "rank": 12,
-          "title": "palace vs shakhtar donetsk",
-          "geos": [
-            "GB"
-          ],
-          "traffic_estimate": 1000,
-          "news_title": "Crystal Palace vs Shakhtar Donetsk LIVE: UEFA Conference League stats & head-to-head",
-          "news_url": "https://www.bbc.co.uk/sport/football/live/c1d235pp06vt",
-          "news_source": "BBC"
-        },
-        {
-          "rank": 13,
-          "title": "morgan gibbs white injury",
-          "geos": [
-            "GB"
-          ],
-          "traffic_estimate": 1000,
-          "news_title": "TEAM NEWS FOR SEMI-FINAL SECOND LEG AGAINST ASTON VILLA",
-          "news_url": "https://www.nottinghamforest.co.uk/news/2026/may/06/team-news-for-semi-final-second-leg-against-aston-villa/",
-          "news_source": "Nottingham Forest FC"
-        },
-        {
-          "rank": 14,
           "title": "parimatch",
           "geos": [
             "IN"
@@ -946,29 +922,18 @@
           "news_source": "Goal.com"
         },
         {
-          "rank": 15,
-          "title": "地震情報",
+          "rank": 13,
+          "title": "freiburg",
           "geos": [
-            "JP"
+            "BR"
           ],
           "traffic_estimate": 1000,
-          "news_title": "【地震情報】東京23区と千葉県で震度3 津波の心配なし",
-          "news_url": "https://news.web.nhk/newsweb/na/na-k10015115431000",
-          "news_source": "NHKニュース"
+          "news_title": "SC Freiburg: Braga wird zum Schicksalsspiel der Generation Ginter",
+          "news_url": "https://onefootball.com/pt-br/noticias/sc-freiburg-braga-wird-zum-schicksalsspiel-der-generation-ginter-42826315",
+          "news_source": "OneFootball"
         },
         {
-          "rank": 16,
-          "title": "日本ケンタッキー・フライド・チキン",
-          "geos": [
-            "JP"
-          ],
-          "traffic_estimate": 1000,
-          "news_title": "ケンタッキー、オリジナルチキンなど20円値上げ。カーネルクリスピー半額/KFC会員限定キャンペーンを実施",
-          "news_url": "https://gourmet.watch.impress.co.jp/docs/news/2106679.html",
-          "news_source": "グルメ Watch"
-        },
-        {
-          "rank": 17,
+          "rank": 14,
           "title": "primeiro comando da capital",
           "geos": [
             "BR"
@@ -979,99 +944,132 @@
           "news_source": "CBN"
         },
         {
-          "rank": 18,
+          "rank": 15,
           "title": "sc braga",
           "geos": [
             "DE"
           ],
           "traffic_estimate": 1000,
+          "news_title": "Grande surpresa na convocatória do SC Braga para Friburgo",
+          "news_url": "https://www.abola.pt/noticias/grande-surpresa-na-convocatoria-do-sc-braga-para-friburgo-2026050614182721691",
+          "news_source": "A Bola"
+        },
+        {
+          "rank": 16,
+          "title": "rtl livestream",
+          "geos": [
+            "DE"
+          ],
+          "traffic_estimate": 1000,
+          "news_title": "RTL Live-Stream kostenlos ohne Anmeldung: Alle Infos",
+          "news_url": "https://www.chip.de/ratgeber/wifi-dsl-internet/rtl-live-stream-kostenlos-ohne-anmeldung-alle-infos_5f2bb148-1646-4165-bf7d-0b25d059aef8.html",
+          "news_source": "CHIP"
+        },
+        {
+          "rank": 17,
+          "title": "hayley williams",
+          "geos": [
+            "US"
+          ],
+          "traffic_estimate": 500,
+          "news_title": "The Hayley Williams Show is Metro Detroit-bound: See date, ticket info",
+          "news_url": "https://www.detroitnews.com/story/entertainment/music/2026/05/07/hayley-williams-announces-metro-detroit-date-on-solo-tour/89979584007/",
+          "news_source": "The Detroit News"
+        },
+        {
+          "rank": 18,
+          "title": "bandar abbas",
+          "geos": [
+            "US"
+          ],
+          "traffic_estimate": 500,
+          "news_title": "Iran reports sounds of explosions in coastal city, island in Hormuz",
+          "news_url": "https://www.timesofisrael.com/liveblog_entry/iran-reports-sounds-of-explosions-in-coastal-city-island-in-hormuz/",
+          "news_source": "The Times of Israel"
+        },
+        {
+          "rank": 19,
+          "title": "uel",
+          "geos": [
+            "US"
+          ],
+          "traffic_estimate": 500,
+          "news_title": "Confirmed Lineups: SC Freiburg vs. SC Braga",
+          "news_url": "https://sports.yahoo.com/articles/confirmed-lineups-sc-freiburg-vs-175500163.html",
+          "news_source": "Yahoo Sports"
+        },
+        {
+          "rank": 20,
+          "title": "uefa conference league",
+          "geos": [
+            "US"
+          ],
+          "traffic_estimate": 500,
+          "news_title": "Crystal Palace vs Shakhtar Donetsk LIVE: UEFA Conference League stats & head-to-head",
+          "news_url": "https://www.bbc.com/sport/football/live/c1d235pp06vt",
+          "news_source": "BBC"
+        },
+        {
+          "rank": 21,
+          "title": "fire near me",
+          "geos": [
+            "US"
+          ],
+          "traffic_estimate": 500,
+          "news_title": "Salt cedar trees create challenges for crews battling Hazen Fire near Buckeye",
+          "news_url": "https://www.azfamily.com/2026/05/06/invasive-trees-hamper-fight-against-hazen-fire-near-buckeye/",
+          "news_source": "AZ Family"
+        },
+        {
+          "rank": 22,
+          "title": "braga fc",
+          "geos": [
+            "US"
+          ],
+          "traffic_estimate": 500,
           "news_title": "Friburgo-SC Braga: o sonho de Istambul ali tão perto",
           "news_url": "https://www.abola.pt/futebol/jogo/friburgo-sc-braga-8410166/liveblog",
           "news_source": "A Bola"
         },
         {
-          "rank": 19,
-          "title": "uefa",
-          "geos": [
-            "DE"
-          ],
-          "traffic_estimate": 1000,
-          "news_title": "Freiburg - Braga rövanşı hangi kanalda yayınlanacak, maç saat kaçta? Muhtemel 11'ler ve canlı yayın bilgileri",
-          "news_url": "https://www.yenisafak.com/foto-galeri/ozgun/freiburg-braga-rovansi-hangi-kanalda-yayinlanacak-mac-saat-kacta-muhtemel-11ler-ve-canli-yayin-bilgileri-4822020",
-          "news_source": "Yeni Şafak"
-        },
-        {
-          "rank": 20,
-          "title": "interim air force one",
-          "geos": [
-            "US"
-          ],
-          "traffic_estimate": 500,
-          "news_title": "Air Force says former Qatari 747 will be ready to fly Trump as Air Force One this summer",
-          "news_url": "https://6abc.com/post/air-force-says-former-qatari-747-will-ready-fly-trump-summer/19057439/",
-          "news_source": "6abc Philadelphia"
-        },
-        {
-          "rank": 21,
-          "title": "hormuz news",
-          "geos": [
-            "US"
-          ],
-          "traffic_estimate": 500,
-          "news_title": "Iran imposes new rules for Hormuz in effort to cement control of key waterway",
-          "news_url": "https://www.cnn.com/2026/05/07/middleeast/iran-hormuz-rules-warime-gains-intl",
-          "news_source": "CNN"
-        },
-        {
-          "rank": 22,
-          "title": "survivor billie eilish",
-          "geos": [
-            "US"
-          ],
-          "traffic_estimate": 500,
-          "news_title": "Billie Eilish Finally Addresses Her Role in Survivor Season 50 Boomerang Idol",
-          "news_url": "https://www.eonline.com/news/1431711/billie-eilish-addresses-role-in-survivor-50s-boomerang-immunity-idol",
-          "news_source": "E! News"
-        },
-        {
           "rank": 23,
-          "title": "aston villa vs nottm forest",
+          "title": "luke humphries",
           "geos": [
-            "IN"
+            "GB"
           ],
           "traffic_estimate": 500,
-          "news_title": "Aston Villa v Nottingham Forest: Europa League semi-final, second leg – live",
-          "news_url": "https://www.theguardian.com/football/live/2026/may/07/aston-villa-v-nottingham-forest-europa-league-semi-final-second-leg-live",
-          "news_source": "The Guardian"
+          "news_title": "Premier League Darts LIVE: Gerwyn Price vs Jonny Clayton in Leeds - scores, results & updates",
+          "news_url": "https://www.bbc.co.uk/sport/darts/live/c5y34xxr7vlt",
+          "news_source": "BBC"
         },
         {
           "rank": 24,
-          "title": "dacoit",
+          "title": "freiburg fc",
           "geos": [
-            "IN"
+            "GB"
           ],
           "traffic_estimate": 500,
-          "news_title": "Friday OTT releases (May 8, 2026): 7 new movies & shows on Netflix, Amazon Prime Video & more",
-          "news_url": "https://www.gqindia.com/content/friday-ott-releases-may-8-2026-7-new-movies-and-shows-on-netflix-amazon-prime-video-and-more",
-          "news_source": "GQ India"
+          "news_title": "Bayern München raus in der Champions League: Was das Aus für die Bundesliga bedeutet",
+          "news_url": "https://www.bild.de/sport/fussball/bayern-muenchen-raus-in-der-champions-league-was-das-aus-fuer-die-bundesliga-bedeutet-69fc1ffdcd4a28c47001f069",
+          "news_source": "BILD"
         },
         {
           "rank": 25,
-          "title": "भुवनेश्वर कुमार",
+          "title": "junaid khan",
           "geos": [
             "IN"
           ],
           "traffic_estimate": 500,
-          "news_title": "भुवनेश्वर कुमार ने IPL में रच दिया इतिहास, ऐसा करने वाले पहले...",
-          "news_url": "https://www.aajtak.in/sports/cricket/story/bhuvneshwar-kumar-creates-history-200-ipl-matches-fast-bowler-tspoa-dskc-2546395-2026-05-07",
-          "news_source": "AajTak"
+          "news_title": "After Being Trolled For Her Hindi, Sai Pallavi Says She Was 'Miscast' In Ek Din",
+          "news_url": "https://www.ndtv.com/entertainment/after-being-trolled-for-her-hindi-sai-pallavi-says-she-was-miscast-in-ek-din-11461423",
+          "news_source": "NDTV"
         }
       ]
     },
     "cloudflare-radar": {
       "source": "cloudflare-radar",
       "label": "Cloudflare Radar — top domains",
-      "fetched_at": "2026-05-07T19:15:10.339Z",
+      "fetched_at": "2026-05-07T19:26:20.743Z",
       "configured": true,
       "items": [
         {
@@ -1304,251 +1302,250 @@
     "mediastack": {
       "source": "mediastack",
       "label": "Mediastack — global news",
-      "fetched_at": "2026-05-07T19:15:09.826Z",
+      "fetched_at": "2026-05-07T19:26:20.188Z",
       "configured": true,
       "items": [
         {
           "rank": 1,
-          "title": "Swastika found carved into LIRR station window in Jewish community",
-          "url": "https://nypost.com/2026/05/07/us-news/swastika-found-carved-into-lirr-station-window-in-jewish-community/",
-          "source_name": "New York Post",
+          "title": "Gamecock Great Stephen Garcia Battles Cancer",
+          "url": "https://www.fitsnews.com/2026/05/07/gamecock-great-stephen-garcia-battles-cancer/?utm_source=rss&utm_medium=rss&utm_campaign=gamecock-great-stephen-garcia-battles-cancer",
+          "source_name": "fitsnews",
           "country": "us",
           "category": "general"
         },
         {
           "rank": 2,
-          "title": "'Abject degradation': Alberta appeal court ups jail term for man who forced woman to eat own finger",
-          "url": "https://edmontonjournal.com/news/crime/abject-degradation-alberta-appeal-court-ups-jail-term-for-man-who-forced-woman-to-eat-own-finger",
-          "source_name": "lacombeglobe",
-          "country": "us",
-          "category": "general"
-        },
-        {
-          "rank": 3,
-          "title": "DeFabo: &#8216;It&#8217;s Reasonable&#8217; For Fans To Question Omar Khan After Offseason Embarrassments",
-          "url": "https://steelersdepot.com/2026/05/defabo-its-reasonable-for-fans-to-question-omar-khan-after-offseason-embarrassments/",
-          "source_name": "steelersdepot",
-          "country": "us",
-          "category": "general"
-        },
-        {
-          "rank": 4,
-          "title": "CIA'den ABD'nin propagandasını bozan analiz: İran ablukaya aylarca direnebilir",
-          "url": "https://www.yenisafak.com/dunya/ciaden-abdnin-propagandasini-bozan-analiz-iran-ablukaya-aylarca-direnebilir-4822039",
-          "source_name": "Yeni Safak",
-          "country": "tr",
-          "category": "general"
-        },
-        {
-          "rank": 5,
-          "title": "Maren Morris to Headline Capital Pride Concert on June 21",
-          "url": "https://www.metroweekly.com/2026/05/maren-morris-capital-pride-headliner/",
-          "source_name": "metroweekly",
-          "country": "us",
-          "category": "general"
-        },
-        {
-          "rank": 6,
-          "title": "EPL: Supercomputer Predicts West Ham vs Arsenal",
-          "url": "https://www.completesports.com/epl-supercomputer-predicts-west-ham-vs-arsenal/",
-          "source_name": "Complete Sports Nigeria",
+          "title": "Government unveils venues for AFCON 2027",
+          "url": "http://dailysport.co.ke/government-unveils-venues-for-afcon-2027/?utm_source=rss&utm_medium=rss&utm_campaign=government-unveils-venues-for-afcon-2027",
+          "source_name": "Daily Sport",
           "country": "us",
           "category": "sports"
         },
         {
-          "rank": 7,
-          "title": "This State Has A Grace Period For Expired Tags (But It's Not Long)",
-          "url": "https://www.slashgear.com/2166737/expired-tags-grace-period-for-texas/",
-          "source_name": "slashgear",
-          "country": "us",
+          "rank": 3,
+          "title": "Trump could revive ‘Project Freedom’ after Saudi Arabia, Kuwait reopen bases to US: report",
+          "url": "https://nypost.com/2026/05/07/us-news/trump-could-revive-project-freedom-after-saudi-arabia-kuwait-reopen-bases-to-us-report/",
+          "source_name": "Post",
+          "country": "zm",
           "category": "general"
         },
         {
-          "rank": 8,
-          "title": "Car ‘driving at Jewish schoolboys’ in London investigated as religiously aggravated assault, police say",
-          "url": "https://www.independent.co.uk/news/uk/crime/car-jewish-schoolboys-antisemitism-barnet-b2972549.html",
-          "source_name": "Independent",
-          "country": "gb",
+          "rank": 4,
+          "title": "Entrepreneurs warn against reducing CGT discount on shares",
+          "url": "https://www.abc.net.au/news/2026-05-08/tech-entrepreneurs-warn-against-lower-cgt-discount-for-startups/106653438",
+          "source_name": "ABC AU",
+          "country": "au",
           "category": "general"
         },
         {
-          "rank": 9,
-          "title": "A Two-Night Culinary Sonata: Megu Arrives at The Leela Hyderabad With Chef Shubham’s Modern Japanese Canvas",
-          "url": "https://www.deccanchronicle.com/lifestyle/food/a-two-night-culinary-sonata-megu-arrives-at-the-leela-hyderabad-with-chef-shubhams-modern-japanese-canvas-1955318",
+          "rank": 5,
+          "title": "Woman Hires Contract Killers to Murder Husband",
+          "url": "https://www.deccanchronicle.com/southern-states/andhra-pradesh/woman-hires-contract-killers-to-murder-husband-1955322",
           "source_name": "deccanchronicle",
           "country": "us",
           "category": "general"
         },
         {
-          "rank": 10,
-          "title": "Pazi, pazi, Hamad Međedović gazi! Lako preskočena prva prepreka u Rimu, sledi okršaj sa velikim biserom",
-          "url": "https://www.telegraf.rs/sport/tenis/4322053-pazi-pazi-hamad-medjedovic-gazi-lako-preskocena-prva-prepreka-u-rimu-sledi-okrsaj-sa-velikim-biserom",
-          "source_name": "Telegraf",
-          "country": "rs",
+          "rank": 6,
+          "title": "Hostel fee hikes push students to the brink as rent crisis deepens in Ghana",
+          "url": "https://www.modernghana.com/news/1491456/hostel-fee-hikes-push-students-to-the-brink-as.html",
+          "source_name": "modernghana",
+          "country": "us",
           "category": "general"
+        },
+        {
+          "rank": 7,
+          "title": "Netflix lands NFL Week 1 Australia game, reportedly getting Thanksgiving Eve game as well",
+          "url": "https://awfulannouncing.com/nfl/nfl-week-1-australia-game-rams-49ers-thanksgiving-eve.html",
+          "source_name": "awfulannouncing",
+          "country": "us",
+          "category": "general"
+        },
+        {
+          "rank": 8,
+          "title": "MAGA's fraud fighters are quietly backing a fraudster",
+          "url": "https://www.alternet.org/medicare-fraud/",
+          "source_name": "alternet",
+          "country": "us",
+          "category": "general"
+        },
+        {
+          "rank": 9,
+          "title": "Centre calls for steps to safeguard shelter residents from heat",
+          "url": "https://www.thehindu.com/news/national/tamil-nadu/centre-calls-for-steps-to-safeguard-shelter-residents-from-heat/article70950562.ece",
+          "source_name": "The Hindu",
+          "country": "in",
+          "category": "general"
+        },
+        {
+          "rank": 10,
+          "title": "Earnings call transcript: Spectrum Brands’ Q2 2026 earnings beat expectations",
+          "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-spectrum-brands-q2-2026-earnings-beat-expectations-93CH-4669436",
+          "source_name": "Investing.com | Stock Market Quotes &amp; Financial News",
+          "country": "us",
+          "category": "business"
         },
         {
           "rank": 11,
-          "title": "Woman arrested after tattooing a 22-month-old on the arm",
-          "url": "https://www.independent.co.uk/news/world/americas/crime/child-tattoo-woman-arrested-kentucky-b2972506.html",
-          "source_name": "Independent",
-          "country": "gb",
-          "category": "general"
+          "title": "TDS faces earnings test as fiber, tower pivot takes shape",
+          "url": "https://www.investing.com/news/earnings/tds-faces-earnings-test-as-fiber-tower-pivot-takes-shape-93CH-4669435",
+          "source_name": "Investing.com | Stock Market Quotes &amp; Financial News",
+          "country": "us",
+          "category": "business"
         },
         {
           "rank": 12,
-          "title": "I started clearing my Roku cache, and it fixed my biggest TV complaint",
-          "url": "https://www.zdnet.com/article/clearing-roku-cache-fixes-biggest-issues/",
-          "source_name": "m",
+          "title": "SCCC Class 26-03/26-04 [Image 7 of 7]",
+          "url": "https://www.dvidshub.net/image/9670102/sccc-class-26-03-26-04",
+          "source_name": "dvidshub",
           "country": "us",
           "category": "general"
         },
         {
           "rank": 13,
-          "title": "Good & Gather snack, other nut mixes recalled due to salmonella risk",
-          "url": "https://www.wdef.com/good-gather-snack-other-nut-mixes-recalled-due-to-salmonella-risk/",
-          "source_name": "wdef",
+          "title": "SCCC graduates should be 'proud and ready'",
+          "url": "https://www.dvidshub.net/news/564696/sccc-graduates-should-proud-and-ready",
+          "source_name": "dvidshub",
           "country": "us",
           "category": "general"
         },
         {
           "rank": 14,
-          "title": "Malawi Set to Launch Technology Needs Assessment to Drive Malawi 2063, Target Innovation-Led Growth",
-          "url": "https://www.nyasatimes.com/malawi-set-to-launch-technology-needs-assessment-to-drive-malawi-2063-target-innovation-led-growth/",
-          "source_name": "Nyasa Times",
-          "country": "mw",
+          "title": "Tennessee approves Trump redistricting plan, dividing majority-Black Memphis voting bloc",
+          "url": "https://www.lpm.org/news/2026-05-07/tennessee-approves-trump-redistricting-plan-dividing-majority-black-memphis-voting-bloc",
+          "source_name": "wfpl",
+          "country": "us",
           "category": "general"
         },
         {
           "rank": 15,
-          "title": "Oil prices continue to fall as optimism around Iran deal grows",
-          "url": "https://www.independent.co.uk/us/money/oil-prices-drop-stock-iran-agreement-b2972546.html",
-          "source_name": "Independent",
+          "title": "Consolidated Edison earnings up next: Can rates offset pressure?",
+          "url": "https://www.investing.com/news/earnings/consolidated-edison-earnings-up-next-can-rates-offset-pressure-93CH-4669433",
+          "source_name": "Investing.com | Stock Market Quotes &amp; Financial News",
+          "country": "us",
+          "category": "business"
+        },
+        {
+          "rank": 16,
+          "title": "Charles River Q1 2026 slides: beats amid portfolio transformation",
+          "url": "https://www.investing.com/news/company-news/charles-river-q1-2026-slides-beats-amid-portfolio-transformation-93CH-4669434",
+          "source_name": "Investing.com | Stock Market Quotes &amp; Financial News",
+          "country": "us",
+          "category": "business"
+        },
+        {
+          "rank": 17,
+          "title": "Former BMO bank building in Downtown Fresno listed for $2.6M",
+          "url": "https://thebusinessjournal.com/fresno-bmo-building-sale/",
+          "source_name": "thebusinessjournal",
+          "country": "us",
+          "category": "general"
+        },
+        {
+          "rank": 18,
+          "title": "11-year-old uses lemonade stand to raise money to buy special headstone for her late father",
+          "url": "https://www.independent.co.uk/news/world/americas/texas-lemonade-stand-headstone-father-b2971665.html",
+          "source_name": "The Independent",
           "country": "gb",
           "category": "general"
         },
         {
-          "rank": 16,
-          "title": "Broadview protesters sue feds over DNA collection after arrests, saying it violates rights",
-          "url": "https://chicago.suntimes.com/immigration/2026/05/07/broadview-protesters-federal-lawsuit-ice-immigration-arrest-dna-collection",
-          "source_name": "suntimes",
-          "country": "us",
-          "category": "general"
-        },
-        {
-          "rank": 17,
-          "title": "Rory McIlroy Ends Rift With Jon Rahm as LIV Pro Finally Pays Off $3 Million Fine",
-          "url": "https://www.essentiallysports.com/golf-news-rory-mcilroy-ends-rift-with-jon-rahm-as-liv-pro-finally-pays-off-three-million-dollar-fine/",
-          "source_name": "Essentially Sports",
-          "country": "us",
-          "category": "sports"
-        },
-        {
-          "rank": 18,
-          "title": "“Charles’ Bad Year Would Be Draymond’s Great Year”: Warriors Star Gets Ripped for Dissing Hall of Famer On Inside the NBA",
-          "url": "https://www.essentiallysports.com/nba-legends-basketball-news-charles-barkley-bad-year-would-be-draymond-green-s-great-year-golden-state-warriors-star-gets-ripped-for-dissing-hall-of-famer-on-inside-the-nba/",
-          "source_name": "Essentially Sports",
-          "country": "us",
-          "category": "sports"
-        },
-        {
           "rank": 19,
-          "title": "Service programme to become mandatory in secondary schools",
-          "url": "https://barbadostoday.bb/2026/05/07/service-programme-to-become-mandatory-in-secondary-schools/",
-          "source_name": "barbados Today",
-          "country": "bb",
+          "title": "Telemundo y US Soccer Federation extienden alianza hasta 2030",
+          "url": "https://www.telemundowashingtondc.com/comunicados-de-telemundo/telemundo-us-soccer-federation-extienden-alianza-hasta-2030-partidos-selecciones-eeuu-futbol/2379186/",
+          "source_name": "wtop",
+          "country": "us",
           "category": "general"
         },
         {
           "rank": 20,
-          "title": "Senamiesčio gatvės vaiduokliui – dar viena galimybė",
-          "url": "https://sekunde.lt/senamiescio-gatves-vaiduokliui-dar-viena-galimybe/",
-          "source_name": "Sekunde",
-          "country": "lt",
-          "category": "general"
-        },
-        {
-          "rank": 21,
-          "title": "Another bill targets non-domiciled CDLs",
-          "url": "https://landline.media/another-bill-targets-non-domiciled-cdls/",
-          "source_name": "landlinemag",
-          "country": "us",
-          "category": "general"
-        },
-        {
-          "rank": 22,
-          "title": "Tennessee lawmakers pass US House map carving up majority-Black district in Memphis",
-          "url": "https://abcnews.com/Politics/wireStory/tennessee-poised-vote-new-us-house-map-sought-132733439",
-          "source_name": "ABC News",
-          "country": "us",
-          "category": "general"
-        },
-        {
-          "rank": 23,
-          "title": "Oblaci PUNI pustinjskog peska iz Sahare! Pogledajte kako se kreću prema Srbiji: Evo ŠTA nam stiže",
-          "url": "https://www.telegraf.rs/vesti/srbija/4322025-oblaci-puni-pustinjskog-peska-iz-sahare-pogledajte-kako-se-krecu-prema-srbiji-evo-sta-nam-stize",
+          "title": "Pevačica zna ko je Dari Bubamari smestio aferu! Besna kao ris, progovorila o svemu javno: \"Kakvi su to...\"",
+          "url": "https://www.telegraf.rs/jetset/vesti-jetset/4322051-pevacica-zna-ko-je-dari-bubamari-smestio-aferu-besna-kao-ris-progovorila-o-svemu-javno-kakvi-su-to",
           "source_name": "Telegraf",
           "country": "rs",
           "category": "general"
         },
         {
-          "rank": 24,
-          "title": "U.K. police arrest third suspect in attempted arson attack on London synagogue",
-          "url": "https://www.haaretz.com/jewish/2026-05-07/ty-article/u-k-police-arrest-third-suspect-in-attempted-arson-attack-on-london-synagogue/0000019e-0367-d995-a1be-1fe7296e0000",
-          "source_name": "Haaretz - All headlines",
-          "country": "il",
+          "rank": 21,
+          "title": "State-run Trauma and Emergency Care Centre on Victoria Hospital campus records second organ donation in last three months",
+          "url": "https://www.thehindu.com/news/national/karnataka/state-run-trauma-and-emergency-care-centre-on-victoria-hospital-campus-records-second-organ-donation-in-last-three-months/article70951771.ece",
+          "source_name": "The Hindu",
+          "country": "in",
           "category": "general"
         },
         {
-          "rank": 25,
-          "title": "Leaders Gor to take on champions Kenya Police as KPL enters week 31",
-          "url": "http://dailysport.co.ke/leaders-gor-to-take-on-champions-kenya-police-as-kpl-enters-week-31/?utm_source=rss&utm_medium=rss&utm_campaign=leaders-gor-to-take-on-champions-kenya-police-as-kpl-enters-week-31",
-          "source_name": "Daily Sport",
+          "rank": 22,
+          "title": "“A la m *** la Casa Blanca”: sospechoso de disparar contra agente del Servicio Secreto en DC",
+          "url": "https://www.telemundowashingtondc.com/noticias/local/a-la-m-la-casa-blanca-sospechoso-disparar-servicio-secreto-dc/2379182/",
+          "source_name": "wtop",
           "country": "us",
-          "category": "sports"
+          "category": "general"
+        },
+        {
+          "rank": 23,
+          "title": "Brett a Reber, Equity Bancshares general counsel, sells $4,655 in stock",
+          "url": "https://www.investing.com/news/insider-trading-news/brett-a-reber-equity-bancshares-general-counsel-sells-4655-in-stock-93CH-4669432",
+          "source_name": "Investing.com | Stock Market Quotes &amp; Financial News",
+          "country": "us",
+          "category": "business"
+        },
+        {
+          "rank": 24,
+          "title": "Viavi solutions CEO Oleg Khaykin sells $1.84m common stock",
+          "url": "https://www.investing.com/news/insider-trading-news/viavi-solutions-ceo-oleg-khaykin-sells-184m-common-stock-93CH-4669431",
+          "source_name": "Investing.com | Stock Market Quotes &amp; Financial News",
+          "country": "us",
+          "category": "business"
+        },
+        {
+          "rank": 25,
+          "title": "Saba Capital sells $4.09m of BlackRock ESG Capital Term Trust shares",
+          "url": "https://www.investing.com/news/insider-trading-news/saba-capital-sells-409m-of-blackrock-esg-capital-term-trust-shares-93CH-4669430",
+          "source_name": "Investing.com | Stock Market Quotes &amp; Financial News",
+          "country": "us",
+          "category": "business"
         }
       ]
     },
     "stackoverflow": {
       "source": "stackoverflow",
       "label": "Stack Overflow — hot questions",
-      "fetched_at": "2026-05-07T19:15:10.113Z",
+      "fetched_at": "2026-05-07T19:26:20.376Z",
       "items": [
         {
           "rank": 1,
+          "title": "System modules for system project advice",
+          "url": "https://stackoverflow.com/questions/79937745/system-modules-for-system-project-advice",
+          "score": 0,
+          "answers": 1,
+          "views": 17,
+          "tags": [
+            "java",
+            "backend"
+          ]
+        },
+        {
+          "rank": 2,
           "title": "What Are Good Improvements for My Simple React Shopping List?",
           "url": "https://stackoverflow.com/questions/79937729/what-are-good-improvements-for-my-simple-react-shopping-list",
           "score": 0,
           "answers": 2,
-          "views": 44,
+          "views": 50,
           "tags": [
             "typescript"
           ]
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "Dependency list generated from import in TypeScript",
           "url": "https://stackoverflow.com/questions/79937726/dependency-list-generated-from-import-in-typescript",
           "score": 0,
           "answers": 0,
-          "views": 17,
+          "views": 19,
           "tags": [
             "typescript",
             "npm",
             "dependencies"
-          ]
-        },
-        {
-          "rank": 3,
-          "title": "Best way to configure a softphone (e.g. baresip) to stream audio for capture by live transcription service?",
-          "url": "https://stackoverflow.com/questions/79937740/best-way-to-configure-a-softphone-e-g-baresip-to-stream-audio-for-capture-by",
-          "score": 0,
-          "answers": 0,
-          "views": 16,
-          "tags": [
-            "audio-streaming",
-            "linphone",
-            "baresip"
           ]
         },
         {
@@ -1566,6 +1563,32 @@
         },
         {
           "rank": 5,
+          "title": "Best way to configure a softphone (e.g. baresip) to stream audio for capture by live transcription service?",
+          "url": "https://stackoverflow.com/questions/79937740/best-way-to-configure-a-softphone-e-g-baresip-to-stream-audio-for-capture-by",
+          "score": 0,
+          "answers": 0,
+          "views": 16,
+          "tags": [
+            "audio-streaming",
+            "linphone",
+            "baresip"
+          ]
+        },
+        {
+          "rank": 6,
+          "title": "Module Not Found\" and \"PrismaClientInitializationError\" in Prisma 7 with Node.js ES Modules",
+          "url": "https://stackoverflow.com/questions/79937733/module-not-found-and-prismaclientinitializationerror-in-prisma-7-with-node-js",
+          "score": 0,
+          "answers": 0,
+          "views": 14,
+          "tags": [
+            "node.js",
+            "postgresql",
+            "prisma"
+          ]
+        },
+        {
+          "rank": 7,
           "title": "How to import global.css into cypress component tests",
           "url": "https://stackoverflow.com/questions/79937723/how-to-import-global-css-into-cypress-component-tests",
           "score": 0,
@@ -1578,25 +1601,12 @@
           ]
         },
         {
-          "rank": 6,
-          "title": "Module Not Found\" and \"PrismaClientInitializationError\" in Prisma 7 with Node.js ES Modules",
-          "url": "https://stackoverflow.com/questions/79937733/module-not-found-and-prismaclientinitializationerror-in-prisma-7-with-node-js",
-          "score": 0,
-          "answers": 0,
-          "views": 13,
-          "tags": [
-            "node.js",
-            "postgresql",
-            "prisma"
-          ]
-        },
-        {
-          "rank": 7,
+          "rank": 8,
           "title": "How can I debug where an error is coming from in a Laravel + Axios project?",
           "url": "https://stackoverflow.com/questions/79937716/how-can-i-debug-where-an-error-is-coming-from-in-a-laravel-axios-project",
           "score": -2,
           "answers": 0,
-          "views": 63,
+          "views": 66,
           "tags": [
             "laravel",
             "debugging",
@@ -1604,25 +1614,12 @@
           ]
         },
         {
-          "rank": 8,
-          "title": "What do you use to keep track of everything?",
-          "url": "https://stackoverflow.com/questions/79937673/what-do-you-use-to-keep-track-of-everything",
-          "score": 1,
-          "answers": 2,
-          "views": 36,
-          "tags": [
-            "wordpress",
-            "content-management-system",
-            "project"
-          ]
-        },
-        {
           "rank": 9,
           "title": "why can't i utilize the \"def\" function?",
           "url": "https://stackoverflow.com/questions/79937711/why-cant-i-utilize-the-def-function",
-          "score": -11,
+          "score": -12,
           "answers": 0,
-          "views": 91,
+          "views": 103,
           "tags": [
             "python",
             "visual-studio-code"
@@ -1630,53 +1627,66 @@
         },
         {
           "rank": 10,
+          "title": "What do you use to keep track of everything?",
+          "url": "https://stackoverflow.com/questions/79937673/what-do-you-use-to-keep-track-of-everything",
+          "score": 1,
+          "answers": 2,
+          "views": 37,
+          "tags": [
+            "wordpress",
+            "content-management-system",
+            "project"
+          ]
+        },
+        {
+          "rank": 11,
           "title": "Stored procedure in MySQL after run for unknown reason returns query interrupted",
           "url": "https://stackoverflow.com/questions/79937698/stored-procedure-in-mysql-after-run-for-unknown-reason-returns-query-interrupted",
           "score": 0,
           "answers": 1,
-          "views": 34,
+          "views": 35,
           "tags": [
             "mysql"
           ]
         },
         {
-          "rank": 11,
+          "rank": 12,
           "title": "When creating a new 'ColorSpec' in the Material Color Utilities library, do I also need to modify the 'variants.ts' file as well?",
           "url": "https://stackoverflow.com/questions/79937702/when-creating-a-new-colorspec-in-the-material-color-utilities-library-do-i-al",
           "score": 0,
           "answers": 1,
-          "views": 33,
+          "views": 34,
           "tags": [
             "typescript",
             "material-design"
           ]
         },
         {
-          "rank": 12,
+          "rank": 13,
           "title": "Getting Partial eta squared for repeated measures ANOVA",
           "url": "https://stackoverflow.com/questions/79937697/getting-partial-eta-squared-for-repeated-measures-anova",
           "score": 0,
           "answers": 1,
-          "views": 24,
+          "views": 26,
           "tags": [
             "r",
             "anova"
           ]
         },
         {
-          "rank": 13,
+          "rank": 14,
           "title": "no operator \"==\" matches these operands when trying to compare a template function",
           "url": "https://stackoverflow.com/questions/79937695/no-operator-matches-these-operands-when-trying-to-compare-a-template-functi",
           "score": -1,
           "answers": 2,
-          "views": 88,
+          "views": 95,
           "tags": [
             "c++",
             "templates"
           ]
         },
         {
-          "rank": 14,
+          "rank": 15,
           "title": "How to filter $_REQUEST agains SQL injection and XSS?",
           "url": "https://stackoverflow.com/questions/79937701/how-to-filter-request-agains-sql-injection-and-xss",
           "score": -1,
@@ -1690,7 +1700,7 @@
           ]
         },
         {
-          "rank": 15,
+          "rank": 16,
           "title": "Rider can't locate .NET Core",
           "url": "https://stackoverflow.com/questions/79937680/rider-cant-locate-net-core",
           "score": 0,
@@ -1704,12 +1714,12 @@
           ]
         },
         {
-          "rank": 16,
+          "rank": 17,
           "title": "Leaflet: Uncaught TypeError: can't access property \"lat\", t is null",
           "url": "https://stackoverflow.com/questions/79937663/leaflet-uncaught-typeerror-cant-access-property-lat-t-is-null",
           "score": 0,
           "answers": 0,
-          "views": 45,
+          "views": 46,
           "tags": [
             "javascript",
             "csv",
@@ -1717,12 +1727,12 @@
           ]
         },
         {
-          "rank": 17,
+          "rank": 18,
           "title": "Best way to design SPA routing with ALB and private S3?",
           "url": "https://stackoverflow.com/questions/79937691/best-way-to-design-spa-routing-with-alb-and-private-s3",
           "score": -4,
           "answers": 0,
-          "views": 37,
+          "views": 40,
           "tags": [
             "reactjs",
             "amazon-web-services",
@@ -1730,19 +1740,19 @@
           ]
         },
         {
-          "rank": 18,
+          "rank": 19,
           "title": "I am looking for a GUI tool similar to win32 API Spy for a popular linux distro such as Linux Mint",
           "url": "https://stackoverflow.com/questions/79937683/i-am-looking-for-a-gui-tool-similar-to-win32-api-spy-for-a-popular-linux-distro",
           "score": 0,
           "answers": 1,
-          "views": 35,
+          "views": 36,
           "tags": [
             "linux",
             "user-interface"
           ]
         },
         {
-          "rank": 19,
+          "rank": 20,
           "title": "AWS CLI Error: LOADER: failed to restart process: Operation not permitted",
           "url": "https://stackoverflow.com/questions/79937686/aws-cli-error-loader-failed-to-restart-process-operation-not-permitted",
           "score": 0,
@@ -1756,7 +1766,7 @@
           ]
         },
         {
-          "rank": 20,
+          "rank": 21,
           "title": "RATE_LIMIT_EXCEEDED without reaching quota / YouTube API",
           "url": "https://stackoverflow.com/questions/79937672/rate-limit-exceeded-without-reaching-quota-youtube-api",
           "score": -1,
@@ -1768,19 +1778,19 @@
           ]
         },
         {
-          "rank": 21,
+          "rank": 22,
           "title": "EDG vs GCC/Clang in constexpr rvalue reference behavior in constant expressions",
           "url": "https://stackoverflow.com/questions/79937637/edg-vs-gcc-clang-in-constexpr-rvalue-reference-behavior-in-constant-expressions",
           "score": 6,
           "answers": 1,
-          "views": 94,
+          "views": 95,
           "tags": [
             "c++",
             "language-lawyer"
           ]
         },
         {
-          "rank": 22,
+          "rank": 23,
           "title": "How to generate cognito token post a device biometric verification",
           "url": "https://stackoverflow.com/questions/79937689/how-to-generate-cognito-token-post-a-device-biometric-verification",
           "score": 1,
@@ -1794,12 +1804,12 @@
           ]
         },
         {
-          "rank": 23,
+          "rank": 24,
           "title": "S3 ErrorDocument behavior when accessed through ALB and VPC Endpoint",
           "url": "https://stackoverflow.com/questions/79937676/s3-errordocument-behavior-when-accessed-through-alb-and-vpc-endpoint",
           "score": 0,
           "answers": 2,
-          "views": 23,
+          "views": 24,
           "tags": [
             "amazon-web-services",
             "amazon-s3",
@@ -1807,7 +1817,7 @@
           ]
         },
         {
-          "rank": 24,
+          "rank": 25,
           "title": "Struggling to change responsive breakpoint on Wordpress theme",
           "url": "https://stackoverflow.com/questions/79937639/struggling-to-change-responsive-breakpoint-on-wordpress-theme",
           "score": -3,
@@ -1820,28 +1830,13 @@
             "wordpress-theming",
             "responsive"
           ]
-        },
-        {
-          "rank": 25,
-          "title": "How to optimize the background parallax to be smoother on scrollbar control?",
-          "url": "https://stackoverflow.com/questions/79937522/how-to-optimize-the-background-parallax-to-be-smoother-on-scrollbar-control",
-          "score": 1,
-          "answers": 1,
-          "views": 92,
-          "tags": [
-            "javascript",
-            "html",
-            "css",
-            "elementor",
-            "background-parallax"
-          ]
         }
       ]
     },
     "steam": {
       "source": "steam",
       "label": "Steam — top games (24h peak)",
-      "fetched_at": "2026-05-07T19:15:10.218Z",
+      "fetched_at": "2026-05-07T19:26:20.645Z",
       "items": [
         {
           "rank": 1,
@@ -2123,7 +2118,7 @@
     "youtube": {
       "source": "youtube",
       "label": "YouTube — trending videos",
-      "fetched_at": "2026-05-07T19:15:09.699Z",
+      "fetched_at": "2026-05-07T19:26:19.944Z",
       "configured": true,
       "items": [
         {
@@ -2131,16 +2126,16 @@
           "title": "NACHO ESTRELLA X JEY ONE X ALOFOKE MUSIC X DIANA LA MISS - HIJA DE LA NOCHE",
           "url": "https://www.youtube.com/watch?v=D_WllqC_kVA",
           "channel": "AlofokeMusicSounds",
-          "views": 397657,
-          "likes": 106501
+          "views": 412560,
+          "likes": 108106
         },
         {
           "rank": 2,
           "title": "Aliens: Fireteam Elite 2 – Official Reveal Trailer | IGN First",
           "url": "https://www.youtube.com/watch?v=bISGUJn3sSk",
           "channel": "IGN",
-          "views": 72557,
-          "likes": 6741
+          "views": 78617,
+          "likes": 6898
         },
         {
           "rank": 3,
@@ -2155,40 +2150,40 @@
           "title": "Boards of Canada - Introit / Prophecy At 1420 MHz",
           "url": "https://www.youtube.com/watch?v=74NluS3jzTo",
           "channel": "Boards of Canada",
-          "views": 80730,
-          "likes": 15573
+          "views": 82350,
+          "likes": 15777
         },
         {
           "rank": 5,
           "title": "LEGO® Batman™: Legacy of the Dark Knight – Official Launch Trailer",
           "url": "https://www.youtube.com/watch?v=DfJaUpW_P00",
           "channel": "Warner Bros. Games",
-          "views": 54684,
-          "likes": 7986
+          "views": 58392,
+          "likes": 8184
         },
         {
           "rank": 6,
           "title": "Star Fox Direct 5.6.2026",
           "url": "https://www.youtube.com/watch?v=ePZeyh5q9R8",
           "channel": "Nintendo of America",
-          "views": 2236480,
-          "likes": 115485
+          "views": 2242108,
+          "likes": 115659
         },
         {
           "rank": 7,
           "title": "Harry Styles - Dance No More (Official Video)",
           "url": "https://www.youtube.com/watch?v=-rkjE0xc730",
           "channel": "HarryStylesVEVO",
-          "views": 581164,
-          "likes": 106520
+          "views": 599584,
+          "likes": 108585
         },
         {
           "rank": 8,
           "title": "The Odyssey | Official New Trailer",
           "url": "https://www.youtube.com/watch?v=f_bKjZeJBBI",
           "channel": "Universal Pictures",
-          "views": 10943852,
-          "likes": 283057
+          "views": 10956466,
+          "likes": 283217
         },
         {
           "rank": 9,
@@ -2203,16 +2198,16 @@
           "title": "Hija de la noche",
           "url": "https://www.youtube.com/watch?v=PuzKl7WXLsY",
           "channel": "Nacho Estrella - Topic",
-          "views": 284555,
-          "likes": 28896
+          "views": 286370,
+          "likes": 28956
         },
         {
           "rank": 11,
           "title": "Cape Fear — Official Trailer | Apple TV",
           "url": "https://www.youtube.com/watch?v=FZ3sN5E-mBU",
           "channel": "Apple TV",
-          "views": 325739,
-          "likes": 5620
+          "views": 339643,
+          "likes": 5774
         },
         {
           "rank": 12,
@@ -2227,16 +2222,16 @@
           "title": "Fuerza Regida - Marlboro Rojo (Letra - Lyrics)",
           "url": "https://www.youtube.com/watch?v=SSFddo0urYg",
           "channel": "Chilanga Banda",
-          "views": 259445,
-          "likes": 235
+          "views": 261653,
+          "likes": 237
         },
         {
           "rank": 14,
           "title": "THE ODYSSEY TRAILER BREAKDOWN! Every Detail You Missed!",
           "url": "https://www.youtube.com/watch?v=KNYs8-sHJ3s",
           "channel": "New Rockstars",
-          "views": 113062,
-          "likes": 4696
+          "views": 113532,
+          "likes": 4714
         },
         {
           "rank": 15,
@@ -2251,16 +2246,16 @@
           "title": "The Killers - Mr. Brightside (Lyrics)",
           "url": "https://www.youtube.com/watch?v=l3QksZ68hYw",
           "channel": "Unique Sound",
-          "views": 1170728,
-          "likes": 3447
+          "views": 1184028,
+          "likes": 3477
         },
         {
           "rank": 17,
           "title": "Star Fox Switch 2 - Reveal Trailer + Gameplay",
           "url": "https://www.youtube.com/watch?v=JQz7X9NUttM",
           "channel": "BeardBear",
-          "views": 77422,
-          "likes": 1782
+          "views": 77715,
+          "likes": 1787
         },
         {
           "rank": 18,
@@ -2275,16 +2270,16 @@
           "title": "Playing God (feat. Corey Taylor)",
           "url": "https://www.youtube.com/watch?v=f-zSsXdZKwk",
           "channel": "Motionless In White - Topic",
-          "views": 192488,
-          "likes": 12218
+          "views": 193717,
+          "likes": 12259
         },
         {
           "rank": 20,
           "title": "R.E.P.O. COSMETIC UPDATE | Launch Trailer",
           "url": "https://www.youtube.com/watch?v=nuUt8A49Vbk",
           "channel": "semiwork",
-          "views": 81814,
-          "likes": 13216
+          "views": 84228,
+          "likes": 13389
         },
         {
           "rank": 21,
@@ -2299,7 +2294,7 @@
           "title": "Mono Oh",
           "url": "https://www.youtube.com/watch?v=2JpSFGTU2yQ",
           "channel": "Mal Meninga Kuri - Topic",
-          "views": 68787,
+          "views": 68817,
           "likes": 1543
         },
         {
@@ -2307,8 +2302,8 @@
           "title": "Elle - Official Teaser | Prime Video",
           "url": "https://www.youtube.com/watch?v=M5Hy3BF3d4Y",
           "channel": "Prime Video",
-          "views": 241784,
-          "likes": 7715
+          "views": 243123,
+          "likes": 7734
         },
         {
           "rank": 24,
@@ -2323,454 +2318,454 @@
           "title": "Celebrate Me",
           "url": "https://www.youtube.com/watch?v=dITPNd3Rzqw",
           "channel": "IngaRose - Topic",
-          "views": 28981,
-          "likes": 944
+          "views": 29483,
+          "likes": 963
         }
       ]
     },
     "bluesky": {
       "source": "bluesky",
       "label": "Bluesky — what's hot",
-      "fetched_at": "2026-05-07T19:15:09.740Z",
+      "fetched_at": "2026-05-07T19:26:20.091Z",
       "items": [
         {
           "rank": 1,
-          "title": "Kirsikankukat kestää viikon, kuvat feedissä ikuisesti🌸",
-          "url": "https://bsky.app/profile/kaisanna.bsky.social/post/3mlbmygsqyc25",
-          "author": "kaisanna.bsky.social",
-          "display_name": "Annakaisa",
-          "likes": 59,
-          "reposts": 1
-        },
-        {
-          "rank": 2,
-          "title": "The extremely rare catcopus.",
-          "url": "https://bsky.app/profile/mnotme.bsky.social/post/3mlbk4kbves2k",
-          "author": "mnotme.bsky.social",
-          "display_name": "Me and a small nugget of love. 🇸🇪♥️🇺🇦",
-          "likes": 4314,
-          "reposts": 595
-        },
-        {
-          "rank": 3,
-          "title": "If John Roberts is \"just calling balls and strikes\" couldn't he be replaced by the Automated Ball-Strike (ABS) System?",
-          "url": "https://bsky.app/profile/jonbecker.bsky.social/post/3mlbl3lmp4c24",
-          "author": "jonbecker.bsky.social",
-          "display_name": "Jon Becker",
-          "likes": 1851,
-          "reposts": 224
-        },
-        {
-          "rank": 4,
-          "title": "The mood on the ground in Tennessee today.",
-          "url": "https://bsky.app/profile/motherjones.com/post/3mlbsdz43as2p",
-          "author": "motherjones.com",
-          "display_name": "Mother Jones",
-          "likes": 857,
-          "reposts": 272
-        },
-        {
-          "rank": 5,
-          "title": "First he was told that he had to be put to sleep. Then it looked like he might never walk again but what nobody had coun",
-          "url": "https://bsky.app/profile/niallharbison.bsky.social/post/3mlbhsi2m3s2r",
-          "author": "niallharbison.bsky.social",
-          "display_name": "Niall Harbison",
-          "likes": 3837,
-          "reposts": 441
-        },
-        {
-          "rank": 6,
-          "title": "Evenings you don't want to end 😌🌄💚",
-          "url": "https://bsky.app/profile/wanderingreen.bsky.social/post/3mlbtsbu2os2m",
-          "author": "wanderingreen.bsky.social",
-          "display_name": "Wandering Green",
-          "likes": 22,
-          "reposts": 4
-        },
-        {
-          "rank": 7,
-          "title": "This is a feel good image for me. These two adorable young Australian superb fairywren staying close to each other.",
-          "url": "https://bsky.app/profile/joycomes.bsky.social/post/3mlbgjkaj4k24",
-          "author": "joycomes.bsky.social",
-          "display_name": "🇨🇦JOY 🇨🇦",
-          "likes": 3071,
-          "reposts": 438
-        },
-        {
-          "rank": 8,
           "title": "",
           "url": "https://bsky.app/profile/alala55.bsky.social/post/3mlb56ojyp22p",
           "author": "alala55.bsky.social",
           "display_name": "Kepano Kolohe",
-          "likes": 809,
-          "reposts": 82
+          "likes": 969,
+          "reposts": 92
         },
         {
-          "rank": 9,
-          "title": "As the Tulips’ fade the Peonies will soon take centre stage 📷🍃…",
-          "url": "https://bsky.app/profile/pathwaymoments.bsky.social/post/3mlbkj26hmc27",
-          "author": "pathwaymoments.bsky.social",
-          "display_name": "Meandering M🌿",
-          "likes": 149,
-          "reposts": 37
-        },
-        {
-          "rank": 10,
-          "title": "Morning Reflections #photography #clouds #colors #nature #TwinLakes #reflection #Iphonephotography #EastCoastKin #Trailr",
-          "url": "https://bsky.app/profile/biffrendar.bsky.social/post/3mlbcnsluec2h",
-          "author": "biffrendar.bsky.social",
-          "display_name": "Biff Rendar",
-          "likes": 1411,
-          "reposts": 161
-        },
-        {
-          "rank": 11,
-          "title": "The Phillies have claimed RHP Grant Holman off waivers from the Detroit Tigers and optioned him to Lehigh Valley (AAA).",
-          "url": "https://bsky.app/profile/toddzolecki.bsky.social/post/3mlbw6gdqj22o",
-          "author": "toddzolecki.bsky.social",
-          "display_name": "Todd Zolecki",
-          "likes": 4,
-          "reposts": 1
-        },
-        {
-          "rank": 12,
-          "title": "FEMA’s top official said that the “vast majority” of calls were answered during the deadly Texas floods.",
-          "url": "https://bsky.app/profile/politico.com/post/3mlbl24cyn22e",
-          "author": "politico.com",
-          "display_name": "Politico",
-          "likes": 1678,
-          "reposts": 820
-        },
-        {
-          "rank": 13,
-          "title": "How armadillos gather foliage for their nests",
-          "url": "https://bsky.app/profile/lucagalletti.bsky.social/post/3mlbhfkmkrc2n",
-          "author": "lucagalletti.bsky.social",
-          "display_name": "Luca",
-          "likes": 2374,
-          "reposts": 354
-        },
-        {
-          "rank": 14,
-          "title": "Saw a bear on today's shuffle! 🤗🐻",
-          "url": "https://bsky.app/profile/slowrunner1.bsky.social/post/3mlbtultcnc2t",
-          "author": "slowrunner1.bsky.social",
-          "display_name": "Ann",
-          "likes": 3,
-          "reposts": 0
-        },
-        {
-          "rank": 15,
-          "title": "Qifrey 💧",
-          "url": "https://bsky.app/profile/sillychaotic.bsky.social/post/3mlbmqvvctk2c",
-          "author": "sillychaotic.bsky.social",
-          "display_name": "Silly 👑 DM FOR WAITLIST",
-          "likes": 892,
-          "reposts": 334
-        },
-        {
-          "rank": 16,
-          "title": "",
-          "url": "https://bsky.app/profile/pauljwillson.bsky.social/post/3mlbs7o5qes2u",
-          "author": "pauljwillson.bsky.social",
-          "display_name": "Paul Willson",
-          "likes": 61,
-          "reposts": 10
-        },
-        {
-          "rank": 17,
-          "title": "Garchomp",
-          "url": "https://bsky.app/profile/gaegral.bsky.social/post/3mlbjz77qns2h",
-          "author": "gaegral.bsky.social",
-          "display_name": "Gaegral COMMISSIONS",
-          "likes": 374,
-          "reposts": 125
-        },
-        {
-          "rank": 18,
-          "title": "Todays #BirdoftheDay theme is #InMotion, any bird in motion except in flight. This great egret was moving around for sur",
-          "url": "https://bsky.app/profile/msriffle.bsky.social/post/3mlblfc7ut222",
-          "author": "msriffle.bsky.social",
-          "display_name": "Michael R Photography 🌿",
-          "likes": 91,
-          "reposts": 12
-        },
-        {
-          "rank": 19,
-          "title": "“We’re seeing the greatest purge of Black power since the era of Reconstruction.\"",
-          "url": "https://bsky.app/profile/motherjones.com/post/3mlbrxtfzpf2j",
-          "author": "motherjones.com",
-          "display_name": "Mother Jones",
-          "likes": 220,
-          "reposts": 104
-        },
-        {
-          "rank": 20,
-          "title": "Late-night hosts discussed the situation in Iran and the Trump administration’s efforts to avoid using the word war",
-          "url": "https://bsky.app/profile/us.theguardian.com/post/3mlbtd3njop2j",
-          "author": "us.theguardian.com",
-          "display_name": "Guardian US",
-          "likes": 29,
-          "reposts": 9
-        },
-        {
-          "rank": 21,
-          "title": "Kunst",
-          "url": "https://bsky.app/profile/ursulala.bsky.social/post/3mlbb423pqs2y",
-          "author": "ursulala.bsky.social",
-          "display_name": "Ursulala",
-          "likes": 464,
-          "reposts": 75
-        },
-        {
-          "rank": 22,
+          "rank": 2,
           "title": "The new cover.",
           "url": "https://bsky.app/profile/brian-goldstone.bsky.social/post/3mlbchy7wns2v",
           "author": "brian-goldstone.bsky.social",
           "display_name": "Brian Goldstone",
-          "likes": 1209,
-          "reposts": 173
+          "likes": 1223,
+          "reposts": 175
         },
         {
-          "rank": 23,
+          "rank": 3,
+          "title": "Evenings you don't want to end 😌🌄💚",
+          "url": "https://bsky.app/profile/wanderingreen.bsky.social/post/3mlbtsbu2os2m",
+          "author": "wanderingreen.bsky.social",
+          "display_name": "Wandering Green",
+          "likes": 23,
+          "reposts": 4
+        },
+        {
+          "rank": 4,
+          "title": "If John Roberts is \"just calling balls and strikes\" couldn't he be replaced by the Automated Ball-Strike (ABS) System?",
+          "url": "https://bsky.app/profile/jonbecker.bsky.social/post/3mlbl3lmp4c24",
+          "author": "jonbecker.bsky.social",
+          "display_name": "Jon Becker",
+          "likes": 1938,
+          "reposts": 232
+        },
+        {
+          "rank": 5,
+          "title": "When someone has a 63% disapproval rating and goes to a Yankees v. Tigers baseball game. ",
+          "url": "https://bsky.app/profile/mcspocky.bsky.social/post/3ml7xrfa2mk2u",
+          "author": "mcspocky.bsky.social",
+          "display_name": "McSpocky™",
+          "likes": 5257,
+          "reposts": 1831
+        },
+        {
+          "rank": 6,
+          "title": "This is a feel good image for me. These two adorable young Australian superb fairywren staying close to each other.",
+          "url": "https://bsky.app/profile/joycomes.bsky.social/post/3mlbgjkaj4k24",
+          "author": "joycomes.bsky.social",
+          "display_name": "🇨🇦JOY 🇨🇦",
+          "likes": 3194,
+          "reposts": 458
+        },
+        {
+          "rank": 7,
+          "title": "Qifrey 💧",
+          "url": "https://bsky.app/profile/sillychaotic.bsky.social/post/3mlbmqvvctk2c",
+          "author": "sillychaotic.bsky.social",
+          "display_name": "Silly 👑 DM FOR WAITLIST",
+          "likes": 938,
+          "reposts": 348
+        },
+        {
+          "rank": 8,
+          "title": "Garchomp",
+          "url": "https://bsky.app/profile/gaegral.bsky.social/post/3mlbjz77qns2h",
+          "author": "gaegral.bsky.social",
+          "display_name": "Gaegral COMMISSIONS",
+          "likes": 403,
+          "reposts": 136
+        },
+        {
+          "rank": 9,
+          "title": "Morning Reflections #photography #clouds #colors #nature #TwinLakes #reflection #Iphonephotography #EastCoastKin #Trailr",
+          "url": "https://bsky.app/profile/biffrendar.bsky.social/post/3mlbcnsluec2h",
+          "author": "biffrendar.bsky.social",
+          "display_name": "Biff Rendar",
+          "likes": 1475,
+          "reposts": 164
+        },
+        {
+          "rank": 10,
+          "title": "The ruling means the Alaska Department of Fish and Game can kill bears ahead of the caribou calving season for the Mulch",
+          "url": "https://bsky.app/profile/alaskapublic.org/post/3mlbvn5wnen2q",
+          "author": "alaskapublic.org",
+          "display_name": "Alaska Public Media",
+          "likes": 4,
+          "reposts": 1
+        },
+        {
+          "rank": 11,
+          "title": "Kirsikankukat kestää viikon, kuvat feedissä ikuisesti🌸",
+          "url": "https://bsky.app/profile/kaisanna.bsky.social/post/3mlbmygsqyc25",
+          "author": "kaisanna.bsky.social",
+          "display_name": "Annakaisa",
+          "likes": 66,
+          "reposts": 1
+        },
+        {
+          "rank": 12,
+          "title": "The mood on the ground in Tennessee today.",
+          "url": "https://bsky.app/profile/motherjones.com/post/3mlbsdz43as2p",
+          "author": "motherjones.com",
+          "display_name": "Mother Jones",
+          "likes": 960,
+          "reposts": 309
+        },
+        {
+          "rank": 13,
           "title": "This is true. ",
           "url": "https://bsky.app/profile/raeradford.bsky.social/post/3mlavlaozuk2h",
           "author": "raeradford.bsky.social",
           "display_name": "Rae Radford",
-          "likes": 4160,
-          "reposts": 585
+          "likes": 4200,
+          "reposts": 589
+        },
+        {
+          "rank": 14,
+          "title": "capybara weightlifting",
+          "url": "https://bsky.app/profile/guilhernunes.bsky.social/post/3mlbshscixc2q",
+          "author": "guilhernunes.bsky.social",
+          "display_name": "Guilherme Nunes",
+          "likes": 156,
+          "reposts": 50
+        },
+        {
+          "rank": 15,
+          "title": "The beautiful River Coe, Scottish Highlands💙😍",
+          "url": "https://bsky.app/profile/mabellogan.bsky.social/post/3mlak5kzm422s",
+          "author": "mabellogan.bsky.social",
+          "display_name": "Mabel Logan",
+          "likes": 1699,
+          "reposts": 159
+        },
+        {
+          "rank": 16,
+          "title": "As the Tulips’ fade the Peonies will soon take centre stage 📷🍃…",
+          "url": "https://bsky.app/profile/pathwaymoments.bsky.social/post/3mlbkj26hmc27",
+          "author": "pathwaymoments.bsky.social",
+          "display_name": "Meandering M🌿",
+          "likes": 156,
+          "reposts": 39
+        },
+        {
+          "rank": 17,
+          "title": "The Dolomites. April is definitely not the best time to visit this part of Italy for photography. Winter is past its bes",
+          "url": "https://bsky.app/profile/lukaesenko.bsky.social/post/3mlbrhdcyaj2h",
+          "author": "lukaesenko.bsky.social",
+          "display_name": "Luka Esenko",
+          "likes": 17,
+          "reposts": 1
+        },
+        {
+          "rank": 18,
+          "title": "Warum ich hier gerne lebe.",
+          "url": "https://bsky.app/profile/rotzloeffel.bsky.social/post/3mlbrqrhzac2c",
+          "author": "rotzloeffel.bsky.social",
+          "display_name": "Rotzlöffel",
+          "likes": 21,
+          "reposts": 0
+        },
+        {
+          "rank": 19,
+          "title": "Todays #BirdoftheDay theme is #InMotion, any bird in motion except in flight. This great egret was moving around for sur",
+          "url": "https://bsky.app/profile/msriffle.bsky.social/post/3mlblfc7ut222",
+          "author": "msriffle.bsky.social",
+          "display_name": "Michael R Photography 🌿",
+          "likes": 92,
+          "reposts": 12
+        },
+        {
+          "rank": 20,
+          "title": "The extremely rare catcopus.",
+          "url": "https://bsky.app/profile/mnotme.bsky.social/post/3mlbk4kbves2k",
+          "author": "mnotme.bsky.social",
+          "display_name": "Me and a small nugget of love. 🇸🇪♥️🇺🇦",
+          "likes": 4629,
+          "reposts": 646
+        },
+        {
+          "rank": 21,
+          "title": "If you visit Croatia, you don’t want to miss Plitvice Lakes.",
+          "url": "https://bsky.app/profile/travolax.com/post/3mlbrs5qe5u2d",
+          "author": "travolax.com",
+          "display_name": "Travolax | Always Traveling",
+          "likes": 3,
+          "reposts": 0
+        },
+        {
+          "rank": 22,
+          "title": "First he was told that he had to be put to sleep. Then it looked like he might never walk again but what nobody had coun",
+          "url": "https://bsky.app/profile/niallharbison.bsky.social/post/3mlbhsi2m3s2r",
+          "author": "niallharbison.bsky.social",
+          "display_name": "Niall Harbison",
+          "likes": 3956,
+          "reposts": 457
+        },
+        {
+          "rank": 23,
+          "title": "How armadillos gather foliage for their nests",
+          "url": "https://bsky.app/profile/lucagalletti.bsky.social/post/3mlbhfkmkrc2n",
+          "author": "lucagalletti.bsky.social",
+          "display_name": "Luca",
+          "likes": 2475,
+          "reposts": 371
         },
         {
           "rank": 24,
-          "title": "\"Au fil de Loire\" (Along the Loire) by Patrick Commecy in Brives-Charensac, France 🇫🇷",
-          "url": "https://bsky.app/profile/bergamax.bsky.social/post/3mlb7kbxtps2f",
-          "author": "bergamax.bsky.social",
-          "display_name": "BERGΛMΛX",
-          "likes": 3485,
-          "reposts": 501
+          "title": "Gostaria de fazer uma denúncia: vim trazer o celtinha no mecânico e fui brutalmente agredida por uma funcionária do esta",
+          "url": "https://bsky.app/profile/swyzera.bsky.social/post/3mlbiall3ns2i",
+          "author": "swyzera.bsky.social",
+          "display_name": "sui",
+          "likes": 143,
+          "reposts": 8
         },
         {
           "rank": 25,
-          "title": "I keep thinking that if anyone submitted a manuscript for a novel about what’s going on today, no publisher would print ",
-          "url": "https://bsky.app/profile/canteach.bsky.social/post/3mlbctnuc6c2f",
-          "author": "canteach.bsky.social",
-          "display_name": "Shirley Jennings 🇨🇦 📎",
-          "likes": 1158,
-          "reposts": 129
+          "title": "Ty ředkvičky jsou dnes nějaké extra pálivější.",
+          "url": "https://bsky.app/profile/farmarjezek.cz/post/3mlbrekfhg22j",
+          "author": "farmarjezek.cz",
+          "display_name": "David Ježek 🚜",
+          "likes": 10,
+          "reposts": 0
         }
       ]
     },
     "mastodon-trending": {
       "source": "mastodon-trending",
       "label": "Mastodon — trending posts",
-      "fetched_at": "2026-05-07T19:15:10.246Z",
+      "fetched_at": "2026-05-07T19:26:20.425Z",
       "items": [
         {
           "rank": 1,
           "title": "I'm winning",
           "url": "https://ohai.social/@redsad/116534447247035759",
           "author": "captain acab :antifa:",
-          "likes": 807,
-          "boosts": 406
+          "likes": 820,
+          "boosts": 437
         },
         {
           "rank": 2,
           "title": "[media]",
           "url": "https://mastodon.social/@admiralwonderboat/116533991687132605",
           "author": "Admiral Wonderboat",
-          "likes": 407,
-          "boosts": 314
+          "likes": 420,
+          "boosts": 326
         },
         {
           "rank": 3,
           "title": "The Fairbuds XL just became the first headphones to earn a 10/10 repairability score on our new headphone scorecard! …",
           "url": "https://mastodon.social/@iFixit/116534000896879887",
           "author": "iFixit",
-          "likes": 278,
-          "boosts": 225
+          "likes": 286,
+          "boosts": 232
         },
         {
           "rank": 4,
           "title": "Instagram suspended our account, one we've never posted from, just added a link to https://pixelfed.org in the bio.",
           "url": "https://mastodon.social/@pixelfed/116534828639685305",
           "author": "pixelfed",
-          "likes": 32,
-          "boosts": 60
+          "likes": 43,
+          "boosts": 81
         },
         {
           "rank": 5,
           "title": "Deep thinking. #grickledoodle #thoughts #creativity #cartoon #art #drawing #funny #humor",
           "url": "https://mstdn.social/@grickle/116534130725359012",
           "author": "Grickle",
-          "likes": 244,
-          "boosts": 160
+          "likes": 263,
+          "boosts": 169
         },
         {
           "rank": 6,
           "title": "[media]",
           "url": "https://mastodon.online/@streetartutopia/116534500092610270",
           "author": "Street Art Utopia",
-          "likes": 94,
-          "boosts": 82
+          "likes": 115,
+          "boosts": 97
         },
         {
           "rank": 7,
           "title": "pretty wild that American farmers are suffering from a fertilizer shortage despite record levels of bullshit from the…",
           "url": "https://infosec.exchange/@kevinrothrock/116533915873571239",
           "author": "Kevin Rothrock",
-          "likes": 284,
-          "boosts": 159
+          "likes": 305,
+          "boosts": 165
         },
         {
           "rank": 8,
-          "title": "Healthcare cannot be for profit, and ethical, even in the best possible scenario.",
-          "url": "https://beige.party/@RickiTarr/116533911537552265",
-          "author": "Ricki Yasha Tarr",
-          "likes": 226,
-          "boosts": 182
-        },
-        {
-          "rank": 9,
-          "title": "Spot the barn cat",
-          "url": "https://mastodon.social/@sundogplanets/116534387109678033",
-          "author": "Prof. Sam Lawler",
-          "likes": 88,
-          "boosts": 26
-        },
-        {
-          "rank": 10,
-          "title": "From baby to big baby",
-          "url": "https://infosec.exchange/@catsalad/116533835056567254",
-          "author": "Cat 🐈🥗 (D.Burch) :paw:⁠:paw:",
-          "likes": 346,
-          "boosts": 156
-        },
-        {
-          "rank": 11,
-          "title": "[media]",
-          "url": "https://mas.to/@skeletor/116534237207237950",
-          "author": "Inspirational Skeletor💀",
-          "likes": 144,
-          "boosts": 99
-        },
-        {
-          "rank": 12,
           "title": "RE: https://mastodon.social/@admiralwonderboat/116533991687132605Omg 😂",
           "url": "https://mastodon.social/@nixCraft/116534744902730011",
           "author": "nixCraft 🐧",
-          "likes": 40,
-          "boosts": 23
+          "likes": 48,
+          "boosts": 26
+        },
+        {
+          "rank": 9,
+          "title": "Healthcare cannot be for profit, and ethical, even in the best possible scenario.",
+          "url": "https://beige.party/@RickiTarr/116533911537552265",
+          "author": "Ricki Yasha Tarr",
+          "likes": 227,
+          "boosts": 185
+        },
+        {
+          "rank": 10,
+          "title": "Spot the barn cat",
+          "url": "https://mastodon.social/@sundogplanets/116534387109678033",
+          "author": "Prof. Sam Lawler",
+          "likes": 92,
+          "boosts": 28
+        },
+        {
+          "rank": 11,
+          "title": "From baby to big baby",
+          "url": "https://infosec.exchange/@catsalad/116533835056567254",
+          "author": "Cat 🐈🥗 (D.Burch) :paw:⁠:paw:",
+          "likes": 348,
+          "boosts": 161
+        },
+        {
+          "rank": 12,
+          "title": "Blatant abuse of power. They act like we are in Russia, not the U.S.",
+          "url": "https://universeodon.com/@georgetakei/116534477340506154",
+          "author": "George Takei :verified: 🏳️‍🌈🖖🏽",
+          "likes": 62,
+          "boosts": 72
         },
         {
           "rank": 13,
           "title": "I know that Stephen Miller gets a lot of hate on here, but hear me out.I think we could hate him more. We have the ca…",
           "url": "https://mstdn.social/@lowqualityfacts/116534053798173891",
           "author": "Low Quality Facts",
-          "likes": 174,
-          "boosts": 121
+          "likes": 177,
+          "boosts": 123
         },
         {
           "rank": 14,
-          "title": "Blatant abuse of power. They act like we are in Russia, not the U.S.",
-          "url": "https://universeodon.com/@georgetakei/116534477340506154",
-          "author": "George Takei :verified: 🏳️‍🌈🖖🏽",
-          "likes": 56,
-          "boosts": 69
+          "title": "[media]",
+          "url": "https://mas.to/@skeletor/116534237207237950",
+          "author": "Inspirational Skeletor💀",
+          "likes": 149,
+          "boosts": 99
         },
         {
           "rank": 15,
           "title": "BREAKING: Shell have just announced that their profits have DOUBLED since Trump started his illegal war with Iran.Big…",
           "url": "https://mastodon.social/@greenpeace/116533516200129842",
           "author": "Greenpeace International",
-          "likes": 143,
-          "boosts": 215
+          "likes": 147,
+          "boosts": 216
         },
         {
           "rank": 16,
           "title": "The necromancer looked at the old man behind the opulent desk. \"Commission me?\"\"Yes. Once I'm dead, of course, but I'…",
           "url": "https://mastodon.art/@MicroSFF/116534347700265163",
           "author": "Micro SF/F by O. Westin",
-          "likes": 145,
-          "boosts": 88
+          "likes": 152,
+          "boosts": 89
         },
         {
           "rank": 17,
+          "title": "In the UK, “wind and solar have generated more electricity than fossil fuels for a record 15 months in a row. […] thi…",
+          "url": "https://mas.to/@bascule/116534531860659876",
+          "author": "Tony “Abolish ICE” Arcieri🌹🦀",
+          "likes": 40,
+          "boosts": 63
+        },
+        {
+          "rank": 18,
+          "title": "RE: https://mas.to/@markwyner/116360220302747675My offer stands. If anyone needs a hand finding work, let me know. I’…",
+          "url": "https://mas.to/@markwyner/116534545142076614",
+          "author": "Mark Wyner Won’t Comply :vm:",
+          "likes": 37,
+          "boosts": 75
+        },
+        {
+          "rank": 19,
           "title": "I'm reading a book of classical poems by Arab women, and found this gem from some 1000 years ago:\"Leave me alone, you…",
           "url": "https://ohai.social/@TarkabarkaHolgy/116532913521252100",
           "author": "Dr. Zalka Csenge Virág",
           "likes": 880,
-          "boosts": 551
-        },
-        {
-          "rank": 18,
-          "title": "In the UK, “wind and solar have generated more electricity than fossil fuels for a record 15 months in a row. […] thi…",
-          "url": "https://mas.to/@bascule/116534531860659876",
-          "author": "Tony “Abolish ICE” Arcieri🌹🦀",
-          "likes": 33,
-          "boosts": 56
-        },
-        {
-          "rank": 19,
-          "title": "I am anti-fascist. I think fascism is bad and hurts people. I am proud that my grandfather, a US Army officer and imm…",
-          "url": "https://aoir.social/@aram/116534023007750911",
-          "author": "Aram Sinnreich",
-          "likes": 99,
-          "boosts": 104
+          "boosts": 558
         },
         {
           "rank": 20,
-          "title": "Secret Panel HERE 🤷‍♀️ https://patreon.com/posts/58202843",
-          "url": "https://mastodon.social/@MrLovenstein/116533638536844059",
-          "author": "J. L. Westover",
-          "likes": 149,
-          "boosts": 56
+          "title": "I am anti-fascist. I think fascism is bad and hurts people. I am proud that my grandfather, a US Army officer and imm…",
+          "url": "https://aoir.social/@aram/116534023007750911",
+          "author": "Aram Sinnreich",
+          "likes": 119,
+          "boosts": 113
         },
         {
           "rank": 21,
-          "title": "Heavy tobacco users are pulling away from everyone else, Philip Morris says.",
-          "url": "https://beige.party/@maxleibman/116534142938247166",
-          "author": "Max Leibman",
-          "likes": 110,
-          "boosts": 75
-        },
-        {
-          "rank": 22,
-          "title": "RE: https://mas.to/@markwyner/116360220302747675My offer stands. If anyone needs a hand finding work, let me know. I’…",
-          "url": "https://mas.to/@markwyner/116534545142076614",
-          "author": "Mark Wyner Won’t Comply :vm:",
-          "likes": 26,
-          "boosts": 51
-        },
-        {
-          "rank": 23,
           "title": "I found a zero day in a security vendor's firewall software that allows you to remotely crash the entire system by se…",
           "url": "https://infosec.exchange/@malwaretech/116534738472472605",
           "author": "Marcus Hutchins :verified:",
           "likes": 53,
-          "boosts": 32
+          "boosts": 39
         },
         {
-          "rank": 24,
-          "title": "Microsoft Versus Code",
-          "url": "https://digipres.club/@misty/116534520575814830",
-          "author": "Misty",
-          "likes": 80,
-          "boosts": 42
+          "rank": 22,
+          "title": "Secret Panel HERE 🤷‍♀️ https://patreon.com/posts/58202843",
+          "url": "https://mastodon.social/@MrLovenstein/116533638536844059",
+          "author": "J. L. Westover",
+          "likes": 151,
+          "boosts": 56
         },
         {
-          "rank": 25,
+          "rank": 23,
           "title": "Mozilla has provided behind-the-scenes details on the 271 vulnerabilities it discovered with the help of Mythos. Thos…",
           "url": "https://infosec.exchange/@dangoodin/116534409452252107",
           "author": "Dan Goodin",
           "likes": 29,
-          "boosts": 54
+          "boosts": 61
+        },
+        {
+          "rank": 24,
+          "title": "Heavy tobacco users are pulling away from everyone else, Philip Morris says.",
+          "url": "https://beige.party/@maxleibman/116534142938247166",
+          "author": "Max Leibman",
+          "likes": 112,
+          "boosts": 75
+        },
+        {
+          "rank": 25,
+          "title": "Newton, the Cuddle Boss#cats #猫 #chats #caturday #FediCats #MastoCats #CatsOfMastodon",
+          "url": "https://toot.cat/@PonyoMina/116534520570563902",
+          "author": "Ponyo & Mina",
+          "likes": 94,
+          "boosts": 23
         }
       ]
     },
     "product-hunt": {
       "source": "product-hunt",
       "label": "Product Hunt — top products",
-      "fetched_at": "2026-05-07T19:15:09.743Z",
+      "fetched_at": "2026-05-07T19:26:20.220Z",
       "configured": true,
       "items": [
         {
@@ -2938,7 +2933,7 @@
     "huggingface": {
       "source": "huggingface",
       "label": "Hugging Face — trending models",
-      "fetched_at": "2026-05-07T19:15:09.622Z",
+      "fetched_at": "2026-05-07T19:26:20.022Z",
       "items": [
         {
           "rank": 1,
@@ -2979,8 +2974,8 @@
           "url": "https://huggingface.co/Zyphra/ZAYA1-8B",
           "author": "Zyphra",
           "downloads": 539,
-          "likes": 178,
-          "trending_score": 177,
+          "likes": 179,
+          "trending_score": 178,
           "pipeline_tag": null,
           "last_modified": "2026-05-07T01:41:09.000Z"
         },
@@ -3079,7 +3074,7 @@
           "author": "sensenova",
           "downloads": 2724,
           "likes": 178,
-          "trending_score": 94,
+          "trending_score": 93,
           "pipeline_tag": "any-to-any",
           "last_modified": "2026-05-07T08:00:27.000Z"
         },
@@ -3089,8 +3084,8 @@
           "url": "https://huggingface.co/nvidia/Nemotron-3-Nano-Omni-30B-A3B-Reasoning-BF16",
           "author": "nvidia",
           "downloads": 65066,
-          "likes": 260,
-          "trending_score": 91,
+          "likes": 261,
+          "trending_score": 92,
           "pipeline_tag": "any-to-any",
           "last_modified": "2026-05-05T12:57:20.000Z"
         },
@@ -3220,7 +3215,7 @@
     "polymarket": {
       "source": "polymarket",
       "label": "Polymarket — top 24h volume",
-      "fetched_at": "2026-05-07T19:15:09.641Z",
+      "fetched_at": "2026-05-07T19:26:20.026Z",
       "items": [
         {
           "rank": 1,
@@ -3246,7 +3241,7 @@
           "url": "https://polymarket.com/event/next-prime-minister-of-hungary",
           "volume_24h": 3738138.86,
           "volume_total": 20381092.95813603,
-          "liquidity": 147208.12026,
+          "liquidity": 147200.62874,
           "yes_price": 0.0005,
           "leader": {
             "name": "No",
@@ -3262,13 +3257,13 @@
           "rank": 3,
           "title": "Will RC Strasbourg Alsace win on 2026-05-07?",
           "url": "https://polymarket.com/event/col-str-ray-2026-05-07",
-          "volume_24h": 3534237.4937829995,
-          "volume_total": 3538015.283409001,
-          "liquidity": 43852.3549,
-          "yes_price": 0.425,
+          "volume_24h": 3569285.605294999,
+          "volume_total": 3573884.7139729992,
+          "liquidity": 46601.0758,
+          "yes_price": 0.355,
           "leader": {
             "name": "No",
-            "price": 0.575
+            "price": 0.645
           },
           "end_date": "2026-05-07T19:00:00Z",
           "outcomes": [
@@ -3280,13 +3275,13 @@
           "rank": 4,
           "title": "US x Iran permanent peace deal by May 15, 2026?",
           "url": "https://polymarket.com/event/us-x-iran-permanent-peace-deal-by",
-          "volume_24h": 2635855.270606001,
-          "volume_total": 8383526.32894498,
-          "liquidity": 123457.5008,
-          "yes_price": 0.1855,
+          "volume_24h": 2643941.9716890007,
+          "volume_total": 8407680.55558598,
+          "liquidity": 134782.84538,
+          "yes_price": 0.1615,
           "leader": {
             "name": "No",
-            "price": 0.8145
+            "price": 0.8385
           },
           "end_date": "2026-05-15T00:00:00Z",
           "outcomes": [
@@ -3298,9 +3293,9 @@
           "rank": 5,
           "title": "Indian Premier League: Lucknow Super Giants vs Royal Challengers Bangalore",
           "url": "https://polymarket.com/event/cricipl-luc-roy-2026-05-07",
-          "volume_24h": 2546748.4340009983,
-          "volume_total": 2564644.1560329725,
-          "liquidity": 590608.92192,
+          "volume_24h": 2556731.6949779983,
+          "volume_total": 2574629.856032972,
+          "liquidity": 528873.82714,
           "yes_price": 0.9995,
           "leader": {
             "name": "Lucknow Super Giants",
@@ -3316,9 +3311,9 @@
           "rank": 6,
           "title": "Will Switzerland win the 2026 FIFA World Cup?",
           "url": "https://polymarket.com/event/2026-fifa-world-cup-winner-595",
-          "volume_24h": 1646447.4857329996,
+          "volume_24h": 1646364.7410669997,
           "volume_total": 16167586.193628358,
-          "liquidity": 1326770.7577,
+          "liquidity": 1326461.53363,
           "yes_price": 0.0095,
           "leader": {
             "name": "No",
@@ -3334,9 +3329,9 @@
           "rank": 7,
           "title": "Strait of Hormuz traffic returns to normal by May 15?",
           "url": "https://polymarket.com/event/strait-of-hormuz-traffic-returns-to-normal-by-may-15",
-          "volume_24h": 1184679.1557950007,
-          "volume_total": 10152479.78330601,
-          "liquidity": 246130.54836,
+          "volume_24h": 1163048.2760370004,
+          "volume_total": 10153582.223790009,
+          "liquidity": 253335.34793,
           "yes_price": 0.04,
           "leader": {
             "name": "No",
@@ -3352,13 +3347,13 @@
           "rank": 8,
           "title": "Will the U.S. invade Iran before 2027?",
           "url": "https://polymarket.com/event/will-the-us-invade-iran-before-2027",
-          "volume_24h": 916446.1469180001,
-          "volume_total": 25839619.757018935,
-          "liquidity": 371777.2437,
-          "yes_price": 0.225,
+          "volume_24h": 979914.4345470002,
+          "volume_total": 25904528.74602194,
+          "liquidity": 313448.9838,
+          "yes_price": 0.235,
           "leader": {
             "name": "No",
-            "price": 0.775
+            "price": 0.765
           },
           "end_date": "2026-12-31T00:00:00Z",
           "outcomes": [
@@ -3370,13 +3365,13 @@
           "rank": 9,
           "title": "Hantavirus pandemic in 2026?",
           "url": "https://polymarket.com/event/hantavirus-pandemic-in-2026",
-          "volume_24h": 852488.4824609997,
-          "volume_total": 1066153.4827509979,
-          "liquidity": 518570.77088,
-          "yes_price": 0.0905,
+          "volume_24h": 861318.5676119996,
+          "volume_total": 1075789.4606699976,
+          "liquidity": 522987.82363,
+          "yes_price": 0.089,
           "leader": {
             "name": "No",
-            "price": 0.9095
+            "price": 0.911
           },
           "end_date": "2026-12-31T00:00:00Z",
           "outcomes": [
@@ -3388,9 +3383,9 @@
           "rank": 10,
           "title": "Internazionali BNL d'Italia: Katerina Siniakova vs Anna Kalinskaya",
           "url": "https://polymarket.com/event/wta-siniako-kalinsk-2026-05-07",
-          "volume_24h": 813165.8451720009,
+          "volume_24h": 813163.6229510009,
           "volume_total": 813434.1745690005,
-          "liquidity": 1301681.66961,
+          "liquidity": 1301635.70562,
           "yes_price": 0.0005,
           "leader": {
             "name": "Anna Kalinskaya",
@@ -3408,7 +3403,7 @@
           "url": "https://polymarket.com/event/atp-tirante-cadenas-2026-05-06",
           "volume_24h": 774227.7872990002,
           "volume_total": 777326.8310619998,
-          "liquidity": 650235.62669,
+          "liquidity": 650233.46941,
           "yes_price": 0.9995,
           "leader": {
             "name": "Thiago Agustin Tirante",
@@ -3424,9 +3419,9 @@
           "rank": 12,
           "title": "Strait of Hormuz traffic returns to normal by end of May?",
           "url": "https://polymarket.com/event/strait-of-hormuz-traffic-returns-to-normal-by-end-of-may",
-          "volume_24h": 763993.1385510004,
-          "volume_total": 8961962.13444985,
-          "liquidity": 228118.5397,
+          "volume_24h": 765112.3004590004,
+          "volume_total": 8963112.265043851,
+          "liquidity": 225979.0512,
           "yes_price": 0.305,
           "leader": {
             "name": "No",
@@ -3442,13 +3437,13 @@
           "rank": 13,
           "title": "Texas Rangers vs. New York Yankees",
           "url": "https://polymarket.com/event/mlb-tex-nyy-2026-05-07",
-          "volume_24h": 716332.6925160006,
-          "volume_total": 716725.2557769998,
-          "liquidity": 64890.57085,
-          "yes_price": 0.0035,
+          "volume_24h": 718687.5435160004,
+          "volume_total": 719080.1067769998,
+          "liquidity": 47349.95594,
+          "yes_price": 0.006,
           "leader": {
             "name": "New York Yankees",
-            "price": 0.9965
+            "price": 0.994
           },
           "end_date": "2026-05-14T16:35:00Z",
           "outcomes": [
@@ -3458,11 +3453,29 @@
         },
         {
           "rank": 14,
+          "title": "Knicks vs. 76ers",
+          "url": "https://polymarket.com/event/nba-nyk-phi-2026-05-08",
+          "volume_24h": 674173.4450219997,
+          "volume_total": 677857.5471669995,
+          "liquidity": 255195.7426,
+          "yes_price": 0.495,
+          "leader": {
+            "name": "76ers",
+            "price": 0.505
+          },
+          "end_date": "2026-05-08T23:00:00Z",
+          "outcomes": [
+            "Knicks",
+            "76ers"
+          ]
+        },
+        {
+          "rank": 15,
           "title": "Cavaliers vs. Pistons",
           "url": "https://polymarket.com/event/nba-cle-det-2026-05-07",
-          "volume_24h": 653697.9276670023,
-          "volume_total": 676210.5671130033,
-          "liquidity": 1944112.0692,
+          "volume_24h": 655197.1810170024,
+          "volume_total": 677709.8204630035,
+          "liquidity": 1937730.0312,
           "yes_price": 0.395,
           "leader": {
             "name": "Pistons",
@@ -3475,16 +3488,16 @@
           ]
         },
         {
-          "rank": 15,
+          "rank": 16,
           "title": "Will Aston Villa FC win on 2026-05-07?",
           "url": "https://polymarket.com/event/uel-ast4-not-2026-05-07",
-          "volume_24h": 635568.4975919992,
-          "volume_total": 644921.2724809969,
-          "liquidity": 77329.8242,
-          "yes_price": 0.525,
+          "volume_24h": 644796.4057809993,
+          "volume_total": 654167.0378099966,
+          "liquidity": 74690.6009,
+          "yes_price": 0.545,
           "leader": {
             "name": "Yes",
-            "price": 0.525
+            "price": 0.545
           },
           "end_date": "2026-05-07T19:00:00Z",
           "outcomes": [
@@ -3493,12 +3506,30 @@
           ]
         },
         {
-          "rank": 16,
+          "rank": 17,
+          "title": "Iran closes its airspace by May 8?",
+          "url": "https://polymarket.com/event/iran-closes-its-airspace-by",
+          "volume_24h": 628877.0147309998,
+          "volume_total": 6288991.7123279665,
+          "liquidity": 45366.38818,
+          "yes_price": 0.063,
+          "leader": {
+            "name": "No",
+            "price": 0.937
+          },
+          "end_date": "2026-05-31T00:00:00Z",
+          "outcomes": [
+            "Yes",
+            "No"
+          ]
+        },
+        {
+          "rank": 18,
           "title": "Spurs vs. Timberwolves",
           "url": "https://polymarket.com/event/nba-sas-min-2026-05-08",
-          "volume_24h": 611854.1206220001,
-          "volume_total": 629391.4922349993,
-          "liquidity": 264226.2164,
+          "volume_24h": 612340.386482,
+          "volume_total": 629877.7580949992,
+          "liquidity": 303769.8565,
           "yes_price": 0.665,
           "leader": {
             "name": "Spurs",
@@ -3511,34 +3542,16 @@
           ]
         },
         {
-          "rank": 17,
-          "title": "Iran closes its airspace by May 8?",
-          "url": "https://polymarket.com/event/iran-closes-its-airspace-by",
-          "volume_24h": 605903.0819659999,
-          "volume_total": 6262836.700230968,
-          "liquidity": 67769.18716,
-          "yes_price": 0.049,
-          "leader": {
-            "name": "No",
-            "price": 0.951
-          },
-          "end_date": "2026-05-31T00:00:00Z",
-          "outcomes": [
-            "Yes",
-            "No"
-          ]
-        },
-        {
-          "rank": 18,
+          "rank": 19,
           "title": "Cleveland Guardians vs. Kansas City Royals",
           "url": "https://polymarket.com/event/mlb-cle-kc-2026-05-07",
-          "volume_24h": 586157.264112,
-          "volume_total": 589376.0326800006,
-          "liquidity": 66086.9012,
-          "yes_price": 0.875,
+          "volume_24h": 591013.7930629998,
+          "volume_total": 594232.5616310006,
+          "liquidity": 97354.3225,
+          "yes_price": 0.845,
           "leader": {
             "name": "Cleveland Guardians",
-            "price": 0.875
+            "price": 0.845
           },
           "end_date": "2026-05-14T18:10:00Z",
           "outcomes": [
@@ -3547,16 +3560,16 @@
           ]
         },
         {
-          "rank": 19,
+          "rank": 20,
           "title": "Cincinnati Reds vs. Chicago Cubs",
           "url": "https://polymarket.com/event/mlb-cin-chc-2026-05-07",
-          "volume_24h": 562433.4251440001,
-          "volume_total": 562488.2054880001,
-          "liquidity": 37553.6858,
-          "yes_price": 0.245,
+          "volume_24h": 569149.1917370002,
+          "volume_total": 569203.9720810002,
+          "liquidity": 69648.8324,
+          "yes_price": 0.135,
           "leader": {
             "name": "Chicago Cubs",
-            "price": 0.755
+            "price": 0.865
           },
           "end_date": "2026-05-14T18:20:00Z",
           "outcomes": [
@@ -3565,12 +3578,12 @@
           ]
         },
         {
-          "rank": 20,
+          "rank": 21,
           "title": "Lakers vs. Thunder",
           "url": "https://polymarket.com/event/nba-lal-okc-2026-05-07",
-          "volume_24h": 561743.3731179994,
-          "volume_total": 743221.9980920028,
-          "liquidity": 1265981.7583,
+          "volume_24h": 566591.5689489992,
+          "volume_total": 748577.6977660026,
+          "liquidity": 1254405.3987,
           "yes_price": 0.125,
           "leader": {
             "name": "Thunder",
@@ -3583,12 +3596,12 @@
           ]
         },
         {
-          "rank": 21,
+          "rank": 22,
           "title": "Will the Iranian regime fall by May 31?",
           "url": "https://polymarket.com/event/will-the-iranian-regime-fall-by-may-31",
-          "volume_24h": 480424.92411500006,
-          "volume_total": 16867902.559131723,
-          "liquidity": 997960.79893,
+          "volume_24h": 480382.1341150001,
+          "volume_total": 16867912.769131724,
+          "liquidity": 995732.29394,
           "yes_price": 0.0215,
           "leader": {
             "name": "No",
@@ -3601,12 +3614,12 @@
           ]
         },
         {
-          "rank": 22,
+          "rank": 23,
           "title": "Will PSG win the 2025–26 Champions League?",
           "url": "https://polymarket.com/event/uefa-champions-league-winner",
-          "volume_24h": 453440.82985900046,
-          "volume_total": 8486342.772105118,
-          "liquidity": 1603074.7287,
+          "volume_24h": 437327.93448500044,
+          "volume_total": 8486433.065206118,
+          "liquidity": 1604119.367,
           "yes_price": 0.575,
           "leader": {
             "name": "Yes",
@@ -3619,12 +3632,12 @@
           ]
         },
         {
-          "rank": 23,
+          "rank": 24,
           "title": "Will the New York Knicks win the 2026 NBA Finals?",
           "url": "https://polymarket.com/event/2026-nba-champion",
-          "volume_24h": 428909.2040699999,
-          "volume_total": 12101292.016722843,
-          "liquidity": 402197.08776,
+          "volume_24h": 428975.75406999997,
+          "volume_total": 12101358.566722844,
+          "liquidity": 402850.37049,
           "yes_price": 0.0885,
           "leader": {
             "name": "No",
@@ -3637,34 +3650,16 @@
           ]
         },
         {
-          "rank": 24,
-          "title": "Knicks vs. 76ers",
-          "url": "https://polymarket.com/event/nba-nyk-phi-2026-05-08",
-          "volume_24h": 420766.9929239999,
-          "volume_total": 424451.0950689998,
-          "liquidity": 342007.0381,
-          "yes_price": 0.505,
-          "leader": {
-            "name": "Knicks",
-            "price": 0.505
-          },
-          "end_date": "2026-05-08T23:00:00Z",
-          "outcomes": [
-            "Knicks",
-            "76ers"
-          ]
-        },
-        {
           "rank": 25,
           "title": "Minnesota Twins vs. Washington Nationals",
           "url": "https://polymarket.com/event/mlb-min-wsh-2026-05-07",
-          "volume_24h": 405071.7899699996,
-          "volume_total": 407414.9840100004,
-          "liquidity": 14369.1805,
-          "yes_price": 0.245,
+          "volume_24h": 414180.877064999,
+          "volume_total": 416524.0711049998,
+          "liquidity": 76840.202,
+          "yes_price": 0.495,
           "leader": {
             "name": "Washington Nationals",
-            "price": 0.755
+            "price": 0.505
           },
           "end_date": "2026-05-14T17:05:00Z",
           "outcomes": [
@@ -3677,7 +3672,7 @@
     "usgs": {
       "source": "usgs",
       "label": "USGS — earthquakes (24h, M2.5+)",
-      "fetched_at": "2026-05-07T19:15:09.622Z",
+      "fetched_at": "2026-05-07T19:26:20.016Z",
       "items": [
         {
           "rank": 1,
@@ -3685,13 +3680,13 @@
           "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75358752",
           "magnitude": 4.4,
           "place": "2 km NW of The Geysers, CA",
-          "time": 1778146963380,
+          "time": 1778146963400,
           "sig": 531,
           "felt": 396,
           "tsunami": false,
-          "depth_km": 3.5,
-          "lat": 38.7908325195312,
-          "lon": -122.77433013916
+          "depth_km": 3.7,
+          "lat": 38.7913333333333,
+          "lon": -122.777166666667
         },
         {
           "rank": 2,
@@ -3737,20 +3732,6 @@
         },
         {
           "rank": 5,
-          "title": "South Sandwich Islands region",
-          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000svrl",
-          "magnitude": 5,
-          "place": "South Sandwich Islands region",
-          "time": 1778095157896,
-          "sig": 385,
-          "felt": 0,
-          "tsunami": false,
-          "depth_km": 10,
-          "lat": -59.5634,
-          "lon": -24.0873
-        },
-        {
-          "rank": 6,
           "title": "central Mid-Atlantic Ridge",
           "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000svzd",
           "magnitude": 4.7,
@@ -3764,7 +3745,7 @@
           "lon": -34.6353
         },
         {
-          "rank": 7,
+          "rank": 6,
           "title": "98 km SW of Puerto Madero, Mexico",
           "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000svvr",
           "magnitude": 4.7,
@@ -3778,7 +3759,7 @@
           "lon": -93.13
         },
         {
-          "rank": 8,
+          "rank": 7,
           "title": "88 km NNW of Tatsugō, Japan",
           "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000svvf",
           "magnitude": 4.7,
@@ -3792,7 +3773,7 @@
           "lon": 129.4091
         },
         {
-          "rank": 9,
+          "rank": 8,
           "title": "25 km NE of La Troncal, Ecuador",
           "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000svsx",
           "magnitude": 4.6,
@@ -3806,7 +3787,7 @@
           "lon": -79.181
         },
         {
-          "rank": 10,
+          "rank": 9,
           "title": "68 km W of Ollagüe, Chile",
           "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000svti",
           "magnitude": 4.3,
@@ -3820,21 +3801,21 @@
           "lon": -68.9134
         },
         {
-          "rank": 11,
+          "rank": 10,
           "title": "17 km SSW of Weston, Colorado",
           "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000svzn",
           "magnitude": 4,
           "place": "17 km SSW of Weston, Colorado",
           "time": 1778175864086,
-          "sig": 255,
-          "felt": 24,
+          "sig": 257,
+          "felt": 29,
           "tsunami": false,
           "depth_km": 8.7,
           "lat": 36.9854,
           "lon": -104.9295
         },
         {
-          "rank": 12,
+          "rank": 11,
           "title": "265 km W of Adak, Alaska",
           "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026izwvuf",
           "magnitude": 3.7,
@@ -3848,7 +3829,7 @@
           "lon": 179.558
         },
         {
-          "rank": 13,
+          "rank": 12,
           "title": "102 km N of Charlotte Amalie, U.S. Virgin Islands",
           "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2026127000",
           "magnitude": 3.6,
@@ -3862,7 +3843,7 @@
           "lon": -64.8158
         },
         {
-          "rank": 14,
+          "rank": 13,
           "title": "12 km NNE of Cruz Bay, U.S. Virgin Islands",
           "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2026127001",
           "magnitude": 3.5,
@@ -3876,7 +3857,7 @@
           "lon": -64.7433
         },
         {
-          "rank": 15,
+          "rank": 14,
           "title": "1 km W of Concrete, Washington",
           "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw62242697",
           "magnitude": 2.8,
@@ -3890,7 +3871,7 @@
           "lon": -121.77283477783203
         },
         {
-          "rank": 16,
+          "rank": 15,
           "title": "3 km NW of Anderson Springs, CA",
           "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75358597",
           "magnitude": 3.1,
@@ -3904,7 +3885,7 @@
           "lon": -122.713836669922
         },
         {
-          "rank": 17,
+          "rank": 16,
           "title": "19 km N of Barstow, CA",
           "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41243583",
           "magnitude": 3.1,
@@ -3918,7 +3899,7 @@
           "lon": -116.983833333333
         },
         {
-          "rank": 18,
+          "rank": 17,
           "title": "17 km SW of Esperanza, Puerto Rico",
           "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71515983",
           "magnitude": 2.9,
@@ -3932,7 +3913,7 @@
           "lon": -65.59
         },
         {
-          "rank": 19,
+          "rank": 18,
           "title": "158 km ESE of McCarthy, Alaska",
           "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000svza",
           "magnitude": 2.8,
@@ -3946,7 +3927,7 @@
           "lon": -140.081
         },
         {
-          "rank": 20,
+          "rank": 19,
           "title": "34 km N of Chickaloon, Alaska",
           "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026iyqwyh",
           "magnitude": 2.8,
@@ -3960,7 +3941,7 @@
           "lon": -148.379
         },
         {
-          "rank": 21,
+          "rank": 20,
           "title": "26 km ENE of Manley Hot Springs, Alaska",
           "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026izqtxn",
           "magnitude": 2.7,
@@ -3974,7 +3955,7 @@
           "lon": -150.15
         },
         {
-          "rank": 22,
+          "rank": 21,
           "title": "4 km SSW of Anderson Springs, CA",
           "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75358892",
           "magnitude": 2.7,
@@ -3988,7 +3969,7 @@
           "lon": -122.708335876465
         },
         {
-          "rank": 23,
+          "rank": 22,
           "title": "4 km E of Covelo, CA",
           "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75359492",
           "magnitude": 2.7,
@@ -4002,7 +3983,7 @@
           "lon": -123.196502685547
         },
         {
-          "rank": 24,
+          "rank": 23,
           "title": "11 km SSE of Guánica, Puerto Rico",
           "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71516033",
           "magnitude": 2.6,
@@ -4016,7 +3997,7 @@
           "lon": -66.8798333333333
         },
         {
-          "rank": 25,
+          "rank": 24,
           "title": "9 km N of Sterling, Alaska",
           "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026izxcgu",
           "magnitude": 2.6,
@@ -4028,16 +4009,280 @@
           "depth_km": 53.8,
           "lat": 60.625,
           "lon": -150.77
+        },
+        {
+          "rank": 25,
+          "title": "3 km SSW of Pāhala, Hawaii",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74955172",
+          "magnitude": 2.5,
+          "place": "3 km SSW of Pāhala, Hawaii",
+          "time": 1778175960480,
+          "sig": 99,
+          "felt": 0,
+          "tsunami": false,
+          "depth_km": 35.5,
+          "lat": 19.1733333333333,
+          "lon": -155.485666666667
         }
       ]
     },
     "twitch": {
       "source": "twitch",
-      "label": "Twitch — top streams",
-      "fetched_at": "2026-05-07T19:15:09.291Z",
-      "configured": false,
-      "message": "Set TWITCH_CLIENT_ID and TWITCH_CLIENT_SECRET in .env. Register a free app at https://dev.twitch.tv/console/apps (any redirect URL is fine — we use the client-credentials flow).",
-      "items": []
+      "label": "Twitch — top streams (live)",
+      "fetched_at": "2026-05-07T19:26:20.741Z",
+      "configured": true,
+      "items": [
+        {
+          "rank": 1,
+          "title": "ardasaatci1",
+          "stream_title": "🇺🇸 RED BULL \"CYBORG SEASON 26\" ULTRA 600 🇺🇸 | Arda Saatci",
+          "url": "https://twitch.tv/ardasaatci1",
+          "viewers": 93860,
+          "game": "Special Events",
+          "language": "de",
+          "started_at": "2026-05-06T04:12:22Z"
+        },
+        {
+          "rank": 2,
+          "title": "evelone2004",
+          "stream_title": "КАЛИБРОВКА ФЕЙСИТ w/ @shadowkekw @mokrivskyi @zloyn @kosteze",
+          "url": "https://twitch.tv/evelone2004",
+          "viewers": 58791,
+          "game": "Counter-Strike",
+          "language": "ru",
+          "started_at": "2026-05-07T12:38:09Z"
+        },
+        {
+          "rank": 3,
+          "title": "aminematue",
+          "stream_title": "BONSOIR ! PARIS RP 21h30 ! juste avant on discute de l'Eleven",
+          "url": "https://twitch.tv/aminematue",
+          "viewers": 56687,
+          "game": "Just Chatting",
+          "language": "fr",
+          "started_at": "2026-05-07T18:06:21Z"
+        },
+        {
+          "rank": 4,
+          "title": "eliasn97",
+          "stream_title": "Among Us mit dem Squad🔥 | !finale !iconleague !lyora !doku !eligella !gaming",
+          "url": "https://twitch.tv/eliasn97",
+          "viewers": 40638,
+          "game": "Among Us",
+          "language": "de",
+          "started_at": "2026-05-07T18:16:11Z"
+        },
+        {
+          "rank": 5,
+          "title": "mistermv",
+          "stream_title": "SpeeDons au profit de Médecins du Monde - Another Crab's Treasure par @paoztv",
+          "url": "https://twitch.tv/mistermv",
+          "viewers": 39051,
+          "game": "Special Events",
+          "language": "fr",
+          "started_at": "2026-05-07T15:01:25Z"
+        },
+        {
+          "rank": 6,
+          "title": "zackrawrr",
+          "stream_title": "[DROPS ON] BIG DAY HUGE DRAMA FAREVER+POE NEW GAMES TODAY BIG NEWS AND GAMES MULTISTREAMING+REACTS  | Follow @asmongold247",
+          "url": "https://twitch.tv/zackrawrr",
+          "viewers": 32955,
+          "game": "Just Chatting",
+          "language": "en",
+          "started_at": "2026-05-07T18:11:48Z"
+        },
+        {
+          "rank": 7,
+          "title": "Trymacs",
+          "stream_title": "8 Tage Tour mit Liegerädern! 600km Marseille bis Barcelona! !teilnehmer !vote !allianz #CreatorQuest !ESN !bitpanda !PrepMyMeal",
+          "url": "https://twitch.tv/trymacs",
+          "viewers": 27772,
+          "game": "IRL",
+          "language": "de",
+          "started_at": "2026-05-07T05:25:57Z"
+        },
+        {
+          "rank": 8,
+          "title": "HasanAbi",
+          "stream_title": "UK ELECTIONS!🤬SF🤬EF DAY 69🤬TEHRAN REVIEWS US PROPOSAL🤬STRAIT: CLOSED🤬RUBIO W DA POPE🤬SAIKAT RALLY LATER🤬",
+          "url": "https://twitch.tv/hasanabi",
+          "viewers": 27716,
+          "game": "Just Chatting",
+          "language": "en",
+          "started_at": "2026-05-07T18:13:02Z"
+        },
+        {
+          "rank": 9,
+          "title": "pathofexile",
+          "stream_title": "GGG Live - Path of Exile 2: Return of the Ancients - 0.5.0 REVEAL!",
+          "url": "https://twitch.tv/pathofexile",
+          "viewers": 24556,
+          "game": "Path of Exile 2",
+          "language": "en",
+          "started_at": "2026-05-07T19:00:07Z"
+        },
+        {
+          "rank": 10,
+          "title": "Rubius",
+          "stream_title": "🐎MERCATO DE CABALLOS🐎",
+          "url": "https://twitch.tv/rubius",
+          "viewers": 21113,
+          "game": "Horsey Game",
+          "language": "es",
+          "started_at": "2026-05-07T17:39:18Z"
+        },
+        {
+          "rank": 11,
+          "title": "Dakillzor",
+          "stream_title": "🔥OLS DROPS🔥 DAY 5 !YT !MODS",
+          "url": "https://twitch.tv/dakillzor",
+          "viewers": 20309,
+          "game": "World of Tanks",
+          "language": "en",
+          "started_at": "2026-05-07T15:58:05Z"
+        },
+        {
+          "rank": 12,
+          "title": "deepins02",
+          "stream_title": "[ МАМА В 16 с Ковалем @etokovall (комик) и мной ] | !winline !tg",
+          "url": "https://twitch.tv/deepins02",
+          "viewers": 19427,
+          "game": "Just Chatting",
+          "language": "ru",
+          "started_at": "2026-05-07T17:00:00Z"
+        },
+        {
+          "rank": 13,
+          "title": "dannyaarons",
+          "stream_title": "IRL PREMIER INN ESCAPE ROOM !premierinn #ad",
+          "url": "https://twitch.tv/dannyaarons",
+          "viewers": 19109,
+          "game": "IRL",
+          "language": "en",
+          "started_at": "2026-05-07T14:46:54Z"
+        },
+        {
+          "rank": 14,
+          "title": "hivise",
+          "stream_title": "💥 SCUFFED LIVE STREAM 💥 WORST STREAMER EVER 💥 NOTHING INSTALLED 💥   #StreamerOfTheYear2026 !discord",
+          "url": "https://twitch.tv/hivise",
+          "viewers": 17673,
+          "game": "GeoGuessr",
+          "language": "en",
+          "started_at": "2026-05-07T17:39:56Z"
+        },
+        {
+          "rank": 15,
+          "title": "EWROON",
+          "stream_title": "[EN/ES CC]🔥QSMP EWRON POLSKA🔥FINAL RYTUALU | !casehug !eneba !holy VODY na !yt",
+          "url": "https://twitch.tv/ewroon",
+          "viewers": 17468,
+          "game": "QSMP",
+          "language": "pl",
+          "started_at": "2026-05-07T17:24:02Z"
+        },
+        {
+          "rank": 16,
+          "title": "NiklasWilson",
+          "stream_title": "🎥 Arda Watchparty 🔥 CYBORG SEASON ULTRA 600 🧬 !yt !insta !dna !prime !soundcloud !esn !lamia",
+          "url": "https://twitch.tv/niklaswilson",
+          "viewers": 17168,
+          "game": "Just Chatting",
+          "language": "de",
+          "started_at": "2026-05-07T12:18:32Z"
+        },
+        {
+          "rank": 17,
+          "title": "zarbex",
+          "stream_title": "MR. GEIL STREAMT 🤏 600 KM LIEGERAD-TOUR 🤏  FRANKREICH -> SPANIEN 🤏 TAG 5 🤏  !spotify !socials !merch !discord",
+          "url": "https://twitch.tv/zarbex",
+          "viewers": 16351,
+          "game": "IRL",
+          "language": "de",
+          "started_at": "2026-05-07T06:37:28Z"
+        },
+        {
+          "rank": 18,
+          "title": "RealKatieB",
+          "stream_title": "qsmp, geo, tomo.  !geoguessr !socials",
+          "url": "https://twitch.tv/realkatieb",
+          "viewers": 15074,
+          "game": "QSMP",
+          "language": "en",
+          "started_at": "2026-05-07T19:10:17Z"
+        },
+        {
+          "rank": 19,
+          "title": "GOFNS",
+          "stream_title": "EG SUDOWOODO | TL vs VIT - VCT EMEA Playoffs #VCTWatchparty | !inzone !socials",
+          "url": "https://twitch.tv/gofns",
+          "viewers": 14217,
+          "game": "VALORANT",
+          "language": "en",
+          "started_at": "2026-05-07T17:38:22Z"
+        },
+        {
+          "rank": 20,
+          "title": "sasavot",
+          "stream_title": "МДА/ПРИКОЛ",
+          "url": "https://twitch.tv/sasavot",
+          "viewers": 14191,
+          "game": "EA Sports FC 26",
+          "language": "ru",
+          "started_at": "2026-05-07T15:12:51Z"
+        },
+        {
+          "rank": 21,
+          "title": "VALORANT_EMEA",
+          "stream_title": "TL vs VIT - VCT EMEA 2026 Stage 1 - Playoffs",
+          "url": "https://twitch.tv/valorant_emea",
+          "viewers": 13850,
+          "game": "VALORANT",
+          "language": "en",
+          "started_at": "2026-05-07T14:15:44Z"
+        },
+        {
+          "rank": 22,
+          "title": "加藤純一うん〇ちゃん",
+          "stream_title": "ちょっとOWやって寝る",
+          "url": "https://twitch.tv/kato_junichi0817",
+          "viewers": 13731,
+          "game": "Overwatch",
+          "language": "ja",
+          "started_at": "2026-05-07T15:31:04Z"
+        },
+        {
+          "rank": 23,
+          "title": "Quin69",
+          "stream_title": "[!DROPS]🚨PoE2 0.5 LIVESTREAM = TODAY🚨BIGGEST PATCH EVER RELEASED WORLDWIDE???🚨10/10 btw(hcssf)🚨",
+          "url": "https://twitch.tv/quin69",
+          "viewers": 13538,
+          "game": "Path of Exile 2",
+          "language": "en",
+          "started_at": "2026-05-07T15:16:46Z"
+        },
+        {
+          "rank": 24,
+          "title": "juansguarnizo",
+          "stream_title": "QSMP 2 / Día 32: Jueves de Lechita Superheroico (DISFRAZ IRL TAMBIÉN) 🦸‍♂️",
+          "url": "https://twitch.tv/juansguarnizo",
+          "viewers": 12969,
+          "game": "QSMP",
+          "language": "es",
+          "started_at": "2026-05-07T16:45:26Z"
+        },
+        {
+          "rank": 25,
+          "title": "Kamet0",
+          "stream_title": "PRE LIVE | ON DISCUTE AVANT PARIS RP A 21H30 (!match) (!bluerising)",
+          "url": "https://twitch.tv/kamet0",
+          "viewers": 12816,
+          "game": "Just Chatting",
+          "language": "fr",
+          "started_at": "2026-05-07T18:29:54Z"
+        }
+      ]
     }
   },
   "clusters": [
@@ -4059,10 +4304,10 @@
           "source": "polymarket",
           "title": "Spurs vs. Timberwolves",
           "url": "https://polymarket.com/event/nba-sas-min-2026-05-08",
-          "rank": 16
+          "rank": 18
         }
       ],
-      "score": 0.3958333333333333
+      "score": 0.38888888888888884
     },
     {
       "id": "he9qf5",
@@ -4111,6 +4356,29 @@
       "score": 0.2833333333333333
     },
     {
+      "id": "1au14g",
+      "name": "aston villa vs nottm forest",
+      "sources": [
+        "google-trends",
+        "polymarket"
+      ],
+      "items": [
+        {
+          "source": "google-trends",
+          "title": "aston villa vs nottm forest",
+          "url": "https://www.theguardian.com/football/live/2026/may/07/aston-villa-v-nottingham-forest-europa-league-semi-final-second-leg-live",
+          "rank": 11
+        },
+        {
+          "source": "polymarket",
+          "title": "Will Aston Villa FC win on 2026-05-07?",
+          "url": "https://polymarket.com/event/uel-ast4-not-2026-05-07",
+          "rank": 16
+        }
+      ],
+      "score": 0.1534090909090909
+    },
+    {
       "id": "xfay8b",
       "name": "Cavaliers vs. Pistons",
       "sources": [
@@ -4128,34 +4396,11 @@
           "source": "polymarket",
           "title": "Cavaliers vs. Pistons",
           "url": "https://polymarket.com/event/nba-cle-det-2026-05-07",
-          "rank": 14
-        }
-      ],
-      "score": 0.12698412698412698
-    },
-    {
-      "id": "1fphiw",
-      "name": "Will Aston Villa FC win on 2026-05-07?",
-      "sources": [
-        "google-trends",
-        "polymarket"
-      ],
-      "items": [
-        {
-          "source": "google-trends",
-          "title": "aston villa vs nottm forest",
-          "url": "https://www.theguardian.com/football/live/2026/may/07/aston-villa-v-nottingham-forest-europa-league-semi-final-second-leg-live",
-          "rank": 23
-        },
-        {
-          "source": "polymarket",
-          "title": "Will Aston Villa FC win on 2026-05-07?",
-          "url": "https://polymarket.com/event/uel-ast4-not-2026-05-07",
           "rank": 15
         }
       ],
-      "score": 0.11014492753623188
+      "score": 0.12222222222222222
     }
   ],
-  "brief": "Across 16 sources on Thursday, May 7, the story of the day is Minnesota Timberwolves at San Antonio Spurs, appearing in polymarket, youtube. Also trending: z-lab/dflash (github, huggingface). In tech, anthropics/financial-services. In news, Swastika found carved into LIRR station window in Jewish community."
+  "brief": "Across 17 sources on Thursday, May 7, the story of the day is Minnesota Timberwolves at San Antonio Spurs, appearing in polymarket, youtube. Also trending: z-lab/dflash (github, huggingface). In tech, anthropics/financial-services. In news, Gamecock Great Stephen Garcia Battles Cancer."
 }

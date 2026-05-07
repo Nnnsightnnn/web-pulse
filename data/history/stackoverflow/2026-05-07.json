@@ -1,43 +1,42 @@
 {
   "source": "stackoverflow",
   "label": "Stack Overflow — hot questions",
-  "fetched_at": "2026-05-07T19:15:10.113Z",
+  "fetched_at": "2026-05-07T19:26:20.376Z",
   "items": [
     {
       "rank": 1,
+      "title": "System modules for system project advice",
+      "url": "https://stackoverflow.com/questions/79937745/system-modules-for-system-project-advice",
+      "score": 0,
+      "answers": 1,
+      "views": 17,
+      "tags": [
+        "java",
+        "backend"
+      ]
+    },
+    {
+      "rank": 2,
       "title": "What Are Good Improvements for My Simple React Shopping List?",
       "url": "https://stackoverflow.com/questions/79937729/what-are-good-improvements-for-my-simple-react-shopping-list",
       "score": 0,
       "answers": 2,
-      "views": 44,
+      "views": 50,
       "tags": [
         "typescript"
       ]
     },
     {
-      "rank": 2,
+      "rank": 3,
       "title": "Dependency list generated from import in TypeScript",
       "url": "https://stackoverflow.com/questions/79937726/dependency-list-generated-from-import-in-typescript",
       "score": 0,
       "answers": 0,
-      "views": 17,
+      "views": 19,
       "tags": [
         "typescript",
         "npm",
         "dependencies"
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "Best way to configure a softphone (e.g. baresip) to stream audio for capture by live transcription service?",
-      "url": "https://stackoverflow.com/questions/79937740/best-way-to-configure-a-softphone-e-g-baresip-to-stream-audio-for-capture-by",
-      "score": 0,
-      "answers": 0,
-      "views": 16,
-      "tags": [
-        "audio-streaming",
-        "linphone",
-        "baresip"
       ]
     },
     {
@@ -55,6 +54,32 @@
     },
     {
       "rank": 5,
+      "title": "Best way to configure a softphone (e.g. baresip) to stream audio for capture by live transcription service?",
+      "url": "https://stackoverflow.com/questions/79937740/best-way-to-configure-a-softphone-e-g-baresip-to-stream-audio-for-capture-by",
+      "score": 0,
+      "answers": 0,
+      "views": 16,
+      "tags": [
+        "audio-streaming",
+        "linphone",
+        "baresip"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Module Not Found\" and \"PrismaClientInitializationError\" in Prisma 7 with Node.js ES Modules",
+      "url": "https://stackoverflow.com/questions/79937733/module-not-found-and-prismaclientinitializationerror-in-prisma-7-with-node-js",
+      "score": 0,
+      "answers": 0,
+      "views": 14,
+      "tags": [
+        "node.js",
+        "postgresql",
+        "prisma"
+      ]
+    },
+    {
+      "rank": 7,
       "title": "How to import global.css into cypress component tests",
       "url": "https://stackoverflow.com/questions/79937723/how-to-import-global-css-into-cypress-component-tests",
       "score": 0,
@@ -67,25 +92,12 @@
       ]
     },
     {
-      "rank": 6,
-      "title": "Module Not Found\" and \"PrismaClientInitializationError\" in Prisma 7 with Node.js ES Modules",
-      "url": "https://stackoverflow.com/questions/79937733/module-not-found-and-prismaclientinitializationerror-in-prisma-7-with-node-js",
-      "score": 0,
-      "answers": 0,
-      "views": 13,
-      "tags": [
-        "node.js",
-        "postgresql",
-        "prisma"
-      ]
-    },
-    {
-      "rank": 7,
+      "rank": 8,
       "title": "How can I debug where an error is coming from in a Laravel + Axios project?",
       "url": "https://stackoverflow.com/questions/79937716/how-can-i-debug-where-an-error-is-coming-from-in-a-laravel-axios-project",
       "score": -2,
       "answers": 0,
-      "views": 63,
+      "views": 66,
       "tags": [
         "laravel",
         "debugging",
@@ -93,25 +105,12 @@
       ]
     },
     {
-      "rank": 8,
-      "title": "What do you use to keep track of everything?",
-      "url": "https://stackoverflow.com/questions/79937673/what-do-you-use-to-keep-track-of-everything",
-      "score": 1,
-      "answers": 2,
-      "views": 36,
-      "tags": [
-        "wordpress",
-        "content-management-system",
-        "project"
-      ]
-    },
-    {
       "rank": 9,
       "title": "why can't i utilize the \"def\" function?",
       "url": "https://stackoverflow.com/questions/79937711/why-cant-i-utilize-the-def-function",
-      "score": -11,
+      "score": -12,
       "answers": 0,
-      "views": 91,
+      "views": 103,
       "tags": [
         "python",
         "visual-studio-code"
@@ -119,53 +118,66 @@
     },
     {
       "rank": 10,
+      "title": "What do you use to keep track of everything?",
+      "url": "https://stackoverflow.com/questions/79937673/what-do-you-use-to-keep-track-of-everything",
+      "score": 1,
+      "answers": 2,
+      "views": 37,
+      "tags": [
+        "wordpress",
+        "content-management-system",
+        "project"
+      ]
+    },
+    {
+      "rank": 11,
       "title": "Stored procedure in MySQL after run for unknown reason returns query interrupted",
       "url": "https://stackoverflow.com/questions/79937698/stored-procedure-in-mysql-after-run-for-unknown-reason-returns-query-interrupted",
       "score": 0,
       "answers": 1,
-      "views": 34,
+      "views": 35,
       "tags": [
         "mysql"
       ]
     },
     {
-      "rank": 11,
+      "rank": 12,
       "title": "When creating a new 'ColorSpec' in the Material Color Utilities library, do I also need to modify the 'variants.ts' file as well?",
       "url": "https://stackoverflow.com/questions/79937702/when-creating-a-new-colorspec-in-the-material-color-utilities-library-do-i-al",
       "score": 0,
       "answers": 1,
-      "views": 33,
+      "views": 34,
       "tags": [
         "typescript",
         "material-design"
       ]
     },
     {
-      "rank": 12,
+      "rank": 13,
       "title": "Getting Partial eta squared for repeated measures ANOVA",
       "url": "https://stackoverflow.com/questions/79937697/getting-partial-eta-squared-for-repeated-measures-anova",
       "score": 0,
       "answers": 1,
-      "views": 24,
+      "views": 26,
       "tags": [
         "r",
         "anova"
       ]
     },
     {
-      "rank": 13,
+      "rank": 14,
       "title": "no operator \"==\" matches these operands when trying to compare a template function",
       "url": "https://stackoverflow.com/questions/79937695/no-operator-matches-these-operands-when-trying-to-compare-a-template-functi",
       "score": -1,
       "answers": 2,
-      "views": 88,
+      "views": 95,
       "tags": [
         "c++",
         "templates"
       ]
     },
     {
-      "rank": 14,
+      "rank": 15,
       "title": "How to filter $_REQUEST agains SQL injection and XSS?",
       "url": "https://stackoverflow.com/questions/79937701/how-to-filter-request-agains-sql-injection-and-xss",
       "score": -1,
@@ -179,7 +191,7 @@
       ]
     },
     {
-      "rank": 15,
+      "rank": 16,
       "title": "Rider can't locate .NET Core",
       "url": "https://stackoverflow.com/questions/79937680/rider-cant-locate-net-core",
       "score": 0,
@@ -193,12 +205,12 @@
       ]
     },
     {
-      "rank": 16,
+      "rank": 17,
       "title": "Leaflet: Uncaught TypeError: can't access property \"lat\", t is null",
       "url": "https://stackoverflow.com/questions/79937663/leaflet-uncaught-typeerror-cant-access-property-lat-t-is-null",
       "score": 0,
       "answers": 0,
-      "views": 45,
+      "views": 46,
       "tags": [
         "javascript",
         "csv",
@@ -206,12 +218,12 @@
       ]
     },
     {
-      "rank": 17,
+      "rank": 18,
       "title": "Best way to design SPA routing with ALB and private S3?",
       "url": "https://stackoverflow.com/questions/79937691/best-way-to-design-spa-routing-with-alb-and-private-s3",
       "score": -4,
       "answers": 0,
-      "views": 37,
+      "views": 40,
       "tags": [
         "reactjs",
         "amazon-web-services",
@@ -219,19 +231,19 @@
       ]
     },
     {
-      "rank": 18,
+      "rank": 19,
       "title": "I am looking for a GUI tool similar to win32 API Spy for a popular linux distro such as Linux Mint",
       "url": "https://stackoverflow.com/questions/79937683/i-am-looking-for-a-gui-tool-similar-to-win32-api-spy-for-a-popular-linux-distro",
       "score": 0,
       "answers": 1,
-      "views": 35,
+      "views": 36,
       "tags": [
         "linux",
         "user-interface"
       ]
     },
     {
-      "rank": 19,
+      "rank": 20,
       "title": "AWS CLI Error: LOADER: failed to restart process: Operation not permitted",
       "url": "https://stackoverflow.com/questions/79937686/aws-cli-error-loader-failed-to-restart-process-operation-not-permitted",
       "score": 0,
@@ -245,7 +257,7 @@
       ]
     },
     {
-      "rank": 20,
+      "rank": 21,
       "title": "RATE_LIMIT_EXCEEDED without reaching quota / YouTube API",
       "url": "https://stackoverflow.com/questions/79937672/rate-limit-exceeded-without-reaching-quota-youtube-api",
       "score": -1,
@@ -257,19 +269,19 @@
       ]
     },
     {
-      "rank": 21,
+      "rank": 22,
       "title": "EDG vs GCC/Clang in constexpr rvalue reference behavior in constant expressions",
       "url": "https://stackoverflow.com/questions/79937637/edg-vs-gcc-clang-in-constexpr-rvalue-reference-behavior-in-constant-expressions",
       "score": 6,
       "answers": 1,
-      "views": 94,
+      "views": 95,
       "tags": [
         "c++",
         "language-lawyer"
       ]
     },
     {
-      "rank": 22,
+      "rank": 23,
       "title": "How to generate cognito token post a device biometric verification",
       "url": "https://stackoverflow.com/questions/79937689/how-to-generate-cognito-token-post-a-device-biometric-verification",
       "score": 1,
@@ -283,12 +295,12 @@
       ]
     },
     {
-      "rank": 23,
+      "rank": 24,
       "title": "S3 ErrorDocument behavior when accessed through ALB and VPC Endpoint",
       "url": "https://stackoverflow.com/questions/79937676/s3-errordocument-behavior-when-accessed-through-alb-and-vpc-endpoint",
       "score": 0,
       "answers": 2,
-      "views": 23,
+      "views": 24,
       "tags": [
         "amazon-web-services",
         "amazon-s3",
@@ -296,7 +308,7 @@
       ]
     },
     {
-      "rank": 24,
+      "rank": 25,
       "title": "Struggling to change responsive breakpoint on Wordpress theme",
       "url": "https://stackoverflow.com/questions/79937639/struggling-to-change-responsive-breakpoint-on-wordpress-theme",
       "score": -3,
@@ -308,21 +320,6 @@
         "responsive-design",
         "wordpress-theming",
         "responsive"
-      ]
-    },
-    {
-      "rank": 25,
-      "title": "How to optimize the background parallax to be smoother on scrollbar control?",
-      "url": "https://stackoverflow.com/questions/79937522/how-to-optimize-the-background-parallax-to-be-smoother-on-scrollbar-control",
-      "score": 1,
-      "answers": 1,
-      "views": 92,
-      "tags": [
-        "javascript",
-        "html",
-        "css",
-        "elementor",
-        "background-parallax"
       ]
     }
   ]

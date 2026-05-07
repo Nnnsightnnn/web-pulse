@@ -1,7 +1,7 @@
 {
   "source": "google-trends",
   "label": "Google Trends — trending searches",
-  "fetched_at": "2026-05-07T19:15:10.188Z",
+  "fetched_at": "2026-05-07T19:26:20.349Z",
   "countries": [
     "US",
     "GB",
@@ -13,16 +13,14 @@
   "items": [
     {
       "rank": 1,
-      "title": "ignacio buse",
+      "title": "ipl points table",
       "geos": [
-        "BR",
-        "GB",
-        "US"
+        "IN"
       ],
-      "traffic_estimate": 1400,
-      "news_title": "Licensable picture: Italian Open",
-      "news_url": "https://www.reutersconnect.com/item/italian-open/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNNTcxRjJNWTg",
-      "news_source": "Reuters Connect"
+      "traffic_estimate": 20000,
+      "news_title": "Power of the bluff - Cummins pulls a fast one on Arya",
+      "news_url": "https://www.espncricinfo.com/story/ipl-2026-srh-vs-pbks-crafty-cummins-shows-arya-the-power-of-the-bluff-1535609",
+      "news_source": "ESPNcricinfo"
     },
     {
       "rank": 2,
@@ -41,24 +39,13 @@
       "geos": [
         "IN"
       ],
-      "traffic_estimate": 10000,
-      "news_title": "Ball by Ball Commentary & Live Score - SRH vs PBKS, 49th Match",
-      "news_url": "https://www.espncricinfo.com/series/ipl-2026-1510719/sunrisers-hyderabad-vs-punjab-kings-49th-match-1529292/ball-by-ball-commentary",
-      "news_source": "ESPNcricinfo"
+      "traffic_estimate": 5000,
+      "news_title": "IPL 2026 playoffs: Qualified teams, format and qualification scenarios",
+      "news_url": "https://www.olympics.com/en/news/ipl-2026-playoffs-qualified-teams-qualification-scenarios",
+      "news_source": "Olympics"
     },
     {
       "rank": 4,
-      "title": "trent grisham",
-      "geos": [
-        "US"
-      ],
-      "traffic_estimate": 5000,
-      "news_title": "Where to watch Texas Rangers vs. New York Yankees: Live stream, start time, TV channel, odds for Thursday, May 7",
-      "news_url": "https://sports.yahoo.com/mlb/article/where-to-watch-texas-rangers-vs-new-york-yankees-live-stream-start-time-tv-channel-odds-for-thursday-may-7-145712830.html",
-      "news_source": "Yahoo Sports"
-    },
-    {
-      "rank": 5,
       "title": "セブン",
       "geos": [
         "JP"
@@ -69,18 +56,40 @@
       "news_source": "GAME Watch"
     },
     {
-      "rank": 6,
-      "title": "vaazha 2",
+      "rank": 5,
+      "title": "michael conforto",
       "geos": [
-        "IN"
+        "US"
       ],
       "traffic_estimate": 2000,
-      "news_title": "'Vaazha 2' box office collection: Hashir’s film becomes blockbuster with Rs 234.46 crore worldwide; Nears",
-      "news_url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/vaazha-2-box-office-collection-hashirs-film-becomes-blockbuster-eith-rs-234-46-crore-worldwide-nears-ott-premiere/articleshow/130874772.cms",
-      "news_source": "The Times of India"
+      "news_title": "PCA defies the odds to help Cubs steal 3rd straight walk-off victory",
+      "news_url": "https://www.mlb.com/news/cubs-third-straight-walk-off-extends-home-winning-streak-to-14-games",
+      "news_source": "MLB.com"
+    },
+    {
+      "rank": 6,
+      "title": "palace vs shakhtar donetsk",
+      "geos": [
+        "GB"
+      ],
+      "traffic_estimate": 2000,
+      "news_title": "Crystal Palace vs Shakhtar Donetsk LIVE: UEFA Conference League stats & head-to-head",
+      "news_url": "https://www.bbc.co.uk/sport/football/live/c1d235pp06vt",
+      "news_source": "BBC"
     },
     {
       "rank": 7,
+      "title": "morgan gibbs white injury",
+      "geos": [
+        "GB"
+      ],
+      "traffic_estimate": 2000,
+      "news_title": "TEAM NEWS FOR SEMI-FINAL SECOND LEG AGAINST ASTON VILLA",
+      "news_url": "https://www.nottinghamforest.co.uk/news/2026/may/06/team-news-for-semi-final-second-leg-against-aston-villa/",
+      "news_source": "Nottingham Forest FC"
+    },
+    {
+      "rank": 8,
       "title": "nomeação",
       "geos": [
         "BR"
@@ -91,7 +100,7 @@
       "news_source": "Extra online"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "rtl+",
       "geos": [
         "DE"
@@ -102,62 +111,29 @@
       "news_source": "Kicker"
     },
     {
-      "rank": 9,
-      "title": "crystal palace",
-      "geos": [
-        "US"
-      ],
-      "traffic_estimate": 1000,
-      "news_title": "Aston Villa vs Nottingham Forest LIVE: Europa League semi-final score, commentary & updates",
-      "news_url": "https://www.bbc.com/sport/football/live/c0m2v0zzkgyt",
-      "news_source": "BBC"
-    },
-    {
       "rank": 10,
-      "title": "meenu batra ice detention",
+      "title": "xavier becerra",
       "geos": [
         "US"
       ],
       "traffic_estimate": 1000,
-      "news_title": "Texas mother of 4 says \"no one is safe\" after spending more than 6 weeks in ICE custody",
-      "news_url": "https://www.cbsnews.com/news/texas-mother-speaks-weeks-ice-custody/",
-      "news_source": "CBS News"
+      "news_title": "Becerra’s rise baffles his former Biden colleagues",
+      "news_url": "https://www.politico.com/news/2026/05/07/xavier-becerra-california-governor-race-biden-officials-00909552",
+      "news_source": "Politico"
     },
     {
       "rank": 11,
-      "title": "capital one class action lawsuit",
+      "title": "aston villa vs nottm forest",
       "geos": [
-        "US"
+        "IN"
       ],
       "traffic_estimate": 1000,
-      "news_title": "Capital One class action claims credit card rewards were unlawfully canceled",
-      "news_url": "https://topclassactions.com/lawsuit-settlements/lawsuit-news/capital-one-class-action-claims-credit-card-rewards-were-unlawfully-canceled/",
-      "news_source": "Class Action Lawsuits"
+      "news_title": "Aston Villa v Nottingham Forest: Europa League semi-final, second leg – live",
+      "news_url": "https://www.theguardian.com/football/live/2026/may/07/aston-villa-v-nottingham-forest-europa-league-semi-final-second-leg-live",
+      "news_source": "The Guardian"
     },
     {
       "rank": 12,
-      "title": "palace vs shakhtar donetsk",
-      "geos": [
-        "GB"
-      ],
-      "traffic_estimate": 1000,
-      "news_title": "Crystal Palace vs Shakhtar Donetsk LIVE: UEFA Conference League stats & head-to-head",
-      "news_url": "https://www.bbc.co.uk/sport/football/live/c1d235pp06vt",
-      "news_source": "BBC"
-    },
-    {
-      "rank": 13,
-      "title": "morgan gibbs white injury",
-      "geos": [
-        "GB"
-      ],
-      "traffic_estimate": 1000,
-      "news_title": "TEAM NEWS FOR SEMI-FINAL SECOND LEG AGAINST ASTON VILLA",
-      "news_url": "https://www.nottinghamforest.co.uk/news/2026/may/06/team-news-for-semi-final-second-leg-against-aston-villa/",
-      "news_source": "Nottingham Forest FC"
-    },
-    {
-      "rank": 14,
       "title": "parimatch",
       "geos": [
         "IN"
@@ -168,29 +144,18 @@
       "news_source": "Goal.com"
     },
     {
-      "rank": 15,
-      "title": "地震情報",
+      "rank": 13,
+      "title": "freiburg",
       "geos": [
-        "JP"
+        "BR"
       ],
       "traffic_estimate": 1000,
-      "news_title": "【地震情報】東京23区と千葉県で震度3 津波の心配なし",
-      "news_url": "https://news.web.nhk/newsweb/na/na-k10015115431000",
-      "news_source": "NHKニュース"
+      "news_title": "SC Freiburg: Braga wird zum Schicksalsspiel der Generation Ginter",
+      "news_url": "https://onefootball.com/pt-br/noticias/sc-freiburg-braga-wird-zum-schicksalsspiel-der-generation-ginter-42826315",
+      "news_source": "OneFootball"
     },
     {
-      "rank": 16,
-      "title": "日本ケンタッキー・フライド・チキン",
-      "geos": [
-        "JP"
-      ],
-      "traffic_estimate": 1000,
-      "news_title": "ケンタッキー、オリジナルチキンなど20円値上げ。カーネルクリスピー半額/KFC会員限定キャンペーンを実施",
-      "news_url": "https://gourmet.watch.impress.co.jp/docs/news/2106679.html",
-      "news_source": "グルメ Watch"
-    },
-    {
-      "rank": 17,
+      "rank": 14,
       "title": "primeiro comando da capital",
       "geos": [
         "BR"
@@ -201,92 +166,125 @@
       "news_source": "CBN"
     },
     {
-      "rank": 18,
+      "rank": 15,
       "title": "sc braga",
       "geos": [
         "DE"
       ],
       "traffic_estimate": 1000,
+      "news_title": "Grande surpresa na convocatória do SC Braga para Friburgo",
+      "news_url": "https://www.abola.pt/noticias/grande-surpresa-na-convocatoria-do-sc-braga-para-friburgo-2026050614182721691",
+      "news_source": "A Bola"
+    },
+    {
+      "rank": 16,
+      "title": "rtl livestream",
+      "geos": [
+        "DE"
+      ],
+      "traffic_estimate": 1000,
+      "news_title": "RTL Live-Stream kostenlos ohne Anmeldung: Alle Infos",
+      "news_url": "https://www.chip.de/ratgeber/wifi-dsl-internet/rtl-live-stream-kostenlos-ohne-anmeldung-alle-infos_5f2bb148-1646-4165-bf7d-0b25d059aef8.html",
+      "news_source": "CHIP"
+    },
+    {
+      "rank": 17,
+      "title": "hayley williams",
+      "geos": [
+        "US"
+      ],
+      "traffic_estimate": 500,
+      "news_title": "The Hayley Williams Show is Metro Detroit-bound: See date, ticket info",
+      "news_url": "https://www.detroitnews.com/story/entertainment/music/2026/05/07/hayley-williams-announces-metro-detroit-date-on-solo-tour/89979584007/",
+      "news_source": "The Detroit News"
+    },
+    {
+      "rank": 18,
+      "title": "bandar abbas",
+      "geos": [
+        "US"
+      ],
+      "traffic_estimate": 500,
+      "news_title": "Iran reports sounds of explosions in coastal city, island in Hormuz",
+      "news_url": "https://www.timesofisrael.com/liveblog_entry/iran-reports-sounds-of-explosions-in-coastal-city-island-in-hormuz/",
+      "news_source": "The Times of Israel"
+    },
+    {
+      "rank": 19,
+      "title": "uel",
+      "geos": [
+        "US"
+      ],
+      "traffic_estimate": 500,
+      "news_title": "Confirmed Lineups: SC Freiburg vs. SC Braga",
+      "news_url": "https://sports.yahoo.com/articles/confirmed-lineups-sc-freiburg-vs-175500163.html",
+      "news_source": "Yahoo Sports"
+    },
+    {
+      "rank": 20,
+      "title": "uefa conference league",
+      "geos": [
+        "US"
+      ],
+      "traffic_estimate": 500,
+      "news_title": "Crystal Palace vs Shakhtar Donetsk LIVE: UEFA Conference League stats & head-to-head",
+      "news_url": "https://www.bbc.com/sport/football/live/c1d235pp06vt",
+      "news_source": "BBC"
+    },
+    {
+      "rank": 21,
+      "title": "fire near me",
+      "geos": [
+        "US"
+      ],
+      "traffic_estimate": 500,
+      "news_title": "Salt cedar trees create challenges for crews battling Hazen Fire near Buckeye",
+      "news_url": "https://www.azfamily.com/2026/05/06/invasive-trees-hamper-fight-against-hazen-fire-near-buckeye/",
+      "news_source": "AZ Family"
+    },
+    {
+      "rank": 22,
+      "title": "braga fc",
+      "geos": [
+        "US"
+      ],
+      "traffic_estimate": 500,
       "news_title": "Friburgo-SC Braga: o sonho de Istambul ali tão perto",
       "news_url": "https://www.abola.pt/futebol/jogo/friburgo-sc-braga-8410166/liveblog",
       "news_source": "A Bola"
     },
     {
-      "rank": 19,
-      "title": "uefa",
-      "geos": [
-        "DE"
-      ],
-      "traffic_estimate": 1000,
-      "news_title": "Freiburg - Braga rövanşı hangi kanalda yayınlanacak, maç saat kaçta? Muhtemel 11'ler ve canlı yayın bilgileri",
-      "news_url": "https://www.yenisafak.com/foto-galeri/ozgun/freiburg-braga-rovansi-hangi-kanalda-yayinlanacak-mac-saat-kacta-muhtemel-11ler-ve-canli-yayin-bilgileri-4822020",
-      "news_source": "Yeni Şafak"
-    },
-    {
-      "rank": 20,
-      "title": "interim air force one",
-      "geos": [
-        "US"
-      ],
-      "traffic_estimate": 500,
-      "news_title": "Air Force says former Qatari 747 will be ready to fly Trump as Air Force One this summer",
-      "news_url": "https://6abc.com/post/air-force-says-former-qatari-747-will-ready-fly-trump-summer/19057439/",
-      "news_source": "6abc Philadelphia"
-    },
-    {
-      "rank": 21,
-      "title": "hormuz news",
-      "geos": [
-        "US"
-      ],
-      "traffic_estimate": 500,
-      "news_title": "Iran imposes new rules for Hormuz in effort to cement control of key waterway",
-      "news_url": "https://www.cnn.com/2026/05/07/middleeast/iran-hormuz-rules-warime-gains-intl",
-      "news_source": "CNN"
-    },
-    {
-      "rank": 22,
-      "title": "survivor billie eilish",
-      "geos": [
-        "US"
-      ],
-      "traffic_estimate": 500,
-      "news_title": "Billie Eilish Finally Addresses Her Role in Survivor Season 50 Boomerang Idol",
-      "news_url": "https://www.eonline.com/news/1431711/billie-eilish-addresses-role-in-survivor-50s-boomerang-immunity-idol",
-      "news_source": "E! News"
-    },
-    {
       "rank": 23,
-      "title": "aston villa vs nottm forest",
+      "title": "luke humphries",
       "geos": [
-        "IN"
+        "GB"
       ],
       "traffic_estimate": 500,
-      "news_title": "Aston Villa v Nottingham Forest: Europa League semi-final, second leg – live",
-      "news_url": "https://www.theguardian.com/football/live/2026/may/07/aston-villa-v-nottingham-forest-europa-league-semi-final-second-leg-live",
-      "news_source": "The Guardian"
+      "news_title": "Premier League Darts LIVE: Gerwyn Price vs Jonny Clayton in Leeds - scores, results & updates",
+      "news_url": "https://www.bbc.co.uk/sport/darts/live/c5y34xxr7vlt",
+      "news_source": "BBC"
     },
     {
       "rank": 24,
-      "title": "dacoit",
+      "title": "freiburg fc",
       "geos": [
-        "IN"
+        "GB"
       ],
       "traffic_estimate": 500,
-      "news_title": "Friday OTT releases (May 8, 2026): 7 new movies & shows on Netflix, Amazon Prime Video & more",
-      "news_url": "https://www.gqindia.com/content/friday-ott-releases-may-8-2026-7-new-movies-and-shows-on-netflix-amazon-prime-video-and-more",
-      "news_source": "GQ India"
+      "news_title": "Bayern München raus in der Champions League: Was das Aus für die Bundesliga bedeutet",
+      "news_url": "https://www.bild.de/sport/fussball/bayern-muenchen-raus-in-der-champions-league-was-das-aus-fuer-die-bundesliga-bedeutet-69fc1ffdcd4a28c47001f069",
+      "news_source": "BILD"
     },
     {
       "rank": 25,
-      "title": "भुवनेश्वर कुमार",
+      "title": "junaid khan",
       "geos": [
         "IN"
       ],
       "traffic_estimate": 500,
-      "news_title": "भुवनेश्वर कुमार ने IPL में रच दिया इतिहास, ऐसा करने वाले पहले...",
-      "news_url": "https://www.aajtak.in/sports/cricket/story/bhuvneshwar-kumar-creates-history-200-ipl-matches-fast-bowler-tspoa-dskc-2546395-2026-05-07",
-      "news_source": "AajTak"
+      "news_title": "After Being Trolled For Her Hindi, Sai Pallavi Says She Was 'Miscast' In Ek Din",
+      "news_url": "https://www.ndtv.com/entertainment/after-being-trolled-for-her-hindi-sai-pallavi-says-she-was-miscast-in-ek-din-11461423",
+      "news_source": "NDTV"
     }
   ]
 }

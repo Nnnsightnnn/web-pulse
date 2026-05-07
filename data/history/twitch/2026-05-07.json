@@ -1,8 +1,258 @@
 {
   "source": "twitch",
-  "label": "Twitch — top streams",
-  "fetched_at": "2026-05-07T19:15:09.291Z",
-  "configured": false,
-  "message": "Set TWITCH_CLIENT_ID and TWITCH_CLIENT_SECRET in .env. Register a free app at https://dev.twitch.tv/console/apps (any redirect URL is fine — we use the client-credentials flow).",
-  "items": []
+  "label": "Twitch — top streams (live)",
+  "fetched_at": "2026-05-07T19:26:20.741Z",
+  "configured": true,
+  "items": [
+    {
+      "rank": 1,
+      "title": "ardasaatci1",
+      "stream_title": "🇺🇸 RED BULL \"CYBORG SEASON 26\" ULTRA 600 🇺🇸 | Arda Saatci",
+      "url": "https://twitch.tv/ardasaatci1",
+      "viewers": 93860,
+      "game": "Special Events",
+      "language": "de",
+      "started_at": "2026-05-06T04:12:22Z"
+    },
+    {
+      "rank": 2,
+      "title": "evelone2004",
+      "stream_title": "КАЛИБРОВКА ФЕЙСИТ w/ @shadowkekw @mokrivskyi @zloyn @kosteze",
+      "url": "https://twitch.tv/evelone2004",
+      "viewers": 58791,
+      "game": "Counter-Strike",
+      "language": "ru",
+      "started_at": "2026-05-07T12:38:09Z"
+    },
+    {
+      "rank": 3,
+      "title": "aminematue",
+      "stream_title": "BONSOIR ! PARIS RP 21h30 ! juste avant on discute de l'Eleven",
+      "url": "https://twitch.tv/aminematue",
+      "viewers": 56687,
+      "game": "Just Chatting",
+      "language": "fr",
+      "started_at": "2026-05-07T18:06:21Z"
+    },
+    {
+      "rank": 4,
+      "title": "eliasn97",
+      "stream_title": "Among Us mit dem Squad🔥 | !finale !iconleague !lyora !doku !eligella !gaming",
+      "url": "https://twitch.tv/eliasn97",
+      "viewers": 40638,
+      "game": "Among Us",
+      "language": "de",
+      "started_at": "2026-05-07T18:16:11Z"
+    },
+    {
+      "rank": 5,
+      "title": "mistermv",
+      "stream_title": "SpeeDons au profit de Médecins du Monde - Another Crab's Treasure par @paoztv",
+      "url": "https://twitch.tv/mistermv",
+      "viewers": 39051,
+      "game": "Special Events",
+      "language": "fr",
+      "started_at": "2026-05-07T15:01:25Z"
+    },
+    {
+      "rank": 6,
+      "title": "zackrawrr",
+      "stream_title": "[DROPS ON] BIG DAY HUGE DRAMA FAREVER+POE NEW GAMES TODAY BIG NEWS AND GAMES MULTISTREAMING+REACTS  | Follow @asmongold247",
+      "url": "https://twitch.tv/zackrawrr",
+      "viewers": 32955,
+      "game": "Just Chatting",
+      "language": "en",
+      "started_at": "2026-05-07T18:11:48Z"
+    },
+    {
+      "rank": 7,
+      "title": "Trymacs",
+      "stream_title": "8 Tage Tour mit Liegerädern! 600km Marseille bis Barcelona! !teilnehmer !vote !allianz #CreatorQuest !ESN !bitpanda !PrepMyMeal",
+      "url": "https://twitch.tv/trymacs",
+      "viewers": 27772,
+      "game": "IRL",
+      "language": "de",
+      "started_at": "2026-05-07T05:25:57Z"
+    },
+    {
+      "rank": 8,
+      "title": "HasanAbi",
+      "stream_title": "UK ELECTIONS!🤬SF🤬EF DAY 69🤬TEHRAN REVIEWS US PROPOSAL🤬STRAIT: CLOSED🤬RUBIO W DA POPE🤬SAIKAT RALLY LATER🤬",
+      "url": "https://twitch.tv/hasanabi",
+      "viewers": 27716,
+      "game": "Just Chatting",
+      "language": "en",
+      "started_at": "2026-05-07T18:13:02Z"
+    },
+    {
+      "rank": 9,
+      "title": "pathofexile",
+      "stream_title": "GGG Live - Path of Exile 2: Return of the Ancients - 0.5.0 REVEAL!",
+      "url": "https://twitch.tv/pathofexile",
+      "viewers": 24556,
+      "game": "Path of Exile 2",
+      "language": "en",
+      "started_at": "2026-05-07T19:00:07Z"
+    },
+    {
+      "rank": 10,
+      "title": "Rubius",
+      "stream_title": "🐎MERCATO DE CABALLOS🐎",
+      "url": "https://twitch.tv/rubius",
+      "viewers": 21113,
+      "game": "Horsey Game",
+      "language": "es",
+      "started_at": "2026-05-07T17:39:18Z"
+    },
+    {
+      "rank": 11,
+      "title": "Dakillzor",
+      "stream_title": "🔥OLS DROPS🔥 DAY 5 !YT !MODS",
+      "url": "https://twitch.tv/dakillzor",
+      "viewers": 20309,
+      "game": "World of Tanks",
+      "language": "en",
+      "started_at": "2026-05-07T15:58:05Z"
+    },
+    {
+      "rank": 12,
+      "title": "deepins02",
+      "stream_title": "[ МАМА В 16 с Ковалем @etokovall (комик) и мной ] | !winline !tg",
+      "url": "https://twitch.tv/deepins02",
+      "viewers": 19427,
+      "game": "Just Chatting",
+      "language": "ru",
+      "started_at": "2026-05-07T17:00:00Z"
+    },
+    {
+      "rank": 13,
+      "title": "dannyaarons",
+      "stream_title": "IRL PREMIER INN ESCAPE ROOM !premierinn #ad",
+      "url": "https://twitch.tv/dannyaarons",
+      "viewers": 19109,
+      "game": "IRL",
+      "language": "en",
+      "started_at": "2026-05-07T14:46:54Z"
+    },
+    {
+      "rank": 14,
+      "title": "hivise",
+      "stream_title": "💥 SCUFFED LIVE STREAM 💥 WORST STREAMER EVER 💥 NOTHING INSTALLED 💥   #StreamerOfTheYear2026 !discord",
+      "url": "https://twitch.tv/hivise",
+      "viewers": 17673,
+      "game": "GeoGuessr",
+      "language": "en",
+      "started_at": "2026-05-07T17:39:56Z"
+    },
+    {
+      "rank": 15,
+      "title": "EWROON",
+      "stream_title": "[EN/ES CC]🔥QSMP EWRON POLSKA🔥FINAL RYTUALU | !casehug !eneba !holy VODY na !yt",
+      "url": "https://twitch.tv/ewroon",
+      "viewers": 17468,
+      "game": "QSMP",
+      "language": "pl",
+      "started_at": "2026-05-07T17:24:02Z"
+    },
+    {
+      "rank": 16,
+      "title": "NiklasWilson",
+      "stream_title": "🎥 Arda Watchparty 🔥 CYBORG SEASON ULTRA 600 🧬 !yt !insta !dna !prime !soundcloud !esn !lamia",
+      "url": "https://twitch.tv/niklaswilson",
+      "viewers": 17168,
+      "game": "Just Chatting",
+      "language": "de",
+      "started_at": "2026-05-07T12:18:32Z"
+    },
+    {
+      "rank": 17,
+      "title": "zarbex",
+      "stream_title": "MR. GEIL STREAMT 🤏 600 KM LIEGERAD-TOUR 🤏  FRANKREICH -> SPANIEN 🤏 TAG 5 🤏  !spotify !socials !merch !discord",
+      "url": "https://twitch.tv/zarbex",
+      "viewers": 16351,
+      "game": "IRL",
+      "language": "de",
+      "started_at": "2026-05-07T06:37:28Z"
+    },
+    {
+      "rank": 18,
+      "title": "RealKatieB",
+      "stream_title": "qsmp, geo, tomo.  !geoguessr !socials",
+      "url": "https://twitch.tv/realkatieb",
+      "viewers": 15074,
+      "game": "QSMP",
+      "language": "en",
+      "started_at": "2026-05-07T19:10:17Z"
+    },
+    {
+      "rank": 19,
+      "title": "GOFNS",
+      "stream_title": "EG SUDOWOODO | TL vs VIT - VCT EMEA Playoffs #VCTWatchparty | !inzone !socials",
+      "url": "https://twitch.tv/gofns",
+      "viewers": 14217,
+      "game": "VALORANT",
+      "language": "en",
+      "started_at": "2026-05-07T17:38:22Z"
+    },
+    {
+      "rank": 20,
+      "title": "sasavot",
+      "stream_title": "МДА/ПРИКОЛ",
+      "url": "https://twitch.tv/sasavot",
+      "viewers": 14191,
+      "game": "EA Sports FC 26",
+      "language": "ru",
+      "started_at": "2026-05-07T15:12:51Z"
+    },
+    {
+      "rank": 21,
+      "title": "VALORANT_EMEA",
+      "stream_title": "TL vs VIT - VCT EMEA 2026 Stage 1 - Playoffs",
+      "url": "https://twitch.tv/valorant_emea",
+      "viewers": 13850,
+      "game": "VALORANT",
+      "language": "en",
+      "started_at": "2026-05-07T14:15:44Z"
+    },
+    {
+      "rank": 22,
+      "title": "加藤純一うん〇ちゃん",
+      "stream_title": "ちょっとOWやって寝る",
+      "url": "https://twitch.tv/kato_junichi0817",
+      "viewers": 13731,
+      "game": "Overwatch",
+      "language": "ja",
+      "started_at": "2026-05-07T15:31:04Z"
+    },
+    {
+      "rank": 23,
+      "title": "Quin69",
+      "stream_title": "[!DROPS]🚨PoE2 0.5 LIVESTREAM = TODAY🚨BIGGEST PATCH EVER RELEASED WORLDWIDE???🚨10/10 btw(hcssf)🚨",
+      "url": "https://twitch.tv/quin69",
+      "viewers": 13538,
+      "game": "Path of Exile 2",
+      "language": "en",
+      "started_at": "2026-05-07T15:16:46Z"
+    },
+    {
+      "rank": 24,
+      "title": "juansguarnizo",
+      "stream_title": "QSMP 2 / Día 32: Jueves de Lechita Superheroico (DISFRAZ IRL TAMBIÉN) 🦸‍♂️",
+      "url": "https://twitch.tv/juansguarnizo",
+      "viewers": 12969,
+      "game": "QSMP",
+      "language": "es",
+      "started_at": "2026-05-07T16:45:26Z"
+    },
+    {
+      "rank": 25,
+      "title": "Kamet0",
+      "stream_title": "PRE LIVE | ON DISCUTE AVANT PARIS RP A 21H30 (!match) (!bluerising)",
+      "url": "https://twitch.tv/kamet0",
+      "viewers": 12816,
+      "game": "Just Chatting",
+      "language": "fr",
+      "started_at": "2026-05-07T18:29:54Z"
+    }
+  ]
 }
