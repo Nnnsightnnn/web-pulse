@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-05-07T11:28:38.394Z",
+  "generated_at": "2026-05-07T19:02:00.157Z",
   "sources": {
     "wikipedia": {
       "source": "wikipedia",
       "label": "Wikipedia — most read yesterday",
-      "fetched_at": "2026-05-07T11:28:36.749Z",
+      "fetched_at": "2026-05-07T19:01:59.402Z",
       "data_date": "2026-05-06",
       "items": [
         {
@@ -162,496 +162,487 @@
     "hackernews": {
       "source": "hackernews",
       "label": "Hacker News — top stories",
-      "fetched_at": "2026-05-07T11:28:36.999Z",
+      "fetched_at": "2026-05-07T19:01:59.761Z",
       "items": [
         {
           "rank": 1,
-          "title": "Valve releases Steam Controller CAD files under Creative Commons license",
-          "url": "https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license",
-          "hn_url": "https://news.ycombinator.com/item?id=48037555",
-          "score": 1482,
-          "comments": 482,
-          "author": "haunter"
+          "title": "The map that keeps Burning Man honest",
+          "url": "https://www.not-ship.com/burning-man-moop/",
+          "hn_url": "https://news.ycombinator.com/item?id=48049653",
+          "score": 380,
+          "comments": 171,
+          "author": "speckx"
         },
         {
           "rank": 2,
-          "title": "Appearing productive in the workplace",
-          "url": "https://nooneshappy.com/article/appearing-productive-in-the-workplace/",
-          "hn_url": "https://news.ycombinator.com/item?id=48038001",
-          "score": 1242,
-          "comments": 483,
-          "author": "diebillionaires"
+          "title": "Agents need control flow, not more prompts",
+          "url": "https://bsuh.bearblog.dev/agents-need-control-flow/",
+          "hn_url": "https://news.ycombinator.com/item?id=48051562",
+          "score": 94,
+          "comments": 45,
+          "author": "bsuh"
         },
         {
           "rank": 3,
-          "title": "SQLite Is a Library of Congress Recommended Storage Format",
-          "url": "https://sqlite.org/locrsf.html",
-          "hn_url": "https://news.ycombinator.com/item?id=48042434",
-          "score": 297,
-          "comments": 79,
-          "author": "whatisabcdefgh"
+          "title": "AlphaEvolve: Gemini-powered coding agent scaling impact across fields",
+          "url": "https://deepmind.google/blog/alphaevolve-impact/",
+          "hn_url": "https://news.ycombinator.com/item?id=48050278",
+          "score": 173,
+          "comments": 64,
+          "author": "berlianta"
         },
         {
           "rank": 4,
-          "title": "Agent-harness-kit scaffolding for multi-agent workflows (MCP, provider-agnostic)",
-          "url": "https://ahk.cardor.dev",
-          "hn_url": "https://news.ycombinator.com/item?id=48047826",
-          "score": 5,
-          "comments": 0,
-          "author": "enmanuelmag"
+          "title": "DeepSeek 4 Flash local inference engine for Metal",
+          "url": "https://github.com/antirez/ds4",
+          "hn_url": "https://news.ycombinator.com/item?id=48050751",
+          "score": 122,
+          "comments": 35,
+          "author": "tamnd"
         },
         {
           "rank": 5,
-          "title": "Boris Cherny: TI-83 Plus Basic Programming Tutorial (2004)",
-          "url": "https://www.ticalc.org/programming/columns/83plus-bas/cherny/",
-          "hn_url": "https://news.ycombinator.com/item?id=48014521",
-          "score": 28,
-          "comments": 11,
-          "author": "suoken"
+          "title": "Natural Language Autoencoders: Turning Claude's Thoughts into Text",
+          "url": "https://www.anthropic.com/research/natural-language-autoencoders",
+          "hn_url": "https://news.ycombinator.com/item?id=48052537",
+          "score": 27,
+          "comments": 7,
+          "author": "instagraham"
         },
         {
           "rank": 6,
-          "title": "Permacomputing Principles",
-          "url": "https://permacomputing.net/principles/",
-          "hn_url": "https://news.ycombinator.com/item?id=48044638",
-          "score": 157,
-          "comments": 79,
-          "author": "andsoitis"
+          "title": "Child marriages plunged when girls stayed in school in Nigeria",
+          "url": "https://www.nature.com/articles/d41586-026-00720-8",
+          "hn_url": "https://news.ycombinator.com/item?id=48049208",
+          "score": 253,
+          "comments": 165,
+          "author": "surprisetalk"
         },
         {
           "rank": 7,
-          "title": "Diskless Linux boot using ZFS, iSCSI and PXE",
-          "url": "https://aniket.foo/posts/20260505-netboot/",
-          "hn_url": "https://news.ycombinator.com/item?id=48045012",
-          "score": 108,
-          "comments": 55,
-          "author": "stereo-highway"
+          "title": "Chrome removes claim of On-device Al not sending data to Google Servers",
+          "url": "https://old.reddit.com/r/chrome/comments/1t5qayz/chrome_removes_claim_of_ondevice_al_not_sending/",
+          "hn_url": "https://news.ycombinator.com/item?id=48050964",
+          "score": 212,
+          "comments": 71,
+          "author": "newsoftheday"
         },
         {
           "rank": 8,
-          "title": "Photoshop's challenges with focus, pt. 2",
-          "url": "https://unsung.aresluna.org/photoshops-challenges-with-focus-pt-2/",
-          "hn_url": "https://news.ycombinator.com/item?id=48013750",
-          "score": 51,
-          "comments": 16,
-          "author": "frizlab"
+          "title": "PySimpleGUI 6",
+          "url": "https://github.com/PySimpleGUI/PySimpleGUI",
+          "hn_url": "https://news.ycombinator.com/item?id=48026412",
+          "score": 53,
+          "comments": 15,
+          "author": "geophph"
         },
         {
           "rank": 9,
-          "title": "Vibe coding and agentic engineering are getting closer than I'd like",
-          "url": "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/",
-          "hn_url": "https://news.ycombinator.com/item?id=48037128",
-          "score": 628,
-          "comments": 680,
-          "author": "e12e"
+          "title": "I want to live like Costco people",
+          "url": "https://tastecooking.com/i-want-to-live-like-costco-people/",
+          "hn_url": "https://news.ycombinator.com/item?id=48050499",
+          "score": 69,
+          "comments": 160,
+          "author": "speckx"
         },
         {
           "rank": 10,
-          "title": "Chevrolet Performance eCrate package (400v/200hp)",
-          "url": "https://www.chevrolet.com/performance-parts/crate-engines/ecrate",
-          "hn_url": "https://news.ycombinator.com/item?id=48012649",
-          "score": 60,
-          "comments": 29,
-          "author": "mindcrime"
+          "title": "OpenBSD Stories: The closest thing to cute kittens (OpenBSD/zaurus)",
+          "url": "http://miod.online.fr/software/openbsd/stories/zaurus1.html",
+          "hn_url": "https://news.ycombinator.com/item?id=48040465",
+          "score": 32,
+          "comments": 5,
+          "author": "zdw"
         },
         {
           "rank": 11,
-          "title": "ZAYA1-8B: An 8B Moe Model with 760M Active Params Matching DeepSeek-R1 on Math",
-          "url": "https://firethering.com/zaya1-8b-open-source-math-coding-model/",
-          "hn_url": "https://news.ycombinator.com/item?id=48047082",
-          "score": 20,
-          "comments": 19,
-          "author": "steveharing1"
+          "title": "RaTeX: KaTeX-compatible LaTeX rendering engine in pure Rust",
+          "url": "https://ratex.lites.dev/",
+          "hn_url": "https://news.ycombinator.com/item?id=48010729",
+          "score": 122,
+          "comments": 75,
+          "author": "atilimcetin"
         },
         {
           "rank": 12,
-          "title": "ProgramBench: Can Language Models Rebuild Programs from Scratch?",
-          "url": "https://arxiv.org/abs/2605.03546",
-          "hn_url": "https://news.ycombinator.com/item?id=48045174",
-          "score": 64,
-          "comments": 36,
-          "author": "jonbaer"
+          "title": "Printing Blogs",
+          "url": "https://fi-le.net/print/",
+          "hn_url": "https://news.ycombinator.com/item?id=48029732",
+          "score": 17,
+          "comments": 2,
+          "author": "fi-le"
         },
         {
           "rank": 13,
-          "title": "RSS feeds send me more traffic than Google",
-          "url": "https://shkspr.mobi/blog/2026/05/rss-feeds-send-me-more-traffic-than-google/",
-          "hn_url": "https://news.ycombinator.com/item?id=48043964",
-          "score": 131,
-          "comments": 29,
-          "author": "SpyCoder77"
+          "title": "The Self-Cancelling Subscription",
+          "url": "https://predr.ag/blog/the-self-cancelling-subscription/",
+          "hn_url": "https://news.ycombinator.com/item?id=48049764",
+          "score": 100,
+          "comments": 43,
+          "author": "surprisetalk"
         },
         {
           "rank": 14,
-          "title": "The brave souls who bought a used, 340k-mile rental camper van",
-          "url": "https://www.thedrive.com/news/meet-the-brave-souls-who-bought-a-used-340000-mile-rental-camper-van",
-          "hn_url": "https://news.ycombinator.com/item?id=48026710",
-          "score": 10,
+          "title": "Principles for agent-native CLIs",
+          "url": "https://twitter.com/trevin/status/2051316002730991795",
+          "hn_url": "https://news.ycombinator.com/item?id=48052333",
+          "score": 8,
           "comments": 0,
-          "author": "PaulHoule"
+          "author": "blumpy22"
         },
         {
           "rank": 15,
-          "title": "Show HN: Trust – Coding Rust like it's 1989",
-          "url": "https://github.com/wojtczyk/trust",
-          "hn_url": "https://news.ycombinator.com/item?id=48045939",
-          "score": 36,
-          "comments": 11,
-          "author": "wojtczyk"
+          "title": "MPEG-2 Transport Stream Packaging for Media over QUIC Transport",
+          "url": "https://www.ietf.org/archive/id/draft-gregoire-moq-msfts-00.html",
+          "hn_url": "https://news.ycombinator.com/item?id=48049963",
+          "score": 37,
+          "comments": 9,
+          "author": "mondainx"
         },
         {
           "rank": 16,
-          "title": "SingleRide: Longest route on NYC Subway without visiting the same station twice",
-          "url": "https://singleride.nyc/",
-          "hn_url": "https://news.ycombinator.com/item?id=48029261",
-          "score": 21,
-          "comments": 9,
-          "author": "TMWNN"
+          "title": "Motherboard sales 'collapse' amid unprecedented shortages fueled by AI",
+          "url": "https://www.tomshardware.com/pc-components/motherboards/motherboard-sales-collapse-by-more-than-25-percent-as-chipmakers-strangle-enthusiast-pc-market-to-build-more-ai-chips-asus-projected-to-sell-5-million-fewer-boards-in-2025-gigabyte-msi-and-asrock-also-expected-to-see-reduced-sales-numbers",
+          "hn_url": "https://news.ycombinator.com/item?id=48050540",
+          "score": 151,
+          "comments": 146,
+          "author": "speckx"
         },
         {
           "rank": 17,
-          "title": "Making LLM Training Faster with Unsloth and NVIDIA",
-          "url": "https://unsloth.ai/blog/nvidia-collab",
-          "hn_url": "https://news.ycombinator.com/item?id=48046397",
-          "score": 58,
-          "comments": 9,
-          "author": "segmenta"
+          "title": "SQLite Is a Library of Congress Recommended Storage Format",
+          "url": "https://sqlite.org/locrsf.html",
+          "hn_url": "https://news.ycombinator.com/item?id=48042434",
+          "score": 559,
+          "comments": 169,
+          "author": "whatisabcdefgh"
         },
         {
           "rank": 18,
-          "title": "Show HN: Agent-skills-eval – Test whether Agent Skills improve outputs",
-          "url": "https://github.com/darkrishabh/agent-skills-eval",
-          "hn_url": "https://news.ycombinator.com/item?id=48046023",
-          "score": 28,
-          "comments": 5,
-          "author": "darkrishabh"
+          "title": "I switched from Mac to a Lenovo Chromebook",
+          "url": "https://blog.johnozbay.com/i-left-apples-ecosystem-for-a-lenovo-chromebook-and-you-can-too.html",
+          "hn_url": "https://news.ycombinator.com/item?id=48051025",
+          "score": 72,
+          "comments": 94,
+          "author": "speckx"
         },
         {
           "rank": 19,
-          "title": "Google Cloud fraud defense, the next evolution of reCAPTCHA",
-          "url": "https://cloud.google.com/blog/products/identity-security/introducing-google-cloud-fraud-defense-the-next-evolution-of-recaptcha/",
-          "hn_url": "https://news.ycombinator.com/item?id=48039362",
-          "score": 318,
-          "comments": 326,
-          "author": "unforgivenpasta"
+          "title": "How Cloudflare responded to the “Copy Fail” Linux vulnerability",
+          "url": "https://blog.cloudflare.com/copy-fail-linux-vulnerability-mitigation/",
+          "hn_url": "https://news.ycombinator.com/item?id=48049160",
+          "score": 59,
+          "comments": 54,
+          "author": "mobeigi"
         },
         {
           "rank": 20,
-          "title": "From Supabase to Clerk to Better Auth",
-          "url": "https://blog.val.town/better-auth",
-          "hn_url": "https://news.ycombinator.com/item?id=48038827",
-          "score": 265,
-          "comments": 193,
-          "author": "stevekrouse"
+          "title": "Brazil's Pix Payment System Faces Pressure from Visa and Mastercard",
+          "url": "https://www.elciudadano.com/en/brazils-pix-payment-system-faces-pressure-from-visa-and-mastercard/04/04/",
+          "hn_url": "https://news.ycombinator.com/item?id=48052371",
+          "score": 32,
+          "comments": 18,
+          "author": "wslh"
         },
         {
           "rank": 21,
-          "title": "What I learned making an app for my family",
-          "url": "https://mendelgreenberg.com/posts/ourcar/",
-          "hn_url": "https://news.ycombinator.com/item?id=48036190",
-          "score": 62,
-          "comments": 36,
-          "author": "chabad360"
+          "title": "Show HN: Stage CLI – an easier way of reading your AI generated changes locally",
+          "url": "https://github.com/ReviewStage/stage-cli",
+          "hn_url": "https://news.ycombinator.com/item?id=48050732",
+          "score": 11,
+          "comments": 6,
+          "author": "cpan22"
         },
         {
           "rank": 22,
-          "title": "Show HN: Hallucinopedia",
-          "url": "http://halupedia.com/",
-          "hn_url": "https://news.ycombinator.com/item?id=48038257",
-          "score": 239,
-          "comments": 215,
-          "author": "bstrama"
+          "title": "OurCar: What I learned making an app for my family",
+          "url": "https://mendelgreenberg.com/posts/ourcar/",
+          "hn_url": "https://news.ycombinator.com/item?id=48036190",
+          "score": 75,
+          "comments": 53,
+          "author": "chabad360"
         },
         {
           "rank": 23,
-          "title": "Pen pal programs endure in a digital age",
-          "url": "https://apnews.com/article/pen-pals-letters-comeback-bc87e1b9c229665bafd368e19751d6ca",
-          "hn_url": "https://news.ycombinator.com/item?id=48032069",
-          "score": 52,
-          "comments": 11,
-          "author": "petethomas"
+          "title": "Speedup in Lattice Boltzmann Cylinder Flow",
+          "url": "https://github.com/alikamp/Parks-KPBM-Scaling",
+          "hn_url": "https://news.ycombinator.com/item?id=48012342",
+          "score": 40,
+          "comments": 3,
+          "author": "kauai1"
         },
         {
           "rank": 24,
-          "title": "Community firmware for the Xteink X4 e-paper reader",
-          "url": "https://github.com/crosspoint-reader/crosspoint-reader",
-          "hn_url": "https://news.ycombinator.com/item?id=48021901",
-          "score": 110,
-          "comments": 33,
-          "author": "dmos62"
-        },
-        {
-          "rank": 25,
-          "title": "The Mathematical Dance Inside Plant Cells",
-          "url": "https://www.quantamagazine.org/the-hidden-mathematical-dance-inside-plant-cells-20260504/",
-          "hn_url": "https://news.ycombinator.com/item?id=48019414",
-          "score": 50,
-          "comments": 2,
-          "author": "isaacfrond"
+          "title": "Show HN: TRUST – Coding Rust like it's 1989",
+          "url": "https://github.com/wojtczyk/trust",
+          "hn_url": "https://news.ycombinator.com/item?id=48045939",
+          "score": 82,
+          "comments": 54,
+          "author": "wojtczyk"
         }
       ]
     },
     "reddit": {
       "source": "reddit",
       "label": "Reddit — r/all, past hour",
-      "fetched_at": "2026-05-07T11:28:37.323Z",
+      "fetched_at": "2026-05-07T19:01:59.890Z",
       "items": [
         {
           "rank": 1,
-          "title": "Animeirl",
-          "url": "https://reddit.com/r/anime_irl/comments/1t66iib/animeirl/",
-          "external_url": "https://i.redd.it/exv36sk50pzg1.jpeg",
-          "subreddit": "r/anime_irl",
-          "score": 1100,
-          "comments": 24,
-          "author": "EfficiencySerious200"
+          "title": "The Art of the Short",
+          "url": "https://reddit.com/r/wallstreetbets/comments/1t6iuxc/the_art_of_the_short/",
+          "external_url": "https://i.redd.it/kpc4yetacrzg1.jpeg",
+          "subreddit": "r/wallstreetbets",
+          "score": 1623,
+          "comments": 75,
+          "author": "FancyAd9588"
         },
         {
           "rank": 2,
-          "title": "New library dedicated to Epstein files opens in New York with 3.5 million pages",
-          "url": "https://reddit.com/r/nottheonion/comments/1t66ka1/new_library_dedicated_to_epstein_files_opens_in/",
-          "external_url": "https://www.themirror.com/news/us-news/epstein-files-exhibit-donald-trump-1825960",
-          "subreddit": "r/nottheonion",
-          "score": 761,
-          "comments": 7,
-          "author": "smashedpootatoes"
+          "title": "That age gap though",
+          "url": "https://reddit.com/r/MurderedByWords/comments/1t6iktd/that_age_gap_though/",
+          "external_url": "https://i.redd.it/sjqjtazjarzg1.jpeg",
+          "subreddit": "r/MurderedByWords",
+          "score": 1615,
+          "comments": 102,
+          "author": "TripShrooms"
         },
         {
           "rank": 3,
-          "title": "The Habsburg experience",
-          "url": "https://reddit.com/r/HistoryMemes/comments/1t66np0/the_habsburg_experience/",
-          "external_url": "https://i.redd.it/8oe6co4k1pzg1.jpeg",
-          "subreddit": "r/HistoryMemes",
-          "score": 686,
-          "comments": 20,
-          "author": "Kapanash"
+          "title": "Just be patient",
+          "url": "https://reddit.com/r/facepalm/comments/1t6itqx/just_be_patient/",
+          "external_url": "https://v.redd.it/oxqcobk3crzg1",
+          "subreddit": "r/facepalm",
+          "score": 1453,
+          "comments": 115,
+          "author": "TheTitanCoeus"
         },
         {
           "rank": 4,
-          "title": "One of the coolest painting techniques I’ve seen",
-          "url": "https://reddit.com/r/nextfuckinglevel/comments/1t66p4y/one_of_the_coolest_painting_techniques_ive_seen/",
-          "external_url": "https://v.redd.it/prffr1ms1pzg1",
-          "subreddit": "r/nextfuckinglevel",
-          "score": 505,
-          "comments": 28,
-          "author": "North-Guitar-1781"
+          "title": "Melléthei-Barna Márton: Bejelentés - lemondok a miniszteri jelöltségről",
+          "url": "https://reddit.com/r/hungary/comments/1t6ipmm/mellétheibarna_márton_bejelentés_lemondok_a/",
+          "external_url": null,
+          "subreddit": "r/hungary",
+          "score": 954,
+          "comments": 319,
+          "author": "vivuss77"
         },
         {
           "rank": 5,
-          "title": "Bro really tried asking grok",
-          "url": "https://reddit.com/r/MurderedByWords/comments/1t679af/bro_really_tried_asking_grok/",
-          "external_url": "https://i.redd.it/rok684xu6pzg1.jpeg",
-          "subreddit": "r/MurderedByWords",
-          "score": 582,
-          "comments": 12,
-          "author": "ViceElysium"
+          "title": "Cross your fingers yall",
+          "url": "https://reddit.com/r/WhitePeopleTwitter/comments/1t6iixo/cross_your_fingers_yall/",
+          "external_url": "https://i.redd.it/gsr4poa8arzg1.jpeg",
+          "subreddit": "r/WhitePeopleTwitter",
+          "score": 937,
+          "comments": 102,
+          "author": "Medium_Proof7304"
         },
         {
           "rank": 6,
-          "title": "The lady and her little man",
-          "url": "https://reddit.com/r/confusing_perspective/comments/1t66tvr/the_lady_and_her_little_man/",
-          "external_url": "https://i.redd.it/j3gi6v553pzg1.jpeg",
-          "subreddit": "r/confusing_perspective",
-          "score": 408,
-          "comments": 11,
-          "author": "Genesis_the_god_"
+          "title": "3 years living as a woman today 🏳️‍⚧️🥰 (or an elf)",
+          "url": "https://reddit.com/r/WitchesVsPatriarchy/comments/1t6ibqp/3_years_living_as_a_woman_today_or_an_elf/",
+          "external_url": "https://i.redd.it/e8eevevz8rzg1.jpeg",
+          "subreddit": "r/WitchesVsPatriarchy",
+          "score": 681,
+          "comments": 25,
+          "author": "Last_Routine_7863"
         },
         {
           "rank": 7,
-          "title": "ich😷iel",
-          "url": "https://reddit.com/r/ich_iel/comments/1t66mb1/ichiel/",
-          "external_url": "https://i.redd.it/w3624p341pzg1.png",
-          "subreddit": "r/ich_iel",
-          "score": 399,
-          "comments": 35,
-          "author": "ReasonableTough8767"
-        },
-        {
-          "rank": 8,
-          "title": "Bro just casually committed one of the most evil acts in the entire show",
-          "url": "https://reddit.com/r/TheBoys/comments/1t66y6v/bro_just_casually_committed_one_of_the_most_evil/",
-          "external_url": "https://i.redd.it/42l187h64pzg1.jpeg",
-          "subreddit": "r/TheBoys",
-          "score": 394,
-          "comments": 140,
-          "author": "Aromatic-Echo-6605"
-        },
-        {
-          "rank": 9,
-          "title": "The heart of each religion.",
-          "url": "https://reddit.com/r/antimeme/comments/1t66urd/the_heart_of_each_religion/",
-          "external_url": "https://i.redd.it/yxsywl8d3pzg1.jpeg",
-          "subreddit": "r/antimeme",
-          "score": 393,
-          "comments": 74,
-          "author": "Equivalent-Adagio104"
-        },
-        {
-          "rank": 10,
-          "title": "Average Isaac player seeing Black Candle",
-          "url": "https://reddit.com/r/bindingofisaac/comments/1t66tmr/average_isaac_player_seeing_black_candle/",
-          "external_url": "https://i.redd.it/fvmr7ka23pzg1.png",
-          "subreddit": "r/bindingofisaac",
-          "score": 354,
-          "comments": 9,
-          "author": "Human_Web_6845"
-        },
-        {
-          "rank": 11,
-          "title": "Scientists use ultrasound to destroy influenza A and COVID-19 viruses without damaging human cells. The phenomenon, known as acoustic resonance, causes structural changes in viral particles until they rupture and become inactivated. It paves the way for new treatments against other viral infections.",
-          "url": "https://reddit.com/r/science/comments/1t66yq5/scientists_use_ultrasound_to_destroy_influenza_a/",
-          "external_url": "https://agencia.fapesp.br/scientists-use-ultrasound-to-destroy-influenza-a-and-covid-19-viruses-without-damaging-human-cells/57968",
-          "subreddit": "r/science",
-          "score": 375,
-          "comments": 24,
-          "author": "mvea"
-        },
-        {
-          "rank": 12,
-          "title": "James Cameron and Walt Disney Company Sued Over Unauthorized Use of Actress’ Likeness in ‘Avatar’",
-          "url": "https://reddit.com/r/movies/comments/1t66xn7/james_cameron_and_walt_disney_company_sued_over/",
-          "external_url": "https://variety.com/2026/film/news/james-cameron-sued-avatar-qorianka-kilcher-1236740068/",
-          "subreddit": "r/movies",
-          "score": 338,
-          "comments": 89,
-          "author": "tylerthe-theatre"
-        },
-        {
-          "rank": 13,
-          "title": "A conference dealing with formulation of SOP for peaceful coordination",
-          "url": "https://reddit.com/r/AnimalsBeingDerps/comments/1t6726v/a_conference_dealing_with_formulation_of_sop_for/",
-          "external_url": "https://v.redd.it/oz7mjq865pzg1",
-          "subreddit": "r/AnimalsBeingDerps",
-          "score": 316,
-          "comments": 5,
-          "author": "TimeCity1687"
-        },
-        {
-          "rank": 14,
-          "title": "Go vote. Apathy gets you nuffin",
-          "url": "https://reddit.com/r/GreatBritishMemes/comments/1t66z18/go_vote_apathy_gets_you_nuffin/",
-          "external_url": "https://i.redd.it/hiro8r5b4pzg1.png",
-          "subreddit": "r/GreatBritishMemes",
-          "score": 306,
-          "comments": 37,
-          "author": "ChewiesLipstickWilly"
-        },
-        {
-          "rank": 15,
-          "title": "What do you think of the media narrative?",
-          "url": "https://reddit.com/r/AskBrits/comments/1t66o3v/what_do_you_think_of_the_media_narrative/",
-          "external_url": "https://v.redd.it/r5ywfwmm1pzg1",
-          "subreddit": "r/AskBrits",
-          "score": 266,
-          "comments": 300,
-          "author": "Fit_Search_4751"
-        },
-        {
-          "rank": 16,
-          "title": "The number of times this guy had to edit it 😭😭😭",
-          "url": "https://reddit.com/r/teenagers/comments/1t66iwr/the_number_of_times_this_guy_had_to_edit_it/",
-          "external_url": "https://i.redd.it/naequrja0pzg1.jpeg",
-          "subreddit": "r/teenagers",
-          "score": 275,
-          "comments": 67,
-          "author": "Salty_Exit_7174"
-        },
-        {
-          "rank": 17,
-          "title": "Cancer got cancer",
-          "url": "https://reddit.com/r/clevercomebacks/comments/1t674n6/cancer_got_cancer/",
-          "external_url": "https://i.redd.it/p0lrusas5pzg1.jpeg",
-          "subreddit": "r/clevercomebacks",
-          "score": 329,
-          "comments": 23,
+          "title": "Underage Madlad",
+          "url": "https://reddit.com/r/NonPoliticalTwitter/comments/1t6ilxw/underage_madlad/",
+          "external_url": "https://i.redd.it/lrorh4uqarzg1.jpeg",
+          "subreddit": "r/NonPoliticalTwitter",
+          "score": 640,
+          "comments": 21,
           "author": "asa_no_kenny"
         },
         {
+          "rank": 8,
+          "title": "John Roberts likes being political. He just doesn't like the accountability that comes with it.",
+          "url": "https://reddit.com/r/law/comments/1t6iuxw/john_roberts_likes_being_political_he_just_doesnt/",
+          "external_url": "https://www.lawdork.com/p/john-roberts-likes-being-political",
+          "subreddit": "r/law",
+          "score": 621,
+          "comments": 20,
+          "author": "DoremusJessup"
+        },
+        {
+          "rank": 9,
+          "title": "This amazing man celebrates his 100th birthday today!",
+          "url": "https://reddit.com/r/MadeMeSmile/comments/1t6incv/this_amazing_man_celebrates_his_100th_birthday/",
+          "external_url": "https://i.redd.it/uj8bkswzarzg1.jpeg",
+          "subreddit": "r/MadeMeSmile",
+          "score": 595,
+          "comments": 36,
+          "author": "ansyhrrian"
+        },
+        {
+          "rank": 10,
+          "title": "Blue hair don’t care.",
+          "url": "https://reddit.com/r/CuratedTumblr/comments/1t6j4ju/blue_hair_dont_care/",
+          "external_url": "https://i.redd.it/xs7ldaa9drzg1.jpeg",
+          "subreddit": "r/CuratedTumblr",
+          "score": 515,
+          "comments": 43,
+          "author": "Infamous-Rutabaga-50"
+        },
+        {
+          "rank": 11,
+          "title": "Going to quit my job as soon as my coworker goes on maternity leave",
+          "url": "https://reddit.com/r/GirlDinnerDiaries/comments/1t6j4ym/going_to_quit_my_job_as_soon_as_my_coworker_goes/",
+          "external_url": "https://i.redd.it/2tzhgyx1erzg1.jpeg",
+          "subreddit": "r/GirlDinnerDiaries",
+          "score": 494,
+          "comments": 60,
+          "author": "Embarrassed_Egg_1150"
+        },
+        {
+          "rank": 12,
+          "title": "I’m sorry but Jitesh has to go",
+          "url": "https://reddit.com/r/RCB/comments/1t6im76/im_sorry_but_jitesh_has_to_go/",
+          "external_url": null,
+          "subreddit": "r/RCB",
+          "score": 349,
+          "comments": 122,
+          "author": "krabbypeity"
+        },
+        {
+          "rank": 13,
+          "title": "A tolkien cameo Legacy?!",
+          "url": "https://reddit.com/r/lotr/comments/1t6ima7/a_tolkien_cameo_legacy/",
+          "external_url": "https://i.redd.it/n4rkwyusarzg1.jpeg",
+          "subreddit": "r/lotr",
+          "score": 354,
+          "comments": 11,
+          "author": "TrickySatisfaction81"
+        },
+        {
+          "rank": 14,
+          "title": "Gotta be Mina",
+          "url": "https://reddit.com/r/Animemes/comments/1t6iihl/gotta_be_mina/",
+          "external_url": "https://i.redd.it/yzvci3m5arzg1.png",
+          "subreddit": "r/Animemes",
+          "score": 292,
+          "comments": 9,
+          "author": "Gloomy-Bridge148"
+        },
+        {
+          "rank": 15,
+          "title": "Can someone explain me pls",
+          "url": "https://reddit.com/r/memes/comments/1t6iig2/can_someone_explain_me_pls/",
+          "external_url": "https://i.redd.it/su061345arzg1.jpeg",
+          "subreddit": "r/memes",
+          "score": 293,
+          "comments": 55,
+          "author": "Radiant-Landscape-92"
+        },
+        {
+          "rank": 16,
+          "title": "Justin Jones burning a confederate flag in protest of more racially gerrymandered maps. This administration is afraid of what’s coming during midterms and is now working overtime to disenfranchise as many voters as possible!",
+          "url": "https://reddit.com/r/50501/comments/1t6iqg3/justin_jones_burning_a_confederate_flag_in/",
+          "external_url": "https://v.redd.it/bdk7f4ofbrzg1",
+          "subreddit": "r/50501",
+          "score": 273,
+          "comments": 2,
+          "author": "transcendent167"
+        },
+        {
+          "rank": 17,
+          "title": "Beautiful girl with homophobia 🩵💜",
+          "url": "https://reddit.com/r/NevernessToEverness/comments/1t6icyy/beautiful_girl_with_homophobia/",
+          "external_url": "https://i.redd.it/7rcl00q69rzg1.png",
+          "subreddit": "r/NevernessToEverness",
+          "score": 261,
+          "comments": 24,
+          "author": "TheEmptyJay"
+        },
+        {
           "rank": 18,
-          "title": "Meirl",
-          "url": "https://reddit.com/r/meirl/comments/1t66moq/meirl/",
-          "external_url": "https://i.redd.it/e9f56us91pzg1.jpeg",
-          "subreddit": "r/meirl",
-          "score": 264,
-          "comments": 3,
-          "author": "Psychological-Egg230"
+          "title": "SLD - Dwarf Fortress bonus card: Crucible of Worlds",
+          "url": "https://reddit.com/r/magicTCG/comments/1t6ilfg/sld_dwarf_fortress_bonus_card_crucible_of_worlds/",
+          "external_url": "https://i.redd.it/linws86larzg1.png",
+          "subreddit": "r/magicTCG",
+          "score": 257,
+          "comments": 42,
+          "author": "Madnoir"
         },
         {
           "rank": 19,
-          "title": "Satan's bodywash",
-          "url": "https://reddit.com/r/foundsatan/comments/1t671wm/satans_bodywash/",
-          "external_url": "https://i.redd.it/hgmuqlg55pzg1.jpeg",
-          "subreddit": "r/foundsatan",
-          "score": 274,
-          "comments": 21,
-          "author": "lynivvinyl"
+          "title": "me_irl",
+          "url": "https://reddit.com/r/me_irl/comments/1t6ig9f/me_irl/",
+          "external_url": "https://i.redd.it/lnv1ox0r9rzg1.jpeg",
+          "subreddit": "r/me_irl",
+          "score": 242,
+          "comments": 2,
+          "author": "Alone_Humor_3510"
         },
         {
           "rank": 20,
-          "title": "Gold Ship bit off more than she could chew [@nutsha2zuki]",
-          "url": "https://reddit.com/r/UmaMusume/comments/1t66v4b/gold_ship_bit_off_more_than_she_could_chew/",
-          "external_url": "https://www.reddit.com/gallery/1t66v4b",
-          "subreddit": "r/UmaMusume",
-          "score": 244,
-          "comments": 15,
-          "author": "Getserious495"
+          "title": "My [30M] wife [29F] just recently had our first child. Our sex live has taken a nose dive because I see her as a mom instead of my wife now. How do I get past this?",
+          "url": "https://reddit.com/r/BORUpdates/comments/1t6ifdi/my_30m_wife_29f_just_recently_had_our_first_child/",
+          "external_url": null,
+          "subreddit": "r/BORUpdates",
+          "score": 241,
+          "comments": 27,
+          "author": "BigONerd"
         },
         {
           "rank": 21,
-          "title": "To the girl who cried at Murdoch station",
-          "url": "https://reddit.com/r/perth/comments/1t66njf/to_the_girl_who_cried_at_murdoch_station/",
-          "external_url": null,
-          "subreddit": "r/perth",
-          "score": 232,
-          "comments": 33,
-          "author": "RonnieLeexD"
+          "title": "Tisza frakcióülés",
+          "url": "https://reddit.com/r/hungary/comments/1t6ih76/tisza_frakcióülés/",
+          "external_url": "https://i.redd.it/zasojtzv9rzg1.png",
+          "subreddit": "r/hungary",
+          "score": 238,
+          "comments": 46,
+          "author": "Beautiful-Gur5771"
         },
         {
           "rank": 22,
-          "title": "Have they put chickpeas in with my baked beans?",
-          "url": "https://reddit.com/r/CasualUK/comments/1t66jou/have_they_put_chickpeas_in_with_my_baked_beans/",
-          "external_url": "https://i.redd.it/6ip83gnh0pzg1.jpeg",
-          "subreddit": "r/CasualUK",
-          "score": 231,
-          "comments": 137,
-          "author": "Maxwells_Ag_Hammer"
+          "title": "NACHO",
+          "url": "https://reddit.com/r/oil/comments/1t6isc4/nacho/",
+          "external_url": "https://i.redd.it/tmk230rubrzg1.jpeg",
+          "subreddit": "r/oil",
+          "score": 239,
+          "comments": 90,
+          "author": "Ninefingerzs"
         },
         {
           "rank": 23,
-          "title": "Cuck Woman",
-          "url": "https://reddit.com/r/antimeme/comments/1t66l6p/cuck_woman/",
-          "external_url": "https://i.redd.it/gbi0qxgv0pzg1.jpeg",
-          "subreddit": "r/antimeme",
-          "score": 241,
-          "comments": 15,
-          "author": "Byakuyaakuchikii"
+          "title": "What’s the most soul-crushing part of adulthood?",
+          "url": "https://reddit.com/r/AskReddit/comments/1t6ik6n/whats_the_most_soulcrushing_part_of_adulthood/",
+          "external_url": null,
+          "subreddit": "r/AskReddit",
+          "score": 240,
+          "comments": 411,
+          "author": "ArthurCastus"
         },
         {
           "rank": 24,
-          "title": "Chris Smalls projected onto Jeff bezos's penthouse during the met gala protest",
-          "url": "https://reddit.com/r/BlackPeopleofReddit/comments/1t675cu/chris_smalls_projected_onto_jeff_bezoss_penthouse/",
-          "external_url": "https://v.redd.it/9p6ziqpx5pzg1",
-          "subreddit": "r/BlackPeopleofReddit",
-          "score": 260,
-          "comments": 6,
-          "author": "Mr_microplastics_Yum"
+          "title": "rare pupper doing a smile",
+          "url": "https://reddit.com/r/rarepuppers/comments/1t6iewm/rare_pupper_doing_a_smile/",
+          "external_url": "https://i.redd.it/txd2qiof9rzg1.jpeg",
+          "subreddit": "r/rarepuppers",
+          "score": 243,
+          "comments": 2,
+          "author": "vee_chicago"
         },
         {
           "rank": 25,
-          "title": "[OC] My baby looks like a monk",
-          "url": "https://reddit.com/r/MadeMeSmile/comments/1t66qnr/oc_my_baby_looks_like_a_monk/",
-          "external_url": "https://www.reddit.com/gallery/1t66qnr",
-          "subreddit": "r/MadeMeSmile",
-          "score": 231,
-          "comments": 40,
-          "author": "abs-cynical"
+          "title": "260508 Claudia Sheinbaum (President of Mexico) on TikTok with BTS",
+          "url": "https://reddit.com/r/bangtan/comments/1t6in23/260508_claudia_sheinbaum_president_of_mexico_on/",
+          "external_url": "https://v.redd.it/f2i10bpwarzg1",
+          "subreddit": "r/bangtan",
+          "score": 235,
+          "comments": 19,
+          "author": "mcfw31"
         }
       ]
     },
     "github": {
       "source": "github",
       "label": "GitHub — trending today",
-      "fetched_at": "2026-05-07T11:28:36.894Z",
+      "fetched_at": "2026-05-07T19:01:59.460Z",
       "items": [
         {
           "rank": 1,
@@ -659,9 +650,9 @@
           "url": "https://github.com/anthropics/financial-services",
           "description": "",
           "language": "Python",
-          "stars_today": 641,
-          "stars": 9752,
-          "forks": 1317
+          "stars_today": 1367,
+          "stars": 11072,
+          "forks": 1445
         },
         {
           "rank": 2,
@@ -669,9 +660,9 @@
           "url": "https://github.com/Hmbown/DeepSeek-TUI",
           "description": "Coding agent for DeepSeek models that runs in your terminal",
           "language": "Rust",
-          "stars_today": 6175,
-          "stars": 17168,
-          "forks": 1307
+          "stars_today": 5787,
+          "stars": 18370,
+          "forks": 1389
         },
         {
           "rank": 3,
@@ -680,8 +671,8 @@
           "description": "DFlash: Block Diffusion for Flash Speculative Decoding",
           "language": "Python",
           "stars_today": 654,
-          "stars": 3240,
-          "forks": 220
+          "stars": 3415,
+          "forks": 241
         },
         {
           "rank": 4,
@@ -689,9 +680,9 @@
           "url": "https://github.com/InsForge/InsForge",
           "description": "InsForge is a Postgres-based backend with auth, storage, compute, hosting, and AI gateway. Built for coding agents.",
           "language": "TypeScript",
-          "stars_today": 230,
-          "stars": 8665,
-          "forks": 718
+          "stars_today": 459,
+          "stars": 8777,
+          "forks": 727
         },
         {
           "rank": 5,
@@ -699,9 +690,9 @@
           "url": "https://github.com/LearningCircuit/local-deep-research",
           "description": "~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encrypted.",
           "language": "Python",
-          "stars_today": 532,
-          "stars": 5961,
-          "forks": 532
+          "stars_today": 564,
+          "stars": 6146,
+          "forks": 544
         },
         {
           "rank": 6,
@@ -709,9 +700,9 @@
           "url": "https://github.com/addyosmani/agent-skills",
           "description": "Production-grade engineering skills for AI coding agents.",
           "language": "Shell",
-          "stars_today": 800,
-          "stars": 32146,
-          "forks": 3740
+          "stars_today": 3058,
+          "stars": 32680,
+          "forks": 3786
         },
         {
           "rank": 7,
@@ -720,8 +711,8 @@
           "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
           "language": "Python",
           "stars_today": 953,
-          "stars": 29154,
-          "forks": 2470
+          "stars": 29422,
+          "forks": 2484
         },
         {
           "rank": 8,
@@ -729,9 +720,9 @@
           "url": "https://github.com/vercel-labs/open-agents",
           "description": "An open source template for building cloud agents.",
           "language": "TypeScript",
-          "stars_today": 406,
-          "stars": 4873,
-          "forks": 621
+          "stars_today": 160,
+          "stars": 4982,
+          "forks": 631
         },
         {
           "rank": 9,
@@ -739,9 +730,9 @@
           "url": "https://github.com/docusealco/docuseal",
           "description": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
           "language": "Ruby",
-          "stars_today": 774,
-          "stars": 15252,
-          "forks": 1384
+          "stars_today": 899,
+          "stars": 15477,
+          "forks": 1401
         },
         {
           "rank": 10,
@@ -749,9 +740,9 @@
           "url": "https://github.com/decolua/9router",
           "description": "🆓 Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
           "language": "JavaScript",
-          "stars_today": 130,
-          "stars": 4076,
-          "forks": 943
+          "stars_today": 249,
+          "stars": 4390,
+          "forks": 966
         },
         {
           "rank": 11,
@@ -759,9 +750,9 @@
           "url": "https://github.com/PriorLabs/TabPFN",
           "description": "⚡ TabPFN: Foundation Model for Tabular Data ⚡",
           "language": "Python",
-          "stars_today": 218,
-          "stars": 6696,
-          "forks": 663
+          "stars_today": 233,
+          "stars": 6751,
+          "forks": 666
         },
         {
           "rank": 12,
@@ -769,9 +760,9 @@
           "url": "https://github.com/aaif-goose/goose",
           "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
           "language": "Rust",
-          "stars_today": 111,
-          "stars": 44256,
-          "forks": 4535
+          "stars_today": 431,
+          "stars": 44411,
+          "forks": 4550
         },
         {
           "rank": 13,
@@ -780,15 +771,15 @@
           "description": "OpenReel Video - Professional browser-based video editor. Open source CapCut alternative. 100% browser-based, no installation, no cloud uploads, no watermarks.",
           "language": "TypeScript",
           "stars_today": 208,
-          "stars": 1090,
-          "forks": 194
+          "stars": 1501,
+          "forks": 237
         }
       ]
     },
     "google-trends": {
       "source": "google-trends",
       "label": "Google Trends — trending searches",
-      "fetched_at": "2026-05-07T11:28:38.381Z",
+      "fetched_at": "2026-05-07T19:01:59.730Z",
       "countries": [
         "US",
         "GB",
@@ -800,659 +791,1027 @@
       "items": [
         {
           "rank": 1,
-          "title": "今井翼",
+          "title": "al-shabab vs al-nassr",
           "geos": [
-            "JP"
+            "IN",
+            "US"
           ],
-          "traffic_estimate": 5000,
-          "news_title": "今井翼がディナーショーでメッセージを届けた滝沢秀明氏との〝タッキー＆翼メモリー〟を披露「5月5日は僕と滝沢が…」",
-          "news_url": "https://news.yahoo.co.jp/articles/e500be50e553b2665588b7143c7e7b277b46f608?page=2",
-          "news_source": "Yahoo!ニュース"
+          "traffic_estimate": 15000,
+          "news_title": "Al Shabab vs Al Nassr: Saudi Pro League stats & head-to-head",
+          "news_url": "https://www.bbc.com/sport/football/live/c362e1pp2dgt",
+          "news_source": "BBC"
         },
         {
           "rank": 2,
-          "title": "when will gas prices go down",
+          "title": "ignacio buse",
           "geos": [
+            "BR",
             "US"
           ],
-          "traffic_estimate": 2000,
-          "news_title": "Trump has a ‘nuclear option’ to slash gas prices. It could backfire badly",
-          "news_url": "https://www.cnn.com/2026/05/06/business/gas-prices-trump-oil-export-ban",
-          "news_source": "CNN"
+          "traffic_estimate": 1200,
+          "news_title": "Licensable picture: Italian Open",
+          "news_url": "https://www.reutersconnect.com/item/italian-open/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNNTcxRjJNWTg",
+          "news_source": "Reuters Connect"
         },
         {
           "rank": 3,
-          "title": "mathias gidsel",
+          "title": "elias becker",
           "geos": [
             "DE"
           ],
-          "traffic_estimate": 2000,
-          "news_title": "Füchse Berlin zittern sich dramatisch ins Final Four der Champions League",
-          "news_url": "https://www.rbb24.de/sport/beitrag/2026/05/handball-champions-league-ehf-fuechse-berlin-veszprem-final-four.html",
-          "news_source": "rbb24.de"
+          "traffic_estimate": 20000,
+          "news_title": "Elias Becker – das neueste Mitglied im Klumiversum",
+          "news_url": "https://web.de/magazine/unterhaltung/tv-shows/germanys-next-topmodel/gntm-couchticker-elias-becker-star-klumiversum-42229586",
+          "news_source": "WEB.DE"
         },
         {
           "rank": 4,
-          "title": "mel c",
+          "title": "sigourney weaver",
           "geos": [
             "GB"
           ],
-          "traffic_estimate": 1000,
-          "news_title": "Album cover fails! A misspelled Melanie C – and other mistakes that caused a stir",
-          "news_url": "https://www.theguardian.com/music/2026/may/06/album-cover-fails-a-misspelled-melanie-c-and-other-mistakes-that-caused-a-stir",
-          "news_source": "The Guardian"
+          "traffic_estimate": 10000,
+          "news_title": "Sigourney Weaver revisits Aliens in reunion interview: 'It's life or death for Ripley' – exclusive",
+          "news_url": "https://www.empireonline.com/movies/news/sigourney-weaver-aliens-at-40-life-and-death-ripley-exclusive/",
+          "news_source": "Empire"
         },
         {
           "rank": 5,
-          "title": "nepal a vs scotland cricket",
+          "title": "jitesh sharma",
           "geos": [
             "IN"
           ],
-          "traffic_estimate": 1000,
-          "news_title": "Scotland name squad for CWCL2 series in Nepal",
-          "news_url": "https://www.icc-cricket.com/tournaments/icc-cricket-world-cup-league-2/news/scotland-name-squad-for-cwcl2-series-in-nepal",
-          "news_source": "ICC"
+          "traffic_estimate": 10000,
+          "news_title": "Vidarbha Premier League 2026: Jitesh Sharma-led NECO Master Blaster aim for another title",
+          "news_url": "https://www.tribuneindia.com/news/harsh-dubey/vidarbha-premier-league-2026-jitesh-sharma-led-neco-master-blaster-aim-for-another-title",
+          "news_source": "The Tribune"
         },
         {
           "rank": 6,
-          "title": "dhurandhar 2 ott release date",
-          "geos": [
-            "IN"
-          ],
-          "traffic_estimate": 1000,
-          "news_title": "‘Dhurandhar 2’ OTT release date revealed? Court case hints at streaming plans - Reports",
-          "news_url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dhurandhar-2-ott-release-date-revealed-court-case-hints-at-streaming-plans-reports/articleshow/130885266.cms",
-          "news_source": "The Times of India"
-        },
-        {
-          "rank": 7,
-          "title": "アンミカ",
+          "title": "地震",
           "geos": [
             "JP"
           ],
-          "traffic_estimate": 1000,
-          "news_title": "アンミカ 高クオリティー！「プラダを着た悪魔」コーデが話題「映画から飛び出たよう」「存在感ありすぎ」（スポニチアネックス）",
-          "news_url": "https://news.yahoo.co.jp/articles/fa2dbaaeeef30aa07653c6256f9da7778a5448c8",
+          "traffic_estimate": 10000,
+          "news_title": "",
+          "news_url": "",
+          "news_source": ""
+        },
+        {
+          "rank": 7,
+          "title": "地震速報",
+          "geos": [
+            "JP"
+          ],
+          "traffic_estimate": 10000,
+          "news_title": "【速報】関東・中部で地震 M4．2 東京、神奈川、埼玉、千葉、静岡などで揺れ 最大震度3 震源は神奈川県東部",
+          "news_url": "https://news.yahoo.co.jp/articles/13e7714f566bb383d9f0eb3b9b8917cf23821363",
           "news_source": "Yahoo!ニュース"
         },
         {
           "rank": 8,
-          "title": "jr東日本",
+          "title": "mortgage broker",
+          "geos": [
+            "US"
+          ],
+          "traffic_estimate": 5000,
+          "news_title": "Brokers First Funding Unveils Rebrand, 25 Bps Non-QM Purchase Special At California Mortgage Expo",
+          "news_url": "https://nationalmortgageprofessional.com/news/brokers-first-funding-unveils-rebrand-25-bps-non-qm-purchase-special-california-mortgage-expo",
+          "news_source": "National Mortgage Professional"
+        },
+        {
+          "rank": 9,
+          "title": "freiburg braga",
+          "geos": [
+            "DE"
+          ],
+          "traffic_estimate": 5000,
+          "news_title": "Europa League: Aufstellung da! So spielt Freiburg gegen Braga",
+          "news_url": "https://www.bild.de/sport/fussball/europa-league-aufstellung-da-so-spielt-freiburg-gegen-braga-69fcc99ecd4a28c470020003",
+          "news_source": "BILD"
+        },
+        {
+          "rank": 10,
+          "title": "jon favreau",
+          "geos": [
+            "GB"
+          ],
+          "traffic_estimate": 2000,
+          "news_title": "I Saw The 'Mandalorian and Grogu' Preview Footage — And The Trailers Are Lying",
+          "news_url": "https://www.inverse.com/entertainment/mando-grogu-preview-footage-star-wars-trailer-change",
+          "news_source": "Inverse"
+        },
+        {
+          "rank": 11,
+          "title": "vaazha 2",
+          "geos": [
+            "IN"
+          ],
+          "traffic_estimate": 2000,
+          "news_title": "'Vaazha 2' box office collection: Hashir’s film becomes blockbuster with Rs 234.46 crore worldwide; Nears",
+          "news_url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/vaazha-2-box-office-collection-hashirs-film-becomes-blockbuster-eith-rs-234-46-crore-worldwide-nears-ott-premiere/articleshow/130874772.cms",
+          "news_source": "The Times of India"
+        },
+        {
+          "rank": 12,
+          "title": "dubois vs wardley",
+          "geos": [
+            "GB"
+          ],
+          "traffic_estimate": 1000,
+          "news_title": "'I'll collect the trash' - Dubois on Wardley's bin-man jibe",
+          "news_url": "https://www.bbc.co.uk/sport/boxing/articles/c302m1m2z3qo",
+          "news_source": "BBC"
+        },
+        {
+          "rank": 13,
+          "title": "uk state pension age increase",
+          "geos": [
+            "GB"
+          ],
+          "traffic_estimate": 1000,
+          "news_title": "A bold Tony Blair Institute plan would sweep aside the state pension - how would the 'Lifespan Fund' work?",
+          "news_url": "https://www.thisismoney.co.uk/money/pensions/article-15781879/Tony-Blair-Institute-state-pension-Lifespan-Fund.html",
+          "news_source": "This is Money"
+        },
+        {
+          "rank": 14,
+          "title": "royals vs guardians",
+          "geos": [
+            "IN"
+          ],
+          "traffic_estimate": 1000,
+          "news_title": "Cleveland Guardians vs. Kansas City Royals: Game Highlights",
+          "news_url": "https://www.espn.in/video/clip/_/id/48699384",
+          "news_source": "ESPN India"
+        },
+        {
+          "rank": 15,
+          "title": "地震 速報",
           "geos": [
             "JP"
           ],
           "traffic_estimate": 1000,
-          "news_title": "中央本線などに「新型車両」投入へ E131系3両編成、2026年秋ごろデビュー",
-          "news_url": "https://www.tetsudo.com/news/4051/",
-          "news_source": "Tetsudo.com（鉄道コム）"
+          "news_title": "地震情報（2026年5月7日 06時35分 発表）",
+          "news_url": "https://www.sankei.com/disaster/earthquake/20260507063223-20260506213200000/",
+          "news_source": "産経ニュース"
         },
         {
-          "rank": 9,
-          "title": "steuerreform",
+          "rank": 16,
+          "title": "日本ケンタッキー・フライド・チキン",
+          "geos": [
+            "JP"
+          ],
+          "traffic_estimate": 1000,
+          "news_title": "ケンタッキー、オリジナルチキンなど20円値上げ。カーネルクリスピー半額/KFC会員限定キャンペーンを実施",
+          "news_url": "https://gourmet.watch.impress.co.jp/docs/news/2106679.html",
+          "news_source": "グルメ Watch"
+        },
+        {
+          "rank": 17,
+          "title": "nomeação",
+          "geos": [
+            "BR"
+          ],
+          "traffic_estimate": 1000,
+          "news_title": "INSS define atuação de 225 novos servidores em 197 agências nas cinco regiões do país",
+          "news_url": "https://extra.globo.com/economia/noticia/2026/05/inss-define-atuacao-de-225-novos-servidores-em-197-agencias-nas-cinco-regioes-do-pais.ghtml",
+          "news_source": "Extra online"
+        },
+        {
+          "rank": 18,
+          "title": "mortal kombat",
+          "geos": [
+            "BR"
+          ],
+          "traffic_estimate": 1000,
+          "news_title": "Sadovski: \"O primeiro é horroroso, mas 'Mortal Kombat II' é vibrante\"",
+          "news_url": "https://www.uol.com.br/splash/noticias/2026/05/07/enquadrado-19.ghtm",
+          "news_source": "UOL"
+        },
+        {
+          "rank": 19,
+          "title": "kenan yildiz",
           "geos": [
             "DE"
           ],
           "traffic_estimate": 1000,
-          "news_title": "(S+) Meinung: Kommentar: Die Zeit ist reif für eine Steuerwende",
-          "news_url": "https://www.spiegel.de/wirtschaft/steuer-reform-die-zeit-ist-reif-fuer-eine-wende-a-106c7d76-e4c8-4040-8b8e-dd341d4db289",
-          "news_source": "Spiegel"
-        },
-        {
-          "rank": 10,
-          "title": "pga tour",
-          "geos": [
-            "GB"
-          ],
-          "traffic_estimate": 500,
-          "news_title": "Bryson DeChambeau: American to focus on growing YouTube channel if LIV Golf fails",
-          "news_url": "https://www.bbc.co.uk/sport/golf/articles/cg5pyj9pp0go",
-          "news_source": "BBC"
-        },
-        {
-          "rank": 11,
-          "title": "retirement",
-          "geos": [
-            "GB"
-          ],
-          "traffic_estimate": 500,
-          "news_title": "Trump signs executive order expanding workers’ access to retirement plans",
-          "news_url": "https://www.cnn.com/2026/04/30/economy/trump-executive-order-new-retirement-plan-proposal",
-          "news_source": "CNN"
-        },
-        {
-          "rank": 12,
-          "title": "கூட்டணி அரசு",
-          "geos": [
-            "IN"
-          ],
-          "traffic_estimate": 500,
-          "news_title": "தவெக உடன் கூட்டணி வைத்தது காலத்தின் கட்டாயம்: காங்கிரஸ் விளக்கம்",
-          "news_url": "https://www.dailythanthi.com/tn-election-2026/alliance-with-tvk-was-a-necessity-of-the-times-congress-explains",
-          "news_source": "Daily Thanthi"
-        },
-        {
-          "rank": 13,
-          "title": "वनप्लस",
-          "geos": [
-            "IN"
-          ],
-          "traffic_estimate": 500,
-          "news_title": "इंडिया में लॉन्च हो रहे हैं नए मोबाइल OnePlus Nord CE6 और Nord CE6 Lite, यहां देखें लाइव अनाउंसमेंट",
-          "news_url": "https://www.91mobiles.com/hindi/oneplus-nord-ce-6-and-oneplus-nord-ce-6-lite-launch-in-india-live-stream/",
-          "news_source": "91Mobiles"
-        },
-        {
-          "rank": 14,
-          "title": "भारत के मुख्य चुनाव आयुक्त",
-          "geos": [
-            "IN"
-          ],
-          "traffic_estimate": 500,
-          "news_title": "चुनाव आयुक्त नियुक्त करने वाली कमिटी में CJI को भी किया जाए शामिल, SC में याचिका; क्या बोली पीठ?",
-          "news_url": "https://www.livehindustan.com/national/plea-against-exclusion-of-cji-from-election-commissioner-appointment-what-supreme-court-said-201778124676302.html",
-          "news_source": "Live Hindustan"
-        },
-        {
-          "rank": 15,
-          "title": "ವಿರಾಟ್ ಕೊಹ್ಲಿ",
-          "geos": [
-            "IN"
-          ],
-          "traffic_estimate": 500,
-          "news_title": "Amanpreet Gill Death: ಕೊಹ್ಲಿ, ಜಡೇಜ ಜೊತೆ ಆಡಿದ್ದ ಅಮನ್‌ಪ್ರೀತ್‌ ಸಿಂಗ್‌ ಗಿಲ್‌ ನಿಧನ",
-          "news_url": "https://www.prajavani.net/sports/cricket/cricketer-amanpreet-gill-dies-3965444",
-          "news_source": "Prajavani"
-        },
-        {
-          "rank": 16,
-          "title": "織田信長",
-          "geos": [
-            "JP"
-          ],
-          "traffic_estimate": 500,
-          "news_title": "闇夜に浮かぶ織田信長と安土城　青紫色の炎、しかし怪奇現象ではありません",
-          "news_url": "https://topics.smt.docomo.ne.jp/article/chuplus/region/chuplus-1247649",
-          "news_source": "ｄメニューニュース"
-        },
-        {
-          "rank": 17,
-          "title": "岡田 将生",
-          "geos": [
-            "JP"
-          ],
-          "traffic_estimate": 500,
-          "news_title": "「2人の結婚は意外すぎた」人気女優と結婚＆第1子誕生の岡田将生〝プライベート〟姿に「奥様が撮ってくれたのかな⁉」「愛溢れてる」歓喜の声",
-          "news_url": "https://nishispo.nishinippon.co.jp/article/1005692",
-          "news_source": "西スポWEB OTTO!"
-        },
-        {
-          "rank": 18,
-          "title": "鈴木奈々",
-          "geos": [
-            "JP"
-          ],
-          "traffic_estimate": 500,
-          "news_title": "サーティワン“抹茶・ティラミス・マカロン”など世界の伝統スイーツがアイスクリームに！初夏限定で",
-          "news_url": "https://www.fashion-press.net/news/146142",
-          "news_source": "ファッションプレス"
-        },
-        {
-          "rank": 19,
-          "title": "高橋英樹",
-          "geos": [
-            "JP"
-          ],
-          "traffic_estimate": 500,
-          "news_title": "「それにしても広い」高橋英樹 自宅庭の芝生を張り替えの様子を公開!緑生い茂る爽やかな空間に「出来上がりが楽しみ」と反響",
-          "news_url": "https://news.yahoo.co.jp/articles/6c9b4f57a40338d7bfb6ac0aed956a7049719946",
-          "news_source": "Yahoo!ニュース"
+          "news_title": "Kenan Yıldız için Real Madrid iddiası devam ediyor",
+          "news_url": "https://www.transfermarkt.com.tr/kenan-yildiz-icin-real-madrid-iddiasi-devam-ediyor/view/news/479033",
+          "news_source": "Transfermarkt"
         },
         {
           "rank": 20,
-          "title": "フジテレビ アナウンサー",
+          "title": "bruce willis",
           "geos": [
-            "JP"
+            "DE"
           ],
-          "traffic_estimate": 500,
-          "news_title": "宝塚を受験する！フジアナウンサー、中学時代に願書取り寄せるも書面見て断念「お門違いだった」（デイリースポーツ）",
-          "news_url": "https://news.yahoo.co.jp/articles/946f0c5e6fdce1775671bf9fabf20e78aaf33c23",
-          "news_source": "Yahoo!ニュース"
+          "traffic_estimate": 1000,
+          "news_title": "'A glorious shambles': The Bruce Willis flop that became a cult hit",
+          "news_url": "https://www.bbc.com/culture/article/20260505-hudson-hawk-the-bruce-willis-turkey-that-became-a-cult-hit",
+          "news_source": "BBC"
         },
         {
           "rank": 21,
-          "title": "ype",
+          "title": "meenu batra ice detention",
           "geos": [
-            "BR"
+            "US"
           ],
           "traffic_estimate": 500,
-          "news_title": "Anvisa suspende fabricação e determina recolhimento de produtos da marca Ypê",
-          "news_url": "https://oglobo.globo.com/economia/defesa-do-consumidor/noticia/2026/05/07/anvisa-suspende-fabricacao-e-determina-recolhimento-de-produtos-da-marca-ype.ghtml",
-          "news_source": "O GLOBO"
+          "news_title": "Texas mother of 4 says \"no one is safe\" after spending more than 6 weeks in ICE custody",
+          "news_url": "https://www.cbsnews.com/news/texas-mother-speaks-weeks-ice-custody/",
+          "news_source": "CBS News"
         },
         {
           "rank": 22,
-          "title": "travis kelce",
+          "title": "capital one class action lawsuit",
           "geos": [
             "US"
           ],
-          "traffic_estimate": 200,
-          "news_title": "Travis Kelce Says He 'Can't Wait' for This Element of His Wedding to Taylor Swift",
-          "news_url": "https://people.com/travis-kelce-cant-wait-for-this-element-of-wedding-taylor-swift-11967824",
-          "news_source": "People.com"
+          "traffic_estimate": 500,
+          "news_title": "Capital One class action claims credit card rewards were unlawfully canceled",
+          "news_url": "https://topclassactions.com/lawsuit-settlements/lawsuit-news/capital-one-class-action-claims-credit-card-rewards-were-unlawfully-canceled/",
+          "news_source": "Class Action Lawsuits"
         },
         {
           "rank": 23,
-          "title": "mcd stock",
+          "title": "survivor billie eilish",
           "geos": [
             "US"
           ],
-          "traffic_estimate": 200,
-          "news_title": "McDonald's is about to report earnings. Here's what to expect",
-          "news_url": "https://www.cnbc.com/2026/05/07/mcdonalds-mcd-q1-2026-earnings.html",
-          "news_source": "CNBC"
+          "traffic_estimate": 500,
+          "news_title": "Billie Eilish Finally Addresses Her Role in Survivor Season 50 Boomerang Idol",
+          "news_url": "https://www.eonline.com/news/1431711/billie-eilish-addresses-role-in-survivor-50s-boomerang-immunity-idol",
+          "news_source": "E! News"
         },
         {
           "rank": 24,
-          "title": "seguridad social",
+          "title": "starship",
           "geos": [
             "US"
           ],
-          "traffic_estimate": 200,
-          "news_title": "Justicia canaria niega incapacidad a fontanero con ojo perforado: visión binocular no es necesaria",
-          "news_url": "https://kchcomunicacion.com/2026/05/03/justicia-canaria-niega-incapacidad-a-fontanero-con-ojo-perforado-vision-binocular-no-es-necesaria/",
-          "news_source": "KCH FM"
+          "traffic_estimate": 500,
+          "news_title": "Debris seen flying hundreds of metres into the air after explosion at SpaceX base",
+          "news_url": "https://www.the-independent.com/bulletin/news/spacex-starship-starbase-texas-explosion-b2972355.html",
+          "news_source": "The Independent"
         },
         {
           "rank": 25,
-          "title": "dj lemahieu",
+          "title": "kyle busch",
           "geos": [
             "US"
           ],
-          "traffic_estimate": 200,
-          "news_title": "After Yankees cut him, DJ LeMahieu is back on the baseball field",
-          "news_url": "https://www.usatoday.com/story/sports/mlb/2026/05/06/dj-lemahieu-back-in-baseball-yankees-cut/89970955007/",
-          "news_source": "USA Today"
+          "traffic_estimate": 500,
+          "news_title": "Kyle Busch turns nasty during violent NASCAR race, F-bombs fly in wild radio rant & spectators wreck!",
+          "news_url": "https://www.foxnews.com/outkick-sports/kyle-busch-turns-nasty-violent-nascar-race-f-bombs-fly-wild-radio-rant-spectators-wreck",
+          "news_source": "Fox News"
         }
       ]
     },
     "cloudflare-radar": {
       "source": "cloudflare-radar",
       "label": "Cloudflare Radar — top domains",
-      "fetched_at": "2026-05-07T11:28:37.407Z",
+      "fetched_at": "2026-05-07T19:02:00.141Z",
       "configured": true,
       "items": [
         {
           "rank": 1,
           "title": "google.com",
           "url": "https://google.com",
-          "category": "Search Engines"
+          "category": "Search Engines",
+          "rank_delta_7d": 0,
+          "prev_rank_7d": 1,
+          "is_new_to_top": false
         },
         {
           "rank": 2,
           "title": "googleapis.com",
           "url": "https://googleapis.com",
-          "category": "Information Technology"
+          "category": "Information Technology",
+          "rank_delta_7d": 0,
+          "prev_rank_7d": 2,
+          "is_new_to_top": false
         },
         {
           "rank": 3,
           "title": "cloudflare.com",
           "url": "https://cloudflare.com",
-          "category": "Technology"
+          "category": "Technology",
+          "rank_delta_7d": 0,
+          "prev_rank_7d": 3,
+          "is_new_to_top": false
         },
         {
           "rank": 4,
           "title": "gstatic.com",
           "url": "https://gstatic.com",
-          "category": "Content Servers"
+          "category": "Content Servers",
+          "rank_delta_7d": 0,
+          "prev_rank_7d": 4,
+          "is_new_to_top": false
         },
         {
           "rank": 5,
           "title": "apple.com",
           "url": "https://apple.com",
-          "category": "Information Technology"
+          "category": "Information Technology",
+          "rank_delta_7d": 0,
+          "prev_rank_7d": 5,
+          "is_new_to_top": false
         },
         {
           "rank": 6,
           "title": "microsoft.com",
           "url": "https://microsoft.com",
-          "category": "Information Technology"
+          "category": "Information Technology",
+          "rank_delta_7d": 0,
+          "prev_rank_7d": 6,
+          "is_new_to_top": false
         },
         {
           "rank": 7,
           "title": "facebook.com",
           "url": "https://facebook.com",
-          "category": "Social Networks"
+          "category": "Social Networks",
+          "rank_delta_7d": 0,
+          "prev_rank_7d": 7,
+          "is_new_to_top": false
         },
         {
           "rank": 8,
           "title": "amazonaws.com",
           "url": "https://amazonaws.com",
-          "category": "Technology"
+          "category": "Technology",
+          "rank_delta_7d": 0,
+          "prev_rank_7d": 8,
+          "is_new_to_top": false
         },
         {
           "rank": 9,
           "title": "googlevideo.com",
           "url": "https://googlevideo.com",
-          "category": "Search Engines"
+          "category": "Search Engines",
+          "rank_delta_7d": 0,
+          "prev_rank_7d": 9,
+          "is_new_to_top": false
         },
         {
           "rank": 10,
           "title": "fbcdn.net",
           "url": "https://fbcdn.net",
-          "category": "Social Networks"
+          "category": "Social Networks",
+          "rank_delta_7d": 0,
+          "prev_rank_7d": 10,
+          "is_new_to_top": false
         },
         {
           "rank": 11,
           "title": "youtube.com",
           "url": "https://youtube.com",
-          "category": "Video Streaming"
+          "category": "Video Streaming",
+          "rank_delta_7d": 0,
+          "prev_rank_7d": 11,
+          "is_new_to_top": false
         },
         {
           "rank": 12,
           "title": "whatsapp.net",
           "url": "https://whatsapp.net",
-          "category": "Instant Messengers"
+          "category": "Instant Messengers",
+          "rank_delta_7d": 0,
+          "prev_rank_7d": 12,
+          "is_new_to_top": false
         },
         {
           "rank": 13,
           "title": "instagram.com",
           "url": "https://instagram.com",
-          "category": "Social Networks"
+          "category": "Social Networks",
+          "rank_delta_7d": 0,
+          "prev_rank_7d": 13,
+          "is_new_to_top": false
         },
         {
           "rank": 14,
           "title": "amazon.com",
           "url": "https://amazon.com",
-          "category": "Ecommerce"
+          "category": "Ecommerce",
+          "rank_delta_7d": 0,
+          "prev_rank_7d": 14,
+          "is_new_to_top": false
         },
         {
           "rank": 15,
           "title": "doubleclick.net",
           "url": "https://doubleclick.net",
-          "category": "Advertisements"
+          "category": "Advertisements",
+          "rank_delta_7d": 0,
+          "prev_rank_7d": 15,
+          "is_new_to_top": false
         },
         {
           "rank": 16,
           "title": "bing.com",
           "url": "https://bing.com",
-          "category": "Search Engines"
+          "category": "Search Engines",
+          "rank_delta_7d": 0,
+          "prev_rank_7d": 16,
+          "is_new_to_top": false
         },
         {
           "rank": 17,
           "title": "live.com",
           "url": "https://live.com",
-          "category": "Technology"
+          "category": "Technology",
+          "rank_delta_7d": 0,
+          "prev_rank_7d": 17,
+          "is_new_to_top": false
         },
         {
           "rank": 18,
           "title": "apple-dns.net",
           "url": "https://apple-dns.net",
-          "category": "Content Servers"
+          "category": "Content Servers",
+          "rank_delta_7d": 1,
+          "prev_rank_7d": 19,
+          "is_new_to_top": false
         },
         {
           "rank": 19,
           "title": "googleusercontent.com",
           "url": "https://googleusercontent.com",
-          "category": "Content Servers"
+          "category": "Content Servers",
+          "rank_delta_7d": -1,
+          "prev_rank_7d": 18,
+          "is_new_to_top": false
         },
         {
           "rank": 20,
           "title": "akadns.net",
           "url": "https://akadns.net",
-          "category": "Content Servers"
+          "category": "Content Servers",
+          "rank_delta_7d": 0,
+          "prev_rank_7d": 20,
+          "is_new_to_top": false
         },
         {
           "rank": 21,
           "title": "netflix.com",
           "url": "https://netflix.com",
-          "category": "Movies"
+          "category": "Movies",
+          "rank_delta_7d": 0,
+          "prev_rank_7d": 21,
+          "is_new_to_top": false
         },
         {
           "rank": 22,
           "title": "googlesyndication.com",
           "url": "https://googlesyndication.com",
-          "category": "Search Engines"
+          "category": "Search Engines",
+          "rank_delta_7d": 0,
+          "prev_rank_7d": 22,
+          "is_new_to_top": false
         },
         {
           "rank": 23,
           "title": "ntp.org",
           "url": "https://ntp.org",
-          "category": "Technology"
+          "category": "Technology",
+          "rank_delta_7d": 1,
+          "prev_rank_7d": 24,
+          "is_new_to_top": false
         },
         {
           "rank": 24,
           "title": "icloud.com",
           "url": "https://icloud.com",
-          "category": "File Sharing"
+          "category": "File Sharing",
+          "rank_delta_7d": 1,
+          "prev_rank_7d": 25,
+          "is_new_to_top": false
         },
         {
           "rank": 25,
           "title": "cloudflare-dns.com",
           "url": "https://cloudflare-dns.com",
-          "category": "Content Servers"
+          "category": "Content Servers",
+          "rank_delta_7d": 1,
+          "prev_rank_7d": 26,
+          "is_new_to_top": false
         }
       ]
     },
     "mediastack": {
       "source": "mediastack",
       "label": "Mediastack — global news",
-      "fetched_at": "2026-05-07T11:28:37.043Z",
+      "fetched_at": "2026-05-07T19:01:59.846Z",
       "configured": true,
       "items": [
         {
           "rank": 1,
-          "title": "Supreme Court appoints former CJI D.Y. Chandrachud as mediator in Sanjay Kapur estate row",
-          "url": "https://www.thehindu.com/news/cities/Delhi/supreme-court-appoints-former-cji-dy-chandrachud-as-mediator-in-sanjay-kapur-estate-row/article70950478.ece",
-          "source_name": "The Hindu",
-          "country": "in",
+          "title": "Trump-appointed FEMA Review Council proposes sweeping changes to federal disaster support",
+          "url": "https://www.post-gazette.com/news/nation/2026/05/07/trump-fema-review-council-federal-disaster-support/stories/202605070067",
+          "source_name": "post-gazette",
+          "country": "us",
           "category": "general"
         },
         {
           "rank": 2,
-          "title": "Chery Master Pakistan Signals New Product Expansion in Pakistan Following Strong Presence at Auto China 2026",
-          "url": "https://pakobserver.net/chery-master-pakistan-signals-new-product-expansion-in-pakistan-following-strong-presence-at-auto-china-2026/",
-          "source_name": "pakobserver",
+          "title": "Art Abounds on Campuses Outside of New York City",
+          "url": "https://www.nytimes.com/2026/05/07/arts/design/tefafny-art-campuses.html",
+          "source_name": "The New York Times",
           "country": "us",
-          "category": "general"
+          "category": "entertainment"
         },
         {
           "rank": 3,
-          "title": "Interswitch launches digital ticketing platform for Nigeria’s transport sector",
-          "url": "https://businessday.ng/technology/article/interswitch-launches-digital-ticketing-platform-for-nigerias-transport-sector/",
-          "source_name": "businessdayonline",
+          "title": "UFC 328 Odds, Prediction: Joshua Van vs. Tatsuro Taira",
+          "url": "https://news.sportsinteraction.com/mma/story/ufc-328-odds-prediction-joshua-van-vs-tatsuro-taira-406960",
+          "source_name": "Sports Interaction",
           "country": "us",
-          "category": "general"
+          "category": "sports"
         },
         {
           "rank": 4,
-          "title": "Refugee detained by ICE missed vital chemo sessions and is now on his deathbed, family says",
-          "url": "https://www.independent.co.uk/news/world/americas/refugee-ice-minneapolis-cancer-hospice-b2947357.html",
-          "source_name": "Independent",
-          "country": "gb",
-          "category": "general"
-        },
-        {
-          "rank": 5,
-          "title": "Revealed: The five high street banks with the most customer complaints",
-          "url": "https://www.independent.co.uk/news/business/banks-complaints-uk-fca-lloyds-barclays-santander-b2972091.html",
-          "source_name": "Independent",
-          "country": "gb",
-          "category": "general"
-        },
-        {
-          "rank": 6,
-          "title": "Sussex housing and support services earn national recognition",
-          "url": "https://www.sussexexpress.co.uk/your-world/sussex-housing-and-support-services-earn-national-recognition-8506485",
-          "source_name": "eastbourneherald",
+          "title": "A timeline of the cruise ship hantavirus outbreak and when passengers fell sick",
+          "url": "https://www.independent.co.uk/news/hantavirus-south-africa-dutch-world-health-organization-atlantic-ocean-b2972544.html",
+          "source_name": "independent",
           "country": "uk",
           "category": "general"
         },
         {
+          "rank": 5,
+          "title": "Class claims Porsche monopolizes repairs on US vehicles",
+          "url": "https://www.courthousenews.com/class-claims-porsche-monopolizes-repairs-on-us-vehicles/",
+          "source_name": "courthousenews",
+          "country": "us",
+          "category": "general"
+        },
+        {
+          "rank": 6,
+          "title": "Deebo, Curtis Samuel each have merit in Bengals' plans for 2026 WR depth chart",
+          "url": "https://www.sportingnews.com/us/nfl/cincinnati-bengals/news/deebo-curtis-samuel-merit-bengals-plans-2026-wr-depth-chart/3fd599b648c8e4db7dbccfdb",
+          "source_name": "Sporting News",
+          "country": "us",
+          "category": "sports"
+        },
+        {
           "rank": 7,
-          "title": "Chimera: Q1 Earnings Snapshot",
-          "url": "https://wtop.com/news/2026/05/chimera-q1-earnings-snapshot/",
-          "source_name": "wtop",
+          "title": "Tidewater Midstream and Infrastructure Ltd. (TWM:CA) Q1 2026 Earnings Call Transcript",
+          "url": "https://seekingalpha.com/article/4900559-tidewater-midstream-and-infrastructure-ltd-twm-ca-q1-2026-earnings-call-transcript?source=feed_all_articles",
+          "source_name": "Seeking Alpha",
           "country": "us",
           "category": "general"
         },
         {
           "rank": 8,
-          "title": "Samantha Steele regrets how she talked to police — but says 'justice prevailed'",
-          "url": "https://chicago.suntimes.com/politics/2026/05/07/samantha-steele-dui-cook-county-board-of-review-commissioner-court-trial-police",
-          "source_name": "suntimes",
+          "title": "Intellicheck, Inc. (IDN) Shareholder/Analyst Call Prepared Remarks Transcript",
+          "url": "https://seekingalpha.com/article/4900552-intellicheck-inc-idn-shareholder-analyst-call-prepared-remarks-transcript?source=feed_all_articles",
+          "source_name": "Seeking Alpha",
           "country": "us",
           "category": "general"
         },
         {
           "rank": 9,
-          "title": "Malawians To Hold Demons Against Purchase of Amaryllis Hotel…Says hotel should not continue operating under Yusuf Investments",
-          "url": "https://www.malawivoice.com/2026/05/07/malawians-to-hold-demons-against-purchase-of-amaryllis-hotel-says-hotel-should-not-continue-operating-under-yusuf-investments/",
-          "source_name": "Malawi Voice",
-          "country": "mw",
+          "title": "King Charles completes historic first during moving church service",
+          "url": "https://www.mirror.co.uk/news/royals/king-charles-completes-historic-first-37125049",
+          "source_name": "Mirror",
+          "country": "gb",
           "category": "general"
         },
         {
           "rank": 10,
-          "title": "International Seaways: Q1 Earnings Snapshot",
-          "url": "https://wtop.com/news/2026/05/international-seaways-q1-earnings-snapshot/",
-          "source_name": "wtop",
+          "title": "Killam Apartment REIT (KMP.UN:CA) Shareholder/Analyst Call Transcript",
+          "url": "https://seekingalpha.com/article/4900507-killam-apartment-reit-kmp-un-ca-shareholder-analyst-call-transcript?source=feed_all_articles",
+          "source_name": "Seeking Alpha",
           "country": "us",
           "category": "general"
         },
         {
           "rank": 11,
-          "title": "The picturesque German town facing thousands of job losses if Trump withdraws US troops",
-          "url": "https://www.independent.co.uk/news/world/europe/vilseck-germany-us-troops-trump-b2972196.html",
-          "source_name": "Independent",
-          "country": "gb",
+          "title": "Photocure ASA (PHCUF) Q1 2026 Earnings Call Transcript",
+          "url": "https://seekingalpha.com/article/4900600-photocure-asa-phcuf-q1-2026-earnings-call-transcript?source=feed_all_articles",
+          "source_name": "Seeking Alpha",
+          "country": "us",
           "category": "general"
         },
         {
           "rank": 12,
-          "title": "Vanderbilt'in durumu belli oldu, bu gece oynaması \"şüpheli\"",
-          "url": "https://www.sporx.com/basketbol/nba//vanderbilt-in-durumu-belli-oldu-bu-gece-oynamasi-supheli-SXHBQ1161749SXQ?utm_source=icerikPaylas",
-          "source_name": "sporx",
-          "country": "tr",
+          "title": "US judge rules federal futures law negates Arizona gaming statutes",
+          "url": "https://azcapitoltimes.com/news/2026/05/07/us-judge-rules-federal-futures-law-negates-arizona-gaming-statutes/",
+          "source_name": "azcapitoltimes",
+          "country": "us",
           "category": "general"
         },
         {
           "rank": 13,
-          "title": "Prosecutors make case for death penalty for Fayetteville mother accused of killing adopted children",
-          "url": "https://www.wral.com/news/local/prosecutors-death-penalty-hearing-avantae-deven-may-2026/",
-          "source_name": "wral",
+          "title": "Helios Towers plc (HTWSF) Q1 2026 Earnings Call Transcript",
+          "url": "https://seekingalpha.com/article/4900597-helios-towers-plc-htwsf-q1-2026-earnings-call-transcript?source=feed_all_articles",
+          "source_name": "Seeking Alpha",
           "country": "us",
           "category": "general"
         },
         {
           "rank": 14,
-          "title": "Bitcoin Has Stalled Just Short of the 200-Day MA",
-          "url": "https://www.actionforex.com/uncategorized/639775-bitcoin-has-stalled-just-short-of-the-200-day-ma/",
-          "source_name": "actionforex",
+          "title": "Trex Company, Inc. (TREX) Q1 2026 Earnings Call Transcript",
+          "url": "https://seekingalpha.com/article/4900273-trex-company-inc-trex-q1-2026-earnings-call-transcript?source=feed_all_articles",
+          "source_name": "Seeking Alpha",
           "country": "us",
           "category": "general"
         },
         {
           "rank": 15,
-          "title": "Core Natural Resources reports Q1 results",
-          "url": "https://seekingalpha.com/news/4588242-core-natural-resources-reports-q1-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-          "source_name": "Seeking Alpha",
+          "title": "Yankees' Jasson Domínguez carted off field after making wall-slamming catch",
+          "url": "https://www.cbssports.com/mlb/news/yankees-jasson-dominguez-carted-off-wall-catch/",
+          "source_name": "CBSSports.com",
           "country": "us",
-          "category": "business"
+          "category": "sports"
         },
         {
           "rank": 16,
-          "title": "Lethbridge city council postpones integrated fire, EMS funding decision",
-          "url": "https://globalnews.ca/news/11837883/lethbridge-council-integrated-fire-ems-funding-decision/",
-          "source_name": "globaltoronto",
+          "title": "W.W. Grainger, Inc. (GWW) Q1 2026 Earnings Call Transcript",
+          "url": "https://seekingalpha.com/article/4900475-w-w-grainger-inc-gww-q1-2026-earnings-call-transcript?source=feed_all_articles",
+          "source_name": "Seeking Alpha",
           "country": "us",
           "category": "general"
         },
         {
           "rank": 17,
-          "title": "Trump 'painfully' confused as 'true weakness' exposed",
-          "url": "https://www.alternet.org/trump-confused-2676862788/",
-          "source_name": "alternet",
+          "title": "Tummala Promises Development Across All Constituencies",
+          "url": "https://www.deccanchronicle.com/southern-states/telangana/tummala-promises-development-across-all-constituencies-1955310",
+          "source_name": "deccanchronicle",
           "country": "us",
           "category": "general"
         },
         {
           "rank": 18,
-          "title": "Sunny but still cool; rain returns Friday",
-          "url": "https://www.wrtv.com/weather/weather-blogs/sunny-but-still-cool-rain-returns-friday",
-          "source_name": "theindychannel",
+          "title": "Ancelotti importance finally recognised after ugly Real Madrid brawl",
+          "url": "https://football-italia.net/ancelotti-important-realise-real-madrid-brawl/",
+          "source_name": "Football Italia",
+          "country": "it",
+          "category": "sports"
+        },
+        {
+          "rank": 19,
+          "title": "Ask Alex: Steelers Mailbag",
+          "url": "https://steelersdepot.com/2026/05/ask-alex-steelers-mailbag-534/",
+          "source_name": "steelersdepot",
           "country": "us",
           "category": "general"
         },
         {
-          "rank": 19,
-          "title": "England handed Ben Stokes boost with Durham star ‘100 per cent’ to bowl in county return",
-          "url": "https://www.independent.co.uk/sport/cricket/ben-stokes-england-durham-worcestershire-new-zealand-b2972193.html",
-          "source_name": "Independent",
-          "country": "gb",
-          "category": "general"
-        },
-        {
           "rank": 20,
-          "title": "London local elections 2026: All major party manifestos in Croydon Council",
-          "url": "https://uk.news.yahoo.com/london-local-elections-2026-major-105652917.html",
-          "source_name": "Yahoo! UK News",
-          "country": "gb",
+          "title": "Seán Kyne srón chun tosaigh ar Thomas i nGaillimh Thiar de réir phobalbhreith TG4",
+          "url": "https://www.thejournal.ie/pobal-bhreith-nuacht-tg4-do-ghaillimh-thiar-foilsithe-anocht-7033616-May2026/",
+          "source_name": "thejournal",
+          "country": "ie",
           "category": "general"
         },
         {
           "rank": 21,
-          "title": "Tennis Channel admirably embraces Sam Querrey on-air gaffe",
-          "url": "https://sports.yahoo.com/articles/tennis-channel-admirably-embraces-sam-105639872.html",
-          "source_name": "sports",
+          "title": "Judge advances case against Duluth man accused of stabbing his father, rejecting defense's timeline challenge",
+          "url": "https://www.gainesvilletimes.com/news/badge-bar/judge-advances-case-against-duluth-man-accused-of-stabbing-his-father-rejecting-defenses-timeline-challenge/",
+          "source_name": "gainesvilletimes",
           "country": "us",
           "category": "general"
         },
         {
           "rank": 22,
-          "title": "Curious canines and patient pups - it's dogs at polling stations",
-          "url": "https://www.bbc.com/news/articles/cpqp2y71r2go?at_medium=RSS&at_campaign=rss",
-          "source_name": "BBC News - UK Politics",
-          "country": "gb",
-          "category": "politics"
+          "title": "Supreme Court rules Troubles Legacy Bill is 'human rights-compliant' after victims' challenge",
+          "url": "https://www.thejournal.ie/supreme-court-rules-troubles-legacy-bill-is-human-rights-compliant-7033716-May2026/",
+          "source_name": "thejournal",
+          "country": "ie",
+          "category": "general"
         },
         {
           "rank": 23,
-          "title": "Colts coach addresses under-the-radar position battle set to take place",
-          "url": "https://sports.yahoo.com/articles/colts-coach-addresses-under-radar-105630152.html",
-          "source_name": "sports",
+          "title": "FCC’s Brendan Carr admits sports-TV inquiry may not result in any changes",
+          "url": "https://awfulannouncing.com/nfl/fcc-brendan-carr-admits-sports-tv-inquiry-may-not-result-changes.html",
+          "source_name": "awfulannouncing",
           "country": "us",
           "category": "general"
         },
         {
           "rank": 24,
-          "title": "Balikatan 2026: 25th ID engineers set up beach defenses with the Armed Forces of the Philippines [Image 7 of 7]",
-          "url": "https://www.dvidshub.net/image/9668309/balikatan-2026-25th-id-engineers-set-up-beach-defenses-with-armed-forces-philippines",
-          "source_name": "dvidshub",
+          "title": "Nintendo's Star Fox reveal backs up Zelda Ocarina of Time remake rumors",
+          "url": "https://www.polygon.com/zelda-ocarina-of-time-remake-switch-2-star-fox/",
+          "source_name": "Polygon",
           "country": "us",
-          "category": "general"
+          "category": "entertainment"
         },
         {
           "rank": 25,
-          "title": "Balikatan 2026: 25th ID engineers set up beach defenses with the Armed Forces of the Philippines [Image 6 of 7]",
-          "url": "https://www.dvidshub.net/image/9668306/balikatan-2026-25th-id-engineers-set-up-beach-defenses-with-armed-forces-philippines",
-          "source_name": "dvidshub",
+          "title": "He traded his $130,000 car for Pokémon cards, and he doesn't regret it",
+          "url": "https://www.polygon.com/pokemon-card-car-trade-geoff-pritchett-umbreon-vmax-miscut-value/",
+          "source_name": "Polygon",
           "country": "us",
-          "category": "general"
+          "category": "entertainment"
         }
       ]
     },
     "stackoverflow": {
       "source": "stackoverflow",
       "label": "Stack Overflow — hot questions",
-      "fetched_at": "2026-05-07T11:28:37.847Z",
+      "fetched_at": "2026-05-07T19:01:59.429Z",
       "items": [
         {
           "rank": 1,
-          "title": "How to optimize the background parallax to be smoother on scrollbar control?",
-          "url": "https://stackoverflow.com/questions/79937522/how-to-optimize-the-background-parallax-to-be-smoother-on-scrollbar-control",
+          "title": "What Are Good Improvements for My Simple React Shopping List?",
+          "url": "https://stackoverflow.com/questions/79937729/what-are-good-improvements-for-my-simple-react-shopping-list",
+          "score": 0,
+          "answers": 1,
+          "views": 31,
+          "tags": [
+            "typescript"
+          ]
+        },
+        {
+          "rank": 2,
+          "title": "How to import global.css into cypress component tests",
+          "url": "https://stackoverflow.com/questions/79937723/how-to-import-global-css-into-cypress-component-tests",
           "score": 0,
           "answers": 0,
-          "views": 22,
+          "views": 13,
+          "tags": [
+            "next.js",
+            "cypress",
+            "cypress-component-testing"
+          ]
+        },
+        {
+          "rank": 3,
+          "title": "Dependency list generated from import in TypeScript",
+          "url": "https://stackoverflow.com/questions/79937726/dependency-list-generated-from-import-in-typescript",
+          "score": 0,
+          "answers": 0,
+          "views": 13,
+          "tags": [
+            "typescript",
+            "npm",
+            "dependencies"
+          ]
+        },
+        {
+          "rank": 4,
+          "title": "How can I debug where an error is coming from in a Laravel + Axios project?",
+          "url": "https://stackoverflow.com/questions/79937716/how-can-i-debug-where-an-error-is-coming-from-in-a-laravel-axios-project",
+          "score": -2,
+          "answers": 0,
+          "views": 59,
+          "tags": [
+            "laravel",
+            "debugging",
+            "axios"
+          ]
+        },
+        {
+          "rank": 5,
+          "title": "why can't i utilize the \"def\" function?",
+          "url": "https://stackoverflow.com/questions/79937711/why-cant-i-utilize-the-def-function",
+          "score": -11,
+          "answers": 0,
+          "views": 85,
+          "tags": [
+            "python",
+            "visual-studio-code"
+          ]
+        },
+        {
+          "rank": 6,
+          "title": "Stored procedure in MySQL after run for unknown reason returns query interrupted",
+          "url": "https://stackoverflow.com/questions/79937698/stored-procedure-in-mysql-after-run-for-unknown-reason-returns-query-interrupted",
+          "score": 0,
+          "answers": 1,
+          "views": 29,
+          "tags": [
+            "mysql"
+          ]
+        },
+        {
+          "rank": 7,
+          "title": "When creating a new 'ColorSpec' in the Material Color Utilities library, do I also need to modify the 'variants.ts' file as well?",
+          "url": "https://stackoverflow.com/questions/79937702/when-creating-a-new-colorspec-in-the-material-color-utilities-library-do-i-al",
+          "score": 0,
+          "answers": 1,
+          "views": 29,
+          "tags": [
+            "typescript",
+            "material-design"
+          ]
+        },
+        {
+          "rank": 8,
+          "title": "Getting Partial eta squared for repeated measures ANOVA",
+          "url": "https://stackoverflow.com/questions/79937697/getting-partial-eta-squared-for-repeated-measures-anova",
+          "score": 0,
+          "answers": 1,
+          "views": 20,
+          "tags": [
+            "r",
+            "anova"
+          ]
+        },
+        {
+          "rank": 9,
+          "title": "How to filter $_REQUEST agains SQL injection and XSS?",
+          "url": "https://stackoverflow.com/questions/79937701/how-to-filter-request-agains-sql-injection-and-xss",
+          "score": -1,
+          "answers": 0,
+          "views": 18,
+          "tags": [
+            "php",
+            "security",
+            "sql-injection",
+            "sqlsrv"
+          ]
+        },
+        {
+          "rank": 10,
+          "title": "no operator \"==\" matches these operands when trying to compare a template function",
+          "url": "https://stackoverflow.com/questions/79937695/no-operator-matches-these-operands-when-trying-to-compare-a-template-functi",
+          "score": -1,
+          "answers": 2,
+          "views": 81,
+          "tags": [
+            "c++",
+            "templates"
+          ]
+        },
+        {
+          "rank": 11,
+          "title": "What do you use to keep track of everything?",
+          "url": "https://stackoverflow.com/questions/79937673/what-do-you-use-to-keep-track-of-everything",
+          "score": 1,
+          "answers": 1,
+          "views": 34,
+          "tags": [
+            "wordpress",
+            "content-management-system",
+            "project"
+          ]
+        },
+        {
+          "rank": 12,
+          "title": "Rider can't locate .NET Core",
+          "url": "https://stackoverflow.com/questions/79937680/rider-cant-locate-net-core",
+          "score": 0,
+          "answers": 0,
+          "views": 45,
+          "tags": [
+            "c#",
+            ".net-core",
+            "ide",
+            "rider"
+          ]
+        },
+        {
+          "rank": 13,
+          "title": "Leaflet: Uncaught TypeError: can't access property \"lat\", t is null",
+          "url": "https://stackoverflow.com/questions/79937663/leaflet-uncaught-typeerror-cant-access-property-lat-t-is-null",
+          "score": 0,
+          "answers": 0,
+          "views": 43,
+          "tags": [
+            "javascript",
+            "csv",
+            "leaflet"
+          ]
+        },
+        {
+          "rank": 14,
+          "title": "Best way to design SPA routing with ALB and private S3?",
+          "url": "https://stackoverflow.com/questions/79937691/best-way-to-design-spa-routing-with-alb-and-private-s3",
+          "score": -4,
+          "answers": 0,
+          "views": 34,
+          "tags": [
+            "reactjs",
+            "amazon-web-services",
+            "amazon-s3"
+          ]
+        },
+        {
+          "rank": 15,
+          "title": "I am looking for a GUI tool similar to win32 API Spy for a popular linux distro such as Linux Mint",
+          "url": "https://stackoverflow.com/questions/79937683/i-am-looking-for-a-gui-tool-similar-to-win32-api-spy-for-a-popular-linux-distro",
+          "score": 0,
+          "answers": 1,
+          "views": 33,
+          "tags": [
+            "linux",
+            "user-interface"
+          ]
+        },
+        {
+          "rank": 16,
+          "title": "AWS CLI Error: LOADER: failed to restart process: Operation not permitted",
+          "url": "https://stackoverflow.com/questions/79937686/aws-cli-error-loader-failed-to-restart-process-operation-not-permitted",
+          "score": 0,
+          "answers": 0,
+          "views": 31,
+          "tags": [
+            "python",
+            "amazon-web-services",
+            "aws-cli",
+            "rhel"
+          ]
+        },
+        {
+          "rank": 17,
+          "title": "RATE_LIMIT_EXCEEDED without reaching quota / YouTube API",
+          "url": "https://stackoverflow.com/questions/79937672/rate-limit-exceeded-without-reaching-quota-youtube-api",
+          "score": -1,
+          "answers": 0,
+          "views": 25,
+          "tags": [
+            "youtube-api",
+            "youtube-data-api"
+          ]
+        },
+        {
+          "rank": 18,
+          "title": "How to generate cognito token post a device biometric verification",
+          "url": "https://stackoverflow.com/questions/79937689/how-to-generate-cognito-token-post-a-device-biometric-verification",
+          "score": 1,
+          "answers": 0,
+          "views": 24,
+          "tags": [
+            "authentication",
+            "amazon-cognito",
+            "biometrics",
+            "face"
+          ]
+        },
+        {
+          "rank": 19,
+          "title": "S3 ErrorDocument behavior when accessed through ALB and VPC Endpoint",
+          "url": "https://stackoverflow.com/questions/79937676/s3-errordocument-behavior-when-accessed-through-alb-and-vpc-endpoint",
+          "score": 0,
+          "answers": 2,
+          "views": 20,
+          "tags": [
+            "amazon-web-services",
+            "amazon-s3",
+            "single-page-application"
+          ]
+        },
+        {
+          "rank": 20,
+          "title": "EDG vs GCC/Clang in constexpr rvalue reference behavior in constant expressions",
+          "url": "https://stackoverflow.com/questions/79937637/edg-vs-gcc-clang-in-constexpr-rvalue-reference-behavior-in-constant-expressions",
+          "score": 6,
+          "answers": 1,
+          "views": 93,
+          "tags": [
+            "c++",
+            "language-lawyer"
+          ]
+        },
+        {
+          "rank": 21,
+          "title": "Struggling to change responsive breakpoint on Wordpress theme",
+          "url": "https://stackoverflow.com/questions/79937639/struggling-to-change-responsive-breakpoint-on-wordpress-theme",
+          "score": -3,
+          "answers": 1,
+          "views": 51,
+          "tags": [
+            "css",
+            "wordpress",
+            "responsive-design",
+            "wordpress-theming",
+            "responsive"
+          ]
+        },
+        {
+          "rank": 22,
+          "title": "AnyLogic; function unpredicted change, connection time out",
+          "url": "https://stackoverflow.com/questions/79937656/anylogic-function-unpredicted-change-connection-time-out",
+          "score": -5,
+          "answers": 0,
+          "views": 49,
+          "tags": [
+            "anylogic"
+          ]
+        },
+        {
+          "rank": 23,
+          "title": "Gratuitous loads in the SASS for a simple copying CUDA Kernel",
+          "url": "https://stackoverflow.com/questions/79937590/gratuitous-loads-in-the-sass-for-a-simple-copying-cuda-kernel",
+          "score": 0,
+          "answers": 0,
+          "views": 34,
+          "tags": [
+            "cuda",
+            "nvidia-sass"
+          ]
+        },
+        {
+          "rank": 24,
+          "title": "How to optimize the background parallax to be smoother on scrollbar control?",
+          "url": "https://stackoverflow.com/questions/79937522/how-to-optimize-the-background-parallax-to-be-smoother-on-scrollbar-control",
+          "score": 1,
+          "answers": 1,
+          "views": 89,
           "tags": [
             "javascript",
             "html",
@@ -1462,552 +1821,372 @@
           ]
         },
         {
-          "rank": 2,
-          "title": "How to implement peer-to-peer communication in Flutter after Nearby Connections package became unavailable",
-          "url": "https://stackoverflow.com/questions/79937521/how-to-implement-peer-to-peer-communication-in-flutter-after-nearby-connections",
-          "score": 0,
-          "answers": 0,
-          "views": 21,
-          "tags": [
-            "android",
-            "flutter",
-            "dart"
-          ]
-        },
-        {
-          "rank": 3,
-          "title": "npm vs Yarn vs pnpm vs Bun vs Deno — what are the practical differences?",
-          "url": "https://stackoverflow.com/questions/79937505/npm-vs-yarn-vs-pnpm-vs-bun-vs-deno-what-are-the-practical-differences",
-          "score": 0,
-          "answers": 2,
-          "views": 46,
-          "tags": [
-            "node.js",
-            "npm",
-            "yarnpkg",
-            "pnpm",
-            "bun"
-          ]
-        },
-        {
-          "rank": 4,
-          "title": "What Is the Actual Maximum Argument Length for Process.Start?",
-          "url": "https://stackoverflow.com/questions/79937502/what-is-the-actual-maximum-argument-length-for-process-start",
-          "score": 1,
-          "answers": 1,
-          "views": 42,
-          "tags": [
-            ".net",
-            "windows",
-            "createprocess",
-            "process.start",
-            "processstartinfo"
-          ]
-        },
-        {
-          "rank": 5,
-          "title": "Best Way to Optimize Large Jute Rug Images for Faster Website Performance",
-          "url": "https://stackoverflow.com/questions/79937498/best-way-to-optimize-large-jute-rug-images-for-faster-website-performance",
-          "score": 0,
-          "answers": 1,
-          "views": 40,
-          "tags": [
-            "web",
-            "e-commerce"
-          ]
-        },
-        {
-          "rank": 6,
-          "title": "Plotly creating multiple duplicate graphs",
-          "url": "https://stackoverflow.com/questions/79937514/plotly-creating-multiple-duplicate-graphs",
-          "score": 0,
-          "answers": 0,
-          "views": 19,
-          "tags": [
-            "python",
-            "pandas",
-            "plotly"
-          ]
-        },
-        {
-          "rank": 7,
-          "title": "Finding proper BLAS and OpenMP for Intel compilers",
-          "url": "https://stackoverflow.com/questions/79937506/finding-proper-blas-and-openmp-for-intel-compilers",
-          "score": 0,
-          "answers": 0,
-          "views": 18,
-          "tags": [
-            "cmake",
-            "openmp",
-            "blas",
-            "intel-oneapi"
-          ]
-        },
-        {
-          "rank": 8,
-          "title": "Does Blazor Hybrid support NativeAOT?",
-          "url": "https://stackoverflow.com/questions/79937520/does-blazor-hybrid-support-nativeaot",
-          "score": 0,
-          "answers": 0,
-          "views": 11,
-          "tags": [
-            "blazor-hybrid",
-            "native-aot"
-          ]
-        },
-        {
-          "rank": 9,
-          "title": "How can fix this problem from json placeholder? ullrich",
-          "url": "https://stackoverflow.com/questions/79937456/how-can-fix-this-problem-from-json-placeholder-ullrich",
-          "score": 1,
-          "answers": 5,
-          "views": 77,
-          "tags": [
-            "javascript",
-            "async-await",
-            "promise"
-          ]
-        },
-        {
-          "rank": 10,
-          "title": "Kotlin/Java interop - Integer! not being autoconverted to Int?",
-          "url": "https://stackoverflow.com/questions/79937488/kotlin-java-interop-integer-not-being-autoconverted-to-int",
-          "score": 1,
-          "answers": 0,
-          "views": 53,
-          "tags": [
-            "kotlin",
-            "kotlin-java-interop"
-          ]
-        },
-        {
-          "rank": 11,
-          "title": "Can I import a comhost in a C++ program for working with C# classes for early binding?",
-          "url": "https://stackoverflow.com/questions/79937463/can-i-import-a-comhost-in-a-c-program-for-working-with-c-classes-for-early-bi",
-          "score": 0,
-          "answers": 0,
-          "views": 52,
-          "tags": [
-            "com",
-            "c++-cli",
-            "clr",
-            ".net-8.0",
-            "com-interop"
-          ]
-        },
-        {
-          "rank": 12,
-          "title": "How to force SMS verification code instead of Telegram app notification using Telethon?",
-          "url": "https://stackoverflow.com/questions/79937471/how-to-force-sms-verification-code-instead-of-telegram-app-notification-using-te",
-          "score": 0,
-          "answers": 0,
-          "views": 45,
-          "tags": [
-            "python",
-            "android",
-            "telegram",
-            "telegram-bot",
-            "telethon"
-          ]
-        },
-        {
-          "rank": 13,
-          "title": "Weird animation when Glass Element is the source of a navigationTransition",
-          "url": "https://stackoverflow.com/questions/79937485/weird-animation-when-glass-element-is-the-source-of-a-navigationtransition",
-          "score": 1,
-          "answers": 0,
-          "views": 34,
-          "tags": [
-            "swiftui",
-            "liquid-glass"
-          ]
-        },
-        {
-          "rank": 14,
-          "title": "How Should I Design the Logout Flow in a Sequence Diagram?",
-          "url": "https://stackoverflow.com/questions/79937467/how-should-i-design-the-logout-flow-in-a-sequence-diagram",
-          "score": 0,
-          "answers": 0,
-          "views": 28,
-          "tags": [
-            "uml",
-            "sequence-diagram",
-            "tool-uml"
-          ]
-        },
-        {
-          "rank": 15,
-          "title": "Non-standard header in HttpClient",
-          "url": "https://stackoverflow.com/questions/79937432/non-standard-header-in-httpclient",
-          "score": 3,
-          "answers": 1,
-          "views": 64,
-          "tags": [
-            "c#",
-            "http"
-          ]
-        },
-        {
-          "rank": 16,
-          "title": "Return smallest time step",
-          "url": "https://stackoverflow.com/questions/79937405/return-smallest-time-step",
-          "score": 1,
-          "answers": 2,
-          "views": 59,
-          "tags": [
-            "r",
-            "date",
-            "lubridate"
-          ]
-        },
-        {
-          "rank": 17,
-          "title": "How do I include a role from another role using dedicated tags?",
-          "url": "https://stackoverflow.com/questions/79937483/how-do-i-include-a-role-from-another-role-using-dedicated-tags",
-          "score": 0,
-          "answers": 0,
-          "views": 21,
-          "tags": [
-            "ansible"
-          ]
-        },
-        {
-          "rank": 18,
-          "title": "`newExternalWindow` removed — `externalTerminal` replacement does not inherit elevated privileges",
-          "url": "https://stackoverflow.com/questions/79937484/newexternalwindow-removed-externalterminal-replacement-does-not-inherit-el",
-          "score": 0,
-          "answers": 0,
-          "views": 16,
-          "tags": [
-            "visual-studio-code"
-          ]
-        },
-        {
-          "rank": 19,
-          "title": "How can I implement recursive syntax validation in a custom interpreter to provide file-specific line numbers for errors found in imported modules?",
-          "url": "https://stackoverflow.com/questions/79937460/how-can-i-implement-recursive-syntax-validation-in-a-custom-interpreter-to-provi",
+          "rank": 25,
+          "title": "GCP API Gateway triggers multiple JWKS fetches despite documented 5-minute caching",
+          "url": "https://stackoverflow.com/questions/79937666/gcp-api-gateway-triggers-multiple-jwks-fetches-despite-documented-5-minute-cachi",
           "score": -2,
           "answers": 0,
-          "views": 46,
-          "tags": [
-            "c++",
-            "programming-languages",
-            "interpreter"
-          ]
-        },
-        {
-          "rank": 20,
-          "title": "Is there a way to include different Build.props per solution?",
-          "url": "https://stackoverflow.com/questions/79937442/is-there-a-way-to-include-different-build-props-per-solution",
-          "score": 0,
-          "answers": 0,
-          "views": 40,
-          "tags": [
-            "c#",
-            "projects-and-solutions",
-            "visual-studio-2026"
-          ]
-        },
-        {
-          "rank": 21,
-          "title": "Can developers create a developer-only Amazon Seller Central account?",
-          "url": "https://stackoverflow.com/questions/79937372/can-developers-create-a-developer-only-amazon-seller-central-account",
-          "score": 0,
-          "answers": 1,
           "views": 31,
           "tags": [
-            "shopify",
-            "amazon-selling-partner-api",
-            "amazonsellercentral",
-            "amazon"
-          ]
-        },
-        {
-          "rank": 22,
-          "title": "Writing EPUB with pandoc API (writeEPUB3) duplicates notes and lacks index number",
-          "url": "https://stackoverflow.com/questions/79937461/writing-epub-with-pandoc-api-writeepub3-duplicates-notes-and-lacks-index-numbe",
-          "score": 0,
-          "answers": 0,
-          "views": 22,
-          "tags": [
-            "pandoc"
-          ]
-        },
-        {
-          "rank": 23,
-          "title": "DESFire EV3 changeKey() returns Integrity Error SW2=30 using TapLinx",
-          "url": "https://stackoverflow.com/questions/79937448/desfire-ev3-changekey-returns-integrity-error-sw2-30-using-taplinx",
-          "score": 0,
-          "answers": 0,
-          "views": 21,
-          "tags": [
-            "android",
-            "kotlin",
-            "nfc",
-            "desfire",
-            "taplinx"
-          ]
-        },
-        {
-          "rank": 24,
-          "title": "Why does NASM not issue a warning upon truncating a constant?",
-          "url": "https://stackoverflow.com/questions/79937433/why-does-nasm-not-issue-a-warning-upon-truncating-a-constant",
-          "score": 2,
-          "answers": 0,
-          "views": 48,
-          "tags": [
-            "assembly",
-            "nasm",
-            "x86-16"
-          ]
-        },
-        {
-          "rank": 25,
-          "title": "native V/S cross-platform",
-          "url": "https://stackoverflow.com/questions/79937347/native-v-s-cross-platform",
-          "score": 0,
-          "answers": 2,
-          "views": 43,
-          "tags": [
-            "android",
-            "flutter",
-            "kotlin",
-            "android-jetpack-compose",
-            "kotlin-multiplatform"
+            "google-cloud-api-gateway"
           ]
         }
       ]
     },
     "steam": {
       "source": "steam",
-      "label": "Steam — top games",
-      "fetched_at": "2026-05-07T11:28:36.905Z",
+      "label": "Steam — top games (24h peak)",
+      "fetched_at": "2026-05-07T19:02:00.001Z",
       "items": [
         {
           "rank": 1,
-          "title": "Counter-Strike",
-          "url": "https://store.steampowered.com/app/10",
-          "players": 0,
-          "score_rank": null
+          "title": "Counter-Strike 2",
+          "url": "https://store.steampowered.com/app/730",
+          "appid": 730,
+          "players": 1408857,
+          "peak_24h": 1408857,
+          "last_week_rank": 1,
+          "rank_delta_7d": 0,
+          "is_new_to_chart": false
         },
         {
           "rank": 2,
-          "title": "Half-Life",
-          "url": "https://store.steampowered.com/app/70",
-          "players": 0,
-          "score_rank": null
+          "title": "PUBG: BATTLEGROUNDS",
+          "url": "https://store.steampowered.com/app/578080",
+          "appid": 578080,
+          "players": 765899,
+          "peak_24h": 765899,
+          "last_week_rank": 2,
+          "rank_delta_7d": 0,
+          "is_new_to_chart": false
         },
         {
           "rank": 3,
-          "title": "Counter-Strike: Condition Zero",
-          "url": "https://store.steampowered.com/app/100",
-          "players": 0,
-          "score_rank": null
+          "title": "Dota 2",
+          "url": "https://store.steampowered.com/app/570",
+          "appid": 570,
+          "players": 562119,
+          "peak_24h": 562119,
+          "last_week_rank": 3,
+          "rank_delta_7d": 0,
+          "is_new_to_chart": false
         },
         {
           "rank": 4,
-          "title": "Half-Life 2",
-          "url": "https://store.steampowered.com/app/220",
-          "players": 0,
-          "score_rank": null
+          "title": "Wallpaper Engine",
+          "url": "https://store.steampowered.com/app/431960",
+          "appid": 431960,
+          "players": 110525,
+          "peak_24h": 110525,
+          "last_week_rank": 4,
+          "rank_delta_7d": 0,
+          "is_new_to_chart": false
         },
         {
           "rank": 5,
-          "title": "Counter-Strike: Source",
-          "url": "https://store.steampowered.com/app/240",
-          "players": 0,
-          "score_rank": null
+          "title": "Apex Legends™",
+          "url": "https://store.steampowered.com/app/1172470",
+          "appid": 1172470,
+          "players": 308925,
+          "peak_24h": 308925,
+          "last_week_rank": 6,
+          "rank_delta_7d": 1,
+          "is_new_to_chart": false
         },
         {
           "rank": 6,
-          "title": "Half-Life 2: Deathmatch",
-          "url": "https://store.steampowered.com/app/320",
-          "players": 0,
-          "score_rank": null
+          "title": "Slay the Spire 2",
+          "url": "https://store.steampowered.com/app/2868840",
+          "appid": 2868840,
+          "players": 189320,
+          "peak_24h": 189320,
+          "last_week_rank": 5,
+          "rank_delta_7d": -1,
+          "is_new_to_chart": false
         },
         {
           "rank": 7,
-          "title": "Half-Life 2: Lost Coast",
-          "url": "https://store.steampowered.com/app/340",
-          "players": 0,
-          "score_rank": null
+          "title": "Grand Theft Auto V Legacy",
+          "url": "https://store.steampowered.com/app/271590",
+          "appid": 271590,
+          "players": 93068,
+          "peak_24h": 93068,
+          "last_week_rank": 7,
+          "rank_delta_7d": 0,
+          "is_new_to_chart": false
         },
         {
           "rank": 8,
-          "title": "Portal",
-          "url": "https://store.steampowered.com/app/400",
-          "players": 0,
-          "score_rank": null
+          "title": "FiveM",
+          "url": "https://store.steampowered.com/app/2676230",
+          "appid": 2676230,
+          "players": 188753,
+          "peak_24h": 188753,
+          "last_week_rank": 8,
+          "rank_delta_7d": 0,
+          "is_new_to_chart": false
         },
         {
           "rank": 9,
-          "title": "Team Fortress 2",
-          "url": "https://store.steampowered.com/app/440",
-          "players": 0,
-          "score_rank": null
+          "title": "Geometry Dash",
+          "url": "https://store.steampowered.com/app/322170",
+          "appid": 322170,
+          "players": 68688,
+          "peak_24h": 68688,
+          "last_week_rank": 9,
+          "rank_delta_7d": 0,
+          "is_new_to_chart": false
         },
         {
           "rank": 10,
-          "title": "Left 4 Dead 2",
-          "url": "https://store.steampowered.com/app/550",
-          "players": 0,
-          "score_rank": null
+          "title": "War Thunder",
+          "url": "https://store.steampowered.com/app/236390",
+          "appid": 236390,
+          "players": 82579,
+          "peak_24h": 82579,
+          "last_week_rank": 12,
+          "rank_delta_7d": 2,
+          "is_new_to_chart": false
         },
         {
           "rank": 11,
-          "title": "Counter-Strike: Global Offensive",
-          "url": "https://store.steampowered.com/app/730",
-          "players": 0,
-          "score_rank": null
+          "title": "Tom Clancy's Rainbow Six Siege",
+          "url": "https://store.steampowered.com/app/359550",
+          "appid": 359550,
+          "players": 77179,
+          "peak_24h": 77179,
+          "last_week_rank": 13,
+          "rank_delta_7d": 2,
+          "is_new_to_chart": false
         },
         {
           "rank": 12,
-          "title": "Garry's Mod",
-          "url": "https://store.steampowered.com/app/4000",
-          "players": 0,
-          "score_rank": null
+          "title": "Delta Force",
+          "url": "https://store.steampowered.com/app/2507950",
+          "appid": 2507950,
+          "players": 173135,
+          "peak_24h": 173135,
+          "last_week_rank": 18,
+          "rank_delta_7d": 6,
+          "is_new_to_chart": false
         },
         {
           "rank": 13,
-          "title": "Sid Meier's Civilization V",
-          "url": "https://store.steampowered.com/app/8930",
-          "players": 0,
-          "score_rank": null
+          "title": "Marvel Rivals",
+          "url": "https://store.steampowered.com/app/2767030",
+          "appid": 2767030,
+          "players": 83962,
+          "peak_24h": 83962,
+          "last_week_rank": 11,
+          "rank_delta_7d": -2,
+          "is_new_to_chart": false
         },
         {
           "rank": 14,
-          "title": "Borderlands 2",
-          "url": "https://store.steampowered.com/app/49520",
-          "players": 0,
-          "score_rank": null
+          "title": "Overwatch®",
+          "url": "https://store.steampowered.com/app/2357570",
+          "appid": 2357570,
+          "players": 58472,
+          "peak_24h": 58472,
+          "last_week_rank": 16,
+          "rank_delta_7d": 2,
+          "is_new_to_chart": false
         },
         {
           "rank": 15,
-          "title": "Terraria",
-          "url": "https://store.steampowered.com/app/105600",
-          "players": 0,
-          "score_rank": null
+          "title": "Dead by Daylight",
+          "url": "https://store.steampowered.com/app/381210",
+          "appid": 381210,
+          "players": 67174,
+          "peak_24h": 67174,
+          "last_week_rank": 14,
+          "rank_delta_7d": -1,
+          "is_new_to_chart": false
         },
         {
           "rank": 16,
-          "title": "Arma 3",
-          "url": "https://store.steampowered.com/app/107410",
-          "players": 0,
-          "score_rank": null
+          "title": "ARC Raiders",
+          "url": "https://store.steampowered.com/app/1808500",
+          "appid": 1808500,
+          "players": 81874,
+          "peak_24h": 81874,
+          "last_week_rank": 10,
+          "rank_delta_7d": -6,
+          "is_new_to_chart": false
         },
         {
           "rank": 17,
-          "title": "Project Zomboid",
-          "url": "https://store.steampowered.com/app/108600",
-          "players": 0,
-          "score_rank": null
+          "title": "Warframe",
+          "url": "https://store.steampowered.com/app/230410",
+          "appid": 230410,
+          "players": 71317,
+          "peak_24h": 71317,
+          "last_week_rank": 19,
+          "rank_delta_7d": 2,
+          "is_new_to_chart": false
         },
         {
           "rank": 18,
-          "title": "PAYDAY 2",
-          "url": "https://store.steampowered.com/app/218620",
-          "players": 0,
-          "score_rank": null
+          "title": "Deadlock",
+          "url": "https://store.steampowered.com/app/1422450",
+          "appid": 1422450,
+          "players": 66634,
+          "peak_24h": 66634,
+          "last_week_rank": 21,
+          "rank_delta_7d": 3,
+          "is_new_to_chart": false
         },
         {
           "rank": 19,
-          "title": "Grim Dawn",
-          "url": "https://store.steampowered.com/app/219990",
-          "players": 0,
-          "score_rank": null
+          "title": "HELLDIVERS™ 2",
+          "url": "https://store.steampowered.com/app/553850",
+          "appid": 553850,
+          "players": 44239,
+          "peak_24h": 44239,
+          "last_week_rank": 15,
+          "rank_delta_7d": -4,
+          "is_new_to_chart": false
         },
         {
           "rank": 20,
-          "title": "DayZ",
-          "url": "https://store.steampowered.com/app/221100",
-          "players": 0,
-          "score_rank": null
+          "title": "EA SPORTS FC™ 26",
+          "url": "https://store.steampowered.com/app/3405690",
+          "appid": 3405690,
+          "players": 65288,
+          "peak_24h": 65288,
+          "last_week_rank": 22,
+          "rank_delta_7d": 2,
+          "is_new_to_chart": false
         },
         {
           "rank": 21,
-          "title": "Euro Truck Simulator 2",
-          "url": "https://store.steampowered.com/app/227300",
-          "players": 0,
-          "score_rank": null
+          "title": "Stardew Valley",
+          "url": "https://store.steampowered.com/app/413150",
+          "appid": 413150,
+          "players": 79209,
+          "peak_24h": 79209,
+          "last_week_rank": 20,
+          "rank_delta_7d": -1,
+          "is_new_to_chart": false
         },
         {
           "rank": 22,
-          "title": "Heroes & Generals",
-          "url": "https://store.steampowered.com/app/227940",
-          "players": 0,
-          "score_rank": null
+          "title": "Rust",
+          "url": "https://store.steampowered.com/app/252490",
+          "appid": 252490,
+          "players": 103939,
+          "peak_24h": 103939,
+          "last_week_rank": 23,
+          "rank_delta_7d": 1,
+          "is_new_to_chart": false
         },
         {
           "rank": 23,
-          "title": "Warframe",
-          "url": "https://store.steampowered.com/app/230410",
-          "players": 0,
-          "score_rank": null
+          "title": "Limbus Company",
+          "url": "https://store.steampowered.com/app/1973530",
+          "appid": 1973530,
+          "players": 48060,
+          "peak_24h": 48060,
+          "last_week_rank": 25,
+          "rank_delta_7d": 2,
+          "is_new_to_chart": false
         },
         {
           "rank": 24,
-          "title": "War Thunder",
-          "url": "https://store.steampowered.com/app/236390",
-          "players": 0,
-          "score_rank": null
+          "title": "Battlefield™ 6",
+          "url": "https://store.steampowered.com/app/2807960",
+          "appid": 2807960,
+          "players": 41455,
+          "peak_24h": 41455,
+          "last_week_rank": 26,
+          "rank_delta_7d": 2,
+          "is_new_to_chart": false
         },
         {
           "rank": 25,
-          "title": "Path of Exile",
-          "url": "https://store.steampowered.com/app/238960",
-          "players": 0,
-          "score_rank": null
+          "title": "Windrose",
+          "url": "https://store.steampowered.com/app/3041230",
+          "appid": 3041230,
+          "players": 88281,
+          "peak_24h": 88281,
+          "last_week_rank": 17,
+          "rank_delta_7d": -8,
+          "is_new_to_chart": false
         }
       ]
     },
     "youtube": {
       "source": "youtube",
       "label": "YouTube — trending videos",
-      "fetched_at": "2026-05-07T11:28:36.937Z",
+      "fetched_at": "2026-05-07T19:01:59.411Z",
       "configured": true,
       "items": [
         {
           "rank": 1,
-          "title": "The Killers - Mr. Brightside (Lyrics)",
-          "url": "https://www.youtube.com/watch?v=l3QksZ68hYw",
-          "channel": "Unique Sound",
-          "views": 859097,
-          "likes": 2543
+          "title": "NACHO ESTRELLA X JEY ONE X ALOFOKE MUSIC X DIANA LA MISS - HIJA DE LA NOCHE",
+          "url": "https://www.youtube.com/watch?v=D_WllqC_kVA",
+          "channel": "AlofokeMusicSounds",
+          "views": 371006,
+          "likes": 104933
         },
         {
           "rank": 2,
-          "title": "The Odyssey | Official New Trailer",
-          "url": "https://www.youtube.com/watch?v=f_bKjZeJBBI",
-          "channel": "Universal Pictures",
-          "views": 10386135,
-          "likes": 276649
+          "title": "Aliens: Fireteam Elite 2 – Official Reveal Trailer | IGN First",
+          "url": "https://www.youtube.com/watch?v=bISGUJn3sSk",
+          "channel": "IGN",
+          "views": 65824,
+          "likes": 6532
         },
         {
           "rank": 3,
-          "title": "Star Fox Direct 5.6.2026",
-          "url": "https://www.youtube.com/watch?v=ePZeyh5q9R8",
-          "channel": "Nintendo of America",
-          "views": 1955193,
-          "likes": 104984
+          "title": "Minnesota Timberwolves at San Antonio Spurs",
+          "url": "https://www.youtube.com/watch?v=jtgM5HMNX94",
+          "channel": "ESPN",
+          "views": 0,
+          "likes": 0
         },
         {
           "rank": 4,
-          "title": "Fuerza Regida - Marlboro Rojo (Letra - Lyrics)",
-          "url": "https://www.youtube.com/watch?v=SSFddo0urYg",
-          "channel": "Chilanga Banda",
-          "views": 190594,
-          "likes": 175
+          "title": "Boards of Canada - Introit / Prophecy At 1420 MHz",
+          "url": "https://www.youtube.com/watch?v=74NluS3jzTo",
+          "channel": "Boards of Canada",
+          "views": 78312,
+          "likes": 15310
         },
         {
           "rank": 5,
-          "title": "THE ODYSSEY TRAILER BREAKDOWN! Every Detail You Missed!",
-          "url": "https://www.youtube.com/watch?v=KNYs8-sHJ3s",
-          "channel": "New Rockstars",
-          "views": 83231,
-          "likes": 3637
+          "title": "LEGO® Batman™: Legacy of the Dark Knight – Official Launch Trailer",
+          "url": "https://www.youtube.com/watch?v=DfJaUpW_P00",
+          "channel": "Warner Bros. Games",
+          "views": 49872,
+          "likes": 7764
         },
         {
           "rank": 6,
+          "title": "Star Fox Direct 5.6.2026",
+          "url": "https://www.youtube.com/watch?v=ePZeyh5q9R8",
+          "channel": "Nintendo of America",
+          "views": 2230314,
+          "likes": 115292
+        },
+        {
+          "rank": 7,
+          "title": "Hija de la noche",
+          "url": "https://www.youtube.com/watch?v=PuzKl7WXLsY",
+          "channel": "Nacho Estrella - Topic",
+          "views": 281166,
+          "likes": 28833
+        },
+        {
+          "rank": 8,
+          "title": "The Odyssey | Official New Trailer",
+          "url": "https://www.youtube.com/watch?v=f_bKjZeJBBI",
+          "channel": "Universal Pictures",
+          "views": 10921671,
+          "likes": 282900
+        },
+        {
+          "rank": 9,
           "title": "Jesse Watters Primetime",
           "url": "https://www.youtube.com/watch?v=2UEYYKRhGVM",
           "channel": "FOX News",
@@ -2015,23 +2194,47 @@
           "likes": 0
         },
         {
-          "rank": 7,
-          "title": "Hija de la noche",
-          "url": "https://www.youtube.com/watch?v=PuzKl7WXLsY",
-          "channel": "Nacho Estrella - Topic",
-          "views": 162790,
-          "likes": 20312
+          "rank": 10,
+          "title": "Harry Styles - Dance No More (Official Video)",
+          "url": "https://www.youtube.com/watch?v=-rkjE0xc730",
+          "channel": "HarryStylesVEVO",
+          "views": 549666,
+          "likes": 103963
         },
         {
-          "rank": 8,
-          "title": "Evil Dead Burn - Official Trailer | Exclusively in cinemas 10 July",
-          "url": "https://www.youtube.com/watch?v=wMMJzR-Ezds",
-          "channel": "Sony Pictures India",
-          "views": 121531,
-          "likes": 3831
+          "rank": 11,
+          "title": "Cape Fear — Official Trailer | Apple TV",
+          "url": "https://www.youtube.com/watch?v=FZ3sN5E-mBU",
+          "channel": "Apple TV",
+          "views": 313501,
+          "likes": 5439
         },
         {
-          "rank": 9,
+          "rank": 12,
+          "title": "Montreal Canadiens at Buffalo Sabres",
+          "url": "https://www.youtube.com/watch?v=16fz03Fesrs",
+          "channel": "TNT",
+          "views": 0,
+          "likes": 0
+        },
+        {
+          "rank": 13,
+          "title": "Fuerza Regida - Marlboro Rojo (Letra - Lyrics)",
+          "url": "https://www.youtube.com/watch?v=SSFddo0urYg",
+          "channel": "Chilanga Banda",
+          "views": 256257,
+          "likes": 233
+        },
+        {
+          "rank": 14,
+          "title": "THE ODYSSEY TRAILER BREAKDOWN! Every Detail You Missed!",
+          "url": "https://www.youtube.com/watch?v=KNYs8-sHJ3s",
+          "channel": "New Rockstars",
+          "views": 112480,
+          "likes": 4666
+        },
+        {
+          "rank": 15,
           "title": "Athletics at Philadelphia Phillies",
           "url": "https://www.youtube.com/watch?v=aZYahWXlrVE",
           "channel": "NBC Sports Philadelphia",
@@ -2039,23 +2242,23 @@
           "likes": 0
         },
         {
-          "rank": 10,
-          "title": "Playing God (feat. Corey Taylor)",
-          "url": "https://www.youtube.com/watch?v=f-zSsXdZKwk",
-          "channel": "Motionless In White - Topic",
-          "views": 139036,
-          "likes": 10124
+          "rank": 16,
+          "title": "The Killers - Mr. Brightside (Lyrics)",
+          "url": "https://www.youtube.com/watch?v=l3QksZ68hYw",
+          "channel": "Unique Sound",
+          "views": 1162476,
+          "likes": 3415
         },
         {
-          "rank": 11,
-          "title": "Elle - Official Teaser | Prime Video",
-          "url": "https://www.youtube.com/watch?v=M5Hy3BF3d4Y",
-          "channel": "Prime Video",
-          "views": 202906,
-          "likes": 6687
+          "rank": 17,
+          "title": "Star Fox Switch 2 - Reveal Trailer + Gameplay",
+          "url": "https://www.youtube.com/watch?v=JQz7X9NUttM",
+          "channel": "BeardBear",
+          "views": 76900,
+          "likes": 1778
         },
         {
-          "rank": 12,
+          "rank": 18,
           "title": "Cleveland Cavaliers at Detroit Pistons",
           "url": "https://www.youtube.com/watch?v=Wt54tIna4EA",
           "channel": "NBCSN",
@@ -2063,47 +2266,47 @@
           "likes": 0
         },
         {
-          "rank": 13,
-          "title": "Mono Oh",
-          "url": "https://www.youtube.com/watch?v=2JpSFGTU2yQ",
-          "channel": "Mal Meninga Kuri - Topic",
-          "views": 66792,
-          "likes": 1524
+          "rank": 19,
+          "title": "Playing God (feat. Corey Taylor)",
+          "url": "https://www.youtube.com/watch?v=f-zSsXdZKwk",
+          "channel": "Motionless In White - Topic",
+          "views": 191868,
+          "likes": 12159
         },
         {
-          "rank": 14,
-          "title": "UFC 6 Official Reveal Trailer",
-          "url": "https://www.youtube.com/watch?v=T2MP_T2e-aU",
-          "channel": "EA SPORTS UFC",
-          "views": 500296,
-          "likes": 26144
+          "rank": 20,
+          "title": "R.E.P.O. COSMETIC UPDATE | Launch Trailer",
+          "url": "https://www.youtube.com/watch?v=nuUt8A49Vbk",
+          "channel": "semiwork",
+          "views": 80445,
+          "likes": 12999
         },
         {
-          "rank": 15,
-          "title": "SEC Tournament: Georgia vs. LSU",
-          "url": "https://www.youtube.com/watch?v=KJr5Nv6xsTo",
-          "channel": "SEC Network",
+          "rank": 21,
+          "title": "Zero Dark Thirty",
+          "url": "https://www.youtube.com/watch?v=-lBUzidCSzg",
+          "channel": "BBC America",
           "views": 0,
           "likes": 0
         },
         {
-          "rank": 16,
-          "title": "Inpatient (Ren x Chris Webby) - Neurodivergent",
-          "url": "https://www.youtube.com/watch?v=7y4MUCCHFGY",
-          "channel": "Ren",
-          "views": 141061,
-          "likes": 19667
+          "rank": 22,
+          "title": "Mono Oh",
+          "url": "https://www.youtube.com/watch?v=2JpSFGTU2yQ",
+          "channel": "Mal Meninga Kuri - Topic",
+          "views": 68753,
+          "likes": 1543
         },
         {
-          "rank": 17,
-          "title": "Tony | Official Trailer HD | A24",
-          "url": "https://www.youtube.com/watch?v=k1MVnzd2aVc",
-          "channel": "A24",
-          "views": 1040024,
-          "likes": 23941
+          "rank": 23,
+          "title": "Elle - Official Teaser | Prime Video",
+          "url": "https://www.youtube.com/watch?v=M5Hy3BF3d4Y",
+          "channel": "Prime Video",
+          "views": 240935,
+          "likes": 7689
         },
         {
-          "rank": 18,
+          "rank": 24,
           "title": "The Last Word With Lawrence O'Donnell",
           "url": "https://www.youtube.com/watch?v=8XLUsRNHRZY",
           "channel": "MSNBC",
@@ -2111,488 +2314,449 @@
           "likes": 0
         },
         {
-          "rank": 19,
-          "title": "FullyChop - Back N Forth (Official Music Video)",
-          "url": "https://www.youtube.com/watch?v=g7DaciiNt3g",
-          "channel": "FullyChop",
-          "views": 41187,
-          "likes": 3474
-        },
-        {
-          "rank": 20,
-          "title": "The Source With Kaitlan Collins",
-          "url": "https://www.youtube.com/watch?v=dDHQft97Le4",
-          "channel": "CNN",
-          "views": 0,
-          "likes": 0
-        },
-        {
-          "rank": 21,
-          "title": "Belly Gang Kushington - Call Back Kush (Official Music Video)",
-          "url": "https://www.youtube.com/watch?v=bGx7sOyTRTA",
-          "channel": "Belly Gang Kushington ",
-          "views": 41373,
-          "likes": 2618
-        },
-        {
-          "rank": 22,
-          "title": "Minnesota Wild at Colorado Avalanche",
-          "url": "https://www.youtube.com/watch?v=84cqjPRJnN4",
-          "channel": "ESPN",
-          "views": 0,
-          "likes": 0
-        },
-        {
-          "rank": 23,
-          "title": "Action Bronson - PEPPERS (ft. Roc Marciano) (Official Video)",
-          "url": "https://www.youtube.com/watch?v=IG6xt2juJ8Y",
-          "channel": "Action Bronson",
-          "views": 248173,
-          "likes": 13978
-        },
-        {
-          "rank": 24,
-          "title": "The New Garry's Mod is Hilarious",
-          "url": "https://www.youtube.com/watch?v=2eNdt7KwtiM",
-          "channel": "SMii7Y",
-          "views": 863099,
-          "likes": 55637
-        },
-        {
           "rank": 25,
-          "title": "All Aboard!",
-          "url": "https://www.youtube.com/watch?v=Zpe0uJuP9pM",
-          "channel": "Bravo",
-          "views": 0,
-          "likes": 0
+          "title": "Celebrate Me",
+          "url": "https://www.youtube.com/watch?v=dITPNd3Rzqw",
+          "channel": "IngaRose - Topic",
+          "views": 28464,
+          "likes": 935
         }
       ]
     },
     "bluesky": {
       "source": "bluesky",
       "label": "Bluesky — what's hot",
-      "fetched_at": "2026-05-07T11:28:36.973Z",
+      "fetched_at": "2026-05-07T19:01:59.481Z",
       "items": [
         {
           "rank": 1,
-          "title": "The turmoil within. Glastonbury Tor this morning at sunrise. Not sure I have seen a sky like that before, it was ever so",
-          "url": "https://bsky.app/profile/glastomichelle.bsky.social/post/3mlas7gfq7k2a",
-          "author": "glastomichelle.bsky.social",
-          "display_name": "",
-          "likes": 172,
-          "reposts": 39
-        },
-        {
-          "rank": 2,
-          "title": "Louise Lucas led Virginia's response to Republican gerrymandering. Then the FBI swarmed her office.",
-          "url": "https://bsky.app/profile/motherjones.com/post/3ml7v257tev23",
-          "author": "motherjones.com",
-          "display_name": "Mother Jones",
-          "likes": 292,
-          "reposts": 146
-        },
-        {
-          "rank": 3,
-          "title": "Bir gün değil her gün Fenerbahçe’liydik öyle de kalacağız 💛💙💛📍Aydın Lisesi, 19 Mayıs #tbt",
-          "url": "https://bsky.app/profile/sontrolbukucu.bsky.social/post/3mlaygyslyk2s",
-          "author": "sontrolbukucu.bsky.social",
-          "display_name": "𝗘𝗟𝗜𝗧 𝗣|𝗛𝗢𝗧|𝗢𝗟𝗜𝗧𝗜𝗞🔹",
-          "likes": 11,
+          "title": "If you visit Croatia, you don’t want to miss Plitvice Lakes.",
+          "url": "https://bsky.app/profile/travolax.com/post/3mlbrs5qe5u2d",
+          "author": "travolax.com",
+          "display_name": "Travolax | Always Traveling",
+          "likes": 3,
           "reposts": 0
         },
         {
+          "rank": 2,
+          "title": "If John Roberts is \"just calling balls and strikes\" couldn't he be replaced by the Automated Ball-Strike (ABS) System?",
+          "url": "https://bsky.app/profile/jonbecker.bsky.social/post/3mlbl3lmp4c24",
+          "author": "jonbecker.bsky.social",
+          "display_name": "Jon Becker",
+          "likes": 1733,
+          "reposts": 211
+        },
+        {
+          "rank": 3,
+          "title": "The extremely rare catcopus.",
+          "url": "https://bsky.app/profile/mnotme.bsky.social/post/3mlbk4kbves2k",
+          "author": "mnotme.bsky.social",
+          "display_name": "Me and a small nugget of love. 🇸🇪♥️🇺🇦",
+          "likes": 3977,
+          "reposts": 543
+        },
+        {
           "rank": 4,
-          "title": "The beautiful River Coe, Scottish Highlands💙😍",
-          "url": "https://bsky.app/profile/mabellogan.bsky.social/post/3mlak5kzm422s",
-          "author": "mabellogan.bsky.social",
-          "display_name": "Mabel Logan",
-          "likes": 743,
-          "reposts": 79
+          "title": "Qifrey 💧",
+          "url": "https://bsky.app/profile/sillychaotic.bsky.social/post/3mlbmqvvctk2c",
+          "author": "sillychaotic.bsky.social",
+          "display_name": "Silly 👑 DM FOR WAITLIST",
+          "likes": 845,
+          "reposts": 317
         },
         {
           "rank": 5,
-          "title": "12 days difference in these photos. ",
-          "url": "https://bsky.app/profile/niallharbison.bsky.social/post/3mlaogwii5s2x",
-          "author": "niallharbison.bsky.social",
-          "display_name": "Niall Harbison",
-          "likes": 651,
-          "reposts": 60
+          "title": "The mood on the ground in Tennessee today.",
+          "url": "https://bsky.app/profile/motherjones.com/post/3mlbsdz43as2p",
+          "author": "motherjones.com",
+          "display_name": "Mother Jones",
+          "likes": 721,
+          "reposts": 216
         },
         {
           "rank": 6,
-          "title": "I think politicians should start wearing sponsor jackets like F1 drivers, so we can see who owns them.",
-          "url": "https://bsky.app/profile/vallygirl.bsky.social/post/3ml6jdqn47k27",
-          "author": "vallygirl.bsky.social",
-          "display_name": "Sonia Silva 💚",
-          "likes": 4030,
-          "reposts": 818
+          "title": "Garchomp",
+          "url": "https://bsky.app/profile/gaegral.bsky.social/post/3mlbjz77qns2h",
+          "author": "gaegral.bsky.social",
+          "display_name": "Gaegral COMMISSIONS",
+          "likes": 308,
+          "reposts": 107
         },
         {
           "rank": 7,
-          "title": "Devil's Riff. 😈",
-          "url": "https://bsky.app/profile/simzart.bsky.social/post/3ml775iwkzc2a",
-          "author": "simzart.bsky.social",
-          "display_name": "SimzArt",
-          "likes": 6474,
-          "reposts": 1289
+          "title": "Morning Reflections #photography #clouds #colors #nature #TwinLakes #reflection #Iphonephotography #EastCoastKin #Trailr",
+          "url": "https://bsky.app/profile/biffrendar.bsky.social/post/3mlbcnsluec2h",
+          "author": "biffrendar.bsky.social",
+          "display_name": "Biff Rendar",
+          "likes": 1320,
+          "reposts": 152
         },
         {
           "rank": 8,
-          "title": "When it all comes together!  📷🕊️ …",
-          "url": "https://bsky.app/profile/pathwaymoments.bsky.social/post/3ml73qqfcqs2r",
-          "author": "pathwaymoments.bsky.social",
-          "display_name": "Meandering M🌿",
-          "likes": 440,
-          "reposts": 74
+          "title": "",
+          "url": "https://bsky.app/profile/alala55.bsky.social/post/3mlb56ojyp22p",
+          "author": "alala55.bsky.social",
+          "display_name": "Kepano Kolohe",
+          "likes": 604,
+          "reposts": 64
         },
         {
           "rank": 9,
-          "title": "A man living with multiple sclerosis (MS), severe migraines, extreme nausea, and a complex neurological disorder said me",
-          "url": "https://bsky.app/profile/mirror.co.uk/post/3mlal7hfrju2b",
-          "author": "mirror.co.uk",
-          "display_name": "The Mirror",
-          "likes": 12,
-          "reposts": 3
+          "title": "First he was told that he had to be put to sleep. Then it looked like he might never walk again but what nobody had coun",
+          "url": "https://bsky.app/profile/niallharbison.bsky.social/post/3mlbhsi2m3s2r",
+          "author": "niallharbison.bsky.social",
+          "display_name": "Niall Harbison",
+          "likes": 3699,
+          "reposts": 421
         },
         {
           "rank": 10,
-          "title": "No me interesa el fútbol lo más mínimo, pero QUIERONECESITO que hoy gane el Rayito.",
-          "url": "https://bsky.app/profile/lapiur.bsky.social/post/3mlaqqtzhuk2y",
-          "author": "lapiur.bsky.social",
-          "display_name": "Piur 🍉",
-          "likes": 114,
-          "reposts": 9
+          "title": "The new cover.",
+          "url": "https://bsky.app/profile/brian-goldstone.bsky.social/post/3mlbchy7wns2v",
+          "author": "brian-goldstone.bsky.social",
+          "display_name": "Brian Goldstone",
+          "likes": 1200,
+          "reposts": 171
         },
         {
           "rank": 11,
-          "title": "new art YAYYYYY",
-          "url": "https://bsky.app/profile/azolitmin.bsky.social/post/3mlahe6oa722r",
-          "author": "azolitmin.bsky.social",
-          "display_name": "lacha",
-          "likes": 505,
-          "reposts": 128
+          "title": "Kunst",
+          "url": "https://bsky.app/profile/ursulala.bsky.social/post/3mlbb423pqs2y",
+          "author": "ursulala.bsky.social",
+          "display_name": "Ursulala",
+          "likes": 447,
+          "reposts": 74
         },
         {
           "rank": 12,
-          "title": "Chi diceva che il lago mette tristezza?",
-          "url": "https://bsky.app/profile/magatz.bsky.social/post/3mlal6q7t6s27",
-          "author": "magatz.bsky.social",
-          "display_name": "Andrea “magatz” Magatti",
-          "likes": 32,
+          "title": "The Dolomites. April is definitely not the best time to visit this part of Italy for photography. Winter is past its bes",
+          "url": "https://bsky.app/profile/lukaesenko.bsky.social/post/3mlbrhdcyaj2h",
+          "author": "lukaesenko.bsky.social",
+          "display_name": "Luka Esenko",
+          "likes": 14,
           "reposts": 1
         },
         {
           "rank": 13,
-          "title": "#OTD in 2020, Rockford Peaches pitcher Mary Pratt died at age 101. One of the first members of the Peaches, the team at ",
-          "url": "https://bsky.app/profile/admirablewomen.bsky.social/post/3ml7rwd3x7s2u",
-          "author": "admirablewomen.bsky.social",
-          "display_name": "Admirable Women",
-          "likes": 2667,
-          "reposts": 385
+          "title": "\"Au fil de Loire\" (Along the Loire) by Patrick Commecy in Brives-Charensac, France 🇫🇷",
+          "url": "https://bsky.app/profile/bergamax.bsky.social/post/3mlb7kbxtps2f",
+          "author": "bergamax.bsky.social",
+          "display_name": "BERGΛMΛX",
+          "likes": 3382,
+          "reposts": 491
         },
         {
           "rank": 14,
-          "title": "BREAKING NEWS: Here is a baby otter.",
-          "url": "https://bsky.app/profile/in-otter-news.bsky.social/post/3mlavzwu3bk2i",
-          "author": "in-otter-news.bsky.social",
-          "display_name": "In Otter News",
-          "likes": 1872,
-          "reposts": 178
+          "title": "Kirsikankukat kestää viikon, kuvat feedissä ikuisesti🌸",
+          "url": "https://bsky.app/profile/kaisanna.bsky.social/post/3mlbmygsqyc25",
+          "author": "kaisanna.bsky.social",
+          "display_name": "Annakaisa",
+          "likes": 53,
+          "reposts": 0
         },
         {
           "rank": 15,
-          "title": "10 Reasons to Love Forests. ",
-          "url": "https://bsky.app/profile/abilutangwa.bsky.social/post/3ml73jei5j22v",
-          "author": "abilutangwa.bsky.social",
-          "display_name": "Abilu Tangwa.",
-          "likes": 3351,
-          "reposts": 598
+          "title": "FEMA’s top official said that the “vast majority” of calls were answered during the deadly Texas floods.",
+          "url": "https://bsky.app/profile/politico.com/post/3mlbl24cyn22e",
+          "author": "politico.com",
+          "display_name": "Politico",
+          "likes": 1572,
+          "reposts": 769
         },
         {
           "rank": 16,
-          "title": "Guten Morgen! ",
-          "url": "https://bsky.app/profile/simonewunderlich.bsky.social/post/3mlaizan7wc2e",
-          "author": "simonewunderlich.bsky.social",
-          "display_name": "Simone W.",
-          "likes": 164,
-          "reposts": 7
+          "title": "This is true. ",
+          "url": "https://bsky.app/profile/raeradford.bsky.social/post/3mlavlaozuk2h",
+          "author": "raeradford.bsky.social",
+          "display_name": "Rae Radford",
+          "likes": 4105,
+          "reposts": 576
         },
         {
           "rank": 17,
-          "title": "MacKenzie Scott Was A Success",
-          "url": "https://bsky.app/profile/kackbro.bsky.social/post/3ml6xns323c2r",
-          "author": "kackbro.bsky.social",
-          "display_name": "M Meerkat",
-          "likes": 15279,
-          "reposts": 3488
+          "title": "new art YAYYYYY",
+          "url": "https://bsky.app/profile/azolitmin.bsky.social/post/3mlahe6oa722r",
+          "author": "azolitmin.bsky.social",
+          "display_name": "lacha",
+          "likes": 978,
+          "reposts": 246
         },
         {
           "rank": 18,
-          "title": "New results published in the New England Journal of Medicine finds Moderna’s mRNA flu vaccine gave more protection again",
-          "url": "https://bsky.app/profile/nbcnews.com/post/3ml7urjdn6z2t",
-          "author": "nbcnews.com",
-          "display_name": "NBC News",
-          "likes": 314,
-          "reposts": 126
+          "title": "Warum ich hier gerne lebe.",
+          "url": "https://bsky.app/profile/rotzloeffel.bsky.social/post/3mlbrqrhzac2c",
+          "author": "rotzloeffel.bsky.social",
+          "display_name": "Rotzlöffel",
+          "likes": 20,
+          "reposts": 0
         },
         {
           "rank": 19,
-          "title": "20 years ago today",
-          "url": "https://bsky.app/profile/tim-stillman.bsky.social/post/3mlant2zigk2b",
-          "author": "tim-stillman.bsky.social",
-          "display_name": "Tim Stillman ⭐️⭐️",
-          "likes": 131,
-          "reposts": 3
+          "title": "dracthyr-fication sketch for @/rayth !",
+          "url": "https://bsky.app/profile/nebelviper.bsky.social/post/3mlb2fu4h3s2o",
+          "author": "nebelviper.bsky.social",
+          "display_name": "Nebelfleck ( comms closed )",
+          "likes": 526,
+          "reposts": 117
         },
         {
           "rank": 20,
-          "title": "🐉 ",
-          "url": "https://bsky.app/profile/c3rmen.bsky.social/post/3mladvaafmk2r",
-          "author": "c3rmen.bsky.social",
-          "display_name": "c3rmen",
-          "likes": 301,
-          "reposts": 43
+          "title": "This is a feel good image for me. These two adorable young Australian superb fairywren staying close to each other.",
+          "url": "https://bsky.app/profile/joycomes.bsky.social/post/3mlbgjkaj4k24",
+          "author": "joycomes.bsky.social",
+          "display_name": "🇨🇦JOY 🇨🇦",
+          "likes": 2928,
+          "reposts": 417
         },
         {
           "rank": 21,
-          "title": "Guten Morgen alle miteinander! Bonjour à vous! Happy Thursday! 🙋‍♀️☕️🫶",
-          "url": "https://bsky.app/profile/schatzilein.bsky.social/post/3mlap32xlmc2y",
-          "author": "schatzilein.bsky.social",
-          "display_name": "Ute 🇩🇪🇨🇦🐱📚",
-          "likes": 67,
-          "reposts": 6
-        },
-        {
-          "rank": 22,
-          "title": "ブルボワ",
-          "url": "https://bsky.app/profile/zubunericat.bsky.social/post/3mlaz5zud5sb3",
-          "author": "zubunericat.bsky.social",
-          "display_name": "zubu",
-          "likes": 26,
+          "title": "EUROPAPOKAL HALBFINALE ",
+          "url": "https://bsky.app/profile/bscdaniel98.bsky.social/post/3mlbttl3zx22x",
+          "author": "bscdaniel98.bsky.social",
+          "display_name": "Daniel",
+          "likes": 8,
           "reposts": 1
         },
         {
+          "rank": 22,
+          "title": "The beautiful River Coe, Scottish Highlands💙😍",
+          "url": "https://bsky.app/profile/mabellogan.bsky.social/post/3mlak5kzm422s",
+          "author": "mabellogan.bsky.social",
+          "display_name": "Mabel Logan",
+          "likes": 1620,
+          "reposts": 154
+        },
+        {
           "rank": 23,
-          "title": "日の入り🌄",
-          "url": "https://bsky.app/profile/hcr32gtst.bsky.social/post/3mlavqwp6w226",
-          "author": "hcr32gtst.bsky.social",
-          "display_name": "北野",
-          "likes": 33,
-          "reposts": 3
+          "title": "capybara weightlifting",
+          "url": "https://bsky.app/profile/guilhernunes.bsky.social/post/3mlbshscixc2q",
+          "author": "guilhernunes.bsky.social",
+          "display_name": "Guilherme Nunes",
+          "likes": 138,
+          "reposts": 46
+        },
+        {
+          "rank": 24,
+          "title": "",
+          "url": "https://bsky.app/profile/pauljwillson.bsky.social/post/3mlbs7o5qes2u",
+          "author": "pauljwillson.bsky.social",
+          "display_name": "Paul Willson",
+          "likes": 56,
+          "reposts": 10
         }
       ]
     },
     "mastodon-trending": {
       "source": "mastodon-trending",
       "label": "Mastodon — trending posts",
-      "fetched_at": "2026-05-07T11:28:37.777Z",
+      "fetched_at": "2026-05-07T19:01:59.409Z",
       "items": [
         {
           "rank": 1,
-          "title": "If you’re trans & born before 2000, when asked who you are you can legit answer:“Do not ask me for a single title, I …",
-          "url": "https://bitbang.social/@NanoRaptor/116531741966834066",
-          "author": "Nanoraptor",
-          "likes": 98,
-          "boosts": 471
+          "title": "I'm winning",
+          "url": "https://ohai.social/@redsad/116534447247035759",
+          "author": "captain acab :antifa:",
+          "likes": 729,
+          "boosts": 365
         },
         {
           "rank": 2,
-          "title": "Going to the UK polls today? Remember, Labour is the party that just greenlit Palantir being in charge of all the hea…",
-          "url": "https://mamot.fr/@pluralistic/116532246127761592",
-          "author": "Cory Doctorow",
-          "likes": 100,
-          "boosts": 171
+          "title": "[media]",
+          "url": "https://mastodon.social/@admiralwonderboat/116533991687132605",
+          "author": "Admiral Wonderboat",
+          "likes": 398,
+          "boosts": 305
         },
         {
           "rank": 3,
-          "title": "#LibreOffice has a new website! Many thanks to the volunteers who helped to implement it. You can help us to improve …",
-          "url": "https://fosstodon.org/@libreoffice/116532584347719622",
-          "author": "LibreOffice",
-          "likes": 54,
-          "boosts": 68
+          "title": "The Fairbuds XL just became the first headphones to earn a 10/10 repairability score on our new headphone scorecard! …",
+          "url": "https://mastodon.social/@iFixit/116534000896879887",
+          "author": "iFixit",
+          "likes": 267,
+          "boosts": 213
         },
         {
           "rank": 4,
-          "title": "Alan Turing was a visionary. Super-perceptive computer scientist and it annoys me to no end that what he's most famou…",
-          "url": "https://sauropods.win/@futurebird/116532515737360339",
-          "author": "myrmepropagandist",
-          "likes": 107,
-          "boosts": 82
+          "title": "Deep thinking. #grickledoodle #thoughts #creativity #cartoon #art #drawing #funny #humor",
+          "url": "https://mstdn.social/@grickle/116534130725359012",
+          "author": "Grickle",
+          "likes": 244,
+          "boosts": 154
         },
         {
           "rank": 5,
-          "title": "Blind allegiance is dangerous.Banksy’s new statue at Waterloo Place in London shows a suited man marching forward whi…",
-          "url": "https://mastodon.online/@streetartutopia/116532683917372993",
+          "title": "[media]",
+          "url": "https://mastodon.online/@streetartutopia/116534500092610270",
           "author": "Street Art Utopia",
-          "likes": 47,
-          "boosts": 64
+          "likes": 90,
+          "boosts": 74
         },
         {
           "rank": 6,
-          "title": "Bluebells under oaks on the lower slopes of the moor under Sheepstor yesterday, #Dartmoor #Devon #photography #oaks #…",
-          "url": "https://mastodon.social/@Rachelburch/116532601537241691",
-          "author": "Rachel Burch",
-          "likes": 44,
-          "boosts": 34
+          "title": "pretty wild that American farmers are suffering from a fertilizer shortage despite record levels of bullshit from the…",
+          "url": "https://infosec.exchange/@kevinrothrock/116533915873571239",
+          "author": "Kevin Rothrock",
+          "likes": 281,
+          "boosts": 149
         },
         {
           "rank": 7,
-          "title": "This is how corrupt it is:Trump abuses his role as president to terminate the public lease on non-profit golf course,…",
-          "url": "https://mastodon.social/@randahl/116532092421440417",
-          "author": "Randahl Fink",
-          "likes": 54,
-          "boosts": 103
+          "title": "Healthcare cannot be for profit, and ethical, even in the best possible scenario.",
+          "url": "https://beige.party/@RickiTarr/116533911537552265",
+          "author": "Ricki Yasha Tarr",
+          "likes": 225,
+          "boosts": 170
         },
         {
           "rank": 8,
           "title": "[media]",
-          "url": "https://mastodon.social/@lzg/116531360997681235",
-          "author": "lenazun",
-          "likes": 282,
-          "boosts": 158
+          "url": "https://mas.to/@skeletor/116534237207237950",
+          "author": "Inspirational Skeletor💀",
+          "likes": 139,
+          "boosts": 98
         },
         {
           "rank": 9,
-          "title": "If you procrastinate long enough, cats will come and nap on you. It’s a good system",
-          "url": "https://mastodon.social/@donni/116531319463645342",
-          "author": "donni saphire",
-          "likes": 303,
-          "boosts": 159
+          "title": "From baby to big baby",
+          "url": "https://infosec.exchange/@catsalad/116533835056567254",
+          "author": "Cat 🐈🥗 (D.Burch) :paw:⁠:paw:",
+          "likes": 329,
+          "boosts": 150
         },
         {
           "rank": 10,
-          "title": "Putting art on your wall transforms those ordinary moments when you're just walking past into tiny moments of joy – l…",
-          "url": "https://mastodon.social/@warandpeas/116531941084753499",
-          "author": "War and Peas 🧿",
-          "likes": 111,
-          "boosts": 64
+          "title": "BREAKING: Shell have just announced that their profits have DOUBLED since Trump started his illegal war with Iran.Big…",
+          "url": "https://mastodon.social/@greenpeace/116533516200129842",
+          "author": "Greenpeace International",
+          "likes": 137,
+          "boosts": 213
         },
         {
           "rank": 11,
-          "title": "As a #Linux user, you sort of need to be a bit careful with the tech (hardware or software) you go with, and I've mad…",
-          "url": "https://mastodon.social/@thelinuxEXP/116532814977100214",
-          "author": "Nick @ The Linux Experiment",
-          "likes": 30,
-          "boosts": 22
+          "title": "Spot the barn cat",
+          "url": "https://mastodon.social/@sundogplanets/116534387109678033",
+          "author": "Prof. Sam Lawler",
+          "likes": 79,
+          "boosts": 21
         },
         {
           "rank": 12,
-          "title": "One of my biggest regrets from the past few years was losing the habit of reading books. All the usual excuses: child…",
-          "url": "https://aseachange.com/@elena/statuses/01KR0PEJEZ00Y7506QFE60TKA3",
-          "author": "Elena Rossini on GoToSocial ⁂",
-          "likes": 41,
-          "boosts": 79
+          "title": "I know that Stephen Miller gets a lot of hate on here, but hear me out.I think we could hate him more. We have the ca…",
+          "url": "https://mstdn.social/@lowqualityfacts/116534053798173891",
+          "author": "Low Quality Facts",
+          "likes": 170,
+          "boosts": 113
         },
         {
           "rank": 13,
-          "title": "I'm reading a book of classical poems by Arab women, and found this gem from some 1000 years ago:\"Leave me alone, you…",
-          "url": "https://ohai.social/@TarkabarkaHolgy/116532913521252100",
-          "author": "Dr. Zalka Csenge Virág",
-          "likes": 34,
-          "boosts": 35
+          "title": "The necromancer looked at the old man behind the opulent desk. \"Commission me?\"\"Yes. Once I'm dead, of course, but I'…",
+          "url": "https://mastodon.art/@MicroSFF/116534347700265163",
+          "author": "Micro SF/F by O. Westin",
+          "likes": 134,
+          "boosts": 83
         },
         {
           "rank": 14,
-          "title": "📰 \"Selling data to its own users is a popular practice among companies. In reality, however, people have the right t…",
-          "url": "https://mastodon.social/@noybeu/116532664559792677",
-          "author": "noyb.eu",
-          "likes": 27,
-          "boosts": 25
+          "title": "Blatant abuse of power. They act like we are in Russia, not the U.S.",
+          "url": "https://universeodon.com/@georgetakei/116534477340506154",
+          "author": "George Takei :verified: 🏳️‍🌈🖖🏽",
+          "likes": 47,
+          "boosts": 61
         },
         {
           "rank": 15,
-          "title": "EFF sees through the thin veil of internet censorship bills that claim to \"protect the kids.\" Age-gating the internet…",
-          "url": "https://mastodon.social/@eff/116531917429186592",
-          "author": "Electronic Frontier Foundation",
-          "likes": 52,
-          "boosts": 84
+          "title": "I'm reading a book of classical poems by Arab women, and found this gem from some 1000 years ago:\"Leave me alone, you…",
+          "url": "https://ohai.social/@TarkabarkaHolgy/116532913521252100",
+          "author": "Dr. Zalka Csenge Virág",
+          "likes": 865,
+          "boosts": 545
         },
         {
           "rank": 16,
-          "title": "Fun fact: today is the last day ever sir David Attenborough can play with Lego:",
-          "url": "https://mastodon.scot/@TOrynski/116531739440891387",
-          "author": "Tomasz Oryński",
-          "likes": 163,
-          "boosts": 146
+          "title": "Secret Panel HERE 🤷‍♀️ https://patreon.com/posts/58202843",
+          "url": "https://mastodon.social/@MrLovenstein/116533638536844059",
+          "author": "J. L. Westover",
+          "likes": 146,
+          "boosts": 56
         },
         {
           "rank": 17,
-          "title": "Is OpenAI's model showing signs of model collapse?(Original title: OpenAI ChatGPT goes goblin mode — let none say ‘mo…",
-          "url": "https://tldr.nettime.org/@tante/116532707701959124",
-          "author": "tante",
-          "likes": 20,
-          "boosts": 37
+          "title": "I am anti-fascist. I think fascism is bad and hurts people. I am proud that my grandfather, a US Army officer and imm…",
+          "url": "https://aoir.social/@aram/116534023007750911",
+          "author": "Aram Sinnreich",
+          "likes": 93,
+          "boosts": 96
         },
         {
           "rank": 18,
-          "title": "🎉 Gitte 0.2.0 is out!Highlights: - Interactive rebasing from the log: reorder via drag&drop, drop, reword, edit, squ…",
-          "url": "https://chaos.social/@cjk/116532508990336703",
-          "author": "Christian Kruse",
-          "likes": 46,
-          "boosts": 41
+          "title": "RE: https://mastodon.social/@admiralwonderboat/116533991687132605Omg 😂",
+          "url": "https://mastodon.social/@nixCraft/116534744902730011",
+          "author": "nixCraft 🐧",
+          "likes": 28,
+          "boosts": 16
         },
         {
           "rank": 19,
-          "title": "Google Chrome Team: We are disabling RTTI in our builds because it adds 10-20% to the size of the final binary and th…",
-          "url": "https://infosec.exchange/@david_chisnall/116532082717171204",
-          "author": "David Chisnall (*Now with 50% more sarcasm!*)",
-          "likes": 82,
-          "boosts": 76
+          "title": "Heavy tobacco users are pulling away from everyone else, Philip Morris says.",
+          "url": "https://beige.party/@maxleibman/116534142938247166",
+          "author": "Max Leibman",
+          "likes": 100,
+          "boosts": 70
         },
         {
           "rank": 20,
-          "title": "Leistung muss sich lohnen.",
-          "url": "https://social.tchncs.de/@Sanktionsfrei/116532418970861499",
-          "author": "Sanktionsfrei",
-          "likes": 36,
-          "boosts": 47
+          "title": "In the UK, “wind and solar have generated more electricity than fossil fuels for a record 15 months in a row. […] thi…",
+          "url": "https://mas.to/@bascule/116534531860659876",
+          "author": "Tony “Abolish ICE” Arcieri🌹🦀",
+          "likes": 16,
+          "boosts": 41
         },
         {
           "rank": 21,
-          "title": "We've had #DogsAtPollingStations and various other animals- now we have a Dalek! #DoctorWho 😂Credit: The Dobson Fami…",
-          "url": "https://tech.lgbt/@Natasha_Jay/116532682141874275",
-          "author": "Natasha :mastodon:🇪🇺",
-          "likes": 21,
-          "boosts": 35
+          "title": "\"There are no more juniors. There was a funeral for their passing in 2024. Nobody came. The machine does what they do…",
+          "url": "https://tldr.nettime.org/@tante/116533120069023831",
+          "author": "tante",
+          "likes": 332,
+          "boosts": 304
         },
         {
           "rank": 22,
-          "title": "Every day I’m grateful for Mastodon and the people who share their ideas, stories, images, hopes, fears, joys and fru…",
-          "url": "https://mastodon.world/@HamonWry/116531309863772547",
-          "author": "Ham on Wry",
-          "likes": 290,
-          "boosts": 170
+          "title": "> Dutch grocery store > “Oranje Spekken!” > look inside > neither oranje nor spek > only delicious trans pride.",
+          "url": "https://infosec.exchange/@0xabad1dea/116534202490355627",
+          "author": "abadidea",
+          "likes": 158,
+          "boosts": 52
         },
         {
           "rank": 23,
-          "title": "I'm looking to maybe commission someone to draw/paint/art a map for a project, real-world + vignette illustrations of…",
-          "url": "https://scholar.social/@JubalBarca/116532818054077491",
-          "author": "James Baillie",
-          "likes": 2,
-          "boosts": 27
+          "title": "Police arrested three men accused of driving around an SMS blaster across downtown Toronto, which allegedly blasted t…",
+          "url": "https://mastodon.social/@zackwhittaker/116533954136318525",
+          "author": "Zack Whittaker",
+          "likes": 51,
+          "boosts": 56
         },
         {
           "rank": 24,
-          "title": "Latency, Senescence, Acrylic markers, 2026 #Art #illustration",
-          "url": "https://mastodon.social/@cmconseils/116532904211174802",
-          "author": "Lady Laura :bongoCat:",
-          "likes": 22,
-          "boosts": 8
+          "title": "Report: Spain's PM awards Francesca Albanese the Order of Civil MeritPM Pedro Sanchez described Albanese as \"a voice …",
+          "url": "https://mastodon.social/@DrALJONES/116533369749819297",
+          "author": "DrALJONES",
+          "likes": 103,
+          "boosts": 138
         },
         {
           "rank": 25,
-          "title": "Lots of bits and pieces to do today, so it's obviously time for a quick bird boop.#sillyScribbles #boop",
-          "url": "https://things.uk/@eclectech/116532490881569534",
-          "author": "eclectech",
-          "likes": 58,
-          "boosts": 34
+          "title": "I found a zero day in a security vendor's firewall software that allows you to remotely crash the entire system by se…",
+          "url": "https://infosec.exchange/@malwaretech/116534738472472605",
+          "author": "Marcus Hutchins :verified:",
+          "likes": 43,
+          "boosts": 27
         }
       ]
     },
     "product-hunt": {
       "source": "product-hunt",
       "label": "Product Hunt — top products",
-      "fetched_at": "2026-05-07T11:28:37.657Z",
+      "fetched_at": "2026-05-07T19:01:59.502Z",
       "configured": true,
       "items": [
         {
@@ -2600,7 +2764,7 @@
           "title": "Brila",
           "url": "https://www.producthunt.com/products/brila-2/launches/brila-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+web-pulse+%28ID%3A+282925%29",
           "tagline": "One-page websites from real Google Maps reviews",
-          "votes_count": 1315,
+          "votes_count": 1317,
           "comments_count": 245
         },
         {
@@ -2608,7 +2772,7 @@
           "title": "Fathom 3.0",
           "url": "https://www.producthunt.com/products/fathom/launches/fathom-3-0?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+web-pulse+%28ID%3A+282925%29",
           "tagline": "AI meeting notes: now bot-free, in ChatGPT & Claude + more",
-          "votes_count": 769,
+          "votes_count": 771,
           "comments_count": 234
         },
         {
@@ -2616,7 +2780,7 @@
           "title": "Plurai",
           "url": "https://www.producthunt.com/products/plurai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+web-pulse+%28ID%3A+282925%29",
           "tagline": "Vibe-train evals and guardrails tailored to your use case",
-          "votes_count": 732,
+          "votes_count": 736,
           "comments_count": 227
         },
         {
@@ -2632,8 +2796,8 @@
           "title": "Clera",
           "url": "https://www.producthunt.com/products/clera?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+web-pulse+%28ID%3A+282925%29",
           "tagline": "An AI agent matching candidates to the right roles.",
-          "votes_count": 698,
-          "comments_count": 234
+          "votes_count": 701,
+          "comments_count": 237
         },
         {
           "rank": 6,
@@ -2648,7 +2812,7 @@
           "title": "Dune",
           "url": "https://www.producthunt.com/products/dune-4/launches/dune-5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+web-pulse+%28ID%3A+282925%29",
           "tagline": "Context-aware Mac keypad to automate workflows + meetings",
-          "votes_count": 628,
+          "votes_count": 629,
           "comments_count": 121
         },
         {
@@ -2656,7 +2820,7 @@
           "title": "Open Wearables",
           "url": "https://www.producthunt.com/products/open-wearables?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+web-pulse+%28ID%3A+282925%29",
           "tagline": "Open infrastructure for wearable-powered health products.",
-          "votes_count": 623,
+          "votes_count": 621,
           "comments_count": 316
         },
         {
@@ -2664,7 +2828,7 @@
           "title": "RankAI",
           "url": "https://www.producthunt.com/products/rankai-2/launches/rankai-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+web-pulse+%28ID%3A+282925%29",
           "tagline": "RankAI autonomously gets you buyers from Google & AI Search",
-          "votes_count": 604,
+          "votes_count": 605,
           "comments_count": 109
         },
         {
@@ -2672,8 +2836,8 @@
           "title": "Kilo Code v7 for VS Code",
           "url": "https://www.producthunt.com/products/kilocode?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+web-pulse+%28ID%3A+282925%29",
           "tagline": "Parallel agents, diff reviewer, and multi-model comparisons",
-          "votes_count": 600,
-          "comments_count": 126
+          "votes_count": 605,
+          "comments_count": 131
         },
         {
           "rank": 11,
@@ -2709,6 +2873,14 @@
         },
         {
           "rank": 15,
+          "title": "Ask Product Hunt AI",
+          "url": "https://www.producthunt.com/products/producthunt?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+web-pulse+%28ID%3A+282925%29",
+          "tagline": "Find the right product, just ask",
+          "votes_count": 579,
+          "comments_count": 34
+        },
+        {
+          "rank": 16,
           "title": "Claude Code Desktop App Redesigned",
           "url": "https://www.producthunt.com/products/claude-redesigned/launches/claude-code-desktop-app-redesigned?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+web-pulse+%28ID%3A+282925%29",
           "tagline": "Run parallel coding agents from one desktop workspace",
@@ -2716,19 +2888,11 @@
           "comments_count": 16
         },
         {
-          "rank": 16,
-          "title": "Ask Product Hunt AI",
-          "url": "https://www.producthunt.com/products/producthunt?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+web-pulse+%28ID%3A+282925%29",
-          "tagline": "Find the right product, just ask",
-          "votes_count": 578,
-          "comments_count": 34
-        },
-        {
           "rank": 17,
           "title": "Velo 2.0",
           "url": "https://www.producthunt.com/products/velo-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+web-pulse+%28ID%3A+282925%29",
           "tagline": "Instantly turn your voice and screen into shareable videos",
-          "votes_count": 563,
+          "votes_count": 564,
           "comments_count": 87
         },
         {
@@ -2736,7 +2900,7 @@
           "title": "Claude Design by Anthropic Labs",
           "url": "https://www.producthunt.com/products/claude/launches/claude-design-by-anthropic-labs-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+web-pulse+%28ID%3A+282925%29",
           "tagline": "Make prototypes, slides & one-pagers by talking to Claude",
-          "votes_count": 542,
+          "votes_count": 543,
           "comments_count": 21
         },
         {
@@ -2744,7 +2908,7 @@
           "title": "Postiz",
           "url": "https://www.producthunt.com/products/postiz?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+web-pulse+%28ID%3A+282925%29",
           "tagline": "Agentic social media scheduler for agents like OpenClaw",
-          "votes_count": 523,
+          "votes_count": 530,
           "comments_count": 57
         },
         {
@@ -2758,30 +2922,6 @@
       ]
     }
   },
-  "clusters": [
-    {
-      "id": "2vfpil",
-      "name": "Garry's Mod",
-      "sources": [
-        "steam",
-        "youtube"
-      ],
-      "items": [
-        {
-          "source": "steam",
-          "title": "Garry's Mod",
-          "url": "https://store.steampowered.com/app/4000",
-          "rank": 12
-        },
-        {
-          "source": "youtube",
-          "title": "The New Garry's Mod is Hilarious",
-          "url": "https://www.youtube.com/watch?v=2eNdt7KwtiM",
-          "rank": 24
-        }
-      ],
-      "score": 0.125
-    }
-  ],
-  "brief": "Across 13 sources on Thursday, May 7, the story of the day is Garry's Mod, appearing in steam, youtube. In tech, anthropics/financial-services. In news, Supreme Court appoints former CJI D.Y. Chandrachud as mediator in Sanjay Kapur estate row."
+  "clusters": [],
+  "brief": "Across 13 sources on Thursday, May 7, no single topic dominated multiple sources. In tech, anthropics/financial-services. In news, Trump-appointed FEMA Review Council proposes sweeping changes to federal disaster support."
 }

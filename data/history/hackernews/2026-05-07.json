@@ -1,232 +1,223 @@
 {
   "source": "hackernews",
   "label": "Hacker News — top stories",
-  "fetched_at": "2026-05-07T11:28:36.999Z",
+  "fetched_at": "2026-05-07T19:01:59.761Z",
   "items": [
     {
       "rank": 1,
-      "title": "Valve releases Steam Controller CAD files under Creative Commons license",
-      "url": "https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license",
-      "hn_url": "https://news.ycombinator.com/item?id=48037555",
-      "score": 1482,
-      "comments": 482,
-      "author": "haunter"
+      "title": "The map that keeps Burning Man honest",
+      "url": "https://www.not-ship.com/burning-man-moop/",
+      "hn_url": "https://news.ycombinator.com/item?id=48049653",
+      "score": 380,
+      "comments": 171,
+      "author": "speckx"
     },
     {
       "rank": 2,
-      "title": "Appearing productive in the workplace",
-      "url": "https://nooneshappy.com/article/appearing-productive-in-the-workplace/",
-      "hn_url": "https://news.ycombinator.com/item?id=48038001",
-      "score": 1242,
-      "comments": 483,
-      "author": "diebillionaires"
+      "title": "Agents need control flow, not more prompts",
+      "url": "https://bsuh.bearblog.dev/agents-need-control-flow/",
+      "hn_url": "https://news.ycombinator.com/item?id=48051562",
+      "score": 94,
+      "comments": 45,
+      "author": "bsuh"
     },
     {
       "rank": 3,
-      "title": "SQLite Is a Library of Congress Recommended Storage Format",
-      "url": "https://sqlite.org/locrsf.html",
-      "hn_url": "https://news.ycombinator.com/item?id=48042434",
-      "score": 297,
-      "comments": 79,
-      "author": "whatisabcdefgh"
+      "title": "AlphaEvolve: Gemini-powered coding agent scaling impact across fields",
+      "url": "https://deepmind.google/blog/alphaevolve-impact/",
+      "hn_url": "https://news.ycombinator.com/item?id=48050278",
+      "score": 173,
+      "comments": 64,
+      "author": "berlianta"
     },
     {
       "rank": 4,
-      "title": "Agent-harness-kit scaffolding for multi-agent workflows (MCP, provider-agnostic)",
-      "url": "https://ahk.cardor.dev",
-      "hn_url": "https://news.ycombinator.com/item?id=48047826",
-      "score": 5,
-      "comments": 0,
-      "author": "enmanuelmag"
+      "title": "DeepSeek 4 Flash local inference engine for Metal",
+      "url": "https://github.com/antirez/ds4",
+      "hn_url": "https://news.ycombinator.com/item?id=48050751",
+      "score": 122,
+      "comments": 35,
+      "author": "tamnd"
     },
     {
       "rank": 5,
-      "title": "Boris Cherny: TI-83 Plus Basic Programming Tutorial (2004)",
-      "url": "https://www.ticalc.org/programming/columns/83plus-bas/cherny/",
-      "hn_url": "https://news.ycombinator.com/item?id=48014521",
-      "score": 28,
-      "comments": 11,
-      "author": "suoken"
+      "title": "Natural Language Autoencoders: Turning Claude's Thoughts into Text",
+      "url": "https://www.anthropic.com/research/natural-language-autoencoders",
+      "hn_url": "https://news.ycombinator.com/item?id=48052537",
+      "score": 27,
+      "comments": 7,
+      "author": "instagraham"
     },
     {
       "rank": 6,
-      "title": "Permacomputing Principles",
-      "url": "https://permacomputing.net/principles/",
-      "hn_url": "https://news.ycombinator.com/item?id=48044638",
-      "score": 157,
-      "comments": 79,
-      "author": "andsoitis"
+      "title": "Child marriages plunged when girls stayed in school in Nigeria",
+      "url": "https://www.nature.com/articles/d41586-026-00720-8",
+      "hn_url": "https://news.ycombinator.com/item?id=48049208",
+      "score": 253,
+      "comments": 165,
+      "author": "surprisetalk"
     },
     {
       "rank": 7,
-      "title": "Diskless Linux boot using ZFS, iSCSI and PXE",
-      "url": "https://aniket.foo/posts/20260505-netboot/",
-      "hn_url": "https://news.ycombinator.com/item?id=48045012",
-      "score": 108,
-      "comments": 55,
-      "author": "stereo-highway"
+      "title": "Chrome removes claim of On-device Al not sending data to Google Servers",
+      "url": "https://old.reddit.com/r/chrome/comments/1t5qayz/chrome_removes_claim_of_ondevice_al_not_sending/",
+      "hn_url": "https://news.ycombinator.com/item?id=48050964",
+      "score": 212,
+      "comments": 71,
+      "author": "newsoftheday"
     },
     {
       "rank": 8,
-      "title": "Photoshop's challenges with focus, pt. 2",
-      "url": "https://unsung.aresluna.org/photoshops-challenges-with-focus-pt-2/",
-      "hn_url": "https://news.ycombinator.com/item?id=48013750",
-      "score": 51,
-      "comments": 16,
-      "author": "frizlab"
+      "title": "PySimpleGUI 6",
+      "url": "https://github.com/PySimpleGUI/PySimpleGUI",
+      "hn_url": "https://news.ycombinator.com/item?id=48026412",
+      "score": 53,
+      "comments": 15,
+      "author": "geophph"
     },
     {
       "rank": 9,
-      "title": "Vibe coding and agentic engineering are getting closer than I'd like",
-      "url": "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/",
-      "hn_url": "https://news.ycombinator.com/item?id=48037128",
-      "score": 628,
-      "comments": 680,
-      "author": "e12e"
+      "title": "I want to live like Costco people",
+      "url": "https://tastecooking.com/i-want-to-live-like-costco-people/",
+      "hn_url": "https://news.ycombinator.com/item?id=48050499",
+      "score": 69,
+      "comments": 160,
+      "author": "speckx"
     },
     {
       "rank": 10,
-      "title": "Chevrolet Performance eCrate package (400v/200hp)",
-      "url": "https://www.chevrolet.com/performance-parts/crate-engines/ecrate",
-      "hn_url": "https://news.ycombinator.com/item?id=48012649",
-      "score": 60,
-      "comments": 29,
-      "author": "mindcrime"
+      "title": "OpenBSD Stories: The closest thing to cute kittens (OpenBSD/zaurus)",
+      "url": "http://miod.online.fr/software/openbsd/stories/zaurus1.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48040465",
+      "score": 32,
+      "comments": 5,
+      "author": "zdw"
     },
     {
       "rank": 11,
-      "title": "ZAYA1-8B: An 8B Moe Model with 760M Active Params Matching DeepSeek-R1 on Math",
-      "url": "https://firethering.com/zaya1-8b-open-source-math-coding-model/",
-      "hn_url": "https://news.ycombinator.com/item?id=48047082",
-      "score": 20,
-      "comments": 19,
-      "author": "steveharing1"
+      "title": "RaTeX: KaTeX-compatible LaTeX rendering engine in pure Rust",
+      "url": "https://ratex.lites.dev/",
+      "hn_url": "https://news.ycombinator.com/item?id=48010729",
+      "score": 122,
+      "comments": 75,
+      "author": "atilimcetin"
     },
     {
       "rank": 12,
-      "title": "ProgramBench: Can Language Models Rebuild Programs from Scratch?",
-      "url": "https://arxiv.org/abs/2605.03546",
-      "hn_url": "https://news.ycombinator.com/item?id=48045174",
-      "score": 64,
-      "comments": 36,
-      "author": "jonbaer"
+      "title": "Printing Blogs",
+      "url": "https://fi-le.net/print/",
+      "hn_url": "https://news.ycombinator.com/item?id=48029732",
+      "score": 17,
+      "comments": 2,
+      "author": "fi-le"
     },
     {
       "rank": 13,
-      "title": "RSS feeds send me more traffic than Google",
-      "url": "https://shkspr.mobi/blog/2026/05/rss-feeds-send-me-more-traffic-than-google/",
-      "hn_url": "https://news.ycombinator.com/item?id=48043964",
-      "score": 131,
-      "comments": 29,
-      "author": "SpyCoder77"
+      "title": "The Self-Cancelling Subscription",
+      "url": "https://predr.ag/blog/the-self-cancelling-subscription/",
+      "hn_url": "https://news.ycombinator.com/item?id=48049764",
+      "score": 100,
+      "comments": 43,
+      "author": "surprisetalk"
     },
     {
       "rank": 14,
-      "title": "The brave souls who bought a used, 340k-mile rental camper van",
-      "url": "https://www.thedrive.com/news/meet-the-brave-souls-who-bought-a-used-340000-mile-rental-camper-van",
-      "hn_url": "https://news.ycombinator.com/item?id=48026710",
-      "score": 10,
+      "title": "Principles for agent-native CLIs",
+      "url": "https://twitter.com/trevin/status/2051316002730991795",
+      "hn_url": "https://news.ycombinator.com/item?id=48052333",
+      "score": 8,
       "comments": 0,
-      "author": "PaulHoule"
+      "author": "blumpy22"
     },
     {
       "rank": 15,
-      "title": "Show HN: Trust – Coding Rust like it's 1989",
-      "url": "https://github.com/wojtczyk/trust",
-      "hn_url": "https://news.ycombinator.com/item?id=48045939",
-      "score": 36,
-      "comments": 11,
-      "author": "wojtczyk"
+      "title": "MPEG-2 Transport Stream Packaging for Media over QUIC Transport",
+      "url": "https://www.ietf.org/archive/id/draft-gregoire-moq-msfts-00.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48049963",
+      "score": 37,
+      "comments": 9,
+      "author": "mondainx"
     },
     {
       "rank": 16,
-      "title": "SingleRide: Longest route on NYC Subway without visiting the same station twice",
-      "url": "https://singleride.nyc/",
-      "hn_url": "https://news.ycombinator.com/item?id=48029261",
-      "score": 21,
-      "comments": 9,
-      "author": "TMWNN"
+      "title": "Motherboard sales 'collapse' amid unprecedented shortages fueled by AI",
+      "url": "https://www.tomshardware.com/pc-components/motherboards/motherboard-sales-collapse-by-more-than-25-percent-as-chipmakers-strangle-enthusiast-pc-market-to-build-more-ai-chips-asus-projected-to-sell-5-million-fewer-boards-in-2025-gigabyte-msi-and-asrock-also-expected-to-see-reduced-sales-numbers",
+      "hn_url": "https://news.ycombinator.com/item?id=48050540",
+      "score": 151,
+      "comments": 146,
+      "author": "speckx"
     },
     {
       "rank": 17,
-      "title": "Making LLM Training Faster with Unsloth and NVIDIA",
-      "url": "https://unsloth.ai/blog/nvidia-collab",
-      "hn_url": "https://news.ycombinator.com/item?id=48046397",
-      "score": 58,
-      "comments": 9,
-      "author": "segmenta"
+      "title": "SQLite Is a Library of Congress Recommended Storage Format",
+      "url": "https://sqlite.org/locrsf.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48042434",
+      "score": 559,
+      "comments": 169,
+      "author": "whatisabcdefgh"
     },
     {
       "rank": 18,
-      "title": "Show HN: Agent-skills-eval – Test whether Agent Skills improve outputs",
-      "url": "https://github.com/darkrishabh/agent-skills-eval",
-      "hn_url": "https://news.ycombinator.com/item?id=48046023",
-      "score": 28,
-      "comments": 5,
-      "author": "darkrishabh"
+      "title": "I switched from Mac to a Lenovo Chromebook",
+      "url": "https://blog.johnozbay.com/i-left-apples-ecosystem-for-a-lenovo-chromebook-and-you-can-too.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48051025",
+      "score": 72,
+      "comments": 94,
+      "author": "speckx"
     },
     {
       "rank": 19,
-      "title": "Google Cloud fraud defense, the next evolution of reCAPTCHA",
-      "url": "https://cloud.google.com/blog/products/identity-security/introducing-google-cloud-fraud-defense-the-next-evolution-of-recaptcha/",
-      "hn_url": "https://news.ycombinator.com/item?id=48039362",
-      "score": 318,
-      "comments": 326,
-      "author": "unforgivenpasta"
+      "title": "How Cloudflare responded to the “Copy Fail” Linux vulnerability",
+      "url": "https://blog.cloudflare.com/copy-fail-linux-vulnerability-mitigation/",
+      "hn_url": "https://news.ycombinator.com/item?id=48049160",
+      "score": 59,
+      "comments": 54,
+      "author": "mobeigi"
     },
     {
       "rank": 20,
-      "title": "From Supabase to Clerk to Better Auth",
-      "url": "https://blog.val.town/better-auth",
-      "hn_url": "https://news.ycombinator.com/item?id=48038827",
-      "score": 265,
-      "comments": 193,
-      "author": "stevekrouse"
+      "title": "Brazil's Pix Payment System Faces Pressure from Visa and Mastercard",
+      "url": "https://www.elciudadano.com/en/brazils-pix-payment-system-faces-pressure-from-visa-and-mastercard/04/04/",
+      "hn_url": "https://news.ycombinator.com/item?id=48052371",
+      "score": 32,
+      "comments": 18,
+      "author": "wslh"
     },
     {
       "rank": 21,
-      "title": "What I learned making an app for my family",
-      "url": "https://mendelgreenberg.com/posts/ourcar/",
-      "hn_url": "https://news.ycombinator.com/item?id=48036190",
-      "score": 62,
-      "comments": 36,
-      "author": "chabad360"
+      "title": "Show HN: Stage CLI – an easier way of reading your AI generated changes locally",
+      "url": "https://github.com/ReviewStage/stage-cli",
+      "hn_url": "https://news.ycombinator.com/item?id=48050732",
+      "score": 11,
+      "comments": 6,
+      "author": "cpan22"
     },
     {
       "rank": 22,
-      "title": "Show HN: Hallucinopedia",
-      "url": "http://halupedia.com/",
-      "hn_url": "https://news.ycombinator.com/item?id=48038257",
-      "score": 239,
-      "comments": 215,
-      "author": "bstrama"
+      "title": "OurCar: What I learned making an app for my family",
+      "url": "https://mendelgreenberg.com/posts/ourcar/",
+      "hn_url": "https://news.ycombinator.com/item?id=48036190",
+      "score": 75,
+      "comments": 53,
+      "author": "chabad360"
     },
     {
       "rank": 23,
-      "title": "Pen pal programs endure in a digital age",
-      "url": "https://apnews.com/article/pen-pals-letters-comeback-bc87e1b9c229665bafd368e19751d6ca",
-      "hn_url": "https://news.ycombinator.com/item?id=48032069",
-      "score": 52,
-      "comments": 11,
-      "author": "petethomas"
+      "title": "Speedup in Lattice Boltzmann Cylinder Flow",
+      "url": "https://github.com/alikamp/Parks-KPBM-Scaling",
+      "hn_url": "https://news.ycombinator.com/item?id=48012342",
+      "score": 40,
+      "comments": 3,
+      "author": "kauai1"
     },
     {
       "rank": 24,
-      "title": "Community firmware for the Xteink X4 e-paper reader",
-      "url": "https://github.com/crosspoint-reader/crosspoint-reader",
-      "hn_url": "https://news.ycombinator.com/item?id=48021901",
-      "score": 110,
-      "comments": 33,
-      "author": "dmos62"
-    },
-    {
-      "rank": 25,
-      "title": "The Mathematical Dance Inside Plant Cells",
-      "url": "https://www.quantamagazine.org/the-hidden-mathematical-dance-inside-plant-cells-20260504/",
-      "hn_url": "https://news.ycombinator.com/item?id=48019414",
-      "score": 50,
-      "comments": 2,
-      "author": "isaacfrond"
+      "title": "Show HN: TRUST – Coding Rust like it's 1989",
+      "url": "https://github.com/wojtczyk/trust",
+      "hn_url": "https://news.ycombinator.com/item?id=48045939",
+      "score": 82,
+      "comments": 54,
+      "author": "wojtczyk"
     }
   ]
 }

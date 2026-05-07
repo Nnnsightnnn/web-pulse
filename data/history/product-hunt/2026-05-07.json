@@ -1,7 +1,7 @@
 {
   "source": "product-hunt",
   "label": "Product Hunt — top products",
-  "fetched_at": "2026-05-07T11:28:37.657Z",
+  "fetched_at": "2026-05-07T19:01:59.502Z",
   "configured": true,
   "items": [
     {
@@ -9,7 +9,7 @@
       "title": "Brila",
       "url": "https://www.producthunt.com/products/brila-2/launches/brila-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+web-pulse+%28ID%3A+282925%29",
       "tagline": "One-page websites from real Google Maps reviews",
-      "votes_count": 1315,
+      "votes_count": 1317,
       "comments_count": 245
     },
     {
@@ -17,7 +17,7 @@
       "title": "Fathom 3.0",
       "url": "https://www.producthunt.com/products/fathom/launches/fathom-3-0?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+web-pulse+%28ID%3A+282925%29",
       "tagline": "AI meeting notes: now bot-free, in ChatGPT & Claude + more",
-      "votes_count": 769,
+      "votes_count": 771,
       "comments_count": 234
     },
     {
@@ -25,7 +25,7 @@
       "title": "Plurai",
       "url": "https://www.producthunt.com/products/plurai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+web-pulse+%28ID%3A+282925%29",
       "tagline": "Vibe-train evals and guardrails tailored to your use case",
-      "votes_count": 732,
+      "votes_count": 736,
       "comments_count": 227
     },
     {
@@ -41,8 +41,8 @@
       "title": "Clera",
       "url": "https://www.producthunt.com/products/clera?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+web-pulse+%28ID%3A+282925%29",
       "tagline": "An AI agent matching candidates to the right roles.",
-      "votes_count": 698,
-      "comments_count": 234
+      "votes_count": 701,
+      "comments_count": 237
     },
     {
       "rank": 6,
@@ -57,7 +57,7 @@
       "title": "Dune",
       "url": "https://www.producthunt.com/products/dune-4/launches/dune-5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+web-pulse+%28ID%3A+282925%29",
       "tagline": "Context-aware Mac keypad to automate workflows + meetings",
-      "votes_count": 628,
+      "votes_count": 629,
       "comments_count": 121
     },
     {
@@ -65,7 +65,7 @@
       "title": "Open Wearables",
       "url": "https://www.producthunt.com/products/open-wearables?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+web-pulse+%28ID%3A+282925%29",
       "tagline": "Open infrastructure for wearable-powered health products.",
-      "votes_count": 623,
+      "votes_count": 621,
       "comments_count": 316
     },
     {
@@ -73,7 +73,7 @@
       "title": "RankAI",
       "url": "https://www.producthunt.com/products/rankai-2/launches/rankai-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+web-pulse+%28ID%3A+282925%29",
       "tagline": "RankAI autonomously gets you buyers from Google & AI Search",
-      "votes_count": 604,
+      "votes_count": 605,
       "comments_count": 109
     },
     {
@@ -81,8 +81,8 @@
       "title": "Kilo Code v7 for VS Code",
       "url": "https://www.producthunt.com/products/kilocode?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+web-pulse+%28ID%3A+282925%29",
       "tagline": "Parallel agents, diff reviewer, and multi-model comparisons",
-      "votes_count": 600,
-      "comments_count": 126
+      "votes_count": 605,
+      "comments_count": 131
     },
     {
       "rank": 11,
@@ -118,6 +118,14 @@
     },
     {
       "rank": 15,
+      "title": "Ask Product Hunt AI",
+      "url": "https://www.producthunt.com/products/producthunt?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+web-pulse+%28ID%3A+282925%29",
+      "tagline": "Find the right product, just ask",
+      "votes_count": 579,
+      "comments_count": 34
+    },
+    {
+      "rank": 16,
       "title": "Claude Code Desktop App Redesigned",
       "url": "https://www.producthunt.com/products/claude-redesigned/launches/claude-code-desktop-app-redesigned?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+web-pulse+%28ID%3A+282925%29",
       "tagline": "Run parallel coding agents from one desktop workspace",
@@ -125,19 +133,11 @@
       "comments_count": 16
     },
     {
-      "rank": 16,
-      "title": "Ask Product Hunt AI",
-      "url": "https://www.producthunt.com/products/producthunt?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+web-pulse+%28ID%3A+282925%29",
-      "tagline": "Find the right product, just ask",
-      "votes_count": 578,
-      "comments_count": 34
-    },
-    {
       "rank": 17,
       "title": "Velo 2.0",
       "url": "https://www.producthunt.com/products/velo-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+web-pulse+%28ID%3A+282925%29",
       "tagline": "Instantly turn your voice and screen into shareable videos",
-      "votes_count": 563,
+      "votes_count": 564,
       "comments_count": 87
     },
     {
@@ -145,7 +145,7 @@
       "title": "Claude Design by Anthropic Labs",
       "url": "https://www.producthunt.com/products/claude/launches/claude-design-by-anthropic-labs-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+web-pulse+%28ID%3A+282925%29",
       "tagline": "Make prototypes, slides & one-pagers by talking to Claude",
-      "votes_count": 542,
+      "votes_count": 543,
       "comments_count": 21
     },
     {
@@ -153,7 +153,7 @@
       "title": "Postiz",
       "url": "https://www.producthunt.com/products/postiz?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+web-pulse+%28ID%3A+282925%29",
       "tagline": "Agentic social media scheduler for agents like OpenClaw",
-      "votes_count": 523,
+      "votes_count": 530,
       "comments_count": 57
     },
     {
