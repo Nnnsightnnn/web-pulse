@@ -1,0 +1,232 @@
+{
+  "source": "hackernews",
+  "label": "Hacker News — top stories",
+  "fetched_at": "2026-05-08T11:14:23.764Z",
+  "items": [
+    {
+      "rank": 1,
+      "title": "Canvas is down as ShinyHunters threatens to leak schools’ data",
+      "url": "https://www.theverge.com/tech/926458/canvas-shinyhunters-breach",
+      "hn_url": "https://news.ycombinator.com/item?id=48055913",
+      "score": 687,
+      "comments": 418,
+      "author": "stefanpie"
+    },
+    {
+      "rank": 2,
+      "title": "Cloudflare to cut about 20% workforce",
+      "url": "https://www.reuters.com/business/world-at-work/cloudflare-cut-over-1100-jobs-2026-05-07/",
+      "hn_url": "https://news.ycombinator.com/item?id=48054423",
+      "score": 816,
+      "comments": 538,
+      "author": "PriorityLeft"
+    },
+    {
+      "rank": 3,
+      "title": "Maybe you shouldn't install new software for a bit",
+      "url": "https://xeiaso.net/blog/2026/abstain-from-install/",
+      "hn_url": "https://news.ycombinator.com/item?id=48056227",
+      "score": 567,
+      "comments": 303,
+      "author": "psxuaw"
+    },
+    {
+      "rank": 4,
+      "title": "Nintendo announces price increases for Nintendo Switch 2",
+      "url": "https://www.nintendo.co.jp/corporate/release/en/2026/260508.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48059606",
+      "score": 44,
+      "comments": 33,
+      "author": "razorbeamz"
+    },
+    {
+      "rank": 5,
+      "title": "Dirtyfrag: Universal Linux LPE",
+      "url": "https://www.openwall.com/lists/oss-security/2026/05/07/8",
+      "hn_url": "https://news.ycombinator.com/item?id=48053623",
+      "score": 664,
+      "comments": 272,
+      "author": "flipped"
+    },
+    {
+      "rank": 6,
+      "title": "ClojureScript Gets Async/Await",
+      "url": "https://clojurescript.org/news/2026-05-07-release",
+      "hn_url": "https://news.ycombinator.com/item?id=48059662",
+      "score": 78,
+      "comments": 21,
+      "author": "Borkdude"
+    },
+    {
+      "rank": 7,
+      "title": "The map that keeps Burning Man honest",
+      "url": "https://www.not-ship.com/burning-man-moop/",
+      "hn_url": "https://news.ycombinator.com/item?id=48049653",
+      "score": 661,
+      "comments": 321,
+      "author": "speckx"
+    },
+    {
+      "rank": 8,
+      "title": "Dithering with CSS",
+      "url": "https://ikesau.co/blog/dithering-with-css/",
+      "hn_url": "https://news.ycombinator.com/item?id=48009879",
+      "score": 25,
+      "comments": 9,
+      "author": "speckx"
+    },
+    {
+      "rank": 9,
+      "title": "The surprisingly complex journey to text-selectable client-side generated PDFs",
+      "url": "https://sdocs.dev/blogs/journey-to-pdf-generation",
+      "hn_url": "https://news.ycombinator.com/item?id=48045778",
+      "score": 27,
+      "comments": 12,
+      "author": "FailMore"
+    },
+    {
+      "rank": 10,
+      "title": "Pinocchio is weirder than you remembered",
+      "url": "https://storica.club/blog/pinocchio-in-italian/",
+      "hn_url": "https://news.ycombinator.com/item?id=48035420",
+      "score": 167,
+      "comments": 73,
+      "author": "cemsakarya"
+    },
+    {
+      "rank": 11,
+      "title": "A polynomial autoencoder beats PCA on transformer embeddings",
+      "url": "https://ivanpleshkov.dev/blog/polynomial-autoencoder/",
+      "hn_url": "https://news.ycombinator.com/item?id=48021023",
+      "score": 50,
+      "comments": 15,
+      "author": "timvisee"
+    },
+    {
+      "rank": 12,
+      "title": "Agents need control flow, not more prompts",
+      "url": "https://bsuh.bearblog.dev/agents-need-control-flow/",
+      "hn_url": "https://news.ycombinator.com/item?id=48051562",
+      "score": 479,
+      "comments": 238,
+      "author": "bsuh"
+    },
+    {
+      "rank": 13,
+      "title": "Floats Don't Agree with Themselves",
+      "url": "https://docs.merca.earth/blog/floats-dont-agree-with-themselves",
+      "hn_url": "https://news.ycombinator.com/item?id=48036923",
+      "score": 22,
+      "comments": 8,
+      "author": "cremer"
+    },
+    {
+      "rank": 14,
+      "title": "Natural Language Autoencoders: Turning Claude's Thoughts into Text",
+      "url": "https://www.anthropic.com/research/natural-language-autoencoders",
+      "hn_url": "https://news.ycombinator.com/item?id=48052537",
+      "score": 291,
+      "comments": 98,
+      "author": "instagraham"
+    },
+    {
+      "rank": 15,
+      "title": "DeepSeek 4 Flash local inference engine for Metal",
+      "url": "https://github.com/antirez/ds4",
+      "hn_url": "https://news.ycombinator.com/item?id=48050751",
+      "score": 408,
+      "comments": 117,
+      "author": "tamnd"
+    },
+    {
+      "rank": 16,
+      "title": "Brazil's Pix payment system faces pressure from Visa and Mastercard",
+      "url": "https://www.elciudadano.com/en/brazils-pix-payment-system-faces-pressure-from-visa-and-mastercard/04/04/",
+      "hn_url": "https://news.ycombinator.com/item?id=48052371",
+      "score": 219,
+      "comments": 187,
+      "author": "wslh"
+    },
+    {
+      "rank": 17,
+      "title": "Blaise – A modern self-hosting zero-legacy Object Pascal compiler targeting QBE",
+      "url": "https://github.com/graemeg/blaise",
+      "hn_url": "https://news.ycombinator.com/item?id=48058644",
+      "score": 52,
+      "comments": 18,
+      "author": "peter_d_sherman"
+    },
+    {
+      "rank": 18,
+      "title": "AlphaEvolve: Gemini-powered coding agent scaling impact across fields",
+      "url": "https://deepmind.google/blog/alphaevolve-impact/",
+      "hn_url": "https://news.ycombinator.com/item?id=48050278",
+      "score": 299,
+      "comments": 124,
+      "author": "berlianta"
+    },
+    {
+      "rank": 19,
+      "title": "Singapore introduces caning for boys who bully others at school",
+      "url": "https://www.theguardian.com/world/2026/may/06/singapore-caning-school-bullies",
+      "hn_url": "https://news.ycombinator.com/item?id=48032968",
+      "score": 201,
+      "comments": 296,
+      "author": "rustoo"
+    },
+    {
+      "rank": 20,
+      "title": "Plasticity and language in the anaesthetized human hippocampus",
+      "url": "https://www.bcm.edu/news/researchers-discover-advanced-language-processing-in-the-unconscious-human-brain",
+      "hn_url": "https://news.ycombinator.com/item?id=48056268",
+      "score": 113,
+      "comments": 43,
+      "author": "hhs"
+    },
+    {
+      "rank": 21,
+      "title": "Hardening Firefox with Claude Mythos Preview",
+      "url": "https://hacks.mozilla.org/2026/05/behind-the-scenes-hardening-firefox/",
+      "hn_url": "https://news.ycombinator.com/item?id=48051079",
+      "score": 212,
+      "comments": 100,
+      "author": "HieronymusBosch"
+    },
+    {
+      "rank": 22,
+      "title": "AI slop is killing online communities",
+      "url": "https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/",
+      "hn_url": "https://news.ycombinator.com/item?id=48053203",
+      "score": 681,
+      "comments": 587,
+      "author": "thm"
+    },
+    {
+      "rank": 23,
+      "title": "Digging into Drama at the Document Foundation",
+      "url": "https://lwn.net/Articles/1066418/",
+      "hn_url": "https://news.ycombinator.com/item?id=48058337",
+      "score": 36,
+      "comments": 3,
+      "author": "signa11"
+    },
+    {
+      "rank": 24,
+      "title": "GNU IFUNC is the real culprit behind CVE-2024-3094",
+      "url": "https://github.com/robertdfrench/ifuncd-up",
+      "hn_url": "https://news.ycombinator.com/item?id=48056749",
+      "score": 89,
+      "comments": 39,
+      "author": "foltik"
+    },
+    {
+      "rank": 25,
+      "title": "Two Home Affairs officials suspended after AI 'hallucinations' found",
+      "url": "https://www.citizen.co.za/news/home-affairs-officials-suspended-ai-hallucinations/",
+      "hn_url": "https://news.ycombinator.com/item?id=48053842",
+      "score": 104,
+      "comments": 23,
+      "author": "jruohonen"
+    }
+  ]
+}
