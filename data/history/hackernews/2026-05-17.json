@@ -1,0 +1,232 @@
+{
+  "source": "hackernews",
+  "label": "Hacker News — top stories",
+  "fetched_at": "2026-05-17T11:06:21.393Z",
+  "items": [
+    {
+      "rank": 1,
+      "title": "Zerostack – A Unix-inspired coding agent written in pure Rust",
+      "url": "https://crates.io/crates/zerostack/1.0.0",
+      "hn_url": "https://news.ycombinator.com/item?id=48164287",
+      "score": 413,
+      "comments": 181,
+      "author": "gidellav"
+    },
+    {
+      "rank": 2,
+      "title": "Mozilla to UK regulators: VPNs are essential privacy and security tools",
+      "url": "https://blog.mozilla.org/netpolicy/2026/05/15/mozilla-to-uk-regulators-vpns-are-essential-privacy-and-security-tools-and-should-not-be-undermined/",
+      "hn_url": "https://news.ycombinator.com/item?id=48166459",
+      "score": 243,
+      "comments": 73,
+      "author": "WithinReason"
+    },
+    {
+      "rank": 3,
+      "title": "A nicer voltmeter clock",
+      "url": "https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock",
+      "hn_url": "https://news.ycombinator.com/item?id=48164432",
+      "score": 202,
+      "comments": 25,
+      "author": "surprisetalk"
+    },
+    {
+      "rank": 4,
+      "title": "Hosting a website on an 8-bit microcontroller",
+      "url": "https://maurycyz.com/projects/mcusite/",
+      "hn_url": "https://news.ycombinator.com/item?id=48165295",
+      "score": 142,
+      "comments": 12,
+      "author": "zdw"
+    },
+    {
+      "rank": 5,
+      "title": "Colossus: The Forbin Project",
+      "url": "https://en.wikipedia.org/wiki/Colossus:_The_Forbin_Project",
+      "hn_url": "https://news.ycombinator.com/item?id=48142115",
+      "score": 111,
+      "comments": 33,
+      "author": "doener"
+    },
+    {
+      "rank": 6,
+      "title": "Playing Atari ST Music on the Amiga with Zero CPU",
+      "url": "https://arnaud-carre.github.io/2026-05-15-ym-fast-emu/",
+      "hn_url": "https://news.ycombinator.com/item?id=48166920",
+      "score": 45,
+      "comments": 9,
+      "author": "z303"
+    },
+    {
+      "rank": 7,
+      "title": "OpenAI and Government of Malta partner to roll out ChatGPT Plus to all citizens",
+      "url": "https://openai.com/index/malta-chatgpt-plus-partnership/",
+      "hn_url": "https://news.ycombinator.com/item?id=48163392",
+      "score": 203,
+      "comments": 236,
+      "author": "bookofjoe"
+    },
+    {
+      "rank": 8,
+      "title": "Moving away from Tailwind, and learning to structure my CSS",
+      "url": "https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/",
+      "hn_url": "https://news.ycombinator.com/item?id=48158400",
+      "score": 560,
+      "comments": 319,
+      "author": "mpweiher"
+    },
+    {
+      "rank": 9,
+      "title": "SANA-WM, a 2.6B open-source world model for 1-minute 720p video",
+      "url": "https://nvlabs.github.io/Sana/WM/",
+      "hn_url": "https://news.ycombinator.com/item?id=48159445",
+      "score": 347,
+      "comments": 136,
+      "author": "mjgil"
+    },
+    {
+      "rank": 10,
+      "title": "Prolog Basics Explained with Pokémon",
+      "url": "https://unplannedobsolescence.com/blog/prolog-basics-pokemon/",
+      "hn_url": "https://news.ycombinator.com/item?id=48147091",
+      "score": 12,
+      "comments": 1,
+      "author": "birdculture"
+    },
+    {
+      "rank": 11,
+      "title": "Roman Letters",
+      "url": "https://romanletters.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=48142154",
+      "score": 29,
+      "comments": 5,
+      "author": "diodorus"
+    },
+    {
+      "rank": 12,
+      "title": "Illusions of understanding in the sciences",
+      "url": "https://link.springer.com/article/10.1007/s42113-026-00271-1",
+      "hn_url": "https://news.ycombinator.com/item?id=48140297",
+      "score": 50,
+      "comments": 21,
+      "author": "sebg"
+    },
+    {
+      "rank": 13,
+      "title": "We've made the world too complicated",
+      "url": "https://user8.bearblog.dev/the-world-is-too-complicated/",
+      "hn_url": "https://news.ycombinator.com/item?id=48158065",
+      "score": 308,
+      "comments": 288,
+      "author": "James72689"
+    },
+    {
+      "rank": 14,
+      "title": "The Third Hard Problem",
+      "url": "https://mmapped.blog/posts/48-the-third-hard-problem",
+      "hn_url": "https://news.ycombinator.com/item?id=48134784",
+      "score": 85,
+      "comments": 44,
+      "author": "surprisetalk"
+    },
+    {
+      "rank": 15,
+      "title": "Accelerando (2005)",
+      "url": "https://www.antipope.org/charlie/blog-static/fiction/accelerando/accelerando.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48159241",
+      "score": 300,
+      "comments": 168,
+      "author": "eamag"
+    },
+    {
+      "rank": 16,
+      "title": "C++26 Shipped a SIMD Library Nobody Asked For",
+      "url": "https://lucisqr.substack.com/p/c26-shipped-a-simd-library-nobody",
+      "hn_url": "https://news.ycombinator.com/item?id=48144584",
+      "score": 144,
+      "comments": 100,
+      "author": "signa11"
+    },
+    {
+      "rank": 17,
+      "title": "MCP Hello Page",
+      "url": "https://www.hybridlogic.co.uk/blog/2026/05/mcp-hello-page",
+      "hn_url": "https://news.ycombinator.com/item?id=48164294",
+      "score": 102,
+      "comments": 35,
+      "author": "Dachande663"
+    },
+    {
+      "rank": 18,
+      "title": "Frontier AI has broken the open CTF format",
+      "url": "https://kabir.au/blog/the-ctf-scene-is-dead",
+      "hn_url": "https://news.ycombinator.com/item?id=48157559",
+      "score": 386,
+      "comments": 391,
+      "author": "frays"
+    },
+    {
+      "rank": 19,
+      "title": "δ-mem: Efficient Online Memory for Large Language Models",
+      "url": "https://arxiv.org/abs/2605.12357",
+      "hn_url": "https://news.ycombinator.com/item?id=48158506",
+      "score": 220,
+      "comments": 57,
+      "author": "44za12"
+    },
+    {
+      "rank": 20,
+      "title": "Halt and Catch Fire",
+      "url": "https://unstack.io/halt-and-catch-fire",
+      "hn_url": "https://news.ycombinator.com/item?id=48162468",
+      "score": 143,
+      "comments": 76,
+      "author": "ScottWRobinson"
+    },
+    {
+      "rank": 21,
+      "title": "Unknowable Math Can Help Hide Secrets",
+      "url": "https://www.quantamagazine.org/how-unknowable-math-can-help-hide-secrets-20260511/",
+      "hn_url": "https://news.ycombinator.com/item?id=48123801",
+      "score": 53,
+      "comments": 11,
+      "author": "Xcelerate"
+    },
+    {
+      "rank": 22,
+      "title": "Why did Clovis toolmakers choose difficult quartz crystal?",
+      "url": "https://phys.org/news/2026-04-clovis-toolmakers-difficult-quartz-crystal.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48139435",
+      "score": 26,
+      "comments": 15,
+      "author": "PaulHoule"
+    },
+    {
+      "rank": 23,
+      "title": "A molecule with half-Möbius topology",
+      "url": "https://www.science.org/doi/10.1126/science.aea3321",
+      "hn_url": "https://news.ycombinator.com/item?id=48109756",
+      "score": 100,
+      "comments": 7,
+      "author": "bryanrasmussen"
+    },
+    {
+      "rank": 24,
+      "title": "Twilight of the Velocipede: Typesetting Races Before the Age of Linotype",
+      "url": "https://publicdomainreview.org/essay/twilight-of-the-velocipede/",
+      "hn_url": "https://news.ycombinator.com/item?id=48163956",
+      "score": 15,
+      "comments": 0,
+      "author": "benbreen"
+    },
+    {
+      "rank": 25,
+      "title": "Self-Distillation Enables Continual Learning [pdf]",
+      "url": "https://arxiv.org/abs/2601.19897",
+      "hn_url": "https://news.ycombinator.com/item?id=48165265",
+      "score": 66,
+      "comments": 16,
+      "author": "teleforce"
+    }
+  ]
+}
