@@ -1,0 +1,335 @@
+{
+  "source": "stackoverflow",
+  "label": "Stack Overflow — hot questions",
+  "fetched_at": "2026-05-18T11:13:14.908Z",
+  "items": [
+    {
+      "rank": 1,
+      "title": "Blazor pages are not showing",
+      "url": "https://stackoverflow.com/questions/79942927/blazor-pages-are-not-showing",
+      "score": -1,
+      "answers": 0,
+      "views": 12,
+      "tags": [
+        "blazor",
+        "blazor-webassembly"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Use command substitution as arguments for `cp` command",
+      "url": "https://stackoverflow.com/questions/79942911/use-command-substitution-as-arguments-for-cp-command",
+      "score": 0,
+      "answers": 1,
+      "views": 24,
+      "tags": [
+        "printf",
+        "escaping",
+        "command-line-arguments",
+        "eval",
+        "command-substitution"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "restore regular ctl-z handling within interact in expect",
+      "url": "https://stackoverflow.com/questions/79942915/restore-regular-ctl-z-handling-within-interact-in-expect",
+      "score": 1,
+      "answers": 0,
+      "views": 15,
+      "tags": [
+        "tcl",
+        "expect"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Modeling clock domain crossing jitter for multi-bit signals in RTL",
+      "url": "https://stackoverflow.com/questions/79942916/modeling-clock-domain-crossing-jitter-for-multi-bit-signals-in-rtl",
+      "score": 0,
+      "answers": 0,
+      "views": 13,
+      "tags": [
+        "fpga",
+        "cdc",
+        "register-transfer-level",
+        "asic",
+        "gray-code"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Force ruff to always fold multiple import from same module",
+      "url": "https://stackoverflow.com/questions/79942841/force-ruff-to-always-fold-multiple-import-from-same-module",
+      "score": -2,
+      "answers": 1,
+      "views": 35,
+      "tags": [
+        "python",
+        "ruff"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "GetWindowLongPtr with GWL_STYLE does not return all styles",
+      "url": "https://stackoverflow.com/questions/79942815/getwindowlongptr-with-gwl-style-does-not-return-all-styles",
+      "score": 0,
+      "answers": 0,
+      "views": 32,
+      "tags": [
+        "c++",
+        "winapi"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "QEMU failing kvm_arch_init_vcpu()",
+      "url": "https://stackoverflow.com/questions/79942885/qemu-failing-kvm-arch-init-vcpu",
+      "score": -2,
+      "answers": 0,
+      "views": 31,
+      "tags": [
+        "ubuntu",
+        "qemu",
+        "kvm"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Equivalent of AsyncLocal for native C++ side in a .NET profiler",
+      "url": "https://stackoverflow.com/questions/79942887/equivalent-of-asynclocal-for-native-c-side-in-a-net-profiler",
+      "score": 1,
+      "answers": 0,
+      "views": 29,
+      "tags": [
+        "c++",
+        "multithreading",
+        "asp.net-core",
+        "async-await",
+        "thread-local-storage"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "My authorization token is getting expired during test execution",
+      "url": "https://stackoverflow.com/questions/79942859/my-authorization-token-is-getting-expired-during-test-execution",
+      "score": -4,
+      "answers": 0,
+      "views": 27,
+      "tags": [
+        "karate"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "AI server with agents",
+      "url": "https://stackoverflow.com/questions/79942852/ai-server-with-agents",
+      "score": 0,
+      "answers": 0,
+      "views": 27,
+      "tags": [
+        "server",
+        "artificial-intelligence",
+        "agent",
+        "multi-user"
+      ]
+    },
+    {
+      "rank": 11,
+      "title": "Symfony 7.4 AssetMapper, Tailwindv4, Preline: unable to find asset \"tailwindcss\" referenced in \".../assets/vendor/preline/src/plugins/tabs/styles.css\"",
+      "url": "https://stackoverflow.com/questions/79942866/symfony-7-4-assetmapper-tailwindv4-preline-unable-to-find-asset-tailwindcss",
+      "score": -2,
+      "answers": 0,
+      "views": 26,
+      "tags": [
+        "symfony",
+        "tailwind-css",
+        "symfony-assetmapper"
+      ]
+    },
+    {
+      "rank": 12,
+      "title": "CI/CD build failures",
+      "url": "https://stackoverflow.com/questions/79942855/ci-cd-build-failures",
+      "score": 0,
+      "answers": 1,
+      "views": 25,
+      "tags": [
+        "automation",
+        "github-actions",
+        "cicd"
+      ]
+    },
+    {
+      "rank": 13,
+      "title": "Debugging Python threads, in Spyder",
+      "url": "https://stackoverflow.com/questions/79942871/debugging-python-threads-in-spyder",
+      "score": -1,
+      "answers": 0,
+      "views": 24,
+      "tags": [
+        "multithreading",
+        "debugging",
+        "spyder"
+      ]
+    },
+    {
+      "rank": 14,
+      "title": "What is the most idiomatic way to get the total product of an array of numbers in JavaScript?",
+      "url": "https://stackoverflow.com/questions/79942858/what-is-the-most-idiomatic-way-to-get-the-total-product-of-an-array-of-numbers-i",
+      "score": -3,
+      "answers": 0,
+      "views": 24,
+      "tags": [
+        "javascript",
+        "arrays",
+        "ecmascript-6"
+      ]
+    },
+    {
+      "rank": 15,
+      "title": "clang reject bit_cast to struct with nested array, in presence of padding bit",
+      "url": "https://stackoverflow.com/questions/79942884/clang-reject-bit-cast-to-struct-with-nested-array-in-presence-of-padding-bit",
+      "score": 0,
+      "answers": 0,
+      "views": 20,
+      "tags": [
+        "c++",
+        "nested",
+        "padding",
+        "clang++",
+        "bit-cast"
+      ]
+    },
+    {
+      "rank": 16,
+      "title": "Rows not deduplicated in keyed stream table when written from two Python paths with matching primary keys",
+      "url": "https://stackoverflow.com/questions/79942864/rows-not-deduplicated-in-keyed-stream-table-when-written-from-two-python-paths-w",
+      "score": 0,
+      "answers": 0,
+      "views": 20,
+      "tags": [
+        "python",
+        "streaming",
+        "dolphindb"
+      ]
+    },
+    {
+      "rank": 17,
+      "title": "Moving from GCP HMAC bucket access to IAM based auth",
+      "url": "https://stackoverflow.com/questions/79942850/moving-from-gcp-hmac-bucket-access-to-iam-based-auth",
+      "score": -3,
+      "answers": 0,
+      "views": 19,
+      "tags": [
+        "google-cloud-platform",
+        "credentials",
+        "bucket",
+        "google-iam"
+      ]
+    },
+    {
+      "rank": 18,
+      "title": "Why does a non-match on an empty string with PHP's sscanf() return -1 instead of 0?",
+      "url": "https://stackoverflow.com/questions/79942833/why-does-a-non-match-on-an-empty-string-with-phps-sscanf-return-1-instead-of",
+      "score": 0,
+      "answers": 1,
+      "views": 49,
+      "tags": [
+        "php",
+        "string",
+        "scanf",
+        "string-parsing"
+      ]
+    },
+    {
+      "rank": 19,
+      "title": "How to query data from Grafana with HTTP GET request?",
+      "url": "https://stackoverflow.com/questions/79942873/how-to-query-data-from-grafana-with-http-get-request",
+      "score": -2,
+      "answers": 1,
+      "views": 23,
+      "tags": [
+        "rest",
+        "grafana"
+      ]
+    },
+    {
+      "rank": 20,
+      "title": "Enabling barge in with audiosocket connection between asterisk and python server",
+      "url": "https://stackoverflow.com/questions/79942879/enabling-barge-in-with-audiosocket-connection-between-asterisk-and-python-server",
+      "score": 0,
+      "answers": 0,
+      "views": 17,
+      "tags": [
+        "python",
+        "asterisk",
+        "audio-streaming",
+        "asterisk-ari",
+        "audiosocket"
+      ]
+    },
+    {
+      "rank": 21,
+      "title": "Apple Numbers COUNTIF \"Range can't be used as a single value\"",
+      "url": "https://stackoverflow.com/questions/79942877/apple-numbers-countif-range-cant-be-used-as-a-single-value",
+      "score": 2,
+      "answers": 0,
+      "views": 17,
+      "tags": [
+        "excel",
+        "excel-formula",
+        "countif",
+        "apple-numbers"
+      ]
+    },
+    {
+      "rank": 22,
+      "title": "Is TCP keepalive useless?",
+      "url": "https://stackoverflow.com/questions/79942822/is-tcp-keepalive-useless",
+      "score": 0,
+      "answers": 2,
+      "views": 64,
+      "tags": [
+        "linux",
+        "tcp-keepalive"
+      ]
+    },
+    {
+      "rank": 23,
+      "title": "Sell course but don't know how",
+      "url": "https://stackoverflow.com/questions/79942831/sell-course-but-dont-know-how",
+      "score": 0,
+      "answers": 0,
+      "views": 37,
+      "tags": [
+        "web",
+        "youtube"
+      ]
+    },
+    {
+      "rank": 24,
+      "title": "Jetty Illegal char <:> at index 2",
+      "url": "https://stackoverflow.com/questions/79942836/jetty-illegal-char-at-index-2",
+      "score": -1,
+      "answers": 1,
+      "views": 34,
+      "tags": [
+        "jetty",
+        "embedded-jetty"
+      ]
+    },
+    {
+      "rank": 25,
+      "title": "How to let one Webapp access another container app",
+      "url": "https://stackoverflow.com/questions/79942817/how-to-let-one-webapp-access-another-container-app",
+      "score": -3,
+      "answers": 0,
+      "views": 33,
+      "tags": [
+        "azure",
+        "azure-web-app-service"
+      ]
+    }
+  ]
+}
