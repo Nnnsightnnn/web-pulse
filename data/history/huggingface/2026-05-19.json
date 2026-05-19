@@ -1,0 +1,282 @@
+{
+  "source": "huggingface",
+  "label": "Hugging Face — trending models",
+  "fetched_at": "2026-05-19T11:07:06.373Z",
+  "items": [
+    {
+      "rank": 1,
+      "title": "SulphurAI/Sulphur-2-base",
+      "url": "https://huggingface.co/SulphurAI/Sulphur-2-base",
+      "author": "SulphurAI",
+      "downloads": 1114657,
+      "likes": 1144,
+      "trending_score": 428,
+      "pipeline_tag": "text-to-video",
+      "last_modified": "2026-05-17T18:31:40.000Z"
+    },
+    {
+      "rank": 2,
+      "title": "openbmb/MiniCPM-V-4.6",
+      "url": "https://huggingface.co/openbmb/MiniCPM-V-4.6",
+      "author": "openbmb",
+      "downloads": 144826,
+      "likes": 786,
+      "trending_score": 411,
+      "pipeline_tag": "image-text-to-text",
+      "last_modified": "2026-05-18T12:58:20.000Z"
+    },
+    {
+      "rank": 3,
+      "title": "Supertone/supertonic-3",
+      "url": "https://huggingface.co/Supertone/supertonic-3",
+      "author": "Supertone",
+      "downloads": 28681,
+      "likes": 444,
+      "trending_score": 328,
+      "pipeline_tag": "text-to-speech",
+      "last_modified": "2026-05-18T08:59:01.000Z"
+    },
+    {
+      "rank": 4,
+      "title": "unsloth/Qwen3.6-27B-MTP-GGUF",
+      "url": "https://huggingface.co/unsloth/Qwen3.6-27B-MTP-GGUF",
+      "author": "unsloth",
+      "downloads": 337076,
+      "likes": 304,
+      "trending_score": 267,
+      "pipeline_tag": "image-text-to-text",
+      "last_modified": "2026-05-18T05:58:01.000Z"
+    },
+    {
+      "rank": 5,
+      "title": "unsloth/Qwen3.6-35B-A3B-MTP-GGUF",
+      "url": "https://huggingface.co/unsloth/Qwen3.6-35B-A3B-MTP-GGUF",
+      "author": "unsloth",
+      "downloads": 296380,
+      "likes": 256,
+      "trending_score": 229,
+      "pipeline_tag": "image-text-to-text",
+      "last_modified": "2026-05-18T03:25:15.000Z"
+    },
+    {
+      "rank": 6,
+      "title": "circlestone-labs/Anima",
+      "url": "https://huggingface.co/circlestone-labs/Anima",
+      "author": "circlestone-labs",
+      "downloads": 558113,
+      "likes": 1417,
+      "trending_score": 184,
+      "pipeline_tag": null,
+      "last_modified": "2026-05-14T17:13:39.000Z"
+    },
+    {
+      "rank": 7,
+      "title": "ResembleAI/Dramabox",
+      "url": "https://huggingface.co/ResembleAI/Dramabox",
+      "author": "ResembleAI",
+      "downloads": 1118,
+      "likes": 167,
+      "trending_score": 164,
+      "pipeline_tag": "text-to-speech",
+      "last_modified": "2026-05-13T16:39:38.000Z"
+    },
+    {
+      "rank": 8,
+      "title": "deepseek-ai/DeepSeek-V4-Pro",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro",
+      "author": "deepseek-ai",
+      "downloads": 3622763,
+      "likes": 4056,
+      "trending_score": 153,
+      "pipeline_tag": "text-generation",
+      "last_modified": "2026-05-06T04:18:44.000Z"
+    },
+    {
+      "rank": 9,
+      "title": "froggeric/Qwen-Fixed-Chat-Templates",
+      "url": "https://huggingface.co/froggeric/Qwen-Fixed-Chat-Templates",
+      "author": "froggeric",
+      "downloads": 0,
+      "likes": 301,
+      "trending_score": 148,
+      "pipeline_tag": null,
+      "last_modified": "2026-05-16T13:44:07.000Z"
+    },
+    {
+      "rank": 10,
+      "title": "bytedance-research/Lance",
+      "url": "https://huggingface.co/bytedance-research/Lance",
+      "author": "bytedance-research",
+      "downloads": 171,
+      "likes": 138,
+      "trending_score": 137,
+      "pipeline_tag": "any-to-any",
+      "last_modified": "2026-05-19T07:43:27.000Z"
+    },
+    {
+      "rank": 11,
+      "title": "TencentARC/Pixal3D",
+      "url": "https://huggingface.co/TencentARC/Pixal3D",
+      "author": "TencentARC",
+      "downloads": 0,
+      "likes": 148,
+      "trending_score": 135,
+      "pipeline_tag": "image-to-3d",
+      "last_modified": "2026-05-12T23:37:47.000Z"
+    },
+    {
+      "rank": 12,
+      "title": "HiDream-ai/HiDream-O1-Image",
+      "url": "https://huggingface.co/HiDream-ai/HiDream-O1-Image",
+      "author": "HiDream-ai",
+      "downloads": 15822,
+      "likes": 395,
+      "trending_score": 131,
+      "pipeline_tag": "image-text-to-image",
+      "last_modified": "2026-05-15T10:40:00.000Z"
+    },
+    {
+      "rank": 13,
+      "title": "Jackrong/Qwopus3.5-9B-Coder-GGUF",
+      "url": "https://huggingface.co/Jackrong/Qwopus3.5-9B-Coder-GGUF",
+      "author": "Jackrong",
+      "downloads": 12117,
+      "likes": 105,
+      "trending_score": 104,
+      "pipeline_tag": "image-text-to-text",
+      "last_modified": "2026-05-19T08:46:19.000Z"
+    },
+    {
+      "rank": 14,
+      "title": "SeeSee21/Z-Anime",
+      "url": "https://huggingface.co/SeeSee21/Z-Anime",
+      "author": "SeeSee21",
+      "downloads": 15794,
+      "likes": 414,
+      "trending_score": 96,
+      "pipeline_tag": "text-to-image",
+      "last_modified": "2026-04-27T01:13:30.000Z"
+    },
+    {
+      "rank": 15,
+      "title": "Zyphra/ZAYA1-8B",
+      "url": "https://huggingface.co/Zyphra/ZAYA1-8B",
+      "author": "Zyphra",
+      "downloads": 146253,
+      "likes": 533,
+      "trending_score": 90,
+      "pipeline_tag": null,
+      "last_modified": "2026-05-11T22:43:52.000Z"
+    },
+    {
+      "rank": 16,
+      "title": "deepseek-ai/DeepSeek-V4-Flash",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash",
+      "author": "deepseek-ai",
+      "downloads": 1998112,
+      "likes": 1153,
+      "trending_score": 88,
+      "pipeline_tag": "text-generation",
+      "last_modified": "2026-05-06T04:18:09.000Z"
+    },
+    {
+      "rank": 17,
+      "title": "Cactus-Compute/needle",
+      "url": "https://huggingface.co/Cactus-Compute/needle",
+      "author": "Cactus-Compute",
+      "downloads": 268,
+      "likes": 88,
+      "trending_score": 87,
+      "pipeline_tag": null,
+      "last_modified": "2026-05-13T09:32:17.000Z"
+    },
+    {
+      "rank": 18,
+      "title": "microsoft/Fara-7B",
+      "url": "https://huggingface.co/microsoft/Fara-7B",
+      "author": "microsoft",
+      "downloads": 14464,
+      "likes": 579,
+      "trending_score": 84,
+      "pipeline_tag": "image-text-to-text",
+      "last_modified": "2025-12-11T22:11:43.000Z"
+    },
+    {
+      "rank": 19,
+      "title": "ScenemaAI/scenema-audio",
+      "url": "https://huggingface.co/ScenemaAI/scenema-audio",
+      "author": "ScenemaAI",
+      "downloads": 297,
+      "likes": 103,
+      "trending_score": 84,
+      "pipeline_tag": "text-to-speech",
+      "last_modified": "2026-05-14T03:19:58.000Z"
+    },
+    {
+      "rank": 20,
+      "title": "Qwen/Qwen3.6-35B-A3B",
+      "url": "https://huggingface.co/Qwen/Qwen3.6-35B-A3B",
+      "author": "Qwen",
+      "downloads": 5711500,
+      "likes": 1821,
+      "trending_score": 82,
+      "pipeline_tag": "image-text-to-text",
+      "last_modified": "2026-04-24T02:53:42.000Z"
+    },
+    {
+      "rank": 21,
+      "title": "inclusionAI/Ring-2.6-1T",
+      "url": "https://huggingface.co/inclusionAI/Ring-2.6-1T",
+      "author": "inclusionAI",
+      "downloads": 3038,
+      "likes": 79,
+      "trending_score": 78,
+      "pipeline_tag": "text-generation",
+      "last_modified": "2026-05-18T09:47:28.000Z"
+    },
+    {
+      "rank": 22,
+      "title": "Qwen/Qwen3.6-27B",
+      "url": "https://huggingface.co/Qwen/Qwen3.6-27B",
+      "author": "Qwen",
+      "downloads": 3681887,
+      "likes": 1336,
+      "trending_score": 77,
+      "pipeline_tag": "image-text-to-text",
+      "last_modified": "2026-04-24T02:39:16.000Z"
+    },
+    {
+      "rank": 23,
+      "title": "internlm/Intern-S2-Preview",
+      "url": "https://huggingface.co/internlm/Intern-S2-Preview",
+      "author": "internlm",
+      "downloads": 1842,
+      "likes": 77,
+      "trending_score": 77,
+      "pipeline_tag": "image-text-to-text",
+      "last_modified": "2026-05-19T08:01:07.000Z"
+    },
+    {
+      "rank": 24,
+      "title": "Jiunsong/supergemma4-26b-uncensored-gguf-v2",
+      "url": "https://huggingface.co/Jiunsong/supergemma4-26b-uncensored-gguf-v2",
+      "author": "Jiunsong",
+      "downloads": 268561,
+      "likes": 627,
+      "trending_score": 72,
+      "pipeline_tag": "text-generation",
+      "last_modified": "2026-04-12T13:42:43.000Z"
+    },
+    {
+      "rank": 25,
+      "title": "google/gemma-4-31B-it",
+      "url": "https://huggingface.co/google/gemma-4-31B-it",
+      "author": "google",
+      "downloads": 10045599,
+      "likes": 2688,
+      "trending_score": 70,
+      "pipeline_tag": "image-text-to-text",
+      "last_modified": "2026-05-18T16:25:18.000Z"
+    }
+  ]
+}
