@@ -374,12 +374,24 @@
     border: 1px solid var(--ink); position: relative; background: var(--paper-2);
     overflow: hidden;
   }
+  .quake-map .map-base {
+    position: absolute; inset: 0; width: 100%; height: 100%;
+    pointer-events: none;
+  }
+  .quake-map .map-base path {
+    fill: rgba(20, 16, 10, 0.09);
+    stroke: rgba(20, 16, 10, 0.45);
+    stroke-width: 0.8;
+    stroke-linejoin: round;
+    vector-effect: non-scaling-stroke;
+  }
   .quake-map .map-grid {
     position: absolute; inset: 0;
     background-image:
       linear-gradient(to right, rgba(0,0,0,0.06) 1px, transparent 1px),
       linear-gradient(to bottom, rgba(0,0,0,0.06) 1px, transparent 1px);
     background-size: 60px 60px;
+    pointer-events: none;
   }
   .quake-map .map-lbl {
     position: absolute; font-family: var(--mono); font-size: 10px;
@@ -599,89 +611,580 @@
   .ticker a.mag-link { color: inherit; }
   .ticker a.mag-link:hover { color: #E8634A; }
 
-  /* ============ MAGAZINE NAV ============ */
-  #mag-nav {
-    position: fixed; left: 50%; bottom: 18px; transform: translateX(-50%);
+  /* ============ ISSUE RAIL ============
+     Vertical thumb-index on the right edge. Collapsed = numbers only
+     (64px). Expands on hover/focus to reveal section names (172px).
+     Sits over the deck stage; floats vertically centered so each
+     spread's masthead (top) and .folio.right (bottom) stay visible. */
+  #issue-rail {
+    position: fixed; right: 0; top: 50%; transform: translateY(-50%);
     z-index: 1000;
-    display: grid; grid-template-columns: auto 1fr auto auto;
-    align-items: stretch; gap: 0;
+    display: flex; flex-direction: column;
+    width: 64px;
+    max-height: min(640px, 88vh);
     background: var(--paper);
-    color: var(--ink);
+    background-image:
+      radial-gradient(ellipse at 100% 0%, rgba(0,0,0,0.05), transparent 60%),
+      url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='180' height='180'><filter id='n'><feTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='2' stitchTiles='stitch'/><feColorMatrix values='0 0 0 0 0.08 0 0 0 0 0.07 0 0 0 0 0.05 0 0 0 0 0.05 0'/></filter><rect width='100%' height='100%' filter='url(%23n)'/></svg>");
+    background-blend-mode: multiply;
     border: 1px solid var(--ink);
-    box-shadow: 0 8px 30px rgba(0,0,0,0.45), 0 0 0 4px rgba(13,12,9,0.25);
+    border-right: none;
+    box-shadow: -8px 0 30px rgba(0,0,0,0.45), 0 0 0 3px rgba(13,12,9,0.18);
+    color: var(--ink);
     font-family: var(--sans);
-    max-width: min(1280px, calc(100vw - 40px));
-    opacity: 0; transition: opacity 220ms ease;
+    opacity: 0;
+    transition: width 240ms cubic-bezier(0.4, 0.0, 0.2, 1), opacity 220ms ease;
     user-select: none;
+    overflow: hidden;
   }
-  #mag-nav[data-ready] { opacity: 1; }
-  #mag-nav .mag-btn {
+  #issue-rail[data-ready] { opacity: 1; }
+  #issue-rail:hover,
+  #issue-rail:focus-within { width: 172px; }
+
+  #issue-rail .rail-tabs {
+    flex: 1 1 auto;
+    list-style: none; margin: 0; padding: 0;
+    overflow-y: auto;
+    scrollbar-width: none;
+  }
+  #issue-rail .rail-tabs::-webkit-scrollbar { display: none; }
+  #issue-rail .rail-tabs li { margin: 0; padding: 0; }
+
+  #issue-rail .rail-tab {
     appearance: none; background: transparent; border: none; cursor: pointer;
-    color: var(--ink); font-family: var(--sans);
-    font-size: 11px; letter-spacing: 0.22em; text-transform: uppercase; font-weight: 700;
-    padding: 12px 18px;
-    display: flex; align-items: center; gap: 8px;
-    transition: background 120ms ease, color 120ms ease;
+    border-bottom: 1px solid var(--rule);
+    width: 100%; height: 48px;
+    color: var(--grey-1);
+    font-family: var(--sans);
+    display: grid; grid-template-columns: 64px 1fr;
+    align-items: center; text-align: left;
+    padding: 0; position: relative;
+    transition: background 160ms ease, color 160ms ease, transform 240ms cubic-bezier(0.4, 0.0, 0.2, 1);
   }
-  #mag-nav .mag-btn:hover { background: var(--ink); color: var(--paper); }
-  #mag-nav .mag-btn:hover .arrow { color: var(--paper); }
-  #mag-nav .mag-btn:focus-visible { outline: 2px solid var(--red); outline-offset: -2px; }
-  #mag-nav .mag-btn .arrow {
-    font-family: var(--serif); font-size: 20px; line-height: 1; color: var(--red); transition: color 120ms ease;
+  #issue-rail .rail-tabs li:last-child .rail-tab { border-bottom: none; }
+  #issue-rail .rail-tab .rt-num {
+    font-family: var(--mono);
+    font-size: 13px; font-weight: 500;
+    letter-spacing: 0.08em;
+    color: var(--red);
+    text-align: center; display: block;
+    transition: color 160ms ease;
   }
-  #mag-nav .mag-prev { border-right: 1px solid var(--ink); }
-  #mag-nav .mag-next { border-left: 1px solid var(--ink); }
-  #mag-nav .mag-toc {
-    display: flex; align-items: stretch; overflow: hidden;
-    padding: 0 4px;
+  #issue-rail .rail-tab .rt-label {
+    font-size: 10px; font-weight: 600;
+    letter-spacing: 0.22em; text-transform: uppercase;
+    color: inherit; white-space: nowrap;
+    padding-right: 12px;
+    opacity: 0; transform: translateX(-8px);
+    transition: opacity 180ms ease 40ms, transform 240ms cubic-bezier(0.4, 0.0, 0.2, 1) 40ms;
   }
-  #mag-nav .mag-toc .toc-item {
-    appearance: none; background: transparent; border: none; cursor: pointer;
-    color: var(--grey-1); font-family: var(--sans);
-    font-size: 10px; letter-spacing: 0.2em; text-transform: uppercase; font-weight: 600;
-    padding: 12px 10px;
-    display: flex; align-items: center; gap: 6px;
-    white-space: nowrap;
-    transition: color 120ms ease;
-    position: relative;
+  #issue-rail:hover .rail-tab .rt-label,
+  #issue-rail:focus-within .rail-tab .rt-label { opacity: 1; transform: translateX(0); }
+
+  #issue-rail .rail-tab:hover { color: var(--ink); background: var(--paper-2); }
+  #issue-rail .rail-tab:hover:not([aria-current="true"]) { transform: translateX(-3px); }
+  #issue-rail .rail-tab:focus-visible { outline: 2px solid var(--red); outline-offset: -2px; }
+
+  #issue-rail .rail-tab[aria-current="true"] {
+    color: var(--ink);
+    background: var(--paper-2);
+    transform: translateX(-8px);
   }
-  #mag-nav .mag-toc .toc-item:hover { color: var(--ink); }
-  #mag-nav .mag-toc .toc-item .pg { font-family: var(--mono); color: var(--red); font-size: 9px; letter-spacing: 0.12em; }
-  #mag-nav .mag-toc .toc-item[aria-current="true"] { color: var(--ink); }
-  #mag-nav .mag-toc .toc-item[aria-current="true"]::after {
-    content: ""; position: absolute; left: 8px; right: 8px; bottom: 6px;
-    height: 2px; background: var(--red);
+  #issue-rail .rail-tab[aria-current="true"]::before {
+    content: ""; position: absolute;
+    left: 0; top: 0; bottom: 0;
+    width: 3px; background: var(--red);
   }
-  #mag-nav .mag-folio {
-    display: flex; flex-direction: column; justify-content: center; align-items: center;
-    padding: 8px 18px;
-    border-left: 1px solid var(--ink); border-right: 1px solid var(--ink);
-    min-width: 120px;
-  }
-  #mag-nav .mag-pg {
-    font-family: var(--mono); font-size: 12px; letter-spacing: 0.12em; color: var(--ink);
-    font-weight: 600;
-    display: flex; align-items: baseline; gap: 4px;
-  }
-  #mag-nav .mag-pg-sep { color: var(--grey-1); }
-  #mag-nav .mag-pg #mag-pg-cur { color: var(--red); }
-  #mag-nav .mag-sec {
-    font-family: var(--sans); font-size: 9px; letter-spacing: 0.22em; text-transform: uppercase;
-    color: var(--grey-1); margin-top: 4px;
+  #issue-rail .rail-tab[aria-current="true"] .rt-num {
+    font-weight: 700; color: var(--red-2);
   }
 
-  /* Tiny screens: drop the inline TOC, keep arrows + folio */
-  @media (max-width: 760px) {
-    #mag-nav .mag-toc { display: none; }
-    #mag-nav { grid-template-columns: auto auto auto; }
+  #issue-rail .rail-foot {
+    flex: 0 0 auto;
+    border-top: 1px solid var(--ink);
+    display: flex; justify-content: center; align-items: center;
+    height: 44px;
+    background: rgba(0,0,0,0.025);
   }
-  @media (max-width: 420px) {
-    #mag-nav .mag-btn .lbl { display: none; }
-    #mag-nav .mag-folio { min-width: 84px; padding: 8px 12px; }
+  #issue-rail .rail-help {
+    appearance: none; background: transparent;
+    border: 1px solid var(--ink); border-radius: 50%;
+    width: 26px; height: 26px;
+    cursor: pointer;
+    font-family: var(--serif); font-style: italic;
+    font-size: 15px; font-weight: 600;
+    color: var(--ink);
+    display: flex; align-items: center; justify-content: center;
+    line-height: 1; padding: 0;
+    transition: background 160ms ease, color 160ms ease;
+  }
+  #issue-rail .rail-help:hover { background: var(--ink); color: var(--paper); }
+  #issue-rail .rail-help:focus-visible { outline: 2px solid var(--red); outline-offset: 3px; }
+
+  /* ============ SHORTCUTS OVERLAY ============ */
+  #rail-shortcuts {
+    position: fixed; inset: 0;
+    z-index: 1001;
+    display: none;
+    align-items: center; justify-content: center;
+    background: rgba(13, 12, 9, 0.6);
+    font-family: var(--sans);
+    animation: sc-fade 180ms ease;
+  }
+  #rail-shortcuts[data-open] { display: flex; }
+  @keyframes sc-fade { from { opacity: 0; } to { opacity: 1; } }
+  #rail-shortcuts .sc-card {
+    background: var(--paper);
+    background-image:
+      radial-gradient(ellipse at 0% 0%, rgba(0,0,0,0.05), transparent 60%),
+      url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='180' height='180'><filter id='n'><feTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='2' stitchTiles='stitch'/><feColorMatrix values='0 0 0 0 0.08 0 0 0 0 0.07 0 0 0 0 0.05 0 0 0 0 0.05 0'/></filter><rect width='100%' height='100%' filter='url(%23n)'/></svg>");
+    background-blend-mode: multiply;
+    border: 1px solid var(--ink);
+    box-shadow: 0 20px 60px rgba(0,0,0,0.55), 0 0 0 4px rgba(13,12,9,0.25);
+    padding: 30px 36px 26px;
+    min-width: 380px; max-width: 520px;
+    color: var(--ink);
+  }
+  #rail-shortcuts .sc-kicker {
+    font-family: var(--sans);
+    font-size: 10px; letter-spacing: 0.32em;
+    text-transform: uppercase;
+    color: var(--red); font-weight: 600;
+  }
+  #rail-shortcuts .sc-title {
+    font-family: var(--serif);
+    font-size: 30px; font-weight: 500; font-style: italic;
+    margin: 4px 0 14px; line-height: 1;
+    color: var(--ink);
+  }
+  #rail-shortcuts hr.sc-rule {
+    height: 4px; background: var(--ink);
+    border: none; margin: 0 0 18px;
+  }
+  #rail-shortcuts dl.sc-list {
+    display: grid;
+    grid-template-columns: minmax(96px, max-content) 1fr;
+    column-gap: 22px; row-gap: 10px;
+    margin: 0;
+  }
+  #rail-shortcuts dl.sc-list dt {
+    font-family: var(--mono);
+    font-size: 12px; font-weight: 500;
+    color: var(--red); letter-spacing: 0.08em;
+    white-space: nowrap;
+    align-self: baseline;
+  }
+  #rail-shortcuts dl.sc-list dd {
+    margin: 0;
+    color: var(--ink-2);
+    font-family: var(--serif);
+    font-size: 15px; line-height: 1.35;
+  }
+  #rail-shortcuts .sc-close {
+    margin-top: 22px;
+    font-family: var(--mono);
+    font-size: 9px; letter-spacing: 0.22em;
+    text-transform: uppercase;
+    color: var(--grey-1);
+    text-align: right;
   }
 
   @media print {
-    #mag-nav { display: none !important; }
+    #issue-rail { display: none !important; }
+    #rail-shortcuts { display: none !important; }
+  }
+
+  /* ============ MOBILE REFLOW ============
+     Below 820px we lift each .spread out of the scaling deck-stage into a
+     vertical scrolling feed. Two-page spreads stack; display type fluid-
+     sizes; absolute UI chrome (folio, issue-strap, barcode, endmark) goes
+     static so it flows with the rest of the content. */
+  body.is-mobile {
+    background: var(--paper);
+    overflow-x: hidden;
+  }
+  body.is-mobile deck-stage { display: none !important; }
+  body.is-mobile #issue-rail { display: none !important; }
+  body.is-mobile #rail-shortcuts { display: none !important; }
+
+  main.mobile-feed {
+    display: block;
+    width: 100%;
+    max-width: 100%;
+  }
+
+  @media (max-width: 820px) {
+    .mobile-feed .spread {
+      width: 100% !important;
+      height: auto !important;
+      min-height: 0 !important;
+      position: relative;
+      padding: 0 !important;
+      border-bottom: 2px solid var(--ink);
+      overflow: visible !important;
+    }
+    .mobile-feed .spread:last-child { border-bottom: none; }
+    /* Keep long URLs / repo names from busting the viewport */
+    .mobile-feed .spread .page {
+      overflow-wrap: anywhere;
+      word-break: break-word;
+    }
+    /* These declare height:100% to fill the desktop page; on mobile the
+       page is content-sized so 100% would collapse */
+    .mobile-feed #masthead .editor-stack,
+    .mobile-feed #code .right-stack { height: auto !important; }
+    /* Kill the centre fold and gutter shadow on stacked spreads */
+    .mobile-feed .spread.two-page::before,
+    .mobile-feed .spread.two-page::after { display: none !important; }
+
+    /* Pages become static, full-width blocks stacked top-to-bottom */
+    .mobile-feed .spread .page,
+    .mobile-feed .spread .page.left,
+    .mobile-feed .spread .page.right {
+      position: static !important;
+      width: 100% !important;
+      left: auto !important;
+      right: auto !important;
+      top: auto !important;
+      bottom: auto !important;
+      padding: 24px 18px 32px !important;
+      display: flex;
+      flex-direction: column;
+    }
+
+    /* Page-rules / chrome that was absolutely positioned */
+    .mobile-feed .issue-strap {
+      position: static !important;
+      top: auto !important; left: auto !important; right: auto !important;
+      margin: 0 !important;
+      padding: 14px 18px 10px !important;
+      font-size: 10px !important;
+      letter-spacing: 0.18em !important;
+      flex-wrap: wrap;
+      gap: 4px 12px;
+      border-bottom: 1px solid var(--ink);
+    }
+    .mobile-feed .folio {
+      position: static !important;
+      bottom: auto !important; left: auto !important; right: auto !important;
+      padding: 14px 18px 22px !important;
+      flex-wrap: wrap;
+      font-size: 10px !important;
+      gap: 10px !important;
+    }
+    .mobile-feed .folio.left .rule,
+    .mobile-feed .folio.right .rule { width: 24px; }
+
+    /* ---- COVER ---- */
+    .mobile-feed #cover .strap {
+      flex-wrap: wrap;
+      gap: 6px 14px;
+      font-size: 11px;
+      letter-spacing: 0.16em;
+      margin-bottom: 18px;
+    }
+    .mobile-feed #cover .nameplate {
+      font-size: clamp(72px, 26vw, 200px) !important;
+      letter-spacing: -0.03em !important;
+    }
+    .mobile-feed #cover .hero {
+      grid-template-columns: 1fr !important;
+      gap: 26px !important;
+      padding-top: 18px !important;
+    }
+    .mobile-feed #cover .hero-left { gap: 18px !important; }
+    .mobile-feed #cover .cover-head {
+      font-size: clamp(38px, 10.5vw, 96px) !important;
+      line-height: 0.95 !important;
+    }
+    .mobile-feed #cover .cover-sub {
+      font-size: clamp(17px, 4.6vw, 22px) !important;
+    }
+    .mobile-feed #cover .hero-right {
+      border-left: none !important;
+      border-top: 1px solid var(--ink);
+      padding-left: 0 !important;
+      padding-top: 20px !important;
+      gap: 16px !important;
+    }
+    .mobile-feed #cover .cover-line .ttl {
+      font-size: 19px !important;
+    }
+    .mobile-feed #cover .barcode {
+      position: static !important;
+      bottom: auto !important; right: auto !important;
+      align-items: flex-start !important;
+      margin-top: 24px !important;
+    }
+    .mobile-feed #cover .barcode .bars { height: 36px; }
+
+    /* ---- MASTHEAD / CONTENTS ---- */
+    .mobile-feed #masthead .contents-head {
+      font-size: clamp(48px, 14vw, 96px) !important;
+    }
+    .mobile-feed #masthead .contents-list { margin-top: 22px !important; }
+    .mobile-feed #masthead .contents-list .row {
+      grid-template-columns: 36px 1fr !important;
+      gap: 6px 12px !important;
+      padding: 12px 0 !important;
+    }
+    .mobile-feed #masthead .contents-list .row .pg { font-size: 14px !important; }
+    .mobile-feed #masthead .contents-list .row .ttl { font-size: 17px !important; line-height: 1.25 !important; }
+    .mobile-feed #masthead .contents-list .row .sec {
+      grid-column: 1 / -1;
+      text-align: left !important;
+      padding-left: 48px;
+      font-size: 9px !important;
+    }
+    .mobile-feed #masthead .editor-head {
+      font-size: clamp(28px, 7.8vw, 48px) !important;
+    }
+    .mobile-feed #masthead .editor-body { font-size: 16px !important; }
+    .mobile-feed #masthead .editor-body p span[style*="62px"] {
+      font-size: 48px !important;
+    }
+    .mobile-feed #masthead .sign { font-size: 18px !important; }
+    .mobile-feed #masthead .masthead-block {
+      grid-template-columns: 1fr !important;
+      gap: 18px !important;
+    }
+
+    /* ---- NUMBERS ---- */
+    .mobile-feed #numbers .page.left h2 {
+      font-size: clamp(56px, 16vw, 110px) !important;
+    }
+    .mobile-feed #numbers .body-serif { font-size: 17px !important; }
+    .mobile-feed #numbers .nums-grid {
+      grid-template-columns: 1fr !important;
+      grid-template-rows: auto !important;
+      height: auto !important;
+    }
+    .mobile-feed #numbers .nums-cell {
+      padding: 22px 18px !important;
+      border-right: none !important;
+      border-bottom: 1px solid var(--ink) !important;
+    }
+    .mobile-feed #numbers .nums-cell:last-child { border-bottom: none !important; }
+    .mobile-feed #numbers .nums-cell .fig {
+      font-size: clamp(64px, 20vw, 120px) !important;
+    }
+    .mobile-feed #numbers .nums-cell .fig .sm { font-size: 22px !important; vertical-align: 14px !important; }
+    .mobile-feed #numbers .nums-cell .cap { font-size: 15px !important; }
+
+    /* ---- WIKI (cover story) ---- */
+    .mobile-feed #wiki .cs-head {
+      font-size: clamp(48px, 13.5vw, 120px) !important;
+      line-height: 0.94 !important;
+    }
+    .mobile-feed #wiki .cs-deck { font-size: clamp(18px, 5vw, 26px) !important; }
+    .mobile-feed #wiki figure image-slot { height: 220px !important; }
+    .mobile-feed #wiki .article {
+      column-count: 1 !important;
+      column-rule: none !important;
+      font-size: 16px !important;
+    }
+    .mobile-feed #wiki .article p:first-child::first-letter {
+      font-size: 64px !important;
+    }
+
+    /* ---- WIKI2 (most read sidebar) ---- */
+    .mobile-feed #wiki2 .page.left h2 {
+      font-size: clamp(44px, 13vw, 88px) !important;
+    }
+    .mobile-feed #wiki2 .sidebar {
+      border-left: none !important;
+      border-top: 4px solid var(--ink);
+      padding-left: 0 !important;
+      padding-top: 16px;
+    }
+    .mobile-feed #wiki2 .sidebar-head {
+      font-size: clamp(24px, 6.6vw, 32px) !important;
+    }
+    .mobile-feed .rank-list .r {
+      grid-template-columns: 32px 1fr auto !important;
+      gap: 10px !important;
+      padding: 10px 0 !important;
+    }
+    .mobile-feed .rank-list .r .n { font-size: 22px !important; }
+    .mobile-feed .rank-list .r .t { font-size: 16px !important; }
+
+    /* ---- DISCOURSE ---- */
+    .mobile-feed #discourse .disc-head {
+      font-size: clamp(64px, 18vw, 124px) !important;
+    }
+    .mobile-feed #discourse .disc-deck { font-size: clamp(17px, 4.6vw, 22px) !important; }
+    .mobile-feed #discourse .ticker {
+      font-size: 10px !important;
+      letter-spacing: 0.14em !important;
+      gap: 14px !important;
+      padding: 6px 14px !important;
+      flex-wrap: wrap;
+    }
+    .mobile-feed #discourse .grid-2 {
+      grid-template-columns: 1fr !important;
+      gap: 22px !important;
+    }
+    .mobile-feed #discourse .col-list .li {
+      grid-template-columns: 24px 1fr auto !important;
+      gap: 8px !important;
+    }
+    .mobile-feed #discourse .col-list .li .t { font-size: 15px !important; line-height: 1.3 !important; }
+    .mobile-feed #discourse .pull {
+      font-size: clamp(20px, 5.4vw, 30px) !important;
+      margin-top: 0 !important;
+    }
+
+    /* ---- FOREIGN DESK ---- */
+    .mobile-feed #foreign .head-xl {
+      font-size: clamp(52px, 14.5vw, 110px) !important;
+    }
+    .mobile-feed #foreign .body-serif,
+    .mobile-feed #foreign .panel-deck { font-size: 17px !important; }
+    .mobile-feed #foreign .wire {
+      grid-template-columns: 1fr !important;
+      gap: 4px !important;
+      padding: 12px 0 !important;
+    }
+    .mobile-feed #foreign .wire h3 { font-size: 17px !important; }
+    .mobile-feed #foreign .geo-grid {
+      grid-template-columns: 1fr !important;
+      gap: 18px !important;
+    }
+    .mobile-feed #foreign .geo .term { font-size: 22px !important; }
+
+    /* ---- MARKETS & TREMORS ---- */
+    .mobile-feed .panel-head {
+      font-size: clamp(52px, 14.5vw, 96px) !important;
+    }
+    .mobile-feed .panel-deck { font-size: clamp(16px, 4.4vw, 22px) !important; }
+    .mobile-feed #markets .mkt-row {
+      grid-template-columns: 32px 1fr !important;
+      gap: 10px 12px !important;
+      padding: 14px 0 !important;
+    }
+    .mobile-feed #markets .mkt-row .n { font-size: 22px !important; }
+    .mobile-feed #markets .mkt-row .t { font-size: 16px !important; }
+    .mobile-feed #markets .mkt-row .vol {
+      grid-column: 1 / -1;
+      padding-left: 42px;
+      text-align: left !important;
+      display: flex;
+      align-items: baseline;
+      gap: 10px;
+    }
+    .mobile-feed #markets .mkt-row .vol .big {
+      font-size: 22px !important;
+      display: inline-block !important;
+    }
+    .mobile-feed #markets .mkt-row .vol .sm {
+      display: inline-block !important;
+      margin-top: 0 !important;
+      margin-left: 10px !important;
+    }
+    .mobile-feed #markets .mkt-row .vol .sm::before {
+      content: "· ";
+      color: var(--grey-1);
+      margin-right: 4px;
+    }
+    .mobile-feed .quake-map {
+      aspect-ratio: 16 / 9;
+      min-height: 220px !important;
+      flex: 0 0 auto !important;
+      margin-top: 14px !important;
+    }
+    .mobile-feed .quake-map .map-grid { background-size: 30px 30px; }
+    .mobile-feed .quake-map .pin-label { font-size: 9px; }
+    .mobile-feed .quake-legend {
+      flex-wrap: wrap;
+      gap: 10px 14px;
+      font-size: 9px !important;
+    }
+    .mobile-feed .quake-legend > span[style*="margin-left:auto"] {
+      margin-left: 0 !important;
+      flex-basis: 100%;
+    }
+
+    /* ---- CODE & MODELS ---- */
+    .mobile-feed .feature-head {
+      font-size: clamp(48px, 13.5vw, 96px) !important;
+    }
+    .mobile-feed #code .terminal {
+      padding: 16px 16px !important;
+      font-size: 12px !important;
+      margin-top: 14px !important;
+    }
+    .mobile-feed #code .terminal::before { font-size: 9px; padding: 3px 8px; }
+    .mobile-feed #code .terminal .row {
+      grid-template-columns: 22px 1fr auto !important;
+      gap: 8px !important;
+    }
+    .mobile-feed #code .terminal .row .repo { font-size: 13px !important; }
+    .mobile-feed #code .terminal .row .tag { font-size: 9px !important; }
+    .mobile-feed #code .sub-list .li {
+      grid-template-columns: 24px 1fr auto !important;
+      gap: 8px !important;
+    }
+    .mobile-feed #code .sub-list .li .t { font-size: 14px !important; }
+    .mobile-feed #code .right-stack { gap: 22px !important; }
+
+    /* ---- WATCH & PLAY ---- */
+    .mobile-feed #watch .show-head {
+      font-size: clamp(64px, 18vw, 140px) !important;
+    }
+    .mobile-feed #watch .show-deck { font-size: clamp(16px, 4.5vw, 22px) !important; }
+    .mobile-feed #watch .charts { gap: 22px !important; }
+    .mobile-feed #watch .page.right h2 {
+      font-size: clamp(40px, 11.5vw, 76px) !important;
+    }
+    .mobile-feed #watch .yt-list .li {
+      grid-template-columns: 80px 1fr !important;
+      gap: 12px !important;
+      padding: 10px 0 !important;
+    }
+    .mobile-feed #watch .yt-list .li .thumb { width: 80px !important; }
+    .mobile-feed #watch .yt-list .li .t { font-size: 15px !important; }
+
+    /* ---- BACK / COLOPHON ---- */
+    .mobile-feed #back .back-head {
+      font-size: clamp(44px, 12.5vw, 84px) !important;
+    }
+    .mobile-feed #back .body-serif { font-size: 16px !important; }
+    .mobile-feed #back .sources-grid {
+      grid-template-columns: 1fr 1fr !important;
+      gap: 12px 16px !important;
+    }
+    .mobile-feed #back .sources-grid .src .h { font-size: 15px !important; }
+    .mobile-feed #back .page.right h2 {
+      font-size: clamp(44px, 12.5vw, 76px) !important;
+    }
+    .mobile-feed #back .page.right > div[style*="grid-template-columns:1fr 1fr"] {
+      grid-template-columns: 1fr !important;
+      gap: 22px !important;
+    }
+    .mobile-feed #back .page.right p[style*="58px"] {
+      font-size: 44px !important;
+    }
+    .mobile-feed #back .colophon {
+      grid-template-columns: 1fr 1fr !important;
+      gap: 14px 18px !important;
+    }
+    .mobile-feed #back .endmark {
+      position: static !important;
+      bottom: auto !important; right: auto !important;
+      font-size: 40px !important;
+      margin-top: 18px !important;
+      align-self: flex-end;
+    }
+
+    /* Shared chart/bar refinements */
+    .mobile-feed .bar-row { grid-template-columns: 44px 1fr !important; gap: 10px !important; }
+    .mobile-feed .bar-row .bar { height: 14px !important; }
+    .mobile-feed .bar-row .bar-val { font-size: 10px !important; }
+
+    /* Tap targets — make link underlines visible (no hover on touch) */
+    .mobile-feed a.mag-link {
+      border-bottom-color: rgba(13, 12, 9, 0.35);
+    }
   }
 </style>
 </head>
@@ -689,23 +1192,33 @@
 
 <deck-stage aspect="1920/1080" id="deck" no-rail></deck-stage>
 
-<nav id="mag-nav" aria-label="Magazine navigation" hidden>
-  <button class="mag-btn mag-prev" type="button" aria-label="Previous spread">
-    <span class="arrow" aria-hidden="true">←</span>
-    <span class="lbl">Prev</span>
-  </button>
-  <div class="mag-toc" role="tablist"></div>
-  <div class="mag-folio">
-    <span class="mag-pg"><span id="mag-pg-cur">01</span><span class="mag-pg-sep">/</span><span id="mag-pg-tot">11</span></span>
-    <span class="mag-sec" id="mag-section">Cover</span>
+<aside id="issue-rail" aria-label="Issue navigation" hidden>
+  <ol class="rail-tabs" role="tablist"></ol>
+  <div class="rail-foot">
+    <button class="rail-help" type="button" aria-label="Keyboard shortcuts" aria-haspopup="dialog" aria-controls="rail-shortcuts" aria-expanded="false">?</button>
   </div>
-  <button class="mag-btn mag-next" type="button" aria-label="Next spread">
-    <span class="lbl">Next</span>
-    <span class="arrow" aria-hidden="true">→</span>
-  </button>
-</nav>
+</aside>
+
+<div id="rail-shortcuts" role="dialog" aria-modal="true" aria-labelledby="sc-title">
+  <div class="sc-card" role="document">
+    <span class="sc-kicker">Reader's Aid</span>
+    <h2 class="sc-title" id="sc-title">Keyboard shortcuts</h2>
+    <hr class="sc-rule" />
+    <dl class="sc-list">
+      <dt>← →</dt><dd>Previous / next spread</dd>
+      <dt>Space</dt><dd>Advance to next spread</dd>
+      <dt>1 – 9, 0</dt><dd>Jump directly to spread N</dd>
+      <dt>Home / End</dt><dd>First / last spread</dd>
+      <dt>R</dt><dd>Restart at the cover</dd>
+      <dt>?</dt><dd>Open this card</dd>
+      <dt>Esc</dt><dd>Close this card</dd>
+    </dl>
+    <div class="sc-close">click anywhere or press Esc to dismiss</div>
+  </div>
+</div>
 
 <script type="application/json" id="speaker-notes">["","","","","","","","","",""]</script>
+<script type="text/plain" id="world-land-path">M120.4,170l-0.6,1l-4.3,-0.1l-1.8,-0.6l4.4,0.1l1.3,-0.8ZM20.8,169.5l-1.9,0.1l-2.6,-1l2.5,-0.2l1.7,0.6ZM134.8,168l1.3,0.5l0.6,1.5l-7.2,1l-3.7,-0.4l3.2,-1l2.3,-1.6l2,-0.2ZM81,161.9l2.2,0.1l0.6,0.5l-4.6,0l-1.5,-0.6l1.9,0ZM111.5,161l-0.3,1.2l-6.2,-0.1l1.1,-0.8l1.8,-0.1l0.9,-2.2l0.9,-0.1l1.6,1.6ZM0,174.7l0.9,-0.6l4.7,0.4l4.4,-0.6l11.9,1.5l9.6,0.2l5.4,-0.6l0.2,-0.4l-10.7,-0.9l0.7,-1.7l-3.9,-0.9l6.2,0.2l4.2,-1l-3.1,-0.9l-5.8,-0.3l-2.8,-1.1l-0.3,-1.1l7.1,0.5l5.2,-0.9l-0.1,-1.1l1.3,-0.2l9.7,-0.9l15.5,0.2l5.8,-0.8l1.6,1l4.7,0.5l7,0.1l0.5,-0.4l-2.4,-0.8l-1.2,-1.5l7.4,1l6.2,-0.3l0.9,-0.7l4,0.9l3.7,0.4l1.2,-0.8l4.1,0.9l7.3,-1l1.8,-1l-1.4,-2.3l1.2,-2.8l4.3,-2.3l5.2,-1.3l0.6,0.2l-4.8,1.3l-0.6,0.7l0.5,0.7l-1.6,0.3l-2,1.5l2.5,1.2l1.4,1.5l1,3l-3.6,1.6l-6.2,1.3l-6.6,0.1l3.5,1.2l-4.2,0.5l-0.1,0.8l2.6,1.1l15.7,2.1l1.5,0.8l8.4,-1.5l7,0.4l2,-0.7l12.2,-1.1l-1.1,-1l-5.9,0.2l-0.2,-1.2l6.9,-1.6l11.4,-1.6l1.8,-0.6l0.3,-0.4l-1.1,-0.2l1.1,-0.8l5.1,-1.8l2.9,0.4l0.5,-0.8l6.7,0.7l7.9,-1.7l1.8,0.1l1.3,0.8l2.6,-0.8l13.7,0.5l4.9,-0.8l1.9,-1.2l4.7,1.3l15.9,-4l6.9,2.2l2.7,-0.6l4.8,0.5l0.8,1.3l-1.9,1.1l1.3,0.4l-1.2,1.2l2,0.4l1.1,-0.2l2.9,-2.2l3.7,-0.4l1.5,-1.2l3.7,-1.1l4,-0.1l1.2,-0.9l1.7,0.9l6.1,0.3l3.9,-0.2l3.1,-1.6l3.4,1.3l7.4,-1l6.2,1.4l3.4,-0.8l5.6,0.3l6,-0.6l0.3,-0.9l2.4,1.7l8,-0.1l1.1,1l2.2,0.5l5.5,0.2l7.3,2l5.7,0.2l3.9,0.9l-1.9,2l-3.2,0.7l-2.5,1.8l-0.1,0.9l1.2,1.1l2.3,0.6l-5.2,0.4l-2,1.7l9.6,2.9l8.9,0.7ZM112.2,143.8l2.7,0.9l-0.4,0.5l-1.5,-0.3l-2.2,0.6l-3.1,-1l-2.4,-1.7l3.6,1.3l1.8,-1.6l1,0.6ZM325.4,130.8l2.9,0.1l-0.4,2.3l-1.9,0.3l-1.3,-2.8ZM353,130.9l1.2,0.4l-1.5,2.1l0.4,0.5l-1.6,0.3l-0.9,1.7l-1.3,0.7l-2.6,-0.4l0.3,-1.1l3.5,-2.1l2.3,-2.5ZM354.6,126.2l2.2,1.7l1.7,-0.2l-0.5,1.5l-0.8,-0.1l-2,2.6l-0.5,-0.4l0.5,-0.8l-0.3,-0.6l-1.1,-0.4l0.8,-0.7l0.1,-1.4l-2.1,-2.9l1.7,0.8ZM0,106.6l359.4,0.2l-0.7,0.2l0.7,-0.6l-359.2,-0.4l-0.1,0.5ZM230.1,103.6l0.3,2.1l-0.7,0l0.1,1.2l-2.7,8l-1.7,0.7l-1.4,-0.6l-0.7,-2.9l1.1,-2l-0.4,-2.7l0.4,-1.2l1.9,-0.4l1.4,-1.2l1.5,-2.6l0.6,0.9ZM323.6,103.8l0.3,0.7l0.7,-0.3l0.8,0.8l1,4l2.4,1.4l0.9,1.9l1,0.1l0.2,1.1l2.2,2.6l0.5,2l-0.5,2.8l-2.8,4.8l-0.3,1.7l-3.7,1.6l-1.4,-0.6l0.1,-0.5l-1.4,0.9l-3,-0.8l-1,-1.9l-1.5,-0.5l0.1,-1.2l-1.4,0.9l1,-2.4l-1.8,2l-1.7,-2.3l-3,-1.1l-5.2,0.7l-1.9,0.8l-0.5,0.9l-3.8,0.1l-1.9,1.1l-3,-0.9l0.7,-0.9l0,-1.7l-2.4,-5.5l0.5,0.4l-0.4,-0.9l0.8,0.7l-0.8,-1.9l0.7,-2.6l0.1,0.7l2.5,-1.8l4.2,-1l2.1,-3.3l0.4,0.9l0.5,-0.2l-0.4,-0.5l2.2,-2.4l1.4,-0.4l1.3,1.1l1.2,0.1l-0.2,-0.6l1.2,-1.9l2,-0.4l-0.8,-0.8l3.5,0.9l1.2,-0.3l0.5,0.5l-1,0.9l-0.5,1.7l4.7,2.7l1.1,-1.3l0.4,-4l0.8,-1.7l1.1,2.7ZM288.6,96.8l2.2,-0.3l4.9,1.9l-1.1,0.4l-9.2,-1.9l0.7,-1l2.4,0.5ZM332,95.5l-1.8,0.8l-1.9,-0.6l1.8,-0.7l0.7,0.5l0.7,-1.3l0.8,0.1l0,0.6ZM314.1,91.2l0.3,1.6l1.1,0.6l0.8,-1.1l2,-0.6l6.3,2.2l1.4,1.6l1.6,0.6l0.3,0.5l-0.9,0.1l0.2,0.7l3.5,3.2l-2.8,-0.5l-1.9,-2l-1.3,-0.5l-1.4,0.6l0.1,0.8l-0.8,0.3l-3.5,-1.2l-1.5,0.3l1.1,-1.1l-0.8,-1.9l-4.2,-1.9l-0.7,0.6l-1,-1.3l1.7,-0.6l-1.5,0l-1.7,-1.3l1.9,-0.5l1.6,0.4ZM305.2,88.6l-1.5,1.2l-3.5,0l-0.2,0.7l0.9,0.9l2.4,-0.8l-1.8,1.3l1.7,3.4l-1,0l0.5,-0.8l-1.2,0.1l-0.5,-2l-0.7,0.3l0.1,2.6l-1,-0.1l0.1,-1.9l-0.7,-0.7l1.2,-3.4l0.9,-0.7l3.2,0.4l1,-0.7ZM285.8,95.9l-1.1,0l-2.1,-1.7l-4,-6l-3.3,-3.7l2.2,0.3l3.1,3.1l1.9,0.7l1.3,1.3l-0.4,0.8l2.7,2.4l-0.2,1.2ZM297.9,88.2l1.1,0.9l-1.2,0.1l-0.3,1.6l-0.9,0.7l-0.5,2.5l-5.9,-1.1l-0.1,-1.3l-1,-1.1l0,-1.8l0.6,-0.7l1.5,0.1l0.2,-0.8l1.6,-0.4l3.7,-3.8l2.5,1.5l-1.9,2.2l0.7,0.9ZM306.4,81.6l0.1,1.2l-0.3,0.9l-0.4,-1l-0.4,0.5l0,1.2l-1.2,-0.6l0,-1.2l-0.6,-0.4l-1.7,0.6l1.6,-1.5l0.3,0.5l1.7,-0.8l-0.1,-0.8l0.9,1ZM261.2,83.8l-0.9,0.2l-0.4,-0.8l0.2,-3l1.7,2.3l-0.2,1ZM301.3,71.5l0.9,0l0.3,1.4l-0.8,1.2l0,1.6l2.3,0.5l0.1,1.3l-1.2,-1.1l-2.3,-0.3l0.4,-0.6l-0.9,-0.5l-0.2,-1.4l0.4,0.4l0.4,-2.5ZM107.4,70.1l2.6,0.3l1.7,1l-2.4,0.2l-0.7,0.8l-1,-0.6l-1.5,0.2l-0.5,-0.7l2.1,0l-0.9,-1.2ZM100.3,67.2l5.5,2.5l-3.6,0.4l0.7,-0.5l-1.6,-1.2l-3.5,-0.8l0.4,-0.2l-3.2,0.7l1.7,-1.1l2.7,-0.1ZM301.2,67.2l-0.5,0.8l-0.6,-1.6l1.4,-1.7l0.3,0.9ZM321,52.9l-0.7,2l-3.1,0.5l-1.4,1.1l-0.7,-1.1l-4.1,0.7l1,0.8l-0.7,1.6l-0.6,0.5l-0.5,-0.4l0.2,-0.9l-1,-1l3.2,-2.1l3.1,-0.1l1,-1.8l0.7,0.5l2,-1.4l0.5,-2.4l1.5,-0.8l0.5,2.2l-0.9,1ZM323.9,45.8l1.4,-0.2l0.2,1.1l-1.4,0.3l-0.9,1l-1.6,-0.7l-0.5,1.1l-1.1,0l-0.2,-1l0.5,-0.7l1.1,-0.1l0.6,-2.2l1.1,1.1ZM56.5,41.5l-2.2,-0.3l-2.7,-1.7l2.6,0.2l1.9,1.2ZM123.9,39.3l-0.7,0.9l0.7,-0.3l0.6,0.2l-0.3,0.3l2.3,0.4l-0.3,0.7l0.7,-0.2l0.5,1.2l-0.5,0.8l-1.1,-0.1l0,-1l-1.2,0.9l-0.6,0l0.7,-0.5l-1,-0.2l-3,0l0.5,-0.7l-0.4,-0.2l1.8,-2.2l1.8,-0.6ZM323.6,39.3l1.1,1.7l-1.5,-0.3l-0.6,1.4l0.9,1.8l-0.8,-0.6l-0.6,0.7l-0.4,-7.3l1,-1.1l0.5,2.6ZM173.2,37.7l-3.2,0.5l0.8,-1.1l-0.5,-1l3,-1.3l1,0.6l-0.3,1.4ZM177,31.4l-1.1,1l2.1,-0.1l-1.1,1.7l1,0.1l2.6,3l1.2,0.2l-0.7,0.9l0.4,0.5l-6.6,1.3l-0.6,-0.2l2.4,-1.2l-1.9,-0.6l1.1,-0.3l-0.4,-1.2l1.5,0.1l0.2,-0.6l-1.9,-0.8l-0.2,-1l-0.6,0.5l-0.6,-1.5l1.2,-1.8l0.8,0ZM94.8,24.3l5.1,2l-0.9,0.3l-2.1,-0.7l-2.4,1l-0.4,-0.5l-1.3,0.1l0.8,-0.5l0.5,-1.7ZM165.5,23.5l-0.2,0.7l1.1,0.7l-5.1,1.6l-4.1,-0.5l1,-0.4l-2.2,-0.5l1.8,-0.5l-2.1,-0.2l0.6,-0.7l1.6,-0.1l1.5,0.7l4.4,-0.8ZM0,21l5.1,1.8l-0.1,0.6l0.7,0.3l-0.3,-0.8l2.7,0.2l2,0.9l-2.6,0.6l-0.5,1.1l-3.2,-1.1l-2.2,0l-0.3,-0.7l-1.2,0.2l0.5,0.5l-0.6,0.4l360,0l-2.6,0.4l2,1.6l-0.2,0.7l-1.8,-0.2l-3.7,0.8l-3.4,1.8l-1.4,-0.7l-2.6,0.8l-2.8,-0.1l-1.5,1.7l1.2,0.6l-0.1,1.4l-1,0.1l-0.4,0.8l0.4,0.4l-1.7,0.6l-0.4,1.1l-1.5,0.2l-0.3,1.1l-1.4,0.9l-1.4,-4.4l0.5,-1.4l0.9,-1l1.6,-0.3l5.3,-3l0.8,-1.5l-1.2,0.1l-3.2,2l-0.8,-1.3l-2.6,0.4l-2.5,1.6l0.8,0.7l-3.7,0.3l0,-0.7l-1.5,-0.2l-7.6,0.7l-7.1,4.3l3.1,0.9l1.7,-0.4l1.4,1.1l0.1,0.9l-0.8,1l-0.5,2.8l-1.9,2.1l-3.3,2.9l-1.4,0.6l-1.2,-0.5l-4.8,3.5l-0.1,0.6l2.1,2.4l-0.4,1.7l-2.6,0.7l-0.4,-2.3l0.8,-0.2l-0.7,-0.8l-1.5,-0.4l0.6,-1.5l-1,-0.3l-3.2,1l1.1,-1.5l-0.6,-0.5l-3.6,1.7l-0.5,0.5l1.4,1.3l0.8,0.2l1.1,-0.7l1.6,0.4l0.1,0.6l-1.4,0.2l-1.9,1.8l1,0.5l1.7,2.7l-0.6,1l0.8,0.9l-0.4,1.6l-3,3.7l-2.8,1.7l-5.1,1.4l-0.4,1.1l-0.5,0l0,-1.1l-1.4,-0.3l-2.6,1.9l-0.2,0.7l3.2,3.8l0.4,1.9l-0.1,1.7l-4,3.1l-0.1,-1.3l-1.6,-0.7l-0.9,-1.6l-1.8,-0.4l0.2,-0.8l-0.9,0l-0.9,4.2l0.7,0l0.6,1.8l2.5,1.9l1.2,4.2l-2.8,-1.5l-1.3,-3.7l-1.6,-1.9l-0.2,0.6l0.5,-3.6l-1.6,-5.5l-1.8,1.2l-1.2,-0.3l0.1,-2.2l-2.9,-4.6l-0.9,0l-0.2,1l-3.3,0.3l-0.5,1.3l-1.4,0.7l-2.9,2.9l-1.9,0.7l-0.4,5.5l-2.4,2.4l-0.9,-0.9l-3.1,-7.1l-0.9,-5.4l-2.1,0.5l-1.3,-1.2l0.1,-0.7l-1.9,-1.1l-1,-1.5l-4.9,0.3l-4.1,-0.6l-0.9,-1.4l-1.8,0.6l-3.2,-1.4l-1.4,-2.2l-2.1,0.1l2.8,5.2l0.2,-1.2l0.6,0.2l0.2,1.8l2.2,-0.1l2.4,-2.3l0.4,2.2l1.9,0.6l1.1,1.3l-2,2.1l-0.1,1.3l-2.4,1.7l-2.9,0.8l-0.2,0.8l-3.5,1.6l-5.2,1.4l-0.8,-4.2l-3.6,-4.5l-0.6,-2.4l-3.9,-4.4l0.3,-1.4l-1,1.9l-1.5,-2.3l3.3,6l-0.2,0.8l1.4,1.1l0.6,3.4l0.9,0.6l0.9,2.1l4,3.5l-0.6,0.7l1.9,1.3l6.5,-1.6l-0.1,1.4l-3.3,6.4l-7.4,6.8l-1.1,2.1l-0.4,1.8l0.6,0.3l-0.2,1.7l1.3,2.3l0.3,3.9l-1.3,2l-4.7,3.1l0.8,2.3l-0.1,2l-2.9,1.6l-0.4,3.1l-4,4l-2.4,1.1l-3.2,0l-3,0.9l-1.4,-0.9l0,-2.2l-3,-4.6l-0.9,-5l-2.5,-4l0,-2.3l1.8,-3.8l0.1,-1.3l-1.8,-5.7l-3.1,-3.9l1,-4.2l-0.4,-0.6l-0.9,-1.1l-2.6,0.5l-1.6,-2l-2.4,0.2l-3.9,1.4l-2.6,-0.5l-2.9,0.9l-1.5,-0.5l-3.4,-2.5l-2.4,-3.6l-1.8,-1.3l-0.1,-1.4l-0.9,-1.1l1.1,-1.4l0.4,-2l-0.9,-3.8l2.6,-4.4l4.8,-3.6l0.3,-2.7l2.4,-1.5l1,-1.7l3.7,0.6l3.7,-1.4l8,-0.8l0.7,0.7l0.9,-0.2l-0.8,3.1l4.9,1.5l0.5,0.9l3.4,1.1l1,-0.7l0,-1.2l1.4,-0.6l7.4,1.9l2.1,-0.7l1,0.7l1.8,-0.1l2.2,-3.6l0.2,-2.1l-3.7,0.6l-0.8,-0.5l-2,0.5l-2.1,-0.6l-1.3,-1.5l0.5,-0.8l-0.6,-0.5l1.1,-0.9l1.5,-0.1l0.4,-0.7l1.9,0.1l2.4,-0.9l4.8,1.1l2.1,-0.1l1.3,-1l-0.2,-0.6l-4.8,-2.6l1.5,-1l-0.5,-0.4l1.4,-0.7l-4.1,1l0,0.6l1.5,0.2l-0.2,0.4l-2.4,0.7l-1.4,-0.9l0.8,-0.8l-2.6,-0.5l-1.1,1.6l-0.8,0.1l-1.1,2.3l1.1,1.5l-2.4,0.9l-0.3,-0.6l-1.2,-0.1l-1.2,0.2l0.7,0.6l-0.5,0.1l-1.3,-0.3l1.4,2.6l-0.9,-0.2l0.1,1.5l-0.7,0l-3.1,-3.9l0.1,-1.4l-6.4,-4l-0.8,0.3l0.3,1.3l5.9,3.9l-1.6,-0.2l-0.4,0.6l0.6,0.9l-1,0.9l-0.4,0.1l0.4,-1.1l-0.7,-1l-3.3,-1.7l-1.6,-1.2l-0.3,-1l-1.3,-0.5l-2.4,1.3l-3.4,0l-0.1,1.2l-2.2,0.9l-1.1,1.7l0.4,0.6l-2.2,2l-2.3,0l-1,0.8l-1.1,-1l-2.4,0l0.1,-1.4l-0.7,-0.4l0.7,-2.1l-0.6,-2.2l1.4,-0.7l6.1,0.3l0.5,-0.6l0.2,-2l-1.8,-1.6l-1.5,-0.4l-0.1,-0.7l3,0.1l-0.3,-1.2l0.9,0.5l2.3,-0.8l0.3,-0.8l2.2,-0.7l0.9,-1.5l3.4,-0.4l0.7,-0.5l-0.7,-1.5l0.4,-1.6l2.1,-0.6l-0.3,0.8l0.6,0.4l-1.3,1l1.3,1.5l1.6,-0.5l1.6,0.7l3.5,-1.1l2.1,0.5l1.6,-0.8l0.3,-2.2l0.9,-0.4l1.6,0.8l0.3,-1.4l-1,-0.2l-0.1,-0.6l5.8,-0.8l-1,-0.5l-5.2,0.7l-1.6,-0.9l-0.2,-1.9l0.4,-0.6l3.9,-1.9l-1.5,-0.9l-1.7,0.3l-1,0.7l0.2,0.6l-3.6,1.7l-0.7,1.4l1.7,1.2l-0.9,1.1l-1.1,0.3l-0.9,2.6l-3,0.7l-2.5,-4.1l-2,1.2l-2.7,-0.3l-0.7,-3.4l0.9,-0.6l4.6,-1.9l4.3,-3.3l4.4,-2l3.8,-0.4l1.5,-0.8l3.7,-0.2l3.1,0.7l-1.3,0.3l1.1,0.6l1,-0.3l4.4,0.8l4.6,1.6l0,0.7l-2.7,0.8l-5.2,-0.6l1.6,0.7l0.1,1.5l2.1,0.5l-0.5,-0.9l0.7,-0.3l2.4,0.6l0.8,-0.3l-0.6,-0.7l2.3,-1l1.9,0.4l0.5,-0.7l-0.8,-0.6l0.5,-0.6l-0.7,-0.6l2.8,0.4l0.5,0.5l-1.2,0.1l0,0.6l0.7,0.3l7.4,-2.2l0.8,0.1l-1,0.6l5.3,-0.7l1.1,0.6l1.2,-0.6l-1.1,-0.6l0.6,-0.4l7.9,1.8l0.7,-0.5l-2.3,-0.9l-0.2,-1.5l2.5,-1.8l3.4,0l0.2,0.6l-1,0.8l1,1l-0.2,1.4l1.1,0.6l-2.4,2.1l1.1,0.1l2.7,-1.6l-0.6,-0.5l0.4,-0.7l-1.3,-0.6l0.8,-1l-1.3,-0.8l1.8,-0.7l-0.2,-0.7l1,0.5l-0.4,1l1.1,0.1l-0.5,-0.7l1.7,-0.4l3.9,0.6l-0.9,-0.9l-0.1,-1l6.3,-0.3l-0.8,-0.6l1.2,-0.6l13.6,-1.3l3.6,-1.3l2.8,1.2l3.9,-0.2l3,0.9l-0.2,0.5l-4.5,1.1l3.6,0.2l0.5,0.7l2.1,-0.5l7.6,0.8l0.1,-0.7l3.7,0.1l1.6,0.6l0.5,0.6l-0.6,0.4l2.8,1.2l1,-1l7.6,0.3l-0.8,-0.9l1.4,-0.4l9,0.6l3.5,1.4l6,-0.1l0.8,0.4l-0.1,0.8l1.2,0.3l6.9,-0.2l1.8,0.9l1.2,-0.3l-0.8,-0.7l0.5,-0.4l8.1,0.7ZM229.1,48.7l1.3,1l-0.8,0.1l-0.7,1.4l0.3,1.2l1.6,0.7l3,-0.1l0.1,-2l-0.8,-0.3l0.3,-0.7l-0.7,0l0.2,-0.9l1.8,-0.1l-1,-1.1l-0.8,0.2l-0.1,0.8l-0.3,-1.7l-1.2,-0.3l-1,-1.5l2.7,-0.7l0,-1.6l-1.8,-0.1l-2.1,0.6l-2.4,1.8l1.9,2.8ZM0,18.5l360,0.7l-1.3,-0.3ZM89.5,20.5l0,1l1.3,-0.8l1.2,0.7l-0.3,0.7l1,0.7l1.7,-1.6l0.1,-1.1l2.9,0.2l1.3,0.5l-0.7,1.1l0.7,0.5l-2,1.2l-2.5,-0.2l-1.5,1.8l-2.6,0.8l-0.9,1l-2.4,1l-1,1.1l-0.5,2l1.5,0.1l0.9,1.7l1.4,-0.2l5.9,2l2.7,0.2l0.2,1.8l2.2,2.1l1.3,-1.4l-1.2,-2.1l3.3,-1.8l-0.8,-1.6l-1.2,-0.7l1.2,-1.1l-0.8,-2.4l4.3,-0.1l2.4,1.3l1.8,0l0.3,2.1l1.6,0.8l3.1,-2.1l3.2,3.3l-0.4,0.7l4.5,1.7l1.5,1.3l0.1,1.2l-4.3,1.9l-6.4,0l-4.7,3.4l2.4,-1.5l3.6,-0.9l0.9,0.5l-0.9,0.6l0.6,1.9l3,0.3l1,-1.1l0.7,1.1l-5.6,2.4l-0.7,-0.1l-0.1,-0.9l1.8,-0.8l-2.7,0.2l-3.6,2.1l-0.1,0.7l0.8,0.7l-3.7,0.7l1.8,0l-2.1,0.1l-0.9,1.9l-0.6,-0.6l0.4,1.1l-0.8,1.2l-0.5,-1.9l0.1,1l-0.7,-0.1l0.7,0.3l0.6,2.3l-5.6,4.2l1.2,4.5l-0.3,1.7l-1.3,-0.7l-1.2,-3.2l-1.2,-1l-1,0.5l-1.3,-0.8l-2.8,0.1l-0.4,0.1l0.4,0.9l-1,0.2l-3.6,-0.6l-2.8,1.4l-0.8,0.9l-0.5,5l1.6,3.1l1.9,1.2l2.4,-0.6l1.2,-0.6l0.5,-1.7l3.2,-0.5l0.3,0.7l-1,2.5l-0.5,-0.2l-0.1,2l-0.5,0.6l3.9,-0.1l1.6,0.7l-0.4,4.2l2.4,2.3l1.8,-0.8l2.8,1l1.1,-0.8l0.8,-1.7l1.5,-0.1l1.6,-1.2l0.7,0.3l-0.8,0.7l0.2,2.3l0.7,-0.8l-0.4,-1.1l1.2,-0.4l0.3,-0.8l1.7,1.6l3.3,0.5l0.6,-0.5l2.4,-0.1l-0.8,0.3l0.3,0.5l1.6,0.5l0.1,0.8l1.6,0.6l2,2l3.1,0.2l2.7,1.6l1.3,2.5l-0.4,1.8l1.8,0.1l0,1l0.8,-0.6l2.9,1l0.3,1.1l4.6,0.2l2.8,1.9l1.6,0.3l0.9,2.2l-0.4,1.7l-3.6,4.1l-0.6,4.8l-1.6,4l-1.1,1.1l-2.6,0.4l-3,1.5l-0.9,1l-0.4,2.8l-4.9,5.7l-2.4,0.5l-2.2,-1l1.6,3l-0.9,1.3l-1.5,0.5l-3.1,0.1l0.2,1.9l-0.6,0.3l-2.4,0.1l0.1,1l1.5,0.5l-1.7,0.9l-0.4,1.5l-1.7,0.6l-0.3,0.7l2,0.9l-0.4,0.9l-3.1,2.6l0.9,1.7l-2.6,0.5l-0.2,0.9l-3.9,-1.5l-0.7,-3.6l1.5,-1.8l-1.5,-0.3l0.9,-0.8l0.3,-1.7l1.2,0.4l0.5,-2.1l-0.7,-0.3l-0.3,1.3l-0.6,-0.2l1.1,-3.9l-0.4,-2.1l2.2,-4.8l-0.1,-3.5l0.6,-1.3l0.7,-7.8l-0.2,-1.5l-1.1,-0.9l-4.5,-2.8l-3.8,-7.4l-1.5,-1.1l-0.1,-1.4l1.6,-2l-1.2,-0.5l0.1,-1.1l0.8,-1.9l1.2,-0.6l1.8,-2.4l-1.1,-4.5l-1.4,-0.6l-0.9,0.8l0.5,0.6l-0.9,0.3l-0.2,-0.6l-2.4,-0.6l-1.5,-1.7l-0.1,0.5l-0.6,-0.3l0,-1.2l-1.8,-2.2l-3.7,-0.6l-3.5,-2.3l-1.9,0.5l-6.9,-2.6l-2,-1.6l0.2,-1.5l-0.7,-1.4l-6.2,-6.2l-0.9,-2.2l-1.7,-0.6l0.1,1.6l5.3,7l-0.6,0.4l-2.2,-1.9l-0.1,-1.3l-2.8,-1.7l0.9,-0.9l-1.3,-1l-1.8,-3.4l-3.3,-1.6l-3.8,-5.7l0.5,-5.2l-0.8,-2.7l1.6,0.2l0.5,0.9l-0.2,-1.9l-4.6,-1.8l-0.4,-1.5l-1.3,-0.5l-0.2,-0.8l-2.7,-1.9l-2.1,-2.6l-2.5,-0.1l-3.3,-1.3l-7.2,-1.4l-1.1,0.2l0.2,0.7l-3.7,0.8l0.3,-1.5l0.8,-0.6l-3.4,1.9l0.7,0.5l-0.9,0.8l-4.2,2.1l-6.4,1.6l7.1,-3.2l0.7,-1.3l-5,0.2l0.1,-0.9l-1.9,-0.2l-2.3,-1.7l1.5,-1.6l3.8,-0.7l-0.7,-0.6l0.7,-0.4l-4.2,0.4l-3.1,-1.3l3.6,-0.9l2.8,0.5l-5.1,-2.3l3.6,-1l1.3,-0.9l5.3,-1.1l20.1,2.5l6.7,-1.3l0.7,0.4l1,-0.7l2.3,1l1.4,-0.7l0.1,0.8l2.8,-0.4l7.6,1.4l-1.4,0.5l5.4,-0.1l1,0.6l1.1,-0.5l-1,-0.4l0.6,-0.4l2.1,-0.1l4.6,1.2l3.1,-0.2l-0.2,-0.6l0.9,-0.2l1.6,0.4l0,0.9l0.6,-0.8l0.8,0l0.5,-1l-2.3,-1l0.1,-1.1l1.2,-0.7l2.3,0.6l1.4,1.1l-0.9,0.5ZM65.8,16.9l-0.5,0.4l2.3,-0.3l1.3,0.5l1.2,-0.5l1.7,1.3l0.5,-0.4l-0.7,-1l1.9,0l1.1,0.4l0.9,1.7l3.5,1l-1.7,0.5l0.6,0.4l-0.3,0.3l-3.6,-0.4l-7.3,0.7l-4,-1.5l4.9,-0.4l-5.5,-0.1l-0.5,-0.4l2.3,-0.4l-3.3,-0.3l1.5,-1.1l2.7,-0.6ZM103.7,16.9l-3.2,0.4l-1.4,-0.6l2.8,-0.4ZM93.4,16.8l0.8,0.7l0.9,-0.8l2.6,-0.5l1.7,1.1l-0.2,0.6l3,-0.7l3.7,1.5l1.9,-0.3l3.4,1.1l1.8,1.3l-1.8,0.5l6.9,1.8l-2,1.9l-2.8,-1.4l-1.3,0.1l-0.1,0.6l2.8,1.3l0.6,1l-0.3,0.7l-3.8,-1l2.6,1.8l-4.8,-1l-3.8,-1.8l-2.9,0.5l-0.9,-0.4l0.7,-0.7l3.9,-0.2l-0.3,-0.3l1.6,-1.5l-0.2,-0.4l-6.1,-2.5l-5.9,0.2l-3.8,-0.4l-0.8,-0.4l1,-0.4l-1.4,0l-0.3,-1l0.8,-0.9l3.6,-0.7ZM79.6,16.2l3,0l-0.7,0.8l1.6,0.4l-0.2,0.9l-2.6,0.3l-3.2,-1.1l2.1,-0.2l-1.1,-0.7ZM86.8,17.2l-2.2,0.7l-0.6,-1.3l1.5,-0.7l4,0.2l-1.5,0.9ZM59.5,18.6l-2.6,0.5l-2.8,-1l2,-1.8l-1,-0.6l7.3,0.1l2.1,0.7l-5,1.7ZM325.1,14.4l-0.8,0.8l-5.3,0.2l-2,-0.7l0.5,-0.6l4,-0.2ZM81.5,13.3l0.8,0.4l-0.5,1.3l-4.3,-0.6l-0.1,-0.7l4,-0.3ZM71.8,13.8l2.3,0.2l0.2,0.5l-6.5,1.1l-1.7,-0.3l2.1,-0.5l-5.9,0l2.3,-1.3l6.3,1l-1.4,-0.9l1.9,-0.3ZM237.5,19.3l-3.8,-0.1l-2.1,-0.7l-0.1,-0.5l2.9,-1.6l-0.9,-0.2l2.4,-0.8l-0.3,-0.5l10.6,-1.7l2.7,0.3l-10.4,2.2l-3.1,1.9l0.2,0.9ZM85.3,12.9l3.1,0.3l2.4,1.2l8.1,-0.1l1.3,0.8l-8.3,0.5l-4.3,-0.4l-0.5,-1.1l-4.2,-0.9l0.4,-0.4ZM63.8,12.4l-0.9,1.1l-5.8,0.4l3.8,-1.4l1.5,0ZM79.9,11.7l0.4,0.4l-5.5,-0.5l1,-0.3l-1.3,-0.6l4.7,0.5ZM285.1,11.7l-5.7,0.4l2.7,-1.4l3.3,0.6ZM198.3,10.3l3.2,0.7l-2.5,0.4l-1.9,1.8l-1.2,0l-2.1,-0.6l0.9,-0.3l-4.3,-2l6.6,-0.4ZM205.4,9.6l2,0.3l-4.4,0.7l-5.6,-0.9l5.5,-0.4ZM279.9,11.1l-4.9,-0.1l-3.8,-1.3l4.7,-1l4.3,1.5ZM93,10.3l1.2,0.4l-5,1.1l-2.1,-0.1l-1.1,-0.5l0.9,-0.6l-3.6,-0.8l2.4,-0.8l-0.4,-0.2l2.3,-0.1l4.6,1ZM111.5,6.9l6.6,0.5l-5.8,1.1l2.2,0l-5.7,1.7l-5.7,0.5l1.4,0.1l-0.7,0.2l0.8,0.5l-4.4,1.3l1.9,0.4l-2.7,0.6l-8.9,-0.3l-0.1,-0.5l1.8,-0.2l-0.5,-0.7l3.3,0.4l-3,-0.9l2.9,-0.9l-1.8,-1l5.1,-0.2l-5.8,0l-4,-1.4l6.1,-0.8l2.3,0.4l3.9,-0.8l8.6,-0.1ZM152.9,6.5l6.3,0.8l-11.1,0.5l9.8,0.5l-1.1,0.5l7.4,-0.7l3.6,0.6l-7.8,1.1l2.3,0.1l-2,1.3l0,1.2l1.2,0.6l-3.2,0.4l1.9,0.5l0.2,0.9l-1.1,0l1.3,0.9l-2.2,0.1l1.2,0.4l-0.4,0.3l-2.8,0.2l1.3,1.1l-2.5,-0.1l2.7,0.8l0.3,0.8l-1.7,0.2l-2,-0.9l0.3,0.6l-1.2,0.6l4.1,0.1l-5.4,1.6l-4.1,0.4l-2.4,1.4l-5.6,1.2l-1.4,2l-1.6,0.8l0.4,0.8l-1,1.8l-4.9,-0.8l-3.3,-2.7l-2.4,-3.6l1,-1.2l1.5,-0.3l0.6,-1.2l-2.6,0.6l-1.2,-0.3l0.3,-1.2l3,0.2l-4.4,-1.1l1.1,-0.9l-3.9,-2.9l-2.7,-0.6l-7.2,0l-2.9,-0.9l4.6,-0.4l-6.5,-0.6l7.6,-1.4l0.4,-0.4l-2.7,-0.3l5.8,-1.2l-0.4,-0.5l9.6,-0.1l2.6,-0.5l5.9,0.7l-2.4,-0.5l0.1,-0.4l11.7,-1Z</script>
 
 <script>
 (async () => {
@@ -724,7 +1237,17 @@
   const deck = document.getElementById('deck');
   deck.innerHTML = renderMagazine(data);
 
-  setupMagNav(deck);
+  const mobileMql = window.matchMedia('(max-width: 820px)');
+  if (mobileMql.matches) {
+    enterMobileFeed(deck);
+  } else {
+    setupSideRail(deck);
+  }
+  // Reload on cross-breakpoint resize so the two modes don't mid-life-swap.
+  let wasMobile = mobileMql.matches;
+  mobileMql.addEventListener('change', (e) => {
+    if (e.matches !== wasMobile) window.location.reload();
+  });
 
   const s = document.createElement('script');
   s.src = 'deck-stage.js';
@@ -734,18 +1257,24 @@
   document.body.appendChild(s2);
 })();
 
-function setupMagNav(deck) {
-  const nav = document.getElementById('mag-nav');
-  const tocEl = nav.querySelector('.mag-toc');
-  const curEl = document.getElementById('mag-pg-cur');
-  const totEl = document.getElementById('mag-pg-tot');
-  const secEl = document.getElementById('mag-section');
-  const prevBtn = nav.querySelector('.mag-prev');
-  const nextBtn = nav.querySelector('.mag-next');
+const WORLD_LAND_PATH = (document.getElementById('world-land-path')?.textContent || '').trim();
+
+function enterMobileFeed(deck) {
+  document.body.classList.add('is-mobile');
+  const feed = document.createElement('main');
+  feed.className = 'mobile-feed';
+  while (deck.firstChild) feed.appendChild(deck.firstChild);
+  deck.parentNode.insertBefore(feed, deck);
+}
+
+function setupSideRail(deck) {
+  const rail = document.getElementById('issue-rail');
+  const tabsEl = rail.querySelector('.rail-tabs');
+  const helpBtn = rail.querySelector('.rail-help');
+  const shortcuts = document.getElementById('rail-shortcuts');
 
   const sections = Array.from(deck.children);
   const total = sections.length;
-  totEl.textContent = String(total).padStart(2, '0');
 
   // Parse "01 Cover" → { num: '01', label: 'Cover' }
   const labels = sections.map((sec, i) => {
@@ -754,7 +1283,6 @@ function setupMagNav(deck) {
     return m ? { num: m[1].padStart(2, '0'), label: m[2].trim() } : { num: String(i+1).padStart(2,'0'), label: raw };
   });
 
-  // Build TOC (short labels)
   const TOC_SHORT = {
     'Cover': 'Cover',
     'Contents': 'Contents',
@@ -768,35 +1296,66 @@ function setupMagNav(deck) {
     'Watch and Play': 'Listings',
     'Colophon': 'Colophon'
   };
-  tocEl.innerHTML = labels.map((l, i) => {
+
+  tabsEl.innerHTML = labels.map((l, i) => {
     const short = TOC_SHORT[l.label] || l.label;
-    return '<button class="toc-item" type="button" role="tab" data-i="' + i + '">' +
-      '<span class="pg">' + l.num + '</span><span class="t">' + escAttr(short) + '</span></button>';
+    return '<li><button class="rail-tab" type="button" role="tab" data-i="' + i +
+      '" aria-label="' + escAttr('Page ' + l.num + ', ' + short) + '">' +
+      '<span class="rt-num" aria-hidden="true">' + l.num + '</span>' +
+      '<span class="rt-label" aria-hidden="true">' + escAttr(short) + '</span>' +
+      '</button></li>';
   }).join('');
 
-  tocEl.addEventListener('click', (e) => {
-    const t = e.target.closest('.toc-item');
+  tabsEl.addEventListener('click', (e) => {
+    const t = e.target.closest('.rail-tab');
     if (!t) return;
     const i = Number(t.dataset.i);
     if (deck.goTo) deck.goTo(i);
   });
-  prevBtn.addEventListener('click', () => { if (deck.prev) deck.prev(); });
-  nextBtn.addEventListener('click', () => { if (deck.next) deck.next(); });
 
   function update(i) {
     const idx = Math.max(0, Math.min(total - 1, i));
-    curEl.textContent = labels[idx].num;
-    secEl.textContent = labels[idx].label;
-    for (const el of tocEl.children) {
-      el.toggleAttribute('aria-current', Number(el.dataset.i) === idx);
+    let activeBtn = null;
+    for (const li of tabsEl.children) {
+      const btn = li.firstElementChild;
+      const isActive = Number(btn.dataset.i) === idx;
+      btn.toggleAttribute('aria-current', isActive);
+      if (isActive) activeBtn = btn;
+    }
+    if (activeBtn && typeof activeBtn.scrollIntoView === 'function') {
+      activeBtn.scrollIntoView({ block: 'nearest' });
     }
   }
 
   deck.addEventListener('slidechange', (e) => update(e.detail.index));
   update(0);
 
-  nav.hidden = false;
-  requestAnimationFrame(() => nav.setAttribute('data-ready', ''));
+  // Shortcuts overlay (mirrors deck-stage.js:1267-1310 keyboard nav).
+  function openShortcuts() {
+    shortcuts.setAttribute('data-open', '');
+    helpBtn.setAttribute('aria-expanded', 'true');
+  }
+  function closeShortcuts() {
+    shortcuts.removeAttribute('data-open');
+    helpBtn.setAttribute('aria-expanded', 'false');
+    helpBtn.focus();
+  }
+  helpBtn.addEventListener('click', openShortcuts);
+  shortcuts.addEventListener('click', closeShortcuts);
+  window.addEventListener('keydown', (e) => {
+    const t = e.target;
+    const typing = t && (t.isContentEditable || /^(INPUT|TEXTAREA|SELECT)$/.test(t.tagName));
+    if (e.key === '?' && !typing && !shortcuts.hasAttribute('data-open')) {
+      openShortcuts();
+      e.preventDefault();
+    } else if (e.key === 'Escape' && shortcuts.hasAttribute('data-open')) {
+      closeShortcuts();
+      e.preventDefault();
+    }
+  });
+
+  rail.hidden = false;
+  requestAnimationFrame(() => rail.setAttribute('data-ready', ''));
 }
 
 function escAttr(s) {
@@ -1491,6 +2050,7 @@ function spreadMarkets(c) {
       <p class="panel-deck">${esc(fmt(usgs.length))} events registered by the USGS in the last twenty‑four hours of our snapshot window. The largest are mapped here.</p>
 
       <div class="quake-map">
+        <svg class="map-base" viewBox="0 0 360 180" preserveAspectRatio="none" aria-hidden="true"><path d="${WORLD_LAND_PATH}"/></svg>
         <div class="map-grid"></div>
         <span class="map-lbl" style="top:14px;left:18px;">EQUIRECTANGULAR · −180° / +180°</span>
         <span class="map-lbl" style="bottom:10px;right:18px;">USGS · ${esc(c.snapshotIso)}</span>
