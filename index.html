@@ -1,1645 +1,1768 @@
 <!doctype html>
 <html lang="en">
 <head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Web Pulse — what the world is doing on the web</title>
-  <meta name="description" content="A daily snapshot of what people are reading, discussing, and building across the web." />
-  <link rel="icon" type="image/svg+xml" href="favicon.svg" />
-  <link rel="icon" href="favicon.ico" sizes="any" />
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300;0,9..144,400;0,9..144,500;0,9..144,700;1,9..144,400&family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@300;400;500;600&display=swap" rel="stylesheet">
-  <style>
-    :root {
-      --bg: #04080E;
-      --card: rgba(8,20,36,.35);
-      --card-hover: rgba(14,30,54,.5);
-      --border: #1B3358;
-      --text: #E8EEF2;
-      --muted: #9FB2C6;
-      --dim: #5E7692;
-      --accent: #5EEAD4;
-      --up: #A7F3D0;
-      --down: #FB7185;
-      --mono: 'JetBrains Mono', monospace;
-      --sans: 'Inter', sans-serif;
-      --serif: 'Fraunces', serif;
-      --deep: #081424;
-      --mid: #0E1E36;
-      --surf: #14284A;
-      --line2: #24426F;
-      --dimmer: #38516F;
-      --cyan: #5EEAD4;
-      --magenta: #F472B6;
-      --plankton: #A7F3D0;
-      --gold: #FCD34D;
-      --coral: #FB7185;
-      --violet: #A78BFA;
-      --amber: #FBBF24;
-      --salmon: #FA8072;
-      --indigo: #818CF8;
-    }
-    * { box-sizing: border-box; }
-    html, body { margin: 0; padding: 0; }
-    body {
-      background:
-        radial-gradient(1200px 800px at 85% -10%, rgba(94,234,212,.06), transparent 55%),
-        radial-gradient(1000px 700px at 5% 110%, rgba(244,114,182,.05), transparent 60%),
-        linear-gradient(180deg, #020509 0%, var(--bg) 30%, var(--bg) 100%);
-      color: var(--text);
-      font-family: var(--sans);
-      font-size: 13px;
-      line-height: 1.45;
-      -webkit-font-smoothing: antialiased;
-      position: relative;
-    }
-    body::before {
-      content: "";
-      position: fixed;
-      inset: 0;
-      pointer-events: none;
-      z-index: 0;
-      background-image:
-        linear-gradient(to right, rgba(36,66,111,.10) 1px, transparent 1px),
-        linear-gradient(to bottom, rgba(36,66,111,.10) 1px, transparent 1px);
-      background-size: 80px 80px;
-      mask-image: radial-gradient(1400px 900px at 50% 50%, black, transparent 90%);
-      -webkit-mask-image: radial-gradient(1400px 900px at 50% 50%, black, transparent 90%);
-    }
-    header.site {
-      padding: 12px 20px;
-      border-bottom: 1px solid var(--border);
-      display: flex;
-      align-items: center;
-      justify-content: space-between;
-      flex-wrap: wrap;
-      gap: 12px;
-      background: rgba(4,8,14,.6);
-      backdrop-filter: blur(6px);
-      -webkit-backdrop-filter: blur(6px);
-      position: sticky;
-      top: 0;
-      z-index: 10;
-    }
-    header.site h1 {
-      margin: 0;
-      font-family: var(--serif);
-      font-size: 18px;
-      font-weight: 400;
-      letter-spacing: 0.02em;
-    }
-    header.site h1 span.dot {
-      display: inline-block;
-      width: 6px; height: 6px;
-      background: var(--cyan);
-      border-radius: 50%;
-      margin-right: 8px;
-      vertical-align: 2px;
-      box-shadow: 0 0 8px var(--cyan);
-    }
-    header.site .meta {
-      font-family: var(--mono);
-      font-size: 10.5px;
-      color: var(--muted);
-      letter-spacing: 0.04em;
-    }
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Web Pulse — Daily Edition</title>
+<meta name="description" content="A daily print magazine assembled from the day's snapshot of the web." />
+<link rel="icon" type="image/svg+xml" href="favicon.svg" />
+<link rel="icon" href="favicon.ico" sizes="any" />
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300;0,9..144,400;0,9..144,500;0,9..144,600;0,9..144,700;0,9..144,900;1,9..144,300;1,9..144,400;1,9..144,500&family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@300;400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --paper: #F1E9D8;
+    --paper-2: #E9DFC9;
+    --paper-edge: #D8CDB3;
+    --ink: #0D0C09;
+    --ink-2: #1F1C16;
+    --grey-1: #6A6357;
+    --grey-2: #948C7C;
+    --rule: #2A251C;
+    --red: #B23A23;
+    --red-2: #8C2A18;
+    --blue: #1E3A5F;
+    --gold: #8A6A1E;
+    --serif: 'Fraunces', 'Times New Roman', serif;
+    --sans: 'Inter', system-ui, sans-serif;
+    --mono: 'JetBrains Mono', ui-monospace, monospace;
+  }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; padding: 0; background: #1a1814; color: var(--ink); font-family: var(--serif); }
+  deck-stage:not(:defined) { visibility: hidden; }
+  deck-stage { --deck-bg: #1a1814; }
 
-    main {
-      padding: 20px;
-      display: grid;
-      grid-template-columns: repeat(auto-fill, minmax(360px, 1fr));
-      gap: 16px;
-      max-width: 1600px;
-      margin: 0 auto;
-      position: relative;
-      z-index: 1;
-    }
+  /* ============ PAGE / SPREAD BASE ============ */
+  .spread {
+    width: 1920px; height: 1080px;
+    background: var(--paper);
+    position: relative;
+    overflow: hidden;
+    color: var(--ink);
+    font-family: var(--serif);
+    background-image:
+      radial-gradient(ellipse at 50% 0%, rgba(0,0,0,0.04), transparent 60%),
+      radial-gradient(ellipse at 0% 100%, rgba(178,58,35,0.04), transparent 50%),
+      url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='180' height='180'><filter id='n'><feTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='2' stitchTiles='stitch'/><feColorMatrix values='0 0 0 0 0.08 0 0 0 0 0.07 0 0 0 0 0.05 0 0 0 0.06 0'/></filter><rect width='100%' height='100%' filter='url(%23n)'/></svg>");
+    background-blend-mode: multiply;
+  }
+  .spread.two-page::before {
+    content: ""; position: absolute; left: 50%; top: 60px; bottom: 60px;
+    width: 1px; background: linear-gradient(180deg, transparent, rgba(0,0,0,0.18) 10%, rgba(0,0,0,0.18) 90%, transparent);
+    transform: translateX(-0.5px); z-index: 5; pointer-events: none;
+  }
+  .spread.two-page::after {
+    content: ""; position: absolute; left: calc(50% - 60px); right: calc(50% - 60px); top: 0; bottom: 0;
+    background: radial-gradient(ellipse at 50% 50%, rgba(0,0,0,0.10), transparent 70%);
+    z-index: 4; pointer-events: none;
+  }
 
-    .tile {
-      background: var(--card);
-      border: 1px solid var(--border);
-      border-radius: 3px;
-      overflow: hidden;
-      display: flex;
-      flex-direction: column;
-      min-height: 400px;
-      max-height: 600px;
-      transition: border-color 200ms ease;
-    }
-    .tile:hover { border-color: var(--line2); }
-    .tile header {
-      padding: 14px 16px 10px;
-      border-bottom: 1px solid var(--border);
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-      gap: 8px;
-    }
-    .tile h2 {
-      margin: 0;
-      font-family: var(--mono);
-      font-size: 10.5px;
-      font-weight: 500;
-      letter-spacing: 0.18em;
-      text-transform: uppercase;
-      color: var(--muted);
-    }
-    .tile .stamp {
-      font-family: var(--mono);
-      font-size: 9.5px;
-      color: var(--dim);
-      white-space: nowrap;
-      letter-spacing: 0.04em;
-    }
-    .tile .body {
-      overflow-y: auto;
-      flex: 1;
-    }
-    .tile .body::-webkit-scrollbar { width: 6px; }
-    .tile .body::-webkit-scrollbar-track { background: transparent; }
-    .tile .body::-webkit-scrollbar-thumb { background: var(--dimmer); border-radius: 3px; }
+  .folio {
+    position: absolute; bottom: 28px;
+    font-family: var(--mono); font-size: 12px; letter-spacing: 0.14em;
+    color: var(--ink-2); text-transform: uppercase;
+    display: flex; gap: 16px; align-items: center;
+    z-index: 6;
+  }
+  .folio.left  { left: 56px; }
+  .folio.right { right: 56px; }
+  .folio .num { color: var(--red); font-weight: 600; }
+  .folio .rule { width: 36px; height: 1px; background: var(--ink-2); }
 
-    .item {
-      display: grid;
-      grid-template-columns: 24px 1fr auto;
-      gap: 10px;
-      padding: 8px 16px;
-      border-bottom: 1px dashed rgba(36,66,111,.55);
-      align-items: start;
-      transition: background 150ms ease;
-    }
-    .item:last-child { border-bottom: none; }
-    .item:hover { background: rgba(14,30,54,.4); }
-    .item .rank {
-      font-family: var(--mono);
-      font-size: 10.5px;
-      color: var(--dim);
-      padding-top: 1px;
-    }
-    .item .title {
-      font-size: 12.5px;
-      line-height: 1.4;
-    }
-    .item .title a {
-      color: var(--text);
-      text-decoration: none;
-      transition: color 150ms ease;
-    }
-    .item .title a:hover { color: var(--cyan); }
-    .item .sub {
-      margin-top: 3px;
-      font-family: var(--mono);
-      font-size: 10px;
-      color: var(--dim);
-      letter-spacing: 0.02em;
-    }
-    .item .metric {
-      font-family: var(--mono);
-      font-size: 10.5px;
-      color: var(--muted);
-      white-space: nowrap;
-      padding-top: 1px;
-    }
+  .page {
+    position: absolute; top: 0; bottom: 0; padding: 56px 56px 90px;
+    display: flex; flex-direction: column;
+  }
+  .page.left  { left: 0; width: 50%; }
+  .page.right { right: 0; width: 50%; }
 
-    .tile.error .body, .tile.empty .body {
-      padding: 20px 16px;
-      color: var(--muted);
-      font-size: 13px;
-    }
+  .kicker {
+    font-family: var(--sans);
+    font-weight: 600;
+    font-size: 11px;
+    letter-spacing: 0.32em;
+    text-transform: uppercase;
+    color: var(--red);
+  }
+  .deck { font-family: var(--serif); font-style: italic; color: var(--ink-2); font-weight: 400; }
+  .byline { font-family: var(--sans); font-size: 11px; letter-spacing: 0.18em; text-transform: uppercase; color: var(--grey-1); font-weight: 500; }
+  .smallcaps { font-family: var(--sans); text-transform: uppercase; letter-spacing: 0.16em; font-weight: 600; }
+  .mono { font-family: var(--mono); }
+  .rule-thick { height: 4px; background: var(--ink); border: none; margin: 0; }
+  .rule-thin  { height: 1px; background: var(--ink); border: none; margin: 0; opacity: 0.7; }
+  .rule-double { border: none; border-top: 1px solid var(--ink); border-bottom: 1px solid var(--ink); height: 4px; }
+  .rule-red { height: 2px; background: var(--red); border: none; margin: 0; }
 
-    .sparkline {
-      display: inline-block;
-      vertical-align: middle;
-      margin-left: 6px;
-    }
-    .sparkline path.line {
-      fill: none;
-      stroke: var(--accent);
-      stroke-width: 1.2;
-      opacity: 0.75;
-    }
+  .body-serif { font-family: var(--serif); font-weight: 400; color: var(--ink-2); line-height: 1.45; font-size: 18px; }
+  .body-serif p { margin: 0 0 0.7em; }
+  .body-serif p:last-child { margin-bottom: 0; }
 
-    .delta { font-family: var(--mono); font-size: 10px; padding: 1px 5px; border-radius: 2px; margin-left: 6px; }
-    .delta.up   { color: var(--up); }
-    .delta.down { color: var(--down); }
-    .delta.flat { color: var(--dim); }
-    .badge { font-family: var(--mono); font-size: 9px; text-transform: uppercase; padding: 2px 6px; border-radius: 2px; margin-left: 6px; letter-spacing: 0.06em; }
-    .badge.new    { background: rgba(94,234,212,.15); color: var(--cyan); border: 1px solid rgba(94,234,212,.4); }
-    .badge.streak { background: rgba(36,66,111,.35); color: var(--muted); border: 1px solid var(--border); }
-    .pill         { font-family: var(--mono); font-size: 9px; text-transform: uppercase; padding: 1px 5px; border-radius: 2px; letter-spacing: 0.06em; background: rgba(122,162,247,.12); color: var(--cyan); border: 1px solid rgba(122,162,247,.3); }
-    .prob         { font-family: var(--mono); font-size: 11px; color: var(--up); }
-    .mag-major    { color: #ef4444; font-weight: 600; }
-    .mag-mod      { color: #fb923c; font-weight: 600; }
-    .mag-light    { color: #fbbf24; }
-    .mag-minor    { color: var(--muted); }
+  .pull {
+    font-family: var(--serif); font-style: italic; font-weight: 400;
+    font-size: 34px; line-height: 1.18; color: var(--ink);
+    border-top: 2px solid var(--ink); border-bottom: 2px solid var(--ink);
+    padding: 18px 0; margin: 0;
+  }
+  .pull::before { content: "\201C"; color: var(--red); }
+  .pull::after  { content: "\201D"; color: var(--red); }
 
-    .blob-container { position: relative; width: 100%; height: 100%; overflow: hidden; }
-    .blob-container .blob-more {
-      position: absolute; bottom: 6px; left: 50%; transform: translateX(-50%);
-      font-family: var(--mono); font-size: 9px; color: var(--dim);
-      letter-spacing: 0.04em; white-space: nowrap; pointer-events: none;
-    }
-    .item.blob {
-      /* reset .item base styles that cause oval distortion */
-      display: block; grid-template-columns: none; gap: 0;
-      padding: 0; border-bottom: none; align-items: initial;
-      background: none !important;
-      /* blob positioning */
-      position: absolute; border-radius: 50%;
-      transform: translate(-50%, -50%);
-      transition: transform 180ms ease;
-      z-index: 1; visibility: hidden;
-      aspect-ratio: 1 / 1;
-    }
-    .item.blob:last-child { border-bottom: none; }
-    .item.blob:hover {
-      transform: translate(-50%, -50%) scale(1.12);
-      z-index: 10;
-    }
-    .item.blob .blob-circle {
-      width: 100%; height: 100%; border-radius: 50%;
-      display: flex; flex-direction: column; align-items: center; justify-content: center;
-      text-align: center; text-decoration: none; padding: 8px; overflow: hidden;
-      border: 1.5px solid; transition: border-color 180ms ease, box-shadow 180ms ease;
-      aspect-ratio: 1 / 1;
-    }
-    .item.blob:hover .blob-circle {
-      box-shadow: 0 0 24px var(--blob-glow), inset 0 0 16px var(--blob-glow);
-    }
-    .item.blob .blob-title {
-      font-size: 10px; line-height: 1.15; color: var(--text); font-weight: 500;
-      overflow: hidden; text-overflow: ellipsis;
-      display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical;
-      max-width: 90%; word-break: break-word;
-    }
-    .item.blob .blob-sub {
-      font-family: var(--mono); font-size: 8px; color: var(--muted);
-      margin-top: 2px; white-space: nowrap; opacity: .8;
-    }
-    .item.blob .blob-badges {
-      position: absolute; top: -2px; right: -2px;
-      display: flex; gap: 2px; z-index: 2;
-    }
-    .item.blob .blob-badges .badge { margin-left: 0; font-size: 7px; padding: 1px 4px; }
-    .item.blob .blob-badges .delta { margin-left: 0; font-size: 8px; padding: 0 3px; }
-    .item.blob .blob-tip {
-      position: absolute; bottom: calc(100% + 8px); left: 50%;
-      transform: translateX(-50%); background: var(--deep);
-      border: 1px solid var(--line2); border-radius: 4px;
-      padding: 6px 10px; white-space: nowrap;
-      opacity: 0; pointer-events: none; transition: opacity 150ms ease;
-      z-index: 20; font-size: 11px; color: var(--text);
-      box-shadow: 0 4px 12px rgba(0,0,0,.4);
-    }
-    .item.blob .blob-tip span { display: block; font-family: var(--mono); font-size: 9px; color: var(--dim); margin-top: 2px; }
-    .item.blob:hover .blob-tip { opacity: 1; }
-    .item.blob.search-hidden { display: none; }
+  /* COVER */
+  #cover .nameplate {
+    font-family: var(--serif); font-weight: 700;
+    font-size: 240px; line-height: 0.82;
+    letter-spacing: -0.04em;
+    color: var(--ink);
+    margin: 0;
+    font-feature-settings: "ss01", "lnum";
+  }
+  #cover .nameplate em { font-style: italic; color: var(--red); font-weight: 500; }
+  #cover .strap {
+    display: flex; justify-content: space-between; align-items: baseline;
+    font-family: var(--mono); font-size: 14px; letter-spacing: 0.2em;
+    text-transform: uppercase; color: var(--ink-2);
+    padding-bottom: 10px; border-bottom: 1px solid var(--ink);
+    margin-bottom: 36px;
+  }
+  #cover .strap .issue { color: var(--red); font-weight: 600; }
+  #cover .hero {
+    flex: 1; display: grid; grid-template-columns: 1.1fr 0.9fr;
+    gap: 56px; padding-top: 40px;
+  }
+  #cover .hero-left { display: flex; flex-direction: column; gap: 28px; }
+  #cover .cover-head {
+    font-family: var(--serif); font-weight: 600;
+    font-size: 116px; line-height: 0.92; letter-spacing: -0.025em;
+    margin: 0;
+  }
+  #cover .cover-head em { font-style: italic; font-weight: 500; }
+  #cover .cover-head .red { color: var(--red); }
+  #cover .cover-sub {
+    font-family: var(--serif); font-style: italic;
+    font-size: 26px; line-height: 1.3; color: var(--ink-2); max-width: 720px;
+  }
+  #cover .hero-right {
+    border-left: 1px solid var(--ink); padding-left: 40px;
+    display: flex; flex-direction: column;
+    gap: 22px;
+  }
+  #cover .cover-line {
+    border-bottom: 1px dashed rgba(0,0,0,0.35);
+    padding-bottom: 18px;
+  }
+  #cover .cover-line:last-child { border-bottom: none; padding-bottom: 0; }
+  #cover .cover-line .num {
+    font-family: var(--mono); font-size: 11px;
+    color: var(--red); letter-spacing: 0.18em;
+    margin-bottom: 4px; display: block;
+  }
+  #cover .cover-line .ttl {
+    font-family: var(--serif); font-size: 24px; line-height: 1.15;
+    color: var(--ink); margin: 0 0 4px;
+  }
+  #cover .cover-line .pg {
+    font-family: var(--sans); font-size: 11px; letter-spacing: 0.2em;
+    text-transform: uppercase; color: var(--grey-1);
+  }
+  #cover .barcode {
+    position: absolute; bottom: 36px; right: 56px;
+    display: flex; flex-direction: column; align-items: flex-end; gap: 6px;
+  }
+  #cover .barcode .bars { display: flex; gap: 2px; height: 56px; align-items: flex-end; }
+  #cover .barcode .bars i {
+    background: var(--ink); width: 2px; display: block;
+  }
+  #cover .barcode .price {
+    font-family: var(--mono); font-size: 11px; letter-spacing: 0.18em; color: var(--ink-2);
+    text-transform: uppercase;
+  }
 
-    .display-toggle { display: flex; gap: 4px; margin-left: 8px; padding-left: 8px; border-left: 1px solid var(--border); }
-    .display-toggle button {
-      font-family: var(--mono); font-size: 10px; padding: 3px 10px;
-      border: 1px solid var(--border); border-radius: 2px;
-      background: transparent; color: var(--muted); cursor: pointer;
-      text-transform: uppercase; letter-spacing: 0.08em; transition: all 150ms ease;
-    }
-    .display-toggle button:hover { color: var(--text); }
-    .display-toggle button.active { background: rgba(94,234,212,.06); color: var(--cyan); border-color: rgba(94,234,212,.4); }
+  /* MASTHEAD / EDITOR */
+  #masthead .contents-head {
+    font-family: var(--serif); font-weight: 600;
+    font-size: 96px; line-height: 0.9; letter-spacing: -0.02em; margin: 0;
+  }
+  #masthead .contents-head em { font-style: italic; color: var(--red); font-weight: 500; }
+  #masthead .contents-list { display: flex; flex-direction: column; margin-top: 36px; }
+  #masthead .contents-list .row {
+    display: grid; grid-template-columns: 56px 1fr 60px;
+    align-items: baseline; gap: 16px;
+    padding: 14px 0; border-bottom: 1px solid rgba(0,0,0,0.25);
+  }
+  #masthead .contents-list .row .pg { font-family: var(--mono); color: var(--red); font-weight: 600; font-size: 16px; letter-spacing: 0.06em; }
+  #masthead .contents-list .row .ttl { font-family: var(--serif); font-size: 24px; color: var(--ink); }
+  #masthead .contents-list .row .ttl em { font-style: italic; color: var(--ink-2); }
+  #masthead .contents-list .row .sec { font-family: var(--sans); font-size: 10px; letter-spacing: 0.2em; text-transform: uppercase; color: var(--grey-1); text-align: right; }
+  #masthead .editor-stack {
+    display: flex; flex-direction: column; gap: 22px; height: 100%;
+  }
+  #masthead .editor-head {
+    font-family: var(--serif); font-weight: 500; font-style: italic;
+    font-size: 52px; line-height: 0.98; letter-spacing: -0.01em; margin: 0;
+  }
+  #masthead .editor-body {
+    font-family: var(--serif); font-size: 19px; line-height: 1.5; color: var(--ink-2); column-count: 1; max-width: 720px;
+  }
+  #masthead .editor-body p { margin: 0 0 0.7em; }
+  #masthead .sign {
+    margin-top: 10px;
+    font-family: var(--serif); font-style: italic; font-size: 22px; color: var(--ink);
+  }
+  #masthead .sign .name { display: block; font-style: normal; font-size: 16px; letter-spacing: 0.16em; text-transform: uppercase; color: var(--grey-1); margin-top: 6px; }
+  #masthead .masthead-block {
+    margin-top: auto;
+    border-top: 1px solid var(--ink); padding-top: 18px;
+    display: grid; grid-template-columns: 1fr 1fr; gap: 24px;
+  }
+  #masthead .masthead-block dl { margin: 0; }
+  #masthead .masthead-block dt {
+    font-family: var(--sans); font-size: 9px; letter-spacing: 0.22em;
+    text-transform: uppercase; color: var(--red); margin-bottom: 4px; font-weight: 600;
+  }
+  #masthead .masthead-block dd { margin: 0 0 8px; font-family: var(--serif); font-size: 14px; color: var(--ink-2); }
 
-    .view-toggle { display: flex; gap: 4px; }
-    .view-toggle button {
-      font-family: var(--mono); font-size: 10px; padding: 3px 10px;
-      border: 1px solid var(--border); border-radius: 2px;
-      background: transparent; color: var(--muted); cursor: pointer;
-      text-transform: uppercase; letter-spacing: 0.08em; transition: all 150ms ease;
-    }
-    .view-toggle button:hover { color: var(--text); }
-    .view-toggle button.active { background: rgba(94,234,212,.06); color: var(--cyan); border-color: rgba(94,234,212,.4); }
+  /* NUMBERS INFOGRAPHIC */
+  #numbers .nums-grid {
+    display: grid; grid-template-columns: 1fr 1fr; grid-template-rows: 1fr 1fr;
+    gap: 0; height: calc(100% - 70px);
+    border-top: 1px solid var(--ink);
+    border-bottom: 1px solid var(--ink);
+  }
+  #numbers .nums-cell {
+    padding: 28px 32px; display: flex; flex-direction: column;
+    border-right: 1px solid var(--ink); border-bottom: 1px solid var(--ink);
+    position: relative;
+  }
+  #numbers .nums-cell:nth-child(2n) { border-right: none; }
+  #numbers .nums-cell:nth-last-child(-n+2) { border-bottom: none; }
+  #numbers .nums-cell .lbl {
+    font-family: var(--sans); font-size: 10px; letter-spacing: 0.24em;
+    text-transform: uppercase; color: var(--grey-1); font-weight: 600;
+  }
+  #numbers .nums-cell .fig {
+    font-family: var(--serif); font-weight: 600;
+    font-size: 120px; line-height: 0.92; letter-spacing: -0.04em;
+    color: var(--ink); margin-top: 14px;
+  }
+  #numbers .nums-cell .fig em { font-style: italic; color: var(--red); font-weight: 500; }
+  #numbers .nums-cell .fig .sm { font-size: 34px; vertical-align: 26px; margin-left: 6px; color: var(--ink-2); font-weight: 400; }
+  #numbers .nums-cell .cap {
+    margin-top: auto; font-family: var(--serif); font-style: italic;
+    font-size: 17px; line-height: 1.35; color: var(--ink-2); max-width: 92%;
+  }
 
-    .tile-wide { grid-column: 1 / -1; max-height: 320px; }
-    .cluster-row {
-      display: grid; grid-template-columns: 24px 1fr auto; gap: 10px;
-      padding: 8px 16px; border-bottom: 1px dashed rgba(36,66,111,.55); align-items: start;
-      transition: background 150ms ease;
-    }
-    .cluster-row:last-child { border-bottom: none; }
-    .cluster-row:hover { background: rgba(14,30,54,.4); }
-    .badge-src {
-      display: inline-flex; font-family: var(--mono); font-size: 10px;
-      padding: 2px 6px; border-radius: 2px; margin-right: 4px; margin-top: 3px;
-      border: 1px solid;
-    }
-    .badge-src a { color: inherit; text-decoration: none; }
-    .badge-src a:hover { text-decoration: underline; }
-    .badge-wikipedia        { color: var(--plankton); background: rgba(167,243,208,.06); border-color: rgba(167,243,208,.4); }
-    .badge-hackernews       { color: var(--amber); background: rgba(251,191,36,.06); border-color: rgba(251,191,36,.4); }
-    .badge-reddit           { color: var(--coral); background: rgba(251,113,133,.06); border-color: rgba(251,113,133,.4); }
-    .badge-github           { color: var(--muted); background: rgba(159,178,198,.06); border-color: rgba(159,178,198,.3); }
-    .badge-google-trends    { color: var(--cyan); background: rgba(94,234,212,.06); border-color: rgba(94,234,212,.4); }
-    .badge-cloudflare-radar { color: var(--violet); background: rgba(167,139,250,.06); border-color: rgba(167,139,250,.4); }
-    .badge-mediastack      { color: var(--cyan); background: rgba(94,234,212,.06); border-color: rgba(94,234,212,.4); }
-    .badge-stackoverflow   { color: var(--gold); background: rgba(252,211,77,.06); border-color: rgba(252,211,77,.4); }
-    .badge-steam           { color: var(--plankton); background: rgba(167,243,208,.06); border-color: rgba(167,243,208,.4); }
-    .badge-youtube         { color: var(--magenta); background: rgba(244,114,182,.06); border-color: rgba(244,114,182,.4); }
-    .badge-bluesky         { color: var(--violet); background: rgba(167,139,250,.06); border-color: rgba(167,139,250,.4); }
-    .badge-mastodon-trending { color: var(--indigo); background: rgba(129,140,248,.06); border-color: rgba(129,140,248,.4); }
-    .badge-product-hunt      { color: var(--salmon); background: rgba(250,128,114,.06); border-color: rgba(250,128,114,.4); }
+  .bar-chart { display: flex; flex-direction: column; gap: 10px; }
+  .bar-row { display: grid; grid-template-columns: 44px 1fr; gap: 12px; align-items: center; }
+  .bar-row .bar-label { font-family: var(--sans); font-size: 11px; color: var(--ink); letter-spacing: 0.05em; text-transform: uppercase; font-weight: 600; }
+  .bar-row .bar-wrap { display: grid; grid-template-columns: 1fr auto; gap: 10px; align-items: center; }
+  .bar-row .bar {
+    height: 18px; background: var(--ink); position: relative;
+  }
+  .bar-row .bar.red { background: var(--red); }
+  .bar-row .bar-val { font-family: var(--mono); font-size: 12px; color: var(--ink); white-space: nowrap; }
 
-    .filter-bar {
-      padding: 10px 20px; display: flex; flex-wrap: wrap; gap: 8px;
-      border-bottom: 1px solid var(--border);
-      background: rgba(8,20,36,.5);
-      position: relative; z-index: 1;
-    }
-    .filter-bar button {
-      font-family: var(--mono); font-size: 10px; padding: 3px 10px;
-      border-radius: 2px; border: 1px solid var(--line2);
-      background: rgba(8,20,36,.4); color: var(--muted); cursor: pointer;
-      text-transform: uppercase; letter-spacing: 0.12em; transition: all 150ms ease;
-    }
-    .filter-bar button:hover { border-color: rgba(94,234,212,.4); color: var(--text); }
-    .filter-bar button.active { background: rgba(94,234,212,.06); color: var(--cyan); border-color: rgba(94,234,212,.4); }
+  /* COVER STORY */
+  #wiki .cs-head {
+    font-family: var(--serif); font-weight: 600;
+    font-size: 132px; line-height: 0.88; letter-spacing: -0.035em;
+    margin: 0;
+  }
+  #wiki .cs-head em { font-style: italic; font-weight: 500; }
+  #wiki .cs-head .red { color: var(--red); }
+  #wiki .cs-deck {
+    font-family: var(--serif); font-style: italic;
+    font-size: 30px; line-height: 1.25; color: var(--ink-2); max-width: 760px;
+  }
+  #wiki .article {
+    column-count: 2; column-gap: 36px; column-rule: 1px solid rgba(0,0,0,0.18);
+    font-family: var(--serif); font-size: 17px; line-height: 1.5; color: var(--ink-2);
+    margin-top: 28px;
+  }
+  #wiki .article p { margin: 0 0 0.6em; break-inside: avoid; }
+  #wiki .article p:first-child::first-letter {
+    font-family: var(--serif); font-weight: 700; font-size: 86px; line-height: 0.85;
+    float: left; padding: 6px 10px 0 0; color: var(--red);
+  }
+  #wiki .sidebar {
+    border-left: 4px solid var(--ink); padding-left: 22px;
+    display: flex; flex-direction: column; gap: 14px;
+  }
+  #wiki .sidebar-head { font-family: var(--serif); font-weight: 600; font-size: 34px; line-height: 1.05; margin: 0; }
+  #wiki .sidebar-head em { color: var(--red); font-style: italic; font-weight: 500; }
+  .rank-list { display: flex; flex-direction: column; gap: 0; }
+  .rank-list .r {
+    display: grid; grid-template-columns: 38px 1fr auto; gap: 14px;
+    padding: 12px 0; border-bottom: 1px solid rgba(0,0,0,0.22);
+    align-items: baseline;
+  }
+  .rank-list .r:last-child { border-bottom: none; }
+  .rank-list .r .n {
+    font-family: var(--serif); font-weight: 600; font-size: 30px;
+    color: var(--red); line-height: 1; font-style: italic;
+  }
+  .rank-list .r .t {
+    font-family: var(--serif); font-size: 19px; line-height: 1.25; color: var(--ink);
+  }
+  .rank-list .r .t .meta { display: block; font-family: var(--sans); font-size: 10.5px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--grey-1); margin-top: 4px; }
+  .rank-list .r .v { font-family: var(--mono); font-size: 12px; color: var(--ink-2); white-space: nowrap; }
 
-    #search {
-      font-family: var(--mono); font-size: 11px; padding: 5px 12px;
-      border: 1px solid var(--border); border-radius: 3px;
-      background: rgba(4,8,14,.55); color: var(--text); width: 200px; outline: none;
-      letter-spacing: 0.02em; transition: border-color 150ms ease;
-    }
-    #search:focus { border-color: var(--cyan); box-shadow: 0 0 6px rgba(94,234,212,.2); }
-    .item.search-hidden { display: none; }
-    .tile.filtered-empty .body::after {
-      content: "No matches"; display: block; padding: 20px 16px;
-      color: var(--muted); font-size: 13px;
-    }
+  /* THE DISCOURSE */
+  #discourse .disc-head {
+    font-family: var(--serif); font-weight: 600;
+    font-size: 124px; line-height: 0.9; letter-spacing: -0.03em; margin: 0;
+  }
+  #discourse .disc-head em { font-style: italic; color: var(--red); font-weight: 500; }
+  #discourse .disc-deck { font-family: var(--serif); font-style: italic; font-size: 24px; line-height: 1.3; color: var(--ink-2); max-width: 760px; }
+  #discourse .grid-2 {
+    display: grid; grid-template-columns: 1fr 1fr; gap: 36px; margin-top: 26px;
+    flex: 1;
+  }
+  #discourse .col { display: flex; flex-direction: column; gap: 14px; }
+  #discourse .col-head {
+    display: flex; align-items: center; gap: 12px;
+    border-top: 4px solid var(--ink); padding-top: 12px;
+  }
+  #discourse .col-head .dot {
+    width: 14px; height: 14px; background: var(--red); border-radius: 50%;
+  }
+  #discourse .col-head .dot.dot-hn { background: #ff6600; }
+  #discourse .col-head .dot.dot-rd { background: #ff4500; }
+  #discourse .col-head .dot.dot-bs { background: #1185fe; }
+  #discourse .col-head .dot.dot-md { background: #6364ff; }
+  #discourse .col-head .name {
+    font-family: var(--sans); font-size: 13px; letter-spacing: 0.22em;
+    text-transform: uppercase; font-weight: 700; color: var(--ink);
+  }
+  #discourse .col-head .meta { margin-left: auto; font-family: var(--mono); font-size: 11px; color: var(--grey-1); letter-spacing: 0.12em; text-transform: uppercase; }
+  #discourse .col-list { display: flex; flex-direction: column; }
+  #discourse .col-list .li {
+    padding: 9px 0; border-bottom: 1px dotted rgba(0,0,0,0.25);
+    display: grid; grid-template-columns: 28px 1fr auto; gap: 10px; align-items: baseline;
+  }
+  #discourse .col-list .li:last-child { border-bottom: none; }
+  #discourse .col-list .li .n { font-family: var(--mono); font-size: 11px; color: var(--grey-1); }
+  #discourse .col-list .li .t { font-family: var(--serif); font-size: 17px; line-height: 1.3; color: var(--ink); }
+  #discourse .col-list .li .v { font-family: var(--mono); font-size: 11px; color: var(--ink-2); }
 
-    .brief {
-      max-width: 1600px; margin: 0 auto; padding: 14px 20px;
-      border-bottom: 1px solid var(--border);
-      background: linear-gradient(180deg, rgba(94,234,212,.04), transparent);
-      position: relative; z-index: 1;
-    }
-    .brief-label {
-      margin: 0 0 4px; font-family: var(--mono); font-size: 10px;
-      text-transform: uppercase; letter-spacing: 0.18em; color: var(--cyan);
-    }
-    .brief-text { margin: 0; font-family: var(--serif); font-size: 14px; line-height: 1.6; color: var(--text); font-style: italic; }
+  /* MARKETS & EARTH */
+  .panel-head {
+    font-family: var(--serif); font-weight: 600;
+    font-size: 96px; line-height: 0.9; letter-spacing: -0.03em; margin: 0;
+  }
+  .panel-head em { font-style: italic; color: var(--red); font-weight: 500; }
+  .panel-deck { font-family: var(--serif); font-style: italic; font-size: 22px; line-height: 1.3; color: var(--ink-2); max-width: 720px; margin-top: 8px; }
+  #markets .mkt-list { display: flex; flex-direction: column; margin-top: 22px; }
+  #markets .mkt-row {
+    display: grid; grid-template-columns: 40px 1fr 170px;
+    gap: 16px; padding: 16px 0; align-items: center;
+    border-bottom: 1px solid rgba(0,0,0,0.22);
+  }
+  #markets .mkt-row:last-child { border-bottom: none; }
+  #markets .mkt-row .n {
+    font-family: var(--serif); font-weight: 600; font-size: 28px; color: var(--ink); font-style: italic;
+  }
+  #markets .mkt-row .t { font-family: var(--serif); font-size: 19px; line-height: 1.3; color: var(--ink); }
+  #markets .mkt-row .vol {
+    font-family: var(--mono); font-size: 13px; color: var(--ink-2);
+    text-align: right;
+  }
+  #markets .mkt-row .vol .big { font-family: var(--serif); font-size: 26px; color: var(--red); font-weight: 600; display: block; line-height: 1; }
+  #markets .mkt-row .vol .sm { font-size: 10px; letter-spacing: 0.16em; text-transform: uppercase; color: var(--grey-1); margin-top: 4px; display: block; }
 
-    .history-view { max-width: 1000px; margin: 0 auto; padding: 20px; position: relative; z-index: 1; }
-    .history-header { margin-bottom: 24px; }
-    .back-link { font-family: var(--mono); font-size: 10.5px; color: var(--dim); text-decoration: none; letter-spacing: 0.04em; text-transform: uppercase; }
-    .back-link:hover { color: var(--cyan); }
-    .history-view h2 { font-family: var(--serif); font-size: 22px; font-weight: 400; margin: 8px 0 4px; }
-    .history-meta { font-family: var(--mono); font-size: 11px; color: var(--muted); margin: 0; letter-spacing: 0.02em; }
-    .history-chart {
-      background: rgba(8,20,36,.35); border: 1px solid var(--border);
-      border-radius: 3px; padding: 20px; margin-bottom: 20px;
-    }
-    .history-items {
-      background: rgba(8,20,36,.35); border: 1px solid var(--border);
-      border-radius: 3px; overflow: hidden;
-    }
-    .history-items h3 {
-      font-family: var(--mono); font-size: 10.5px; font-weight: 500; text-transform: uppercase; letter-spacing: 0.18em;
-      color: var(--muted); padding: 14px 16px; margin: 0; border-bottom: 1px solid var(--border);
-    }
+  .quake-map {
+    margin-top: 22px; flex: 1; min-height: 0;
+    border: 1px solid var(--ink); position: relative; background: var(--paper-2);
+    overflow: hidden;
+  }
+  .quake-map .map-grid {
+    position: absolute; inset: 0;
+    background-image:
+      linear-gradient(to right, rgba(0,0,0,0.06) 1px, transparent 1px),
+      linear-gradient(to bottom, rgba(0,0,0,0.06) 1px, transparent 1px);
+    background-size: 60px 60px;
+  }
+  .quake-map .map-lbl {
+    position: absolute; font-family: var(--mono); font-size: 10px;
+    letter-spacing: 0.14em; text-transform: uppercase; color: var(--grey-1);
+  }
+  .quake-map .pin {
+    position: absolute; transform: translate(-50%, -50%);
+    border-radius: 50%; background: var(--red);
+    box-shadow: 0 0 0 2px var(--paper);
+    pointer-events: none;
+  }
+  .quake-map .pin::after {
+    content: ""; position: absolute; inset: -8px; border: 1px solid var(--red);
+    border-radius: 50%; opacity: 0.5;
+  }
+  .quake-map .pin-label {
+    position: absolute; transform: translate(8px, -50%);
+    font-family: var(--sans); font-size: 10px; letter-spacing: 0.05em;
+    color: var(--ink); white-space: nowrap;
+    background: var(--paper); padding: 1px 4px; border: 1px solid var(--ink);
+  }
+  .quake-map .pin-label a.mag-link { border-bottom: none; }
+  .quake-map .pin-label a.mag-link:hover { color: var(--red); border-bottom: none; }
+  .quake-legend {
+    display: flex; gap: 16px; align-items: center; margin-top: 10px;
+    font-family: var(--sans); font-size: 10px; letter-spacing: 0.16em; text-transform: uppercase; color: var(--grey-1);
+  }
+  .quake-legend .swatch { background: var(--red); border-radius: 50%; display: inline-block; margin-right: 6px; vertical-align: middle; }
 
-    @media (max-width: 600px) {
-      #search { width: 100%; }
-      header.site { flex-direction: column; align-items: stretch; }
-      .filter-bar { padding: 8px 12px; }
-    }
+  /* CODE & MODELS */
+  .feature-head {
+    font-family: var(--serif); font-weight: 600;
+    font-size: 96px; line-height: 0.9; letter-spacing: -0.03em; margin: 0;
+  }
+  .feature-head em { font-style: italic; color: var(--red); font-weight: 500; }
+  .feature-deck { font-family: var(--serif); font-style: italic; font-size: 22px; line-height: 1.3; color: var(--ink-2); }
+  #code .terminal {
+    background: var(--ink); color: var(--paper); padding: 22px 26px; font-family: var(--mono);
+    font-size: 14px; line-height: 1.7; flex: 1; min-height: 0;
+    border: 1px solid var(--ink);
+    position: relative;
+    margin-top: 16px;
+  }
+  #code .terminal::before {
+    content: "GITHUB / TRENDING"; position: absolute; top: -1px; right: -1px;
+    background: var(--red); color: var(--paper); font-family: var(--sans);
+    font-size: 10px; letter-spacing: 0.22em; padding: 4px 10px; font-weight: 600;
+  }
+  #code .terminal .row { display: grid; grid-template-columns: 32px 1fr auto; gap: 12px; align-items: baseline; padding: 6px 0; border-bottom: 1px dashed rgba(255,255,255,0.12); }
+  #code .terminal .row:last-child { border-bottom: none; }
+  #code .terminal .row .n { color: var(--red); font-weight: 600; }
+  #code .terminal .row .repo { color: var(--paper); font-size: 15px; }
+  #code .terminal .row .repo .owner { color: rgba(241,233,216,0.55); }
+  #code .terminal .row .tag { color: rgba(241,233,216,0.7); font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; }
+  #code .terminal .term-foot { margin-top: 14px; font-size: 11px; letter-spacing: 0.18em; opacity: 0.5; text-transform: uppercase; color: rgba(241,233,216,0.6); }
 
-    footer {
-      padding: 20px 24px 32px;
-      text-align: center;
-      font-family: var(--mono);
-      font-size: 10px;
-      color: var(--dim);
-      letter-spacing: 0.04em;
-      border-top: 1px solid var(--border);
-      position: relative;
-      z-index: 1;
-    }
-    footer a { color: var(--muted); text-decoration: none; }
-    footer a:hover { color: var(--cyan); }
+  #code .right-stack { display: flex; flex-direction: column; gap: 18px; height: 100%; }
+  #code .sub-section { display: flex; flex-direction: column; gap: 8px; }
+  #code .sub-head {
+    border-top: 3px solid var(--ink); padding-top: 10px;
+    display: flex; justify-content: space-between; align-items: baseline;
+  }
+  #code .sub-head .name {
+    font-family: var(--sans); font-size: 13px; letter-spacing: 0.24em;
+    text-transform: uppercase; font-weight: 700;
+  }
+  #code .sub-head .name em { font-style: italic; color: var(--red); font-weight: 500; letter-spacing: 0.05em; text-transform: none; }
+  #code .sub-head .meta { font-family: var(--mono); font-size: 10px; color: var(--grey-1); letter-spacing: 0.12em; text-transform: uppercase; }
+  #code .sub-list .li {
+    display: grid; grid-template-columns: 28px 1fr auto; gap: 10px; align-items: baseline;
+    padding: 7px 0; border-bottom: 1px dotted rgba(0,0,0,0.22);
+  }
+  #code .sub-list .li:last-child { border-bottom: none; }
+  #code .sub-list .li .n { font-family: var(--mono); font-size: 11px; color: var(--grey-1); }
+  #code .sub-list .li .t { font-family: var(--serif); font-size: 16px; color: var(--ink); line-height: 1.25; }
+  #code .sub-list .li .v { font-family: var(--mono); font-size: 11px; color: var(--ink-2); }
 
-    /* ---- FAB Navigation ---- */
-    .fab-nav {
-      position: fixed;
-      bottom: 24px;
-      right: 24px;
-      z-index: 50;
-      display: flex;
-      flex-direction: column;
-      align-items: flex-end;
-      gap: 8px;
-      pointer-events: none;
-    }
-    .fab-nav-toggle {
-      pointer-events: auto;
-      width: 48px;
-      height: 48px;
-      border-radius: 50%;
-      border: 1px solid var(--line2);
-      background: var(--deep);
-      color: var(--cyan);
-      cursor: pointer;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      box-shadow: 0 4px 20px rgba(0,0,0,.5), 0 0 12px rgba(94,234,212,.15);
-      transition: transform 200ms ease, border-color 200ms ease, box-shadow 200ms ease;
-      backdrop-filter: blur(8px);
-      -webkit-backdrop-filter: blur(8px);
-    }
-    .fab-nav-toggle:hover {
-      border-color: var(--cyan);
-      box-shadow: 0 4px 20px rgba(0,0,0,.5), 0 0 20px rgba(94,234,212,.25);
-      transform: scale(1.08);
-    }
-    .fab-nav.open .fab-nav-toggle {
-      background: var(--surf);
-      border-color: var(--cyan);
-    }
-    .fab-nav-panel {
-      pointer-events: auto;
-      display: flex;
-      flex-direction: column;
-      gap: 2px;
-      background: var(--deep);
-      border: 1px solid var(--line2);
-      border-radius: 4px;
-      padding: 6px;
-      max-height: 70vh;
-      overflow-y: auto;
-      box-shadow: 0 8px 32px rgba(0,0,0,.6);
-      opacity: 0;
-      transform: translateY(8px) scale(0.95);
-      transition: opacity 180ms ease, transform 180ms ease;
-      pointer-events: none;
-      visibility: hidden;
-    }
-    .fab-nav.open .fab-nav-panel {
-      opacity: 1;
-      transform: translateY(0) scale(1);
-      pointer-events: auto;
-      visibility: visible;
-    }
-    .fab-nav-panel::-webkit-scrollbar { width: 4px; }
-    .fab-nav-panel::-webkit-scrollbar-track { background: transparent; }
-    .fab-nav-panel::-webkit-scrollbar-thumb { background: var(--dimmer); border-radius: 2px; }
-    .fab-nav-item {
-      display: flex;
-      align-items: center;
-      gap: 8px;
-      padding: 6px 14px 6px 10px;
-      border: none;
-      border-radius: 2px;
-      background: transparent;
-      color: var(--muted);
-      font-family: var(--mono);
-      font-size: 10.5px;
-      letter-spacing: 0.08em;
-      text-transform: uppercase;
-      cursor: pointer;
-      white-space: nowrap;
-      transition: background 150ms ease, color 150ms ease;
-      text-align: left;
-    }
-    .fab-nav-item:hover {
-      background: rgba(94,234,212,.06);
-      color: var(--cyan);
-    }
-    .fab-nav-top {
-      border-bottom: 1px solid var(--border);
-      margin-bottom: 2px;
-      padding-bottom: 8px;
-    }
-    .fab-nav-icon {
-      font-size: 12px;
-      width: 16px;
-      text-align: center;
-      flex-shrink: 0;
-    }
-    .fab-nav.fab-hidden { display: none; }
-    @media (max-width: 600px) {
-      .fab-nav { bottom: 16px; right: 16px; }
-      .fab-nav-toggle { width: 44px; height: 44px; }
-      .fab-nav-panel { max-height: 60vh; }
-    }
-  </style>
+  /* WATCH & PLAY */
+  #watch .show-head {
+    font-family: var(--serif); font-weight: 600;
+    font-size: 144px; line-height: 0.86; letter-spacing: -0.035em; margin: 0;
+  }
+  #watch .show-head em { font-style: italic; color: var(--red); font-weight: 500; }
+  #watch .show-deck { font-family: var(--serif); font-style: italic; font-size: 24px; line-height: 1.3; color: var(--ink-2); max-width: 760px; margin-top: 12px; }
+  #watch .charts { display: grid; grid-template-columns: 1fr; gap: 22px; margin-top: 22px; flex: 1; }
+  #watch .chart-block { display: flex; flex-direction: column; gap: 10px; }
+  #watch .chart-head {
+    display: flex; justify-content: space-between; align-items: baseline;
+    border-bottom: 2px solid var(--ink); padding-bottom: 6px;
+  }
+  #watch .chart-head .ttl {
+    font-family: var(--sans); font-size: 13px; letter-spacing: 0.22em; text-transform: uppercase; font-weight: 700; color: var(--ink);
+  }
+  #watch .chart-head .unit { font-family: var(--mono); font-size: 10px; color: var(--grey-1); letter-spacing: 0.16em; text-transform: uppercase; }
+
+  #watch .yt-list { display: flex; flex-direction: column; }
+  #watch .yt-list .li {
+    display: grid; grid-template-columns: 56px 1fr; gap: 14px; padding: 11px 0;
+    border-bottom: 1px solid rgba(0,0,0,0.22); align-items: center;
+  }
+  #watch .yt-list .li:last-child { border-bottom: none; }
+  #watch .yt-list .li .thumb {
+    width: 56px; aspect-ratio: 16/9; background: var(--ink);
+    background-image:
+      repeating-linear-gradient(45deg, rgba(255,255,255,0.06) 0 2px, transparent 2px 6px);
+    position: relative;
+  }
+  #watch .yt-list .li .thumb.featured {
+    background-image: repeating-linear-gradient(45deg,rgba(178,58,35,0.5) 0 3px, rgba(178,58,35,0.85) 3px 9px);
+  }
+  #watch .yt-list .li .thumb::after {
+    content: ""; position: absolute; left: 50%; top: 50%;
+    transform: translate(-50%, -50%);
+    border-left: 8px solid var(--paper); border-top: 5px solid transparent; border-bottom: 5px solid transparent;
+  }
+  #watch .yt-list .li .meta { display: flex; flex-direction: column; gap: 2px; min-width: 0; }
+  #watch .yt-list .li .t { font-family: var(--serif); font-size: 17px; line-height: 1.25; color: var(--ink); }
+  #watch .yt-list .li .v { font-family: var(--mono); font-size: 11px; color: var(--grey-1); letter-spacing: 0.06em; }
+
+  /* COLOPHON / BACK */
+  #back .back-head {
+    font-family: var(--serif); font-weight: 600;
+    font-size: 84px; line-height: 0.92; letter-spacing: -0.02em; margin: 0;
+  }
+  #back .back-head em { font-style: italic; color: var(--red); font-weight: 500; }
+  #back .sources-grid {
+    display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px 24px;
+    margin-top: 22px;
+  }
+  #back .sources-grid .src {
+    border-top: 1.5px solid var(--ink); padding-top: 7px;
+  }
+  #back .sources-grid .src .n { font-family: var(--mono); font-size: 10px; color: var(--red); letter-spacing: 0.16em; }
+  #back .sources-grid .src .h { font-family: var(--serif); font-size: 17px; line-height: 1.1; color: var(--ink); margin: 3px 0 3px; font-weight: 600; }
+  #back .sources-grid .src .d { font-family: var(--serif); font-style: italic; font-size: 12px; color: var(--ink-2); line-height: 1.3; margin: 0; }
+
+  #back .colophon {
+    margin-top: auto;
+    border-top: 1px solid var(--ink);
+    padding-top: 16px;
+    display: grid; grid-template-columns: 1fr 1fr 1fr 1fr; gap: 20px;
+  }
+  #back .colophon dt { font-family: var(--sans); font-size: 9px; letter-spacing: 0.22em; text-transform: uppercase; color: var(--red); font-weight: 600; margin-bottom: 4px; }
+  #back .colophon dd { margin: 0; font-family: var(--serif); font-size: 13px; color: var(--ink-2); line-height: 1.4; }
+
+  #back .endmark {
+    position: absolute; bottom: 56px; right: 56px;
+    font-family: var(--serif); font-style: italic;
+    font-size: 64px; color: var(--red); line-height: 1; font-weight: 500;
+  }
+
+  .issue-strap {
+    position: absolute; top: 28px; left: 56px; right: 56px;
+    display: flex; justify-content: space-between; align-items: center;
+    font-family: var(--mono); font-size: 11px; letter-spacing: 0.22em;
+    text-transform: uppercase; color: var(--ink-2);
+    padding-bottom: 8px; border-bottom: 1px solid var(--ink);
+    z-index: 5;
+  }
+  .issue-strap .ttl { color: var(--red); font-weight: 600; }
+  .issue-strap .section { color: var(--ink); }
+
+  .double-rule { position: relative; height: 8px; margin: 20px 0; }
+  .double-rule::before, .double-rule::after {
+    content: ""; position: absolute; left: 0; right: 0; height: 1px; background: var(--ink);
+  }
+  .double-rule::before { top: 0; }
+  .double-rule::after { bottom: 0; }
+
+  .ticker {
+    background: var(--ink); color: var(--paper);
+    font-family: var(--mono); font-size: 11px; letter-spacing: 0.18em;
+    text-transform: uppercase; padding: 6px 18px;
+    display: flex; gap: 28px; white-space: nowrap; overflow: hidden;
+  }
+  .ticker span { display: inline-flex; gap: 8px; align-items: center; }
+  .ticker .dot { width: 6px; height: 6px; border-radius: 50%; background: var(--red); }
+
+  /* Foreign desk */
+  #foreign .head-xl {
+    font-family: var(--serif); font-weight: 600;
+    font-size: 112px; line-height: 0.88; letter-spacing: -0.03em;
+    margin: 6px 0 10px;
+  }
+  #foreign .head-xl em { font-style: italic; color: var(--red); font-weight: 500; }
+  #foreign .wire { padding: 14px 0; border-bottom: 1px solid rgba(0,0,0,0.22); display: grid; grid-template-columns: 150px 1fr; gap: 18px; align-items: baseline; }
+  #foreign .wire:last-child { border-bottom: none; }
+  #foreign .wire .city { font-family: var(--mono); font-size: 11px; letter-spacing: 0.18em; color: var(--red); text-transform: uppercase; }
+  #foreign .wire h3 { font-family: var(--serif); font-weight: 600; font-size: 22px; line-height: 1.2; margin: 0 0 4px; color: var(--ink); }
+  #foreign .wire p { font-family: var(--serif); font-style: italic; font-size: 14px; color: var(--grey-1); margin: 0; }
+  #foreign .geo-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 20px 28px; margin-top: 22px; flex: 1; }
+  #foreign .geo { border-top: 2px solid var(--ink); padding-top: 10px; }
+  #foreign .geo .row { display: flex; justify-content: space-between; align-items: baseline; }
+  #foreign .geo .label { font-family: var(--sans); text-transform: uppercase; letter-spacing: 0.16em; font-size: 12px; font-weight: 600; color: var(--ink); }
+  #foreign .geo .geocode { font-family: var(--mono); font-size: 10px; color: var(--grey-1); letter-spacing: 0.14em; text-transform: uppercase; }
+  #foreign .geo .term { font-family: var(--serif); font-weight: 600; font-size: 28px; line-height: 1.1; margin: 8px 0 4px; }
+  #foreign .geo .term em { font-style: italic; color: var(--red); font-weight: 500; }
+  #foreign .geo .gloss { font-family: var(--serif); font-style: italic; font-size: 13.5px; color: var(--grey-1); margin: 0; }
+
+  /* ============ LINKS ============ */
+  a.mag-link {
+    color: inherit;
+    text-decoration: none;
+    border-bottom: 1px dotted transparent;
+    transition: color 120ms ease, border-color 120ms ease;
+  }
+  a.mag-link:hover, a.mag-link:focus-visible {
+    color: var(--red);
+    border-bottom-color: currentColor;
+    outline: none;
+  }
+  /* Inside the dark terminal, hover lifts to a brighter red on dark */
+  #code .terminal a.mag-link:hover, #code .terminal a.mag-link:focus-visible {
+    color: #E8634A;
+  }
+  /* Inside the dark issue ticker, same */
+  .ticker a.mag-link { color: inherit; }
+  .ticker a.mag-link:hover { color: #E8634A; }
+
+  /* ============ MAGAZINE NAV ============ */
+  #mag-nav {
+    position: fixed; left: 50%; bottom: 18px; transform: translateX(-50%);
+    z-index: 1000;
+    display: grid; grid-template-columns: auto 1fr auto auto;
+    align-items: stretch; gap: 0;
+    background: var(--paper);
+    color: var(--ink);
+    border: 1px solid var(--ink);
+    box-shadow: 0 8px 30px rgba(0,0,0,0.45), 0 0 0 4px rgba(13,12,9,0.25);
+    font-family: var(--sans);
+    max-width: min(1280px, calc(100vw - 40px));
+    opacity: 0; transition: opacity 220ms ease;
+    user-select: none;
+  }
+  #mag-nav[data-ready] { opacity: 1; }
+  #mag-nav .mag-btn {
+    appearance: none; background: transparent; border: none; cursor: pointer;
+    color: var(--ink); font-family: var(--sans);
+    font-size: 11px; letter-spacing: 0.22em; text-transform: uppercase; font-weight: 700;
+    padding: 12px 18px;
+    display: flex; align-items: center; gap: 8px;
+    transition: background 120ms ease, color 120ms ease;
+  }
+  #mag-nav .mag-btn:hover { background: var(--ink); color: var(--paper); }
+  #mag-nav .mag-btn:hover .arrow { color: var(--paper); }
+  #mag-nav .mag-btn:focus-visible { outline: 2px solid var(--red); outline-offset: -2px; }
+  #mag-nav .mag-btn .arrow {
+    font-family: var(--serif); font-size: 20px; line-height: 1; color: var(--red); transition: color 120ms ease;
+  }
+  #mag-nav .mag-prev { border-right: 1px solid var(--ink); }
+  #mag-nav .mag-next { border-left: 1px solid var(--ink); }
+  #mag-nav .mag-toc {
+    display: flex; align-items: stretch; overflow: hidden;
+    padding: 0 4px;
+  }
+  #mag-nav .mag-toc .toc-item {
+    appearance: none; background: transparent; border: none; cursor: pointer;
+    color: var(--grey-1); font-family: var(--sans);
+    font-size: 10px; letter-spacing: 0.2em; text-transform: uppercase; font-weight: 600;
+    padding: 12px 10px;
+    display: flex; align-items: center; gap: 6px;
+    white-space: nowrap;
+    transition: color 120ms ease;
+    position: relative;
+  }
+  #mag-nav .mag-toc .toc-item:hover { color: var(--ink); }
+  #mag-nav .mag-toc .toc-item .pg { font-family: var(--mono); color: var(--red); font-size: 9px; letter-spacing: 0.12em; }
+  #mag-nav .mag-toc .toc-item[aria-current="true"] { color: var(--ink); }
+  #mag-nav .mag-toc .toc-item[aria-current="true"]::after {
+    content: ""; position: absolute; left: 8px; right: 8px; bottom: 6px;
+    height: 2px; background: var(--red);
+  }
+  #mag-nav .mag-folio {
+    display: flex; flex-direction: column; justify-content: center; align-items: center;
+    padding: 8px 18px;
+    border-left: 1px solid var(--ink); border-right: 1px solid var(--ink);
+    min-width: 120px;
+  }
+  #mag-nav .mag-pg {
+    font-family: var(--mono); font-size: 12px; letter-spacing: 0.12em; color: var(--ink);
+    font-weight: 600;
+    display: flex; align-items: baseline; gap: 4px;
+  }
+  #mag-nav .mag-pg-sep { color: var(--grey-1); }
+  #mag-nav .mag-pg #mag-pg-cur { color: var(--red); }
+  #mag-nav .mag-sec {
+    font-family: var(--sans); font-size: 9px; letter-spacing: 0.22em; text-transform: uppercase;
+    color: var(--grey-1); margin-top: 4px;
+  }
+
+  /* Tiny screens: drop the inline TOC, keep arrows + folio */
+  @media (max-width: 760px) {
+    #mag-nav .mag-toc { display: none; }
+    #mag-nav { grid-template-columns: auto auto auto; }
+  }
+  @media (max-width: 420px) {
+    #mag-nav .mag-btn .lbl { display: none; }
+    #mag-nav .mag-folio { min-width: 84px; padding: 8px 12px; }
+  }
+
+  @media print {
+    #mag-nav { display: none !important; }
+  }
+</style>
 </head>
 <body>
-  <header class="site">
-    <h1><span class="dot"></span>Web Pulse</h1>
-    <div style="display:flex;align-items:center;gap:0">
-      <div class="view-toggle">
-        <button data-view="today" class="active">Today</button>
-        <button data-view="week">This week</button>
+
+<deck-stage aspect="1920/1080" id="deck" no-rail></deck-stage>
+
+<nav id="mag-nav" aria-label="Magazine navigation" hidden>
+  <button class="mag-btn mag-prev" type="button" aria-label="Previous spread">
+    <span class="arrow" aria-hidden="true">←</span>
+    <span class="lbl">Prev</span>
+  </button>
+  <div class="mag-toc" role="tablist"></div>
+  <div class="mag-folio">
+    <span class="mag-pg"><span id="mag-pg-cur">01</span><span class="mag-pg-sep">/</span><span id="mag-pg-tot">11</span></span>
+    <span class="mag-sec" id="mag-section">Cover</span>
+  </div>
+  <button class="mag-btn mag-next" type="button" aria-label="Next spread">
+    <span class="lbl">Next</span>
+    <span class="arrow" aria-hidden="true">→</span>
+  </button>
+</nav>
+
+<script type="application/json" id="speaker-notes">["","","","","","","","","",""]</script>
+
+<script>
+(async () => {
+  let data;
+  try {
+    const res = await fetch('data/latest.json', { cache: 'no-store' });
+    if (!res.ok) throw new Error('latest.json: ' + res.status);
+    data = await res.json();
+  } catch (err) {
+    console.error(err);
+    document.body.insertAdjacentHTML('beforeend',
+      '<pre style="position:fixed;inset:20px;color:#fff;font-family:monospace;">Failed to load data/latest.json — ' + String(err) + '</pre>');
+    return;
+  }
+
+  const deck = document.getElementById('deck');
+  deck.innerHTML = renderMagazine(data);
+
+  setupMagNav(deck);
+
+  const s = document.createElement('script');
+  s.src = 'deck-stage.js';
+  document.body.appendChild(s);
+  const s2 = document.createElement('script');
+  s2.src = 'image-slot.js';
+  document.body.appendChild(s2);
+})();
+
+function setupMagNav(deck) {
+  const nav = document.getElementById('mag-nav');
+  const tocEl = nav.querySelector('.mag-toc');
+  const curEl = document.getElementById('mag-pg-cur');
+  const totEl = document.getElementById('mag-pg-tot');
+  const secEl = document.getElementById('mag-section');
+  const prevBtn = nav.querySelector('.mag-prev');
+  const nextBtn = nav.querySelector('.mag-next');
+
+  const sections = Array.from(deck.children);
+  const total = sections.length;
+  totEl.textContent = String(total).padStart(2, '0');
+
+  // Parse "01 Cover" → { num: '01', label: 'Cover' }
+  const labels = sections.map((sec, i) => {
+    const raw = sec.getAttribute('data-screen-label') || ('Spread ' + (i+1));
+    const m = raw.match(/^\s*(\d+)\s+(.*)$/);
+    return m ? { num: m[1].padStart(2, '0'), label: m[2].trim() } : { num: String(i+1).padStart(2,'0'), label: raw };
+  });
+
+  // Build TOC (short labels)
+  const TOC_SHORT = {
+    'Cover': 'Cover',
+    'Contents': 'Contents',
+    'The Numbers': 'Numbers',
+    'Cover Story': 'Feature',
+    'Most Read': 'Most Read',
+    'The Discourse': 'Discourse',
+    'Foreign Desk': 'Foreign',
+    'Markets and Tremors': 'Markets',
+    'Code and Models': 'Code',
+    'Watch and Play': 'Listings',
+    'Colophon': 'Colophon'
+  };
+  tocEl.innerHTML = labels.map((l, i) => {
+    const short = TOC_SHORT[l.label] || l.label;
+    return '<button class="toc-item" type="button" role="tab" data-i="' + i + '">' +
+      '<span class="pg">' + l.num + '</span><span class="t">' + escAttr(short) + '</span></button>';
+  }).join('');
+
+  tocEl.addEventListener('click', (e) => {
+    const t = e.target.closest('.toc-item');
+    if (!t) return;
+    const i = Number(t.dataset.i);
+    if (deck.goTo) deck.goTo(i);
+  });
+  prevBtn.addEventListener('click', () => { if (deck.prev) deck.prev(); });
+  nextBtn.addEventListener('click', () => { if (deck.next) deck.next(); });
+
+  function update(i) {
+    const idx = Math.max(0, Math.min(total - 1, i));
+    curEl.textContent = labels[idx].num;
+    secEl.textContent = labels[idx].label;
+    for (const el of tocEl.children) {
+      el.toggleAttribute('aria-current', Number(el.dataset.i) === idx);
+    }
+  }
+
+  deck.addEventListener('slidechange', (e) => update(e.detail.index));
+  update(0);
+
+  nav.hidden = false;
+  requestAnimationFrame(() => nav.setAttribute('data-ready', ''));
+}
+
+function escAttr(s) {
+  return String(s == null ? '' : s).replace(/&/g, '&amp;').replace(/"/g, '&quot;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+}
+
+// ---------- helpers ----------
+
+function esc(s) {
+  return String(s == null ? '' : s)
+    .replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;').replace(/'/g, '&#39;');
+}
+function attr(s) {
+  return String(s == null ? '' : s).replace(/&/g,'&amp;').replace(/"/g,'&quot;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+}
+// Wrap inner HTML in an external link. innerHtml is assumed to be already-escaped/safe.
+function link(url, innerHtml, extraClass) {
+  if (!url) return innerHtml;
+  // Only allow http(s) urls — anything else is rendered as plain text.
+  const u = String(url);
+  if (!/^https?:\/\//i.test(u)) return innerHtml;
+  return '<a class="mag-link' + (extraClass ? ' ' + extraClass : '') + '" href="' + attr(u) + '" target="_blank" rel="noopener noreferrer">' + innerHtml + '</a>';
+}
+function fmt(n) { return Number(n || 0).toLocaleString('en-US'); }
+function abbr(n) {
+  n = Number(n || 0);
+  if (n >= 1e9) return (n/1e9).toFixed(1) + 'B';
+  if (n >= 1e6) return (n/1e6).toFixed(1) + 'M';
+  if (n >= 1e3) return (n/1e3).toFixed(0) + 'K';
+  return String(n);
+}
+function dollarsAbbr(n) {
+  n = Number(n || 0);
+  if (n >= 1e6) return '$' + (n/1e6).toFixed(2) + 'M';
+  if (n >= 1e3) return '$' + (n/1e3).toFixed(1) + 'K';
+  return '$' + Math.round(n);
+}
+function pad2(n) { return String(n).padStart(2, '0'); }
+function dayOfYear(d) {
+  const start = Date.UTC(d.getUTCFullYear(), 0, 0);
+  return Math.floor((d.getTime() - start) / 86400000);
+}
+function truncate(s, n) {
+  s = String(s || '');
+  if (s.length <= n) return s;
+  return s.slice(0, n - 1).replace(/[\s,.\-—:;]+$/, '') + '…';
+}
+function cleanWikiTitle(t) {
+  return String(t || '').replace(/\s*\(.*?\)\s*$/, '');
+}
+function items(data, key) {
+  const s = data.sources && data.sources[key];
+  return (s && Array.isArray(s.items)) ? s.items : [];
+}
+function get(arr, i) { return arr && arr[i] ? arr[i] : null; }
+const MONTHS = ['January','February','March','April','May','June','July','August','September','October','November','December'];
+const WEEKDAYS = ['Sunday','Monday','Tuesday','Wednesday','Thursday','Friday','Saturday'];
+const COUNTRY_CITIES = {
+  us: 'NEW YORK', gb: 'LONDON', uk: 'LONDON', tr: 'ISTANBUL', in: 'NEW DELHI',
+  de: 'BERLIN', fr: 'PARIS', jp: 'TOKYO', br: 'SAO PAULO', ru: 'MOSCOW',
+  cn: 'BEIJING', it: 'ROME', es: 'MADRID', ca: 'TORONTO', au: 'SYDNEY',
+  mx: 'MEXICO CITY', kr: 'SEOUL', za: 'JOHANNESBURG', ng: 'LAGOS',
+  ar: 'BUENOS AIRES', nl: 'AMSTERDAM', se: 'STOCKHOLM', no: 'OSLO',
+  pl: 'WARSAW', ua: 'KYIV', il: 'TEL AVIV', sa: 'RIYADH', ae: 'DUBAI',
+  eg: 'CAIRO', th: 'BANGKOK', vn: 'HANOI', ph: 'MANILA', id: 'JAKARTA',
+  my: 'KUALA LUMPUR', sg: 'SINGAPORE', gr: 'ATHENS', pt: 'LISBON',
+  ie: 'DUBLIN', be: 'BRUSSELS', ch: 'ZURICH', at: 'VIENNA', cz: 'PRAGUE',
+  hu: 'BUDAPEST', ro: 'BUCHAREST', rs: 'BELGRADE', fi: 'HELSINKI',
+  dk: 'COPENHAGEN', nz: 'AUCKLAND', cl: 'SANTIAGO', co: 'BOGOTA',
+  pe: 'LIMA', ve: 'CARACAS', pk: 'KARACHI', bd: 'DHAKA', lk: 'COLOMBO',
+  ke: 'NAIROBI', et: 'ADDIS ABABA', ma: 'CASABLANCA', dz: 'ALGIERS',
+  tn: 'TUNIS', mv: 'MALÉ'
+};
+const GEO_LABELS = {
+  US: '🇺🇸 United States', GB: '🇬🇧 United Kingdom', IN: '🇮🇳 India',
+  DE: '🇩🇪 Germany', FR: '🇫🇷 France', JP: '🇯🇵 Japan', BR: '🇧🇷 Brazil',
+  CA: '🇨🇦 Canada', AU: '🇦🇺 Australia', IT: '🇮🇹 Italy', ES: '🇪🇸 Spain',
+  MX: '🇲🇽 Mexico', KR: '🇰🇷 South Korea', RU: '🇷🇺 Russia', CN: '🇨🇳 China',
+  TR: '🇹🇷 Türkiye'
+};
+function dateLine(country) {
+  const k = String(country || '').toLowerCase();
+  return COUNTRY_CITIES[k] || ('WIRE / ' + (k || 'world').toUpperCase());
+}
+function geoLabel(code) {
+  return GEO_LABELS[code] || (code ? '🌐 ' + code : '🌐 World');
+}
+
+// ---------- main ----------
+
+function renderMagazine(data) {
+  const gen = new Date(data.generated_at || Date.now());
+  const issueNo = dayOfYear(gen);
+  const issueStr = 'Issue No. ' + issueNo;
+  const issueShort = 'No. ' + issueNo;
+  const weekday = WEEKDAYS[gen.getUTCDay()];
+  const month = MONTHS[gen.getUTCMonth()];
+  const dateLong = weekday + ' · ' + gen.getUTCDate() + ' ' + month + ' ' + gen.getUTCFullYear() + ' · Daily Edition';
+  const dateShort = gen.getUTCDate() + ' ' + month + ' ' + gen.getUTCFullYear();
+  const snapshotIso = gen.toISOString().replace('T', ' ').slice(0, 16) + ' UTC';
+  const sourceCount = Object.keys(data.sources || {}).length;
+  const ctx = { data, gen, issueNo, issueStr, issueShort, weekday, month, dateLong, dateShort, snapshotIso, sourceCount };
+
+  return [
+    spreadCover(ctx),
+    spreadMasthead(ctx),
+    spreadNumbers(ctx),
+    spreadWiki(ctx),
+    spreadWiki2(ctx),
+    spreadDiscourse(ctx),
+    spreadForeign(ctx),
+    spreadMarkets(ctx),
+    spreadCode(ctx),
+    spreadWatch(ctx),
+    spreadBack(ctx),
+  ].join('\n');
+}
+
+// ---------- cover ----------
+
+function spreadCover(c) {
+  const wiki = items(c.data, 'wikipedia');
+  const top = wiki[0] || { title: 'an article you missed', views: 0 };
+  const headline = cleanWikiTitle(top.title);
+  const hn = items(c.data, 'hackernews')[0];
+  const med = items(c.data, 'mediastack')[0];
+  const poly = items(c.data, 'polymarket')[0];
+  const gh = items(c.data, 'github')[0];
+  const hf = items(c.data, 'huggingface')[0];
+  const steam = items(c.data, 'steam')[0];
+
+  const bars = [46,56,38,56,42,56,30,56,48,34,56,54,40,56,36,50,56,32,56,44,56]
+    .map(h => '<i style="height:' + h + 'px"></i>').join('');
+
+  return `
+  <section class="spread" id="cover" data-screen-label="01 Cover">
+    <div class="page" style="left:0;width:100%;padding:56px 72px 90px;">
+      <div class="strap">
+        <span class="issue">${esc(c.issueStr)}</span>
+        <span>What the world is doing on the web</span>
+        <span>${esc(c.dateLong)}</span>
       </div>
-      <div class="display-toggle">
-        <button data-display="list" class="active">List</button>
-        <button data-display="bubble">Bubble</button>
-      </div>
-    </div>
-    <input type="search" id="search" placeholder="Search everything..." autocomplete="off" />
-    <div class="meta" id="generated">—</div>
-  </header>
 
-  <nav class="filter-bar" id="filter-bar">
-    <button data-filter="all" class="active">All</button>
-    <button data-filter="tech">Tech</button>
-    <button data-filter="news">News</button>
-    <button data-filter="entertainment">Entertainment</button>
-    <button data-filter="gaming">Gaming</button>
-    <button data-filter="social">Social</button>
-    <button data-filter="global">Global</button>
-  </nav>
-
-  <section class="brief" id="brief" style="display:none">
-    <p class="brief-label">Today's brief</p>
-    <p class="brief-text" id="brief-text"></p>
-  </section>
-
-  <main id="grid"></main>
-
-  <footer>
-    auto-refreshes daily · <a id="repo-link" href="#" target="_blank" rel="noopener">source</a>
-  </footer>
-
-  <script type="module">
-    // ---- helpers -----------------------------------------------------------
-    const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({
-      "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;",
-    }[c]))
-    const fmt = (n) => {
-      if (n == null) return ""
-      if (n >= 1_000_000) return (n / 1_000_000).toFixed(1).replace(/\.0$/, "") + "M"
-      if (n >= 1_000) return (n / 1_000).toFixed(1).replace(/\.0$/, "") + "k"
-      return String(n)
-    }
-    const rel = (iso) => {
-      if (!iso) return "\u2014"
-      const d = new Date(iso)
-      const diff = (Date.now() - d.getTime()) / 1000
-      if (diff < 60) return `${Math.round(diff)}s ago`
-      if (diff < 3600) return `${Math.round(diff / 60)}m ago`
-      if (diff < 86400) return `${Math.round(diff / 3600)}h ago`
-      return `${Math.round(diff / 86400)}d ago`
-    }
-
-    // ---- sparkline ---------------------------------------------------------
-    function sparkline(values, w = 48, h = 16) {
-      if (!values || values.length < 2) return ""
-      const min = Math.min(...values)
-      const max = Math.max(...values)
-      const range = max - min || 1
-      const step = w / (values.length - 1)
-      const pts = values.map((v, i) => {
-        const x = i * step
-        const y = h - ((v - min) / range) * h
-        return `${x.toFixed(1)},${y.toFixed(1)}`
-      })
-      return `<svg class="sparkline" width="${w}" height="${h}" viewBox="0 0 ${w} ${h}"><path class="line" d="M${pts.join(" L")}"/></svg>`
-    }
-
-    // ---- identity & metrics ------------------------------------------------
-    function itemKey(source, item) {
-      switch (source) {
-        case "wikipedia":        return item.title
-        case "hackernews":       return `hn:${item.url || item.hn_url}`
-        case "reddit":           return `reddit:${item.url}`
-        case "github":           return item.title
-        case "google-trends":    return item.title.toLowerCase()
-        case "cloudflare-radar": return item.title
-        case "mediastack":       return item.url
-        case "mastodon-trending": return item.url
-        case "product-hunt":     return item.url
-        case "stackoverflow":    return item.url
-        case "steam":            return item.title
-        case "youtube":          return item.url
-        case "bluesky":          return item.url
-        default:                 return item.title
-      }
-    }
-
-    function metricFor(source, item) {
-      switch (source) {
-        case "wikipedia":        return item.views
-        case "hackernews":       return item.score
-        case "reddit":           return item.score
-        case "github":           return item.stars_today
-        case "google-trends":    return item.geos?.length
-        case "cloudflare-radar": return undefined
-        case "mediastack":       return undefined
-        case "mastodon-trending": return item.likes
-        case "product-hunt":     return item.votes_count
-        case "stackoverflow":    return item.score
-        case "steam":            return item.players
-        case "youtube":          return item.views
-        case "bluesky":          return item.likes
-        case "huggingface":      return item.downloads
-        case "polymarket":       return item.volume_24h
-        case "usgs":             return item.sig
-        case "twitch":           return item.viewers
-        default:                 return undefined
-      }
-    }
-
-    // ---- blob helpers -------------------------------------------------------
-    const SOURCE_COLORS = {
-      wikipedia: '#A7F3D0', hackernews: '#FBBF24', reddit: '#FB7185',
-      github: '#9FB2C6', 'google-trends': '#5EEAD4', 'cloudflare-radar': '#A78BFA',
-      mediastack: '#5EEAD4', 'mastodon-trending': '#818CF8', 'product-hunt': '#FA8072',
-      stackoverflow: '#FCD34D', steam: '#A7F3D0',
-      youtube: '#F472B6', bluesky: '#A78BFA',
-      huggingface: '#FFD21E',  // HF yellow
-      polymarket: '#0072F5',   // Polymarket blue
-      usgs: '#FB923C',          // seismic orange
-      twitch: '#9146FF',        // Twitch purple
-    }
-
-    function blobSubtext(source, item) {
-      const v = metricFor(source, item)
-      if (v == null) return '#' + item.rank
-      switch (source) {
-        case 'wikipedia': return fmt(v) + ' views'
-        case 'hackernews': return v + ' pts'
-        case 'reddit': return fmt(v)
-        case 'github': return '+' + fmt(v) + ' stars'
-        case 'google-trends': return (item.geos?.length || 0) + ' countries'
-        case 'stackoverflow': return v + ' score'
-        case 'steam': return fmt(v) + ' players'
-        case 'youtube': return fmt(v) + ' views'
-        case 'bluesky': return fmt(v) + ' likes'
-        case 'mastodon-trending': return fmt(v) + ' likes'
-        case 'product-hunt': return fmt(v) + ' votes'
-        case 'huggingface': return fmt(v) + ' downloads'
-        case 'polymarket': return '$' + fmt(v)
-        case 'usgs': return 'M' + (item.magnitude ?? '?')
-        case 'twitch': return fmt(v) + ' viewers'
-        default: return '#' + item.rank
-      }
-    }
-
-    function packCircles(circles, W, H) {
-      const placed = []
-      const cx = W / 2, cy = H / 2
-      const pad = 3
-      for (const c of circles) {
-        if (placed.length === 0) {
-          placed.push({ ...c, x: cx, y: cy })
-          continue
-        }
-        let bestX = cx, bestY = cy, bestDist = Infinity, found = false
-        // tighter spiral: smaller step for denser packing
-        for (let t = 0; t < 2000; t++) {
-          const angle = t * 0.2
-          const dist = t * 0.18
-          const x = cx + dist * Math.cos(angle)
-          const y = cy + dist * Math.sin(angle)
-          if (x - c.r < pad || x + c.r > W - pad || y - c.r < pad || y + c.r > H - pad) continue
-          let ok = true
-          for (const p of placed) {
-            const dx = x - p.x, dy = y - p.y
-            if (dx * dx + dy * dy < (c.r + p.r + pad) ** 2) { ok = false; break }
-          }
-          if (ok) {
-            const d2 = (x - cx) ** 2 + (y - cy) ** 2
-            if (d2 < bestDist) { bestX = x; bestY = y; bestDist = d2; found = true }
-            // accept first good position near center
-            if (d2 < (c.r * 2) ** 2) break
-          }
-        }
-        if (found) placed.push({ ...c, x: bestX, y: bestY })
-      }
-      return placed
-    }
-
-    const BLOB_MAX = 15
-    const BLOB_MAX_R = 58
-    const BLOB_MIN_R = 16
-
-    function renderBlobView(sourceKey, data, items) {
-      if (!items || items.length === 0) return ''
-      const color = SOURCE_COLORS[sourceKey] || '#5EEAD4'
-      const show = items.slice(0, BLOB_MAX)
-      const extra = items.length - show.length
-      const values = show.map(it => {
-        let v = metricFor(sourceKey, it)
-        if (v == null || v <= 0) v = (show.length - it.rank + 1) / show.length
-        return v
-      })
-      const maxVal = Math.max(...values, 1)
-      const radii = values.map(v => BLOB_MIN_R + (BLOB_MAX_R - BLOB_MIN_R) * Math.sqrt(v / maxVal))
-
-      let html = show.map((it, i) => {
-        const r = radii[i]
-        const d = r * 2
-        const sub = blobSubtext(sourceKey, it)
-        const bg = `radial-gradient(circle at 30% 30%, ${color}50, ${color}18 60%, ${color}06 100%)`
-        const borderC = `${color}66`
-        const showText = r >= 24
-        const titleHtml = showText
-          ? `<span class="blob-title">${esc(it.title)}</span><span class="blob-sub">${esc(sub)}</span>`
-          : ''
-        const tipHtml = r < 24
-          ? `<div class="blob-tip">${esc(it.title)}<span>${esc(sub)}</span></div>`
-          : ''
-        const bdg = badges(it)
-        const badgeHtml = bdg ? `<div class="blob-badges">${bdg}</div>` : ''
-        const url = it.url || it.hn_url || it.news_url || '#'
-        return `<div class="item blob" style="width:${d}px;height:${d}px;--blob-glow:${color}55" data-blob-idx="${i}">
-          <a class="blob-circle" href="${esc(url)}" target="_blank" rel="noopener"
-             style="background:${bg};border-color:${borderC}">
-            ${titleHtml}
-          </a>
-          ${tipHtml}${badgeHtml}
-        </div>`
-      }).join('')
-
-      if (extra > 0) html += `<div class="blob-more">and ${extra} more</div>`
-      return `<div class="blob-container" data-source="${esc(sourceKey)}">${html}</div>`
-    }
-
-    function layoutBlobs() {
-      document.querySelectorAll('.blob-container').forEach(container => {
-        const W = container.clientWidth || 360
-        const H = container.clientHeight || 400
-        const blobs = [...container.querySelectorAll('.item.blob')]
-        if (blobs.length === 0) return
-        const circles = blobs.map(el => ({
-          r: parseInt(el.style.width) / 2,
-          el,
-        }))
-        circles.sort((a, b) => b.r - a.r)
-        const packed = packCircles(circles, W, H)
-        if (packed.length === 0) return
-        // re-center the packed group within the container
-        let minX = Infinity, maxX = -Infinity, minY = Infinity, maxY = -Infinity
-        for (const p of packed) {
-          minX = Math.min(minX, p.x - p.r)
-          maxX = Math.max(maxX, p.x + p.r)
-          minY = Math.min(minY, p.y - p.r)
-          maxY = Math.max(maxY, p.y + p.r)
-        }
-        const groupW = maxX - minX, groupH = maxY - minY
-        const offX = (W - groupW) / 2 - minX
-        const offY = (H - groupH) / 2 - minY
-        for (const p of packed) {
-          p.el.style.left = (p.x + offX) + 'px'
-          p.el.style.top = (p.y + offY) + 'px'
-          p.el.style.visibility = 'visible'
-        }
-      })
-    }
-
-    // ---- badges ------------------------------------------------------------
-    function badges(item) {
-      let html = ""
-      if (item.delta != null) {
-        if (item.delta < 0) html += `<span class="delta up">\u2191${Math.abs(item.delta)}</span>`
-        else if (item.delta > 0) html += `<span class="delta down">\u2193${item.delta}</span>`
-        else html += `<span class="delta flat">\u2014</span>`
-      }
-      if (item.isNew) html += `<span class="badge new">NEW</span>`
-      if (item.streak >= 3) html += `<span class="badge streak">streak ${item.streak}d</span>`
-      return html
-    }
-
-    function rankSpark(item) {
-      const valid = item.series?.filter(v => v != null) || []
-      // negate ranks so lower rank (better) = higher sparkline position
-      return valid.length >= 2 ? sparkline(valid.map(v => -v)) : ""
-    }
-
-    // Week-over-week rank movement chip. Reads rank_delta_7d (positive = climbed)
-    // or is_new_to_chart / is_new_to_top from the source modules. Returns ""
-    // when nothing meaningful is available so callers can fall back gracefully.
-    function weekDelta(item) {
-      if (item.is_new_to_chart || item.is_new_to_top) {
-        return `<span class="badge new">NEW</span>`
-      }
-      const d = item.rank_delta_7d
-      if (d == null) return ""
-      if (d > 0) return `<span class="delta up">↑${d}</span>`
-      if (d < 0) return `<span class="delta down">↓${Math.abs(d)}</span>`
-      return `<span class="delta flat">—</span>`
-    }
-
-    // ---- load history for all sources --------------------------------------
-    const _historyCache = new Map()
-
-    async function loadHistory(days = 7) {
-      const result = {}
-      const today = new Date()
-      const fetches = []
-
-      for (const source of ORDER) {
-        result[source] = {}
-        for (let i = days - 1; i >= 0; i--) {
-          const d = new Date(today)
-          d.setUTCDate(d.getUTCDate() - i)
-          const stamp = d.toISOString().slice(0, 10)
-          const url = `data/history/${source}/${stamp}.json`
-          fetches.push({ source, stamp, url })
-        }
-      }
-
-      const responses = await Promise.allSettled(
-        fetches.map(async ({ url }) => {
-          if (_historyCache.has(url)) return _historyCache.get(url)
-          const r = await fetch(url, { cache: "no-store" })
-          if (!r.ok) return null
-          const data = await r.json()
-          _historyCache.set(url, data)
-          return data
-        })
-      )
-
-      responses.forEach((r, idx) => {
-        if (r.status !== "fulfilled" || !r.value) return
-        const { source, stamp } = fetches[idx]
-        const data = r.value
-        for (const item of data.items || []) {
-          const key = itemKey(source, item)
-          if (!result[source][key]) result[source][key] = []
-          result[source][key].push({
-            date: stamp,
-            rank: item.rank,
-            metric: metricFor(source, item),
-            _item: item,
-          })
-        }
-      })
-
-      return result
-    }
-
-    // ---- annotate items with history data ----------------------------------
-    function annotate(source, todayItems, history) {
-      const sourceHist = history[source] || {}
-
-      // Collect all dates present in this source's history
-      const allDates = new Set()
-      for (const entries of Object.values(sourceHist)) {
-        for (const e of entries) allDates.add(e.date)
-      }
-      const sortedDates = [...allDates].sort()
-      const todayStr = new Date().toISOString().slice(0, 10)
-
-      return todayItems.map((item) => {
-        const key = itemKey(source, item)
-        const entries = sourceHist[key] || []
-
-        // Find yesterday's entry (most recent history entry before today)
-        const pastEntries = entries.filter(e => e.date < todayStr)
-        const yesterday = pastEntries.length > 0 ? pastEntries[pastEntries.length - 1] : null
-        const delta = yesterday ? item.rank - yesterday.rank : null
-
-        // isNew: not present in any of last 3 days of past history
-        const pastDates = sortedDates.filter(d => d < todayStr)
-        const last3Days = pastDates.slice(-3)
-        const isNew = last3Days.length > 0 &&
-          !pastEntries.some(e => last3Days.includes(e.date))
-
-        // streak: consecutive days including today, walking backwards
-        let streak = 1
-        const entryDates = new Set(entries.map(e => e.date))
-        for (let i = pastDates.length - 1; i >= 0; i--) {
-          if (entryDates.has(pastDates[i])) streak++
-          else break
-        }
-
-        // series: rank values for last 7 days, oldest first, null for gaps
-        const entryByDate = new Map(entries.map(e => [e.date, e]))
-        const last7 = [...pastDates.slice(-6), todayStr]
-        const series = last7.map(d => {
-          if (d === todayStr) return item.rank
-          const e = entryByDate.get(d)
-          return e ? e.rank : null
-        })
-
-        return { ...item, delta, isNew, streak, series }
-      })
-    }
-
-    // ---- week aggregation --------------------------------------------------
-    function aggregateWeek(source, history) {
-      const sourceHist = history[source] || {}
-      const aggregated = []
-
-      for (const [key, entries] of Object.entries(sourceHist)) {
-        if (entries.length === 0) continue
-        const appearances = entries.length
-        const avgRank = entries.reduce((sum, e) => sum + e.rank, 0) / entries.length
-        const latest = entries[entries.length - 1]
-        aggregated.push({
-          ...latest._item,
-          appearances,
-          avgRank,
-          _weekItem: true,
-        })
-      }
-
-      aggregated.sort((a, b) => b.appearances - a.appearances || a.avgRank - b.avgRank)
-      return aggregated.slice(0, 25).map((it, i) => ({ ...it, rank: i + 1 }))
-    }
-
-    // ---- per-source renderers ---------------------------------------------
-    const renderers = {
-      wikipedia(data, ann) {
-        return (ann || data.items).map((it) => `
-          <div class="item">
-            <div class="rank">${it.rank}</div>
-            <div>
-              <div class="title"><a href="${esc(it.url)}" target="_blank" rel="noopener">${esc(it.title)}</a>${rankSpark(it)}${badges(it)}</div>
-              <div class="sub">${fmt(it.views)} views</div>
-            </div>
-            <div class="metric">${it._weekItem ? `${it.appearances}d` : fmt(it.views)}</div>
-          </div>`).join("")
-      },
-      hackernews(data, ann) {
-        return (ann || data.items).map((it) => `
-          <div class="item">
-            <div class="rank">${it.rank}</div>
-            <div>
-              <div class="title"><a href="${esc(it.url)}" target="_blank" rel="noopener">${esc(it.title)}</a>${rankSpark(it)}${badges(it)}</div>
-              <div class="sub">${it.score} pts · <a href="${esc(it.hn_url)}" target="_blank" rel="noopener" style="color:inherit">${it.comments} comments</a> · ${esc(it.author)}</div>
-            </div>
-            <div class="metric">${it._weekItem ? `${it.appearances}d` : it.score}</div>
-          </div>`).join("")
-      },
-      reddit(data, ann) {
-        return (ann || data.items).map((it) => `
-          <div class="item">
-            <div class="rank">${it.rank}</div>
-            <div>
-              <div class="title"><a href="${esc(it.url)}" target="_blank" rel="noopener">${esc(it.title)}</a>${rankSpark(it)}${badges(it)}</div>
-              <div class="sub">${esc(it.subreddit)} · ${fmt(it.score)} · ${it.comments} comments</div>
-            </div>
-            <div class="metric">${it._weekItem ? `${it.appearances}d` : fmt(it.score)}</div>
-          </div>`).join("")
-      },
-      github(data, ann) {
-        return (ann || data.items).map((it) => `
-          <div class="item">
-            <div class="rank">${it.rank}</div>
-            <div>
-              <div class="title"><a href="${esc(it.url)}" target="_blank" rel="noopener">${esc(it.title)}</a>${rankSpark(it)}${badges(it)}</div>
-              <div class="sub">${esc(it.language || "\u2014")} · ${esc(it.description || "").slice(0, 110)}</div>
-            </div>
-            <div class="metric">${it._weekItem ? `${it.appearances}d` : (it.stars_today != null ? `+${fmt(it.stars_today)}` : fmt(it.stars))}</div>
-          </div>`).join("")
-      },
-      "google-trends"(data, ann) {
-        return (ann || data.items).map((it) => `
-          <div class="item">
-            <div class="rank">${it.rank}</div>
-            <div>
-              <div class="title">${it.news_url ? `<a href="${esc(it.news_url)}" target="_blank" rel="noopener">${esc(it.title)}</a>` : esc(it.title)}${rankSpark(it)}${badges(it)}</div>
-              <div class="sub">${it.geos?.join(" · ") || ""}${it.news_source ? ` · ${esc(it.news_source)}` : ""}</div>
-            </div>
-            <div class="metric">${it._weekItem ? `${it.appearances}d` : `${it.geos?.length || 0}\u00d7`}</div>
-          </div>`).join("")
-      },
-      "cloudflare-radar"(data, ann) {
-        if (data.configured === false) {
-          return `<div style="padding:20px 16px;color:var(--muted);font-size:13px">
-            ${esc(data.message || "Not configured.")}
-          </div>`
-        }
-        return (ann || data.items).map((it) => `
-          <div class="item">
-            <div class="rank">${it.rank}</div>
-            <div>
-              <div class="title"><a href="${esc(it.url)}" target="_blank" rel="noopener">${esc(it.title)}</a>${rankSpark(it)}${badges(it)}</div>
-              ${it.category ? `<div class="sub">${esc(it.category)}</div>` : ""}
-            </div>
-            <div class="metric">${it._weekItem ? `${it.appearances}d` : weekDelta(it)}</div>
-          </div>`).join("")
-      },
-      mediastack(data, ann) {
-        if (data.configured === false) {
-          return `<div style="padding:20px 16px;color:var(--muted);font-size:13px">
-            ${esc(data.message || "Not configured.")}
-          </div>`
-        }
-        return (ann || data.items).map((it) => `
-          <div class="item">
-            <div class="rank">${it.rank}</div>
-            <div>
-              <div class="title"><a href="${esc(it.url)}" target="_blank" rel="noopener">${esc(it.title)}</a>${rankSpark(it)}${badges(it)}</div>
-              <div class="sub">${esc(it.source_name || "")}${it.country ? ` \u00b7 ${esc(it.country)}` : ""}${it.category ? ` \u00b7 ${esc(it.category)}` : ""}</div>
-            </div>
-            <div class="metric">${it._weekItem ? `${it.appearances}d` : ""}</div>
-          </div>`).join("")
-      },
-      stackoverflow(data, ann) {
-        return (ann || data.items).map((it) => `
-          <div class="item">
-            <div class="rank">${it.rank}</div>
-            <div>
-              <div class="title"><a href="${esc(it.url)}" target="_blank" rel="noopener">${esc(it.title)}</a>${rankSpark(it)}${badges(it)}</div>
-              <div class="sub">${(it.tags || []).slice(0, 3).join(" \u00b7 ")}</div>
-            </div>
-            <div class="metric">${it._weekItem ? `${it.appearances}d` : it.score}</div>
-          </div>`).join("")
-      },
-      steam(data, ann) {
-        return (ann || data.items).map((it) => {
-          const wow = weekDelta(it)
-          const sub = `${fmt(it.peak_24h ?? it.players)} peak${wow ? ` &middot; ${wow} w/w` : ""}`
-          return `
-          <div class="item">
-            <div class="rank">${it.rank}</div>
-            <div>
-              <div class="title"><a href="${esc(it.url)}" target="_blank" rel="noopener">${esc(it.title)}</a>${rankSpark(it)}${badges(it)}</div>
-              <div class="sub">${sub}</div>
-            </div>
-            <div class="metric">${it._weekItem ? `${it.appearances}d` : fmt(it.peak_24h ?? it.players)}</div>
-          </div>`
-        }).join("")
-      },
-      youtube(data, ann) {
-        if (data.configured === false) {
-          return `<div style="padding:20px 16px;color:var(--muted);font-size:13px">
-            ${esc(data.message || "Not configured.")}
-          </div>`
-        }
-        return (ann || data.items).map((it) => `
-          <div class="item">
-            <div class="rank">${it.rank}</div>
-            <div>
-              <div class="title"><a href="${esc(it.url)}" target="_blank" rel="noopener">${esc(it.title)}</a>${rankSpark(it)}${badges(it)}</div>
-              <div class="sub">${esc(it.channel || "")}</div>
-            </div>
-            <div class="metric">${it._weekItem ? `${it.appearances}d` : fmt(it.views)}</div>
-          </div>`).join("")
-      },
-      bluesky(data, ann) {
-        return (ann || data.items).map((it) => `
-          <div class="item">
-            <div class="rank">${it.rank}</div>
-            <div>
-              <div class="title"><a href="${esc(it.url)}" target="_blank" rel="noopener">${esc(it.title)}</a>${rankSpark(it)}${badges(it)}</div>
-              <div class="sub">@${esc(it.author || "")} \u00b7 ${fmt(it.likes)} likes</div>
-            </div>
-            <div class="metric">${it._weekItem ? `${it.appearances}d` : fmt(it.likes)}</div>
-          </div>`).join("")
-      },
-      "mastodon-trending"(data, ann) {
-        return (ann || data.items).map((it) => `
-          <div class="item">
-            <div class="rank">${it.rank}</div>
-            <div>
-              <div class="title"><a href="${esc(it.url)}" target="_blank" rel="noopener">${esc(it.title)}</a>${rankSpark(it)}${badges(it)}</div>
-              <div class="sub">${esc(it.author || "")} \u00b7 ${fmt(it.likes)} likes \u00b7 ${fmt(it.boosts)} boosts</div>
-            </div>
-            <div class="metric">${it._weekItem ? `${it.appearances}d` : fmt(it.likes)}</div>
-          </div>`).join("")
-      },
-      "product-hunt"(data, ann) {
-        if (data.configured === false) {
-          return `<div style="padding:20px 16px;color:var(--muted);font-size:13px">
-            ${esc(data.message || "Not configured.")}
-          </div>`
-        }
-        return (ann || data.items).map((it) => `
-          <div class="item">
-            <div class="rank">${it.rank}</div>
-            <div>
-              <div class="title"><a href="${esc(it.url)}" target="_blank" rel="noopener">${esc(it.title)}</a>${rankSpark(it)}${badges(it)}</div>
-              <div class="sub">${esc(it.tagline || "")}</div>
-            </div>
-            <div class="metric">${it._weekItem ? `${it.appearances}d` : `\u25b2${fmt(it.votes_count)}`}</div>
-          </div>`).join("")
-      },
-      huggingface(data, ann) {
-        return (ann || data.items).map((it) => {
-          const tag = it.pipeline_tag ? `<span class="pill">${esc(it.pipeline_tag)}</span> ` : ""
-          return `
-          <div class="item">
-            <div class="rank">${it.rank}</div>
-            <div>
-              <div class="title"><a href="${esc(it.url)}" target="_blank" rel="noopener">${esc(it.title)}</a>${rankSpark(it)}${badges(it)}</div>
-              <div class="sub">${tag}${fmt(it.downloads)} downloads \u00b7 \u2665 ${fmt(it.likes)}</div>
-            </div>
-            <div class="metric">${it._weekItem ? `${it.appearances}d` : fmt(it.downloads)}</div>
-          </div>`
-        }).join("")
-      },
-      polymarket(data, ann) {
-        return (ann || data.items).map((it) => {
-          let prob = ""
-          if (it.yes_price != null) {
-            prob = `<span class="prob">${Math.round(it.yes_price * 100)}\u00a2 Yes</span>`
-          } else if (it.leader) {
-            prob = `<span class="prob">${esc(it.leader.name)} ${Math.round(it.leader.price * 100)}\u00a2</span>`
-          }
-          return `
-          <div class="item">
-            <div class="rank">${it.rank}</div>
-            <div>
-              <div class="title"><a href="${esc(it.url)}" target="_blank" rel="noopener">${esc(it.title)}</a>${rankSpark(it)}${badges(it)}</div>
-              <div class="sub">${prob}${prob ? " \u00b7 " : ""}$${fmt(Math.round(it.volume_24h))} 24h vol</div>
-            </div>
-            <div class="metric">${it._weekItem ? `${it.appearances}d` : "$" + fmt(Math.round(it.volume_24h))}</div>
-          </div>`
-        }).join("")
-      },
-      usgs(data, ann) {
-        return (ann || data.items).map((it) => {
-          const m = it.magnitude
-          const magClass = m == null ? "" : (m >= 6 ? "mag-major" : m >= 5 ? "mag-mod" : m >= 4 ? "mag-light" : "mag-minor")
-          const tsu = it.tsunami ? ' \u00b7 <span style="color:var(--down)">tsunami</span>' : ""
-          const felt = it.felt ? ` \u00b7 ${fmt(it.felt)} felt` : ""
-          return `
-          <div class="item">
-            <div class="rank"><span class="${magClass}">M${m ?? "?"}</span></div>
-            <div>
-              <div class="title"><a href="${esc(it.url)}" target="_blank" rel="noopener">${esc(it.place || "Unknown")}</a>${rankSpark(it)}${badges(it)}</div>
-              <div class="sub">depth ${it.depth_km ?? "?"} km${felt}${tsu}</div>
-            </div>
-            <div class="metric">${it._weekItem ? `${it.appearances}d` : "sig " + it.sig}</div>
-          </div>`
-        }).join("")
-      },
-      twitch(data, ann) {
-        if (data.configured === false) {
-          return `<div style="padding:20px 16px;color:var(--muted);font-size:13px">
-            ${esc(data.message || "Not configured.")}
-          </div>`
-        }
-        return (ann || data.items).map((it) => `
-          <div class="item">
-            <div class="rank">${it.rank}</div>
-            <div>
-              <div class="title"><a href="${esc(it.url)}" target="_blank" rel="noopener">${esc(it.title)}</a>${rankSpark(it)}${badges(it)}</div>
-              <div class="sub">${esc(it.game || "\u2014")} \u00b7 ${esc((it.stream_title || "").slice(0, 80))}</div>
-            </div>
-            <div class="metric">${it._weekItem ? `${it.appearances}d` : fmt(it.viewers)}</div>
-          </div>`).join("")
-      },
-    }
-
-    // ---- layout ------------------------------------------------------------
-    // ---- cluster renderer ---------------------------------------------------
-    const SOURCE_LABELS = {
-      "wikipedia": "Wikipedia", "hackernews": "HN", "reddit": "Reddit",
-      "github": "GitHub", "google-trends": "Trends", "cloudflare-radar": "Radar",
-      "mediastack": "News", "stackoverflow": "SO", "steam": "Steam",
-      "youtube": "YouTube", "bluesky": "Bluesky",
-      "mastodon-trending": "Mastodon", "product-hunt": "PH",
-    }
-
-    function renderClusters(clusters) {
-      if (!clusters || clusters.length === 0) return ""
-      return clusters.map((cl, i) => {
-        const srcBadges = cl.items.map(it => {
-          const label = SOURCE_LABELS[it.source] || it.source
-          const href = it.url ? ` href="${esc(it.url)}" target="_blank" rel="noopener"` : ""
-          return `<span class="badge-src badge-${it.source}"><a${href}>${esc(label)} #${it.rank}</a></span>`
-        }).join("")
-        return `
-          <div class="cluster-row">
-            <div class="rank">${i + 1}</div>
-            <div>
-              <div class="title">${esc(cl.name)}</div>
-              <div class="sub">${srcBadges}</div>
-            </div>
-            <div class="metric">${cl.sources.length}\u00d7</div>
-          </div>`
-      }).join("")
-    }
-
-    // ---- tile categories ---------------------------------------------------
-    const TILE_CATEGORIES = {
-      wikipedia: ["news", "culture"], hackernews: ["tech"], reddit: ["news", "culture"],
-      github: ["tech"], "google-trends": ["news", "global"],
-      "cloudflare-radar": ["tech", "global"], mediastack: ["news", "global"],
-      youtube: ["entertainment"], steam: ["gaming"], twitch: ["gaming", "entertainment"],
-      bluesky: ["social"], stackoverflow: ["tech"],
-      "mastodon-trending": ["social"], "product-hunt": ["tech"],
-      huggingface: ["tech"], polymarket: ["news", "global"], usgs: ["news", "global"],
-    }
-
-    // ---- layout ------------------------------------------------------------
-    const ORDER = [
-      "hackernews", "github", "stackoverflow",
-      "huggingface", "product-hunt", "cloudflare-radar",
-      "google-trends", "mediastack", "wikipedia",
-      "reddit", "bluesky", "mastodon-trending",
-      "youtube", "steam", "twitch",
-      "polymarket", "usgs",
-    ]
-
-    // ---- hash routing ------------------------------------------------------
-    function parseHash() {
-      const params = new URLSearchParams(location.hash.slice(1))
-      return {
-        view: params.get("view") || "today",
-        filter: params.get("filter") || "all",
-        history: params.get("history") || null,
-        display: params.get("display") || "list",
-      }
-    }
-
-    function setHash(updates) {
-      const current = parseHash()
-      const merged = { ...current, ...updates }
-      const params = new URLSearchParams()
-      if (merged.view !== "today") params.set("view", merged.view)
-      if (merged.filter !== "all") params.set("filter", merged.filter)
-      if (merged.history) params.set("history", merged.history)
-      if (merged.display !== "list") params.set("display", merged.display)
-      const str = params.toString()
-      history.pushState(null, "", str ? `#${str}` : window.location.pathname)
-      route()
-    }
-
-    // ---- data fetching (cached) --------------------------------------------
-    let _latestData = null
-    let _historyData = null
-
-    async function fetchData() {
-      const res = await fetch(`data/latest.json?t=${Date.now()}`)
-      if (!res.ok) throw new Error(`latest.json: HTTP ${res.status}`)
-      _latestData = await res.json()
-      document.getElementById("generated").textContent = `updated ${rel(_latestData.generated_at)}`
-      _historyData = await loadHistory(7)
-    }
-
-    // ---- grid view ---------------------------------------------------------
-    function showGridView(state) {
-      const latest = _latestData
-      if (!latest) return
-
-      // Show filter bar and brief
-      document.getElementById("filter-bar").style.display = ""
-      const briefEl = document.getElementById("brief")
-      if (latest.brief && state.view === "today") {
-        document.getElementById("brief-text").textContent = latest.brief
-        briefEl.style.display = ""
-      } else {
-        briefEl.style.display = "none"
-      }
-
-      // Sync view toggle
-      document.querySelectorAll(".view-toggle button").forEach(b =>
-        b.classList.toggle("active", b.dataset.view === state.view)
-      )
-
-      // Sync display toggle
-      document.querySelectorAll(".display-toggle button").forEach(b =>
-        b.classList.toggle("active", b.dataset.display === state.display)
-      )
-
-      // Sync filter bar
-      document.querySelectorAll(".filter-bar button").forEach(b =>
-        b.classList.toggle("active", b.dataset.filter === state.filter)
-      )
-
-      const grid = document.getElementById("grid")
-      grid.innerHTML = ""
-
-      // Cluster tile (full-width, today view only)
-      if (state.view === "today" && state.filter === "all" && latest.clusters?.length > 0) {
-        const clusterTile = document.createElement("section")
-        clusterTile.className = "tile tile-wide"
-        clusterTile.innerHTML = `
-          <header>
-            <h2>Cross-source hits</h2>
-            <span class="stamp">${latest.clusters.length} topics in 2+ sources</span>
-          </header>
-          <div class="body">${renderClusters(latest.clusters)}</div>
-        `
-        grid.appendChild(clusterTile)
-      }
-
-      for (const key of ORDER) {
-        const data = latest.sources[key]
-        if (!data) continue
-
-        const cats = TILE_CATEGORIES[key] || []
-
-        // Category filter
-        if (state.filter !== "all" && !cats.includes(state.filter)) continue
-
-        const tile = document.createElement("section")
-        tile.className = "tile"
-        tile.setAttribute("data-categories", cats.join(" "))
-        tile.setAttribute("data-source", key)
-
-        const label = data.label || key
-        const stamp = data.error ? "error" : (data.data_date ? `for ${data.data_date}` : rel(data.fetched_at))
-
-        let body = ""
-        if (data.error) {
-          tile.classList.add("error")
-          body = `<div>Failed to load: ${esc(data.error)}</div>`
-        } else if (!data.items || data.items.length === 0) {
-          if ((key === "cloudflare-radar" || key === "youtube" || key === "mediastack" || key === "product-hunt") && data.configured === false) {
-            body = renderers[key](data, [])
-          } else {
-            tile.classList.add("empty")
-            body = `<div>No items.</div>`
-          }
-        } else if (state.view === "week") {
-          const weekItems = aggregateWeek(key, _historyData)
-          const ann = annotate(key, weekItems, _historyData)
-          body = state.display === 'bubble'
-            ? renderBlobView(key, data, ann)
-            : renderers[key]({ ...data, items: weekItems }, ann)
-        } else {
-          const ann = annotate(key, data.items, _historyData)
-          body = state.display === 'bubble'
-            ? renderBlobView(key, data, ann)
-            : renderers[key](data, ann)
-        }
-
-        tile.innerHTML = `
-          <header>
-            <h2>${esc(label)}</h2>
-            <span class="stamp">${state.view === "week" ? "this week" : esc(stamp)}</span>
-          </header>
-          <div class="body">${body}</div>
-        `
-        grid.appendChild(tile)
-      }
-
-      if (state.display === 'bubble') requestAnimationFrame(layoutBlobs)
-
-      // Update FAB navigation with currently visible tiles
-      const visibleTiles = []
-      for (const key of ORDER) {
-        const data = latest.sources[key]
-        if (!data) continue
-        const cats = TILE_CATEGORIES[key] || []
-        if (state.filter !== "all" && !cats.includes(state.filter)) continue
-        visibleTiles.push({ key, label: SOURCE_LABELS[key] || key })
-      }
-      updateFabNav(visibleTiles)
-    }
-
-    // ---- history view ------------------------------------------------------
-    function renderBarChart(dailyCounts) {
-      if (!dailyCounts.length) return "<p style='color:var(--muted)'>No data found.</p>"
-      const maxCount = Math.max(...dailyCounts.map(d => d.count), 1)
-      const barW = Math.max(4, Math.floor(600 / dailyCounts.length) - 2)
-      const gap = 2
-      const h = 160
-      let bars = ""
-      dailyCounts.forEach((d, i) => {
-        const barH = Math.max(1, (d.count / maxCount) * (h - 24))
-        const x = i * (barW + gap)
-        const y = h - 24 - barH
-        bars += `<rect x="${x}" y="${y}" width="${barW}" height="${barH}" fill="var(--accent)" opacity="0.8" rx="1"><title>${d.date}: ${d.count} match${d.count !== 1 ? "es" : ""}</title></rect>`
-        if (i % 7 === 0) {
-          bars += `<text x="${x}" y="${h - 6}" font-size="9" fill="var(--muted)" font-family="var(--mono)">${d.date.slice(5)}</text>`
-        }
-      })
-      const totalW = dailyCounts.length * (barW + gap)
-      return `<svg width="100%" viewBox="0 0 ${totalW} ${h}" preserveAspectRatio="xMinYMid meet">${bars}</svg>`
-    }
-
-    async function showHistoryView(keyword) {
-      document.getElementById("brief").style.display = "none"
-      document.getElementById("filter-bar").style.display = "none"
-
-      const grid = document.getElementById("grid")
-      grid.innerHTML = '<div class="history-view"><p style="color:var(--muted)">Loading history...</p></div>'
-
-      const allSources = Object.keys(_latestData?.sources || {})
-      const days = 30
-      const today = new Date()
-      const dates = []
-      for (let i = days - 1; i >= 0; i--) {
-        const d = new Date(today)
-        d.setUTCDate(d.getUTCDate() - i)
-        dates.push(d.toISOString().slice(0, 10))
-      }
-
-      const matchesByDate = {}
-      const allMatches = []
-      const lowerKeyword = keyword.toLowerCase()
-      for (const date of dates) matchesByDate[date] = 0
-
-      const fetches = []
-      for (const source of allSources) {
-        for (const date of dates) {
-          fetches.push(
-            fetch(`data/history/${source}/${date}.json`, { cache: "no-store" })
-              .then(r => r.ok ? r.json() : null)
-              .catch(() => null)
-              .then(data => {
-                if (!data?.items) return
-                for (const item of data.items) {
-                  if ((item.title || "").toLowerCase().includes(lowerKeyword)) {
-                    matchesByDate[date] = (matchesByDate[date] || 0) + 1
-                    allMatches.push({ ...item, source, date })
-                  }
-                }
-              })
-          )
-        }
-      }
-
-      await Promise.all(fetches)
-
-      const dailyCounts = dates.map(date => ({ date, count: matchesByDate[date] || 0 }))
-      const topItems = allMatches
-        .sort((a, b) => (a.rank || 99) - (b.rank || 99))
-        .slice(0, 20)
-
-      grid.innerHTML = `
-        <div class="history-view">
-          <div class="history-header">
-            <a href="#" class="back-link" id="history-back">\u2190 Back to dashboard</a>
-            <h2>History: \u201c${esc(keyword)}\u201d</h2>
-            <p class="history-meta">Last ${days} days across ${allSources.length} sources \u00b7 ${allMatches.length} total matches</p>
-          </div>
-          <div class="history-chart">${renderBarChart(dailyCounts)}</div>
-          <div class="history-items">
-            <h3>Top matching items</h3>
-            ${topItems.map(it => `
-              <div class="item">
-                <div class="rank" style="font-size:10px">${esc(it.source)}</div>
-                <div>
-                  <div class="title"><a href="${esc(it.url || "#")}" target="_blank" rel="noopener">${esc(it.title)}</a></div>
-                  <div class="sub">${esc(it.date)}</div>
-                </div>
-              </div>
-            `).join("")}
-            ${topItems.length === 0 ? '<p style="color:var(--muted);padding:16px">No matching items found.</p>' : ""}
+      <h1 class="nameplate">Web<em>Pulse</em></h1>
+
+      <div class="hero">
+        <div class="hero-left">
+          <div class="kicker">The Front Page · Most Read</div>
+          <h2 class="cover-head">
+            Why did <em class="red">${esc(fmt(top.views))}</em><br>
+            of us look up<br>
+            <em>${link(top.url, esc(headline))}</em>?
+          </h2>
+          <p class="cover-sub">
+            For one ${esc(c.weekday)} in ${esc(c.month)}, ${link(top.url, esc(headline))} sat at the top of the English Wikipedia. Inside: today's snapshot of seventeen public surfaces, arranged the way one might arrange a daily newspaper.
+          </p>
+          <div style="display:flex;gap:24px;align-items:center;margin-top:10px;">
+            <span class="byline">By the Editors</span>
+            <span class="mono" style="font-size:12px;letter-spacing:0.18em;color:var(--grey-1);">PAGES 08–11</span>
           </div>
         </div>
-      `
 
-      document.getElementById("history-back").addEventListener("click", (e) => {
-        e.preventDefault()
-        setHash({ history: null })
-      })
-    }
+        <div class="hero-right">
+          ${coverLine('FEATURE · 12', hn ? link(hn.url || hn.hn_url, esc(truncate(hn.title, 60))) : 'The Discourse, in four feeds', 'Hacker News / Reddit / Bluesky / Mastodon')}
+          ${coverLine('FOREIGN · 14', med ? link(med.url, esc(truncate(med.title, 70))) : 'The world’s wires, this morning', 'Mediastack / Google Trends six countries')}
+          ${coverLine('DATA · 16', poly ? link(poly.url, esc(dollarsAbbr(poly.volume_24h) + ' on ' + truncate(poly.title, 50))) : 'The wagers and the tremors', 'Polymarket / Top 24‑hour volume')}
+          ${coverLine('CODE · 18', gh ? link(gh.url, esc(truncate(gh.title, 40))) + (hf ? ', ' + link(hf.url, esc(truncate(cleanWikiTitle(hf.title), 24))) : '') : 'GitHub trending, HF, Product Hunt', 'GitHub / Hugging Face / Product Hunt')}
+          ${coverLine('PLAY · 20', steam ? link(steam.url, esc(truncate(steam.title, 36) + ' cleared ' + fmt(steam.peak_24h) + ' concurrents')) : 'Steam, YouTube, Twitch', 'Steam / YouTube / Twitch')}
+        </div>
+      </div>
 
-    // ---- routing -----------------------------------------------------------
-    function route() {
-      const state = parseHash()
-      if (state.history) {
-        showHistoryView(state.history)
-        document.getElementById('fab-nav').classList.add('fab-hidden')
-      } else {
-        showGridView(state)
-      }
-    }
+      <div class="barcode">
+        <div class="bars">${bars}</div>
+        <div class="price">WP·${esc(String(c.issueNo).padStart(4,'0'))} · ${esc(c.gen.toISOString().slice(0,10).replace(/-/g,'·'))} · FREE</div>
+      </div>
+    </div>
+  </section>`;
+}
 
-    window.addEventListener("hashchange", route)
+function coverLine(num, title, page) {
+  return `
+    <div class="cover-line">
+      <span class="num">${esc(num)}</span>
+      <h3 class="ttl">${title}</h3>
+      <div class="pg">${esc(page)}</div>
+    </div>`;
+}
 
-    // ---- search ------------------------------------------------------------
-    let _searchTimer = null
-    document.getElementById("search").addEventListener("input", (e) => {
-      clearTimeout(_searchTimer)
-      _searchTimer = setTimeout(() => {
-        const query = e.target.value.trim().toLowerCase()
-        document.querySelectorAll(".tile .item").forEach(item => {
-          const text = (item.querySelector(".title, .blob-title")?.textContent || "") +
-            " " + (item.querySelector(".sub, .blob-sub")?.textContent || "")
-          item.classList.toggle("search-hidden", query.length > 0 && !text.toLowerCase().includes(query))
-        })
-        // Mark tiles with all items hidden
-        document.querySelectorAll(".tile:not(.tile-wide)").forEach(tile => {
-          const items = tile.querySelectorAll(".item")
-          const visible = tile.querySelectorAll(".item:not(.search-hidden)")
-          tile.classList.toggle("filtered-empty", items.length > 0 && visible.length === 0)
-        })
-      }, 100)
-    })
+// ---------- masthead ----------
 
-    // Enter in search -> history view
-    document.getElementById("search").addEventListener("keydown", (e) => {
-      if (e.key === "Enter") {
-        const q = e.target.value.trim()
-        if (q) setHash({ history: q })
-      }
-    })
+function spreadMasthead(c) {
+  const wiki = items(c.data, 'wikipedia');
+  const top = wiki[0] || { title: 'today’s article' };
+  const topName = cleanWikiTitle(top.title);
+  const usgsAll = items(c.data, 'usgs');
+  const usgsCount = usgsAll.length;
+  const topQuake = [...usgsAll].sort((a,b)=>b.magnitude-a.magnitude)[0];
+  const ph = items(c.data, 'product-hunt')[0];
 
-    // ---- view toggle -------------------------------------------------------
-    document.querySelector(".view-toggle").addEventListener("click", (e) => {
-      const btn = e.target.closest("button[data-view]")
-      if (!btn) return
-      setHash({ view: btn.dataset.view })
-    })
+  const rows = [
+    ['01','Cover — Who is <em>' + esc(topName) + '</em>?','Front Page'],
+    ['04','The Numbers — <em>a day in figures</em>','Infographic'],
+    ['08','Cover Story — <em>The Most Read</em>','Wikipedia'],
+    ['12','The Discourse — <em>four feeds, one mood</em>','Social'],
+    ['14','Foreign Desk — <em>datelines</em>','Mediastack · Trends'],
+    ['16','Markets &amp; Tremors','Polymarket · USGS'],
+    ['18','Code, Models &amp; Tools','GitHub · HF · PH'],
+    ['20','Watch &amp; Play','YouTube · Steam · Twitch'],
+    ['22','Sources &amp; Colophon','Endpapers'],
+  ].map(([p,t,s]) => `
+    <div class="row">
+      <span class="pg">${p}</span>
+      <div class="ttl">${t}</div>
+      <span class="sec">${s}</span>
+    </div>`).join('');
 
-    // ---- display toggle ----------------------------------------------------
-    document.querySelector(".display-toggle").addEventListener("click", (e) => {
-      const btn = e.target.closest("button[data-display]")
-      if (!btn) return
-      setHash({ display: btn.dataset.display })
-    })
+  return `
+  <section class="spread two-page" id="masthead" data-screen-label="02 Contents">
+    <div class="issue-strap">
+      <span class="ttl">Web Pulse · ${esc(c.issueShort)}</span>
+      <span class="section">Contents &amp; Editor’s Letter</span>
+      <span>${esc(c.dateShort)}</span>
+    </div>
 
-    // ---- filter bar --------------------------------------------------------
-    document.getElementById("filter-bar").addEventListener("click", (e) => {
-      const btn = e.target.closest("button[data-filter]")
-      if (!btn) return
-      setHash({ filter: btn.dataset.filter })
-    })
+    <div class="page left">
+      <div class="kicker" style="margin-top:18px;">Inside this issue</div>
+      <h2 class="contents-head">In <em>this</em><br>edition.</h2>
+      <div class="contents-list">${rows}</div>
+    </div>
 
-    // ---- FAB Navigation ----------------------------------------------------
-    const fabNav = document.createElement('div')
-    fabNav.className = 'fab-nav fab-hidden'
-    fabNav.id = 'fab-nav'
-    fabNav.innerHTML = `
-      <div class="fab-nav-panel" id="fab-nav-panel"></div>
-      <button class="fab-nav-toggle" id="fab-nav-toggle" aria-label="Navigate to tile">
-        <svg width="20" height="20" viewBox="0 0 24 24" fill="none"
-             stroke="currentColor" stroke-width="2"
-             stroke-linecap="round" stroke-linejoin="round">
-          <circle cx="12" cy="12" r="10"/>
-          <polygon points="16.24 7.76 14.12 14.12 7.76 16.24 9.88 9.88"/>
-        </svg>
-      </button>
-    `
-    document.body.appendChild(fabNav)
+    <div class="page right">
+      <div class="editor-stack">
+        <div class="kicker" style="margin-top:18px;">Editor’s Letter</div>
+        <h2 class="editor-head">A quiet ${esc(c.weekday)}<br>where the world<br><em>looked up ${esc(topName)}</em>.</h2>
 
-    function toggleFabPanel(forceClose) {
-      const fab = document.getElementById('fab-nav')
-      if (forceClose || fab.classList.contains('open')) {
-        fab.classList.remove('open')
-      } else {
-        fab.classList.add('open')
-      }
-    }
+        <hr class="rule-thin">
 
-    function updateFabNav(visibleTiles) {
-      const panel = document.getElementById('fab-nav-panel')
-      const fab = document.getElementById('fab-nav')
+        <div class="editor-body">
+          <p><span style="font-family:var(--serif);font-weight:700;font-size:62px;line-height:0.85;float:left;padding:6px 10px 0 0;color:var(--red);">${esc(c.weekday[0])}</span>${esc(c.weekday.slice(1))}’s snapshot, taken at ${esc(c.snapshotIso)}, found ${esc(fmt(top.views))} readers settling on a single Wikipedia article — <em>${esc(topName)}</em> — with no single news event to demand it. Slow days are when the seams of the internet show.</p>
 
-      let html = `<button class="fab-nav-item fab-nav-top" data-target="top">
-        <span class="fab-nav-icon">\u2191</span>
-        <span class="fab-nav-label">Top</span>
-      </button>`
+          <p>This is the value, we think, of a daily snapshot taken at the same hour, of the same ${esc(String(c.sourceCount))} surfaces. The big stories announce themselves. The small ones — ${topQuake ? 'a magnitude‑' + (topQuake.magnitude.toFixed(1)) + ' tremor near ' + esc(topQuake.place.split(',').slice(-1)[0].trim()) : 'a quiet earthquake'}${ph ? ', a launch called <em>' + esc(ph.title) + '</em>' : ''} — only show up when you look.</p>
 
-      for (const { key, label } of visibleTiles) {
-        html += `<button class="fab-nav-item" data-target="${esc(key)}">
-          <span class="fab-nav-label">${esc(label)}</span>
-        </button>`
-      }
+          <p>Inside, we have arranged today’s feeds the way one might arrange a daily newspaper: a front page, a feature, the discourse columns, the markets, the tremors, the listings, and a colophon. The data is real. The framing is editorial. Everything redates by morning.</p>
+        </div>
 
-      panel.innerHTML = html
-      fab.classList.toggle('fab-hidden', visibleTiles.length === 0)
-    }
+        <div class="sign">
+          With regards from the desk,
+          <span class="name">— The Web Pulse Editors</span>
+        </div>
 
-    document.getElementById('fab-nav-toggle').addEventListener('click', (e) => {
-      e.stopPropagation()
-      toggleFabPanel()
-    })
+        <div class="masthead-block">
+          <dl>
+            <dt>Editor in Chief</dt>
+            <dd>A scheduled task on Kenny’s MacBook</dd>
+            <dt>Feeds Editor</dt>
+            <dd>fetch‑all.mjs, run 06:00 PT daily</dd>
+            <dt>Picture Desk</dt>
+            <dd>Placeholders, until further notice</dd>
+          </dl>
+          <dl>
+            <dt>Datelines</dt>
+            <dd>Snapshot taken ${esc(c.snapshotIso)}</dd>
+            <dt>Distribution</dt>
+            <dd>GitHub Pages · static · zero JS at rest</dd>
+            <dt>Print run</dt>
+            <dd>One (1). Reissued every morning.</dd>
+          </dl>
+        </div>
+      </div>
+    </div>
 
-    document.getElementById('fab-nav-panel').addEventListener('click', (e) => {
-      const btn = e.target.closest('.fab-nav-item')
-      if (!btn) return
-      const target = btn.dataset.target
+    <div class="folio left"><span class="num">02</span><span class="rule"></span><span>Web Pulse · ${esc(String(c.issueNo))} · Contents</span></div>
+    <div class="folio right"><span>Editor’s Letter · ${esc(String(c.issueNo))} · Web Pulse</span><span class="rule"></span><span class="num">03</span></div>
+  </section>`;
+}
 
-      if (target === 'top') {
-        window.scrollTo({ top: 0, behavior: 'smooth' })
-      } else {
-        const tile = document.querySelector(`.tile[data-source="${target}"]`)
-        if (tile) {
-          const header = document.querySelector('header.site')
-          const headerH = header ? header.offsetHeight : 0
-          const filterBar = document.getElementById('filter-bar')
-          const filterH = (filterBar && filterBar.offsetParent !== null) ? filterBar.offsetHeight : 0
-          const top = tile.getBoundingClientRect().top + window.scrollY - headerH - filterH - 8
-          window.scrollTo({ top, behavior: 'smooth' })
-        }
-      }
+// ---------- numbers ----------
 
-      toggleFabPanel(true)
-    })
+function spreadNumbers(c) {
+  const wiki = items(c.data, 'wikipedia');
+  const wikiTop = wiki[0] || { title:'—', views:0 };
+  const poly = items(c.data, 'polymarket')[0];
+  const usgsAll = items(c.data, 'usgs');
+  const topQuake = [...usgsAll].sort((a,b)=>b.magnitude-a.magnitude)[0];
+  const hf = items(c.data, 'huggingface')[0];
+  const yt = items(c.data, 'youtube')[0];
+  const steam = items(c.data, 'steam');
+  const totalItems = Object.values(c.data.sources || {})
+    .reduce((s, src) => s + ((src.items && src.items.length) || 0), 0);
 
-    document.addEventListener('click', (e) => {
-      const fab = document.getElementById('fab-nav')
-      if (!fab.contains(e.target)) toggleFabPanel(true)
-    })
+  // Bars: top 4 steam + wiki + top YT
+  const max = Math.max(
+    steam[0] ? steam[0].peak_24h : 1,
+    yt ? yt.views : 1,
+    wikiTop.views
+  );
+  function bar(label, val, suffix, red) {
+    const w = Math.min(100, (val / max) * 100);
+    return `
+      <div class="bar-row">
+        <span class="bar-label">${esc(label)}</span>
+        <div class="bar-wrap"><div class="bar${red?' red':''}" style="width:${w.toFixed(1)}%"></div><span class="bar-val">${esc(fmt(val))}${esc(suffix||'')}</span></div>
+      </div>`;
+  }
+  function tag(name, max) {
+    return (name||'').toUpperCase().replace(/[^A-Z0-9]/g,'').slice(0, max||4) || 'ITEM';
+  }
+  const steamBars = steam.slice(0,4).map((g,i)=>bar(tag(g.title), g.peak_24h, '', i===0)).join('');
+  const ytBar = yt ? bar('YT-1', yt.views, ' views / ' + truncate(yt.title, 32), true) : '';
+  const wikiBar = wikiTop.views ? bar('WIKI', wikiTop.views, ' readers / ' + truncate(cleanWikiTitle(wikiTop.title), 28)) : '';
 
-    document.addEventListener('keydown', (e) => {
-      if (e.key === 'Escape') toggleFabPanel(true)
-    })
+  return `
+  <section class="spread two-page" id="numbers" data-screen-label="03 The Numbers">
+    <div class="issue-strap">
+      <span class="ttl">Infographic</span>
+      <span class="section">The Numbers · 24 hours of internet</span>
+      <span>P. 04–05</span>
+    </div>
 
-    // ---- init --------------------------------------------------------------
-    fetchData().then(() => route()).catch((err) => {
-      document.getElementById("grid").innerHTML =
-        `<div style="padding:40px;color:var(--muted)">Failed to load data: ${esc(err.message)}</div>`
-    })
+    <div class="page left" style="padding-top:96px;">
+      <div class="kicker">An infographic</div>
+      <h2 style="font-family:var(--serif);font-weight:600;font-size:104px;line-height:0.88;letter-spacing:-0.03em;margin:6px 0 18px;">
+        A day, <em style="font-style:italic;color:var(--red);">in figures</em>.
+      </h2>
+      <p class="body-serif" style="max-width:700px;font-size:21px;">
+        ${esc(String(c.sourceCount))} feeds. ${esc(fmt(totalItems))} ranked items. One average human, given perfect attention, could read about thirty‑five of these before lunch. The internet does not have perfect attention.
+      </p>
 
-    // Re-load when the tab regains focus (but not more than once per 30s).
-    let lastLoad = Date.now()
-    document.addEventListener("visibilitychange", () => {
-      if (document.visibilityState === "visible" && Date.now() - lastLoad > 30_000) {
-        lastLoad = Date.now()
-        fetchData().then(() => route()).catch(() => {})
-      }
-    })
-  </script>
+      <div class="double-rule" style="margin-top:34px;"></div>
+
+      <div style="display:flex;flex-direction:column;gap:18px;margin-top:8px;">
+        <div>
+          <div class="smallcaps" style="font-size:11px;color:var(--ink);margin-bottom:10px;">Where today’s biggest single audiences are</div>
+          <div class="bar-chart">
+            ${steamBars}
+            ${wikiBar}
+            ${ytBar}
+          </div>
+        </div>
+      </div>
+
+      <p style="font-family:var(--serif);font-style:italic;font-size:14px;color:var(--grey-1);margin-top:auto;line-height:1.4;max-width:600px;">
+        Fig. 1 — Magnitude of attention, six measurable channels. Bar widths normalised across the largest figure on the page.
+      </p>
+    </div>
+
+    <div class="page right" style="padding-top:96px;padding-left:0;padding-right:0;">
+      <div class="nums-grid">
+        ${numsCell('Wikipedia · pageviews on ' + link(wikiTop.url, esc(cleanWikiTitle(wikiTop.title))), fmt(wikiTop.views), '',
+          'Top‑read English Wikipedia article in the last 24 hours. Read by more people than live in Atlanta.')}
+        ${poly ? numsCell('Polymarket · 24‑hour volume on one bet', '$' + (poly.volume_24h/1e6).toFixed(1), 'M',
+          link(poly.url, esc(truncate(poly.title, 110)))) : ''}
+        ${topQuake ? numsCell('USGS · largest tremor in the last 24 hours', topQuake.magnitude.toFixed(1), '',
+          'Magnitude. ' + link(topQuake.url, esc(topQuake.place)) + '. The Earth is doing this on every weekday.') : ''}
+        ${hf ? numsCell('Hugging Face · downloads of one model', hf.downloads >= 1e6 ? (hf.downloads/1e6).toFixed(1) : (hf.downloads/1e3).toFixed(0), hf.downloads >= 1e6 ? 'M' : 'K',
+          link(hf.url, esc(cleanWikiTitle(hf.title))) + '. ' + (hf.pipeline_tag ? esc(hf.pipeline_tag) : 'A trending model on the Hub') + '.') : ''}
+      </div>
+    </div>
+
+    <div class="folio left"><span class="num">04</span><span class="rule"></span><span>The Numbers · Web Pulse ${esc(String(c.issueNo))}</span></div>
+    <div class="folio right"><span>The Numbers · Web Pulse ${esc(String(c.issueNo))}</span><span class="rule"></span><span class="num">05</span></div>
+  </section>`;
+}
+
+function numsCell(lblHtml, fig, sm, capHtml) {
+  // lblHtml and capHtml are HTML — callers are responsible for escaping text.
+  const figStr = String(fig);
+  return `
+    <div class="nums-cell">
+      <span class="lbl">${lblHtml}</span>
+      <span class="fig"><em>${esc(figStr)}</em>${sm ? '<span class="sm">' + esc(sm) + '</span>' : ''}</span>
+      <span class="cap">${capHtml}</span>
+    </div>`;
+}
+
+// ---------- wiki cover story ----------
+
+function spreadWiki(c) {
+  const wiki = items(c.data, 'wikipedia');
+  const top = wiki[0] || { title: '—', views: 0 };
+  const second = wiki[1];
+  const headline = cleanWikiTitle(top.title);
+  const ratio = (top.views && second && second.views) ? (top.views / second.views).toFixed(1) : '—';
+
+  return `
+  <section class="spread two-page" id="wiki" data-screen-label="04 Cover Story">
+    <div class="issue-strap">
+      <span class="ttl">Cover Story</span>
+      <span class="section">The Most Read · Wikipedia</span>
+      <span>P. 08–09</span>
+    </div>
+
+    <div class="page left" style="padding-top:96px;">
+      <div class="kicker">Cover Story · Most Read Yesterday</div>
+      <h2 class="cs-head">
+        ${link(top.url, esc(headline))},<br>
+        <em>the</em> <em class="red">accidental</em><br>
+        <em>protagonist</em>.
+      </h2>
+      <p class="cs-deck">
+        For one ${esc(c.weekday)}, ${esc(fmt(top.views))} of us decided to read about ${link(top.url, esc(headline))}. We have no good explanation. That is the story.
+      </p>
+      <figure style="margin:18px 0 0;display:flex;flex-direction:column;gap:6px;">
+        <image-slot id="wiki-hero"
+          shape="rect"
+          placeholder="Drop a photograph for &quot;${esc(headline)}&quot;"
+          style="width:100%;height:240px;display:block;--slot-bg:#1a1814;--slot-border:1px solid var(--ink);--slot-fg:rgba(241,233,216,0.55);">
+        </image-slot>
+        <figcaption style="font-family:var(--sans);font-size:10px;letter-spacing:0.18em;text-transform:uppercase;color:var(--grey-1);">
+          Photograph · the picture desk · ${esc(headline)}, accidentally famous on a ${esc(c.weekday)} in ${esc(c.month)}.
+        </figcaption>
+      </figure>
+    </div>
+
+    <div class="page right" style="padding-top:96px;">
+      <div class="byline" style="margin-bottom:6px;">By the Wikipedia Desk · from one snapshot</div>
+      <hr class="rule-thick">
+      <div class="article" style="margin-top:18px;">
+        <p>The most‑read article on the English Wikipedia, in our ${esc(c.snapshotIso)} snapshot, was <em>${link(top.url, esc(headline))}</em>. ${esc(fmt(top.views))} of us read it. We are not going to pretend we know why.</p>
+
+        <p>What we can say is that the number was roughly ${esc(ratio)}× the second‑place entry${second ? ' — <em>' + link(second.url, esc(cleanWikiTitle(second.title))) + '</em>' : ''}${second ? ' — a margin wider than most ordinary news cycles produce' : '.'}</p>
+
+        <p>The Wikipedia top‑five table on the next spread tells the rest of the story: a murder case, a film with a small page, an obituary, a regional release. Together they describe a quiet ${esc(c.weekday)} in ${esc(c.month)}.</p>
+
+        <p>This is, we think, what an ordinary day looks like in the year ${esc(String(c.gen.getUTCFullYear()))}. In the absence of a story, the Wikipedia readership picks a thread at random and tugs.</p>
+
+        <p>By tomorrow ${link(top.url, esc(headline))} will sit at the baseline. The page itself will not have changed. We will have. Briefly.</p>
+      </div>
+    </div>
+
+    <div class="folio left"><span class="num">08</span><span class="rule"></span><span>Most Read · Web Pulse ${esc(String(c.issueNo))}</span></div>
+    <div class="folio right"><span>Most Read · Web Pulse ${esc(String(c.issueNo))}</span><span class="rule"></span><span class="num">09</span></div>
+  </section>`;
+}
+
+function spreadWiki2(c) {
+  const wiki = items(c.data, 'wikipedia');
+  const top5 = wiki.slice(0, 5);
+  const cf = items(c.data, 'cloudflare-radar').slice(0, 5);
+
+  const rows = top5.map((w, i) => `
+        <div class="r">
+          <span class="n">${pad2(i+1)}</span>
+          <div class="t">${link(w.url, esc(cleanWikiTitle(w.title)))}<span class="meta">${esc(w.title.match(/\(([^)]+)\)/) ? w.title.match(/\(([^)]+)\)/)[1] : 'Wikipedia · ' + abbr(w.views) + ' views')}</span></div>
+          <span class="v">${esc(fmt(w.views))}</span>
+        </div>`).join('');
+
+  const cfRows = cf.length ? cf.map((d, i) => `
+          <div class="r"><span class="n">${pad2(i+1)}</span><div class="t">${link(d.url, esc(d.title))}<span class="meta">${esc(d.category || 'global request volume')}</span></div><span class="v">${d.rank_delta_7d === 0 ? '—' : (d.rank_delta_7d > 0 ? '+' + d.rank_delta_7d : String(d.rank_delta_7d))}</span></div>`).join('') : `
+          <div class="r"><span class="n">—</span><div class="t">Cloudflare Radar offline today<span class="meta">no token configured</span></div><span class="v">—</span></div>`;
+
+  return `
+  <section class="spread two-page" id="wiki2" data-screen-label="05 Most Read">
+    <div class="issue-strap">
+      <span class="ttl">Cover Story · continued</span>
+      <span class="section">The Most Read · ${esc(String(top5.length))} entries</span>
+      <span>P. 10–11</span>
+    </div>
+
+    <div class="page left" style="padding-top:96px;">
+      <div class="kicker">Sidebar · The Five</div>
+      <h2 style="font-family:var(--serif);font-weight:600;font-size:88px;line-height:0.9;letter-spacing:-0.025em;margin:6px 0 8px;">
+        The full <em style="font-style:italic;color:var(--red);">most‑read</em> table.
+      </h2>
+      <p class="body-serif" style="font-size:18px;max-width:660px;">
+        Wikipedia’s top five articles by English‑language pageviews, taken at the moment of publication.
+      </p>
+
+      <div class="rank-list" style="margin-top:24px;">${rows}</div>
+    </div>
+
+    <div class="page right" style="padding-top:96px;">
+      <div class="sidebar">
+        <div class="kicker">Companion piece</div>
+        <h3 class="sidebar-head">What the rest of the web <em>was looking at</em>, meanwhile.</h3>
+        <p class="body-serif" style="font-size:17px;">
+          Cloudflare Radar’s top domains, by request volume, in the same window — a useful counterweight to Wikipedia’s list, since it tells you not what humans typed but what their machines reached for.
+        </p>
+
+        <div class="rank-list">${cfRows}</div>
+
+        <hr class="rule-thin" style="margin-top:18px;">
+        <p style="font-family:var(--serif);font-style:italic;font-size:15px;color:var(--grey-1);line-height:1.4;margin:10px 0 0;">
+          Note: <span class="smallcaps" style="font-size:10px;letter-spacing:0.14em;color:var(--ink-2);">Cloudflare Radar</span> ranks domains by request count — anything embedded on a third party site counts every time the page loads. Humans on the Wikipedia chart are typing. Domains on the Cloudflare chart are being asked for on our behalf.
+        </p>
+      </div>
+    </div>
+
+    <div class="folio left"><span class="num">10</span><span class="rule"></span><span>Most Read · Web Pulse ${esc(String(c.issueNo))}</span></div>
+    <div class="folio right"><span>Top Domains · Web Pulse ${esc(String(c.issueNo))}</span><span class="rule"></span><span class="num">11</span></div>
+  </section>`;
+}
+
+// ---------- discourse ----------
+
+function spreadDiscourse(c) {
+  const hn = items(c.data, 'hackernews').slice(0,5);
+  const rd = items(c.data, 'reddit').slice(0,5);
+  const bs = items(c.data, 'bluesky').slice(0,5);
+  const md = items(c.data, 'mastodon-trending').slice(0,5);
+
+  function col(dotClass, name, meta, list, formatter, urlPicker) {
+    const pickUrl = urlPicker || (it => it.url);
+    return `
+        <div class="col">
+          <div class="col-head">
+            <span class="dot ${dotClass}"></span><span class="name">${esc(name)}</span>
+            <span class="meta">${esc(meta)}</span>
+          </div>
+          <div class="col-list">
+            ${list.map((it, i) => `
+            <div class="li"><span class="n">${pad2(i+1)}</span><span class="t">${link(pickUrl(it), esc(truncate(it.title, 80)))}</span><span class="v">${esc(formatter(it))}</span></div>`).join('')}
+          </div>
+        </div>`;
+  }
+
+  const pullHn = hn[0] ? truncate(hn[0].title, 48) : '—';
+  const pullRd = rd[0] ? truncate(rd[0].title, 48) : '—';
+  const pullBs = bs[0] ? truncate(bs[0].title, 32) : '—';
+
+  const tickerHn = hn[0] ? `HN +${fmt(hn[0].score)} ${truncate(hn[0].title, 22).toUpperCase()}` : 'HN';
+  const tickerRd = rd[0] ? `RD ${fmt(rd[0].score)} ${truncate(rd[0].title, 18).toUpperCase()}` : 'RD';
+  const tickerBs = bs[0] ? `BS ${truncate(bs[0].title, 18).toUpperCase()}` : 'BS';
+  const tickerMd = md[0] ? `MD ${truncate(md[0].title, 18).toUpperCase()}` : 'MD';
+
+  return `
+  <section class="spread two-page" id="discourse" data-screen-label="06 The Discourse">
+    <div class="issue-strap">
+      <span class="ttl">Feature</span>
+      <span class="section">The Discourse · Hacker News · Reddit · Bluesky · Mastodon</span>
+      <span>P. 12–13</span>
+    </div>
+
+    <div class="page left" style="padding-top:78px;">
+      <div class="kicker" style="margin-bottom:6px;">Four feeds, one ${esc(c.weekday)}</div>
+      <h2 class="disc-head">The <em>Discourse</em>.</h2>
+      <p class="disc-deck">If you pull the top five from each of four social feeds at the same minute, on the same morning, you get a portrait that looks roughly like this. Different rooms, different weather.</p>
+
+      <div class="ticker" style="margin-top:18px;">
+        <span><span class="dot"></span>${esc(tickerHn)}</span>
+        <span><span class="dot"></span>${esc(tickerRd)}</span>
+        <span><span class="dot"></span>${esc(tickerBs)}</span>
+        <span><span class="dot"></span>${esc(tickerMd)}</span>
+      </div>
+
+      <div class="grid-2">
+        ${col('dot-hn', 'Hacker News', 'top stories', hn, it => fmt(it.score) + ' pts')}
+        ${col('dot-rd', 'Reddit / r/all', 'past hour', rd, it => fmt(it.score) + ' ▲')}
+      </div>
+    </div>
+
+    <div class="page right" style="padding-top:78px;">
+      <p class="pull" style="margin-top:36px;">
+        Hacker News reads ${hn[0] ? link(hn[0].url || hn[0].hn_url, esc(pullHn)) : esc(pullHn)}. Reddit watches ${rd[0] ? link(rd[0].url, esc(pullRd)) : esc(pullRd)}. Bluesky is in ${bs[0] ? link(bs[0].url, esc(pullBs)) : esc(pullBs)}. They are all online at once.
+      </p>
+
+      <div class="grid-2" style="margin-top:30px;">
+        ${col('dot-bs', 'Bluesky', 'what’s hot', bs, it => it.likes ? fmt(it.likes) + ' ♥' : '—')}
+        ${col('dot-md', 'Mastodon', 'trending posts', md, it => it.boosts ? fmt(it.boosts) + ' ↻' : '—')}
+      </div>
+    </div>
+
+    <div class="folio left"><span class="num">12</span><span class="rule"></span><span>The Discourse · Web Pulse ${esc(String(c.issueNo))}</span></div>
+    <div class="folio right"><span>The Discourse · Web Pulse ${esc(String(c.issueNo))}</span><span class="rule"></span><span class="num">13</span></div>
+  </section>`;
+}
+
+// ---------- foreign ----------
+
+function spreadForeign(c) {
+  const med = items(c.data, 'mediastack').slice(0, 5);
+  const tr = items(c.data, 'google-trends');
+
+  const wires = med.map(it => `
+        <article class="wire">
+          <span class="city">${esc(dateLine(it.country))} —</span>
+          <div>
+            <h3>${link(it.url, esc(truncate(it.title, 140)))}</h3>
+            <p>${esc(it.source_name || 'wire')} · ${esc((it.category || 'general').toUpperCase())}</p>
+          </div>
+        </article>`).join('');
+
+  // pick top 6 trends, prefer mix of geos
+  const seenGeos = new Set();
+  const picks = [];
+  for (const it of tr) {
+    const g = (it.geos && it.geos[0]) || '';
+    const key = g;
+    if (!seenGeos.has(key)) { seenGeos.add(key); picks.push(it); }
+    if (picks.length === 6) break;
+  }
+  while (picks.length < 6 && picks.length < tr.length) picks.push(tr[picks.length]);
+
+  const geos = picks.map(it => {
+    const g = (it.geos && it.geos[0]) || '';
+    const trendsUrl = 'https://trends.google.com/trends/explore?q=' + encodeURIComponent(it.title) + (g ? '&geo=' + encodeURIComponent(g) : '');
+    return `
+        <div class="geo">
+          <div class="row">
+            <span class="label">${esc(geoLabel(g))}</span>
+            <span class="geocode">geo: ${esc(g || '—')}</span>
+          </div>
+          <p class="term">${link(it.news_url || trendsUrl, esc(truncate(it.title, 50)))}</p>
+          <p class="gloss">${it.news_url ? link(it.news_url, esc(truncate(it.news_title || it.news_source || 'trending search', 110))) : esc(truncate(it.news_title || it.news_source || 'trending search', 110))}</p>
+        </div>`;
+  }).join('');
+
+  return `
+  <section class="spread two-page" id="foreign" data-screen-label="07 Foreign Desk">
+    <div class="issue-strap">
+      <span class="ttl">Foreign Desk</span>
+      <span class="section">Datelines &amp; What the World Searched</span>
+      <span>P. 14–15</span>
+    </div>
+
+    <div class="page left" style="padding-top:96px;">
+      <div class="kicker">Foreign Desk · Mediastack · today</div>
+      <h2 class="head-xl">The <em>Datelines</em>.</h2>
+      <p class="body-serif" style="font-size:18px;max-width:680px;">
+        Five stories the world’s wires were moving this morning, in the order Mediastack handed them to us — which is to say, no particular order at all.
+      </p>
+
+      <div style="display:flex;flex-direction:column;margin-top:18px;">${wires}</div>
+    </div>
+
+    <div class="page right" style="padding-top:96px;display:flex;flex-direction:column;">
+      <div class="kicker">The World, in queries</div>
+      <h2 class="head-xl">What <em>they</em><br>Googled.</h2>
+      <p class="panel-deck" style="margin-top:6px;">Trending searches across geographies, taken from the same minute. A regional fixture, an actor, a local news cycle.</p>
+
+      <div class="geo-grid">${geos}</div>
+
+      <p style="font-family:var(--serif);font-style:italic;font-size:13px;color:var(--grey-1);margin-top:12px;line-height:1.4;">
+        Fig. 2 — Google Trends RSS, aggregated. Terms that appear in more than one country list rank higher; today, every one of these was a single‑country phenomenon.
+      </p>
+    </div>
+
+    <div class="folio left"><span class="num">14</span><span class="rule"></span><span>Datelines · Web Pulse ${esc(String(c.issueNo))}</span></div>
+    <div class="folio right"><span>The World, Googled · Web Pulse ${esc(String(c.issueNo))}</span><span class="rule"></span><span class="num">15</span></div>
+  </section>`;
+}
+
+// ---------- markets & tremors ----------
+
+function spreadMarkets(c) {
+  const poly = items(c.data, 'polymarket').slice(0, 5);
+  const usgs = items(c.data, 'usgs');
+  const topQuakes = [...usgs].sort((a,b)=>b.magnitude-a.magnitude).slice(0, 5);
+
+  const mktRows = poly.map((p, i) => `
+        <div class="mkt-row">
+          <span class="n">${pad2(i+1)}</span>
+          <span class="t">${link(p.url, esc(truncate(p.title, 100)))}</span>
+          <span class="vol">${link(p.url, '<span class="big">' + esc(dollarsAbbr(p.volume_24h)) + '</span><span class="sm">24h volume</span>')}</span>
+        </div>`).join('');
+
+  const pins = topQuakes.map(q => {
+    const x = ((q.lon + 180) / 360) * 100;
+    const y = ((90 - q.lat) / 180) * 100;
+    const m = q.magnitude;
+    const size = m >= 5 ? 28 : m >= 4 ? 22 : m >= 3 ? 18 : 14;
+    const labelInner = 'M' + m.toFixed(2) + ' · ' + esc(truncate(q.place, 30));
+    return `
+        <div class="pin" style="left:${x.toFixed(1)}%;top:${y.toFixed(1)}%;width:${size}px;height:${size}px;"></div>
+        <div class="pin-label" style="left:${x.toFixed(1)}%;top:${y.toFixed(1)}%;">${link(q.url, labelInner)}</div>`;
+  }).join('');
+
+  return `
+  <section class="spread two-page" id="markets" data-screen-label="08 Markets and Tremors">
+    <div class="issue-strap">
+      <span class="ttl">Data Desk</span>
+      <span class="section">Markets &amp; Tremors · Polymarket · USGS</span>
+      <span>P. 16–17</span>
+    </div>
+
+    <div class="page left" style="padding-top:96px;">
+      <div class="kicker">Markets · Top 24‑hour volume</div>
+      <h2 class="panel-head">The <em>Wagers</em>.</h2>
+      <p class="panel-deck">Five bets, listed in descending order of money put behind them in the last day. None of them have resolved. All of them are alarmist by design.</p>
+
+      <div class="mkt-list">${mktRows}</div>
+
+      <p style="font-family:var(--serif);font-style:italic;font-size:14px;color:var(--grey-1);margin-top:18px;line-height:1.4;">
+        Volumes in USDC, via the Polymarket Gamma API.
+      </p>
+    </div>
+
+    <div class="page right" style="padding-top:96px;display:flex;flex-direction:column;">
+      <div class="kicker">Earth · 24 hours · M2.5 and above</div>
+      <h2 class="panel-head">The <em>Tremors</em>.</h2>
+      <p class="panel-deck">${esc(fmt(usgs.length))} events registered by the USGS in the last twenty‑four hours of our snapshot window. The largest are mapped here.</p>
+
+      <div class="quake-map">
+        <div class="map-grid"></div>
+        <span class="map-lbl" style="top:14px;left:18px;">EQUIRECTANGULAR · −180° / +180°</span>
+        <span class="map-lbl" style="bottom:10px;right:18px;">USGS · ${esc(c.snapshotIso)}</span>
+        <span class="map-lbl" style="top:14px;right:18px;">N</span>
+        ${pins}
+      </div>
+
+      <div class="quake-legend">
+        <span><span class="swatch" style="width:14px;height:14px;"></span>M5.0+</span>
+        <span><span class="swatch" style="width:11px;height:11px;"></span>M4.0–4.9</span>
+        <span><span class="swatch" style="width:8px;height:8px;"></span>M3.0–3.9</span>
+        <span style="margin-left:auto;">${esc(String(topQuakes.length))} of ${esc(fmt(usgs.length))} events shown · 24‑hour window</span>
+      </div>
+    </div>
+
+    <div class="folio left"><span class="num">16</span><span class="rule"></span><span>Markets · Web Pulse ${esc(String(c.issueNo))}</span></div>
+    <div class="folio right"><span>Tremors · Web Pulse ${esc(String(c.issueNo))}</span><span class="rule"></span><span class="num">17</span></div>
+  </section>`;
+}
+
+// ---------- code & models ----------
+
+function spreadCode(c) {
+  const gh = items(c.data, 'github').slice(0, 5);
+  const hf = items(c.data, 'huggingface').slice(0, 5);
+  const ph = items(c.data, 'product-hunt').slice(0, 5);
+  const so = items(c.data, 'stackoverflow').slice(0, 5);
+
+  const ghRows = gh.map((g, i) => {
+    const t = g.title || '';
+    const slash = t.indexOf('/');
+    const owner = slash >= 0 ? t.slice(0, slash+1) : '';
+    const repo = slash >= 0 ? t.slice(slash+1) : t;
+    const tag = g.language ? g.language : 'repo';
+    const repoHtml = '<span class="owner">' + esc(owner) + '</span>' + esc(repo);
+    return `
+          <div class="row"><span class="n">${pad2(i+1)}</span><span class="repo">${link(g.url, repoHtml)}</span><span class="tag">${esc(tag)}</span></div>`;
+  }).join('');
+
+  function listSection(headName, italic, meta, items, formatter) {
+    return `
+        <div class="sub-section">
+          <div class="sub-head">
+            <span class="name">${esc(headName)} · <em>${esc(italic)}</em></span>
+            <span class="meta">${esc(meta)}</span>
+          </div>
+          <div class="sub-list">
+            ${items.map((it, i) => `
+            <div class="li"><span class="n">${pad2(i+1)}</span><span class="t">${link(it.url, esc(truncate(it.title, 60)))}</span><span class="v">${esc(formatter(it))}</span></div>`).join('')}
+          </div>
+        </div>`;
+  }
+
+  return `
+  <section class="spread two-page" id="code" data-screen-label="09 Code and Models">
+    <div class="issue-strap">
+      <span class="ttl">Workshop</span>
+      <span class="section">Code, Models &amp; Tools · GitHub · Hugging Face · Product Hunt · Stack Overflow</span>
+      <span>P. 18–19</span>
+    </div>
+
+    <div class="page left" style="padding-top:96px;">
+      <div class="kicker">Workshop · what builders are pushing</div>
+      <h2 class="feature-head">A week of <em>repos</em>,<br><em>weights</em>, and<br>oddities.</h2>
+
+      <div class="terminal">
+        ${ghRows}
+        <div class="term-foot">$ source · github.com/trending · daily HTML scrape · ${esc(String(gh.length))} of ${esc(String(items(c.data,'github').length))} surfaced</div>
+      </div>
+    </div>
+
+    <div class="page right" style="padding-top:96px;">
+      <div class="right-stack">
+        ${listSection('Hugging Face', 'trending models', 'downloads', hf, it => fmt(it.downloads) + ' ↓')}
+        ${listSection('Product Hunt', 'today', 'launches', ph, it => it.votes_count ? fmt(it.votes_count) + ' ▲' : 'launch')}
+        ${listSection('Stack Overflow', 'hot questions', 'scores & views', so, it => it.views ? fmt(it.views) + ' v' : (it.score + ' pts'))}
+      </div>
+    </div>
+
+    <div class="folio left"><span class="num">18</span><span class="rule"></span><span>Code · Web Pulse ${esc(String(c.issueNo))}</span></div>
+    <div class="folio right"><span>Models, Launches, Questions · Web Pulse ${esc(String(c.issueNo))}</span><span class="rule"></span><span class="num">19</span></div>
+  </section>`;
+}
+
+// ---------- watch & play ----------
+
+function spreadWatch(c) {
+  const steam = items(c.data, 'steam').slice(0, 5);
+  const twitch = items(c.data, 'twitch').slice(0, 5);
+  const yt = items(c.data, 'youtube').slice(0, 5);
+
+  function tagAbbr(s, n=4) {
+    return (s||'').toUpperCase().replace(/[^A-Z0-9]/g,'').slice(0, n) || 'ITEM';
+  }
+
+  const steamMax = steam[0] ? steam[0].peak_24h : 1;
+  const steamBars = steam.map((g, i) => {
+    const w = (g.peak_24h / steamMax) * 100;
+    const valHtml = esc(fmt(g.peak_24h)) + (i>0 ? ' / ' + esc(truncate(g.title, 22)) : '');
+    return `
+            <div class="bar-row">
+              <span class="bar-label">${link(g.url, esc(tagAbbr(g.title)))}</span>
+              <div class="bar-wrap"><div class="bar${i===0?' red':''}" style="width:${w.toFixed(1)}%"></div><span class="bar-val">${link(g.url, valHtml)}</span></div>
+            </div>`;
+  }).join('');
+
+  const twitchMax = twitch[0] ? twitch[0].viewers : 1;
+  const twitchBars = twitch.map((s, i) => {
+    const w = (s.viewers / twitchMax) * 100;
+    const valHtml = esc(fmt(s.viewers)) + ' / ' + esc(truncate(s.title, 16));
+    return `
+            <div class="bar-row">
+              <span class="bar-label">${link(s.url, esc(tagAbbr(s.title)))}</span>
+              <div class="bar-wrap"><div class="bar${i===0?' red':''}" style="width:${w.toFixed(1)}%"></div><span class="bar-val">${link(s.url, valHtml)}</span></div>
+            </div>`;
+  }).join('');
+
+  const ytRows = yt.map((v, i) => `
+        <div class="li">
+          <div class="thumb${i===0?' featured':''}"></div>
+          <div class="meta">
+            <span class="t">${link(v.url, esc(truncate(v.title, 80)))}</span>
+            <span class="v">${esc(fmt(v.views))} views${i===0 ? ' · #1' : (v.channel ? ' · ' + esc(truncate(v.channel, 24)) : '')}</span>
+          </div>
+        </div>`).join('');
+
+  const ytTop = yt[0];
+  const ytHead = ytTop ? truncate(cleanWikiTitle(ytTop.title), 36) : 'the trending list';
+  const ytHeadlineSize = ytHead.length > 24 ? 64 : 80;
+
+  return `
+  <section class="spread two-page" id="watch" data-screen-label="10 Watch and Play">
+    <div class="issue-strap">
+      <span class="ttl">Listings</span>
+      <span class="section">Watch &amp; Play · YouTube · Steam · Twitch</span>
+      <span>P. 20–21</span>
+    </div>
+
+    <div class="page left" style="padding-top:78px;">
+      <div class="kicker">Listings · evenings, ranked</div>
+      <h2 class="show-head"><em>Watch</em><br>&amp; <em>Play</em>.</h2>
+      <p class="show-deck">${steam[0] ? link(steam[0].url, esc(truncate(steam[0].title, 30))) + ' cleared ' + esc(fmt(steam[0].peak_24h)) + ' concurrent players.' : ''} ${twitch[0] ? esc(fmt(twitch[0].viewers)) + ' people are watching <em>' + link(twitch[0].url, esc(twitch[0].title)) + '</em> on Twitch right now.' : ''} The night is loud.</p>
+
+      <div class="charts" style="margin-top:18px;">
+        <div class="chart-block">
+          <div class="chart-head">
+            <span class="ttl">Steam · concurrent players, 24h peak</span>
+            <span class="unit">peak players</span>
+          </div>
+          <div class="bar-chart" style="margin-top:6px;">${steamBars}</div>
+        </div>
+
+        <div class="chart-block">
+          <div class="chart-head">
+            <span class="ttl">Twitch · live streams, viewers now</span>
+            <span class="unit">live viewers</span>
+          </div>
+          <div class="bar-chart" style="margin-top:6px;">${twitchBars}</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="page right" style="padding-top:78px;">
+      <div class="kicker" style="margin-bottom:8px;">YouTube · trending</div>
+      <h2 style="font-family:var(--serif);font-weight:600;font-size:${ytHeadlineSize}px;line-height:0.9;letter-spacing:-0.025em;margin:0 0 12px;">
+        The <em style="font-style:italic;color:var(--red);">trailer</em><br>that ate the day.
+      </h2>
+      <p class="body-serif" style="font-size:17px;max-width:620px;">
+        ${ytTop ? 'At ' + esc(fmt(ytTop.views)) + ' views, <em>' + link(ytTop.url, esc(truncate(ytTop.title, 60))) + '</em> tops today’s YouTube trending sample.' : 'YouTube trending sample for today.'} The rest of the list is, charmingly, exactly the rest of the list.
+      </p>
+
+      <div class="yt-list" style="margin-top:18px;">${ytRows}</div>
+
+      <p style="font-family:var(--serif);font-style:italic;font-size:13px;color:var(--grey-1);margin-top:14px;line-height:1.4;">
+        Fig. — YouTube trending sample, US locale. View counts taken at the moment of snapshot.
+      </p>
+    </div>
+
+    <div class="folio left"><span class="num">20</span><span class="rule"></span><span>Listings · Web Pulse ${esc(String(c.issueNo))}</span></div>
+    <div class="folio right"><span>Listings · Web Pulse ${esc(String(c.issueNo))}</span><span class="rule"></span><span class="num">21</span></div>
+  </section>`;
+}
+
+// ---------- back ----------
+
+function spreadBack(c) {
+  const wiki = items(c.data, 'wikipedia')[0];
+  const sources = [
+    ['01 · WIKIPEDIA','Top‑read English articles','pageviews API · ~1 day lag.'],
+    ['02 · HACKER NEWS','Top stories','v0 API · scores &amp; comment counts.'],
+    ['03 · REDDIT','r/all · past hour','/r/all/top.json?t=hour · unauthenticated.'],
+    ['04 · GITHUB','Trending today','HTML scrape · node-html-parser.'],
+    ['05 · GOOGLE TRENDS','Trending searches','RSS · 6 countries · aggregated.'],
+    ['06 · CLOUDFLARE RADAR','Top global domains','official API · read‑only token.'],
+    ['07 · MEDIASTACK','Global news','free tier · 100 results / day.'],
+    ['08 · STACK OVERFLOW','Hot questions','stack‑exchange API · question + score.'],
+    ['09 · STEAM','Top games · 24h peak','steam web API · concurrent peak.'],
+    ['10 · YOUTUBE','Trending videos','youtube data API · US locale.'],
+    ['11 · BLUESKY','What’s hot','unofficial feed · trending phrases.'],
+    ['12 · MASTODON','Trending posts','mastodon.social · public.'],
+    ['13 · PRODUCT HUNT','Top products','graphql · today’s launches.'],
+    ['14 · HUGGING FACE','Trending models','hub API · model + downloads.'],
+    ['15 · POLYMARKET','24h volume','gamma API · top markets.'],
+    ['16 · USGS','Earthquakes','earthquake.usgs.gov · M2.5+, 24h.'],
+    ['17 · TWITCH','Top live streams','helix API · viewers · live.'],
+  ];
+  const srcGrid = sources.map(([n,h,d]) => `
+        <div class="src"><span class="n">${n}</span><h4 class="h">${h}</h4><p class="d">${d}</p></div>`).join('');
+
+  const bestNumber = wiki ? fmt(wiki.views) : '—';
+  const bestNumberCap = wiki ? ('people read about ' + cleanWikiTitle(wiki.title) + ' on a ' + c.weekday + ' in ' + c.month + '. Page 09.') : 'people, today.';
+  const totalItems = Object.values(c.data.sources || {})
+    .reduce((s, src) => s + ((src.items && src.items.length) || 0), 0);
+
+  return `
+  <section class="spread two-page" id="back" data-screen-label="11 Colophon">
+    <div class="issue-strap">
+      <span class="ttl">Endpapers</span>
+      <span class="section">Sources, methods, colophon</span>
+      <span>P. 22</span>
+    </div>
+
+    <div class="page left" style="padding-top:96px;">
+      <div class="kicker">The Endpapers</div>
+      <h2 class="back-head">A note on <em>where</em><br>this came <em>from</em>.</h2>
+      <p class="body-serif" style="font-size:17px;max-width:680px;margin-top:12px;">
+        Web Pulse pulls from ${esc(String(c.sourceCount))} public surfaces at a single moment each morning. Nothing is editorialised in the data itself — items appear in the order their source ranks them. The framing, headlines, and pull quotes are ours; the numbers belong to the internet.
+      </p>
+
+      <div class="sources-grid">${srcGrid}</div>
+    </div>
+
+    <div class="page right" style="padding-top:96px;display:flex;flex-direction:column;">
+      <div class="kicker">A note from the back</div>
+      <h2 style="font-family:var(--serif);font-weight:600;font-size:80px;line-height:0.92;letter-spacing:-0.02em;margin:8px 0 16px;">
+        Until <em style="font-style:italic;color:var(--red);">tomorrow</em>.
+      </h2>
+
+      <p class="body-serif" style="font-size:20px;max-width:640px;">
+        Tomorrow’s edition will be different. ${wiki ? link(wiki.url, esc(cleanWikiTitle(wiki.title))) + ' will be back to baseline' : 'Yesterday’s leader will be back to baseline'}. A new trailer will overrun the listings. The bitcoin bet will reroll. We will be here, taking the snapshot.
+      </p>
+
+      <div class="double-rule" style="margin-top:30px;"></div>
+
+      <div style="display:grid;grid-template-columns:1fr 1fr;gap:30px;margin-top:14px;">
+        <div>
+          <div class="byline" style="margin-bottom:8px;">Best three sentences in this issue</div>
+          <p style="font-family:var(--serif);font-style:italic;font-size:20px;line-height:1.4;color:var(--ink);margin:0;">“Hacker News reads ${esc(truncate(items(c.data,'hackernews')[0]?.title || '—', 28))}. Reddit watches ${esc(truncate(items(c.data,'reddit')[0]?.title || '—', 28))}. Bluesky is in ${esc(truncate(items(c.data,'bluesky')[0]?.title || '—', 20))}. They are all online at once.”</p>
+          <span class="mono" style="font-size:11px;color:var(--grey-1);letter-spacing:0.18em;text-transform:uppercase;">— PAGE 13</span>
+        </div>
+        <div>
+          <div class="byline" style="margin-bottom:8px;">Best number in this issue</div>
+          <p style="font-family:var(--serif);font-size:58px;line-height:0.95;color:var(--red);margin:0;font-weight:600;">${wiki ? link(wiki.url, esc(bestNumber)) : esc(bestNumber)}</p>
+          <p style="font-family:var(--serif);font-style:italic;font-size:16px;color:var(--ink-2);margin:8px 0 0;">${esc(bestNumberCap)}</p>
+        </div>
+      </div>
+
+      <dl class="colophon" style="margin-top:18px;">
+        <div><dt>Type</dt><dd>Fraunces (display &amp; body), Inter (sans), JetBrains Mono (figures &amp; folios)</dd></div>
+        <div><dt>Stock</dt><dd>Cream #F1E9D8, ink #0D0C09, accent red #B23A23</dd></div>
+        <div><dt>Snapshot</dt><dd>${esc(c.snapshotIso)} · ${esc(String(c.sourceCount))} sources · ${esc(fmt(totalItems))} items ranked.</dd></div>
+        <div><dt>Reissue</dt><dd>Daily, 06:00 PT. Previous edition stays live until then.</dd></div>
+      </dl>
+
+      <span class="endmark">— end —</span>
+    </div>
+
+    <div class="folio left"><span class="num">22</span><span class="rule"></span><span>Sources · Web Pulse ${esc(String(c.issueNo))}</span></div>
+    <div class="folio right"><span>Web Pulse · ${esc(c.issueShort)} · ${esc(c.dateShort)}</span><span class="rule"></span><span class="num">∎</span></div>
+  </section>`;
+}
+</script>
+
 </body>
 </html>
