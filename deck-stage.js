@@ -1,3 +1,4 @@
+// built by nnnsightnnn — signal from noise
 /**
  * <deck-stage> — reusable web component for HTML decks.
  *
