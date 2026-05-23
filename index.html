@@ -795,11 +795,14 @@
     #rail-shortcuts { display: none !important; }
   }
 
-  /* ============ MOBILE REFLOW ============
-     Below 820px we lift each .spread out of the scaling deck-stage into a
-     vertical scrolling feed. Two-page spreads stack; display type fluid-
-     sizes; absolute UI chrome (folio, issue-strap, barcode, endmark) goes
-     static so it flows with the rest of the content. */
+  /* ============ MOBILE / FEED REFLOW ============
+     Below 1280px wide, or 820px tall, we lift each .spread out of the
+     scaling deck-stage into a vertical scrolling feed. This covers phones,
+     tablets (portrait + landscape), iPads, half-screen browser windows,
+     and 13" laptops whose 720/768px height would shrink the 1080-tall
+     spread below readability. Two-page spreads stack; display type
+     fluid-sizes; absolute UI chrome (folio, issue-strap, barcode,
+     endmark) goes static so it flows with the rest of the content. */
   body.is-mobile {
     background: var(--paper);
     overflow-x: hidden;
@@ -814,7 +817,7 @@
     max-width: 100%;
   }
 
-  @media (max-width: 820px) {
+  @media (max-width: 1280px), (max-height: 820px) {
     .mobile-feed .spread {
       width: 100% !important;
       height: auto !important;
@@ -1187,6 +1190,95 @@
       border-bottom-color: rgba(13, 12, 9, 0.35);
     }
   }
+
+  /* ============ TABLET & SMALL-LAPTOP POLISH ============
+     Inside feed mode, once we're wider than ~760px (large phones land,
+     tablets portrait/landscape, narrow laptops), cap reading width,
+     restore a dark backdrop so the paper column floats, bump body sizes,
+     and let a couple of grids breathe to two/three columns. */
+  @media (min-width: 760px) {
+    body.is-mobile {
+      background: #1a1814;
+    }
+    main.mobile-feed {
+      max-width: 960px;
+      margin: 0 auto;
+      background: var(--paper);
+      box-shadow: 0 0 80px rgba(0,0,0,0.45), 0 0 0 1px rgba(13,12,9,0.4);
+    }
+    .mobile-feed .spread .page,
+    .mobile-feed .spread .page.left,
+    .mobile-feed .spread .page.right {
+      padding: clamp(30px, 4vw, 56px) clamp(26px, 4vw, 64px) clamp(36px, 5vw, 72px) !important;
+    }
+    .mobile-feed .issue-strap {
+      padding: 18px clamp(26px, 4vw, 64px) 12px !important;
+      font-size: 11px !important;
+    }
+    .mobile-feed .folio {
+      padding: 18px clamp(26px, 4vw, 64px) 24px !important;
+      font-size: 11px !important;
+    }
+
+    /* Body type bumps for tablet reading */
+    .mobile-feed #wiki .article { font-size: 18px !important; line-height: 1.55 !important; }
+    .mobile-feed #wiki .article p:first-child::first-letter { font-size: 88px !important; }
+    .mobile-feed #masthead .editor-body { font-size: 18px !important; }
+    .mobile-feed #masthead .editor-body p span[style*="62px"] { font-size: 64px !important; }
+    .mobile-feed #foreign .body-serif,
+    .mobile-feed #foreign .panel-deck { font-size: 18px !important; }
+    .mobile-feed #numbers .body-serif { font-size: 18px !important; }
+    .mobile-feed #back .body-serif { font-size: 17px !important; }
+
+    /* Cover hero — more breathing room on tablet */
+    .mobile-feed #cover .hero { gap: 36px !important; }
+
+    /* Larger figures */
+    .mobile-feed #wiki figure image-slot { height: 340px !important; }
+    .mobile-feed .quake-map { min-height: 340px !important; }
+
+    /* Numbers — two columns on tablet+ */
+    .mobile-feed #numbers .nums-grid {
+      grid-template-columns: 1fr 1fr !important;
+    }
+    .mobile-feed #numbers .nums-cell {
+      border-bottom: 1px solid var(--ink) !important;
+      border-right: none !important;
+    }
+    .mobile-feed #numbers .nums-cell:nth-child(odd) {
+      border-right: 1px solid var(--ink) !important;
+    }
+    .mobile-feed #numbers .nums-cell:nth-last-child(-n+2) {
+      border-bottom: none !important;
+    }
+
+    /* Foreign desk geography — two columns on tablet+ */
+    .mobile-feed #foreign .geo-grid {
+      grid-template-columns: 1fr 1fr !important;
+    }
+
+    /* Discourse — restore two columns on tablet+ */
+    .mobile-feed #discourse .grid-2 {
+      grid-template-columns: 1fr 1fr !important;
+      gap: 28px !important;
+    }
+
+    /* Colophon sources — three columns on tablet+ */
+    .mobile-feed #back .sources-grid {
+      grid-template-columns: 1fr 1fr 1fr !important;
+    }
+    .mobile-feed #back .colophon {
+      grid-template-columns: 1fr 1fr 1fr !important;
+    }
+
+    /* Watch & Play YouTube thumbs scale up a little */
+    .mobile-feed #watch .yt-list .li {
+      grid-template-columns: 112px 1fr !important;
+      gap: 14px !important;
+    }
+    .mobile-feed #watch .yt-list .li .thumb { width: 112px !important; }
+    .mobile-feed #watch .yt-list .li .t { font-size: 16px !important; }
+  }
 </style>
 </head>
 <body>
@@ -1238,7 +1330,7 @@
   const deck = document.getElementById('deck');
   deck.innerHTML = renderMagazine(data);
 
-  const mobileMql = window.matchMedia('(max-width: 820px)');
+  const mobileMql = window.matchMedia('(max-width: 1280px), (max-height: 820px)');
   if (mobileMql.matches) {
     enterMobileFeed(deck);
   } else {
