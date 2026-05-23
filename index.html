@@ -422,6 +422,66 @@
   }
   .quake-legend .swatch { background: var(--red); border-radius: 50%; display: inline-block; margin-right: 6px; vertical-align: middle; }
 
+  /* ==== VALUE-MAGNITUDE BARS (shared: rank-list, discourse cols, code sub-lists) ==== */
+  .vbar {
+    display: block;
+    width: var(--w, 0%);
+    max-width: 100%;
+    height: 4px;
+    background: var(--ink);
+    margin: 0 0 5px auto;
+    opacity: 0.85;
+  }
+  .vbar.red { background: var(--red); opacity: 1; }
+  .v:has(.vbar) {
+    display: flex; flex-direction: column; align-items: flex-end; gap: 0;
+  }
+  #discourse .col-list .li .v .vbar,
+  #code .sub-list .li .v .vbar { height: 3px; margin-bottom: 3px; }
+
+  /* ==== RANK DELTA INDICATOR (Cloudflare Radar) ==== */
+  .rank-delta {
+    display: inline-flex; align-items: center; gap: 4px;
+    font-family: var(--mono); font-size: 11px; letter-spacing: 0.06em;
+    color: var(--ink-2);
+  }
+  .rank-delta .arrow { font-size: 14px; line-height: 1; }
+  .rank-delta.up   { color: var(--red); }
+  .rank-delta.down { color: var(--blue); }
+  .rank-delta.flat { color: var(--grey-2); }
+  .rank-delta.new  { color: var(--red); font-weight: 700; letter-spacing: 0.14em; }
+
+  /* ==== POLYMARKET PROBABILITY GAUGE ==== */
+  #markets .mkt-row .t { display: block; }
+  #markets .mkt-prob {
+    margin-top: 10px; height: 7px;
+    background: var(--paper-2);
+    border: 1px solid var(--ink);
+    position: relative; overflow: hidden;
+  }
+  #markets .mkt-prob .fill {
+    position: absolute; left: 0; top: 0; bottom: 0;
+    width: var(--p, 50%);
+    background: var(--ink);
+  }
+  #markets .mkt-prob.lean-yes .fill { background: var(--red); }
+  #markets .mkt-prob.lean-no  .fill { background: var(--ink); }
+  #markets .mkt-prob-row {
+    display: flex; justify-content: space-between; align-items: baseline;
+    font-family: var(--mono); font-size: 10px;
+    letter-spacing: 0.12em; text-transform: uppercase;
+    color: var(--grey-1); margin-top: 6px;
+  }
+  #markets .mkt-prob-row .leader { color: var(--ink); font-weight: 600; }
+  #markets .mkt-prob-row .pct    { color: var(--red); font-weight: 700; }
+
+  /* ==== GITHUB LANGUAGE COLOR DOT ==== */
+  #code .terminal .row .tag .lang-dot {
+    display: inline-block; width: 8px; height: 8px; border-radius: 50%;
+    margin-right: 6px; vertical-align: middle;
+    background: rgba(241,233,216,0.4);
+  }
+
   /* CODE & MODELS */
   .feature-head {
     font-family: var(--serif); font-weight: 600;
@@ -1505,6 +1565,22 @@ function items(data, key) {
   return (s && Array.isArray(s.items)) ? s.items : [];
 }
 function get(arr, i) { return arr && arr[i] ? arr[i] : null; }
+// GitHub Linguist-ish language → swatch color (subset; falls back to paper-edge)
+const LANG_COLORS = {
+  JavaScript: '#f1e05a', TypeScript: '#3178c6', Python: '#3572A5',
+  Go: '#00ADD8', Rust: '#dea584', C: '#555555', 'C++': '#f34b7d',
+  'C#': '#178600', Java: '#b07219', Ruby: '#701516', Swift: '#FA7343',
+  Kotlin: '#A97BFF', PHP: '#4F5D95', Shell: '#89e051', HTML: '#e34c26',
+  CSS: '#563d7c', Vue: '#41b883', Svelte: '#ff3e00', Dart: '#00B4AB',
+  Lua: '#000080', Zig: '#ec915c', Nix: '#7e7eff', Haskell: '#5e5086',
+  Elixir: '#6e4a7e', Clojure: '#db5855', Scala: '#c22d40',
+  OCaml: '#3be133', R: '#198CE7', Julia: '#a270ba', Perl: '#0298c3',
+  'Jupyter Notebook': '#DA5B0B', TeX: '#3D6117', Solidity: '#AA6746',
+  Cuda: '#3A4E3A', PowerShell: '#012456', 'Objective-C': '#438eff',
+  Roff: '#ecdebe', Makefile: '#427819', Dockerfile: '#384d54',
+  'Vim Script': '#199f4b', Assembly: '#6E4C13', MDX: '#fcb32c',
+};
+function langColor(lang) { return LANG_COLORS[lang] || 'rgba(241,233,216,0.55)'; }
 const MONTHS = ['January','February','March','April','May','June','July','August','September','October','November','December'];
 const WEEKDAYS = ['Sunday','Monday','Tuesday','Wednesday','Thursday','Friday','Saturday'];
 const COUNTRY_CITIES = {
@@ -1890,15 +1966,27 @@ function spreadWiki2(c) {
   const top5 = wiki.slice(0, 5);
   const cf = items(c.data, 'cloudflare-radar').slice(0, 5);
 
-  const rows = top5.map((w, i) => `
+  const topViews = top5[0] && top5[0].views ? top5[0].views : 1;
+  const rows = top5.map((w, i) => {
+    const wpct = ((w.views || 0) / topViews) * 100;
+    return `
         <div class="r">
           <span class="n">${pad2(i+1)}</span>
           <div class="t">${link(w.url, esc(cleanWikiTitle(w.title)))}<span class="meta">${esc(w.title.match(/\(([^)]+)\)/) ? w.title.match(/\(([^)]+)\)/)[1] : 'Wikipedia · ' + abbr(w.views) + ' views')}</span></div>
-          <span class="v">${esc(fmt(w.views))}</span>
-        </div>`).join('');
+          <span class="v"><span class="vbar${i===0?' red':''}" style="--w:${wpct.toFixed(1)}%"></span>${esc(fmt(w.views))}</span>
+        </div>`;
+  }).join('');
 
-  const cfRows = cf.length ? cf.map((d, i) => `
-          <div class="r"><span class="n">${pad2(i+1)}</span><div class="t">${link(d.url, esc(d.title))}<span class="meta">${esc(d.category || 'global request volume')}</span></div><span class="v">${d.rank_delta_7d === 0 ? '—' : (d.rank_delta_7d > 0 ? '+' + d.rank_delta_7d : String(d.rank_delta_7d))}</span></div>`).join('') : `
+  const cfRows = cf.length ? cf.map((d, i) => {
+    const delta = d.rank_delta_7d;
+    let cls, arrow, txt;
+    if (delta == null) { cls = 'new'; arrow = '★'; txt = 'NEW'; }
+    else if (delta > 0) { cls = 'up';   arrow = '↑'; txt = String(delta); }
+    else if (delta < 0) { cls = 'down'; arrow = '↓'; txt = String(Math.abs(delta)); }
+    else                { cls = 'flat'; arrow = '—'; txt = ''; }
+    return `
+          <div class="r"><span class="n">${pad2(i+1)}</span><div class="t">${link(d.url, esc(d.title))}<span class="meta">${esc(d.category || 'global request volume')}</span></div><span class="v"><span class="rank-delta ${cls}"><span class="arrow">${arrow}</span>${esc(txt)}</span></span></div>`;
+  }).join('') : `
           <div class="r"><span class="n">—</span><div class="t">Cloudflare Radar offline today<span class="meta">no token configured</span></div><span class="v">—</span></div>`;
 
   return `
@@ -1951,8 +2039,10 @@ function spreadDiscourse(c) {
   const bs = items(c.data, 'bluesky').slice(0,5);
   const md = items(c.data, 'mastodon-trending').slice(0,5);
 
-  function col(dotClass, name, meta, list, formatter, urlPicker) {
+  function col(dotClass, name, meta, list, formatter, urlPicker, magFn) {
     const pickUrl = urlPicker || (it => it.url);
+    const getMag = magFn || (it => Number(it.score || it.likes || it.boosts || it.views || 0));
+    const max = Math.max(1, ...list.map(getMag));
     return `
         <div class="col">
           <div class="col-head">
@@ -1960,8 +2050,11 @@ function spreadDiscourse(c) {
             <span class="meta">${esc(meta)}</span>
           </div>
           <div class="col-list">
-            ${list.map((it, i) => `
-            <div class="li"><span class="n">${pad2(i+1)}</span><span class="t">${link(pickUrl(it), esc(truncate(it.title, 80)))}</span><span class="v">${esc(formatter(it))}</span></div>`).join('')}
+            ${list.map((it, i) => {
+              const w = (getMag(it) / max) * 100;
+              return `
+            <div class="li"><span class="n">${pad2(i+1)}</span><span class="t">${link(pickUrl(it), esc(truncate(it.title, 80)))}</span><span class="v"><span class="vbar${i===0?' red':''}" style="--w:${w.toFixed(0)}%"></span>${esc(formatter(it))}</span></div>`;
+            }).join('')}
           </div>
         </div>`;
   }
@@ -2099,12 +2192,25 @@ function spreadMarkets(c) {
   const usgs = items(c.data, 'usgs');
   const topQuakes = [...usgs].sort((a,b)=>b.magnitude-a.magnitude).slice(0, 5);
 
-  const mktRows = poly.map((p, i) => `
+  const mktRows = poly.map((p, i) => {
+    const yesPct = Math.round((p.yes_price || 0) * 100);
+    const lean = yesPct >= 50 ? 'yes' : 'no';
+    const fillPct = lean === 'yes' ? yesPct : 100 - yesPct;
+    const leader = (p.leader && p.leader.name) ? p.leader.name : (lean === 'yes' ? 'Yes' : 'No');
+    const conviction = fillPct >= 95 ? 'all-but-resolved'
+                      : fillPct >= 75 ? 'heavy favorite'
+                      : fillPct >= 55 ? 'leaning'
+                      : 'tossup';
+    return `
         <div class="mkt-row">
           <span class="n">${pad2(i+1)}</span>
-          <span class="t">${link(p.url, esc(truncate(p.title, 100)))}</span>
+          <div class="t">${link(p.url, esc(truncate(p.title, 100)))}
+            <div class="mkt-prob lean-${lean}" aria-label="${leader} ${fillPct}%"><span class="fill" style="--p:${fillPct}%"></span></div>
+            <div class="mkt-prob-row"><span><span class="leader">${esc(leader)}</span> · <span class="pct">${fillPct}%</span></span><span>${conviction}</span></div>
+          </div>
           <span class="vol">${link(p.url, '<span class="big">' + esc(dollarsAbbr(p.volume_24h)) + '</span><span class="sm">24h volume</span>')}</span>
-        </div>`).join('');
+        </div>`;
+  }).join('');
 
   const pins = topQuakes.map(q => {
     const x = ((q.lon + 180) / 360) * 100;
@@ -2179,11 +2285,14 @@ function spreadCode(c) {
     const repo = slash >= 0 ? t.slice(slash+1) : t;
     const tag = g.language ? g.language : 'repo';
     const repoHtml = '<span class="owner">' + esc(owner) + '</span>' + esc(repo);
+    const dot = g.language ? `<span class="lang-dot" style="background:${langColor(g.language)}"></span>` : '';
     return `
-          <div class="row"><span class="n">${pad2(i+1)}</span><span class="repo">${link(g.url, repoHtml)}</span><span class="tag">${esc(tag)}</span></div>`;
+          <div class="row"><span class="n">${pad2(i+1)}</span><span class="repo">${link(g.url, repoHtml)}</span><span class="tag">${dot}${esc(tag)}</span></div>`;
   }).join('');
 
-  function listSection(headName, italic, meta, items, formatter) {
+  function listSection(headName, italic, meta, items, formatter, magFn) {
+    const getMag = magFn || (it => Number(it.downloads || it.votes_count || it.views || it.score || 0));
+    const max = Math.max(1, ...items.map(getMag));
     return `
         <div class="sub-section">
           <div class="sub-head">
@@ -2191,8 +2300,11 @@ function spreadCode(c) {
             <span class="meta">${esc(meta)}</span>
           </div>
           <div class="sub-list">
-            ${items.map((it, i) => `
-            <div class="li"><span class="n">${pad2(i+1)}</span><span class="t">${link(it.url, esc(truncate(it.title, 60)))}</span><span class="v">${esc(formatter(it))}</span></div>`).join('')}
+            ${items.map((it, i) => {
+              const w = (getMag(it) / max) * 100;
+              return `
+            <div class="li"><span class="n">${pad2(i+1)}</span><span class="t">${link(it.url, esc(truncate(it.title, 60)))}</span><span class="v"><span class="vbar${i===0?' red':''}" style="--w:${w.toFixed(0)}%"></span>${esc(formatter(it))}</span></div>`;
+            }).join('')}
           </div>
         </div>`;
   }
