@@ -1,7 +1,7 @@
 {
   "source": "polymarket",
   "label": "Polymarket — top 24h volume",
-  "fetched_at": "2026-05-25T12:21:08.686Z",
+  "fetched_at": "2026-05-25T20:24:15.437Z",
   "items": [
     {
       "rank": 1,
@@ -25,13 +25,13 @@
       "rank": 2,
       "title": "US x Iran permanent peace deal by May 26, 2026?",
       "url": "https://polymarket.com/event/us-x-iran-permanent-peace-deal-by",
-      "volume_24h": 4364149.374064002,
-      "volume_total": 13144109.708790066,
-      "liquidity": 402512.23,
-      "yes_price": 0.085,
+      "volume_24h": 4925838.602716999,
+      "volume_total": 16377450.981371146,
+      "liquidity": 273844.7429,
+      "yes_price": 0.145,
       "leader": {
         "name": "No",
-        "price": 0.915
+        "price": 0.855
       },
       "end_date": "2026-05-26T00:00:00Z",
       "outcomes": [
@@ -41,11 +41,29 @@
     },
     {
       "rank": 3,
+      "title": "LoL: G2 Esports vs Movistar KOI (BO5) - LEC Playoffs",
+      "url": "https://polymarket.com/event/lol-g2-mkoi-2026-05-25",
+      "volume_24h": 3280166.5995079977,
+      "volume_total": 3288716.6699919854,
+      "liquidity": 847782.43758,
+      "yes_price": 0.9995,
+      "leader": {
+        "name": "G2 Esports",
+        "price": 0.9995
+      },
+      "end_date": "2026-05-25T21:00:00Z",
+      "outcomes": [
+        "G2 Esports",
+        "Movistar KOI"
+      ]
+    },
+    {
+      "rank": 4,
       "title": "Will Congo DR win the 2026 FIFA World Cup?",
       "url": "https://polymarket.com/event/2026-fifa-world-cup-winner-595",
-      "volume_24h": 2500323.47,
-      "volume_total": 22797663.600787967,
-      "liquidity": 4288039.99288,
+      "volume_24h": 2477073.17,
+      "volume_total": 22814459.39078797,
+      "liquidity": 4365751.30501,
       "yes_price": 0.0005,
       "leader": {
         "name": "No",
@@ -58,88 +76,16 @@
       ]
     },
     {
-      "rank": 4,
-      "title": "Will the Iran ceasefire continue through May 24?",
-      "url": "https://polymarket.com/event/iran-ceasefire-continues-through",
-      "volume_24h": 2131587.885365998,
-      "volume_total": 5585314.108175032,
-      "liquidity": 154121.76954,
-      "yes_price": 0.9985,
-      "leader": {
-        "name": "Yes",
-        "price": 0.9985
-      },
-      "end_date": null,
-      "outcomes": [
-        "Yes",
-        "No"
-      ]
-    },
-    {
       "rank": 5,
-      "title": "Will Eric Trump win the 2028 US Presidential Election?",
-      "url": "https://polymarket.com/event/presidential-election-winner-2028",
-      "volume_24h": 1948270.4905120004,
-      "volume_total": 16572086.158904098,
-      "liquidity": 1746776.66807,
-      "yes_price": 0.0065,
-      "leader": {
-        "name": "No",
-        "price": 0.9935
-      },
-      "end_date": "2028-11-07T00:00:00Z",
-      "outcomes": [
-        "Yes",
-        "No"
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "Strait of Hormuz traffic returns to normal by end of May?",
-      "url": "https://polymarket.com/event/strait-of-hormuz-traffic-returns-to-normal-by-end-of-may",
-      "volume_24h": 1478127.6483329993,
-      "volume_total": 24932402.829690084,
-      "liquidity": 383619.88125,
-      "yes_price": 0.032,
-      "leader": {
-        "name": "No",
-        "price": 0.968
-      },
-      "end_date": "2026-05-31T00:00:00Z",
-      "outcomes": [
-        "Yes",
-        "No"
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "LoL: Dplus KIA vs T1 (BO5) - Esports World Cup Korea Qualifier Playoffs",
-      "url": "https://polymarket.com/event/lol-dk-t1-2026-05-25",
-      "volume_24h": 1442509.566215001,
-      "volume_total": 1450075.979066999,
-      "liquidity": 847416.34359,
-      "yes_price": 0.0005,
-      "leader": {
-        "name": "T1",
-        "price": 0.9995
-      },
-      "end_date": "2026-05-25T13:00:00Z",
-      "outcomes": [
-        "Dplus KIA",
-        "T1"
-      ]
-    },
-    {
-      "rank": 8,
       "title": "Iran closes its airspace by May 24?",
       "url": "https://polymarket.com/event/iran-closes-its-airspace-by",
-      "volume_24h": 1300203.9093559997,
-      "volume_total": 9753875.694560189,
-      "liquidity": 198290.98415,
-      "yes_price": 0.0225,
+      "volume_24h": 1823475.1510089992,
+      "volume_total": 10589519.231637184,
+      "liquidity": 313797.96143,
+      "yes_price": 0.0115,
       "leader": {
         "name": "No",
-        "price": 0.9775
+        "price": 0.9885
       },
       "end_date": "2026-05-24T00:00:00Z",
       "outcomes": [
@@ -148,34 +94,106 @@
       ]
     },
     {
-      "rank": 9,
-      "title": "Roland Garros ATP: Pablo Carreno Busta vs Jiri Lehecka",
-      "url": "https://polymarket.com/event/atp-busta-lehecka-2026-05-24",
-      "volume_24h": 1238118.7576009978,
-      "volume_total": 1238582.1484679985,
-      "liquidity": 448341.75744,
+      "rank": 6,
+      "title": "Knicks vs. Cavaliers",
+      "url": "https://polymarket.com/event/nba-nyk-cle-2026-05-25",
+      "volume_24h": 1805098.1574879973,
+      "volume_total": 1982596.9565669978,
+      "liquidity": 3297508.0399,
+      "yes_price": 0.535,
+      "leader": {
+        "name": "Knicks",
+        "price": 0.535
+      },
+      "end_date": "2026-05-26T00:00:00Z",
+      "outcomes": [
+        "Knicks",
+        "Cavaliers"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Tampa Bay Rays vs. Baltimore Orioles",
+      "url": "https://polymarket.com/event/mlb-tb-bal-2026-05-25",
+      "volume_24h": 1804253.9945230007,
+      "volume_total": 1806924.6580470025,
+      "liquidity": 41166.8157,
+      "yes_price": 0.475,
+      "leader": {
+        "name": "Baltimore Orioles",
+        "price": 0.525
+      },
+      "end_date": "2026-06-01T17:35:00Z",
+      "outcomes": [
+        "Tampa Bay Rays",
+        "Baltimore Orioles"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Will the Iran ceasefire continue through May 24?",
+      "url": "https://polymarket.com/event/iran-ceasefire-continues-through",
+      "volume_24h": 1773607.7247729974,
+      "volume_total": 5890099.942783042,
+      "liquidity": 686839.38016,
       "yes_price": 0.9995,
       "leader": {
-        "name": "Pablo Carreno Busta",
+        "name": "Yes",
         "price": 0.9995
       },
-      "end_date": "2026-05-31T09:00:00Z",
+      "end_date": null,
       "outcomes": [
-        "Pablo Carreno Busta",
-        "Jiri Lehecka"
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Roland Garros ATP: Casper Ruud vs Roman Safiullin",
+      "url": "https://polymarket.com/event/atp-ruud-safiull-2026-05-25",
+      "volume_24h": 1409388.3997110014,
+      "volume_total": 1412284.3519180045,
+      "liquidity": 399375.84678,
+      "yes_price": 0.9995,
+      "leader": {
+        "name": "Casper Ruud",
+        "price": 0.9995
+      },
+      "end_date": "2026-06-01T09:00:00Z",
+      "outcomes": [
+        "Casper Ruud",
+        "Roman Safiullin"
       ]
     },
     {
       "rank": 10,
-      "title": "Will the Iranian regime fall by May 31?",
-      "url": "https://polymarket.com/event/will-the-iranian-regime-fall-by-may-31",
-      "volume_24h": 777659.0459510004,
-      "volume_total": 30012345.20773395,
-      "liquidity": 1853838.58537,
-      "yes_price": 0.0025,
+      "title": "Roland Garros ATP: Francisco Cerundolo vs Botic van de Zandschulp",
+      "url": "https://polymarket.com/event/atp-cerundo-zandsch-2026-05-24",
+      "volume_24h": 1044405.5025010007,
+      "volume_total": 1044743.8232070013,
+      "liquidity": 444112.90639,
+      "yes_price": 0.9995,
+      "leader": {
+        "name": "Francisco Cerundolo",
+        "price": 0.9995
+      },
+      "end_date": "2026-05-31T09:00:00Z",
+      "outcomes": [
+        "Francisco Cerundolo",
+        "Botic van de Zandschulp"
+      ]
+    },
+    {
+      "rank": 11,
+      "title": "Strait of Hormuz traffic returns to normal by end of May?",
+      "url": "https://polymarket.com/event/strait-of-hormuz-traffic-returns-to-normal-by-end-of-may",
+      "volume_24h": 1005118.3374549997,
+      "volume_total": 25264011.850608096,
+      "liquidity": 397908.05877,
+      "yes_price": 0.0355,
       "leader": {
         "name": "No",
-        "price": 0.9975
+        "price": 0.9645
       },
       "end_date": "2026-05-31T00:00:00Z",
       "outcomes": [
@@ -184,12 +202,66 @@
       ]
     },
     {
-      "rank": 11,
+      "rank": 12,
+      "title": "Roland Garros WTA: Elina Svitolina vs Anna Bondar",
+      "url": "https://polymarket.com/event/wta-svitoli-bondar-2026-05-24",
+      "volume_24h": 973341.2890600028,
+      "volume_total": 973862.6841129963,
+      "liquidity": 558780.61676,
+      "yes_price": 0.9995,
+      "leader": {
+        "name": "Elina Svitolina",
+        "price": 0.9995
+      },
+      "end_date": "2026-05-31T09:00:00Z",
+      "outcomes": [
+        "Elina Svitolina",
+        "Anna Bondar"
+      ]
+    },
+    {
+      "rank": 13,
+      "title": "US announces new Iran agreement/ceasefire extension by May 25?",
+      "url": "https://polymarket.com/event/us-announces-new-iran-agreementceasefire-extension-by",
+      "volume_24h": 763980.9463799997,
+      "volume_total": 1103801.3287070005,
+      "liquidity": 54559.73846,
+      "yes_price": 0.0275,
+      "leader": {
+        "name": "No",
+        "price": 0.9725
+      },
+      "end_date": null,
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 14,
+      "title": "St. Louis Cardinals vs. Milwaukee Brewers",
+      "url": "https://polymarket.com/event/mlb-stl-mil-2026-05-25",
+      "volume_24h": 750228.093561,
+      "volume_total": 751982.057845001,
+      "liquidity": 30512.64655,
+      "yes_price": 0.0275,
+      "leader": {
+        "name": "Milwaukee Brewers",
+        "price": 0.9725
+      },
+      "end_date": "2026-06-01T18:10:00Z",
+      "outcomes": [
+        "St. Louis Cardinals",
+        "Milwaukee Brewers"
+      ]
+    },
+    {
+      "rank": 15,
       "title": "Will the Cleveland Cavaliers win the 2026 NBA Finals?",
       "url": "https://polymarket.com/event/2026-nba-champion",
-      "volume_24h": 647337.6195059998,
-      "volume_total": 18470759.540702723,
-      "liquidity": 519047.41145,
+      "volume_24h": 673093.1193149996,
+      "volume_total": 18612752.74335573,
+      "liquidity": 812539.24431,
       "yes_price": 0.0035,
       "leader": {
         "name": "No",
@@ -202,88 +274,16 @@
       ]
     },
     {
-      "rank": 12,
-      "title": "Strait of Hormuz traffic returns to normal by end of June?",
-      "url": "https://polymarket.com/event/strait-of-hormuz-traffic-returns-to-normal-by-end-of-june",
-      "volume_24h": 508458.72295400006,
-      "volume_total": 9392245.614911046,
-      "liquidity": 192271.3723,
-      "yes_price": 0.51,
-      "leader": {
-        "name": "Yes",
-        "price": 0.51
-      },
-      "end_date": "2026-06-30T00:00:00Z",
-      "outcomes": [
-        "Yes",
-        "No"
-      ]
-    },
-    {
-      "rank": 13,
-      "title": "US obtains Iranian enriched uranium by May 31?",
-      "url": "https://polymarket.com/event/us-obtains-iranian-enriched-uranium-by",
-      "volume_24h": 502934.62687899976,
-      "volume_total": 17528406.671707924,
-      "liquidity": 384427.1286,
-      "yes_price": 0.0135,
-      "leader": {
-        "name": "No",
-        "price": 0.9865
-      },
-      "end_date": "2026-05-31T00:00:00Z",
-      "outcomes": [
-        "Yes",
-        "No"
-      ]
-    },
-    {
-      "rank": 14,
-      "title": "Will Robert F. Kennedy Jr. win the 2028 Republican presidential nomination?",
-      "url": "https://polymarket.com/event/republican-presidential-nominee-2028",
-      "volume_24h": 488926.98784699995,
-      "volume_total": 16141252.462812375,
-      "liquidity": 1127333.3969,
-      "yes_price": 0.0085,
-      "leader": {
-        "name": "No",
-        "price": 0.9915
-      },
-      "end_date": "2028-11-07T00:00:00Z",
-      "outcomes": [
-        "Yes",
-        "No"
-      ]
-    },
-    {
-      "rank": 15,
-      "title": "US announces new Iran agreement/ceasefire extension by May 25?",
-      "url": "https://polymarket.com/event/us-announces-new-iran-agreementceasefire-extension-by",
-      "volume_24h": 484881.94248800067,
-      "volume_total": 595755.6291130007,
-      "liquidity": 65262.06356,
-      "yes_price": 0.043,
-      "leader": {
-        "name": "No",
-        "price": 0.957
-      },
-      "end_date": null,
-      "outcomes": [
-        "Yes",
-        "No"
-      ]
-    },
-    {
       "rank": 16,
-      "title": "Iran agrees to surrender enriched uranium stockpile by May 31, 2026?",
-      "url": "https://polymarket.com/event/iran-agrees-to-surrender-enriched-uranium-stockpile-by",
-      "volume_24h": 460566.9934230001,
-      "volume_total": 3030390.484146991,
-      "liquidity": 44159.0705,
-      "yes_price": 0.116,
+      "title": "Will the Iranian regime fall by May 31?",
+      "url": "https://polymarket.com/event/will-the-iranian-regime-fall-by-may-31",
+      "volume_24h": 642310.5729340004,
+      "volume_total": 30257010.928881947,
+      "liquidity": 2262221.0708,
+      "yes_price": 0.0025,
       "leader": {
         "name": "No",
-        "price": 0.884
+        "price": 0.9975
       },
       "end_date": "2026-05-31T00:00:00Z",
       "outcomes": [
@@ -293,65 +293,101 @@
     },
     {
       "rank": 17,
-      "title": "Will Donald Trump announce that the United States blockade of the Strait of Hormuz has been lifted by May 31, 2026?",
-      "url": "https://polymarket.com/event/trump-announces-us-blockade-of-hormuz-lifted-by",
-      "volume_24h": 442876.47320799966,
-      "volume_total": 5162900.132391066,
-      "liquidity": 80109.7859,
-      "yes_price": 0.295,
+      "title": "Roland Garros ATP: Hugo Gaston vs Gael Monfils",
+      "url": "https://polymarket.com/event/atp-gaston-monfils-2026-05-24",
+      "volume_24h": 573948.0161389997,
+      "volume_total": 577482.0465950021,
+      "liquidity": 78674.4846,
+      "yes_price": 0.825,
       "leader": {
-        "name": "No",
-        "price": 0.705
+        "name": "Hugo Gaston",
+        "price": 0.825
       },
-      "end_date": "2026-05-31T00:00:00Z",
+      "end_date": "2026-05-31T09:00:00Z",
       "outcomes": [
-        "Yes",
-        "No"
+        "Hugo Gaston",
+        "Gael Monfils"
       ]
     },
     {
       "rank": 18,
-      "title": "Will Reza Pahlavi lead Iran in 2026?",
-      "url": "https://polymarket.com/event/will-reza-pahlavi-lead-iran-in-2026",
-      "volume_24h": 442416.4605570001,
-      "volume_total": 9276969.329989042,
-      "liquidity": 157576.55292,
-      "yes_price": 0.0665,
+      "title": "Philadelphia Phillies vs. San Diego Padres",
+      "url": "https://polymarket.com/event/mlb-phi-sd-2026-05-25",
+      "volume_24h": 549987.4736579995,
+      "volume_total": 550164.7782890017,
+      "liquidity": 845227.0791,
+      "yes_price": 0.515,
+      "leader": {
+        "name": "Philadelphia Phillies",
+        "price": 0.515
+      },
+      "end_date": "2026-06-01T22:40:00Z",
+      "outcomes": [
+        "Philadelphia Phillies",
+        "San Diego Padres"
+      ]
+    },
+    {
+      "rank": 19,
+      "title": "LoL: Nongshim Red Force vs Hanwha Life Esports (BO3) - Esports World Cup Korea Qualifier Playoffs",
+      "url": "https://polymarket.com/event/lol-ns-hle1-2026-05-25",
+      "volume_24h": 548487.452138,
+      "volume_total": 561162.6342769999,
+      "liquidity": 748063.70383,
+      "yes_price": 0.0005,
+      "leader": {
+        "name": "Hanwha Life Esports",
+        "price": 0.9995
+      },
+      "end_date": "2026-05-25T17:45:00Z",
+      "outcomes": [
+        "Nongshim Red Force",
+        "Hanwha Life Esports"
+      ]
+    },
+    {
+      "rank": 20,
+      "title": "New York Yankees vs. Kansas City Royals",
+      "url": "https://polymarket.com/event/mlb-nyy-kc-2026-05-25",
+      "volume_24h": 524455.3365350001,
+      "volume_total": 524493.5399219999,
+      "liquidity": 198844.2892,
+      "yes_price": 0.675,
+      "leader": {
+        "name": "New York Yankees",
+        "price": 0.675
+      },
+      "end_date": "2026-06-01T19:40:00Z",
+      "outcomes": [
+        "New York Yankees",
+        "Kansas City Royals"
+      ]
+    },
+    {
+      "rank": 21,
+      "title": "Will Wolfsburg win on 2026-05-25?",
+      "url": "https://polymarket.com/event/bun-pad-wol-2026-05-25",
+      "volume_24h": 519465.7752529996,
+      "volume_total": 519469.775253001,
+      "liquidity": 16831.9848,
+      "yes_price": 0.04,
       "leader": {
         "name": "No",
-        "price": 0.9335
+        "price": 0.96
       },
-      "end_date": "2026-12-31T00:00:00Z",
+      "end_date": "2026-05-25T18:30:00Z",
       "outcomes": [
         "Yes",
         "No"
       ]
     },
     {
-      "rank": 19,
-      "title": "Roland Garros WTA: Emerson Jones vs Iga Swiatek",
-      "url": "https://polymarket.com/event/wta-jone-swiatek-2026-05-24",
-      "volume_24h": 433774.69724399986,
-      "volume_total": 459805.25091199996,
-      "liquidity": 186492.35289,
-      "yes_price": 0.0005,
-      "leader": {
-        "name": "Iga Swiatek",
-        "price": 0.9995
-      },
-      "end_date": "2026-05-31T09:00:00Z",
-      "outcomes": [
-        "Emerson Jones",
-        "Iga Swiatek"
-      ]
-    },
-    {
-      "rank": 20,
+      "rank": 22,
       "title": "Will Trump say \"250\" or \"250th\" during events in Rockland County?",
       "url": "https://polymarket.com/event/what-will-trump-say-during-rockland-county-events",
-      "volume_24h": 425741.77900499996,
-      "volume_total": 573622.0739160001,
-      "liquidity": 1296577.29295,
+      "volume_24h": 511455.810608,
+      "volume_total": 699032.243916,
+      "liquidity": 2520511.79038,
       "yes_price": 0.0005,
       "leader": {
         "name": "No",
@@ -364,16 +400,52 @@
       ]
     },
     {
-      "rank": 21,
+      "rank": 23,
+      "title": "Spurs vs. Thunder",
+      "url": "https://polymarket.com/event/nba-sas-okc-2026-05-26",
+      "volume_24h": 506077.75801600073,
+      "volume_total": 528895.1358130017,
+      "liquidity": 829818.8981,
+      "yes_price": 0.375,
+      "leader": {
+        "name": "Thunder",
+        "price": 0.625
+      },
+      "end_date": "2026-05-27T00:30:00Z",
+      "outcomes": [
+        "Spurs",
+        "Thunder"
+      ]
+    },
+    {
+      "rank": 24,
+      "title": "Will Ted Cruz win the 2028 Republican presidential nomination?",
+      "url": "https://polymarket.com/event/republican-presidential-nominee-2028",
+      "volume_24h": 458006.78348399996,
+      "volume_total": 17496589.504596125,
+      "liquidity": 1042480.66327,
+      "yes_price": 0.0095,
+      "leader": {
+        "name": "No",
+        "price": 0.9905
+      },
+      "end_date": "2028-11-07T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 25,
       "title": "Will the New York Knicks win the NBA Eastern Conference Finals?",
       "url": "https://polymarket.com/event/nba-playoffs-eastern-conference-champion",
-      "volume_24h": 417941.38937800034,
-      "volume_total": 2118803.65084097,
-      "liquidity": 167192.61175,
-      "yes_price": 0.9835,
+      "volume_24h": 450660.83660000114,
+      "volume_total": 2227639.3415699764,
+      "liquidity": 101728.68059,
+      "yes_price": 0.9795,
       "leader": {
         "name": "Yes",
-        "price": 0.9835
+        "price": 0.9795
       },
       "end_date": "2026-06-13T00:00:00Z",
       "outcomes": [

@@ -1,325 +1,329 @@
 {
   "source": "stackoverflow",
   "label": "Stack Overflow — hot questions",
-  "fetched_at": "2026-05-25T12:21:09.114Z",
+  "fetched_at": "2026-05-25T20:24:15.696Z",
   "items": [
     {
       "rank": 1,
-      "title": "Carla's script and spawn points",
-      "url": "https://stackoverflow.com/questions/79946274/carlas-script-and-spawn-points",
+      "title": "Are these manual steps if written in c++ create a malware removal software?",
+      "url": "https://stackoverflow.com/questions/79946447/are-these-manual-steps-if-written-in-c-create-a-malware-removal-software",
       "score": 0,
-      "answers": 0,
-      "views": 14,
+      "answers": 1,
+      "views": 11,
       "tags": [
-        "carla"
+        "c++",
+        "malware",
+        "malware-detection",
+        "antimalware"
       ]
     },
     {
       "rank": 2,
-      "title": "simulation of loading data on python",
-      "url": "https://stackoverflow.com/questions/79946273/simulation-of-loading-data-on-python",
-      "score": 0,
-      "answers": 2,
-      "views": 12,
+      "title": "How to resolve \"git log --oneline master ^origin/master\" when the cause is \"git commit --amend\" after \"git push\"?",
+      "url": "https://stackoverflow.com/questions/79946441/how-to-resolve-git-log-oneline-master-origin-master-when-the-cause-is-git",
+      "score": -1,
+      "answers": 0,
+      "views": 22,
       "tags": [
-        "python"
+        "git"
       ]
     },
     {
       "rank": 3,
-      "title": "Instantiation of a template with a mismatched function signature",
-      "url": "https://stackoverflow.com/questions/79946258/instantiation-of-a-template-with-a-mismatched-function-signature",
-      "score": -1,
-      "answers": 1,
-      "views": 40,
+      "title": "Character shakes when rotating camera while moving",
+      "url": "https://stackoverflow.com/questions/79946435/character-shakes-when-rotating-camera-while-moving",
+      "score": 0,
+      "answers": 0,
+      "views": 21,
       "tags": [
-        "c++",
-        "templates",
-        "language-lawyer",
-        "default-arguments"
+        "c#",
+        "unity-game-engine"
       ]
     },
     {
       "rank": 4,
-      "title": "I have problem with updating maven project, lombok issue",
-      "url": "https://stackoverflow.com/questions/79946263/i-have-problem-with-updating-maven-project-lombok-issue",
+      "title": "How to orient a subset of undirected edges in a mixed graph to make it strongly connected (SCC)?",
+      "url": "https://stackoverflow.com/questions/79946434/how-to-orient-a-subset-of-undirected-edges-in-a-mixed-graph-to-make-it-strongly",
       "score": 0,
       "answers": 0,
-      "views": 30,
+      "views": 21,
       "tags": [
-        "spring",
-        "spring-boot",
-        "lombok"
+        "c++"
       ]
     },
     {
       "rank": 5,
-      "title": "How to enable \"Annotate with Git Blame\" for configuration files using WebStorm 2026.1?",
-      "url": "https://stackoverflow.com/questions/79946255/how-to-enable-annotate-with-git-blame-for-configuration-files-using-webstorm-2",
-      "score": 0,
-      "answers": 0,
-      "views": 27,
-      "tags": [
-        "webstorm",
-        "git-blame"
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "Distributed lease vs. lock for multi-node async system, which handles node crashes safely?",
-      "url": "https://stackoverflow.com/questions/79946262/distributed-lease-vs-lock-for-multi-node-async-system-which-handles-node-crash",
-      "score": 0,
-      "answers": 0,
-      "views": 23,
-      "tags": [
-        "hazelcast",
-        "distributed",
-        "distributed-system"
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "Why is my Next.js app slow on first load and how can I improve initial load performance?",
-      "url": "https://stackoverflow.com/questions/79946244/why-is-my-next-js-app-slow-on-first-load-and-how-can-i-improve-initial-load-perf",
-      "score": 0,
-      "answers": 0,
-      "views": 28,
-      "tags": [
-        "reactjs",
-        "performance",
-        "next.js",
-        "frontend",
-        "web-vitals"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Best way to implement interchangeable algorithm strategies in Spring Boot?",
-      "url": "https://stackoverflow.com/questions/79946243/best-way-to-implement-interchangeable-algorithm-strategies-in-spring-boot",
-      "score": 0,
-      "answers": 1,
-      "views": 31,
-      "tags": [
-        "java",
-        "spring-boot",
-        "design-patterns",
-        "dependency-injection"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Correct typing for creating nested objects",
-      "url": "https://stackoverflow.com/questions/79946231/correct-typing-for-creating-nested-objects",
-      "score": -1,
-      "answers": 1,
-      "views": 35,
-      "tags": [
-        "typescript"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "How to use build results from timer-triggered builds in Jenkins?",
-      "url": "https://stackoverflow.com/questions/79946249/how-to-use-build-results-from-timer-triggered-builds-in-jenkins",
+      "title": "How to keep column widths consistent across rows in compose?",
+      "url": "https://stackoverflow.com/questions/79946444/how-to-keep-column-widths-consistent-across-rows-in-compose",
       "score": 0,
       "answers": 0,
       "views": 18,
       "tags": [
-        "jenkins"
+        "android",
+        "kotlin",
+        "android-jetpack-compose"
       ]
     },
     {
-      "rank": 11,
-      "title": "constexpr structure and integer constant expression in C",
-      "url": "https://stackoverflow.com/questions/79946206/constexpr-structure-and-integer-constant-expression-in-c",
-      "score": 1,
-      "answers": 1,
-      "views": 60,
+      "rank": 6,
+      "title": "'unresolved token' error for get_Thing and set_Thing methods for properties in C++/CLI code",
+      "url": "https://stackoverflow.com/questions/79946433/unresolved-token-error-for-get-thing-and-set-thing-methods-for-properties-in-c",
+      "score": 0,
+      "answers": 0,
+      "views": 14,
       "tags": [
-        "c",
-        "language-lawyer",
-        "constant-expression",
-        "c23"
+        "c++",
+        "properties",
+        "command-line-interface"
       ]
     },
     {
-      "rank": 12,
-      "title": "Laravel API client: should I fetch API data in Blade with JavaScript or through a controller?",
-      "url": "https://stackoverflow.com/questions/79946208/laravel-api-client-should-i-fetch-api-data-in-blade-with-javascript-or-through",
-      "score": 3,
-      "answers": 4,
-      "views": 33,
+      "rank": 7,
+      "title": "Laravel api and kliens application",
+      "url": "https://stackoverflow.com/questions/79946438/laravel-api-and-kliens-application",
+      "score": -4,
+      "answers": 0,
+      "views": 13,
       "tags": [
-        "javascript",
-        "php",
         "laravel"
       ]
     },
     {
-      "rank": 13,
-      "title": "Is there a way to associate a commit to the branch it was created on?",
-      "url": "https://stackoverflow.com/questions/79946203/is-there-a-way-to-associate-a-commit-to-the-branch-it-was-created-on",
-      "score": -2,
-      "answers": 0,
-      "views": 33,
+      "rank": 8,
+      "title": "how can i use multiple arguments in a python multiprocessing pool",
+      "url": "https://stackoverflow.com/questions/79946424/how-can-i-use-multiple-arguments-in-a-python-multiprocessing-pool",
+      "score": 2,
+      "answers": 1,
+      "views": 50,
       "tags": [
-        "javascript",
-        "git",
-        "electron",
-        "simple-git"
+        "python",
+        "python-multiprocessing"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Determine target platform without installing Rust",
+      "url": "https://stackoverflow.com/questions/79946421/determine-target-platform-without-installing-rust",
+      "score": 0,
+      "answers": 0,
+      "views": 39,
+      "tags": [
+        "rust",
+        "rust-cargo",
+        "rustup"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Code rendering of Mandelbrot set doesn't match instructor image, and I can't understand why",
+      "url": "https://stackoverflow.com/questions/79946418/code-rendering-of-mandelbrot-set-doesnt-match-instructor-image-and-i-cant-und",
+      "score": 1,
+      "answers": 0,
+      "views": 38,
+      "tags": [
+        "assembly",
+        "x86-16",
+        "masm",
+        "dosbox",
+        "mandelbrot"
+      ]
+    },
+    {
+      "rank": 11,
+      "title": "Beginner WinForms project with CSV loading, ComboBox data, dynamic controls and deletion",
+      "url": "https://stackoverflow.com/questions/79946415/beginner-winforms-project-with-csv-loading-combobox-data-dynamic-controls-and",
+      "score": 4,
+      "answers": 1,
+      "views": 31,
+      "tags": [
+        "c#",
+        "winforms"
+      ]
+    },
+    {
+      "rank": 12,
+      "title": "Swift concurrency why use main actor isolated global values of sendable type in non isolated area",
+      "url": "https://stackoverflow.com/questions/79946412/swift-concurrency-why-use-main-actor-isolated-global-values-of-sendable-type-in",
+      "score": 0,
+      "answers": 1,
+      "views": 24,
+      "tags": [
+        "ios",
+        "swift",
+        "concurrency"
+      ]
+    },
+    {
+      "rank": 13,
+      "title": "How do I get a single Texture2D from a Sprite Atlas?",
+      "url": "https://stackoverflow.com/questions/79946419/how-do-i-get-a-single-texture2d-from-a-sprite-atlas",
+      "score": 0,
+      "answers": 0,
+      "views": 20,
+      "tags": [
+        "c#",
+        "unity-game-engine",
+        "2d",
+        "textures",
+        "sprite"
       ]
     },
     {
       "rank": 14,
-      "title": "Need guidance on starting DSA from scratch with Java – looking for resources and YouTube courses in Urdu/Hindi",
-      "url": "https://stackoverflow.com/questions/79946233/need-guidance-on-starting-dsa-from-scratch-with-java-looking-for-resources-and",
+      "title": "How to hide root-level files using git sparse-checkout in cone mode?",
+      "url": "https://stackoverflow.com/questions/79946361/how-to-hide-root-level-files-using-git-sparse-checkout-in-cone-mode",
       "score": 0,
-      "answers": 0,
-      "views": 30,
+      "answers": 2,
+      "views": 42,
       "tags": [
-        "java",
-        "algorithm",
-        "data-structures"
+        "bash",
+        "git",
+        "monorepo",
+        "git-sparse-checkout"
       ]
     },
     {
       "rank": 15,
-      "title": "How to fix intermittent \"No nodes available to run query\" errors in Trino/Presto on co-hosted nodes?",
-      "url": "https://stackoverflow.com/questions/79946222/how-to-fix-intermittent-no-nodes-available-to-run-query-errors-in-trino-presto",
-      "score": -2,
-      "answers": 0,
-      "views": 28,
+      "title": "How can I integrate ChatGPT or Claude AI into my web application for code suggestions?",
+      "url": "https://stackoverflow.com/questions/79946404/how-can-i-integrate-chatgpt-or-claude-ai-into-my-web-application-for-code-sugges",
+      "score": 0,
+      "answers": 1,
+      "views": 43,
       "tags": [
-        "configuration",
-        "cluster-computing",
-        "presto",
-        "trino"
+        "machine-learning",
+        "artificial-intelligence",
+        "code-generation"
       ]
     },
     {
       "rank": 16,
-      "title": "I want to take (B → (C → B)), and turn it into (&#172;(C) → (B → &#172;(C))) using the mapping {B=&#172;(C), C=B}",
-      "url": "https://stackoverflow.com/questions/79946167/i-want-to-take-b-%e2%86%92-c-%e2%86%92-b-and-turn-it-into-%c2%acc-%e2%86%92-b-%e2%86%92-%c2%acc-using-the-map",
+      "title": "Boot loader from scratch in assembly confusion",
+      "url": "https://stackoverflow.com/questions/79946321/boot-loader-from-scratch-in-assembly-confusion",
       "score": 0,
-      "answers": 6,
-      "views": 57,
+      "answers": 7,
+      "views": 51,
       "tags": [
-        "python"
+        "assembly",
+        "x86-16",
+        "bootloader",
+        "boot",
+        "memory-segmentation"
       ]
     },
     {
       "rank": 17,
-      "title": "Hardware flow control in RS485 (Stmcubemx)",
-      "url": "https://stackoverflow.com/questions/79946236/hardware-flow-control-in-rs485-stmcubemx",
-      "score": -1,
-      "answers": 0,
-      "views": 24,
+      "title": "Filtering packets using recvfrom() and MSG_PEEK",
+      "url": "https://stackoverflow.com/questions/79946350/filtering-packets-using-recvfrom-and-msg-peek",
+      "score": 0,
+      "answers": 3,
+      "views": 51,
       "tags": [
-        "c",
-        "embedded"
+        "c++",
+        "oop",
+        "network-programming",
+        "unix"
       ]
     },
     {
       "rank": 18,
-      "title": "How to have two panes side-by-side sharing same environment?",
-      "url": "https://stackoverflow.com/questions/79946185/how-to-have-two-panes-side-by-side-sharing-same-environment",
+      "title": "Google Places API: compliant way to batch match my own property database to Place IDs?",
+      "url": "https://stackoverflow.com/questions/79946370/google-places-api-compliant-way-to-batch-match-my-own-property-database-to-plac",
       "score": 0,
-      "answers": 2,
-      "views": 46,
+      "answers": 1,
+      "views": 22,
       "tags": [
-        "python",
-        "visual-studio-code",
-        "jupyter-notebook"
+        "google-maps",
+        "google-cloud-platform",
+        "google-places-api"
       ]
     },
     {
       "rank": 19,
-      "title": "STM32 package questions",
-      "url": "https://stackoverflow.com/questions/79946237/stm32-package-questions",
+      "title": "AWS Lambda / LibreOffice threads and processes issue",
+      "url": "https://stackoverflow.com/questions/79946375/aws-lambda-libreoffice-threads-and-processes-issue",
       "score": 0,
       "answers": 0,
-      "views": 16,
+      "views": 21,
       "tags": [
-        "stm32"
+        "amazon-web-services",
+        "aws-lambda",
+        "libreoffice"
       ]
     },
     {
       "rank": 20,
-      "title": "Pylance duplicate messages",
-      "url": "https://stackoverflow.com/questions/79946221/pylance-duplicate-messages",
-      "score": -5,
-      "answers": 0,
-      "views": 20,
+      "title": "Styling buttons using CSS",
+      "url": "https://stackoverflow.com/questions/79946351/styling-buttons-using-css",
+      "score": 1,
+      "answers": 2,
+      "views": 46,
       "tags": [
-        "visual-studio-code",
-        "pylance"
+        "css",
+        "styles",
+        "styled-components"
       ]
     },
     {
       "rank": 21,
-      "title": "SSDP/UPnP search library for React Native?",
-      "url": "https://stackoverflow.com/questions/79946205/ssdp-upnp-search-library-for-react-native",
+      "title": "Architecture to retry as root on Linux in C",
+      "url": "https://stackoverflow.com/questions/79946329/architecture-to-retry-as-root-on-linux-in-c",
       "score": 0,
-      "answers": 0,
-      "views": 15,
+      "answers": 7,
+      "views": 59,
       "tags": [
-        "react-native",
-        "expo",
-        "upnp",
-        "ssdp"
+        "c",
+        "linux",
+        "root"
       ]
     },
     {
       "rank": 22,
-      "title": "Jackson3 custom list serializer throws \"Cannot write raw value\"",
-      "url": "https://stackoverflow.com/questions/79946230/jackson3-custom-list-serializer-throws-cannot-write-raw-value",
+      "title": "How do I host a website on Kubernetes with a custom domain name and SSL?",
+      "url": "https://stackoverflow.com/questions/79946413/how-do-i-host-a-website-on-kubernetes-with-a-custom-domain-name-and-ssl",
       "score": 0,
       "answers": 0,
-      "views": 15,
+      "views": 18,
       "tags": [
-        "spring-boot",
-        "jackson",
-        "jackson-3"
+        "docker",
+        "kubernetes",
+        "ssl",
+        "dns"
       ]
     },
     {
       "rank": 23,
-      "title": "How to build an autonomous AI Agent with tool calling using the new Microsoft.Agents.AI framework in .NET?",
-      "url": "https://stackoverflow.com/questions/79946178/how-to-build-an-autonomous-ai-agent-with-tool-calling-using-the-new-microsoft-ag",
+      "title": "What should I learn I am interested in cyber security in red team and deveops role should i learn java or golang",
+      "url": "https://stackoverflow.com/questions/79946391/what-should-i-learn-i-am-interested-in-cyber-security-in-red-team-and-deveops-ro",
       "score": 0,
-      "answers": 1,
-      "views": 31,
+      "answers": 0,
+      "views": 48,
       "tags": [
-        "artificial-intelligence",
-        "agent",
-        "agentic-commerce-protocol"
+        "java",
+        "go"
       ]
     },
     {
       "rank": 24,
-      "title": "Chrome extension fetch fails when uploading PDF with FormData to Express/multer backend",
-      "url": "https://stackoverflow.com/questions/79946229/chrome-extension-fetch-fails-when-uploading-pdf-with-formdata-to-express-multer",
-      "score": -2,
-      "answers": 0,
-      "views": 14,
+      "title": "What is the best way to truly learn a new programming language?",
+      "url": "https://stackoverflow.com/questions/79946328/what-is-the-best-way-to-truly-learn-a-new-programming-language",
+      "score": 0,
+      "answers": 8,
+      "views": 75,
       "tags": [
-        "node.js",
-        "artificial-intelligence",
-        "ocr"
+        "share",
+        "communication"
       ]
     },
     {
       "rank": 25,
-      "title": "How to manually activate confetti effect in an ASP.NET web page?",
-      "url": "https://stackoverflow.com/questions/79946184/how-to-manually-activate-confetti-effect-in-an-asp-net-web-page",
-      "score": -5,
+      "title": "Xamarin Forms full screen splash screen on Android 12+",
+      "url": "https://stackoverflow.com/questions/79946408/xamarin-forms-full-screen-splash-screen-on-android-12",
+      "score": 0,
       "answers": 0,
-      "views": 42,
+      "views": 14,
       "tags": [
-        "javascript",
-        "html",
-        "css",
-        "asp.net"
+        "android",
+        "xamarin.forms"
       ]
     }
   ]
