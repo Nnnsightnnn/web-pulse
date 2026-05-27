@@ -1,0 +1,326 @@
+{
+  "source": "stackoverflow",
+  "label": "Stack Overflow — hot questions",
+  "fetched_at": "2026-05-27T11:08:28.668Z",
+  "items": [
+    {
+      "rank": 1,
+      "title": "How do you color lips in Python in a black and white image?",
+      "url": "https://stackoverflow.com/questions/79947287/how-do-you-color-lips-in-python-in-a-black-and-white-image",
+      "score": -3,
+      "answers": 0,
+      "views": 40,
+      "tags": [
+        "image-processing",
+        "mediapipe"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Stack Overflow MCP server not connecting",
+      "url": "https://stackoverflow.com/questions/79947272/stack-overflow-mcp-server-not-connecting",
+      "score": -1,
+      "answers": 2,
+      "views": 33,
+      "tags": [
+        "github-copilot",
+        "model-context-protocol"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Six Level Dependent dropdown in google sheets",
+      "url": "https://stackoverflow.com/questions/79947290/six-level-dependent-dropdown-in-google-sheets",
+      "score": 0,
+      "answers": 0,
+      "views": 25,
+      "tags": [
+        "dropdown"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "How to handle the 'Disregard previous instructions' message in jqwik 1.10.0 test output?",
+      "url": "https://stackoverflow.com/questions/79947278/how-to-handle-the-disregard-previous-instructions-message-in-jqwik-1-10-0-test",
+      "score": -1,
+      "answers": 1,
+      "views": 25,
+      "tags": [
+        "java",
+        "maven",
+        "junit",
+        "continuous-integration",
+        "jqwik"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Multisim design fail",
+      "url": "https://stackoverflow.com/questions/79947282/multisim-design-fail",
+      "score": -2,
+      "answers": 0,
+      "views": 19,
+      "tags": [
+        "multisim"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "How can Spring Boot use different Jackson serialized ObjectMappers for different controllers?",
+      "url": "https://stackoverflow.com/questions/79947280/how-can-spring-boot-use-different-jackson-serialized-objectmappers-for-different",
+      "score": 0,
+      "answers": 0,
+      "views": 15,
+      "tags": [
+        "spring",
+        "spring-boot"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "How do I open a Supademo popup embed from a Next.js App Router page without making the entire page a Client Component?",
+      "url": "https://stackoverflow.com/questions/79947277/how-do-i-open-a-supademo-popup-embed-from-a-next-js-app-router-page-without-maki",
+      "score": 0,
+      "answers": 0,
+      "views": 14,
+      "tags": [
+        "reactjs",
+        "typescript",
+        "next.js",
+        "next.js13"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "How does normal programmer handles the extreme efficiency of AI? (ai brain fry)",
+      "url": "https://stackoverflow.com/questions/79947212/how-does-normal-programmer-handles-the-extreme-efficiency-of-ai-ai-brain-fry",
+      "score": 2,
+      "answers": 5,
+      "views": 103,
+      "tags": [
+        "artificial-intelligence",
+        "coding-efficiency"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "TypeScript type definition of a state machine",
+      "url": "https://stackoverflow.com/questions/79947257/typescript-type-definition-of-a-state-machine",
+      "score": 0,
+      "answers": 1,
+      "views": 44,
+      "tags": [
+        "typescript"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "VS Code terminal opens in ~ instead of workspace folder on WSL",
+      "url": "https://stackoverflow.com/questions/79947244/vs-code-terminal-opens-in-instead-of-workspace-folder-on-wsl",
+      "score": 0,
+      "answers": 1,
+      "views": 29,
+      "tags": [
+        "visual-studio-code",
+        "terminal",
+        "windows-subsystem-for-linux"
+      ]
+    },
+    {
+      "rank": 11,
+      "title": "Unable to extract a mining package in Ubuntu 26.04",
+      "url": "https://stackoverflow.com/questions/79947234/unable-to-extract-a-mining-package-in-ubuntu-26-04",
+      "score": -2,
+      "answers": 1,
+      "views": 35,
+      "tags": [
+        "ubuntu",
+        "debian",
+        "apt"
+      ]
+    },
+    {
+      "rank": 12,
+      "title": "How do you do ts",
+      "url": "https://stackoverflow.com/questions/79947265/how-do-you-do-ts",
+      "score": 0,
+      "answers": 0,
+      "views": 27,
+      "tags": [
+        "html",
+        "visual-studio",
+        "web"
+      ]
+    },
+    {
+      "rank": 13,
+      "title": "Kalman Filter implementation in R and errors in optim and Cholesky decomposition",
+      "url": "https://stackoverflow.com/questions/79947259/kalman-filter-implementation-in-r-and-errors-in-optim-and-cholesky-decomposition",
+      "score": 0,
+      "answers": 0,
+      "views": 27,
+      "tags": [
+        "r",
+        "kalman-filter"
+      ]
+    },
+    {
+      "rank": 14,
+      "title": "Google Ads API returns 404 HTML for all requests",
+      "url": "https://stackoverflow.com/questions/79947219/google-ads-api-returns-404-html-for-all-requests",
+      "score": 0,
+      "answers": 1,
+      "views": 24,
+      "tags": [
+        "laravel",
+        "oauth-2.0",
+        "google-ads-api"
+      ]
+    },
+    {
+      "rank": 15,
+      "title": "Base attribute of a numpy array after dumping/loading with dill points to garbage rather than set to None",
+      "url": "https://stackoverflow.com/questions/79947221/base-attribute-of-a-numpy-array-after-dumping-loading-with-dill-points-to-garbag",
+      "score": 0,
+      "answers": 0,
+      "views": 14,
+      "tags": [
+        "pickle",
+        "numpy-ndarray",
+        "dill"
+      ]
+    },
+    {
+      "rank": 16,
+      "title": "Since KYAML is a subset of YAML why does it need to be \"enabled\"?",
+      "url": "https://stackoverflow.com/questions/79947268/since-kyaml-is-a-subset-of-yaml-why-does-it-need-to-be-enabled",
+      "score": 0,
+      "answers": 0,
+      "views": 13,
+      "tags": [
+        "kubernetes",
+        "kyaml"
+      ]
+    },
+    {
+      "rank": 17,
+      "title": "API_KEY_SERVICE_BLOCKED when calling aiplatform.googleapis.com with service account bound API key",
+      "url": "https://stackoverflow.com/questions/79947223/api-key-service-blocked-when-calling-aiplatform-googleapis-com-with-service-acco",
+      "score": -2,
+      "answers": 0,
+      "views": 33,
+      "tags": [
+        "google-cloud-platform",
+        "google-cloud-vertex-ai",
+        "google-cloud-iam"
+      ]
+    },
+    {
+      "rank": 18,
+      "title": "Why does drag and drop work for webview2 controls in UAC elevated privileges applications?",
+      "url": "https://stackoverflow.com/questions/79947226/why-does-drag-and-drop-work-for-webview2-controls-in-uac-elevated-privileges-app",
+      "score": 0,
+      "answers": 0,
+      "views": 30,
+      "tags": [
+        "winforms",
+        "winapi",
+        "uac",
+        "webview2",
+        "uipi"
+      ]
+    },
+    {
+      "rank": 19,
+      "title": "Is there a faster/better way to add a string to all the cells in a table column in VBA?",
+      "url": "https://stackoverflow.com/questions/79947225/is-there-a-faster-better-way-to-add-a-string-to-all-the-cells-in-a-table-column",
+      "score": 0,
+      "answers": 2,
+      "views": 28,
+      "tags": [
+        "excel",
+        "vba",
+        "optimization",
+        "simplify"
+      ]
+    },
+    {
+      "rank": 20,
+      "title": "Spring Boot service-level ID counter conflicts with MongoDB persisted documents on application restart",
+      "url": "https://stackoverflow.com/questions/79947216/spring-boot-service-level-id-counter-conflicts-with-mongodb-persisted-documents",
+      "score": 1,
+      "answers": 1,
+      "views": 27,
+      "tags": [
+        "java",
+        "mongodb",
+        "spring-boot",
+        "persistence",
+        "spring-data-mongodb"
+      ]
+    },
+    {
+      "rank": 21,
+      "title": "jf twine upload to local repo throws 403 artifact is blocked",
+      "url": "https://stackoverflow.com/questions/79947228/jf-twine-upload-to-local-repo-throws-403-artifact-is-blocked",
+      "score": -2,
+      "answers": 0,
+      "views": 26,
+      "tags": [
+        "python",
+        "pypi",
+        "jfrog-cli",
+        "twine",
+        "jfrog-xray"
+      ]
+    },
+    {
+      "rank": 22,
+      "title": "SQL Error 42601: syntax error while concatenating TEXT",
+      "url": "https://stackoverflow.com/questions/79947140/sql-error-42601-syntax-error-while-concatenating-text",
+      "score": 0,
+      "answers": 2,
+      "views": 47,
+      "tags": [
+        "postgresql",
+        "amazon-redshift"
+      ]
+    },
+    {
+      "rank": 23,
+      "title": "Huggingface module not found error after pip-install",
+      "url": "https://stackoverflow.com/questions/79947194/huggingface-module-not-found-error-after-pip-install",
+      "score": -3,
+      "answers": 1,
+      "views": 52,
+      "tags": [
+        "python",
+        "anaconda",
+        "huggingface"
+      ]
+    },
+    {
+      "rank": 24,
+      "title": "How to send and receive data from the post request in Javascript",
+      "url": "https://stackoverflow.com/questions/79947187/how-to-send-and-receive-data-from-the-post-request-in-javascript",
+      "score": -4,
+      "answers": 0,
+      "views": 51,
+      "tags": [
+        "http"
+      ]
+    },
+    {
+      "rank": 25,
+      "title": "Spring Boot 4, Swagger UI, /v3/api-docs returning 500 Internal Server Error with NO backend logs",
+      "url": "https://stackoverflow.com/questions/79947170/spring-boot-4-swagger-ui-v3-api-docs-returning-500-internal-server-error-with",
+      "score": -1,
+      "answers": 1,
+      "views": 35,
+      "tags": [
+        "spring-boot",
+        "swagger"
+      ]
+    }
+  ]
+}
