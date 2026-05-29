@@ -1928,6 +1928,7 @@ function spreadWiki(c) {
       <p class="cs-deck">
         For one ${esc(c.weekday)}, ${esc(fmt(top.views))} of us decided to read about ${link(top.url, esc(headline))}. We have no good explanation. That is the story.
       </p>
+      ${c.data.brief ? `<blockquote class="brief-pull" style="margin:18px 0 0;padding:14px 16px;border-left:3px solid var(--red);font-family:var(--serif);font-style:italic;font-size:16px;line-height:1.45;color:var(--ink-2);background:rgba(178,58,35,0.05);">${esc(c.data.brief)}</blockquote>` : ''}
       <figure style="margin:18px 0 0;display:flex;flex-direction:column;gap:6px;">
         <image-slot id="wiki-hero"
           shape="rect"
@@ -1948,7 +1949,7 @@ function spreadWiki(c) {
 
         <p>What we can say is that the number was roughly ${esc(ratio)}× the second‑place entry${second ? ' — <em>' + link(second.url, esc(cleanWikiTitle(second.title))) + '</em>' : ''}${second ? ' — a margin wider than most ordinary news cycles produce' : '.'}</p>
 
-        <p>The Wikipedia top‑five table on the next spread tells the rest of the story: a murder case, a film with a small page, an obituary, a regional release. Together they describe a quiet ${esc(c.weekday)} in ${esc(c.month)}.</p>
+        <p>The Wikipedia top‑five table on the next spread tells the rest of the story: ${wiki.slice(1,5).map(w => link(w.url, esc(cleanWikiTitle(w.title)))).join(', ')}. Together they describe a quiet ${esc(c.weekday)} in ${esc(c.month)}.</p>
 
         <p>This is, we think, what an ordinary day looks like in the year ${esc(String(c.gen.getUTCFullYear()))}. In the absence of a story, the Wikipedia readership picks a thread at random and tugs.</p>
 
@@ -2518,6 +2519,7 @@ function spreadBack(c) {
         <div><dt>Stock</dt><dd>Cream #F1E9D8, ink #0D0C09, accent red #B23A23</dd></div>
         <div><dt>Snapshot</dt><dd>${esc(c.snapshotIso)} · ${esc(String(c.sourceCount))} sources · ${esc(fmt(totalItems))} items ranked.</dd></div>
         <div><dt>Reissue</dt><dd>Daily, 06:00 PT. Previous edition stays live until then.</dd></div>
+        <div><dt>Publisher</dt><dd>Built by <strong style="color:var(--ink);">nnnsightnnn</strong> · <a href="https://github.com/nnnsightnnn/web-pulse" target="_blank" rel="noopener noreferrer" style="color:var(--red);text-decoration:none;">github.com/nnnsightnnn/web-pulse</a></dd></div>
       </dl>
 
       <span class="endmark">— end —</span>
@@ -2536,7 +2538,22 @@ function spreadBack(c) {
   color:#8B8C97;text-decoration:none}
 .nnn-credit a:hover{color:#15161B}
 .nnn-credit strong{color:#15161B;font-weight:700}
+.nnn-brand-badge{position:fixed;top:14px;right:14px;z-index:99999;
+  display:flex;align-items:center;gap:6px;
+  padding:6px 10px;border-radius:999px;
+  background:rgba(241,233,216,0.9);backdrop-filter:blur(6px);
+  border:1px solid rgba(13,12,9,0.12);
+  font:600 11px/1 ui-monospace,"JetBrains Mono",Menlo,monospace;
+  letter-spacing:0.06em;color:#15161B;text-decoration:none;
+  box-shadow:0 1px 4px rgba(0,0,0,0.06);}
+.nnn-brand-badge:hover{background:rgba(241,233,216,1);}
+.nnn-brand-badge svg{display:block}
+@media print{.nnn-brand-badge{display:none}}
 </style>
+<a class="nnn-brand-badge" href="https://github.com/nnnsightnnn" target="_blank" rel="noopener noreferrer" aria-label="Developed by nnnsightnnn">
+  <svg width="14" height="14" viewBox="0 0 200 200" aria-hidden="true"><line x1="45.8" y1="54" x2="154.2" y2="54" stroke="#adaeb4" stroke-width="15" stroke-linecap="round"/><line x1="22.5" y1="77" x2="177.5" y2="77" stroke="#616267" stroke-width="15" stroke-linecap="round"/><line x1="16" y1="100" x2="66" y2="100" stroke="#15161b" stroke-width="15" stroke-linecap="round"/><line x1="134" y1="100" x2="184" y2="100" stroke="#15161b" stroke-width="15" stroke-linecap="round"/><line x1="22.5" y1="123" x2="177.5" y2="123" stroke="#616267" stroke-width="15" stroke-linecap="round"/><line x1="45.8" y1="146" x2="154.2" y2="146" stroke="#adaeb4" stroke-width="15" stroke-linecap="round"/><circle cx="100" cy="100" r="20" fill="#15161B"/></svg>
+  <span>nnnsightnnn</span>
+</a>
 <footer class="nnn-credit">
   <a href="https://github.com/nnnsightnnn" target="_blank" rel="noopener noreferrer">
     <svg width="16" height="16" viewBox="0 0 200 200" aria-hidden="true"><line x1="45.8" y1="54" x2="154.2" y2="54" stroke="#adaeb4" stroke-width="15" stroke-linecap="round"/><line x1="22.5" y1="77" x2="177.5" y2="77" stroke="#616267" stroke-width="15" stroke-linecap="round"/><line x1="16" y1="100" x2="66" y2="100" stroke="#15161b" stroke-width="15" stroke-linecap="round"/><line x1="134" y1="100" x2="184" y2="100" stroke="#15161b" stroke-width="15" stroke-linecap="round"/><line x1="22.5" y1="123" x2="177.5" y2="123" stroke="#616267" stroke-width="15" stroke-linecap="round"/><line x1="45.8" y1="146" x2="154.2" y2="146" stroke="#adaeb4" stroke-width="15" stroke-linecap="round"/><circle cx="100" cy="100" r="20" fill="#15161B"/></svg>
