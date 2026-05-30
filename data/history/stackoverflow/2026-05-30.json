@@ -1,0 +1,329 @@
+{
+  "source": "stackoverflow",
+  "label": "Stack Overflow — hot questions",
+  "fetched_at": "2026-05-30T11:08:16.730Z",
+  "items": [
+    {
+      "rank": 1,
+      "title": "C++ lambda init capture of a std::array",
+      "url": "https://stackoverflow.com/questions/79948843/c-lambda-init-capture-of-a-stdarray",
+      "score": 0,
+      "answers": 0,
+      "views": 29,
+      "tags": [
+        "c++",
+        "c++20"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "What's the purpose of `body_add_gg`?",
+      "url": "https://stackoverflow.com/questions/79948846/whats-the-purpose-of-body-add-gg",
+      "score": -2,
+      "answers": 0,
+      "views": 25,
+      "tags": [
+        "r",
+        "officer"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "How to safely update a shared resource map under high concurrency in Java without performance loss?",
+      "url": "https://stackoverflow.com/questions/79948826/how-to-safely-update-a-shared-resource-map-under-high-concurrency-in-java-withou",
+      "score": 0,
+      "answers": 1,
+      "views": 51,
+      "tags": [
+        "java",
+        "multithreading",
+        "collections",
+        "concurrency"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Java Spring Boot response entity with map",
+      "url": "https://stackoverflow.com/questions/79948839/java-spring-boot-response-entity-with-map",
+      "score": 0,
+      "answers": 0,
+      "views": 26,
+      "tags": [
+        "java",
+        "spring",
+        "spring-boot"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "How do I revive vibe code that was automated by Claude",
+      "url": "https://stackoverflow.com/questions/79948838/how-do-i-revive-vibe-code-that-was-automated-by-claude",
+      "score": 0,
+      "answers": 1,
+      "views": 26,
+      "tags": [
+        "python"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Why does set() raise 'TypeError: unhashable type: dict' when removing duplicate dictionaries?",
+      "url": "https://stackoverflow.com/questions/79948821/why-does-set-raise-typeerror-unhashable-type-dict-when-removing-duplicate",
+      "score": -1,
+      "answers": 0,
+      "views": 43,
+      "tags": [
+        "python"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "How to find the longest common subsequence using dynamic programming in C++?",
+      "url": "https://stackoverflow.com/questions/79948817/how-to-find-the-longest-common-subsequence-using-dynamic-programming-in-c",
+      "score": 0,
+      "answers": 0,
+      "views": 43,
+      "tags": [
+        "c++",
+        "string",
+        "algorithm",
+        "dynamic-programming"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "How to implement scheduler/cron the right way?",
+      "url": "https://stackoverflow.com/questions/79948829/how-to-implement-scheduler-cron-the-right-way",
+      "score": 0,
+      "answers": 0,
+      "views": 32,
+      "tags": [
+        "cron",
+        "nestjs",
+        "scheduler"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "SwiftUI Slider spams sensory feedback",
+      "url": "https://stackoverflow.com/questions/79948820/swiftui-slider-spams-sensory-feedback",
+      "score": 0,
+      "answers": 0,
+      "views": 26,
+      "tags": [
+        "ios",
+        "swift",
+        "swiftui",
+        "slider"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Cannot time travel Delta table to version 0 Available versions: 2429 ... 2513",
+      "url": "https://stackoverflow.com/questions/79948819/cannot-time-travel-delta-table-to-version-0-available-versions-2429-2513",
+      "score": -1,
+      "answers": 0,
+      "views": 17,
+      "tags": [
+        "python",
+        "scala"
+      ]
+    },
+    {
+      "rank": 11,
+      "title": "How can I implement an effect similar to the Windows clipboard window? (doesn't steal focus but can still accept keyboard input)",
+      "url": "https://stackoverflow.com/questions/79948788/how-can-i-implement-an-effect-similar-to-the-windows-clipboard-window-doesnt",
+      "score": 0,
+      "answers": 1,
+      "views": 37,
+      "tags": [
+        "windows",
+        "winapi",
+        "uwp",
+        "winui-3"
+      ]
+    },
+    {
+      "rank": 12,
+      "title": "Struggling to understand the foundations of programming",
+      "url": "https://stackoverflow.com/questions/79948742/struggling-to-understand-the-foundations-of-programming",
+      "score": 1,
+      "answers": 6,
+      "views": 86,
+      "tags": [
+        "c#",
+        "unity-game-engine"
+      ]
+    },
+    {
+      "rank": 13,
+      "title": "video generation in blender using python scripts",
+      "url": "https://stackoverflow.com/questions/79948811/video-generation-in-blender-using-python-scripts",
+      "score": 0,
+      "answers": 0,
+      "views": 37,
+      "tags": [
+        "python",
+        "blender",
+        "bpy"
+      ]
+    },
+    {
+      "rank": 14,
+      "title": "PHP Parse error: syntax error, unexpected single-quoted string",
+      "url": "https://stackoverflow.com/questions/79948785/php-parse-error-syntax-error-unexpected-single-quoted-string",
+      "score": -1,
+      "answers": 0,
+      "views": 27,
+      "tags": [
+        "laravel",
+        "composer-php",
+        "laravel-blade"
+      ]
+    },
+    {
+      "rank": 15,
+      "title": "TypeConverter.GetStandardValues not called by XAML IntelliSense in VS2022 for custom WPF DependencyProperty",
+      "url": "https://stackoverflow.com/questions/79948802/typeconverter-getstandardvalues-not-called-by-xaml-intellisense-in-vs2022-for-cu",
+      "score": 0,
+      "answers": 0,
+      "views": 26,
+      "tags": [
+        "wpf",
+        "xaml",
+        "visual-studio-2022",
+        "intellisense",
+        "typeconverter"
+      ]
+    },
+    {
+      "rank": 16,
+      "title": "What's the best \"FreeTier\" resource, Generative-ai, text-prompt/image-upload_to_video fullstack llmm application that's pipelined through HuggingFace?",
+      "url": "https://stackoverflow.com/questions/79948787/whats-the-best-freetier-resource-generative-ai-text-prompt-image-upload-to",
+      "score": 0,
+      "answers": 0,
+      "views": 26,
+      "tags": [
+        "react-native",
+        "computer-vision",
+        "artificial-intelligence",
+        "large-language-model",
+        "google-generativeai"
+      ]
+    },
+    {
+      "rank": 17,
+      "title": "Highlight on Hover Pop-up Button",
+      "url": "https://stackoverflow.com/questions/79948807/highlight-on-hover-pop-up-button",
+      "score": -1,
+      "answers": 0,
+      "views": 21,
+      "tags": [
+        "swift",
+        "button",
+        "hover",
+        "popupmenu",
+        "macos-tahoe"
+      ]
+    },
+    {
+      "rank": 18,
+      "title": "Can I access variables within a user-defined function in Jupyter Lab while debugging?",
+      "url": "https://stackoverflow.com/questions/79948790/can-i-access-variables-within-a-user-defined-function-in-jupyter-lab-while-debug",
+      "score": 0,
+      "answers": 0,
+      "views": 35,
+      "tags": [
+        "python",
+        "debugging",
+        "jupyter-lab"
+      ]
+    },
+    {
+      "rank": 19,
+      "title": "Is it possible to make a string array using malloc/calloc?",
+      "url": "https://stackoverflow.com/questions/79948653/is-it-possible-to-make-a-string-array-using-malloc-calloc",
+      "score": 0,
+      "answers": 13,
+      "views": 129,
+      "tags": [
+        "c++"
+      ]
+    },
+    {
+      "rank": 20,
+      "title": "What is well architecture from AWS Google Azure?",
+      "url": "https://stackoverflow.com/questions/79948786/what-is-well-architecture-from-aws-google-azure",
+      "score": 0,
+      "answers": 0,
+      "views": 17,
+      "tags": [
+        "amazon-web-services",
+        "azure",
+        "google-cloud-platform"
+      ]
+    },
+    {
+      "rank": 21,
+      "title": "Can someone tell me what KPIs are used for?",
+      "url": "https://stackoverflow.com/questions/79948733/can-someone-tell-me-what-kpis-are-used-for",
+      "score": 0,
+      "answers": 3,
+      "views": 66,
+      "tags": [
+        "performance",
+        "kpi"
+      ]
+    },
+    {
+      "rank": 22,
+      "title": "How can I avoid using LLMs as a software developer?",
+      "url": "https://stackoverflow.com/questions/79948695/how-can-i-avoid-using-llms-as-a-software-developer",
+      "score": 3,
+      "answers": 7,
+      "views": 112,
+      "tags": [
+        "large-language-model"
+      ]
+    },
+    {
+      "rank": 23,
+      "title": "When should I use BFS instead of DFS in a tree structure?",
+      "url": "https://stackoverflow.com/questions/79948778/when-should-i-use-bfs-instead-of-dfs-in-a-tree-structure",
+      "score": -2,
+      "answers": 1,
+      "views": 40,
+      "tags": [
+        "depth-first-search",
+        "breadth-first-search"
+      ]
+    },
+    {
+      "rank": 24,
+      "title": "How to avoid java.lang.StackOverflowError when traversing a very deep N-ary tree in Java?",
+      "url": "https://stackoverflow.com/questions/79948751/how-to-avoid-java-lang-stackoverflowerror-when-traversing-a-very-deep-n-ary-tree",
+      "score": -3,
+      "answers": 0,
+      "views": 101,
+      "tags": [
+        "java",
+        "recursion",
+        "data-structures",
+        "tree"
+      ]
+    },
+    {
+      "rank": 25,
+      "title": "Swashbuckle.AspNetCore 10.1.7: OpenApiSecuritySchemeReference works but responses like 401 show as “Undocumented” in Swagger UI",
+      "url": "https://stackoverflow.com/questions/79948707/swashbuckle-aspnetcore-10-1-7-openapisecurityschemereference-works-but-response",
+      "score": 0,
+      "answers": 1,
+      "views": 30,
+      "tags": [
+        ".net",
+        "swagger",
+        "swashbuckle"
+      ]
+    }
+  ]
+}
