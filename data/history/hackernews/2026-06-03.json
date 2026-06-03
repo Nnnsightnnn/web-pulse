@@ -1,0 +1,232 @@
+{
+  "source": "hackernews",
+  "label": "Hacker News — top stories",
+  "fetched_at": "2026-06-03T11:06:41.726Z",
+  "items": [
+    {
+      "rank": 1,
+      "title": "Show HN: Edsger – A handwritten Clojure REPL for the reMarkable 2",
+      "url": "https://handwritten.danieljanus.pl/2026-06-01-edsger.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48374552",
+      "score": 71,
+      "comments": 14,
+      "author": "nathell"
+    },
+    {
+      "rank": 2,
+      "title": "1-Click GitHub Token Stealing via a VSCode Bug",
+      "url": "https://blog.ammaraskar.com/github-token-stealing/",
+      "hn_url": "https://news.ycombinator.com/item?id=48371562",
+      "score": 444,
+      "comments": 65,
+      "author": "ammar2"
+    },
+    {
+      "rank": 3,
+      "title": "Show HN: I reverse-engineered the world maps of Test Drive III (1990 DOS game)",
+      "url": "https://github.com/s-macke/Test-Drive-3-Maps",
+      "hn_url": "https://news.ycombinator.com/item?id=48344327",
+      "score": 115,
+      "comments": 31,
+      "author": "s-macke"
+    },
+    {
+      "rank": 4,
+      "title": "Hacking your PC using your speaker without ever touching it",
+      "url": "https://blog.nns.ee/2026/06/03/katana-badusb/",
+      "hn_url": "https://news.ycombinator.com/item?id=48382310",
+      "score": 8,
+      "comments": 1,
+      "author": "xx_ns"
+    },
+    {
+      "rank": 5,
+      "title": "Use your Nvidia GPU's VRAM as swap space on Linux",
+      "url": "https://github.com/c0dejedi/nbd-vram",
+      "hn_url": "https://news.ycombinator.com/item?id=48377404",
+      "score": 334,
+      "comments": 88,
+      "author": "tanelpoder"
+    },
+    {
+      "rank": 6,
+      "title": "AI outperforms law professors in Stanford Law study",
+      "url": "https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/",
+      "hn_url": "https://news.ycombinator.com/item?id=48377761",
+      "score": 268,
+      "comments": 209,
+      "author": "berlianta"
+    },
+    {
+      "rank": 7,
+      "title": "MAI-Code-1-Flash",
+      "url": "https://microsoft.ai/news/introducingmai-code-1-flash/",
+      "hn_url": "https://news.ycombinator.com/item?id=48374466",
+      "score": 477,
+      "comments": 214,
+      "author": "EvanZhouDev"
+    },
+    {
+      "rank": 8,
+      "title": "The Unreasonable Redundancy of Nature's Protein Folds",
+      "url": "https://research.ligo.bio/posts/unreasonable-redundancy-of-natural-protein-folds/",
+      "hn_url": "https://news.ycombinator.com/item?id=48379669",
+      "score": 100,
+      "comments": 29,
+      "author": "ray__"
+    },
+    {
+      "rank": 9,
+      "title": "It is an amazing time for programmers",
+      "url": "https://46elks.com/blog/2026/05/29/an-amazing-time-for-programmers",
+      "hn_url": "https://news.ycombinator.com/item?id=48381211",
+      "score": 78,
+      "comments": 42,
+      "author": "jlundberg"
+    },
+    {
+      "rank": 10,
+      "title": "Mathematicians issue warning as AI rapidly gains ground",
+      "url": "https://www.science.org/content/article/mathematicians-issue-warning-ai-rapidly-gains-ground",
+      "hn_url": "https://news.ycombinator.com/item?id=48382052",
+      "score": 5,
+      "comments": 0,
+      "author": "pseudolus"
+    },
+    {
+      "rank": 11,
+      "title": "CT scans of BYD car parts",
+      "url": "https://www.lumafield.com/scan-of-the-month/byd",
+      "hn_url": "https://news.ycombinator.com/item?id=48375824",
+      "score": 396,
+      "comments": 240,
+      "author": "viasfo"
+    },
+    {
+      "rank": 12,
+      "title": "Writing Portable ARM64 Assembly (2023)",
+      "url": "https://ariadne.space/2023/04/12/writing-portable-arm-assembly.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48347977",
+      "score": 24,
+      "comments": 6,
+      "author": "luu"
+    },
+    {
+      "rank": 13,
+      "title": "Pluto.jl 1.0 release – reactive notebook for Julia",
+      "url": "https://discourse.julialang.org/t/pluto-1-0-release/137296",
+      "hn_url": "https://news.ycombinator.com/item?id=48377496",
+      "score": 141,
+      "comments": 15,
+      "author": "fons-p"
+    },
+    {
+      "rank": 14,
+      "title": "My thoughts after using Clojure for about a month",
+      "url": "https://www.acdw.net/clojure/",
+      "hn_url": "https://news.ycombinator.com/item?id=48375393",
+      "score": 227,
+      "comments": 113,
+      "author": "speckx"
+    },
+    {
+      "rank": 15,
+      "title": "DIY Bipedal Robot Used Pneumatic \"Air-Muscles\" Instead of Motors",
+      "url": "https://spectrum.ieee.org/shadow-walker-biped-humanoid-robot",
+      "hn_url": "https://news.ycombinator.com/item?id=48345409",
+      "score": 19,
+      "comments": 7,
+      "author": "sohkamyung"
+    },
+    {
+      "rank": 16,
+      "title": "U of T researchers demonstrate AI worm could target any online device",
+      "url": "https://www.utoronto.ca/news/u-t-researchers-demonstrate-ai-worm-could-target-any-online-device",
+      "hn_url": "https://news.ycombinator.com/item?id=48379664",
+      "score": 50,
+      "comments": 12,
+      "author": "shscs911"
+    },
+    {
+      "rank": 17,
+      "title": "Capstone – multi-platform, multi-architecture disassembly framework",
+      "url": "https://www.capstone-engine.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=48378925",
+      "score": 60,
+      "comments": 1,
+      "author": "gregsadetsky"
+    },
+    {
+      "rank": 18,
+      "title": "Roku LT Operating System open source distribution",
+      "url": "https://blog.roku.com/developer/roku-lt-os",
+      "hn_url": "https://news.ycombinator.com/item?id=48378495",
+      "score": 79,
+      "comments": 26,
+      "author": "dpmdpm"
+    },
+    {
+      "rank": 19,
+      "title": "Jonathan Franzen on Talent, Theatre, and His Next Novel",
+      "url": "https://www.newyorker.com/books/this-week-in-fiction/jonathan-franzen-06-08-26",
+      "hn_url": "https://news.ycombinator.com/item?id=48363646",
+      "score": 8,
+      "comments": 0,
+      "author": "samclemens"
+    },
+    {
+      "rank": 20,
+      "title": "OpenRidingController – DIY horse riding controller for the PC",
+      "url": "https://github.com/Squalius-cephalus/OpenRidingController",
+      "hn_url": "https://news.ycombinator.com/item?id=48341806",
+      "score": 5,
+      "comments": 1,
+      "author": "zdw"
+    },
+    {
+      "rank": 21,
+      "title": "Words of Type",
+      "url": "https://wiki.wordsoftype.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48348286",
+      "score": 72,
+      "comments": 12,
+      "author": "tobr"
+    },
+    {
+      "rank": 22,
+      "title": "HP re-releases classic computer science calculator: The HP-16C",
+      "url": "https://hpcalcs.com/product/hp-16c-collectors-edition/",
+      "hn_url": "https://news.ycombinator.com/item?id=48374685",
+      "score": 177,
+      "comments": 107,
+      "author": "dm319"
+    },
+    {
+      "rank": 23,
+      "title": "Gmail thinks I'm stupid, so I left",
+      "url": "https://moddedbear.com/gmail-thinks-im-stupid-so-i-left",
+      "hn_url": "https://news.ycombinator.com/item?id=48375016",
+      "score": 988,
+      "comments": 653,
+      "author": "speckx"
+    },
+    {
+      "rank": 24,
+      "title": "How we index images for RAG",
+      "url": "https://www.kapa.ai/blog/how-we-index-images-for-rag",
+      "hn_url": "https://news.ycombinator.com/item?id=48372239",
+      "score": 142,
+      "comments": 20,
+      "author": "mooreds"
+    },
+    {
+      "rank": 25,
+      "title": "Open Repair Data Standard",
+      "url": "https://openrepair.org/open-data/open-standard/",
+      "hn_url": "https://news.ycombinator.com/item?id=48375150",
+      "score": 134,
+      "comments": 9,
+      "author": "cassepipe"
+    }
+  ]
+}
