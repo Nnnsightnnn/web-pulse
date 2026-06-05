@@ -21,7 +21,7 @@ import reddit from "./sources/reddit.mjs";
 import github from "./sources/github-trending.mjs";
 import googleTrends from "./sources/google-trends.mjs";
 import cloudflareRadar from "./sources/cloudflare-radar.mjs";
-import mediastack from "./sources/mediastack.mjs";
+import lemmy from "./sources/lemmy.mjs";
 import stackoverflow from "./sources/stackoverflow.mjs";
 import steam from "./sources/steam.mjs";
 import youtube from "./sources/youtube.mjs";
@@ -45,7 +45,7 @@ const SOURCES = [
   { name: "github", fn: github },
   { name: "google-trends", fn: googleTrends },
   { name: "cloudflare-radar", fn: cloudflareRadar },
-  { name: "mediastack", fn: mediastack },
+  { name: "lemmy", fn: lemmy },
   { name: "stackoverflow", fn: stackoverflow },
   { name: "steam", fn: steam },
   { name: "youtube", fn: youtube },

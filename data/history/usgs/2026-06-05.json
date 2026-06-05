@@ -1,7 +1,7 @@
 {
   "source": "usgs",
   "label": "USGS — earthquakes (24h, M2.5+)",
-  "fetched_at": "2026-06-05T11:06:35.585Z",
+  "fetched_at": "2026-06-05T13:13:43.650Z",
   "items": [
     {
       "rank": 1,
@@ -11,7 +11,7 @@
       "place": "11 km NW of Summerlin South, Nevada",
       "time": 1780606078995,
       "sig": 626,
-      "felt": 3202,
+      "felt": 3213,
       "tsunami": false,
       "depth_km": 7,
       "lat": 36.1764,
@@ -89,6 +89,20 @@
     },
     {
       "rank": 7,
+      "title": "35 km S of La Libertad, El Salvador",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000squj",
+      "magnitude": 4.8,
+      "place": "35 km S of La Libertad, El Salvador",
+      "time": 1780662446954,
+      "sig": 356,
+      "felt": 4,
+      "tsunami": false,
+      "depth_km": 64.1,
+      "lat": 13.1683,
+      "lon": -89.2697
+    },
+    {
+      "rank": 8,
       "title": "32 km WSW of El Tocuyo, Venezuela",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sqrk",
       "magnitude": 4.8,
@@ -102,7 +116,7 @@
       "lon": -70.0495
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "166 km SSE of Vilyuchinsk, Russia",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sqn7",
       "magnitude": 4.8,
@@ -116,7 +130,7 @@
       "lon": 159.5224
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "144 km E of Miyako, Japan",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sqnl",
       "magnitude": 4.7,
@@ -130,7 +144,7 @@
       "lon": 143.615
     },
     {
-      "rank": 10,
+      "rank": 11,
       "title": "Kepulauan Babar, Indonesia",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sqr7",
       "magnitude": 4.5,
@@ -144,7 +158,7 @@
       "lon": 129.4683
     },
     {
-      "rank": 11,
+      "rank": 12,
       "title": "71 km SSE of Adak, Alaska",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sqnn",
       "magnitude": 4.5,
@@ -158,7 +172,7 @@
       "lon": -176.2203
     },
     {
-      "rank": 12,
+      "rank": 13,
       "title": "52 km NW of Monywa, Burma (Myanmar)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sqkf",
       "magnitude": 4.4,
@@ -172,7 +186,21 @@
       "lon": 94.7372
     },
     {
-      "rank": 13,
+      "rank": 14,
+      "title": "96 km S of San Francisco del Mar Viejo, Mexico",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000squa",
+      "magnitude": 4.3,
+      "place": "96 km S of San Francisco del Mar Viejo, Mexico",
+      "time": 1780658729495,
+      "sig": 284,
+      "felt": 0,
+      "tsunami": false,
+      "depth_km": 35,
+      "lat": 15.3589,
+      "lon": -94.6332
+    },
+    {
+      "rank": 15,
       "title": "Fiji region",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sqtk",
       "magnitude": 4.3,
@@ -186,7 +214,7 @@
       "lon": -177.6208
     },
     {
-      "rank": 14,
+      "rank": 16,
       "title": "46 km ESE of Mangili, Philippines",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sqph",
       "magnitude": 4.3,
@@ -200,7 +228,7 @@
       "lon": 126.0568
     },
     {
-      "rank": 15,
+      "rank": 17,
       "title": "south of the Fiji Islands",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sqnx",
       "magnitude": 4.3,
@@ -214,7 +242,7 @@
       "lon": -178.9279
     },
     {
-      "rank": 16,
+      "rank": 18,
       "title": "90 km ESE of La Tirana, Chile",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sqr2",
       "magnitude": 4.1,
@@ -228,7 +256,7 @@
       "lon": -68.8531
     },
     {
-      "rank": 17,
+      "rank": 19,
       "title": "233 km ESE of Attu Station, Alaska",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sqsm",
       "magnitude": 3.7,
@@ -242,21 +270,7 @@
       "lon": 176.3194
     },
     {
-      "rank": 18,
-      "title": "8 km ENE of Marquez, Texas",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026kxpbwz",
-      "magnitude": 3.4,
-      "place": "8 km ENE of Marquez, Texas",
-      "time": 1780573281289,
-      "sig": 181,
-      "felt": 9,
-      "tsunami": false,
-      "depth_km": 8.6,
-      "lat": 31.277,
-      "lon": -96.181
-    },
-    {
-      "rank": 19,
+      "rank": 20,
       "title": "55 km S of Whites City, New Mexico",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026kydxhj",
       "magnitude": 3.3,
@@ -270,7 +284,7 @@
       "lon": -104.377
     },
     {
-      "rank": 20,
+      "rank": 21,
       "title": "173 km E of Atka, Alaska",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026kzqqia",
       "magnitude": 3.3,
@@ -284,7 +298,7 @@
       "lon": -171.667
     },
     {
-      "rank": 21,
+      "rank": 22,
       "title": "15 km WNW of Eureka Roadhouse, Alaska",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026lamrke",
       "magnitude": 3.2,
@@ -298,7 +312,7 @@
       "lon": -147.456
     },
     {
-      "rank": 22,
+      "rank": 23,
       "title": "117 km ESE of Atka, Alaska",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026lamlqp",
       "magnitude": 3.2,
@@ -312,7 +326,7 @@
       "lon": -172.544
     },
     {
-      "rank": 23,
+      "rank": 24,
       "title": "138 km W of Whitehorse, Canada",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sqs1",
       "magnitude": 3.2,
@@ -326,7 +340,7 @@
       "lon": -137.5845
     },
     {
-      "rank": 24,
+      "rank": 25,
       "title": "56 km S of Whites City, New Mexico",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026kyeadx",
       "magnitude": 3.2,
@@ -338,20 +352,6 @@
       "depth_km": 7.6,
       "lat": 31.664,
       "lon": -104.377
-    },
-    {
-      "rank": 25,
-      "title": "17 km WSW of Johannesburg, CA",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41480312",
-      "magnitude": 3.2,
-      "place": "17 km WSW of Johannesburg, CA",
-      "time": 1780599643880,
-      "sig": 156,
-      "felt": 0,
-      "tsunami": false,
-      "depth_km": 7.3,
-      "lat": 35.2988333333333,
-      "lon": -117.8045
     }
   ]
 }

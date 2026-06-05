@@ -1,44 +1,46 @@
 {
   "source": "stackoverflow",
   "label": "Stack Overflow — hot questions",
-  "fetched_at": "2026-06-05T11:06:35.901Z",
+  "fetched_at": "2026-06-05T13:13:43.990Z",
   "items": [
     {
       "rank": 1,
-      "title": "Installation locale independent test of MS Word style with VBA",
-      "url": "https://stackoverflow.com/questions/79951808/installation-locale-independent-test-of-ms-word-style-with-vba",
+      "title": "`uv run` for `node script.js`?",
+      "url": "https://stackoverflow.com/questions/79951862/uv-run-for-node-script-js",
       "score": 0,
-      "answers": 4,
-      "views": 17,
+      "answers": 1,
+      "views": 37,
       "tags": [
-        "vba",
-        "ms-word",
-        "dependencies",
-        "locale"
+        "javascript",
+        "node.js",
+        "node-modules",
+        "dependency-management",
+        "uv"
       ]
     },
     {
       "rank": 2,
-      "title": "Best way to learn Assembly Languge",
-      "url": "https://stackoverflow.com/questions/79951823/best-way-to-learn-assembly-languge",
+      "title": "Does ds.read_file() download the entire file into memory before returning, or does it return a handle that supports lazy row-group-level access",
+      "url": "https://stackoverflow.com/questions/79951855/does-ds-read-file-download-the-entire-file-into-memory-before-returning-or-do",
       "score": 0,
       "answers": 0,
-      "views": 15,
+      "views": 21,
       "tags": [
-        "assembly",
-        "low-level"
+        "amazon-s3",
+        "parquet",
+        "pyarrow"
       ]
     },
     {
       "rank": 3,
-      "title": "Accessing MERRA-2 Data via boto3 with Earthdata AWS Credentials - AccessDenied and 403 Errors",
-      "url": "https://stackoverflow.com/questions/79951814/accessing-merra-2-data-via-boto3-with-earthdata-aws-credentials-accessdenied-a",
+      "title": "How to override quarkus profile when running failsafe integration tests",
+      "url": "https://stackoverflow.com/questions/79951866/how-to-override-quarkus-profile-when-running-failsafe-integration-tests",
       "score": 0,
       "answers": 0,
-      "views": 11,
+      "views": 12,
       "tags": [
-        "amazon-s3",
-        "boto3"
+        "quarkus",
+        "maven-failsafe-plugin"
       ]
     },
     {
@@ -47,62 +49,105 @@
       "url": "https://stackoverflow.com/questions/79948695/how-can-i-avoid-using-llms-as-a-software-developer",
       "score": 101,
       "answers": 150,
-      "views": 7115,
+      "views": 7154,
       "tags": [
         "large-language-model"
       ]
     },
     {
       "rank": 5,
-      "title": "Agents Window WorkTree Option",
-      "url": "https://stackoverflow.com/questions/79951779/agents-window-worktree-option",
-      "score": -3,
-      "answers": 0,
-      "views": 55,
+      "title": "Visual Studio Code - Show buttons of explorer always, not only on hover?",
+      "url": "https://stackoverflow.com/questions/79951834/visual-studio-code-show-buttons-of-explorer-always-not-only-on-hover",
+      "score": 0,
+      "answers": 1,
+      "views": 48,
       "tags": [
         "visual-studio-code"
       ]
     },
     {
       "rank": 6,
+      "title": "Accessing MERRA-2 Data via boto3 with Earthdata AWS Credentials - AccessDenied and 403 Errors",
+      "url": "https://stackoverflow.com/questions/79951814/accessing-merra-2-data-via-boto3-with-earthdata-aws-credentials-accessdenied-a",
+      "score": 0,
+      "answers": 0,
+      "views": 34,
+      "tags": [
+        "amazon-s3",
+        "boto3"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "How can I measure whether React dynamic imports are actually improving application performance?",
+      "url": "https://stackoverflow.com/questions/79951831/how-can-i-measure-whether-react-dynamic-imports-are-actually-improving-applicati",
+      "score": 0,
+      "answers": 1,
+      "views": 31,
+      "tags": [
+        "reactjs",
+        "performance",
+        "webpack",
+        "frontend",
+        "web-frontend"
+      ]
+    },
+    {
+      "rank": 8,
       "title": "How to properly use metaclasses in Python?",
       "url": "https://stackoverflow.com/questions/79951770/how-to-properly-use-metaclasses-in-python",
-      "score": 0,
-      "answers": 3,
-      "views": 53,
+      "score": 1,
+      "answers": 8,
+      "views": 89,
       "tags": [
         "python"
       ]
     },
     {
-      "rank": 7,
-      "title": "Opening Excel File without spreadsheet editors",
-      "url": "https://stackoverflow.com/questions/79951721/opening-excel-file-without-spreadsheet-editors",
-      "score": 1,
-      "answers": 5,
-      "views": 69,
-      "tags": [
-        "excel"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Docker healthcheck failing",
-      "url": "https://stackoverflow.com/questions/79951771/docker-healthcheck-failing",
-      "score": -1,
-      "answers": 0,
-      "views": 44,
-      "tags": [
-        "docker"
-      ]
-    },
-    {
       "rank": 9,
+      "title": "Best way to learn Assembly Languge",
+      "url": "https://stackoverflow.com/questions/79951823/best-way-to-learn-assembly-languge",
+      "score": 0,
+      "answers": 1,
+      "views": 82,
+      "tags": [
+        "assembly",
+        "low-level"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "EXC_BAD_ACCESS crash in _swift_isUniquelyReferenced_nonNull_native via UIScrollView setContentOffset: called from CADisplayLink",
+      "url": "https://stackoverflow.com/questions/79951848/exc-bad-access-crash-in-swift-isuniquelyreferenced-nonnull-native-via-uiscrollv",
+      "score": 1,
+      "answers": 0,
+      "views": 20,
+      "tags": [
+        "objective-c",
+        "uicollectionview",
+        "exc-bad-access",
+        "ios26"
+      ]
+    },
+    {
+      "rank": 11,
+      "title": "AfterPost or AfterDelete",
+      "url": "https://stackoverflow.com/questions/79951852/afterpost-or-afterdelete",
+      "score": 0,
+      "answers": 0,
+      "views": 18,
+      "tags": [
+        "delphi",
+        "firedac"
+      ]
+    },
+    {
+      "rank": 12,
       "title": "Best approach for Docker health checks in .NET containers without curl/wget?",
       "url": "https://stackoverflow.com/questions/79951754/best-approach-for-docker-health-checks-in-net-containers-without-curl-wget",
       "score": 0,
-      "answers": 2,
-      "views": 38,
+      "answers": 3,
+      "views": 49,
       "tags": [
         ".net",
         "docker",
@@ -111,12 +156,84 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 13,
+      "title": "Opening Excel File without spreadsheet editors",
+      "url": "https://stackoverflow.com/questions/79951721/opening-excel-file-without-spreadsheet-editors",
+      "score": 1,
+      "answers": 5,
+      "views": 81,
+      "tags": [
+        "excel"
+      ]
+    },
+    {
+      "rank": 14,
+      "title": "Installation locale independent test of MS Word style with VBA",
+      "url": "https://stackoverflow.com/questions/79951808/installation-locale-independent-test-of-ms-word-style-with-vba",
+      "score": 0,
+      "answers": 4,
+      "views": 35,
+      "tags": [
+        "vba",
+        "ms-word",
+        "dependencies",
+        "locale"
+      ]
+    },
+    {
+      "rank": 15,
+      "title": "Configuring Serilog and ApplicationInsights in AspNetCore application",
+      "url": "https://stackoverflow.com/questions/79951766/configuring-serilog-and-applicationinsights-in-aspnetcore-application",
+      "score": 0,
+      "answers": 0,
+      "views": 29,
+      "tags": [
+        "azure-application-insights",
+        "serilog-aspnetcore"
+      ]
+    },
+    {
+      "rank": 16,
+      "title": "Face_landmarker is open source",
+      "url": "https://stackoverflow.com/questions/79951821/face-landmarker-is-open-source",
+      "score": 0,
+      "answers": 2,
+      "views": 28,
+      "tags": [
+        "mediapipe"
+      ]
+    },
+    {
+      "rank": 17,
+      "title": "Docker healthcheck failing",
+      "url": "https://stackoverflow.com/questions/79951771/docker-healthcheck-failing",
+      "score": -1,
+      "answers": 0,
+      "views": 64,
+      "tags": [
+        "docker"
+      ]
+    },
+    {
+      "rank": 18,
+      "title": "How to make adding text to an entry box trigger a function",
+      "url": "https://stackoverflow.com/questions/79951729/how-to-make-adding-text-to-an-entry-box-trigger-a-function",
+      "score": -2,
+      "answers": 1,
+      "views": 45,
+      "tags": [
+        "python",
+        "tkinter",
+        "tkinter-entry"
+      ]
+    },
+    {
+      "rank": 19,
       "title": "Order of loading classes in PHP",
       "url": "https://stackoverflow.com/questions/79951764/order-of-loading-classes-in-php",
       "score": 2,
       "answers": 3,
-      "views": 27,
+      "views": 44,
       "tags": [
         "php",
         "class",
@@ -125,62 +242,12 @@
       ]
     },
     {
-      "rank": 11,
-      "title": "Array index out of bounds error using Java 17 with valid array index",
-      "url": "https://stackoverflow.com/questions/79951774/array-index-out-of-bounds-error-using-java-17-with-valid-array-index",
-      "score": -5,
-      "answers": 1,
-      "views": 67,
-      "tags": [
-        "java"
-      ]
-    },
-    {
-      "rank": 12,
-      "title": "Setting up Claude API for Smart CodeInsight in RAD Studio 12.3",
-      "url": "https://stackoverflow.com/questions/79951775/setting-up-claude-api-for-smart-codeinsight-in-rad-studio-12-3",
-      "score": 1,
-      "answers": 0,
-      "views": 30,
-      "tags": [
-        "ide",
-        "claude"
-      ]
-    },
-    {
-      "rank": 13,
-      "title": "How to Implement Image Lazy Loading with Intersection Observer in Vanilla JavaScript",
-      "url": "https://stackoverflow.com/questions/79951736/how-to-implement-image-lazy-loading-with-intersection-observer-in-vanilla-javasc",
-      "score": -6,
-      "answers": 0,
-      "views": 58,
-      "tags": [
-        "javascript",
-        "python",
-        "lazy-loading",
-        "web-performance",
-        "react-intersection-observer"
-      ]
-    },
-    {
-      "rank": 14,
-      "title": "Why is this while loop giving me an index error?",
-      "url": "https://stackoverflow.com/questions/79951769/why-is-this-while-loop-giving-me-an-index-error",
-      "score": -4,
-      "answers": 1,
-      "views": 64,
-      "tags": [
-        "python",
-        "pygame"
-      ]
-    },
-    {
-      "rank": 15,
+      "rank": 20,
       "title": "Android Capture Wi-Fi Channel utilization but always return stale/cache value",
       "url": "https://stackoverflow.com/questions/79951720/android-capture-wi-fi-channel-utilization-but-always-return-stale-cache-value",
-      "score": 0,
-      "answers": 0,
-      "views": 38,
+      "score": -1,
+      "answers": 1,
+      "views": 49,
       "tags": [
         "java",
         "android",
@@ -190,138 +257,67 @@
       ]
     },
     {
-      "rank": 16,
-      "title": "How to make adding text to an entry box trigger a function. Python, Tkinter",
-      "url": "https://stackoverflow.com/questions/79951729/how-to-make-adding-text-to-an-entry-box-trigger-a-function-python-tkinter",
-      "score": -2,
-      "answers": 1,
-      "views": 29,
+      "rank": 21,
+      "title": "Setting up Claude API for Smart CodeInsight in RAD Studio 12.3",
+      "url": "https://stackoverflow.com/questions/79951775/setting-up-claude-api-for-smart-codeinsight-in-rad-studio-12-3",
+      "score": 1,
+      "answers": 0,
+      "views": 41,
       "tags": [
-        "python",
-        "tkinter",
-        "tkinter-entry"
+        "ide",
+        "claude"
       ]
     },
     {
-      "rank": 17,
+      "rank": 22,
+      "title": "How to Implement Image Lazy Loading with Intersection Observer in Vanilla JavaScript",
+      "url": "https://stackoverflow.com/questions/79951736/how-to-implement-image-lazy-loading-with-intersection-observer-in-vanilla-javasc",
+      "score": -7,
+      "answers": 0,
+      "views": 72,
+      "tags": [
+        "javascript",
+        "python",
+        "lazy-loading",
+        "web-performance",
+        "react-intersection-observer"
+      ]
+    },
+    {
+      "rank": 23,
+      "title": "Array index out of bounds error using Java 17 with valid array index",
+      "url": "https://stackoverflow.com/questions/79951774/array-index-out-of-bounds-error-using-java-17-with-valid-array-index",
+      "score": -7,
+      "answers": 1,
+      "views": 114,
+      "tags": [
+        "java"
+      ]
+    },
+    {
+      "rank": 24,
+      "title": "Why is this while loop giving me an index error?",
+      "url": "https://stackoverflow.com/questions/79951769/why-is-this-while-loop-giving-me-an-index-error",
+      "score": -5,
+      "answers": 1,
+      "views": 93,
+      "tags": [
+        "python",
+        "pygame"
+      ]
+    },
+    {
+      "rank": 25,
       "title": "CoPilot doesn't execute actions in Agentic mode with local LLM",
       "url": "https://stackoverflow.com/questions/79951761/copilot-doesnt-execute-actions-in-agentic-mode-with-local-llm",
       "score": 0,
       "answers": 0,
-      "views": 23,
+      "views": 33,
       "tags": [
         "visual-studio",
         "visual-studio-code",
         "github-copilot",
         "ollama"
-      ]
-    },
-    {
-      "rank": 18,
-      "title": "CompressPictures doesn't appear on my XML ribbon in PowerPoint anymore",
-      "url": "https://stackoverflow.com/questions/79951767/compresspictures-doesnt-appear-on-my-xml-ribbon-in-powerpoint-anymore",
-      "score": 0,
-      "answers": 0,
-      "views": 19,
-      "tags": [
-        "vba",
-        "xml",
-        "powerpoint",
-        "ribbon"
-      ]
-    },
-    {
-      "rank": 19,
-      "title": "Configuring Serilog and ApplicationInsights in AspNetCore application",
-      "url": "https://stackoverflow.com/questions/79951766/configuring-serilog-and-applicationinsights-in-aspnetcore-application",
-      "score": 0,
-      "answers": 0,
-      "views": 15,
-      "tags": [
-        "azure-application-insights",
-        "serilog-aspnetcore"
-      ]
-    },
-    {
-      "rank": 20,
-      "title": "Best Practices for Testing Aadhaar OTP Verification in Automation Frameworks",
-      "url": "https://stackoverflow.com/questions/79951727/best-practices-for-testing-aadhaar-otp-verification-in-automation-frameworks",
-      "score": 0,
-      "answers": 1,
-      "views": 16,
-      "tags": [
-        "javascript",
-        "automation",
-        "automated-tests",
-        "cucumber",
-        "aadhaar"
-      ]
-    },
-    {
-      "rank": 21,
-      "title": "Some dashboard charts intermittently fall back to color_scheme instead of label_colors on initial render",
-      "url": "https://stackoverflow.com/questions/79951735/some-dashboard-charts-intermittently-fall-back-to-color-scheme-instead-of-label",
-      "score": -4,
-      "answers": 0,
-      "views": 29,
-      "tags": [
-        "apache-superset"
-      ]
-    },
-    {
-      "rank": 22,
-      "title": "tool for generated design Rent Car Website",
-      "url": "https://stackoverflow.com/questions/79951675/tool-for-generated-design-rent-car-website",
-      "score": 1,
-      "answers": 2,
-      "views": 68,
-      "tags": [
-        "php",
-        "wordpress",
-        "wordpress-theming",
-        "ui-design"
-      ]
-    },
-    {
-      "rank": 23,
-      "title": "JMeter Websocket load testing",
-      "url": "https://stackoverflow.com/questions/79951703/jmeter-websocket-load-testing",
-      "score": 0,
-      "answers": 0,
-      "views": 27,
-      "tags": [
-        "testing",
-        "websocket",
-        "jmeter",
-        "load"
-      ]
-    },
-    {
-      "rank": 24,
-      "title": "when runnig flutter code on Android Studio it doesn't run on the adroid emulator instead it runs on external window that pop up",
-      "url": "https://stackoverflow.com/questions/79951731/when-runnig-flutter-code-on-android-studio-it-doesnt-run-on-the-adroid-emulator",
-      "score": 0,
-      "answers": 0,
-      "views": 27,
-      "tags": [
-        "android",
-        "flutter",
-        "android-emulator"
-      ]
-    },
-    {
-      "rank": 25,
-      "title": "Does Windows Hello KeyCredentialManager isolate credentials per app or only per Windows user?",
-      "url": "https://stackoverflow.com/questions/79951733/does-windows-hello-keycredentialmanager-isolate-credentials-per-app-or-only-per",
-      "score": 0,
-      "answers": 0,
-      "views": 27,
-      "tags": [
-        "uwp",
-        "windows-runtime",
-        "c++-winrt",
-        "windows-app-sdk",
-        "windows-hello"
       ]
     }
   ]

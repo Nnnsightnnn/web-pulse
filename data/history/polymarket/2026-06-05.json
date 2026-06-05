@@ -1,15 +1,15 @@
 {
   "source": "polymarket",
   "label": "Polymarket — top 24h volume",
-  "fetched_at": "2026-06-05T11:06:35.664Z",
+  "fetched_at": "2026-06-05T13:13:43.818Z",
   "items": [
     {
       "rank": 1,
       "title": "Will Congo DR win the 2026 FIFA World Cup?",
       "url": "https://polymarket.com/event/world-cup-winner",
-      "volume_24h": 11580956.29,
-      "volume_total": 47592757.61240999,
-      "liquidity": 4324689.36259,
+      "volume_24h": 8690201.549999997,
+      "volume_total": 47603777.61240999,
+      "liquidity": 4318794.90552,
       "yes_price": 0.0005,
       "leader": {
         "name": "No",
@@ -23,15 +23,33 @@
     },
     {
       "rank": 2,
+      "title": "Roland Garros ATP: Jakub Mensik vs Alexander Zverev",
+      "url": "https://polymarket.com/event/atp-mensik-zverev-2026-06-05",
+      "volume_24h": 3134713.1410090057,
+      "volume_total": 3208266.218286998,
+      "liquidity": 89109.5056,
+      "yes_price": 0.235,
+      "leader": {
+        "name": "Alexander Zverev",
+        "price": 0.765
+      },
+      "end_date": "2026-06-12T12:30:00Z",
+      "outcomes": [
+        "Jakub Mensik",
+        "Alexander Zverev"
+      ]
+    },
+    {
+      "rank": 3,
       "title": "Will Hunter Biden win the 2028 Democratic presidential nomination?",
       "url": "https://polymarket.com/event/democratic-presidential-nominee-2028",
-      "volume_24h": 2586594.745498001,
-      "volume_total": 39189852.25918571,
-      "liquidity": 621604.37072,
-      "yes_price": 0.0325,
+      "volume_24h": 2600851.9823020017,
+      "volume_total": 39206387.390987724,
+      "liquidity": 621053.74272,
+      "yes_price": 0.0185,
       "leader": {
         "name": "No",
-        "price": 0.9675
+        "price": 0.9815
       },
       "end_date": "2028-11-07T00:00:00Z",
       "outcomes": [
@@ -40,16 +58,16 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "Israel announces Lebanon ceasefire extension by June 7?",
       "url": "https://polymarket.com/event/israel-announces-lebanon-ceasefire-extension-by",
-      "volume_24h": 2088218.841067027,
-      "volume_total": 3843034.1641957224,
-      "liquidity": 724586.32872,
-      "yes_price": 0.9985,
+      "volume_24h": 2372724.86604203,
+      "volume_total": 4284694.354003717,
+      "liquidity": 619831.93912,
+      "yes_price": 0.998,
       "leader": {
         "name": "Yes",
-        "price": 0.9985
+        "price": 0.998
       },
       "end_date": "2026-06-07T00:00:00Z",
       "outcomes": [
@@ -58,12 +76,12 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "Knicks vs. Spurs",
       "url": "https://polymarket.com/event/nba-nyk-sas-2026-06-05",
-      "volume_24h": 1893901.7113679976,
-      "volume_total": 2947567.451472993,
-      "liquidity": 3822448.5655,
+      "volume_24h": 1707487.585066995,
+      "volume_total": 3016543.997183988,
+      "liquidity": 4123040.2911,
       "yes_price": 0.335,
       "leader": {
         "name": "Spurs",
@@ -76,16 +94,16 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "US x Iran permanent peace deal by June 7, 2026?",
       "url": "https://polymarket.com/event/us-x-iran-permanent-peace-deal-by",
-      "volume_24h": 1336151.5076230012,
-      "volume_total": 14616016.54035108,
-      "liquidity": 495906.70495,
-      "yes_price": 0.025,
+      "volume_24h": 1260618.6265220013,
+      "volume_total": 14657722.397069074,
+      "liquidity": 405398.80872,
+      "yes_price": 0.0245,
       "leader": {
         "name": "No",
-        "price": 0.975
+        "price": 0.9755
       },
       "end_date": "2026-06-07T00:00:00Z",
       "outcomes": [
@@ -94,48 +112,12 @@
       ]
     },
     {
-      "rank": 6,
-      "title": "Dota 2: Team Falcons vs BetBoom Team - Game 1 Winner",
-      "url": "https://polymarket.com/event/dota2-flc-bb4-2026-06-05",
-      "volume_24h": 1303253.476566,
-      "volume_total": 1303253.4765659973,
-      "liquidity": 215898.17291,
-      "yes_price": 0.0005,
-      "leader": {
-        "name": "BetBoom Team",
-        "price": 0.9995
-      },
-      "end_date": "2026-06-05T13:00:00Z",
-      "outcomes": [
-        "Team Falcons",
-        "BetBoom Team"
-      ]
-    },
-    {
       "rank": 7,
-      "title": "Will Carlos Álvarez win the 2026 Peruvian presidential election?",
-      "url": "https://polymarket.com/event/peru-presidential-election-winner",
-      "volume_24h": 750798.37,
-      "volume_total": 6520586.921722,
-      "liquidity": 170516.0036,
-      "yes_price": 0.0005,
-      "leader": {
-        "name": "No",
-        "price": 0.9995
-      },
-      "end_date": "2026-04-12T00:00:00Z",
-      "outcomes": [
-        "Yes",
-        "No"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "LoL: Anyone's Legend vs LGD Gaming - Game 2 Winner",
+      "title": "LoL: Anyone's Legend vs LGD Gaming (BO5) - LPL Playoffs",
       "url": "https://polymarket.com/event/lol-al-lgd-2026-06-05",
-      "volume_24h": 736379.4691399995,
-      "volume_total": 736532.5285739992,
-      "liquidity": 869546.54091,
+      "volume_24h": 1095564.8741729993,
+      "volume_total": 1231243.4601259993,
+      "liquidity": 942413.87654,
       "yes_price": 0.9995,
       "leader": {
         "name": "Anyone's Legend",
@@ -148,30 +130,66 @@
       ]
     },
     {
-      "rank": 9,
-      "title": "Roland Garros ATP: Jakub Mensik vs Alexander Zverev",
-      "url": "https://polymarket.com/event/atp-mensik-zverev-2026-06-05",
-      "volume_24h": 583549.4741739997,
-      "volume_total": 655677.9402779995,
-      "liquidity": 421248.6355,
-      "yes_price": 0.255,
+      "rank": 8,
+      "title": "Dota 2: LGD Gaming vs Team Liquid - Game 1 Winner",
+      "url": "https://polymarket.com/event/dota2-lgd-liquid-2026-06-05",
+      "volume_24h": 1090211.8552450004,
+      "volume_total": 1090211.8552449995,
+      "liquidity": 374113.10776,
+      "yes_price": 0.9995,
       "leader": {
-        "name": "Alexander Zverev",
-        "price": 0.745
+        "name": "LGD Gaming",
+        "price": 0.9995
       },
-      "end_date": "2026-06-12T12:30:00Z",
+      "end_date": "2026-06-05T18:00:00Z",
       "outcomes": [
-        "Jakub Mensik",
-        "Alexander Zverev"
+        "LGD Gaming",
+        "Team Liquid"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Will Carlos Álvarez win the 2026 Peruvian presidential election?",
+      "url": "https://polymarket.com/event/peru-presidential-election-winner",
+      "volume_24h": 866928.37,
+      "volume_total": 6663616.921722,
+      "liquidity": 48831.92754,
+      "yes_price": 0.0005,
+      "leader": {
+        "name": "No",
+        "price": 0.9995
+      },
+      "end_date": "2026-04-12T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
       ]
     },
     {
       "rank": 10,
+      "title": "Dota 2: Team Falcons vs BetBoom Team - Game 2 Winner",
+      "url": "https://polymarket.com/event/dota2-flc-bb4-2026-06-05",
+      "volume_24h": 641645.2981439995,
+      "volume_total": 641645.2981439991,
+      "liquidity": 259499.34334,
+      "yes_price": 0.0005,
+      "leader": {
+        "name": "BetBoom Team",
+        "price": 0.9995
+      },
+      "end_date": "2026-06-05T13:00:00Z",
+      "outcomes": [
+        "Team Falcons",
+        "BetBoom Team"
+      ]
+    },
+    {
+      "rank": 11,
       "title": "Will the Iranian regime fall by June 30?",
       "url": "https://polymarket.com/event/will-the-iranian-regime-fall-by-june-30",
-      "volume_24h": 581122.8765250015,
-      "volume_total": 48538177.49685417,
-      "liquidity": 779966.27494,
+      "volume_24h": 546786.1128270006,
+      "volume_total": 48543996.191096194,
+      "liquidity": 588058.77375,
       "yes_price": 0.0225,
       "leader": {
         "name": "No",
@@ -184,21 +202,39 @@
       ]
     },
     {
-      "rank": 11,
+      "rank": 12,
       "title": "Will the price of Bitcoin be above $68,000 on June 5?",
       "url": "https://polymarket.com/event/bitcoin-above-on-june-5-2026",
-      "volume_24h": 481368.35040000005,
-      "volume_total": 594039.6515879995,
-      "liquidity": 87214.75148,
-      "yes_price": 0.0015,
+      "volume_24h": 544675.187073,
+      "volume_total": 664786.71041,
+      "liquidity": 77923.5146,
+      "yes_price": 0.0005,
       "leader": {
         "name": "No",
-        "price": 0.9985
+        "price": 0.9995
       },
       "end_date": "2026-06-05T16:00:00Z",
       "outcomes": [
         "Yes",
         "No"
+      ]
+    },
+    {
+      "rank": 13,
+      "title": "Counter-Strike: TYLOO vs Lynn Vision (BO3) - IEM Cologne Major Stage 1",
+      "url": "https://polymarket.com/event/cs2-tyloo-lvg-2026-06-05",
+      "volume_24h": 521879.2147579998,
+      "volume_total": 521879.21475800016,
+      "liquidity": 42798.4867,
+      "yes_price": 0.885,
+      "leader": {
+        "name": "TYLOO",
+        "price": 0.885
+      },
+      "end_date": "2026-06-05T18:00:00Z",
+      "outcomes": [
+        "TYLOO",
+        "Lynn Vision"
       ]
     }
   ]

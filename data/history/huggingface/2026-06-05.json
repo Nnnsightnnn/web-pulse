@@ -1,7 +1,7 @@
 {
   "source": "huggingface",
   "label": "Hugging Face — trending models",
-  "fetched_at": "2026-06-05T11:06:35.578Z",
+  "fetched_at": "2026-06-05T13:13:43.678Z",
   "items": [
     {
       "rank": 1,
@@ -9,8 +9,8 @@
       "url": "https://huggingface.co/nvidia/LocateAnything-3B",
       "author": "nvidia",
       "downloads": 101823,
-      "likes": 1330,
-      "trending_score": 975,
+      "likes": 1335,
+      "trending_score": 960,
       "pipeline_tag": "image-text-to-text",
       "last_modified": "2026-05-27T08:30:54.000Z"
     },
@@ -20,8 +20,8 @@
       "url": "https://huggingface.co/google/gemma-4-12B-it",
       "author": "google",
       "downloads": 142851,
-      "likes": 483,
-      "trending_score": 467,
+      "likes": 498,
+      "trending_score": 477,
       "pipeline_tag": "any-to-any",
       "last_modified": "2026-06-04T11:58:10.000Z"
     },
@@ -31,8 +31,8 @@
       "url": "https://huggingface.co/LiquidAI/LFM2.5-8B-A1B",
       "author": "LiquidAI",
       "downloads": 82709,
-      "likes": 519,
-      "trending_score": 354,
+      "likes": 520,
+      "trending_score": 344,
       "pipeline_tag": "text-generation",
       "last_modified": "2026-06-04T08:58:49.000Z"
     },
@@ -43,7 +43,7 @@
       "author": "HauhauCS",
       "downloads": 2687304,
       "likes": 1436,
-      "trending_score": 333,
+      "trending_score": 332,
       "pipeline_tag": "image-text-to-text",
       "last_modified": "2026-04-17T02:59:21.000Z"
     },
@@ -53,8 +53,8 @@
       "url": "https://huggingface.co/unsloth/gemma-4-12b-it-GGUF",
       "author": "unsloth",
       "downloads": 296410,
-      "likes": 341,
-      "trending_score": 327,
+      "likes": 343,
+      "trending_score": 329,
       "pipeline_tag": "image-text-to-text",
       "last_modified": "2026-06-05T08:58:16.000Z"
     },
@@ -64,8 +64,8 @@
       "url": "https://huggingface.co/google/gemma-4-12B",
       "author": "google",
       "downloads": 53525,
-      "likes": 300,
-      "trending_score": 289,
+      "likes": 306,
+      "trending_score": 295,
       "pipeline_tag": "any-to-any",
       "last_modified": "2026-06-04T11:58:12.000Z"
     },
@@ -75,32 +75,32 @@
       "url": "https://huggingface.co/sapientinc/HRM-Text-1B",
       "author": "sapientinc",
       "downloads": 159014,
-      "likes": 666,
-      "trending_score": 264,
+      "likes": 678,
+      "trending_score": 275,
       "pipeline_tag": "text-generation",
       "last_modified": "2026-05-21T05:57:38.000Z"
     },
     {
       "rank": 8,
-      "title": "stepfun-ai/Step-3.7-Flash",
-      "url": "https://huggingface.co/stepfun-ai/Step-3.7-Flash",
-      "author": "stepfun-ai",
-      "downloads": 27948,
-      "likes": 324,
-      "trending_score": 244,
-      "pipeline_tag": "image-text-to-text",
-      "last_modified": "2026-06-03T04:11:57.000Z"
-    },
-    {
-      "rank": 9,
       "title": "ideogram-ai/ideogram-4-fp8",
       "url": "https://huggingface.co/ideogram-ai/ideogram-4-fp8",
       "author": "ideogram-ai",
       "downloads": 1246,
-      "likes": 242,
-      "trending_score": 234,
+      "likes": 250,
+      "trending_score": 240,
       "pipeline_tag": "text-to-image",
       "last_modified": "2026-06-03T18:34:44.000Z"
+    },
+    {
+      "rank": 9,
+      "title": "stepfun-ai/Step-3.7-Flash",
+      "url": "https://huggingface.co/stepfun-ai/Step-3.7-Flash",
+      "author": "stepfun-ai",
+      "downloads": 27948,
+      "likes": 326,
+      "trending_score": 235,
+      "pipeline_tag": "image-text-to-text",
+      "last_modified": "2026-06-03T04:11:57.000Z"
     },
     {
       "rank": 10,
@@ -109,7 +109,7 @@
       "author": "openbmb",
       "downloads": 91235,
       "likes": 770,
-      "trending_score": 213,
+      "trending_score": 210,
       "pipeline_tag": "text-generation",
       "last_modified": "2026-05-26T04:24:04.000Z"
     },
@@ -119,8 +119,8 @@
       "url": "https://huggingface.co/JetBrains/Mellum2-12B-A2.5B-Thinking",
       "author": "JetBrains",
       "downloads": 14709,
-      "likes": 211,
-      "trending_score": 206,
+      "likes": 213,
+      "trending_score": 208,
       "pipeline_tag": "text-generation",
       "last_modified": "2026-06-01T15:40:37.000Z"
     },
@@ -130,8 +130,8 @@
       "url": "https://huggingface.co/nvidia/Qwen3.6-35B-A3B-NVFP4",
       "author": "nvidia",
       "downloads": 822125,
-      "likes": 182,
-      "trending_score": 174,
+      "likes": 183,
+      "trending_score": 175,
       "pipeline_tag": "text-generation",
       "last_modified": "2026-05-29T19:10:41.000Z"
     },
@@ -141,8 +141,8 @@
       "url": "https://huggingface.co/ideogram-ai/ideogram-4-nf4",
       "author": "ideogram-ai",
       "downloads": 1594,
-      "likes": 180,
-      "trending_score": 172,
+      "likes": 182,
+      "trending_score": 174,
       "pipeline_tag": "text-to-image",
       "last_modified": "2026-06-04T18:59:26.000Z"
     },
@@ -152,8 +152,8 @@
       "url": "https://huggingface.co/nvidia/Cosmos3-Nano",
       "author": "nvidia",
       "downloads": 21625,
-      "likes": 172,
-      "trending_score": 166,
+      "likes": 174,
+      "trending_score": 168,
       "pipeline_tag": null,
       "last_modified": "2026-06-01T04:43:55.000Z"
     },
@@ -163,7 +163,7 @@
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro",
       "author": "deepseek-ai",
       "downloads": 5562821,
-      "likes": 4646,
+      "likes": 4650,
       "trending_score": 164,
       "pipeline_tag": "text-generation",
       "last_modified": "2026-05-06T04:18:44.000Z"
@@ -174,8 +174,8 @@
       "url": "https://huggingface.co/PaddlePaddle/PaddleOCR-VL-1.6",
       "author": "PaddlePaddle",
       "downloads": 6881,
-      "likes": 237,
-      "trending_score": 146,
+      "likes": 238,
+      "trending_score": 141,
       "pipeline_tag": "image-text-to-text",
       "last_modified": "2026-06-05T09:26:03.000Z"
     },
@@ -192,47 +192,47 @@
     },
     {
       "rank": 18,
+      "title": "ByteDance/Bernini-R",
+      "url": "https://huggingface.co/ByteDance/Bernini-R",
+      "author": "ByteDance",
+      "downloads": 175,
+      "likes": 137,
+      "trending_score": 135,
+      "pipeline_tag": "image-text-to-video",
+      "last_modified": "2026-06-02T09:04:50.000Z"
+    },
+    {
+      "rank": 19,
       "title": "nvidia/PiD",
       "url": "https://huggingface.co/nvidia/PiD",
       "author": "nvidia",
       "downloads": 901,
-      "likes": 307,
+      "likes": 309,
       "trending_score": 134,
       "pipeline_tag": "image-to-image",
       "last_modified": "2026-06-02T13:51:53.000Z"
     },
     {
-      "rank": 19,
-      "title": "ByteDance/Bernini-R",
-      "url": "https://huggingface.co/ByteDance/Bernini-R",
-      "author": "ByteDance",
-      "downloads": 175,
-      "likes": 133,
-      "trending_score": 131,
-      "pipeline_tag": "image-text-to-video",
-      "last_modified": "2026-06-02T09:04:50.000Z"
+      "rank": 20,
+      "title": "nvidia/nemotron-3.5-asr-streaming-0.6b",
+      "url": "https://huggingface.co/nvidia/nemotron-3.5-asr-streaming-0.6b",
+      "author": "nvidia",
+      "downloads": 597,
+      "likes": 163,
+      "trending_score": 133,
+      "pipeline_tag": "automatic-speech-recognition",
+      "last_modified": "2026-06-04T14:11:00.000Z"
     },
     {
-      "rank": 20,
+      "rank": 21,
       "title": "meituan-longcat/LongCat-Video-Avatar-1.5",
       "url": "https://huggingface.co/meituan-longcat/LongCat-Video-Avatar-1.5",
       "author": "meituan-longcat",
       "downloads": 1675,
       "likes": 518,
-      "trending_score": 129,
+      "trending_score": 128,
       "pipeline_tag": null,
       "last_modified": "2026-06-04T12:38:34.000Z"
-    },
-    {
-      "rank": 21,
-      "title": "nvidia/nemotron-3.5-asr-streaming-0.6b",
-      "url": "https://huggingface.co/nvidia/nemotron-3.5-asr-streaming-0.6b",
-      "author": "nvidia",
-      "downloads": 597,
-      "likes": 154,
-      "trending_score": 124,
-      "pipeline_tag": "automatic-speech-recognition",
-      "last_modified": "2026-06-04T14:11:00.000Z"
     },
     {
       "rank": 22,
@@ -240,7 +240,7 @@
       "url": "https://huggingface.co/SulphurAI/Sulphur-2-base",
       "author": "SulphurAI",
       "downloads": 1691633,
-      "likes": 1557,
+      "likes": 1560,
       "trending_score": 112,
       "pipeline_tag": "text-to-video",
       "last_modified": "2026-06-04T16:15:44.000Z"
@@ -251,8 +251,8 @@
       "url": "https://huggingface.co/nvidia/Cosmos3-Super-Text2Image",
       "author": "nvidia",
       "downloads": 1194,
-      "likes": 114,
-      "trending_score": 111,
+      "likes": 115,
+      "trending_score": 112,
       "pipeline_tag": "text-to-image",
       "last_modified": "2026-06-01T04:43:55.000Z"
     },
@@ -273,8 +273,8 @@
       "url": "https://huggingface.co/nvidia/Cosmos3-Super-Image2Video",
       "author": "nvidia",
       "downloads": 1076,
-      "likes": 103,
-      "trending_score": 103,
+      "likes": 106,
+      "trending_score": 106,
       "pipeline_tag": "image-to-video",
       "last_modified": "2026-06-01T04:43:55.000Z"
     }

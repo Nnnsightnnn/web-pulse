@@ -1,7 +1,7 @@
 {
   "source": "google-trends",
   "label": "Google Trends — trending searches",
-  "fetched_at": "2026-06-05T11:06:35.966Z",
+  "fetched_at": "2026-06-05T13:13:44.102Z",
   "countries": [
     "US",
     "GB",
@@ -13,278 +13,287 @@
   "items": [
     {
       "rank": 1,
-      "title": "zé felipe",
+      "title": "alexander zverev",
       "geos": [
-        "BR"
+        "BR",
+        "DE",
+        "GB",
+        "IN",
+        "US"
       ],
-      "traffic_estimate": 5000,
-      "news_title": "Virginia Fonseca é investigada pela PF após receber R$ 21 milhões em 44 transações via PIX: entenda",
-      "news_url": "https://extra.globo.com/famosos/noticia/2026/06/virginia-fonseca-e-investigada-pela-pf-apos-receber-r-21-milhoes-em-44-transacoes-via-pix-entenda.ghtml",
-      "news_source": "Extra online"
+      "traffic_estimate": 30000,
+      "news_title": "French Open: Zverev faces Mensik in first semi-final - listen & follow",
+      "news_url": "https://www.bbc.com/sport/tennis/live/c0q21kg8ydet",
+      "news_source": "BBC"
     },
     {
       "rank": 2,
-      "title": "primeiro comando da capital",
+      "title": "indio solari",
       "geos": [
-        "BR"
+        "BR",
+        "DE",
+        "GB",
+        "US"
       ],
-      "traffic_estimate": 5000,
-      "news_title": "PCC e CV designados terroristas: os efeitos no México, Colômbia e Venezuela após governo Trump fazer isso com facções locais",
-      "news_url": "https://www.bbc.com/portuguese/articles/cjdpdlzlevyo",
-      "news_source": "BBC"
+      "traffic_estimate": 1900,
+      "news_title": "Murió el Indio Solari",
+      "news_url": "https://www.pagina12.com.ar/2026/06/05/murio-el-indio-solari/",
+      "news_source": "Página|12"
     },
     {
       "rank": 3,
-      "title": "almunthir daqamah",
+      "title": "forex factory",
       "geos": [
-        "GB"
+        "GB",
+        "IN"
       ],
-      "traffic_estimate": 2000,
-      "news_title": "Man charged after University of Surrey crossbow attack",
-      "news_url": "https://www.bbc.co.uk/news/articles/cvgzg417yxno",
-      "news_source": "BBC"
+      "traffic_estimate": 5200,
+      "news_title": "Iran-US war latest: Trump warns US doesn’t need a deal with Tehran to get enriched uranium",
+      "news_url": "https://www.independent.co.uk/news/world/middle-east/iran-us-war-live-trump-ceasefire-oman-israel-lebanon-b2990163.html",
+      "news_source": "The Independent"
     },
     {
       "rank": 4,
-      "title": "kanya king",
+      "title": "andy robertson",
       "geos": [
-        "GB"
+        "GB",
+        "US"
       ],
-      "traffic_estimate": 2000,
-      "news_title": "Mobo Awards founder Kanya King dies at 57",
-      "news_url": "https://www.bbc.co.uk/news/articles/cy89qg3n7vvo",
-      "news_source": "BBC"
+      "traffic_estimate": 2500,
+      "news_title": "Andy Robertson joins Tottenham on free transfer after leaving Liverpool",
+      "news_url": "https://www.espn.com/soccer/story/_/id/48908484/andy-robertson-tottenham-free-transfer-liverpool",
+      "news_source": "ESPN"
     },
     {
       "rank": 5,
-      "title": "epfo fy 2025-26 interest",
-      "geos": [
-        "IN"
-      ],
-      "traffic_estimate": 2000,
-      "news_title": "EPF interest credit delay continues despite 8.25% rate approval",
-      "news_url": "https://www.msn.com/en-in/news/insight/epf-interest-credit-delay-continues-despite-8-25-rate-approval/gm-GME4FD1E37?gemSnapshotKey=GME4FD1E37-snapshot-5&amp;uxmode=ruby",
-      "news_source": "MSN"
-    },
-    {
-      "rank": 6,
-      "title": "イコラブ",
-      "geos": [
-        "JP"
-      ],
-      "traffic_estimate": 2000,
-      "news_title": "",
-      "news_url": "",
-      "news_source": ""
-    },
-    {
-      "rank": 7,
-      "title": "justiça",
-      "geos": [
-        "BR"
-      ],
-      "traffic_estimate": 2000,
-      "news_title": "Por que a juíza concedeu o perdão judicial a Monique Medeiros, mãe de Henry?",
-      "news_url": "https://oglobo.globo.com/rio/noticia/2026/06/05/por-que-a-juiza-concedeu-o-perdao-judicial-a-monique-medeiros-mae-de-henry.ghtml",
-      "news_source": "O GLOBO"
-    },
-    {
-      "rank": 8,
-      "title": "marc-andré ter stegen",
+      "title": "konstanza",
       "geos": [
         "DE"
       ],
-      "traffic_estimate": 2000,
-      "news_title": "Ter Stegen vor spektakulärem Wechsel zu viermaligem Champions-League-Sieger",
-      "news_url": "https://www.fussballdaten.de/news/ter-stegen-spektakulaerem-wechsel-viermaligem-champions-league-sieger/",
-      "news_source": "fussballdaten.de"
-    },
-    {
-      "rank": 9,
-      "title": "xrp",
-      "geos": [
-        "DE"
-      ],
-      "traffic_estimate": 2000,
-      "news_title": "XRP Prognose: Crash unter 1 Dollar?",
-      "news_url": "https://de.finance.yahoo.com/nachrichten/xrp-prognose-crash-1-dollar-160940557.html",
-      "news_source": "Yahoo! Finanzen Deutschland"
-    },
-    {
-      "rank": 10,
-      "title": "daniel boschmann",
-      "geos": [
-        "DE"
-      ],
-      "traffic_estimate": 2000,
-      "news_title": "Wie geht es weiter? Daniel Boschmann macht Ansage über seine „Frühstücksfernsehen“-Zukunft",
-      "news_url": "https://www.joyn.de/bts/serien/sat1-fruehstuecksfernsehen/abschied-oder-verlaengerung-fruehstuecksfernsehen-star-daniel-boschmann-erzaehlt-ueber-seine-zukunft-133089",
-      "news_source": "Joyn"
-    },
-    {
-      "rank": 11,
-      "title": "zverev halbfinale",
-      "geos": [
-        "DE"
-      ],
-      "traffic_estimate": 2000,
-      "news_title": "Halbfinale bei French Open: Zverev kämpft gegen den \"Ice-Man\" um \"goldene Chance\"",
-      "news_url": "https://www.n-tv.de/sport/Tennis/Zverev-kaempft-gegen-den-Ice-Man-um-goldene-Chance-id30893829.html",
+      "traffic_estimate": 20000,
+      "news_title": "Seedrohne explodiert in rumänischem Schwarzmeerhafen",
+      "news_url": "https://www.n-tv.de/politik/Ukrainische-Seedrohne-explodiert-in-rumaenischem-Schwarzmeerhafen-id30895885.html",
       "news_source": "Ntv"
     },
     {
-      "rank": 12,
-      "title": "turks and caicos",
+      "rank": 6,
+      "title": "quem ama cuida",
       "geos": [
-        "US"
+        "BR"
       ],
-      "traffic_estimate": 1000,
-      "news_title": "Overcrowded migrant vessel with 240 people on board intercepted near Turks and Caicos",
-      "news_url": "https://www.foxnews.com/us/overcrowded-migrant-vessel-240-people-board-intercepted-near-turks-caicos",
-      "news_source": "Fox News"
+      "traffic_estimate": 10000,
+      "news_title": "Quem Ama Cuida: Fábia descobre prova que pode ligar Ulisses à morte de Arthur",
+      "news_url": "https://gshow.globo.com/novelas/quem-ama-cuida/vem-por-ai/noticia/quem-ama-cuida-fabia-descobre-prova-que-pode-ligar-ulisses-a-morte-de-arthur.ghtml",
+      "news_source": "Gshow"
     },
     {
-      "rank": 13,
-      "title": "इंगलैंड बनाम न्यूजीलैंड",
-      "geos": [
-        "IN"
-      ],
-      "traffic_estimate": 1000,
-      "news_title": "",
-      "news_url": "",
-      "news_source": ""
-    },
-    {
-      "rank": 14,
-      "title": "ఇజ్రాయిల్",
+      "rank": 7,
+      "title": "జ్యోతిషం",
       "geos": [
         "IN"
       ],
-      "traffic_estimate": 1000,
-      "news_title": "",
-      "news_url": "",
-      "news_source": ""
+      "traffic_estimate": 2000,
+      "news_title": "కుంభరాశిలోకి రాహువు.. 3 రాశుల తలరాత మారిపోతోంది",
+      "news_url": "https://telugu.oneindia.com/jyotishyam/feature/horoscope-rahu-enters-aquarius-the-fortunes-of-three-zodiac-signs-are-set-to-change-490447.html",
+      "news_source": "Oneindia Telugu"
     },
     {
-      "rank": 15,
-      "title": "sk55",
-      "geos": [
-        "IN"
-      ],
-      "traffic_estimate": 1000,
-      "news_title": "Kerala Lottery Suvarna Keralam SK-55 result out today (05-06-2026); check Rs 1 crore prize winning number",
-      "news_url": "https://m.economictimes.com/news/new-updates/kerala-lottery-suvarna-keralam-sk-55-result-out-today-05-06-2026-check-rs-1-crore-prize-winning-number-and-full-list-here/articleshow/131526928.cms",
-      "news_source": "The Economic Times"
-    },
-    {
-      "rank": 16,
-      "title": "denial of conjugal rights",
-      "geos": [
-        "IN"
-      ],
-      "traffic_estimate": 1000,
-      "news_title": "Persistent Refusal of Sexual Relations Without Reason Is Mental Cruelty, Ground for Divorce: Supreme...",
-      "news_url": "https://lawbeat.in/supreme-court-judgments/persistent-refusal-of-sexual-relations-without-reason-is-mental-cruelty-ground-for-divorce-supreme-court-1598963",
-      "news_source": "LawBeat"
-    },
-    {
-      "rank": 17,
-      "title": "ラウール",
+      "rank": 8,
+      "title": "カムリ",
       "geos": [
         "JP"
       ],
-      "traffic_estimate": 1000,
-      "news_title": "Snow Man向井康二＆ラウール『それスノ』版「未成年の主張」で生徒と大盛り上がり！阿部亮平はROLANDとGoogleに潜入",
-      "news_url": "https://news.yahoo.co.jp/articles/91dbd60203979ce5cdd174984b34c26a29584399",
+      "traffic_estimate": 2000,
+      "news_title": "トヨタ、米国「逆輸入」のカムリを秋頃に発売へ…豊田章男会長らが改造を施す「カスタム対決」も（読売新聞オンライン）",
+      "news_url": "https://news.yahoo.co.jp/articles/2a5d9445ae8343722f3f622fddfb1fafc2ee463a",
       "news_source": "Yahoo!ニュース"
     },
     {
-      "rank": 18,
+      "rank": 9,
+      "title": "カープ",
+      "geos": [
+        "JP"
+      ],
+      "traffic_estimate": 2000,
+      "news_title": "【独自】「プロ野球選手を40人抱えている」と豪語…ゾンビたばこ密売の38歳容疑者、実母が明かす「米国挑戦」と「タバコ嫌い」",
+      "news_url": "https://news.yahoo.co.jp/articles/3b53b89b250db1646e074b024573dfe6566e420f",
+      "news_source": "Yahoo!ニュース"
+    },
+    {
+      "rank": 10,
       "title": "roland garros junior",
       "geos": [
         "BR"
       ],
-      "traffic_estimate": 1000,
-      "news_title": "Leonardo Storck e Guto Miguel fazem semifinal brasileira em Roland Garros juvenil",
-      "news_url": "https://ge.globo.com/mt/noticia/2026/06/04/leonardo-storck-e-guto-miguel-fazem-semifinal-brasileira-em-roland-garros-juvenil.ghtml",
-      "news_source": "ge"
+      "traffic_estimate": 2000,
+      "news_title": "Gutão se recompõe, vence Storck e é o Brasil na final do Roland Garros Jr",
+      "news_url": "https://www.uol.com.br/esporte/ultimas-noticias/2026/06/05/gutao-se-recompoe-vence-storck-e-e-o-brasil-na-final-do-roland-garros-jr.ghtm",
+      "news_source": "UOL"
     },
     {
-      "rank": 19,
-      "title": "inmet",
+      "rank": 11,
+      "title": "redistricting",
+      "geos": [
+        "US"
+      ],
+      "traffic_estimate": 1000,
+      "news_title": "Where the redistricting fight stands heading into the midterms",
+      "news_url": "https://www.nbcnews.com/politics/2026-election/house-redistricting-gop-democrats-2026-midterm-elections-rcna348110",
+      "news_source": "NBC News"
+    },
+    {
+      "rank": 12,
+      "title": "heidi klum",
+      "geos": [
+        "US"
+      ],
+      "traffic_estimate": 1000,
+      "news_title": "Heidi Klum Says Becoming a UNICEF Ambassador Feels ‘Incredibly Personal’ After Years of Advocacy (Exclusive)",
+      "news_url": "https://people.com/heidi-klum-named-new-unicef-amassador-exclusive-interview-11989293",
+      "news_source": "People.com"
+    },
+    {
+      "rank": 13,
+      "title": "may jobs report",
+      "geos": [
+        "US"
+      ],
+      "traffic_estimate": 1000,
+      "news_title": "U.S. payrolls rose by 172,000 in May, much more than expected; unemployment at 4.3%",
+      "news_url": "https://www.cnbc.com/2026/06/05/jobs-report-may-2026.html",
+      "news_source": "CNBC"
+    },
+    {
+      "rank": 14,
+      "title": "भूमि",
+      "geos": [
+        "IN"
+      ],
+      "traffic_estimate": 1000,
+      "news_title": "बनमा ईटहरी में विशेष भूमि सर्वेक्षण तेज: किसान पुराने कागजात ढूंढने में जुटे, अमीन कर रहे सत्यापन",
+      "news_url": "https://www.bhaskar.com/local/bihar/saharsa/banmaitahri/news/banma-itahri-land-survey-farmers-identification-demarcation-138105555.html",
+      "news_source": "Dainik Bhaskar"
+    },
+    {
+      "rank": 15,
+      "title": "ダブル インパクト 準決勝",
+      "geos": [
+        "JP"
+      ],
+      "traffic_estimate": 1000,
+      "news_title": "「ダブルインパクト」準決勝に25組進出 ザ・プラン9、ドンデコルテ、今夜も星が綺麗ら（お笑いナタリー）",
+      "news_url": "https://news.yahoo.co.jp/articles/1774c6ef521ee293f7c588dd9be425eb58f1ea48",
+      "news_source": "Yahoo!ニュース"
+    },
+    {
+      "rank": 16,
+      "title": "ヤクルトスワローズ",
+      "geos": [
+        "JP"
+      ],
+      "traffic_estimate": 1000,
+      "news_title": "楽天イーグルス 古謝の好投と中島の決勝打でＤｅＮＡに連勝 ３日（khb東日本放送）",
+      "news_url": "https://news.yahoo.co.jp/articles/d39a322a626abd825f2ffc7f67fff89100e8f699",
+      "news_source": "Yahoo!ニュース"
+    },
+    {
+      "rank": 17,
+      "title": "agressão",
       "geos": [
         "BR"
       ],
       "traffic_estimate": 1000,
-      "news_title": "Vinte cidades do Sul do Piauí têm alerta de queda de temperatura de até 5 °C; veja cuidados",
-      "news_url": "https://g1.globo.com/pi/piaui/noticia/2026/06/04/alerta-queda-temperatura.ghtml",
-      "news_source": "G1"
+      "news_title": "Adolescente esfaqueia padrasto para defender a mãe em MS",
+      "news_url": "https://www.campograndenews.com.br/cidades/capital/adolescente-esfaqueia-padrasto-para-defender-a-mae-durante-agressao",
+      "news_source": "Campo Grande News"
+    },
+    {
+      "rank": 18,
+      "title": "5 dia util de junho 2026",
+      "geos": [
+        "BR"
+      ],
+      "traffic_estimate": 1000,
+      "news_title": "Corpus Christi altera horário de serviços em São Paulo; saiba o que abre e o que fecha",
+      "news_url": "https://www1.folha.uol.com.br/cotidiano/2026/06/corpus-christi-altera-horario-de-servicos-em-sao-paulo-saiba-o-que-abre-e-o-que-fecha.shtml",
+      "news_source": "Folha de S.Paulo"
+    },
+    {
+      "rank": 19,
+      "title": "unfall a7",
+      "geos": [
+        "DE"
+      ],
+      "traffic_estimate": 1000,
+      "news_title": "A7 nach Lkw-Unfall gesperrt - mehr als zehn Kilometer Stau in Richtung Hamburg",
+      "news_url": "https://www.ndr.de/nachrichten/niedersachsen/lueneburg_heide_unterelbe/a7-am-walsroder-dreieck-gesperrt-bergung-von-lkw-dauert-an,asieben-158.html",
+      "news_source": "NDR.de"
     },
     {
       "rank": 20,
-      "title": "rheinmetall",
+      "title": "erika eleniak",
       "geos": [
         "DE"
       ],
       "traffic_estimate": 1000,
-      "news_title": "Rheinmetall-Aktie: Zweiter Tag in Folge Gewinne",
-      "news_url": "https://www.welt.de/finanzen/boerse/article6a229e818d84dbd8a4ed5a9b/rheinmetall-aktie-zweiter-tag-in-folge-gewinne.html",
-      "news_source": "WELT"
+      "news_title": "‘Baywatch’ Star Erika Eleniak Details What Fans Didn’t See Behind the Scenes",
+      "news_url": "https://www.tvinsider.com/1267860/erika-eleniak-baywatch-audition-shauni-mcclain/",
+      "news_source": "TV Insider"
     },
     {
       "rank": 21,
-      "title": "robert andrich",
-      "geos": [
-        "DE"
-      ],
-      "traffic_estimate": 1000,
-      "news_title": "12:05 Nach DFB-Aus: Robert Andrich bekommt doch eine WM-Rolle",
-      "news_url": "https://www.n-tv.de/sport/der_sport_tag/Alexander-Zverev-im-Halbfinale-bei-French-Open-DFB-Team-in-den-USA-Der-Sport-Tag-am-Freitag-dem-5-Juni-2026-id30893808.html",
-      "news_source": "Ntv"
-    },
-    {
-      "rank": 22,
-      "title": "facebook user privacy settlement",
+      "title": "jason sudeikis",
       "geos": [
         "US"
       ],
       "traffic_estimate": 500,
-      "news_title": "Did you get an email? Some users may get a second Facebook settlement check",
-      "news_url": "https://www.nbcchicago.com/news/local/did-you-get-an-email-some-users-may-get-a-second-facebook-settlement-check-heres-why/3944248/",
-      "news_source": "NBC 5 Chicago"
+      "news_title": "New Claims Paint Troubling Picture Of Jason Sudeikis On Set After Hannah Waddingham’s ‘Love-Hate’ Comment",
+      "news_url": "https://www.yahoo.com/entertainment/tv/articles/claims-paint-troubling-picture-jason-113000957.html",
+      "news_source": "Yahoo"
+    },
+    {
+      "rank": 22,
+      "title": "eight sports capital limited",
+      "geos": [
+        "GB"
+      ],
+      "traffic_estimate": 500,
+      "news_title": "Daniel Levy sells 25 per cent stake in Tottenham",
+      "news_url": "https://www.telegraph.co.uk/football/2026/06/05/daniel-levy-sells-25-per-cent-stake-in-tottenham-hotspur/",
+      "news_source": "The Telegraph"
     },
     {
       "rank": 23,
-      "title": "kyle jamieson",
+      "title": "bbc loses commonwealth games rights",
       "geos": [
         "GB"
       ],
       "traffic_estimate": 500,
-      "news_title": "England vs New Zealand First Test: Jamie Smith departs after being bowled by Kyle Jamieson",
-      "news_url": "https://www.bbc.co.uk/sport/cricket/videos/cvgzg3yv0x8o",
-      "news_source": "BBC"
+      "news_title": "BBC loses all Commonwealth Games rights for first time since 1950",
+      "news_url": "https://www.telegraph.co.uk/sport/2026/06/04/bbc-lose-commonwealth-games-rights-first-time-since-1950/",
+      "news_source": "The Telegraph"
     },
     {
       "rank": 24,
-      "title": "ewen jaouen",
+      "title": "केएल राहुल",
       "geos": [
-        "GB"
+        "IN"
       ],
       "traffic_estimate": 500,
-      "news_title": "Transferts : accord Reims-Newcastle pour Ewen Jaouen",
-      "news_url": "https://www.lequipe.fr/Football/Actualites/Transferts-accord-reims-newcastle-pour-ewen-jaouen/1681986",
-      "news_source": "L'Équipe"
+      "news_title": "भारत के स्टार खिलाड़ी KL Rahul की घनघोर बेइज्जती! 2 लाख के बेस प्राइस पर भी किसी टीम ने नहीं लगाई बोली",
+      "news_url": "https://www.jagran.com/cricket/headlines-kl-rahul-goes-unsold-in-maharaja-trophy-ksca-t20-auction-know-the-reason-40263506.html",
+      "news_source": "Jagran"
     },
     {
       "rank": 25,
-      "title": "debt collection",
+      "title": "श्रीलंका क्रिकेट टीम",
       "geos": [
-        "GB"
+        "IN"
       ],
       "traffic_estimate": 500,
-      "news_title": "Why are debt collectors chasing me for tax on my state pension?",
-      "news_url": "https://www.thetimes.com/money/ask-times-money/article/debt-collector-tax-state-pension-advice-ld505f0h0",
-      "news_source": "The Times"
+      "news_title": "ऋतुराज गायकवाड़ की टीम इंड‍िया में एंट्री, बने उपकप्तान... र‍ियान पराग बाहर, BCCI का ऐलान",
+      "news_url": "https://www.aajtak.in/sports/cricket/story/ruturaj-gaikwad-replaces-riyan-parag-india-a-sri-lanka-tour-bcci-tspok-dskc-2566801-2026-05-31",
+      "news_source": "AajTak"
     }
   ]
 }
