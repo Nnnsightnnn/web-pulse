@@ -1,0 +1,232 @@
+{
+  "source": "hackernews",
+  "label": "Hacker News — top stories",
+  "fetched_at": "2026-06-05T11:06:36.031Z",
+  "items": [
+    {
+      "rank": 1,
+      "title": "Changing How We Develop Ladybird",
+      "url": "https://ladybird.org/posts/changing-how-we-develop-ladybird/",
+      "hn_url": "https://news.ycombinator.com/item?id=48409191",
+      "score": 330,
+      "comments": 207,
+      "author": "EdwinHoksberg"
+    },
+    {
+      "rank": 2,
+      "title": "Tracing a powerful GNSS interference source over Europe",
+      "url": "https://arxiv.org/abs/2606.03673",
+      "hn_url": "https://news.ycombinator.com/item?id=48409664",
+      "score": 70,
+      "comments": 13,
+      "author": "mimorigasaka"
+    },
+    {
+      "rank": 3,
+      "title": "Entanglement Builds Space-Time. Now \"Magic\" Gives It Gravity",
+      "url": "https://www.quantamagazine.org/entanglement-builds-space-time-now-magic-gives-it-gravity-20260603/",
+      "hn_url": "https://news.ycombinator.com/item?id=48409675",
+      "score": 26,
+      "comments": 18,
+      "author": "rbanffy"
+    },
+    {
+      "rank": 4,
+      "title": "databow: a Rust CLI to query any database with an ADBC driver",
+      "url": "https://columnar.tech/blog/introducing-databow//",
+      "hn_url": "https://news.ycombinator.com/item?id=48377510",
+      "score": 32,
+      "comments": 5,
+      "author": "hckshr"
+    },
+    {
+      "rank": 5,
+      "title": "Meta enables ADB on deprecated Portal devices [video]",
+      "url": "https://fb.watch/HxPu0fSyeH/",
+      "hn_url": "https://news.ycombinator.com/item?id=48406640",
+      "score": 232,
+      "comments": 84,
+      "author": "jenders"
+    },
+    {
+      "rank": 6,
+      "title": "Fine-tuning an LLM to write docs like it's 1995",
+      "url": "https://passo.uno/fine-tuning-docs-llm/",
+      "hn_url": "https://news.ycombinator.com/item?id=48408442",
+      "score": 78,
+      "comments": 30,
+      "author": "taubek"
+    },
+    {
+      "rank": 7,
+      "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
+      "url": "https://github.com/anthropics/defending-code-reference-harness",
+      "hn_url": "https://news.ycombinator.com/item?id=48403980",
+      "score": 438,
+      "comments": 122,
+      "author": "binyu"
+    },
+    {
+      "rank": 8,
+      "title": "C++: The Documentary",
+      "url": "https://herbsutter.com/2026/06/04/c-the-documentary-released-today/",
+      "hn_url": "https://news.ycombinator.com/item?id=48408016",
+      "score": 169,
+      "comments": 106,
+      "author": "ingve"
+    },
+    {
+      "rank": 9,
+      "title": "Leap in DNA synthesis slashes time to build new genetic sequences",
+      "url": "https://spectrum.ieee.org/faster-dna-synthesis-sidewinder",
+      "hn_url": "https://news.ycombinator.com/item?id=48402116",
+      "score": 38,
+      "comments": 6,
+      "author": "natalcleft"
+    },
+    {
+      "rank": 10,
+      "title": "ESP32 Bit Pirate, a Hardware Hacking Tool with WebCLI That Speaks Every Protocol",
+      "url": "https://github.com/geo-tp/ESP32-Bit-Pirate",
+      "hn_url": "https://news.ycombinator.com/item?id=48409306",
+      "score": 40,
+      "comments": 21,
+      "author": "geotp"
+    },
+    {
+      "rank": 11,
+      "title": "The IsUpMap lets you check the status of over 100 major sites at once",
+      "url": "https://isupmap.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=48408067",
+      "score": 68,
+      "comments": 25,
+      "author": "mikelgan"
+    },
+    {
+      "rank": 12,
+      "title": "Do transformers need three projections? Systematic study of QKV variants",
+      "url": "https://arxiv.org/abs/2606.04032",
+      "hn_url": "https://news.ycombinator.com/item?id=48405931",
+      "score": 175,
+      "comments": 34,
+      "author": "Anon84"
+    },
+    {
+      "rank": 13,
+      "title": "Open Code Review – An AI-powered code review CLI tool",
+      "url": "https://github.com/alibaba/open-code-review",
+      "hn_url": "https://news.ycombinator.com/item?id=48406358",
+      "score": 189,
+      "comments": 56,
+      "author": "geoffbp"
+    },
+    {
+      "rank": 14,
+      "title": "I'm skeptical about efforts to revolutionize schooling",
+      "url": "https://www.scotthyoung.com/blog/2026/05/27/revolutionize-schooling/",
+      "hn_url": "https://news.ycombinator.com/item?id=48376008",
+      "score": 189,
+      "comments": 279,
+      "author": "andrewstuart"
+    },
+    {
+      "rank": 15,
+      "title": "Lee Kuan Yew's Singapore Story",
+      "url": "https://www.historytoday.com/archive/feature/lee-kuan-yews-singapore-story",
+      "hn_url": "https://news.ycombinator.com/item?id=48409173",
+      "score": 14,
+      "comments": 8,
+      "author": "pepys"
+    },
+    {
+      "rank": 16,
+      "title": "Ohbin – uv wrapper for installing tools from GitHub",
+      "url": "https://github.com/prostomarkeloff/ohbin",
+      "hn_url": "https://news.ycombinator.com/item?id=48369105",
+      "score": 13,
+      "comments": 6,
+      "author": "notmarkeloff"
+    },
+    {
+      "rank": 17,
+      "title": "Ask HN: Is the web for machines (/llm.txt) the one we wished we had as humans?",
+      "url": "https://news.ycombinator.com/item?id=48410589",
+      "hn_url": "https://news.ycombinator.com/item?id=48410589",
+      "score": 8,
+      "comments": 5,
+      "author": "sunshine-o"
+    },
+    {
+      "rank": 18,
+      "title": "Watching a Z80 from an RP2350",
+      "url": "https://emalliab.wordpress.com/2026/05/26/watching-a-z80-from-an-rp2350/",
+      "hn_url": "https://news.ycombinator.com/item?id=48374049",
+      "score": 25,
+      "comments": 3,
+      "author": "ibobev"
+    },
+    {
+      "rank": 19,
+      "title": "WiFi Time",
+      "url": "https://mitxela.com/projects/wifi_time",
+      "hn_url": "https://news.ycombinator.com/item?id=48370775",
+      "score": 88,
+      "comments": 4,
+      "author": "surprisetalk"
+    },
+    {
+      "rank": 20,
+      "title": "Branchless Quicksort faster than std:sort and pdqsort with C and C++ API",
+      "url": "https://tiki.li/blog/blqsort",
+      "hn_url": "https://news.ycombinator.com/item?id=48375445",
+      "score": 180,
+      "comments": 52,
+      "author": "birdculture"
+    },
+    {
+      "rank": 21,
+      "title": "At the Autograph Show",
+      "url": "https://oldster.substack.com/p/at-the-autograph-show",
+      "hn_url": "https://news.ycombinator.com/item?id=48379232",
+      "score": 3,
+      "comments": 0,
+      "author": "NaOH"
+    },
+    {
+      "rank": 22,
+      "title": "Linear Cosine Palettes(2025)",
+      "url": "https://blog.djnavarro.net/posts/2025-09-14_cosine-palettes/",
+      "hn_url": "https://news.ycombinator.com/item?id=48407653",
+      "score": 30,
+      "comments": 1,
+      "author": "num42"
+    },
+    {
+      "rank": 23,
+      "title": "SpaceX, Other Mega IPOs Denied Fast Index Entry by S&P",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-04/s-p-dow-jones-keeps-megacap-ipo-rules-as-is-after-consultation",
+      "hn_url": "https://news.ycombinator.com/item?id=48405718",
+      "score": 611,
+      "comments": 293,
+      "author": "tristanj"
+    },
+    {
+      "rank": 24,
+      "title": "Delacroix's Entry of the Crusaders into Constantinople Restored",
+      "url": "https://www.louvre.fr/en/explore/life-at-the-museum/delacroix-s-entry-of-the-crusaders-into-constantinople-restored-to-its-original-glory",
+      "hn_url": "https://news.ycombinator.com/item?id=48407368",
+      "score": 36,
+      "comments": 14,
+      "author": "rawgabbit"
+    },
+    {
+      "rank": 25,
+      "title": "Go Experiments Explained",
+      "url": "https://www.alexedwards.net/blog/go-experiments-explained",
+      "hn_url": "https://news.ycombinator.com/item?id=48354136",
+      "score": 45,
+      "comments": 12,
+      "author": "ingve"
+    }
+  ]
+}
