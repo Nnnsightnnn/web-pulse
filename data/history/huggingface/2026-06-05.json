@@ -1,7 +1,7 @@
 {
   "source": "huggingface",
   "label": "Hugging Face — trending models",
-  "fetched_at": "2026-06-05T13:13:43.678Z",
+  "fetched_at": "2026-06-05T13:18:35.158Z",
   "items": [
     {
       "rank": 1,
@@ -10,7 +10,7 @@
       "author": "nvidia",
       "downloads": 101823,
       "likes": 1335,
-      "trending_score": 960,
+      "trending_score": 959,
       "pipeline_tag": "image-text-to-text",
       "last_modified": "2026-05-27T08:30:54.000Z"
     },
@@ -31,8 +31,8 @@
       "url": "https://huggingface.co/LiquidAI/LFM2.5-8B-A1B",
       "author": "LiquidAI",
       "downloads": 82709,
-      "likes": 520,
-      "trending_score": 344,
+      "likes": 521,
+      "trending_score": 345,
       "pipeline_tag": "text-generation",
       "last_modified": "2026-06-04T08:58:49.000Z"
     },
@@ -42,8 +42,8 @@
       "url": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
       "author": "HauhauCS",
       "downloads": 2687304,
-      "likes": 1436,
-      "trending_score": 332,
+      "likes": 1437,
+      "trending_score": 333,
       "pipeline_tag": "image-text-to-text",
       "last_modified": "2026-04-17T02:59:21.000Z"
     },
@@ -75,8 +75,8 @@
       "url": "https://huggingface.co/sapientinc/HRM-Text-1B",
       "author": "sapientinc",
       "downloads": 159014,
-      "likes": 678,
-      "trending_score": 275,
+      "likes": 679,
+      "trending_score": 276,
       "pipeline_tag": "text-generation",
       "last_modified": "2026-05-21T05:57:38.000Z"
     },
@@ -163,8 +163,8 @@
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro",
       "author": "deepseek-ai",
       "downloads": 5562821,
-      "likes": 4650,
-      "trending_score": 164,
+      "likes": 4651,
+      "trending_score": 163,
       "pipeline_tag": "text-generation",
       "last_modified": "2026-05-06T04:18:44.000Z"
     },

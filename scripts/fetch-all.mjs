@@ -17,7 +17,6 @@ import { fileURLToPath } from "node:url";
 
 import wikipedia from "./sources/wikipedia.mjs";
 import hackernews from "./sources/hackernews.mjs";
-import reddit from "./sources/reddit.mjs";
 import github from "./sources/github-trending.mjs";
 import googleTrends from "./sources/google-trends.mjs";
 import cloudflareRadar from "./sources/cloudflare-radar.mjs";
@@ -41,7 +40,6 @@ const HISTORY_DIR = join(DATA_DIR, "history");
 const SOURCES = [
   { name: "wikipedia", fn: wikipedia },
   { name: "hackernews", fn: hackernews },
-  { name: "reddit", fn: reddit },
   { name: "github", fn: github },
   { name: "google-trends", fn: googleTrends },
   { name: "cloudflare-radar", fn: cloudflareRadar },

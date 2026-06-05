@@ -1680,7 +1680,7 @@ function spreadCover(c) {
             <em>${link(top.url, esc(headline))}</em>?
           </h2>
           <p class="cover-sub">
-            For one ${esc(c.weekday)} in ${esc(c.month)}, ${link(top.url, esc(headline))} sat at the top of the English Wikipedia. Inside: today's snapshot of seventeen public surfaces, arranged the way one might arrange a daily newspaper.
+            For one ${esc(c.weekday)} in ${esc(c.month)}, ${link(top.url, esc(headline))} sat at the top of the English Wikipedia. Inside: today's snapshot of sixteen public surfaces, arranged the way one might arrange a daily newspaper.
           </p>
           <div style="display:flex;gap:24px;align-items:center;margin-top:10px;">
             <span class="byline">By the Editors</span>
@@ -1689,7 +1689,7 @@ function spreadCover(c) {
         </div>
 
         <div class="hero-right">
-          ${coverLine('FEATURE · 12', hn ? link(hn.url || hn.hn_url, esc(truncate(hn.title, 60))) : 'The Discourse, in four feeds', 'Hacker News / Reddit / Bluesky / Mastodon')}
+          ${coverLine('FEATURE · 12', hn ? link(hn.url || hn.hn_url, esc(truncate(hn.title, 60))) : 'The Discourse, in four feeds', 'Hacker News / Lemmy / Bluesky / Mastodon')}
           ${coverLine('FOREIGN · 14', med ? link(med.url, esc(truncate(med.title, 70))) : 'The world’s wires, this morning', 'Mediastack / Google Trends six countries')}
           ${coverLine('DATA · 16', poly ? link(poly.url, esc(dollarsAbbr(poly.volume_24h) + ' on ' + truncate(poly.title, 50))) : 'The wagers and the tremors', 'Polymarket / Top 24‑hour volume')}
           ${coverLine('CODE · 18', gh ? link(gh.url, esc(truncate(gh.title, 40))) + (hf ? ', ' + link(hf.url, esc(truncate(cleanWikiTitle(hf.title), 24))) : '') : 'GitHub trending, HF, Product Hunt', 'GitHub / Hugging Face / Product Hunt')}
@@ -2036,7 +2036,7 @@ function spreadWiki2(c) {
 
 function spreadDiscourse(c) {
   const hn = items(c.data, 'hackernews').slice(0,5);
-  const rd = items(c.data, 'reddit').slice(0,5);
+  const rd = items(c.data, 'lemmy').slice(0,5);
   const bs = items(c.data, 'bluesky').slice(0,5);
   const md = items(c.data, 'mastodon-trending').slice(0,5);
 
@@ -2065,7 +2065,7 @@ function spreadDiscourse(c) {
   const pullBs = bs[0] ? truncate(bs[0].title, 32) : '—';
 
   const tickerHn = hn[0] ? `HN +${fmt(hn[0].score)} ${truncate(hn[0].title, 22).toUpperCase()}` : 'HN';
-  const tickerRd = rd[0] ? `RD ${fmt(rd[0].score)} ${truncate(rd[0].title, 18).toUpperCase()}` : 'RD';
+  const tickerRd = rd[0] ? `LM ${fmt(rd[0].score)} ${truncate(rd[0].title, 18).toUpperCase()}` : 'LM';
   const tickerBs = bs[0] ? `BS ${truncate(bs[0].title, 18).toUpperCase()}` : 'BS';
   const tickerMd = md[0] ? `MD ${truncate(md[0].title, 18).toUpperCase()}` : 'MD';
 
@@ -2073,7 +2073,7 @@ function spreadDiscourse(c) {
   <section class="spread two-page" id="discourse" data-screen-label="06 The Discourse">
     <div class="issue-strap">
       <span class="ttl">Feature</span>
-      <span class="section">The Discourse · Hacker News · Reddit · Bluesky · Mastodon</span>
+      <span class="section">The Discourse · Hacker News · Lemmy · Bluesky · Mastodon</span>
       <span>P. 12–13</span>
     </div>
 
@@ -2091,13 +2091,13 @@ function spreadDiscourse(c) {
 
       <div class="grid-2">
         ${col('dot-hn', 'Hacker News', 'top stories', hn, it => fmt(it.score) + ' pts')}
-        ${col('dot-rd', 'Reddit / r/all', 'past hour', rd, it => fmt(it.score) + ' ▲')}
+        ${col('dot-rd', 'Lemmy', 'top of the day', rd, it => fmt(it.score) + ' ▲')}
       </div>
     </div>
 
     <div class="page right" style="padding-top:78px;">
       <p class="pull" style="margin-top:36px;">
-        Hacker News reads ${hn[0] ? link(hn[0].url || hn[0].hn_url, esc(pullHn)) : esc(pullHn)}. Reddit watches ${rd[0] ? link(rd[0].url, esc(pullRd)) : esc(pullRd)}. Bluesky is in ${bs[0] ? link(bs[0].url, esc(pullBs)) : esc(pullBs)}. They are all online at once.
+        Hacker News reads ${hn[0] ? link(hn[0].url || hn[0].hn_url, esc(pullHn)) : esc(pullHn)}. Lemmy watches ${rd[0] ? link(rd[0].url, esc(pullRd)) : esc(pullRd)}. Bluesky is in ${bs[0] ? link(bs[0].url, esc(pullBs)) : esc(pullBs)}. They are all online at once.
       </p>
 
       <div class="grid-2" style="margin-top:30px;">
@@ -2504,7 +2504,7 @@ function spreadBack(c) {
       <div style="display:grid;grid-template-columns:1fr 1fr;gap:30px;margin-top:14px;">
         <div>
           <div class="byline" style="margin-bottom:8px;">Best three sentences in this issue</div>
-          <p style="font-family:var(--serif);font-style:italic;font-size:20px;line-height:1.4;color:var(--ink);margin:0;">“Hacker News reads ${esc(truncate(items(c.data,'hackernews')[0]?.title || '—', 28))}. Reddit watches ${esc(truncate(items(c.data,'reddit')[0]?.title || '—', 28))}. Bluesky is in ${esc(truncate(items(c.data,'bluesky')[0]?.title || '—', 20))}. They are all online at once.”</p>
+          <p style="font-family:var(--serif);font-style:italic;font-size:20px;line-height:1.4;color:var(--ink);margin:0;">“Hacker News reads ${esc(truncate(items(c.data,'hackernews')[0]?.title || '—', 28))}. Lemmy watches ${esc(truncate(items(c.data,'lemmy')[0]?.title || '—', 28))}. Bluesky is in ${esc(truncate(items(c.data,'bluesky')[0]?.title || '—', 20))}. They are all online at once.”</p>
           <span class="mono" style="font-size:11px;color:var(--grey-1);letter-spacing:0.18em;text-transform:uppercase;">— PAGE 13</span>
         </div>
         <div>

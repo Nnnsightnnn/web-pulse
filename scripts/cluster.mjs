@@ -2,7 +2,7 @@
 // Pure JS, no NLP deps. Uses token-set Jaccard similarity + union-find.
 
 const SOURCE_WEIGHTS = {
-  "wikipedia": 1, "hackernews": 1, "reddit": 1,
+  "wikipedia": 1, "hackernews": 1,
   "github": 1, "google-trends": 1, "cloudflare-radar": 1,
   "lemmy": 1, "stackoverflow": 1, "steam": 1,
   "youtube": 1, "bluesky": 1,

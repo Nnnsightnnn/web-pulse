@@ -1,7 +1,7 @@
 {
   "source": "twitch",
   "label": "Twitch — top streams (live)",
-  "fetched_at": "2026-06-05T13:13:44.401Z",
+  "fetched_at": "2026-06-05T13:18:37.010Z",
   "configured": true,
   "items": [
     {
@@ -9,7 +9,7 @@
       "title": "Nix",
       "stream_title": "BLAST Slam VII | LGD vs Liquid bo3 1:0 - Playoffs w/ Alagon",
       "url": "https://twitch.tv/nix",
-      "viewers": 42770,
+      "viewers": 45823,
       "game": "Dota 2",
       "language": "ru",
       "started_at": "2026-06-05T08:57:46Z"
@@ -19,7 +19,7 @@
       "title": "ESLCS",
       "stream_title": "LIVE: TYLOO vs Lynn Vision Gaming - IEM Cologne Major 2026",
       "url": "https://twitch.tv/eslcs",
-      "viewers": 32944,
+      "viewers": 33447,
       "game": "Counter-Strike",
       "language": "en",
       "started_at": "2026-06-05T11:00:46Z"
@@ -36,6 +36,16 @@
     },
     {
       "rank": 4,
+      "title": "MontanaBlack88",
+      "stream_title": "🇳🇱 72Std TOUR durch die NIEDERLANDE mit Zarbex & Schradin! !gönrgy !ltd7 !kaufland",
+      "url": "https://twitch.tv/montanablack88",
+      "viewers": 18387,
+      "game": "IRL",
+      "language": "de",
+      "started_at": "2026-06-04T14:07:23Z"
+    },
+    {
+      "rank": 5,
       "title": "stylishnoob4",
       "stream_title": "DQM3 © ARMOR PROJECT/BIRD STUDIO/SQUARE ENIX © SUGIYAMA KOBO",
       "url": "https://twitch.tv/stylishnoob4",
@@ -45,21 +55,11 @@
       "started_at": "2026-06-05T06:38:20Z"
     },
     {
-      "rank": 5,
-      "title": "MontanaBlack88",
-      "stream_title": "🇳🇱 72Std TOUR durch die NIEDERLANDE mit Zarbex & Schradin! !gönrgy !ltd7 !kaufland",
-      "url": "https://twitch.tv/montanablack88",
-      "viewers": 18134,
-      "game": "IRL",
-      "language": "de",
-      "started_at": "2026-06-04T14:07:23Z"
-    },
-    {
       "rank": 6,
       "title": "cs2_paragon_ru",
       "stream_title": "[RU] REDZONE | TYLOO [1:0] Lynn Vision Gaming | IEM Cologne Major 2026: Stage 1 | BO3 | @Solaar_06, @Roma_roo & @Lampaaa",
       "url": "https://twitch.tv/cs2_paragon_ru",
-      "viewers": 14091,
+      "viewers": 14298,
       "game": "Counter-Strike",
       "language": "ru",
       "started_at": "2026-06-05T11:08:21Z"
@@ -69,7 +69,7 @@
       "title": "Trymacs",
       "stream_title": "Route 66 Tour! 14 Tage Online Quer durch die USA!  - !Canusa | !ESN !bitpanda !PrepMyMeal !Coke",
       "url": "https://twitch.tv/trymacs",
-      "viewers": 13176,
+      "viewers": 13483,
       "game": "Special Events",
       "language": "de",
       "started_at": "2026-06-05T10:59:03Z"
@@ -86,66 +86,76 @@
     },
     {
       "rank": 9,
-      "title": "布団ちゃんと申します",
-      "stream_title": "【３日目】呪術士ダークソウル３ビッツ禁止＆ネタバレ禁止＆含むまずはコーヒーゼリーを食べてみないか？",
-      "url": "https://twitch.tv/indegnasen0706",
-      "viewers": 12355,
-      "game": "DARK SOULS III",
-      "language": "ja",
-      "started_at": "2026-06-05T09:40:13Z"
-    },
-    {
-      "rank": 10,
-      "title": "bySL4M",
-      "stream_title": "(RU) TYLOO [1:0] Lynn Vision | КРИВОЙ ЭФИР | IEM Cologne Major 2026 Stage 1 | Day 4 w/ @WorldEdit",
-      "url": "https://twitch.tv/bysl4m",
-      "viewers": 11955,
-      "game": "Counter-Strike",
-      "language": "ru",
-      "started_at": "2026-06-05T11:25:29Z"
-    },
-    {
-      "rank": 11,
-      "title": "zarbex",
-      "stream_title": "MR. GEIL STREAMT 🇳🇱 HOLLAND TOUR MIT SCHRADIN & MONTE 🇳🇱 TAG 2 🇳🇱 !spotify !socials !merch",
-      "url": "https://twitch.tv/zarbex",
-      "viewers": 11181,
-      "game": "IRL",
-      "language": "de",
-      "started_at": "2026-06-04T14:07:23Z"
-    },
-    {
-      "rank": 12,
       "title": "BLASTDota",
       "stream_title": "LGD vs Team Liquid - BLAST SLAM VII: Copenhagen, Playoffs, Day 2",
       "url": "https://twitch.tv/blastdota",
-      "viewers": 11123,
+      "viewers": 12540,
       "game": "Dota 2",
       "language": "en",
       "started_at": "2026-06-05T08:10:20Z"
     },
     {
-      "rank": 13,
+      "rank": 10,
+      "title": "布団ちゃんと申します",
+      "stream_title": "【３日目】呪術士ダークソウル３ビッツ禁止＆ネタバレ禁止＆含むまずはコーヒーゼリーを食べてみないか？",
+      "url": "https://twitch.tv/indegnasen0706",
+      "viewers": 12510,
+      "game": "DARK SOULS III",
+      "language": "ja",
+      "started_at": "2026-06-05T09:40:13Z"
+    },
+    {
+      "rank": 11,
+      "title": "bySL4M",
+      "stream_title": "(RU) TYLOO [1:0] Lynn Vision | КРИВОЙ ЭФИР | IEM Cologne Major 2026 Stage 1 | Day 4 w/ @WorldEdit",
+      "url": "https://twitch.tv/bysl4m",
+      "viewers": 11777,
+      "game": "Counter-Strike",
+      "language": "ru",
+      "started_at": "2026-06-05T11:25:29Z"
+    },
+    {
+      "rank": 12,
       "title": "FrostyMog",
       "stream_title": "FFXIV World Race: Dancing Mad - Ultimate !charity !razer !battlebeaver !coffee",
       "url": "https://twitch.tv/frostymog",
-      "viewers": 11024,
+      "viewers": 11678,
       "game": "FINAL FANTASY XIV ONLINE",
       "language": "en",
       "started_at": "2026-06-04T05:54:15Z"
+    },
+    {
+      "rank": 13,
+      "title": "zarbex",
+      "stream_title": "MR. GEIL STREAMT 🇳🇱 HOLLAND TOUR MIT SCHRADIN & MONTE 🇳🇱 TAG 2 🇳🇱 !spotify !socials !merch",
+      "url": "https://twitch.tv/zarbex",
+      "viewers": 11192,
+      "game": "IRL",
+      "language": "de",
+      "started_at": "2026-06-04T14:07:23Z"
     },
     {
       "rank": 14,
       "title": "Solo",
       "stream_title": "🔴 [БЕЗ ЗАДЕРЖКИ] Team Liquid [0:1] LGD BLAST Slam VII: Playoffs, Bo3 | !tg !betboom w/ @kyzko_doto @dreadztv",
       "url": "https://twitch.tv/solo",
-      "viewers": 10607,
+      "viewers": 11003,
       "game": "Dota 2",
       "language": "ru",
       "started_at": "2026-06-05T08:48:41Z"
     },
     {
       "rank": 15,
+      "title": "Drututt",
+      "stream_title": "(868) 10K$ KOREA BET WITH ALOIS, SLOWY AND STEADY WINS THE RACE  !gamersupps !challenge",
+      "url": "https://twitch.tv/drututt",
+      "viewers": 8704,
+      "game": "League of Legends",
+      "language": "en",
+      "started_at": "2026-06-05T11:44:09Z"
+    },
+    {
+      "rank": 16,
       "title": "CDawg",
       "stream_title": "TRYING THE ENTIRE LOST BAR With @abroadchris @robcdee | !gamersupps !tiltify  !talent !cook !reviews",
       "url": "https://twitch.tv/cdawg",
@@ -155,37 +165,17 @@
       "started_at": "2026-06-05T06:47:43Z"
     },
     {
-      "rank": 16,
+      "rank": 17,
       "title": "CohhCarnage",
       "stream_title": "Path of Exile 2! - GOTHIC REMAKE at 1pm ET! \\o/ - !Emberville cohhHide",
       "url": "https://twitch.tv/cohhcarnage",
-      "viewers": 8368,
+      "viewers": 8474,
       "game": "Path of Exile 2",
       "language": "en",
       "started_at": "2026-06-05T11:09:40Z"
     },
     {
-      "rank": 17,
-      "title": "Lazvell",
-      "stream_title": "あそぶ 新たなブキを見つけたい / ハセシン ノリアキ 胡桃のあ",
-      "url": "https://twitch.tv/lazvell",
-      "viewers": 8325,
-      "game": "Splatoon 3",
-      "language": "ja",
-      "started_at": "2026-06-05T11:08:43Z"
-    },
-    {
       "rank": 18,
-      "title": "柊ツルギ",
-      "stream_title": "常闇祭 顔合わせ。21時30分からよしなまチームと交流戦",
-      "url": "https://twitch.tv/hiiragitsurugi",
-      "viewers": 8315,
-      "game": "Street Fighter 6",
-      "language": "ja",
-      "started_at": "2026-06-05T10:56:03Z"
-    },
-    {
-      "rank": 19,
       "title": "Clemovitch",
       "stream_title": "Cnews pris au piège, Glucksmann panique, et un discours magnifique : ce sont les perles de la semaine ! | Le Café Rhétorique",
       "url": "https://twitch.tv/clemovitch",
@@ -195,17 +185,7 @@
       "started_at": "2026-06-05T10:29:27Z"
     },
     {
-      "rank": 20,
-      "title": "超負荷",
-      "stream_title": "【超負荷】6/5 來了阿",
-      "url": "https://twitch.tv/sam1268",
-      "viewers": 8175,
-      "game": "Just Chatting",
-      "language": "zh",
-      "started_at": "2026-06-05T10:44:31Z"
-    },
-    {
-      "rank": 21,
+      "rank": 19,
       "title": "melharucos",
       "stream_title": "СЕГОДНЯ Я NASSAL",
       "url": "https://twitch.tv/melharucos",
@@ -215,44 +195,54 @@
       "started_at": "2026-06-05T10:28:03Z"
     },
     {
-      "rank": 22,
-      "title": "VeryBadSCAV",
-      "stream_title": "[Everyday New !drops ON] 48HR stream for 5 days / worst streamer challenger / promo !codes / !heliskip / !engineguide",
-      "url": "https://twitch.tv/verybadscav",
-      "viewers": 8068,
-      "game": "Escape from Tarkov",
-      "language": "en",
-      "started_at": "2026-06-03T14:04:13Z"
+      "rank": 20,
+      "title": "超負荷",
+      "stream_title": "【超負荷】6/5 來了阿",
+      "url": "https://twitch.tv/sam1268",
+      "viewers": 8077,
+      "game": "Just Chatting",
+      "language": "zh",
+      "started_at": "2026-06-05T10:44:31Z"
     },
     {
-      "rank": 23,
+      "rank": 21,
       "title": "rostislav_999",
       "stream_title": "🏆ТУРНИР🏆MOGGED🏆",
       "url": "https://twitch.tv/rostislav_999",
-      "viewers": 8034,
+      "viewers": 7724,
       "game": "Dota 2",
       "language": "ru",
       "started_at": "2026-06-05T11:07:59Z"
     },
     {
-      "rank": 24,
-      "title": "Drututt",
-      "stream_title": "(868) 10K$ KOREA BET WITH ALOIS, SLOWY AND STEADY WINS THE RACE  !gamersupps !challenge",
-      "url": "https://twitch.tv/drututt",
-      "viewers": 7385,
-      "game": "League of Legends",
-      "language": "en",
-      "started_at": "2026-06-05T11:44:09Z"
+      "rank": 22,
+      "title": "Lazvell",
+      "stream_title": "あそぶ 新たなブキを見つけたい / ハセシン ノリアキ 胡桃のあ",
+      "url": "https://twitch.tv/lazvell",
+      "viewers": 7505,
+      "game": "Splatoon 3",
+      "language": "ja",
+      "started_at": "2026-06-05T11:08:43Z"
     },
     {
-      "rank": 25,
-      "title": "たいじ_たいちゃんねる",
-      "stream_title": "入力した言葉はそのまま自身の身に降りかかるDyping Escape",
-      "url": "https://twitch.tv/yaritaiji",
-      "viewers": 7044,
-      "game": "Dyping Escape",
+      "rank": 23,
+      "title": "柊ツルギ",
+      "stream_title": "常闇祭 顔合わせ。21時30分からよしなまチームと交流戦",
+      "url": "https://twitch.tv/hiiragitsurugi",
+      "viewers": 7447,
+      "game": "Street Fighter 6",
       "language": "ja",
-      "started_at": "2026-06-05T11:23:30Z"
+      "started_at": "2026-06-05T10:56:03Z"
+    },
+    {
+      "rank": 24,
+      "title": "中信兄弟官方頻道",
+      "stream_title": "2026/06/05 (五) 中華職棒 CPBL 2026 中信兄弟 vs 樂天桃猿，一起為猛象軍團加油！ CTBC Brothers VS Rakuten Monkeys ⚾️限訂閱者收看呦～",
+      "url": "https://twitch.tv/brothers_baseball",
+      "viewers": 7256,
+      "game": "Sports",
+      "language": "zh",
+      "started_at": "2026-06-05T09:59:36Z"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "source": "google-trends",
   "label": "Google Trends — trending searches",
-  "fetched_at": "2026-06-05T13:13:44.102Z",
+  "fetched_at": "2026-06-05T13:18:35.793Z",
   "countries": [
     "US",
     "GB",
@@ -36,9 +36,9 @@
         "US"
       ],
       "traffic_estimate": 1900,
-      "news_title": "Murió el Indio Solari",
-      "news_url": "https://www.pagina12.com.ar/2026/06/05/murio-el-indio-solari/",
-      "news_source": "Página|12"
+      "news_title": "Murió el Indio Solari, el mítico líder de Los Redonditos de Ricota y una leyenda del rock argentino",
+      "news_url": "https://www.clarin.com/espectaculos/murio-indio-solari-mitico-lider-redonditos-ricota-leyenda-rock-argentino_0_vH59WxSOYd.html",
+      "news_source": "Clarin.com"
     },
     {
       "rank": 3,
@@ -132,17 +132,28 @@
     },
     {
       "rank": 11,
+      "title": "onça-parda",
+      "geos": [
+        "BR"
+      ],
+      "traffic_estimate": 2000,
+      "news_title": "Onça-parda é encontrada 'descansando' em cima de árvore de bairro residencial no interior de SP",
+      "news_url": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/06/04/onca-parda-e-encontrada-descansando-em-cima-de-arvore-de-bairro-residencial-no-interior-de-sp.ghtml",
+      "news_source": "G1"
+    },
+    {
+      "rank": 12,
       "title": "redistricting",
       "geos": [
         "US"
       ],
       "traffic_estimate": 1000,
-      "news_title": "Where the redistricting fight stands heading into the midterms",
-      "news_url": "https://www.nbcnews.com/politics/2026-election/house-redistricting-gop-democrats-2026-midterm-elections-rcna348110",
+      "news_title": "New York Democrats take first step toward drawing new congressional lines ahead of 2028",
+      "news_url": "https://www.nbcnews.com/politics/elections/new-york-democrats-first-step-new-congressional-map-2028-rcna348344",
       "news_source": "NBC News"
     },
     {
-      "rank": 12,
+      "rank": 13,
       "title": "heidi klum",
       "geos": [
         "US"
@@ -153,7 +164,7 @@
       "news_source": "People.com"
     },
     {
-      "rank": 13,
+      "rank": 14,
       "title": "may jobs report",
       "geos": [
         "US"
@@ -164,7 +175,7 @@
       "news_source": "CNBC"
     },
     {
-      "rank": 14,
+      "rank": 15,
       "title": "भूमि",
       "geos": [
         "IN"
@@ -175,7 +186,7 @@
       "news_source": "Dainik Bhaskar"
     },
     {
-      "rank": 15,
+      "rank": 16,
       "title": "ダブル インパクト 準決勝",
       "geos": [
         "JP"
@@ -186,7 +197,7 @@
       "news_source": "Yahoo!ニュース"
     },
     {
-      "rank": 16,
+      "rank": 17,
       "title": "ヤクルトスワローズ",
       "geos": [
         "JP"
@@ -197,7 +208,7 @@
       "news_source": "Yahoo!ニュース"
     },
     {
-      "rank": 17,
+      "rank": 18,
       "title": "agressão",
       "geos": [
         "BR"
@@ -208,7 +219,18 @@
       "news_source": "Campo Grande News"
     },
     {
-      "rank": 18,
+      "rank": 19,
+      "title": "bruno fernandes de souza",
+      "geos": [
+        "BR"
+      ],
+      "traffic_estimate": 1000,
+      "news_title": "Juiz bota ponto final em ação de goleiro Bruno após captura e prisão",
+      "news_url": "https://www.metropoles.com/colunas/fabia-oliveira/juiz-bota-ponto-final-em-acao-de-goleiro-bruno-apos-captura-e-prisao",
+      "news_source": "Metrópoles"
+    },
+    {
+      "rank": 20,
       "title": "5 dia util de junho 2026",
       "geos": [
         "BR"
@@ -219,7 +241,7 @@
       "news_source": "Folha de S.Paulo"
     },
     {
-      "rank": 19,
+      "rank": 21,
       "title": "unfall a7",
       "geos": [
         "DE"
@@ -230,7 +252,7 @@
       "news_source": "NDR.de"
     },
     {
-      "rank": 20,
+      "rank": 22,
       "title": "erika eleniak",
       "geos": [
         "DE"
@@ -241,7 +263,7 @@
       "news_source": "TV Insider"
     },
     {
-      "rank": 21,
+      "rank": 23,
       "title": "jason sudeikis",
       "geos": [
         "US"
@@ -252,7 +274,7 @@
       "news_source": "Yahoo"
     },
     {
-      "rank": 22,
+      "rank": 24,
       "title": "eight sports capital limited",
       "geos": [
         "GB"
@@ -263,7 +285,7 @@
       "news_source": "The Telegraph"
     },
     {
-      "rank": 23,
+      "rank": 25,
       "title": "bbc loses commonwealth games rights",
       "geos": [
         "GB"
@@ -272,28 +294,6 @@
       "news_title": "BBC loses all Commonwealth Games rights for first time since 1950",
       "news_url": "https://www.telegraph.co.uk/sport/2026/06/04/bbc-lose-commonwealth-games-rights-first-time-since-1950/",
       "news_source": "The Telegraph"
-    },
-    {
-      "rank": 24,
-      "title": "केएल राहुल",
-      "geos": [
-        "IN"
-      ],
-      "traffic_estimate": 500,
-      "news_title": "भारत के स्टार खिलाड़ी KL Rahul की घनघोर बेइज्जती! 2 लाख के बेस प्राइस पर भी किसी टीम ने नहीं लगाई बोली",
-      "news_url": "https://www.jagran.com/cricket/headlines-kl-rahul-goes-unsold-in-maharaja-trophy-ksca-t20-auction-know-the-reason-40263506.html",
-      "news_source": "Jagran"
-    },
-    {
-      "rank": 25,
-      "title": "श्रीलंका क्रिकेट टीम",
-      "geos": [
-        "IN"
-      ],
-      "traffic_estimate": 500,
-      "news_title": "ऋतुराज गायकवाड़ की टीम इंड‍िया में एंट्री, बने उपकप्तान... र‍ियान पराग बाहर, BCCI का ऐलान",
-      "news_url": "https://www.aajtak.in/sports/cricket/story/ruturaj-gaikwad-replaces-riyan-parag-india-a-sri-lanka-tour-bcci-tspok-dskc-2566801-2026-05-31",
-      "news_source": "AajTak"
     }
   ]
 }

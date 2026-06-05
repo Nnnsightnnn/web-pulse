@@ -1,15 +1,15 @@
 {
   "source": "stackoverflow",
   "label": "Stack Overflow — hot questions",
-  "fetched_at": "2026-06-05T13:13:43.990Z",
+  "fetched_at": "2026-06-05T13:18:35.798Z",
   "items": [
     {
       "rank": 1,
       "title": "`uv run` for `node script.js`?",
       "url": "https://stackoverflow.com/questions/79951862/uv-run-for-node-script-js",
       "score": 0,
-      "answers": 1,
-      "views": 37,
+      "answers": 2,
+      "views": 39,
       "tags": [
         "javascript",
         "node.js",
@@ -24,7 +24,7 @@
       "url": "https://stackoverflow.com/questions/79951855/does-ds-read-file-download-the-entire-file-into-memory-before-returning-or-do",
       "score": 0,
       "answers": 0,
-      "views": 21,
+      "views": 22,
       "tags": [
         "amazon-s3",
         "parquet",
@@ -37,7 +37,7 @@
       "url": "https://stackoverflow.com/questions/79951866/how-to-override-quarkus-profile-when-running-failsafe-integration-tests",
       "score": 0,
       "answers": 0,
-      "views": 12,
+      "views": 16,
       "tags": [
         "quarkus",
         "maven-failsafe-plugin"
@@ -49,7 +49,7 @@
       "url": "https://stackoverflow.com/questions/79948695/how-can-i-avoid-using-llms-as-a-software-developer",
       "score": 101,
       "answers": 150,
-      "views": 7154,
+      "views": 7155,
       "tags": [
         "large-language-model"
       ]
@@ -71,7 +71,7 @@
       "url": "https://stackoverflow.com/questions/79951814/accessing-merra-2-data-via-boto3-with-earthdata-aws-credentials-accessdenied-a",
       "score": 0,
       "answers": 0,
-      "views": 34,
+      "views": 37,
       "tags": [
         "amazon-s3",
         "boto3"
@@ -83,7 +83,7 @@
       "url": "https://stackoverflow.com/questions/79951831/how-can-i-measure-whether-react-dynamic-imports-are-actually-improving-applicati",
       "score": 0,
       "answers": 1,
-      "views": 31,
+      "views": 32,
       "tags": [
         "reactjs",
         "performance",
@@ -98,7 +98,7 @@
       "url": "https://stackoverflow.com/questions/79951770/how-to-properly-use-metaclasses-in-python",
       "score": 1,
       "answers": 8,
-      "views": 89,
+      "views": 90,
       "tags": [
         "python"
       ]
@@ -109,7 +109,7 @@
       "url": "https://stackoverflow.com/questions/79951823/best-way-to-learn-assembly-languge",
       "score": 0,
       "answers": 1,
-      "views": 82,
+      "views": 84,
       "tags": [
         "assembly",
         "low-level"
@@ -135,7 +135,7 @@
       "url": "https://stackoverflow.com/questions/79951852/afterpost-or-afterdelete",
       "score": 0,
       "answers": 0,
-      "views": 18,
+      "views": 20,
       "tags": [
         "delphi",
         "firedac"
@@ -147,7 +147,7 @@
       "url": "https://stackoverflow.com/questions/79951754/best-approach-for-docker-health-checks-in-net-containers-without-curl-wget",
       "score": 0,
       "answers": 3,
-      "views": 49,
+      "views": 50,
       "tags": [
         ".net",
         "docker",
@@ -171,8 +171,8 @@
       "title": "Installation locale independent test of MS Word style with VBA",
       "url": "https://stackoverflow.com/questions/79951808/installation-locale-independent-test-of-ms-word-style-with-vba",
       "score": 0,
-      "answers": 4,
-      "views": 35,
+      "answers": 5,
+      "views": 36,
       "tags": [
         "vba",
         "ms-word",
@@ -182,11 +182,11 @@
     },
     {
       "rank": 15,
-      "title": "Configuring Serilog and ApplicationInsights in AspNetCore application",
-      "url": "https://stackoverflow.com/questions/79951766/configuring-serilog-and-applicationinsights-in-aspnetcore-application",
+      "title": "Configuring Serilog and ApplicationInsights in ASP.NET Core application",
+      "url": "https://stackoverflow.com/questions/79951766/configuring-serilog-and-applicationinsights-in-asp-net-core-application",
       "score": 0,
       "answers": 0,
-      "views": 29,
+      "views": 30,
       "tags": [
         "azure-application-insights",
         "serilog-aspnetcore"
@@ -209,7 +209,7 @@
       "url": "https://stackoverflow.com/questions/79951771/docker-healthcheck-failing",
       "score": -1,
       "answers": 0,
-      "views": 64,
+      "views": 65,
       "tags": [
         "docker"
       ]
@@ -220,7 +220,7 @@
       "url": "https://stackoverflow.com/questions/79951729/how-to-make-adding-text-to-an-entry-box-trigger-a-function",
       "score": -2,
       "answers": 1,
-      "views": 45,
+      "views": 47,
       "tags": [
         "python",
         "tkinter",
@@ -247,7 +247,7 @@
       "url": "https://stackoverflow.com/questions/79951720/android-capture-wi-fi-channel-utilization-but-always-return-stale-cache-value",
       "score": -1,
       "answers": 1,
-      "views": 49,
+      "views": 52,
       "tags": [
         "java",
         "android",
@@ -274,7 +274,7 @@
       "url": "https://stackoverflow.com/questions/79951736/how-to-implement-image-lazy-loading-with-intersection-observer-in-vanilla-javasc",
       "score": -7,
       "answers": 0,
-      "views": 72,
+      "views": 73,
       "tags": [
         "javascript",
         "python",
@@ -300,7 +300,7 @@
       "url": "https://stackoverflow.com/questions/79951769/why-is-this-while-loop-giving-me-an-index-error",
       "score": -5,
       "answers": 1,
-      "views": 93,
+      "views": 94,
       "tags": [
         "python",
         "pygame"
