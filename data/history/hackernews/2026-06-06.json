@@ -1,0 +1,232 @@
+{
+  "source": "hackernews",
+  "label": "Hacker News — top stories",
+  "fetched_at": "2026-06-06T11:10:13.396Z",
+  "items": [
+    {
+      "rank": 1,
+      "title": "GrapheneOS user reported to authorities for using GrapheneOS",
+      "url": "https://discuss.grapheneos.org/d/36134-grapheneos-user-reported-to-authorities-for-using-grapheneos",
+      "hn_url": "https://news.ycombinator.com/item?id=48422798",
+      "score": 264,
+      "comments": 153,
+      "author": "Cider9986"
+    },
+    {
+      "rank": 2,
+      "title": "Zig Zen Update",
+      "url": "https://codeberg.org/ziglang/zig/commit/621844bde551ee1a9b8142d7d146d1fa804247a2",
+      "hn_url": "https://news.ycombinator.com/item?id=48422769",
+      "score": 60,
+      "comments": 18,
+      "author": "tosh"
+    },
+    {
+      "rank": 3,
+      "title": "How LLMs work",
+      "url": "https://www.0xkato.xyz/how-llms-actually-work/",
+      "hn_url": "https://news.ycombinator.com/item?id=48389360",
+      "score": 392,
+      "comments": 117,
+      "author": "0xkato"
+    },
+    {
+      "rank": 4,
+      "title": "The intracies of modern camera lens repair (2024)",
+      "url": "https://salvagedcircuitry.com/sigma-45mm.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48420148",
+      "score": 177,
+      "comments": 60,
+      "author": "transistor-man"
+    },
+    {
+      "rank": 5,
+      "title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
+      "url": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
+      "hn_url": "https://news.ycombinator.com/item?id=48421442",
+      "score": 543,
+      "comments": 187,
+      "author": "maltalex"
+    },
+    {
+      "rank": 6,
+      "title": "Pre-Modern Armies for Worldbuilders, Part I: Why They Fight",
+      "url": "https://acoup.blog/2026/06/05/collections-pre-modern-armies-for-worldbuilders-part-i-why-they-fight/",
+      "hn_url": "https://news.ycombinator.com/item?id=48421171",
+      "score": 87,
+      "comments": 24,
+      "author": "gostsamo"
+    },
+    {
+      "rank": 7,
+      "title": "Social Cache Busting",
+      "url": "https://www.autodidacts.io/social-cache-busting/",
+      "hn_url": "https://news.ycombinator.com/item?id=48369864",
+      "score": 46,
+      "comments": 11,
+      "author": "surprisetalk"
+    },
+    {
+      "rank": 8,
+      "title": "New method turns ocean water into drinking water, without waste",
+      "url": "https://www.rochester.edu/newscenter/what-is-desalination-definition-ocean-water-704732/",
+      "hn_url": "https://news.ycombinator.com/item?id=48413500",
+      "score": 390,
+      "comments": 164,
+      "author": "speckx"
+    },
+    {
+      "rank": 9,
+      "title": "Astronauts told to return to ISS after sheltering over air leak repairs",
+      "url": "https://www.bbc.com/news/live/c4g44ew3g1kt",
+      "hn_url": "https://news.ycombinator.com/item?id=48413464",
+      "score": 401,
+      "comments": 251,
+      "author": "janpot"
+    },
+    {
+      "rank": 10,
+      "title": "pg_durable: Microsoft open sources in-database durable execution",
+      "url": "https://github.com/microsoft/pg_durable",
+      "hn_url": "https://news.ycombinator.com/item?id=48414367",
+      "score": 407,
+      "comments": 90,
+      "author": "coffeemug"
+    },
+    {
+      "rank": 11,
+      "title": "Ask HN: What was your \"oh shit\" moment with GenAI?",
+      "url": "https://news.ycombinator.com/item?id=48406174",
+      "hn_url": "https://news.ycombinator.com/item?id=48406174",
+      "score": 353,
+      "comments": 664,
+      "author": "andrehacker"
+    },
+    {
+      "rank": 12,
+      "title": "The back cover of C++: The Language raises questions not answered by front cover",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260605-01/?p=112391",
+      "hn_url": "https://news.ycombinator.com/item?id=48421079",
+      "score": 103,
+      "comments": 29,
+      "author": "paulmooreparks"
+    },
+    {
+      "rank": 13,
+      "title": "Gemma 4 QAT models: Optimizing compression for mobile and laptop efficiency",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/",
+      "hn_url": "https://news.ycombinator.com/item?id=48414653",
+      "score": 357,
+      "comments": 108,
+      "author": "theanonymousone"
+    },
+    {
+      "rank": 14,
+      "title": "Did Claude increase bugs in rsync?",
+      "url": "https://alexispurslane.github.io/rsync-analysis/",
+      "hn_url": "https://news.ycombinator.com/item?id=48411635",
+      "score": 427,
+      "comments": 439,
+      "author": "logicprog"
+    },
+    {
+      "rank": 15,
+      "title": "What 100k concurrent sandboxes has taught us so far",
+      "url": "https://www.computesdk.com/blog/scale-invitational-update/",
+      "hn_url": "https://news.ycombinator.com/item?id=48385990",
+      "score": 4,
+      "comments": 0,
+      "author": "heygarrison"
+    },
+    {
+      "rank": 16,
+      "title": "Mouseless – keyboard-driven control of macOS/Linux/Windows",
+      "url": "https://mouseless.click",
+      "hn_url": "https://news.ycombinator.com/item?id=48383667",
+      "score": 536,
+      "comments": 216,
+      "author": "riddley"
+    },
+    {
+      "rank": 17,
+      "title": "Raytracing Geometries in 3D Rendering",
+      "url": "https://andeplane.github.io/Raytracing/",
+      "hn_url": "https://news.ycombinator.com/item?id=48382219",
+      "score": 10,
+      "comments": 2,
+      "author": "kvakkefly"
+    },
+    {
+      "rank": 18,
+      "title": "Ten Years of Franz",
+      "url": "https://meetfranz.com/blog/ten-years-of-franz",
+      "hn_url": "https://news.ycombinator.com/item?id=48380932",
+      "score": 40,
+      "comments": 25,
+      "author": "tosh"
+    },
+    {
+      "rank": 19,
+      "title": "Lockdown Mode",
+      "url": "https://help.openai.com/en/articles/20001061-lockdown-mode",
+      "hn_url": "https://news.ycombinator.com/item?id=48421145",
+      "score": 63,
+      "comments": 26,
+      "author": "berlianta"
+    },
+    {
+      "rank": 20,
+      "title": "My Agent Skill for Test-Driven Development",
+      "url": "https://www.saturnci.com/my-agent-skill-for-test-driven-development.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48398925",
+      "score": 187,
+      "comments": 79,
+      "author": "laxmena"
+    },
+    {
+      "rank": 21,
+      "title": "Azure Linux Desktop",
+      "url": "https://www.boxofcables.dev/azure-linux-desktop-a-build-2026-mashup-of-wslc-winui-reactor-and-azure-linux-4-0/",
+      "hn_url": "https://news.ycombinator.com/item?id=48422451",
+      "score": 16,
+      "comments": 2,
+      "author": "haydenbarnes"
+    },
+    {
+      "rank": 22,
+      "title": "Gov.uk has replaced Stripe with Dutch provider Adyen",
+      "url": "https://www.theregister.com/public-sector/2026/06/04/govuk-goes-dutch-on-payments-as-it-dumps-stripe/5250763",
+      "hn_url": "https://news.ycombinator.com/item?id=48415217",
+      "score": 468,
+      "comments": 173,
+      "author": "toomuchtodo"
+    },
+    {
+      "rank": 23,
+      "title": "Nine Ways to Do Inheritance in Rust, a Language Without Inheritance",
+      "url": "https://medium.com/@carlmkadie/nine-ways-to-do-inheritance-in-rust-a-language-without-inheritance-14825bf1e215",
+      "hn_url": "https://news.ycombinator.com/item?id=48383760",
+      "score": 54,
+      "comments": 10,
+      "author": "pjmlp"
+    },
+    {
+      "rank": 24,
+      "title": "Conventional Commits encourages focus on the wrong things",
+      "url": "https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/",
+      "hn_url": "https://news.ycombinator.com/item?id=48414027",
+      "score": 318,
+      "comments": 234,
+      "author": "jsve"
+    },
+    {
+      "rank": 25,
+      "title": "Ask HN: Why is the HN crowd so anti-AI?",
+      "url": "https://news.ycombinator.com/item?id=48420827",
+      "hn_url": "https://news.ycombinator.com/item?id=48420827",
+      "score": 180,
+      "comments": 324,
+      "author": "Ekami"
+    }
+  ]
+}
