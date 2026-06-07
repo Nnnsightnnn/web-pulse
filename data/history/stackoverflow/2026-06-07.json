@@ -1,0 +1,318 @@
+{
+  "source": "stackoverflow",
+  "label": "Stack Overflow — hot questions",
+  "fetched_at": "2026-06-07T11:22:03.469Z",
+  "items": [
+    {
+      "rank": 1,
+      "title": "Why is `as.logical()` much faster than `logical(0)`?",
+      "url": "https://stackoverflow.com/questions/79952588/why-is-as-logical-much-faster-than-logical0",
+      "score": 2,
+      "answers": 1,
+      "views": 35,
+      "tags": [
+        "r"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "How do I identify and fix slow PostgreSQL queries caused by missing indexes?",
+      "url": "https://stackoverflow.com/questions/79952602/how-do-i-identify-and-fix-slow-postgresql-queries-caused-by-missing-indexes",
+      "score": -1,
+      "answers": 0,
+      "views": 18,
+      "tags": [
+        "javascript"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "AWS Trust Policy Role chaining",
+      "url": "https://stackoverflow.com/questions/79952607/aws-trust-policy-role-chaining",
+      "score": 0,
+      "answers": 0,
+      "views": 17,
+      "tags": [
+        "amazon-web-services",
+        "amazon-iam",
+        "identity-management"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Limitation on inferring the type by narrowing a discriminated union?",
+      "url": "https://stackoverflow.com/questions/79952601/limitation-on-inferring-the-type-by-narrowing-a-discriminated-union",
+      "score": 0,
+      "answers": 0,
+      "views": 12,
+      "tags": [
+        "typescript"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "How can I avoid using LLMs as a software developer?",
+      "url": "https://stackoverflow.com/questions/79948695/how-can-i-avoid-using-llms-as-a-software-developer",
+      "score": 108,
+      "answers": 167,
+      "views": 7657,
+      "tags": [
+        "large-language-model"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "How to learn the gits command lines",
+      "url": "https://stackoverflow.com/questions/79952599/how-to-learn-the-gits-command-lines",
+      "score": 0,
+      "answers": 2,
+      "views": 32,
+      "tags": [
+        "git",
+        "github",
+        "command-line",
+        "command",
+        "repository"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Missing dependencies for Podman on Xubuntu",
+      "url": "https://stackoverflow.com/questions/79952589/missing-dependencies-for-podman-on-xubuntu",
+      "score": 0,
+      "answers": 1,
+      "views": 30,
+      "tags": [
+        "ubuntu",
+        "podman"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "During a git bisect, how can I find out which revision would be next if I mark the current one as good or bad, without marking it so?",
+      "url": "https://stackoverflow.com/questions/79952570/during-a-git-bisect-how-can-i-find-out-which-revision-would-be-next-if-i-mark-t",
+      "score": 0,
+      "answers": 2,
+      "views": 39,
+      "tags": [
+        "git"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Can C for-loop syntax can be shorten?",
+      "url": "https://stackoverflow.com/questions/79952543/can-c-for-loop-syntax-can-be-shorten",
+      "score": 0,
+      "answers": 4,
+      "views": 73,
+      "tags": [
+        "c",
+        "for-loop",
+        "syntax"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "I click on the submit button and it gives me a white screen in Codio",
+      "url": "https://stackoverflow.com/questions/79952539/i-click-on-the-submit-button-and-it-gives-me-a-white-screen-in-codio",
+      "score": -2,
+      "answers": 1,
+      "views": 49,
+      "tags": [
+        "php",
+        "html",
+        "mysql"
+      ]
+    },
+    {
+      "rank": 11,
+      "title": "Spring STOMP not resolving session token from connect header while enabled WebSocket security",
+      "url": "https://stackoverflow.com/questions/79952584/spring-stomp-not-resolving-session-token-from-connect-header-while-enabled-webso",
+      "score": 0,
+      "answers": 0,
+      "views": 19,
+      "tags": [
+        "spring-security",
+        "http-headers",
+        "spring-websocket",
+        "spring-session"
+      ]
+    },
+    {
+      "rank": 12,
+      "title": "Cannot access WSL2 python http.server (port 7070) from Windows 11 host via localhost",
+      "url": "https://stackoverflow.com/questions/79952546/cannot-access-wsl2-python-http-server-port-7070-from-windows-11-host-via-local",
+      "score": 0,
+      "answers": 1,
+      "views": 42,
+      "tags": [
+        "windows",
+        "windows-subsystem-for-linux"
+      ]
+    },
+    {
+      "rank": 13,
+      "title": "Flask app SQLite3 objects created in one thread cannot be used in another",
+      "url": "https://stackoverflow.com/questions/79952563/flask-app-sqlite3-objects-created-in-one-thread-cannot-be-used-in-another",
+      "score": -1,
+      "answers": 0,
+      "views": 44,
+      "tags": [
+        "python",
+        "sqlite",
+        "flask",
+        "python-requests",
+        "sqlite3-python"
+      ]
+    },
+    {
+      "rank": 14,
+      "title": "Custom Endpoint not being used for auto inline suggestions",
+      "url": "https://stackoverflow.com/questions/79952562/custom-endpoint-not-being-used-for-auto-inline-suggestions",
+      "score": -1,
+      "answers": 0,
+      "views": 25,
+      "tags": [
+        "github-copilot"
+      ]
+    },
+    {
+      "rank": 15,
+      "title": "Java java.util.NoSuchElementException: No line found in catch block",
+      "url": "https://stackoverflow.com/questions/79952556/java-java-util-nosuchelementexception-no-line-found-in-catch-block",
+      "score": -2,
+      "answers": 0,
+      "views": 25,
+      "tags": [
+        "java",
+        "exception",
+        "java.util.scanner"
+      ]
+    },
+    {
+      "rank": 16,
+      "title": "How to fix speed inconsistency between negative and positive addforce on the x axis in unity",
+      "url": "https://stackoverflow.com/questions/79952510/how-to-fix-speed-inconsistency-between-negative-and-positive-addforce-on-the-x-a",
+      "score": 0,
+      "answers": 1,
+      "views": 52,
+      "tags": [
+        "c#",
+        "unity-game-engine"
+      ]
+    },
+    {
+      "rank": 17,
+      "title": "SwiftUI Text alignment next to centred Text",
+      "url": "https://stackoverflow.com/questions/79952567/swiftui-text-alignment-next-to-centred-text",
+      "score": 0,
+      "answers": 0,
+      "views": 11,
+      "tags": [
+        "swift",
+        "swiftui",
+        "swiftui-text"
+      ]
+    },
+    {
+      "rank": 18,
+      "title": "Flutter package in_app_purchase: ^3.2.3 integrated for Apple InAppPurchases but after payment completed it gives appAccountToken=null in backend",
+      "url": "https://stackoverflow.com/questions/79952559/flutter-package-in-app-purchase-3-2-3-integrated-for-apple-inapppurchases-but",
+      "score": 1,
+      "answers": 0,
+      "views": 21,
+      "tags": [
+        "flutter",
+        "in-app-purchase",
+        "storekit",
+        "in-app",
+        "flutter-in-app-purchase"
+      ]
+    },
+    {
+      "rank": 19,
+      "title": "undefined reference to `SHA256'",
+      "url": "https://stackoverflow.com/questions/79952544/undefined-reference-to-sha256",
+      "score": -3,
+      "answers": 0,
+      "views": 46,
+      "tags": [
+        "c",
+        "openssl"
+      ]
+    },
+    {
+      "rank": 20,
+      "title": "Programming| System Development",
+      "url": "https://stackoverflow.com/questions/79952535/programming-system-development",
+      "score": 0,
+      "answers": 1,
+      "views": 61,
+      "tags": [
+        "javascript",
+        "python",
+        "html",
+        "jquery"
+      ]
+    },
+    {
+      "rank": 21,
+      "title": "How do I use a function which only returns a promise?",
+      "url": "https://stackoverflow.com/questions/79952493/how-do-i-use-a-function-which-only-returns-a-promise",
+      "score": -3,
+      "answers": 1,
+      "views": 92,
+      "tags": [
+        "javascript",
+        "web-audio-api"
+      ]
+    },
+    {
+      "rank": 22,
+      "title": "How do I solve viber activation fail issue?",
+      "url": "https://stackoverflow.com/questions/79952554/how-do-i-solve-viber-activation-fail-issue",
+      "score": 0,
+      "answers": 0,
+      "views": 20,
+      "tags": [
+        "viber-api"
+      ]
+    },
+    {
+      "rank": 23,
+      "title": "Automatically enclosing sections of unrelated elements in <div> tags",
+      "url": "https://stackoverflow.com/questions/79952451/automatically-enclosing-sections-of-unrelated-elements-in-div-tags",
+      "score": 1,
+      "answers": 1,
+      "views": 92,
+      "tags": [
+        "javascript",
+        "html"
+      ]
+    },
+    {
+      "rank": 24,
+      "title": "gnu makefile builds pre-requisites but doesn't run the recipe until make is re-run",
+      "url": "https://stackoverflow.com/questions/79952533/gnu-makefile-builds-pre-requisites-but-doesnt-run-the-recipe-until-make-is-re-r",
+      "score": 2,
+      "answers": 1,
+      "views": 54,
+      "tags": [
+        "c",
+        "makefile",
+        "gnu-make"
+      ]
+    },
+    {
+      "rank": 25,
+      "title": "How to find name matches exact, partial or no match from two list",
+      "url": "https://stackoverflow.com/questions/79952213/how-to-find-name-matches-exact-partial-or-no-match-from-two-list",
+      "score": 2,
+      "answers": 10,
+      "views": 150,
+      "tags": [
+        "r"
+      ]
+    }
+  ]
+}

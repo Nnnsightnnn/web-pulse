@@ -1,0 +1,232 @@
+{
+  "source": "hackernews",
+  "label": "Hacker News — top stories",
+  "fetched_at": "2026-06-07T11:22:03.644Z",
+  "items": [
+    {
+      "rank": 1,
+      "title": "The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winners",
+      "url": "https://www.ioccc.org/2025/",
+      "hn_url": "https://news.ycombinator.com/item?id=48432199",
+      "score": 190,
+      "comments": 50,
+      "author": "matt_d"
+    },
+    {
+      "rank": 2,
+      "title": "Speculative KV coding: losslessly compressing KV cache by up to ~4×",
+      "url": "https://fergusfinn.com/blog/kv-entropy-coder/",
+      "hn_url": "https://news.ycombinator.com/item?id=48400151",
+      "score": 55,
+      "comments": 10,
+      "author": "kkm"
+    },
+    {
+      "rank": 3,
+      "title": "Scientists ejected from diabetes conference for distributing journal reprints",
+      "url": "https://arstechnica.com/science/2026/06/scientists-ejected-from-diabetes-conference-for-distributing-journal-reprints/",
+      "hn_url": "https://news.ycombinator.com/item?id=48433410",
+      "score": 44,
+      "comments": 22,
+      "author": "BerislavLopac"
+    },
+    {
+      "rank": 4,
+      "title": "Win16 Memory Management",
+      "url": "http://www.os2museum.com/wp/win16-memory-management/",
+      "hn_url": "https://news.ycombinator.com/item?id=48410844",
+      "score": 34,
+      "comments": 9,
+      "author": "supermatou"
+    },
+    {
+      "rank": 5,
+      "title": "Valve P2P networking broken for more than 2 months",
+      "url": "https://github.com/ValveSoftware/GameNetworkingSockets/issues/398",
+      "hn_url": "https://news.ycombinator.com/item?id=48431461",
+      "score": 182,
+      "comments": 86,
+      "author": "babuskov"
+    },
+    {
+      "rank": 6,
+      "title": "Field of clones: How horse replicas came to dominate polo",
+      "url": "https://knowablemagazine.org/content/article/technology/2026/cloned-polo-horses",
+      "hn_url": "https://news.ycombinator.com/item?id=48431286",
+      "score": 98,
+      "comments": 46,
+      "author": "gscott"
+    },
+    {
+      "rank": 7,
+      "title": "My Software North Star",
+      "url": "https://kristoff.it/blog/north-star/",
+      "hn_url": "https://news.ycombinator.com/item?id=48389368",
+      "score": 93,
+      "comments": 42,
+      "author": "kristoff_it"
+    },
+    {
+      "rank": 8,
+      "title": "Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering",
+      "url": "https://arxiv.org/abs/2601.14470",
+      "hn_url": "https://news.ycombinator.com/item?id=48430923",
+      "score": 111,
+      "comments": 41,
+      "author": "Anon84"
+    },
+    {
+      "rank": 9,
+      "title": "Ntsc-rs – open-source video emulation of analog TV and VHS artifacts",
+      "url": "https://ntsc.rs/",
+      "hn_url": "https://news.ycombinator.com/item?id=48428025",
+      "score": 352,
+      "comments": 94,
+      "author": "gregsadetsky"
+    },
+    {
+      "rank": 10,
+      "title": "Public Domain Image Archive",
+      "url": "https://pdimagearchive.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=48430539",
+      "score": 136,
+      "comments": 21,
+      "author": "davidbarker"
+    },
+    {
+      "rank": 11,
+      "title": "Symbolica 2.0: Programmable Symbols for Python and Rust",
+      "url": "https://symbolica.io/posts/symbolica_2_0_release/",
+      "hn_url": "https://news.ycombinator.com/item?id=48415457",
+      "score": 92,
+      "comments": 7,
+      "author": "mmastrac"
+    },
+    {
+      "rank": 12,
+      "title": "Harness engineering: Leveraging Codex in an agent-first world",
+      "url": "https://openai.com/index/harness-engineering/",
+      "hn_url": "https://news.ycombinator.com/item?id=48416264",
+      "score": 210,
+      "comments": 132,
+      "author": "pramodbiligiri"
+    },
+    {
+      "rank": 13,
+      "title": "Biohub releases a world model of protein biology",
+      "url": "https://biohub.org/news/world-model-of-protein-biology/",
+      "hn_url": "https://news.ycombinator.com/item?id=48393252",
+      "score": 89,
+      "comments": 10,
+      "author": "gmays"
+    },
+    {
+      "rank": 14,
+      "title": "I design with Claude more than Figma now",
+      "url": "https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/",
+      "hn_url": "https://news.ycombinator.com/item?id=48431981",
+      "score": 179,
+      "comments": 151,
+      "author": "MrBuddyCasino"
+    },
+    {
+      "rank": 15,
+      "title": "How Liminalism Became the Defining Aesthetic of Our Time",
+      "url": "https://hyperallergic.com/how-liminalism-became-the-defining-aesthetic-of-our-time/",
+      "hn_url": "https://news.ycombinator.com/item?id=48431085",
+      "score": 77,
+      "comments": 42,
+      "author": "zeech"
+    },
+    {
+      "rank": 16,
+      "title": "Arithmetic Without Numbers – How LLMs Do Math",
+      "url": "https://alvaro-videla.com/llm-arithmetic-internals/article_interactive/article.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48410427",
+      "score": 34,
+      "comments": 10,
+      "author": "old_sound"
+    },
+    {
+      "rank": 17,
+      "title": "Moving beyond fork() + exec()",
+      "url": "https://lwn.net/SubscriberLink/1076018/16f01bbbb8e0d1f0/",
+      "hn_url": "https://news.ycombinator.com/item?id=48425528",
+      "score": 310,
+      "comments": 297,
+      "author": "jwilk"
+    },
+    {
+      "rank": 18,
+      "title": "Introducing Boron Buckyballs: Theory that B80 cages can’t be made is disproved",
+      "url": "https://cen.acs.org/materials/nanomaterials/buckyballs-boron-buckminster-fullerene-nanomaterials/104/web/2026/06",
+      "hn_url": "https://news.ycombinator.com/item?id=48405815",
+      "score": 88,
+      "comments": 22,
+      "author": "crescit_eundo"
+    },
+    {
+      "rank": 19,
+      "title": "Games Between Programs: The Ruliology of Competition",
+      "url": "https://writings.stephenwolfram.com/2026/06/games-between-programs-the-ruliology-of-competition/",
+      "hn_url": "https://news.ycombinator.com/item?id=48402157",
+      "score": 11,
+      "comments": 0,
+      "author": "surprisetalk"
+    },
+    {
+      "rank": 20,
+      "title": "Nvidia is proposing a beast of a CPU system for Windows PCs",
+      "url": "https://twitter.com/lemire/status/2062880075117113739",
+      "hn_url": "https://news.ycombinator.com/item?id=48424605",
+      "score": 289,
+      "comments": 480,
+      "author": "tosh"
+    },
+    {
+      "rank": 21,
+      "title": "Google to pay SpaceX $920M a month for compute capacity at xAI data centers",
+      "url": "https://www.cnbc.com/2026/06/05/google-to-pay-spacex-920-million-a-month-for-xai-compute-capacity.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48417490",
+      "score": 255,
+      "comments": 842,
+      "author": "toephu2"
+    },
+    {
+      "rank": 22,
+      "title": "Enforcing the First as in BGP AS_PATHs",
+      "url": "https://blog.cloudflare.com/enforce-first-as-bgp/",
+      "hn_url": "https://news.ycombinator.com/item?id=48398092",
+      "score": 5,
+      "comments": 1,
+      "author": "berlianta"
+    },
+    {
+      "rank": 23,
+      "title": "Zeroserve: A zero-config web server you can script with eBPF",
+      "url": "https://su3.io/posts/introducing-zeroserve",
+      "hn_url": "https://news.ycombinator.com/item?id=48425723",
+      "score": 238,
+      "comments": 56,
+      "author": "losfair"
+    },
+    {
+      "rank": 24,
+      "title": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
+      "url": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
+      "hn_url": "https://news.ycombinator.com/item?id=48427643",
+      "score": 610,
+      "comments": 219,
+      "author": "speckx"
+    },
+    {
+      "rank": 25,
+      "title": "Sem: New primitive for code understanding – not LSPs, but entities on top of Git",
+      "url": "https://ataraxy-labs.github.io/sem/",
+      "hn_url": "https://news.ycombinator.com/item?id=48428475",
+      "score": 125,
+      "comments": 48,
+      "author": "rohanucla"
+    }
+  ]
+}
