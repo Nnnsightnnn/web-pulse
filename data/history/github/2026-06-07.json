@@ -1,7 +1,7 @@
 {
   "source": "github",
   "label": "GitHub — trending today",
-  "fetched_at": "2026-06-07T11:22:03.987Z",
+  "fetched_at": "2026-06-07T18:02:18.659Z",
   "items": [
     {
       "rank": 1,
@@ -9,179 +9,149 @@
       "url": "https://github.com/mvanhorn/last30days-skill",
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "language": "Python",
-      "stars_today": 439,
-      "stars": 29449,
-      "forks": 2496
+      "stars_today": 1097,
+      "stars": 30269,
+      "forks": 2546
     },
     {
       "rank": 2,
-      "title": "CopilotKit/CopilotKit",
-      "url": "https://github.com/CopilotKit/CopilotKit",
-      "description": "The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more. Makers of the AG-UI Protocol",
-      "language": "TypeScript",
-      "stars_today": 631,
-      "stars": 33518,
-      "forks": 4263
+      "title": "opencv/opencv",
+      "url": "https://github.com/opencv/opencv",
+      "description": "Open Source Computer Vision Library",
+      "language": "C++",
+      "stars_today": 89,
+      "stars": 87989,
+      "forks": 56594
     },
     {
       "rank": 3,
-      "title": "MemPalace/mempalace",
-      "url": "https://github.com/MemPalace/mempalace",
-      "description": "The best-benchmarked open-source AI memory system. And it's free.",
-      "language": "Python",
-      "stars_today": 446,
-      "stars": 54529,
-      "forks": 7127
+      "title": "Leonxlnx/taste-skill",
+      "url": "https://github.com/Leonxlnx/taste-skill",
+      "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+      "language": "Shell",
+      "stars_today": 1104,
+      "stars": 36281,
+      "forks": 2631
     },
     {
       "rank": 4,
-      "title": "danielmiessler/Personal_AI_Infrastructure",
-      "url": "https://github.com/danielmiessler/Personal_AI_Infrastructure",
-      "description": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
-      "language": "TypeScript",
-      "stars_today": 70,
-      "stars": 15151,
-      "forks": 2135
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "language": "Python",
+      "stars_today": 1117,
+      "stars": 185660,
+      "forks": 31913
     },
     {
       "rank": 5,
-      "title": "openai/plugins",
-      "url": "https://github.com/openai/plugins",
-      "description": "OpenAI Plugins",
-      "language": "JavaScript",
-      "stars_today": 213,
-      "stars": 1889,
-      "forks": 263
-    },
-    {
-      "rank": 6,
-      "title": "Panniantong/Agent-Reach",
-      "url": "https://github.com/Panniantong/Agent-Reach",
-      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "language": "Python",
-      "stars_today": 683,
-      "stars": 22869,
-      "forks": 1938
-    },
-    {
-      "rank": 7,
-      "title": "sveltejs/svelte",
-      "url": "https://github.com/sveltejs/svelte",
-      "description": "web development for the rest of us",
-      "language": "JavaScript",
-      "stars_today": 25,
-      "stars": 87095,
-      "forks": 4940
-    },
-    {
-      "rank": 8,
-      "title": "nginx/nginx",
-      "url": "https://github.com/nginx/nginx",
-      "description": "The official NGINX Open Source repository.",
-      "language": "C",
-      "stars_today": 20,
-      "stars": 30749,
-      "forks": 7960
-    },
-    {
-      "rank": 9,
-      "title": "aquasecurity/trivy",
-      "url": "https://github.com/aquasecurity/trivy",
-      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
-      "language": "Go",
-      "stars_today": 159,
-      "stars": 36066,
-      "forks": 458
-    },
-    {
-      "rank": 10,
-      "title": "golang/go",
-      "url": "https://github.com/golang/go",
-      "description": "The Go programming language",
-      "language": "Go",
-      "stars_today": 30,
-      "stars": 134576,
-      "forks": 19087
-    },
-    {
-      "rank": 11,
       "title": "lfnovo/open-notebook",
       "url": "https://github.com/lfnovo/open-notebook",
       "description": "An Open Source implementation of Notebook LM with more flexibility and features",
       "language": "TypeScript",
-      "stars_today": 794,
-      "stars": 26858,
-      "forks": 3057
+      "stars_today": 555,
+      "stars": 27050,
+      "forks": 3074
+    },
+    {
+      "rank": 6,
+      "title": "yikart/AiToEarn",
+      "url": "https://github.com/yikart/AiToEarn",
+      "description": "Let's use AI to Earn!",
+      "language": "TypeScript",
+      "stars_today": 180,
+      "stars": 18666,
+      "forks": 2900
+    },
+    {
+      "rank": 7,
+      "title": "aaif-goose/goose",
+      "url": "https://github.com/aaif-goose/goose",
+      "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+      "language": "Rust",
+      "stars_today": 338,
+      "stars": 47300,
+      "forks": 4988
+    },
+    {
+      "rank": 8,
+      "title": "Crosstalk-Solutions/project-nomad",
+      "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+      "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
+      "language": "TypeScript",
+      "stars_today": 304,
+      "stars": 29569,
+      "forks": 2929
+    },
+    {
+      "rank": 9,
+      "title": "ggml-org/llama.cpp",
+      "url": "https://github.com/ggml-org/llama.cpp",
+      "description": "LLM inference in C/C++",
+      "language": "C++",
+      "stars_today": 197,
+      "stars": 115213,
+      "forks": 19283
+    },
+    {
+      "rank": 10,
+      "title": "RyanCodrai/turbovec",
+      "url": "https://github.com/RyanCodrai/turbovec",
+      "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
+      "language": "Python",
+      "stars_today": 1533,
+      "stars": 6750,
+      "forks": 665
+    },
+    {
+      "rank": 11,
+      "title": "TapXWorld/ChinaTextbook",
+      "url": "https://github.com/TapXWorld/ChinaTextbook",
+      "description": "所有小初高、大学PDF教材。",
+      "language": "Roff",
+      "stars_today": 355,
+      "stars": 72397,
+      "forks": 16233
     },
     {
       "rank": 12,
-      "title": "obra/superpowers",
-      "url": "https://github.com/obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "language": "Shell",
-      "stars_today": 700,
-      "stars": 220035,
-      "forks": 19575
+      "title": "openai/plugins",
+      "url": "https://github.com/openai/plugins",
+      "description": "OpenAI Plugins",
+      "language": "JavaScript",
+      "stars_today": 262,
+      "stars": 1971,
+      "forks": 267
     },
     {
       "rank": 13,
-      "title": "santifer/career-ops",
-      "url": "https://github.com/santifer/career-ops",
-      "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
-      "language": "JavaScript",
-      "stars_today": 193,
-      "stars": 49692,
-      "forks": 10244
+      "title": "refactoringhq/tolaria",
+      "url": "https://github.com/refactoringhq/tolaria",
+      "description": "Desktop app to manage markdown knowledge bases",
+      "language": "TypeScript",
+      "stars_today": 242,
+      "stars": 12748,
+      "forks": 903
     },
     {
       "rank": 14,
-      "title": "openai/whisper",
-      "url": "https://github.com/openai/whisper",
-      "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
+      "title": "HunxByts/GhostTrack",
+      "url": "https://github.com/HunxByts/GhostTrack",
+      "description": "Useful tool to track location or mobile number",
       "language": "Python",
-      "stars_today": 150,
-      "stars": 102000,
-      "forks": 12450
+      "stars_today": 21,
+      "stars": 13655,
+      "forks": 1830
     },
     {
       "rank": 15,
-      "title": "vitejs/vite",
-      "url": "https://github.com/vitejs/vite",
-      "description": "Next generation frontend tooling. It's fast!",
-      "language": "TypeScript",
-      "stars_today": 25,
-      "stars": 81274,
-      "forks": 8280
-    },
-    {
-      "rank": 16,
-      "title": "microsoft/mxc",
-      "url": "https://github.com/microsoft/mxc",
-      "description": "Policy-driven, layered isolation and containment",
+      "title": "microsoft/pg_durable",
+      "url": "https://github.com/microsoft/pg_durable",
+      "description": "PostgreSQL in-database durable execution",
       "language": "Rust",
-      "stars_today": 64,
-      "stars": 672,
-      "forks": 26
-    },
-    {
-      "rank": 17,
-      "title": "PaddlePaddle/PaddleOCR",
-      "url": "https://github.com/PaddlePaddle/PaddleOCR",
-      "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
-      "language": "Python",
-      "stars_today": 433,
-      "stars": 81163,
-      "forks": 10672
-    },
-    {
-      "rank": 18,
-      "title": "microsoft/VibeVoice",
-      "url": "https://github.com/microsoft/VibeVoice",
-      "description": "Open-Source Frontier Voice AI",
-      "language": "Python",
-      "stars_today": 216,
-      "stars": 48613,
-      "forks": 5400
+      "stars_today": 314,
+      "stars": 1378,
+      "forks": 29
     }
   ]
 }

@@ -1,15 +1,33 @@
 {
   "source": "polymarket",
   "label": "Polymarket — top 24h volume",
-  "fetched_at": "2026-06-07T11:22:03.477Z",
+  "fetched_at": "2026-06-07T18:02:18.820Z",
   "items": [
     {
       "rank": 1,
+      "title": "Roland Garros ATP: Flavio Cobolli vs Alexander Zverev",
+      "url": "https://polymarket.com/event/atp-cobolli-zverev-2026-06-07",
+      "volume_24h": 17958246.86510315,
+      "volume_total": 18039567.55541749,
+      "liquidity": 4445664.58848,
+      "yes_price": 0.0005,
+      "leader": {
+        "name": "Alexander Zverev",
+        "price": 0.9995
+      },
+      "end_date": "2026-06-14T13:00:00Z",
+      "outcomes": [
+        "Flavio Cobolli",
+        "Alexander Zverev"
+      ]
+    },
+    {
+      "rank": 2,
       "title": "Spurs vs. Knicks",
       "url": "https://polymarket.com/event/nba-sas-nyk-2026-06-08",
-      "volume_24h": 4570950.236884998,
-      "volume_total": 5818942.996103033,
-      "liquidity": 2460460.9485,
+      "volume_24h": 4780144.523405993,
+      "volume_total": 6122759.241925081,
+      "liquidity": 2603694.7668,
       "yes_price": 0.455,
       "leader": {
         "name": "Knicks",
@@ -22,30 +40,30 @@
       ]
     },
     {
-      "rank": 2,
-      "title": "Roland Garros ATP: Flavio Cobolli vs Alexander Zverev",
-      "url": "https://polymarket.com/event/atp-cobolli-zverev-2026-06-07",
-      "volume_24h": 2960097.0829779934,
-      "volume_total": 2970981.7176749944,
-      "liquidity": 1972112.4113,
-      "yes_price": 0.195,
+      "rank": 3,
+      "title": "Will Morocco win the 2026 FIFA World Cup?",
+      "url": "https://polymarket.com/event/world-cup-winner",
+      "volume_24h": 3165638.858853,
+      "volume_total": 38083786.88808344,
+      "liquidity": 1035930.26479,
+      "yes_price": 0.0155,
       "leader": {
-        "name": "Alexander Zverev",
-        "price": 0.805
+        "name": "No",
+        "price": 0.9845
       },
-      "end_date": "2026-06-14T13:00:00Z",
+      "end_date": "2026-07-20T00:00:00Z",
       "outcomes": [
-        "Flavio Cobolli",
-        "Alexander Zverev"
+        "Yes",
+        "No"
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "Israel announces Lebanon ceasefire extension by June 7?",
       "url": "https://polymarket.com/event/israel-announces-lebanon-ceasefire-extension-by",
-      "volume_24h": 2627680.99,
-      "volume_total": 10998091.391163718,
-      "liquidity": 4076236.37993,
+      "volume_24h": 3093354.57,
+      "volume_total": 12459426.391163718,
+      "liquidity": 2199280.05605,
       "yes_price": 0.9995,
       "leader": {
         "name": "Yes",
@@ -58,52 +76,34 @@
       ]
     },
     {
-      "rank": 4,
-      "title": "Will Iran win the 2026 FIFA World Cup?",
-      "url": "https://polymarket.com/event/world-cup-winner",
-      "volume_24h": 2085824.3680000002,
-      "volume_total": 38037772.763790004,
-      "liquidity": 8791881.79729,
-      "yes_price": 0.0015,
-      "leader": {
-        "name": "No",
-        "price": 0.9985
-      },
-      "end_date": "2026-07-20T00:00:00Z",
-      "outcomes": [
-        "Yes",
-        "No"
-      ]
-    },
-    {
       "rank": 5,
-      "title": "LoL: KT Rolster vs Dplus KIA (BO5) - LCK Road to MSI",
-      "url": "https://polymarket.com/event/lol-kt-dk-2026-06-07",
-      "volume_24h": 1450476.9929110024,
-      "volume_total": 1450476.9929109982,
-      "liquidity": 74418.2682,
-      "yes_price": 0.255,
+      "title": "Dota 2: Team Yandex vs LGD Gaming - Game 3 Winner",
+      "url": "https://polymarket.com/event/dota2-ty-lgd-2026-06-07",
+      "volume_24h": 1515129.975305999,
+      "volume_total": 1515129.9753060008,
+      "liquidity": 68209.927,
+      "yes_price": 0.325,
       "leader": {
-        "name": "Dplus KIA",
-        "price": 0.745
+        "name": "LGD Gaming",
+        "price": 0.675
       },
-      "end_date": "2026-06-07T14:00:00Z",
+      "end_date": "2026-06-07T20:00:00Z",
       "outcomes": [
-        "KT Rolster",
-        "Dplus KIA"
+        "Team Yandex",
+        "LGD Gaming"
       ]
     },
     {
       "rank": 6,
-      "title": "Will the Fed increase interest rates by 50+ bps after the June 2026 meeting?",
+      "title": "Will the Fed decrease interest rates by 50+ bps after the June 2026 meeting?",
       "url": "https://polymarket.com/event/fed-decision-in-june-825",
-      "volume_24h": 1416008.18,
-      "volume_total": 17051418.114398673,
-      "liquidity": 1697511.50835,
-      "yes_price": 0.0005,
+      "volume_24h": 1390629.7122550015,
+      "volume_total": 16561068.721740438,
+      "liquidity": 1082778.81245,
+      "yes_price": 0.0025,
       "leader": {
         "name": "No",
-        "price": 0.9995
+        "price": 0.9975
       },
       "end_date": "2026-06-17T00:00:00Z",
       "outcomes": [
@@ -113,11 +113,65 @@
     },
     {
       "rank": 7,
+      "title": "Counter-Strike: B8 vs GamerLegion (BO3) - IEM Cologne Major Stage 2",
+      "url": "https://polymarket.com/event/cs2-b8-gl1-2026-06-07",
+      "volume_24h": 1251003.3088930007,
+      "volume_total": 1251003.3088929993,
+      "liquidity": 48644.1144,
+      "yes_price": 0.055,
+      "leader": {
+        "name": "GamerLegion",
+        "price": 0.945
+      },
+      "end_date": "2026-06-07T21:20:00Z",
+      "outcomes": [
+        "B8",
+        "GamerLegion"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "US x Iran permanent peace deal by June 7, 2026?",
+      "url": "https://polymarket.com/event/us-x-iran-permanent-peace-deal-by",
+      "volume_24h": 1236532.6873009994,
+      "volume_total": 17155647.83655402,
+      "liquidity": 438694.20424,
+      "yes_price": 0.0035,
+      "leader": {
+        "name": "No",
+        "price": 0.9965
+      },
+      "end_date": "2026-06-07T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Counter-Strike: FlyQuest vs paiN (BO3) - IEM Cologne Major Stage 2",
+      "url": "https://polymarket.com/event/cs2-fly-pain-2026-06-07",
+      "volume_24h": 1033526.3662540009,
+      "volume_total": 1033526.3662539978,
+      "liquidity": 488081.27865,
+      "yes_price": 0.0005,
+      "leader": {
+        "name": "paiN",
+        "price": 0.9995
+      },
+      "end_date": "2026-06-07T20:45:00Z",
+      "outcomes": [
+        "FlyQuest",
+        "paiN"
+      ]
+    },
+    {
+      "rank": 10,
       "title": "Will Carlos Álvarez win the 2026 Peruvian presidential election?",
       "url": "https://polymarket.com/event/peru-presidential-election-winner",
-      "volume_24h": 1197394.475,
-      "volume_total": 8659991.476722002,
-      "liquidity": 255105.3906,
+      "volume_24h": 872570,
+      "volume_total": 9077651.476722002,
+      "liquidity": 49370.46348,
       "yes_price": 0.0005,
       "leader": {
         "name": "No",
@@ -130,108 +184,54 @@
       ]
     },
     {
-      "rank": 8,
-      "title": "Will China invade Taiwan by end of 2026?",
-      "url": "https://polymarket.com/event/will-china-invade-taiwan-before-2027",
-      "volume_24h": 1109486.8172849978,
-      "volume_total": 33520640.130690187,
-      "liquidity": 703835.42158,
-      "yes_price": 0.0675,
-      "leader": {
-        "name": "No",
-        "price": 0.9325
-      },
-      "end_date": "2026-12-31T00:00:00Z",
-      "outcomes": [
-        "Yes",
-        "No"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "US x Iran permanent peace deal by June 7, 2026?",
-      "url": "https://polymarket.com/event/us-x-iran-permanent-peace-deal-by",
-      "volume_24h": 876848.4051169994,
-      "volume_total": 16526724.591754034,
-      "liquidity": 359037.88006,
-      "yes_price": 0.0055,
-      "leader": {
-        "name": "No",
-        "price": 0.9945
-      },
-      "end_date": "2026-06-07T00:00:00Z",
-      "outcomes": [
-        "Yes",
-        "No"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Will Maxx Crosby play for Carolina Panthers next?",
-      "url": "https://polymarket.com/event/where-will-maxx-crosby-play-in-2026",
-      "volume_24h": 840673.52,
-      "volume_total": 844132.8994540003,
-      "liquidity": 2071.03957,
-      "yes_price": 0.0295,
-      "leader": {
-        "name": "No",
-        "price": 0.9705
-      },
-      "end_date": "2026-09-01T00:00:00Z",
-      "outcomes": [
-        "Yes",
-        "No"
-      ]
-    },
-    {
       "rank": 11,
-      "title": "Dota 2: BetBoom Team vs LGD Gaming - Game 2 Winner",
-      "url": "https://polymarket.com/event/dota2-bb4-lgd-2026-06-07",
-      "volume_24h": 777033.327907999,
-      "volume_total": 777033.327908001,
-      "liquidity": 42282.0188,
-      "yes_price": 0.805,
+      "title": "LoL: G2 Esports vs Karmine Corp - Game 1 Winner",
+      "url": "https://polymarket.com/event/lol-g2-kc-2026-06-07",
+      "volume_24h": 865651.4495840007,
+      "volume_total": 865651.4495839977,
+      "liquidity": 513102.81954,
+      "yes_price": 0.0005,
       "leader": {
-        "name": "BetBoom Team",
-        "price": 0.805
+        "name": "Karmine Corp",
+        "price": 0.9995
       },
-      "end_date": "2026-06-07T13:00:00Z",
+      "end_date": "2026-06-07T21:20:00Z",
       "outcomes": [
-        "BetBoom Team",
-        "LGD Gaming"
+        "G2 Esports",
+        "Karmine Corp"
       ]
     },
     {
       "rank": 12,
-      "title": "LoL: Top Esports vs Team WE (BO5) - LPL Playoffs",
-      "url": "https://polymarket.com/event/lol-tes-we-2026-06-07",
-      "volume_24h": 737891.6323330007,
-      "volume_total": 836323.7232980002,
-      "liquidity": 83276.6498,
-      "yes_price": 0.945,
+      "title": "Pittsburgh Pirates vs. Atlanta Braves",
+      "url": "https://polymarket.com/event/mlb-pit-atl-2026-06-07",
+      "volume_24h": 843048.9951239987,
+      "volume_total": 843551.5587710011,
+      "liquidity": 120492.9754,
+      "yes_price": 0.535,
       "leader": {
-        "name": "Top Esports",
-        "price": 0.945
+        "name": "Pittsburgh Pirates",
+        "price": 0.535
       },
-      "end_date": "2026-06-07T15:00:00Z",
+      "end_date": "2026-06-14T17:35:00Z",
       "outcomes": [
-        "Top Esports",
-        "Team WE"
+        "Pittsburgh Pirates",
+        "Atlanta Braves"
       ]
     },
     {
       "rank": 13,
-      "title": "Will the San Antonio Spurs win the 2026 NBA Finals?",
-      "url": "https://polymarket.com/event/2026-nba-champion",
-      "volume_24h": 634061.8229299998,
-      "volume_total": 37347924.480377,
-      "liquidity": 337815.13052,
-      "yes_price": 0.2165,
+      "title": "Will Maxx Crosby play for Carolina Panthers next?",
+      "url": "https://polymarket.com/event/where-will-maxx-crosby-play-in-2026",
+      "volume_24h": 840870.762991,
+      "volume_total": 844330.1424450004,
+      "liquidity": 1055.2159,
+      "yes_price": 0.035,
       "leader": {
         "name": "No",
-        "price": 0.7835
+        "price": 0.965
       },
-      "end_date": "2026-07-01T00:00:00Z",
+      "end_date": "2026-09-01T00:00:00Z",
       "outcomes": [
         "Yes",
         "No"

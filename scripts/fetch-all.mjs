@@ -31,6 +31,7 @@ import huggingface from "./sources/huggingface.mjs";
 import polymarket from "./sources/polymarket.mjs";
 import usgs from "./sources/usgs.mjs";
 import twitch from "./sources/twitch.mjs";
+import gdeltAI from "./sources/gdelt-ai.mjs";
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const ROOT = join(__dirname, "..");
@@ -54,6 +55,7 @@ const SOURCES = [
   { name: "polymarket", fn: polymarket },
   { name: "usgs", fn: usgs },
   { name: "twitch", fn: twitch },
+  { name: "gdelt-ai", fn: gdeltAI },
 ];
 
 function dateStamp() {
