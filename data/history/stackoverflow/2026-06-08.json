@@ -1,0 +1,329 @@
+{
+  "source": "stackoverflow",
+  "label": "Stack Overflow — hot questions",
+  "fetched_at": "2026-06-08T11:14:38.619Z",
+  "items": [
+    {
+      "rank": 1,
+      "title": "Hello what is stack overflow and how is it usefull for new web developer like me",
+      "url": "https://stackoverflow.com/questions/79952958/hello-what-is-stack-overflow-and-how-is-it-usefull-for-new-web-developer-like-me",
+      "score": 0,
+      "answers": 1,
+      "views": 28,
+      "tags": [
+        "adonetappender"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Problem in WebRTC audio transmission in Chrome 149",
+      "url": "https://stackoverflow.com/questions/79952950/problem-in-webrtc-audio-transmission-in-chrome-149",
+      "score": -1,
+      "answers": 0,
+      "views": 27,
+      "tags": [
+        "google-chrome",
+        "websocket",
+        "microsoft-edge",
+        "chromium",
+        "rtp"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Tips/Steps to creare a MDM software for Android",
+      "url": "https://stackoverflow.com/questions/79952930/tips-steps-to-creare-a-mdm-software-for-android",
+      "score": 0,
+      "answers": 1,
+      "views": 26,
+      "tags": [
+        "android",
+        "mdm"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "AG-Grid SSRM FLAT Group by",
+      "url": "https://stackoverflow.com/questions/79952946/ag-grid-ssrm-flat-group-by",
+      "score": -3,
+      "answers": 0,
+      "views": 21,
+      "tags": [
+        "ag-grid",
+        "ag-grid-angular"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "What must a type satisfy for its auto-generated hash function to be copy-constructible?",
+      "url": "https://stackoverflow.com/questions/79952907/what-must-a-type-satisfy-for-its-auto-generated-hash-function-to-be-copy-constru",
+      "score": 0,
+      "answers": 2,
+      "views": 72,
+      "tags": [
+        "c++",
+        "c++11",
+        "unordered-map",
+        "libstdc++",
+        "stdhash"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "object being unspecified state in std::move<typename>() and std::forward<typename>()",
+      "url": "https://stackoverflow.com/questions/79952920/object-being-unspecified-state-in-stdmovetypename-and-stdforwardtypenam",
+      "score": 1,
+      "answers": 1,
+      "views": 42,
+      "tags": [
+        "c++",
+        "move-semantics",
+        "rvalue-reference",
+        "stdmove"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "How can I avoid using LLMs as a software developer?",
+      "url": "https://stackoverflow.com/questions/79948695/how-can-i-avoid-using-llms-as-a-software-developer",
+      "score": 109,
+      "answers": 167,
+      "views": 7797,
+      "tags": [
+        "large-language-model"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Embedding Visio Files in SharePoint",
+      "url": "https://stackoverflow.com/questions/79952933/embedding-visio-files-in-sharepoint",
+      "score": -1,
+      "answers": 1,
+      "views": 48,
+      "tags": [
+        "sharepoint",
+        "web-parts",
+        "visio"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Why do I get this error when trying to convert layers of my spatial raster into individual ascii files?",
+      "url": "https://stackoverflow.com/questions/79952926/why-do-i-get-this-error-when-trying-to-convert-layers-of-my-spatial-raster-into",
+      "score": 0,
+      "answers": 0,
+      "views": 29,
+      "tags": [
+        "r",
+        "ascii",
+        "r-raster",
+        "maxent"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Merge three columns into one and have repeated values instead",
+      "url": "https://stackoverflow.com/questions/79952917/merge-three-columns-into-one-and-have-repeated-values-instead",
+      "score": 0,
+      "answers": 1,
+      "views": 36,
+      "tags": [
+        "r",
+        "merge",
+        "duplicates"
+      ]
+    },
+    {
+      "rank": 11,
+      "title": "Syncfusion Blazor Hierarchy Grid: Expand/Collapse Icon Overlaps First Column After Restoring Persisted Column Settings",
+      "url": "https://stackoverflow.com/questions/79952899/syncfusion-blazor-hierarchy-grid-expand-collapse-icon-overlaps-first-column-aft",
+      "score": -2,
+      "answers": 0,
+      "views": 25,
+      "tags": [
+        "datagrid",
+        "blazor",
+        "hierarchy",
+        "syncfusion",
+        "syncfusion-blazor"
+      ]
+    },
+    {
+      "rank": 12,
+      "title": "Is there arm-neon-optimization skill?",
+      "url": "https://stackoverflow.com/questions/79952910/is-there-arm-neon-optimization-skill",
+      "score": 0,
+      "answers": 0,
+      "views": 22,
+      "tags": [
+        "github",
+        "arm",
+        "neon",
+        "claude-code"
+      ]
+    },
+    {
+      "rank": 13,
+      "title": "What does awaiting an object of a user-defined class do?",
+      "url": "https://stackoverflow.com/questions/79952877/what-does-awaiting-an-object-of-a-user-defined-class-do",
+      "score": -1,
+      "answers": 1,
+      "views": 101,
+      "tags": [
+        "python",
+        "python-asyncio"
+      ]
+    },
+    {
+      "rank": 14,
+      "title": ".NET 10 Minimal API validation throws \"Property 'this[]' not found on type 'JsonElement'\" when a DTO has a JsonElement member",
+      "url": "https://stackoverflow.com/questions/79952849/net-10-minimal-api-validation-throws-property-this-not-found-on-type-json",
+      "score": 0,
+      "answers": 1,
+      "views": 55,
+      "tags": [
+        "asp.net-core",
+        "validation",
+        "system.text.json",
+        "minimal-apis"
+      ]
+    },
+    {
+      "rank": 15,
+      "title": "How to prevent SpringBoot autoconfigurations from being loaded via component scanning?",
+      "url": "https://stackoverflow.com/questions/79952870/how-to-prevent-springboot-autoconfigurations-from-being-loaded-via-component-sca",
+      "score": 0,
+      "answers": 1,
+      "views": 39,
+      "tags": [
+        "spring-boot"
+      ]
+    },
+    {
+      "rank": 16,
+      "title": "How minimise the browser via a React web app?",
+      "url": "https://stackoverflow.com/questions/79952898/how-minimise-the-browser-via-a-react-web-app",
+      "score": 0,
+      "answers": 1,
+      "views": 37,
+      "tags": [
+        "typescript",
+        "web-applications",
+        "tsx"
+      ]
+    },
+    {
+      "rank": 17,
+      "title": "How do I whitelist commands in Google Antigravity?",
+      "url": "https://stackoverflow.com/questions/79952853/how-do-i-whitelist-commands-in-google-antigravity",
+      "score": 0,
+      "answers": 4,
+      "views": 66,
+      "tags": [
+        "antigravity"
+      ]
+    },
+    {
+      "rank": 18,
+      "title": "Angular ChunkLoadError on redeploy",
+      "url": "https://stackoverflow.com/questions/79952888/angular-chunkloaderror-on-redeploy",
+      "score": 0,
+      "answers": 0,
+      "views": 27,
+      "tags": [
+        "angular",
+        "angular-ssr"
+      ]
+    },
+    {
+      "rank": 19,
+      "title": "embed iframe in Jira vm file",
+      "url": "https://stackoverflow.com/questions/79952896/embed-iframe-in-jira-vm-file",
+      "score": 0,
+      "answers": 0,
+      "views": 22,
+      "tags": [
+        "jira"
+      ]
+    },
+    {
+      "rank": 20,
+      "title": "Custom ID Generator in Hibernate 6: Use existing ID or fall back to auto-increment",
+      "url": "https://stackoverflow.com/questions/79952833/custom-id-generator-in-hibernate-6-use-existing-id-or-fall-back-to-auto-increme",
+      "score": 1,
+      "answers": 1,
+      "views": 48,
+      "tags": [
+        "java",
+        "mysql",
+        "hibernate",
+        "jpa",
+        "hibernate-6.x"
+      ]
+    },
+    {
+      "rank": 21,
+      "title": "If use == to compare strings (of numbers) in Tcl why can't you get back the string using cast as text in SQL?",
+      "url": "https://stackoverflow.com/questions/79952863/if-use-to-compare-strings-of-numbers-in-tcl-why-cant-you-get-back-the-stri",
+      "score": -2,
+      "answers": 0,
+      "views": 43,
+      "tags": [
+        "sqlite",
+        "types",
+        "casting",
+        "tcl"
+      ]
+    },
+    {
+      "rank": 22,
+      "title": "How do you make an input take two scripts?",
+      "url": "https://stackoverflow.com/questions/79952812/how-do-you-make-an-input-take-two-scripts",
+      "score": 1,
+      "answers": 3,
+      "views": 157,
+      "tags": [
+        "javascript",
+        "html",
+        "input",
+        "text"
+      ]
+    },
+    {
+      "rank": 23,
+      "title": "Does AI help people learn faster, or just help them skip learning?",
+      "url": "https://stackoverflow.com/questions/79952786/does-ai-help-people-learn-faster-or-just-help-them-skip-learning",
+      "score": 2,
+      "answers": 12,
+      "views": 193,
+      "tags": [
+        "artificial-intelligence",
+        "behavior"
+      ]
+    },
+    {
+      "rank": 24,
+      "title": "Sensitive Parameter in DB Parameter Provider",
+      "url": "https://stackoverflow.com/questions/79952868/sensitive-parameter-in-db-parameter-provider",
+      "score": -1,
+      "answers": 0,
+      "views": 34,
+      "tags": [
+        "passwords",
+        "apache-nifi",
+        "password-storage"
+      ]
+    },
+    {
+      "rank": 25,
+      "title": "Magento 2.4.8 / PHP 8.2 compatibility issue in ShipperHQ Synchronizer (ctype_space)",
+      "url": "https://stackoverflow.com/questions/79952855/magento-2-4-8-php-8-2-compatibility-issue-in-shipperhq-synchronizer-ctype-spa",
+      "score": -2,
+      "answers": 0,
+      "views": 33,
+      "tags": [
+        "magento2"
+      ]
+    }
+  ]
+}
