@@ -1,7 +1,7 @@
 {
   "source": "google-trends",
   "label": "Google Trends — trending searches",
-  "fetched_at": "2026-06-09T11:08:39.815Z",
+  "fetched_at": "2026-06-09T16:54:46.153Z",
   "countries": [
     "US",
     "GB",
@@ -13,278 +13,281 @@
   "items": [
     {
       "rank": 1,
-      "title": "angel",
+      "title": "stock market",
       "geos": [
+        "GB",
         "US"
       ],
-      "traffic_estimate": 5000,
-      "news_title": "Plays at the plate break Astros' way in pivotal 10th",
-      "news_url": "https://www.mlb.com/news/brice-matthews-throw-home-helps-astros-beat-angels",
-      "news_source": "MLB.com"
+      "traffic_estimate": 5200,
+      "news_title": "Stocks rise as chip rebound continues, oil retreats: Live updates",
+      "news_url": "https://www.cnbc.com/2026/06/08/stock-market-today-live-updates.html",
+      "news_source": "CNBC"
     },
     {
       "rank": 2,
-      "title": "cuet",
+      "title": "nasdaq",
       "geos": [
+        "GB",
         "IN"
       ],
-      "traffic_estimate": 5000,
-      "news_title": "CUET UG 2026 answer key released at cuet.nta.nic.in; challenge window open till June 11: Direct link",
-      "news_url": "https://timesofindia.indiatimes.com/education/news/cuet-ug-2026-answer-key-released-at-cuet-nta-nic-in-challenge-window-open-till-june-11/articleshow/131608357.cms",
-      "news_source": "The Times of India"
+      "traffic_estimate": 1500,
+      "news_title": "Stocks tumble, with Nasdaq shedding 3% as chip comeback fizzles: Live updates",
+      "news_url": "https://www.cnbc.com/2026/06/08/stock-market-today-live-updates.html",
+      "news_source": "CNBC"
     },
     {
       "rank": 3,
-      "title": "भारतीय डाक",
+      "title": "artemis 3",
       "geos": [
-        "IN"
-      ],
-      "traffic_estimate": 5000,
-      "news_title": "India Post GDS 4th Merit List: आ गई जीडीएस भर्ती की चौथी मेरिट लिस्ट, ऐसे देखें चयनित उम्मीदवारों की सूची",
-      "news_url": "https://www.amarujala.com/jobs/government-jobs/india-post-gds-4th-merit-list-2026-released-for-28-636-posts-check-selection-status-online-2026-06-09",
-      "news_source": "Amar Ujala"
-    },
-    {
-      "rank": 4,
-      "title": "bulls",
-      "geos": [
-        "US"
-      ],
-      "traffic_estimate": 2000,
-      "news_title": "Three-time NBA champion Stacey King dies at 59",
-      "news_url": "https://www.nba.com/news/former-bulls-champion-stacey-king-dies-at-59",
-      "news_source": "NBA.com"
-    },
-    {
-      "rank": 5,
-      "title": "manchester",
-      "geos": [
+        "DE",
         "GB"
       ],
-      "traffic_estimate": 2000,
-      "news_title": "Schoolgirl arrested after three stabbed at Manchester school",
-      "news_url": "https://www.theguardian.com/uk-news/2026/jun/09/schoolgirl-arrested-stabbings-manchester-school-blackley",
-      "news_source": "The Guardian"
-    },
-    {
-      "rank": 6,
-      "title": "somalia",
-      "geos": [
-        "GB"
-      ],
-      "traffic_estimate": 2000,
-      "news_title": "World Cup 2026: Somali referee Omar Artan to miss tournament after being barred from entering US",
-      "news_url": "https://www.bbc.co.uk/sport/football/articles/cnv9drg0qzgo",
+      "traffic_estimate": 700,
+      "news_title": "Nasa names Artemis III crew in next step towards Moon landing",
+      "news_url": "https://www.bbc.co.uk/news/live/c932y0gx4zdt",
       "news_source": "BBC"
     },
     {
-      "rank": 7,
-      "title": "television channel",
+      "rank": 4,
+      "title": "tajikistan vs india",
       "geos": [
-        "GB"
+        "IN"
       ],
-      "traffic_estimate": 2000,
-      "news_title": "Eurovision Sport expands onto UK FAST platforms",
-      "news_url": "https://www.broadbandtvnews.com/2026/06/08/eurovision-sport-expands-onto-uk-fast-platforms/",
-      "news_source": "Broadband TV News"
+      "traffic_estimate": 20000,
+      "news_title": "Tajikistan vs India Football LIVE SCORE: TAJ 0-1 IND; Real-time updates. Vikram Pratap gives India the lead",
+      "news_url": "https://sportstar.thehindu.com/incoming/tajikistan-vs-india-live-score-indian-football-taj-v-ind-2026-friendly-match-today-updates-results-highlights/article71081306.ece",
+      "news_source": "Sportstar"
+    },
+    {
+      "rank": 5,
+      "title": "徹子の部屋",
+      "geos": [
+        "JP"
+      ],
+      "traffic_estimate": 10000,
+      "news_title": "安達祐実「体全体が女優さん。本当に素敵」俳優人生に影響を与えた大先輩…黒柳徹子も「ずっとお友だちでした」",
+      "news_url": "https://post.tv-asahi.co.jp/post-771399/",
+      "news_source": "テレ朝POST"
+    },
+    {
+      "rank": 6,
+      "title": "receita federal",
+      "geos": [
+        "BR"
+      ],
+      "traffic_estimate": 10000,
+      "news_title": "Leilão da Receita Federal tem carro por R$ 10 mil, eletrodomésticos e joias",
+      "news_url": "https://www1.folha.uol.com.br/mercado/2026/06/leilao-da-receita-federal-tem-carro-por-r-10-mil-eletrodomesticos-e-joias.shtml",
+      "news_source": "Folha de S.Paulo"
+    },
+    {
+      "rank": 7,
+      "title": "stock market today",
+      "geos": [
+        "US"
+      ],
+      "traffic_estimate": 5000,
+      "news_title": "Stock Market Today: Dow Moves Higher; SpaceX, OpenAI IPOs in Focus — Live Updates",
+      "news_url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-06-09-2026",
+      "news_source": "WSJ"
     },
     {
       "rank": 8,
-      "title": "kumod raney",
+      "title": "スタバ 無料 イベント 大阪",
       "geos": [
-        "IN"
+        "JP"
       ],
-      "traffic_estimate": 2000,
-      "news_title": "Salman Khan breaks down in tears as he attends close friend Kumud Rane’s funeral",
-      "news_url": "https://www.moneycontrol.com/entertainment/salman-khan-breaks-down-in-tears-as-he-attends-close-friend-kumud-rane-s-funeral-article-13945122.html",
-      "news_source": "Moneycontrol.com"
+      "traffic_estimate": 5000,
+      "news_title": "【あすから】大阪で「スタバ無料イベント」、15会場を巡回…“自分で完成させる”新ドリンクをお試し",
+      "news_url": "https://www.lmaga.jp/news/2026/06/1047369/",
+      "news_source": "Lmaga.jp"
     },
     {
       "rank": 9,
-      "title": "अर्जुन तेंदुलकर",
+      "title": "ocarina of time remake",
       "geos": [
-        "IN"
+        "BR"
       ],
-      "traffic_estimate": 2000,
-      "news_title": "अर्जुन तेंदुलकर के छक्के पर नन्हा फैन घायल, इस अंदाज ने लूटी महफ‍िल",
-      "news_url": "https://www.aajtak.in/visualstories/sports/arjun-tendulkar-heartwarming-gesture-young-fan-viral-video-mumbai-t20-league-tspok-281640-09-06-2026",
-      "news_source": "AajTak"
+      "traffic_estimate": 5000,
+      "news_title": "Resumo da Nintendo Direct de junho: Veja trailers, anúncios e novidades do Switch 2 em tempo real",
+      "news_url": "https://www.tecmundo.com.br/voxel/504540-resumo-da-nintendo-direct-de-junho-veja-trailers-anuncios-e-novidades-do-switch-2-em-tempo-real.htm",
+      "news_source": "TecMundo"
     },
     {
       "rank": 10,
-      "title": "రుణగ్రహీత",
+      "title": "fifa world cup games",
       "geos": [
         "IN"
       ],
       "traffic_estimate": 2000,
-      "news_title": "గోల్డ్‌ లోన్‌.. కష్టాలు!",
-      "news_url": "https://www.sakshi.com/index.php/telugu-news/business/rbi-gold-loan-rules-create-trouble-borrowers-2810769",
-      "news_source": "Sakshi"
+      "news_title": "Places to Celebrate the Soccer Spirit During the FIFA World Cup 2026 Games",
+      "news_url": "https://bocamag.com/places-to-celebrate-the-soccer-spirit-during-the-fifa-world-cup-2026-games/",
+      "news_source": "Boca Raton Magazine"
     },
     {
       "rank": 11,
-      "title": "辻 希美",
+      "title": "അഞ്ജു അരവിന്ദ്",
       "geos": [
-        "JP"
+        "IN"
       ],
       "traffic_estimate": 2000,
-      "news_title": "東原亜希：4児の母 夫・井上康生が作る弁当が子どもたちに好評 「モヤモヤする」と明かす 「さんま御殿」で",
-      "news_url": "https://mainichikirei.jp/article/20260608dog00m100013000a.html",
-      "news_source": "毎日キレイ"
+      "news_title": "നാട്ടിലെ ഡോക്ടറെ അമിതമായി വിശ്വസിച്ചു! കാന്‍സറായിരുന്നു! അറിഞ്ഞില്ല! ആന്റിയെക്കുറിച്ച് അഞ്ജു അരവിന്ദ്‌",
+      "news_url": "https://malayalam.filmibeat.com/features/anju-aravind-shared-an-emotional-post-about-her-aunty-s-demise-fans-consoles-her-142129.html",
+      "news_source": "Filmibeat Malayalam"
     },
     {
       "rank": 12,
-      "title": "永作博美",
+      "title": "amelia kerr",
       "geos": [
-        "JP"
+        "IN"
       ],
       "traffic_estimate": 2000,
-      "news_title": "",
-      "news_url": "",
-      "news_source": ""
+      "news_title": "ఐసీసీ టీ20 ర్యాంకింగ్స్.. టాప్ 10లోకి దూసుకొచ్చిన హర్మన్‌ప్రీత్",
+      "news_url": "https://www.andhrajyothy.com/2026/sports/icc-womens-t20i-rankings-amelia-kerr-regains-top-all-rounder-spot-harmanpreet-enters-top-10-srav-1531146.html",
+      "news_source": "Andhrajyothy"
     },
     {
       "rank": 13,
-      "title": "cleitinho",
+      "title": "a nobreza do amor",
       "geos": [
         "BR"
       ],
       "traffic_estimate": 2000,
-      "news_title": "A trombada entre Cleitinho e presidente do Republicanos que alimenta a indefinição em Minas Gerais",
-      "news_url": "https://veja.abril.com.br/politica/a-trombada-entre-cleitinho-e-presidente-do-republicanos-que-alimenta-a-indefinicao-em-minas-gerais/",
-      "news_source": "VEJA"
+      "news_title": "A Nobreza do Amor: semana tem embaixadora americana cobrando satisfações de Jendal por assassinato",
+      "news_url": "https://gshow.globo.com/novelas/a-nobreza-do-amor/vem-por-ai/noticia/a-nobreza-do-amor-semana-tem-embaixadora-americana-cobrando-satisfacoes-de-jendal-por-assassinato.ghtml",
+      "news_source": "Gshow"
     },
     {
       "rank": 14,
-      "title": "keiko fujimori",
+      "title": "nintendo switch 2",
       "geos": [
         "BR"
       ],
       "traffic_estimate": 2000,
-      "news_title": "Petro comemora vitória da esquerda nas eleições peruanas antes dos resultados oficiais",
-      "news_url": "https://www.estadao.com.br/internacional/petro-comemora-vitoria-da-esquerda-nas-eleicoes-peruanas-antes-dos-resultados-oficiais-npr/",
-      "news_source": "Estadão"
+      "news_title": "The Legend of Zelda: Ocarina of Time is getting a remake for the Switch 2",
+      "news_url": "https://www.theverge.com/games/945745/nintendo-zelda-ocarina-of-time-remake-direct-june-2026",
+      "news_source": "The Verge"
     },
     {
       "rank": 15,
-      "title": "1. fc lokomotive leipzig",
+      "title": "qqq",
       "geos": [
-        "DE"
+        "US"
       ],
-      "traffic_estimate": 2000,
-      "news_title": "10 Spieler und Trainer weg: Mega-Umbruch bei Traditionsklub",
-      "news_url": "https://www.bild.de/sport/fussball/10-spieler-und-trainer-weg-mega-umbruch-bei-traditionsklub-6a27c40529fcf2207deb18f2",
-      "news_source": "BILD"
+      "traffic_estimate": 1000,
+      "news_title": "Should You Really Invest in QQQ Right Now? Or Is IVV the Better Buy? Here's What the Data Suggests.",
+      "news_url": "https://finance.yahoo.com/markets/stocks/articles/really-invest-qqq-now-ivv-212617056.html",
+      "news_source": "Yahoo Finance"
     },
     {
       "rank": 16,
-      "title": "rente",
+      "title": "qqq stock",
       "geos": [
-        "DE"
+        "US"
       ],
-      "traffic_estimate": 2000,
-      "news_title": "„Nicht zu vermitteln“, urteilt der Arbeitgeberpräsident über die Erhöhung der Rente",
-      "news_url": "https://www.welt.de/politik/deutschland/article6a277c94b20db0d89b659d5e/rente-nicht-zu-vermitteln-urteilt-der-arbeitgeberpraesident-ueber-starke-erhoehung.html",
-      "news_source": "WELT"
+      "traffic_estimate": 1000,
+      "news_title": "SpaceX Could Join the Nasdaq-100 Very Soon. Should You Buy the Invesco QQQ Trust Today?",
+      "news_url": "https://www.theglobeandmail.com/investing/markets/stocks/INTC-Q/pressreleases/2380350/spacex-could-join-the-nasdaq-100-very-soon-should-you-buy-the-invesco-qqq-trust-today/",
+      "news_source": "The Globe and Mail"
     },
     {
       "rank": 17,
-      "title": "urteil",
+      "title": "spy",
       "geos": [
-        "DE"
+        "US"
       ],
-      "traffic_estimate": 2000,
-      "news_title": "Urteil im Bußgeldverfahren um Feuerwehrmann aus Taucha",
-      "news_url": "https://www.mdr.de/nachrichten/sachsen/leipzig/leipzig-leipzig-land/prozess-gericht-ordnungsamt-urteil,feuerwehr-taucha-bussgeld-100.html",
-      "news_source": "MDR.de"
+      "traffic_estimate": 1000,
+      "news_title": "Opinion | The FISA Hostage Takers",
+      "news_url": "https://www.wsj.com/opinion/fisa-renewal-intelligence-donald-trump-bill-pulte-democrats-37943c4c",
+      "news_source": "WSJ"
     },
     {
       "rank": 18,
-      "title": "kathryn bryce",
+      "title": "disclosure day review",
       "geos": [
-        "IN"
+        "GB"
       ],
       "traffic_estimate": 1000,
-      "news_title": "Scotland back for second shot at World Cup spotlight",
-      "news_url": "https://www.cricbuzz.com/cricket-news/139088/scotland-back-for-second-shot-at-t20-world-cup-spotlight-cricbuzzcom",
-      "news_source": "Cricbuzz"
+      "news_title": "Disclosure Day review – close encounters of a deferred kind in Spielberg’s conspiracy spectacular",
+      "news_url": "https://www.theguardian.com/film/2026/jun/09/disclosure-day-review-close-encounters-of-a-deferred-kind-in-spielbergs-conspiracy-spectacular",
+      "news_source": "The Guardian"
     },
     {
       "rank": 19,
-      "title": "నారా లోకేశ్",
+      "title": "জগন্নাথ মন্দির, দীঘা",
       "geos": [
         "IN"
       ],
       "traffic_estimate": 1000,
-      "news_title": "Nara Lokesh: విశాఖ ఘటన జరిగిన 6 గంటల్లోనే కేంద్రమంత్రి వచ్చారు: నారా లోకేశ్‌",
-      "news_url": "https://www.eenadu.net/telugu-news/andhra-pradesh/nara-lokesh-press-meet-in-vizag/1701/126101134",
-      "news_source": "Eenadu"
+      "news_title": "আর ‘ধাম’ নয় দিঘার জগন্নাথ মন্দির! ওড়িশার মুখ্যমন্ত্রীর আর্জি নিয়ে এলেন পুরীর সাংসদ, রাজি শুভেন্দু, ইতি পড়ল বিতর্কে",
+      "news_url": "https://www.anandabazar.com/west-bengal/suvendu-adhikari-announces-importan-decision-about-jagannath-temple-dgtl/cid/1692194",
+      "news_source": "Anandabazar Patrika"
     },
     {
       "rank": 20,
-      "title": "തട്ടിപ്പ്",
-      "geos": [
-        "IN"
-      ],
-      "traffic_estimate": 1000,
-      "news_title": "നാട്ടിലെ വീട്ടുവാടക: പ്രവാസിക്ക് കിട്ടിയത് എട്ടിന്റെ പണി; മലയാളിയുടെ പണം അപ്രത്യക്ഷമായ വഴി!",
-      "news_url": "https://www.manoramaonline.com/global-malayali/gulf/2026/06/09/malayalam-expat-falls-victim-to-remittance-scam-in-uae.html",
-      "news_source": "Manorama Online"
-    },
-    {
-      "rank": 21,
-      "title": "ಬ್ಯಾಟಿಂಗ್",
-      "geos": [
-        "IN"
-      ],
-      "traffic_estimate": 1000,
-      "news_title": "3 ಓವರ್‌ 3 ವಿಕೆಟ್‌, 25 ಎಸೆತದಲ್ಲಿ ಸ್ಫೋಟಕ ಫಿಫ್ಟಿ – ಅರ್ಜುನ್‌ ತೆಂಡೂಲ್ಕರ್‌ ಬೆಂಕಿ ಬ್ಯಾಟಿಂಗ್‌, ತಂಡಕ್ಕೆ ಜಯ",
-      "news_url": "https://publictv.in/t20-mumbai-league-3-overs-3-wickets-then-25-ball-fifty-in-arjun-tendulkar/",
-      "news_source": "Public TV"
-    },
-    {
-      "rank": 22,
-      "title": "加賀まりこ",
+      "title": "マクドナルド ワールド カップ",
       "geos": [
         "JP"
       ],
       "traffic_estimate": 1000,
-      "news_title": "小悪魔な魅力振りまく妖精・加賀まりこ特集、主演「月曜日のユカ」など昭和の傑作3選をBS12で放送（WEBザテレビジョン）",
-      "news_url": "https://news.yahoo.co.jp/articles/e87f2db005925d40d8f41a6f10b4e6d63f6075cf",
-      "news_source": "Yahoo!ニュース"
+      "news_title": "全国の日本マクドナルド店舗(一部の店舗は除く)",
+      "news_url": "https://www.mcdonalds.co.jp/company/news/2026/0609a/",
+      "news_source": "マクドナルド"
+    },
+    {
+      "rank": 21,
+      "title": "coração acelerado",
+      "geos": [
+        "BR"
+      ],
+      "traffic_estimate": 1000,
+      "news_title": "Em Coração Acelerado, Ana Castela choca Naiane ao apresentar Gael como namorado: 'Fisguei'",
+      "news_url": "https://gshow.globo.com/novelas/coracao-acelerado/vem-por-ai/noticia/em-coracao-acelerado-ana-castela-choca-naiane-ao-apresentar-gael-como-namorado-fisguei.ghtml",
+      "news_source": "Gshow"
+    },
+    {
+      "rank": 22,
+      "title": "abertura copa do mundo 2026",
+      "geos": [
+        "BR"
+      ],
+      "traffic_estimate": 1000,
+      "news_title": "Em contraponto aos EUA, México 'abre as portas' para a Copa do Mundo e à diversidade",
+      "news_url": "https://g1.globo.com/bom-dia-brasil/noticia/2026/06/09/sede-da-cerimonia-de-abertura-da-copa-do-mundo-mexico-abre-as-portas-aos-visitantes.ghtml",
+      "news_source": "G1"
     },
     {
       "rank": 23,
-      "title": "abertura da copa do mundo 2026",
+      "title": "epic games",
       "geos": [
         "BR"
       ],
       "traffic_estimate": 1000,
-      "news_title": "Wilton Pereira Sampaio vai apitar o jogo de abertura da Copa entre México e África do Sul",
-      "news_url": "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/06/08/wilton-pereira-sampaio-vai-apitar-o-jogo-de-abertura-da-copa-entre-mexico-e-africa-do-sul.ghtml",
-      "news_source": "ge"
+      "news_title": "Epic Games Store libera jogo de simulação grátis por tempo limitado",
+      "news_url": "https://www.tudocelular.com/jogos/noticias/n255990/epic-games-store-jogos-gratis-relaxing-simulator.html",
+      "news_source": "TudoCelular.com"
     },
     {
       "rank": 24,
-      "title": "envenenamento",
+      "title": "ramon dino",
       "geos": [
         "BR"
       ],
       "traffic_estimate": 1000,
-      "news_title": "Menino é internado com suspeita de envenenamento após comer pedaço de bolo na Baixada Fluminense",
-      "news_url": "https://extra.globo.com/rio/casos-de-policia/noticia/2026/06/menino-e-internado-com-suspeita-de-envenenamento-apos-comer-pedaco-de-bolo-na-baixada-fluminense.ghtml",
-      "news_source": "Extra online"
+      "news_title": "Rumores apontam separação de Ramon Dino e Vit Viana; entenda o caso",
+      "news_url": "https://contilnetnoticias.com.br/destaque-2/rumores-apontam-separacao-de-ramon-dino-e-vit-viana-entenda-o-caso/",
+      "news_source": "ContilNet Notícias"
     },
     {
       "rank": 25,
-      "title": "belarus",
+      "title": "kingdom hearts 4",
       "geos": [
         "BR"
       ],
       "traffic_estimate": 1000,
-      "news_title": "Human rights situation in Belarus. May 2026",
-      "news_url": "https://spring96.org/en/news/120447",
-      "news_source": "spring96.org"
+      "news_title": "Kingdom Hearts IV Is Coming to PS5, Xbox Series, Switch 2, and PC",
+      "news_url": "https://www.vice.com/en/article/kingdom-hearts-iv-is-coming-to-ps5-xbox-series-switch-2-and-pc/",
+      "news_source": "VICE"
     }
   ]
 }

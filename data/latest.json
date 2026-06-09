@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-06-09T11:09:04.813Z",
+  "generated_at": "2026-06-09T16:55:13.091Z",
   "sources": {
     "wikipedia": {
       "source": "wikipedia",
       "label": "Wikipedia — most read yesterday",
-      "fetched_at": "2026-06-09T11:08:39.007Z",
+      "fetched_at": "2026-06-09T16:54:45.342Z",
       "data_date": "2026-06-08",
       "items": [
         {
@@ -162,230 +162,230 @@
     "hackernews": {
       "source": "hackernews",
       "label": "Hacker News — top stories",
-      "fetched_at": "2026-06-09T11:08:40.156Z",
+      "fetched_at": "2026-06-09T16:54:45.715Z",
       "items": [
         {
           "rank": 1,
-          "title": "Microsoft's open source tools were hacked to steal passwords of AI developers",
-          "url": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/",
-          "hn_url": "https://news.ycombinator.com/item?id=48457830",
-          "score": 197,
-          "comments": 84,
-          "author": "raffael_de"
+          "title": "Making Graphics Like it's 1993",
+          "url": "https://staniks.github.io/articles/catlantean-3d-blog-1/",
+          "hn_url": "https://news.ycombinator.com/item?id=48459294",
+          "score": 470,
+          "comments": 63,
+          "author": "sklopec"
         },
         {
           "rank": 2,
-          "title": "GentleOS – Classic operating system with a lovely retro GUI",
-          "url": "https://github.com/luke8086/gentleos32",
-          "hn_url": "https://news.ycombinator.com/item?id=48458890",
-          "score": 53,
-          "comments": 5,
-          "author": "tekkertje"
+          "title": "Microsoft's open source tools were hacked to steal passwords of AI developers",
+          "url": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/",
+          "hn_url": "https://news.ycombinator.com/item?id=48457830",
+          "score": 417,
+          "comments": 158,
+          "author": "raffael_de"
         },
         {
           "rank": 3,
-          "title": "OpenCV 5 Is Here: The Biggest Leap in Years for Computer Vision",
-          "url": "https://opencv.org/opencv-5/",
-          "hn_url": "https://news.ycombinator.com/item?id=48421858",
-          "score": 237,
-          "comments": 39,
-          "author": "ternaus"
+          "title": "'Sloppenheimer:' Amazon Employees Mock the Company's AI on Slack",
+          "url": "https://www.404media.co/sloppenheimer-amazon-employees-mock-the-companys-ai-on-slack/",
+          "hn_url": "https://news.ycombinator.com/item?id=48462823",
+          "score": 83,
+          "comments": 36,
+          "author": "doener"
         },
         {
           "rank": 4,
-          "title": "Forever Young: how one molecule can lock plants in a youthful state.(2025)",
-          "url": "https://omnia.sas.upenn.edu/story/biologist-scott-poethig-plants-never-age",
-          "hn_url": "https://news.ycombinator.com/item?id=48458257",
-          "score": 35,
-          "comments": 17,
-          "author": "bryanrasmussen"
+          "title": "Launch HN: Transload (YC P26) – Measuring freight items with CCTV",
+          "url": "https://news.ycombinator.com/item?id=48463273",
+          "hn_url": "https://news.ycombinator.com/item?id=48463273",
+          "score": 6,
+          "comments": 1,
+          "author": "nils_spatial"
         },
         {
           "rank": 5,
-          "title": "The iPhone's Last Stand",
-          "url": "https://stratechery.com/2026/the-iphones-last-stand/",
-          "hn_url": "https://news.ycombinator.com/item?id=48459001",
-          "score": 14,
+          "title": "Biff.core: system composition for Clojure web apps",
+          "url": "https://biffweb.com/p/core/",
+          "hn_url": "https://news.ycombinator.com/item?id=48463018",
+          "score": 13,
           "comments": 3,
-          "author": "swolpers"
+          "author": "jacobobryant"
         },
         {
           "rank": 6,
-          "title": "Apple reveals new AI architecture built around Google Gemini models",
-          "url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
-          "hn_url": "https://news.ycombinator.com/item?id=48450142",
-          "score": 612,
-          "comments": 467,
-          "author": "unclefuzzy"
+          "title": "A giant star may have destroyed itself in one of the rarest explosions",
+          "url": "https://phys.org/news/2026-05-giant-star-destroyed-universe-rarest.html",
+          "hn_url": "https://news.ycombinator.com/item?id=48451966",
+          "score": 23,
+          "comments": 4,
+          "author": "wglb"
         },
         {
           "rank": 7,
-          "title": "Thi.ng – open-source building blocks for computational design and art",
-          "url": "https://thi.ng",
-          "hn_url": "https://news.ycombinator.com/item?id=48437743",
-          "score": 54,
-          "comments": 9,
-          "author": "nmstoker"
+          "title": "I Think Rutger Bregman and the School for Moral Ambition Are Full of Shit",
+          "url": "https://louwrentius.com/i-think-rutger-bregman-the-school-for-moral-ambition-are-full-of-shit.html",
+          "hn_url": "https://news.ycombinator.com/item?id=48463430",
+          "score": 4,
+          "comments": 1,
+          "author": "louwrentius"
         },
         {
           "rank": 8,
-          "title": "Siri AI",
-          "url": "https://www.apple.com/apple-intelligence/",
-          "hn_url": "https://news.ycombinator.com/item?id=48449084",
-          "score": 593,
-          "comments": 548,
-          "author": "0xedb"
+          "title": "Can LLMs Beat Classical Hyperparameter Optimization Algorithms?",
+          "url": "https://arxiv.org/abs/2603.24647",
+          "hn_url": "https://news.ycombinator.com/item?id=48462062",
+          "score": 45,
+          "comments": 5,
+          "author": "galsapir"
         },
         {
           "rank": 9,
-          "title": "Porting the ThinkPad X61 to Coreboot",
-          "url": "https://blog.aheymans.xyz/post/thinkpad_x61/",
-          "hn_url": "https://news.ycombinator.com/item?id=48456245",
-          "score": 85,
-          "comments": 30,
-          "author": "walterbell"
+          "title": "Show HN: GentleOS – A pair of hobby OSes for vintage 32-bit and 16-bit PCs",
+          "url": "https://github.com/luke8086/gentleos32",
+          "hn_url": "https://news.ycombinator.com/item?id=48435943",
+          "score": 39,
+          "comments": 71,
+          "author": "luke8086"
         },
         {
           "rank": 10,
-          "title": "xAI is looking more like a datacentre REIT than a frontier lab",
-          "url": "https://martinalderson.com/posts/xais-new-rental-business/",
-          "hn_url": "https://news.ycombinator.com/item?id=48446428",
-          "score": 577,
-          "comments": 450,
-          "author": "martinald"
+          "title": "OpenCV 5 Is Here: The Biggest Leap in Years for Computer Vision",
+          "url": "https://opencv.org/opencv-5/",
+          "hn_url": "https://news.ycombinator.com/item?id=48421858",
+          "score": 515,
+          "comments": 94,
+          "author": "ternaus"
         },
         {
           "rank": 11,
-          "title": "Show HN: Performative-UI – A react component library of design tropes",
-          "url": "https://vorpus.github.io/performativeUI/",
-          "hn_url": "https://news.ycombinator.com/item?id=48445554",
-          "score": 992,
-          "comments": 186,
-          "author": "lizhang"
+          "title": "Is Grep All You Need? How Agent Harnesses Reshape Agentic Search",
+          "url": "https://arxiv.org/abs/2605.15184",
+          "hn_url": "https://news.ycombinator.com/item?id=48460863",
+          "score": 48,
+          "comments": 25,
+          "author": "Anon84"
         },
         {
           "rank": 12,
-          "title": "Eagle Computer: The rise and fall of an early PC clone",
-          "url": "https://dfarq.homeip.net/eagle-computer-the-rise-and-fall-of-an-early-pc-clone/",
-          "hn_url": "https://news.ycombinator.com/item?id=48458636",
-          "score": 10,
-          "comments": 1,
-          "author": "giuliomagnifico"
+          "title": "Unified Controllable and Faithful Text-to-CAD Generation with LLMs",
+          "url": "https://arxiv.org/abs/2604.19773",
+          "hn_url": "https://news.ycombinator.com/item?id=48461311",
+          "score": 31,
+          "comments": 3,
+          "author": "PaulHoule"
         },
         {
           "rank": 13,
-          "title": "Old'aVista – The most powerful guide to the old Internet",
-          "url": "https://oldavista.com/",
-          "hn_url": "https://news.ycombinator.com/item?id=48447111",
-          "score": 112,
-          "comments": 25,
-          "author": "abnercoimbre"
+          "title": "Using Optical Aberrations to Distinguish Real Astronomical Transients",
+          "url": "https://arxiv.org/abs/2606.08319",
+          "hn_url": "https://news.ycombinator.com/item?id=48462184",
+          "score": 16,
+          "comments": 1,
+          "author": "solarist"
         },
         {
           "rank": 14,
-          "title": "EU-banned pesticides found in rice, tea and spices",
-          "url": "https://www.foodwatch.org/en/eu-banned-pesticides-found-in-rice-tea-and-spices",
-          "hn_url": "https://news.ycombinator.com/item?id=48447062",
-          "score": 433,
-          "comments": 209,
-          "author": "john-titor"
+          "title": "Show HN: Gravity – interactive solar-system simulator, from Newton to Einstein",
+          "url": "https://qunabu.github.io/Gravity/",
+          "hn_url": "https://news.ycombinator.com/item?id=48459837",
+          "score": 74,
+          "comments": 21,
+          "author": "qunabu"
         },
         {
           "rank": 15,
-          "title": "MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second",
-          "url": "https://mimo.xiaomi.com/blog/mimo-tilert-1000tps",
-          "hn_url": "https://news.ycombinator.com/item?id=48446639",
-          "score": 580,
-          "comments": 423,
-          "author": "gainsurier"
+          "title": "The iPhone's Last Stand?",
+          "url": "https://stratechery.com/2026/the-iphones-last-stand/",
+          "hn_url": "https://news.ycombinator.com/item?id=48459001",
+          "score": 98,
+          "comments": 145,
+          "author": "swolpers"
         },
         {
           "rank": 16,
-          "title": "The beauty and simplicity of the good old C-style void* in C++",
-          "url": "https://giodicanio.com/2026/06/05/how-to-declare-a-c-plus-plus-function-that-takes-a-blob-of-memory/",
-          "hn_url": "https://news.ycombinator.com/item?id=48427526",
-          "score": 10,
-          "comments": 17,
-          "author": "movd128"
+          "title": "Let's Encrypt bans certificate usage in any US sanctioned territory [pdf]",
+          "url": "https://letsencrypt.org/documents/LE-SA-v1.7-June-04-2026-diff.pdf",
+          "hn_url": "https://news.ycombinator.com/item?id=48453275",
+          "score": 79,
+          "comments": 63,
+          "author": "piskov"
         },
         {
           "rank": 17,
-          "title": "Apple Core AI Framework",
-          "url": "https://developer.apple.com/documentation/coreai/",
-          "hn_url": "https://news.ycombinator.com/item?id=48449665",
-          "score": 308,
-          "comments": 80,
-          "author": "hmokiguess"
+          "title": "Apple decided not to roll out Siri in EU after denied request for exemption",
+          "url": "https://www.reuters.com/business/apple-failed-make-its-ai-tool-comply-eu-regulations-eu-commission-says-2026-06-09/",
+          "hn_url": "https://news.ycombinator.com/item?id=48463024",
+          "score": 80,
+          "comments": 130,
+          "author": "flanged"
         },
         {
           "rank": 18,
-          "title": "Facebook is paying people overseas promoting Alberta separatism",
-          "url": "https://www.cbc.ca/news/canada/facebook-overseas-alberta-separtism-9.7223966",
-          "hn_url": "https://news.ycombinator.com/item?id=48457181",
-          "score": 170,
-          "comments": 73,
-          "author": "vrganj"
+          "title": "FCC Wants to Kill Burner Phones by Forcing Telecoms to Get All Customers' IDs",
+          "url": "https://www.404media.co/fcc-wants-to-kill-burner-phones-by-forcing-telecoms-to-get-all-customers-ids/",
+          "hn_url": "https://news.ycombinator.com/item?id=48462308",
+          "score": 101,
+          "comments": 74,
+          "author": "berlianta"
         },
         {
           "rank": 19,
-          "title": "Looking Forward to Postgres 19: Query Hints",
-          "url": "https://www.pgedge.com/blog/looking-forward-to-postgres-19-query-hints",
-          "hn_url": "https://news.ycombinator.com/item?id=48413655",
-          "score": 167,
-          "comments": 27,
-          "author": "jjgreen"
+          "title": "Forever Young: how one molecule can lock plants in a youthful state (2025)",
+          "url": "https://omnia.sas.upenn.edu/story/biologist-scott-poethig-plants-never-age",
+          "hn_url": "https://news.ycombinator.com/item?id=48458257",
+          "score": 100,
+          "comments": 61,
+          "author": "bryanrasmussen"
         },
         {
           "rank": 20,
-          "title": "Show HN: Gitdot – A better GitHub. Open-source, written in Rust",
-          "url": "https://gitdot.io/",
-          "hn_url": "https://news.ycombinator.com/item?id=48447806",
-          "score": 267,
-          "comments": 247,
-          "author": "baepaul"
+          "title": "Apple reveals new AI architecture built around Google Gemini models",
+          "url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
+          "hn_url": "https://news.ycombinator.com/item?id=48450142",
+          "score": 694,
+          "comments": 535,
+          "author": "unclefuzzy"
         },
         {
           "rank": 21,
-          "title": "Ask HN: What are tools you have made for yourself since the advent of AI?",
-          "url": "https://news.ycombinator.com/item?id=48449187",
-          "hn_url": "https://news.ycombinator.com/item?id=48449187",
-          "score": 317,
-          "comments": 522,
-          "author": "aryamaan"
+          "title": "Show HN: Learn from 30 historical figures, open source, nonprofit, self-hosted",
+          "url": "https://github.com/chipmates/agoracosmica",
+          "hn_url": "https://news.ycombinator.com/item?id=48459913",
+          "score": 4,
+          "comments": 0,
+          "author": "micstradev"
         },
         {
           "rank": 22,
-          "title": "Passing DBs through continuations",
-          "url": "https://remy.wang/blog/cps.html",
-          "hn_url": "https://news.ycombinator.com/item?id=48430821",
-          "score": 58,
-          "comments": 6,
-          "author": "remywang"
+          "title": "The Effective Sample Size",
+          "url": "https://alex.smola.org/posts/40-effective-sample-size/",
+          "hn_url": "https://news.ycombinator.com/item?id=48402936",
+          "score": 10,
+          "comments": 1,
+          "author": "jxmorris12"
         },
         {
           "rank": 23,
-          "title": "H2JVM – A Haskell Library for Writing JVM Bytecode",
-          "url": "https://discourse.haskell.org/t/h2jvm-a-haskell-library-for-writing-jvm-bytecode/14182",
-          "hn_url": "https://news.ycombinator.com/item?id=48433356",
-          "score": 8,
-          "comments": 0,
-          "author": "rowbin"
+          "title": "Thi.ng – open-source building blocks for computational design and art",
+          "url": "https://thi.ng",
+          "hn_url": "https://news.ycombinator.com/item?id=48437743",
+          "score": 149,
+          "comments": 20,
+          "author": "nmstoker"
         },
         {
           "rank": 24,
-          "title": "FrontierCode",
-          "url": "https://cognition.ai/blog/frontier-code",
-          "hn_url": "https://news.ycombinator.com/item?id=48451723",
-          "score": 202,
-          "comments": 35,
-          "author": "streamer45"
+          "title": "Cleaning up after AI rockstar developers",
+          "url": "https://www.codingwithjesse.com/blog/rockstar-developers/",
+          "hn_url": "https://news.ycombinator.com/item?id=48458586",
+          "score": 323,
+          "comments": 237,
+          "author": "BrunoBernardino"
         }
       ]
     },
     "github": {
       "source": "github",
       "label": "GitHub — trending today",
-      "fetched_at": "2026-06-09T11:08:40.370Z",
+      "fetched_at": "2026-06-09T16:54:47.800Z",
       "items": [
         {
           "rank": 1,
@@ -393,9 +393,9 @@
           "url": "https://github.com/mvanhorn/last30days-skill",
           "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
           "language": "Python",
-          "stars_today": 3558,
-          "stars": 36016,
-          "forks": 2932
+          "stars_today": 3177,
+          "stars": 36725,
+          "forks": 2990
         },
         {
           "rank": 2,
@@ -403,9 +403,9 @@
           "url": "https://github.com/RyanCodrai/turbovec",
           "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
           "language": "Python",
-          "stars_today": 1729,
-          "stars": 9677,
-          "forks": 837
+          "stars_today": 1800,
+          "stars": 9950,
+          "forks": 850
         },
         {
           "rank": 3,
@@ -413,9 +413,9 @@
           "url": "https://github.com/roboflow/supervision",
           "description": "We write your reusable computer vision tools. 💜",
           "language": "Python",
-          "stars_today": 1288,
-          "stars": 42645,
-          "forks": 3806
+          "stars_today": 735,
+          "stars": 42828,
+          "forks": 3821
         },
         {
           "rank": 4,
@@ -423,9 +423,9 @@
           "url": "https://github.com/opencv/opencv",
           "description": "Open Source Computer Vision Library",
           "language": "C++",
-          "stars_today": 395,
-          "stars": 88404,
-          "forks": 56613
+          "stars_today": 169,
+          "stars": 88516,
+          "forks": 56617
         },
         {
           "rank": 5,
@@ -433,9 +433,9 @@
           "url": "https://github.com/refactoringhq/tolaria",
           "description": "Desktop app to manage markdown knowledge bases",
           "language": "TypeScript",
-          "stars_today": 651,
-          "stars": 14002,
-          "forks": 974
+          "stars_today": 821,
+          "stars": 14174,
+          "forks": 984
         },
         {
           "rank": 6,
@@ -443,9 +443,9 @@
           "url": "https://github.com/aaif-goose/goose",
           "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
           "language": "Rust",
-          "stars_today": 699,
-          "stars": 48292,
-          "forks": 5083
+          "stars_today": 490,
+          "stars": 48392,
+          "forks": 5089
         },
         {
           "rank": 7,
@@ -453,9 +453,9 @@
           "url": "https://github.com/Andyyyy64/whichllm",
           "description": "Find the local LLM that actually runs and performs best on your hardware. Ranked by real, recency-aware benchmarks, not parameter count. One command, run it instantly.",
           "language": "Python",
-          "stars_today": 143,
-          "stars": 3764,
-          "forks": 212
+          "stars_today": 631,
+          "stars": 3941,
+          "forks": 219
         },
         {
           "rank": 8,
@@ -463,9 +463,9 @@
           "url": "https://github.com/TapXWorld/ChinaTextbook",
           "description": "所有小初高、大学PDF教材。",
           "language": "Roff",
-          "stars_today": 592,
-          "stars": 73323,
-          "forks": 16417
+          "stars_today": 517,
+          "stars": 73419,
+          "forks": 16442
         },
         {
           "rank": 9,
@@ -474,8 +474,8 @@
           "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
           "language": null,
           "stars_today": 66,
-          "stars": 138990,
-          "forks": 34542
+          "stars": 139070,
+          "forks": 34549
         },
         {
           "rank": 10,
@@ -483,9 +483,9 @@
           "url": "https://github.com/yikart/AiToEarn",
           "description": "Let's use AI to Earn!",
           "language": "TypeScript",
-          "stars_today": 786,
-          "stars": 19632,
-          "forks": 3002
+          "stars_today": 423,
+          "stars": 19800,
+          "forks": 3013
         },
         {
           "rank": 11,
@@ -493,9 +493,9 @@
           "url": "https://github.com/phuryn/pm-skills",
           "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
           "language": null,
-          "stars_today": 164,
-          "stars": 13123,
-          "forks": 1511
+          "stars_today": 808,
+          "stars": 13293,
+          "forks": 1521
         },
         {
           "rank": 12,
@@ -503,9 +503,9 @@
           "url": "https://github.com/santifer/career-ops",
           "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
           "language": "JavaScript",
-          "stars_today": 308,
-          "stars": 51035,
-          "forks": 10368
+          "stars_today": 1114,
+          "stars": 51317,
+          "forks": 10391
         },
         {
           "rank": 13,
@@ -513,9 +513,9 @@
           "url": "https://github.com/openai/plugins",
           "description": "OpenAI Plugins",
           "language": "JavaScript",
-          "stars_today": 296,
-          "stars": 2456,
-          "forks": 296
+          "stars_today": 284,
+          "stars": 2520,
+          "forks": 301
         },
         {
           "rank": 14,
@@ -524,8 +524,8 @@
           "description": "open-source healthcare ai",
           "language": "Python",
           "stars_today": 165,
-          "stars": 1540,
-          "forks": 192
+          "stars": 1695,
+          "forks": 200
         },
         {
           "rank": 15,
@@ -534,8 +534,8 @@
           "description": "🛜 ESPectre 👻 - Motion detection system based on Wi-Fi spectre analysis (CSI), with Home Assistant integration.",
           "language": "Python",
           "stars_today": 112,
-          "stars": 7966,
-          "forks": 623
+          "stars": 8093,
+          "forks": 626
         },
         {
           "rank": 16,
@@ -544,15 +544,15 @@
           "description": "Production-grade engineering skills for AI coding agents.",
           "language": "Shell",
           "stars_today": 348,
-          "stars": 49461,
-          "forks": 5524
+          "stars": 49629,
+          "forks": 5546
         }
       ]
     },
     "google-trends": {
       "source": "google-trends",
       "label": "Google Trends — trending searches",
-      "fetched_at": "2026-06-09T11:08:39.815Z",
+      "fetched_at": "2026-06-09T16:54:46.153Z",
       "countries": [
         "US",
         "GB",
@@ -564,285 +564,288 @@
       "items": [
         {
           "rank": 1,
-          "title": "angel",
+          "title": "stock market",
           "geos": [
+            "GB",
             "US"
           ],
-          "traffic_estimate": 5000,
-          "news_title": "Plays at the plate break Astros' way in pivotal 10th",
-          "news_url": "https://www.mlb.com/news/brice-matthews-throw-home-helps-astros-beat-angels",
-          "news_source": "MLB.com"
+          "traffic_estimate": 5200,
+          "news_title": "Stocks rise as chip rebound continues, oil retreats: Live updates",
+          "news_url": "https://www.cnbc.com/2026/06/08/stock-market-today-live-updates.html",
+          "news_source": "CNBC"
         },
         {
           "rank": 2,
-          "title": "cuet",
+          "title": "nasdaq",
           "geos": [
+            "GB",
             "IN"
           ],
-          "traffic_estimate": 5000,
-          "news_title": "CUET UG 2026 answer key released at cuet.nta.nic.in; challenge window open till June 11: Direct link",
-          "news_url": "https://timesofindia.indiatimes.com/education/news/cuet-ug-2026-answer-key-released-at-cuet-nta-nic-in-challenge-window-open-till-june-11/articleshow/131608357.cms",
-          "news_source": "The Times of India"
+          "traffic_estimate": 1500,
+          "news_title": "Stocks tumble, with Nasdaq shedding 3% as chip comeback fizzles: Live updates",
+          "news_url": "https://www.cnbc.com/2026/06/08/stock-market-today-live-updates.html",
+          "news_source": "CNBC"
         },
         {
           "rank": 3,
-          "title": "भारतीय डाक",
+          "title": "artemis 3",
           "geos": [
-            "IN"
-          ],
-          "traffic_estimate": 5000,
-          "news_title": "India Post GDS 4th Merit List: आ गई जीडीएस भर्ती की चौथी मेरिट लिस्ट, ऐसे देखें चयनित उम्मीदवारों की सूची",
-          "news_url": "https://www.amarujala.com/jobs/government-jobs/india-post-gds-4th-merit-list-2026-released-for-28-636-posts-check-selection-status-online-2026-06-09",
-          "news_source": "Amar Ujala"
-        },
-        {
-          "rank": 4,
-          "title": "bulls",
-          "geos": [
-            "US"
-          ],
-          "traffic_estimate": 2000,
-          "news_title": "Three-time NBA champion Stacey King dies at 59",
-          "news_url": "https://www.nba.com/news/former-bulls-champion-stacey-king-dies-at-59",
-          "news_source": "NBA.com"
-        },
-        {
-          "rank": 5,
-          "title": "manchester",
-          "geos": [
+            "DE",
             "GB"
           ],
-          "traffic_estimate": 2000,
-          "news_title": "Schoolgirl arrested after three stabbed at Manchester school",
-          "news_url": "https://www.theguardian.com/uk-news/2026/jun/09/schoolgirl-arrested-stabbings-manchester-school-blackley",
-          "news_source": "The Guardian"
-        },
-        {
-          "rank": 6,
-          "title": "somalia",
-          "geos": [
-            "GB"
-          ],
-          "traffic_estimate": 2000,
-          "news_title": "World Cup 2026: Somali referee Omar Artan to miss tournament after being barred from entering US",
-          "news_url": "https://www.bbc.co.uk/sport/football/articles/cnv9drg0qzgo",
+          "traffic_estimate": 700,
+          "news_title": "Nasa names Artemis III crew in next step towards Moon landing",
+          "news_url": "https://www.bbc.co.uk/news/live/c932y0gx4zdt",
           "news_source": "BBC"
         },
         {
-          "rank": 7,
-          "title": "television channel",
+          "rank": 4,
+          "title": "tajikistan vs india",
           "geos": [
-            "GB"
+            "IN"
           ],
-          "traffic_estimate": 2000,
-          "news_title": "Eurovision Sport expands onto UK FAST platforms",
-          "news_url": "https://www.broadbandtvnews.com/2026/06/08/eurovision-sport-expands-onto-uk-fast-platforms/",
-          "news_source": "Broadband TV News"
+          "traffic_estimate": 20000,
+          "news_title": "Tajikistan vs India Football LIVE SCORE: TAJ 0-1 IND; Real-time updates. Vikram Pratap gives India the lead",
+          "news_url": "https://sportstar.thehindu.com/incoming/tajikistan-vs-india-live-score-indian-football-taj-v-ind-2026-friendly-match-today-updates-results-highlights/article71081306.ece",
+          "news_source": "Sportstar"
+        },
+        {
+          "rank": 5,
+          "title": "徹子の部屋",
+          "geos": [
+            "JP"
+          ],
+          "traffic_estimate": 10000,
+          "news_title": "安達祐実「体全体が女優さん。本当に素敵」俳優人生に影響を与えた大先輩…黒柳徹子も「ずっとお友だちでした」",
+          "news_url": "https://post.tv-asahi.co.jp/post-771399/",
+          "news_source": "テレ朝POST"
+        },
+        {
+          "rank": 6,
+          "title": "receita federal",
+          "geos": [
+            "BR"
+          ],
+          "traffic_estimate": 10000,
+          "news_title": "Leilão da Receita Federal tem carro por R$ 10 mil, eletrodomésticos e joias",
+          "news_url": "https://www1.folha.uol.com.br/mercado/2026/06/leilao-da-receita-federal-tem-carro-por-r-10-mil-eletrodomesticos-e-joias.shtml",
+          "news_source": "Folha de S.Paulo"
+        },
+        {
+          "rank": 7,
+          "title": "stock market today",
+          "geos": [
+            "US"
+          ],
+          "traffic_estimate": 5000,
+          "news_title": "Stock Market Today: Dow Moves Higher; SpaceX, OpenAI IPOs in Focus — Live Updates",
+          "news_url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-06-09-2026",
+          "news_source": "WSJ"
         },
         {
           "rank": 8,
-          "title": "kumod raney",
+          "title": "スタバ 無料 イベント 大阪",
           "geos": [
-            "IN"
+            "JP"
           ],
-          "traffic_estimate": 2000,
-          "news_title": "Salman Khan breaks down in tears as he attends close friend Kumud Rane’s funeral",
-          "news_url": "https://www.moneycontrol.com/entertainment/salman-khan-breaks-down-in-tears-as-he-attends-close-friend-kumud-rane-s-funeral-article-13945122.html",
-          "news_source": "Moneycontrol.com"
+          "traffic_estimate": 5000,
+          "news_title": "【あすから】大阪で「スタバ無料イベント」、15会場を巡回…“自分で完成させる”新ドリンクをお試し",
+          "news_url": "https://www.lmaga.jp/news/2026/06/1047369/",
+          "news_source": "Lmaga.jp"
         },
         {
           "rank": 9,
-          "title": "अर्जुन तेंदुलकर",
+          "title": "ocarina of time remake",
           "geos": [
-            "IN"
+            "BR"
           ],
-          "traffic_estimate": 2000,
-          "news_title": "अर्जुन तेंदुलकर के छक्के पर नन्हा फैन घायल, इस अंदाज ने लूटी महफ‍िल",
-          "news_url": "https://www.aajtak.in/visualstories/sports/arjun-tendulkar-heartwarming-gesture-young-fan-viral-video-mumbai-t20-league-tspok-281640-09-06-2026",
-          "news_source": "AajTak"
+          "traffic_estimate": 5000,
+          "news_title": "Resumo da Nintendo Direct de junho: Veja trailers, anúncios e novidades do Switch 2 em tempo real",
+          "news_url": "https://www.tecmundo.com.br/voxel/504540-resumo-da-nintendo-direct-de-junho-veja-trailers-anuncios-e-novidades-do-switch-2-em-tempo-real.htm",
+          "news_source": "TecMundo"
         },
         {
           "rank": 10,
-          "title": "రుణగ్రహీత",
+          "title": "fifa world cup games",
           "geos": [
             "IN"
           ],
           "traffic_estimate": 2000,
-          "news_title": "గోల్డ్‌ లోన్‌.. కష్టాలు!",
-          "news_url": "https://www.sakshi.com/index.php/telugu-news/business/rbi-gold-loan-rules-create-trouble-borrowers-2810769",
-          "news_source": "Sakshi"
+          "news_title": "Places to Celebrate the Soccer Spirit During the FIFA World Cup 2026 Games",
+          "news_url": "https://bocamag.com/places-to-celebrate-the-soccer-spirit-during-the-fifa-world-cup-2026-games/",
+          "news_source": "Boca Raton Magazine"
         },
         {
           "rank": 11,
-          "title": "辻 希美",
+          "title": "അഞ്ജു അരവിന്ദ്",
           "geos": [
-            "JP"
+            "IN"
           ],
           "traffic_estimate": 2000,
-          "news_title": "東原亜希：4児の母 夫・井上康生が作る弁当が子どもたちに好評 「モヤモヤする」と明かす 「さんま御殿」で",
-          "news_url": "https://mainichikirei.jp/article/20260608dog00m100013000a.html",
-          "news_source": "毎日キレイ"
+          "news_title": "നാട്ടിലെ ഡോക്ടറെ അമിതമായി വിശ്വസിച്ചു! കാന്‍സറായിരുന്നു! അറിഞ്ഞില്ല! ആന്റിയെക്കുറിച്ച് അഞ്ജു അരവിന്ദ്‌",
+          "news_url": "https://malayalam.filmibeat.com/features/anju-aravind-shared-an-emotional-post-about-her-aunty-s-demise-fans-consoles-her-142129.html",
+          "news_source": "Filmibeat Malayalam"
         },
         {
           "rank": 12,
-          "title": "永作博美",
+          "title": "amelia kerr",
           "geos": [
-            "JP"
+            "IN"
           ],
           "traffic_estimate": 2000,
-          "news_title": "",
-          "news_url": "",
-          "news_source": ""
+          "news_title": "ఐసీసీ టీ20 ర్యాంకింగ్స్.. టాప్ 10లోకి దూసుకొచ్చిన హర్మన్‌ప్రీత్",
+          "news_url": "https://www.andhrajyothy.com/2026/sports/icc-womens-t20i-rankings-amelia-kerr-regains-top-all-rounder-spot-harmanpreet-enters-top-10-srav-1531146.html",
+          "news_source": "Andhrajyothy"
         },
         {
           "rank": 13,
-          "title": "cleitinho",
+          "title": "a nobreza do amor",
           "geos": [
             "BR"
           ],
           "traffic_estimate": 2000,
-          "news_title": "A trombada entre Cleitinho e presidente do Republicanos que alimenta a indefinição em Minas Gerais",
-          "news_url": "https://veja.abril.com.br/politica/a-trombada-entre-cleitinho-e-presidente-do-republicanos-que-alimenta-a-indefinicao-em-minas-gerais/",
-          "news_source": "VEJA"
+          "news_title": "A Nobreza do Amor: semana tem embaixadora americana cobrando satisfações de Jendal por assassinato",
+          "news_url": "https://gshow.globo.com/novelas/a-nobreza-do-amor/vem-por-ai/noticia/a-nobreza-do-amor-semana-tem-embaixadora-americana-cobrando-satisfacoes-de-jendal-por-assassinato.ghtml",
+          "news_source": "Gshow"
         },
         {
           "rank": 14,
-          "title": "keiko fujimori",
+          "title": "nintendo switch 2",
           "geos": [
             "BR"
           ],
           "traffic_estimate": 2000,
-          "news_title": "Petro comemora vitória da esquerda nas eleições peruanas antes dos resultados oficiais",
-          "news_url": "https://www.estadao.com.br/internacional/petro-comemora-vitoria-da-esquerda-nas-eleicoes-peruanas-antes-dos-resultados-oficiais-npr/",
-          "news_source": "Estadão"
+          "news_title": "The Legend of Zelda: Ocarina of Time is getting a remake for the Switch 2",
+          "news_url": "https://www.theverge.com/games/945745/nintendo-zelda-ocarina-of-time-remake-direct-june-2026",
+          "news_source": "The Verge"
         },
         {
           "rank": 15,
-          "title": "1. fc lokomotive leipzig",
+          "title": "qqq",
           "geos": [
-            "DE"
+            "US"
           ],
-          "traffic_estimate": 2000,
-          "news_title": "10 Spieler und Trainer weg: Mega-Umbruch bei Traditionsklub",
-          "news_url": "https://www.bild.de/sport/fussball/10-spieler-und-trainer-weg-mega-umbruch-bei-traditionsklub-6a27c40529fcf2207deb18f2",
-          "news_source": "BILD"
+          "traffic_estimate": 1000,
+          "news_title": "Should You Really Invest in QQQ Right Now? Or Is IVV the Better Buy? Here's What the Data Suggests.",
+          "news_url": "https://finance.yahoo.com/markets/stocks/articles/really-invest-qqq-now-ivv-212617056.html",
+          "news_source": "Yahoo Finance"
         },
         {
           "rank": 16,
-          "title": "rente",
+          "title": "qqq stock",
           "geos": [
-            "DE"
+            "US"
           ],
-          "traffic_estimate": 2000,
-          "news_title": "„Nicht zu vermitteln“, urteilt der Arbeitgeberpräsident über die Erhöhung der Rente",
-          "news_url": "https://www.welt.de/politik/deutschland/article6a277c94b20db0d89b659d5e/rente-nicht-zu-vermitteln-urteilt-der-arbeitgeberpraesident-ueber-starke-erhoehung.html",
-          "news_source": "WELT"
+          "traffic_estimate": 1000,
+          "news_title": "SpaceX Could Join the Nasdaq-100 Very Soon. Should You Buy the Invesco QQQ Trust Today?",
+          "news_url": "https://www.theglobeandmail.com/investing/markets/stocks/INTC-Q/pressreleases/2380350/spacex-could-join-the-nasdaq-100-very-soon-should-you-buy-the-invesco-qqq-trust-today/",
+          "news_source": "The Globe and Mail"
         },
         {
           "rank": 17,
-          "title": "urteil",
+          "title": "spy",
           "geos": [
-            "DE"
+            "US"
           ],
-          "traffic_estimate": 2000,
-          "news_title": "Urteil im Bußgeldverfahren um Feuerwehrmann aus Taucha",
-          "news_url": "https://www.mdr.de/nachrichten/sachsen/leipzig/leipzig-leipzig-land/prozess-gericht-ordnungsamt-urteil,feuerwehr-taucha-bussgeld-100.html",
-          "news_source": "MDR.de"
+          "traffic_estimate": 1000,
+          "news_title": "Opinion | The FISA Hostage Takers",
+          "news_url": "https://www.wsj.com/opinion/fisa-renewal-intelligence-donald-trump-bill-pulte-democrats-37943c4c",
+          "news_source": "WSJ"
         },
         {
           "rank": 18,
-          "title": "kathryn bryce",
+          "title": "disclosure day review",
           "geos": [
-            "IN"
+            "GB"
           ],
           "traffic_estimate": 1000,
-          "news_title": "Scotland back for second shot at World Cup spotlight",
-          "news_url": "https://www.cricbuzz.com/cricket-news/139088/scotland-back-for-second-shot-at-t20-world-cup-spotlight-cricbuzzcom",
-          "news_source": "Cricbuzz"
+          "news_title": "Disclosure Day review – close encounters of a deferred kind in Spielberg’s conspiracy spectacular",
+          "news_url": "https://www.theguardian.com/film/2026/jun/09/disclosure-day-review-close-encounters-of-a-deferred-kind-in-spielbergs-conspiracy-spectacular",
+          "news_source": "The Guardian"
         },
         {
           "rank": 19,
-          "title": "నారా లోకేశ్",
+          "title": "জগন্নাথ মন্দির, দীঘা",
           "geos": [
             "IN"
           ],
           "traffic_estimate": 1000,
-          "news_title": "Nara Lokesh: విశాఖ ఘటన జరిగిన 6 గంటల్లోనే కేంద్రమంత్రి వచ్చారు: నారా లోకేశ్‌",
-          "news_url": "https://www.eenadu.net/telugu-news/andhra-pradesh/nara-lokesh-press-meet-in-vizag/1701/126101134",
-          "news_source": "Eenadu"
+          "news_title": "আর ‘ধাম’ নয় দিঘার জগন্নাথ মন্দির! ওড়িশার মুখ্যমন্ত্রীর আর্জি নিয়ে এলেন পুরীর সাংসদ, রাজি শুভেন্দু, ইতি পড়ল বিতর্কে",
+          "news_url": "https://www.anandabazar.com/west-bengal/suvendu-adhikari-announces-importan-decision-about-jagannath-temple-dgtl/cid/1692194",
+          "news_source": "Anandabazar Patrika"
         },
         {
           "rank": 20,
-          "title": "തട്ടിപ്പ്",
-          "geos": [
-            "IN"
-          ],
-          "traffic_estimate": 1000,
-          "news_title": "നാട്ടിലെ വീട്ടുവാടക: പ്രവാസിക്ക് കിട്ടിയത് എട്ടിന്റെ പണി; മലയാളിയുടെ പണം അപ്രത്യക്ഷമായ വഴി!",
-          "news_url": "https://www.manoramaonline.com/global-malayali/gulf/2026/06/09/malayalam-expat-falls-victim-to-remittance-scam-in-uae.html",
-          "news_source": "Manorama Online"
-        },
-        {
-          "rank": 21,
-          "title": "ಬ್ಯಾಟಿಂಗ್",
-          "geos": [
-            "IN"
-          ],
-          "traffic_estimate": 1000,
-          "news_title": "3 ಓವರ್‌ 3 ವಿಕೆಟ್‌, 25 ಎಸೆತದಲ್ಲಿ ಸ್ಫೋಟಕ ಫಿಫ್ಟಿ – ಅರ್ಜುನ್‌ ತೆಂಡೂಲ್ಕರ್‌ ಬೆಂಕಿ ಬ್ಯಾಟಿಂಗ್‌, ತಂಡಕ್ಕೆ ಜಯ",
-          "news_url": "https://publictv.in/t20-mumbai-league-3-overs-3-wickets-then-25-ball-fifty-in-arjun-tendulkar/",
-          "news_source": "Public TV"
-        },
-        {
-          "rank": 22,
-          "title": "加賀まりこ",
+          "title": "マクドナルド ワールド カップ",
           "geos": [
             "JP"
           ],
           "traffic_estimate": 1000,
-          "news_title": "小悪魔な魅力振りまく妖精・加賀まりこ特集、主演「月曜日のユカ」など昭和の傑作3選をBS12で放送（WEBザテレビジョン）",
-          "news_url": "https://news.yahoo.co.jp/articles/e87f2db005925d40d8f41a6f10b4e6d63f6075cf",
-          "news_source": "Yahoo!ニュース"
+          "news_title": "全国の日本マクドナルド店舗(一部の店舗は除く)",
+          "news_url": "https://www.mcdonalds.co.jp/company/news/2026/0609a/",
+          "news_source": "マクドナルド"
+        },
+        {
+          "rank": 21,
+          "title": "coração acelerado",
+          "geos": [
+            "BR"
+          ],
+          "traffic_estimate": 1000,
+          "news_title": "Em Coração Acelerado, Ana Castela choca Naiane ao apresentar Gael como namorado: 'Fisguei'",
+          "news_url": "https://gshow.globo.com/novelas/coracao-acelerado/vem-por-ai/noticia/em-coracao-acelerado-ana-castela-choca-naiane-ao-apresentar-gael-como-namorado-fisguei.ghtml",
+          "news_source": "Gshow"
+        },
+        {
+          "rank": 22,
+          "title": "abertura copa do mundo 2026",
+          "geos": [
+            "BR"
+          ],
+          "traffic_estimate": 1000,
+          "news_title": "Em contraponto aos EUA, México 'abre as portas' para a Copa do Mundo e à diversidade",
+          "news_url": "https://g1.globo.com/bom-dia-brasil/noticia/2026/06/09/sede-da-cerimonia-de-abertura-da-copa-do-mundo-mexico-abre-as-portas-aos-visitantes.ghtml",
+          "news_source": "G1"
         },
         {
           "rank": 23,
-          "title": "abertura da copa do mundo 2026",
+          "title": "epic games",
           "geos": [
             "BR"
           ],
           "traffic_estimate": 1000,
-          "news_title": "Wilton Pereira Sampaio vai apitar o jogo de abertura da Copa entre México e África do Sul",
-          "news_url": "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/06/08/wilton-pereira-sampaio-vai-apitar-o-jogo-de-abertura-da-copa-entre-mexico-e-africa-do-sul.ghtml",
-          "news_source": "ge"
+          "news_title": "Epic Games Store libera jogo de simulação grátis por tempo limitado",
+          "news_url": "https://www.tudocelular.com/jogos/noticias/n255990/epic-games-store-jogos-gratis-relaxing-simulator.html",
+          "news_source": "TudoCelular.com"
         },
         {
           "rank": 24,
-          "title": "envenenamento",
+          "title": "ramon dino",
           "geos": [
             "BR"
           ],
           "traffic_estimate": 1000,
-          "news_title": "Menino é internado com suspeita de envenenamento após comer pedaço de bolo na Baixada Fluminense",
-          "news_url": "https://extra.globo.com/rio/casos-de-policia/noticia/2026/06/menino-e-internado-com-suspeita-de-envenenamento-apos-comer-pedaco-de-bolo-na-baixada-fluminense.ghtml",
-          "news_source": "Extra online"
+          "news_title": "Rumores apontam separação de Ramon Dino e Vit Viana; entenda o caso",
+          "news_url": "https://contilnetnoticias.com.br/destaque-2/rumores-apontam-separacao-de-ramon-dino-e-vit-viana-entenda-o-caso/",
+          "news_source": "ContilNet Notícias"
         },
         {
           "rank": 25,
-          "title": "belarus",
+          "title": "kingdom hearts 4",
           "geos": [
             "BR"
           ],
           "traffic_estimate": 1000,
-          "news_title": "Human rights situation in Belarus. May 2026",
-          "news_url": "https://spring96.org/en/news/120447",
-          "news_source": "spring96.org"
+          "news_title": "Kingdom Hearts IV Is Coming to PS5, Xbox Series, Switch 2, and PC",
+          "news_url": "https://www.vice.com/en/article/kingdom-hearts-iv-is-coming-to-ps5-xbox-series-switch-2-and-pc/",
+          "news_source": "VICE"
         }
       ]
     },
     "cloudflare-radar": {
       "source": "cloudflare-radar",
       "label": "Cloudflare Radar — top domains",
-      "fetched_at": "2026-06-09T11:08:39.718Z",
+      "fetched_at": "2026-06-09T16:54:45.981Z",
       "configured": true,
       "items": [
         {
@@ -1075,580 +1078,587 @@
     "lemmy": {
       "source": "lemmy",
       "label": "Lemmy — top of the day",
-      "fetched_at": "2026-06-09T11:08:39.483Z",
+      "fetched_at": "2026-06-09T16:54:45.824Z",
       "items": [
         {
           "rank": 1,
-          "title": "Making the bed",
-          "url": "https://lemmy.world/post/47910084",
-          "external_url": "https://lemmy.world/pictrs/image/22b6d53a-06ce-4e10-ae13-218949614060.jpeg",
-          "community": "comicstrips",
-          "score": 997,
-          "comments": 128,
-          "author": "The_Picard_Maneuver"
-        },
-        {
-          "rank": 2,
-          "title": "A Farmer Donated Land to Turn into a Park. The City Is Building a Massive Data Center Instead",
-          "url": "https://lemmy.world/post/47914042",
-          "external_url": "https://www.404media.co/a-farmer-donated-land-to-turn-into-a-park-the-city-is-building-a-massive-data-center-instead/",
-          "community": "technology",
-          "score": 966,
-          "comments": 104,
-          "author": "Some_Emo_Chick"
-        },
-        {
-          "rank": 3,
           "title": "Ah, now that brings me back to my college days...",
           "url": "https://lemmy.world/post/47922684",
           "external_url": "https://media.piefed.social/posts/gL/XR/gLXRfFqKqx5pHen.jpg",
           "community": "fuck_ai",
-          "score": 786,
-          "comments": 89,
+          "score": 966,
+          "comments": 121,
           "author": "PugJesus"
         },
         {
-          "rank": 4,
-          "title": "me_irl",
-          "url": "https://lemmy.world/post/47915084",
-          "external_url": "https://lemmy.today/pictrs/image/68a21f66-64de-48c6-a3e3-00e9cc5270ec.jpeg",
-          "community": "me_irl",
-          "score": 764,
-          "comments": 69,
-          "author": "sanitation"
-        },
-        {
-          "rank": 5,
-          "title": "We are a family at this company.",
-          "url": "https://lemmy.world/post/47919340",
-          "external_url": "https://lemmy.world/pictrs/image/b72ac2ba-e1ad-4575-8089-3a1b1a9df9c5.jpeg",
-          "community": "memes",
-          "score": 744,
-          "comments": 24,
-          "author": "Return_of_Chippy"
-        },
-        {
-          "rank": 6,
-          "title": "me_irl",
-          "url": "https://lemmy.world/post/47912509",
-          "external_url": "https://lemmy.today/pictrs/image/d0a7d9bf-b906-414b-8f65-84e2f554b57d.jpeg",
-          "community": "me_irl",
-          "score": 743,
-          "comments": 55,
-          "author": "sanitation"
-        },
-        {
-          "rank": 7,
-          "title": "Rare",
-          "url": "https://lemmy.world/post/47919043",
-          "external_url": "https://lemmy.world/pictrs/image/016c11d1-b1e9-4015-b319-e3ec4627cdb7.jpeg",
-          "community": "lemmyshitpost",
-          "score": 651,
-          "comments": 62,
-          "author": "Return_of_Chippy"
-        },
-        {
-          "rank": 8,
-          "title": "me_irl",
-          "url": "https://lemmy.world/post/47929419",
-          "external_url": "https://lemmy.today/pictrs/image/e1e00a05-9766-45ea-a786-d8068b27e59f.jpeg",
-          "community": "me_irl",
-          "score": 611,
-          "comments": 48,
-          "author": "sanitation"
-        },
-        {
-          "rank": 9,
-          "title": "Man jailed for a month despite Flock showing he was 5 miles from crime scene",
-          "url": "https://lemmy.world/post/47922658",
-          "external_url": "https://arstechnica.com/tech-policy/2026/06/man-jailed-for-a-month-despite-flock-showing-he-was-5-miles-from-crime-scene/",
-          "community": "technology",
-          "score": 604,
-          "comments": 28,
-          "author": "tonytins"
-        },
-        {
-          "rank": 10,
-          "title": "I fried this meme because reddit banned it",
-          "url": "https://lemmy.world/post/47924639",
-          "external_url": "https://sh.itjust.works/pictrs/image/4fe0ce5f-3ad4-44bc-be74-dd49ccf1d114.jpeg",
-          "community": "memes",
-          "score": 603,
-          "comments": 22,
-          "author": "TheparishofChigwell"
-        },
-        {
-          "rank": 11,
-          "title": "Welcome to the United States",
-          "url": "https://lemmy.world/post/47917618",
-          "external_url": "https://lemmy.world/pictrs/image/615dbaa1-1a48-426f-93e2-a9062f1680ba.jpeg",
-          "community": "politicalmemes",
-          "score": 602,
-          "comments": 22,
-          "author": "ickplant"
-        },
-        {
-          "rank": 12,
-          "title": "Broken speaker? Finicky zipper? Anticonsumerist Repair Cafes urge you to fix it instead of pitch it",
-          "url": "https://lemmy.world/post/47910088",
-          "external_url": "https://apnews.com/article/repair-cafes-economy-anticonsumerism-affordability-buy-nothing-d3acac3ec2aae5e85294b34f0f4764b8",
-          "community": "technology",
-          "score": 602,
-          "comments": 63,
-          "author": "Some_Emo_Chick"
-        },
-        {
-          "rank": 13,
-          "title": "This guy is a walking trope",
-          "url": "https://lemmy.world/post/47920648",
-          "external_url": "https://lemmy.world/pictrs/image/19dffeca-b9f9-4c97-a59c-f1b2da2e551f.jpeg",
-          "community": "microblogmemes",
-          "score": 570,
-          "comments": 37,
-          "author": "cannedtuna"
-        },
-        {
-          "rank": 14,
-          "title": "Butterflies [Beetle Moses]",
-          "url": "https://lemmy.world/post/47908789",
-          "external_url": "https://lemmy.world/pictrs/image/aa541543-b3f2-429d-a046-02aafd4564c9.png",
-          "community": "comicstrips",
-          "score": 547,
-          "comments": 6,
-          "author": "cannedtuna"
-        },
-        {
-          "rank": 15,
-          "title": "Buzz off",
-          "url": "https://lemmy.world/post/47935724",
-          "external_url": "https://mander.xyz/pictrs/image/f53c7318-f3d8-4e41-ae75-18615b102643.jpeg",
-          "community": "science_memes",
-          "score": 522,
-          "comments": 53,
-          "author": "fossilesque"
-        },
-        {
-          "rank": 16,
-          "title": "Test your metaphors on the weirdest and most neurodivergent child you know",
-          "url": "https://lemmy.world/post/47910030",
-          "external_url": "https://lemmy.today/pictrs/image/04056667-ad92-4f38-965c-59f547090b1d.png",
-          "community": "BrandNewSentence",
-          "score": 502,
-          "comments": 44,
-          "author": "Wren"
-        },
-        {
-          "rank": 17,
-          "title": "Goddammit",
-          "url": "https://lemmy.world/post/47917945",
-          "external_url": "https://lemmy.world/pictrs/image/1f5a6c8b-4f1b-4197-9ad8-eb4e0b6c67cf.jpeg",
-          "community": "lemmyshitpost",
-          "score": 500,
-          "comments": 33,
-          "author": "ickplant"
-        },
-        {
-          "rank": 18,
-          "title": "Dress codes",
-          "url": "https://lemmy.world/post/47932507",
-          "external_url": "https://slrpnk.net/pictrs/image/c0900e26-4cac-4d59-9b62-04c9ddd48879.jpeg",
-          "community": "microblogmemes",
-          "score": 496,
-          "comments": 50,
-          "author": "Track_Shovel"
-        },
-        {
-          "rank": 19,
+          "rank": 2,
           "title": "Mexico cuts workweek, bans after-hours contact, and guarantees no worker will take a pay cut in the most sweeping labor reform in a generation",
           "url": "https://lemmy.world/post/47936050",
           "external_url": "https://techfixated.com/mexico-cuts-workweek-bans-after-hours-contact-and-guarantees-no-worker-will-take-a-pay-cut-in-the-most-sweeping-labor-reform-in-a-generation/",
           "community": "world",
-          "score": 495,
-          "comments": 29,
+          "score": 798,
+          "comments": 70,
           "author": "return2ozma"
         },
         {
-          "rank": 20,
-          "title": "US Military Personnel in Israel Found Secret Spyware on Their Phones as Congress Pushes US-Israeli Military Merger",
-          "url": "https://lemmy.world/post/47909223",
-          "external_url": "https://www.ibtimes.co.uk/us-raises-espionage-threat-level-israel-surveillance-allegations-1801334",
-          "community": "world",
-          "score": 490,
-          "comments": 41,
-          "author": "EatingOnions"
+          "rank": 3,
+          "title": "me_irl",
+          "url": "https://lemmy.world/post/47929419",
+          "external_url": "https://lemmy.today/pictrs/image/e1e00a05-9766-45ea-a786-d8068b27e59f.jpeg",
+          "community": "me_irl",
+          "score": 776,
+          "comments": 68,
+          "author": "sanitation"
         },
         {
-          "rank": 21,
+          "rank": 4,
+          "title": "Buzz off",
+          "url": "https://lemmy.world/post/47935724",
+          "external_url": "https://mander.xyz/pictrs/image/f53c7318-f3d8-4e41-ae75-18615b102643.jpeg",
+          "community": "science_memes",
+          "score": 775,
+          "comments": 87,
+          "author": "fossilesque"
+        },
+        {
+          "rank": 5,
+          "title": "Man jailed for a month despite Flock showing he was 5 miles from crime scene",
+          "url": "https://lemmy.world/post/47922658",
+          "external_url": "https://arstechnica.com/tech-policy/2026/06/man-jailed-for-a-month-despite-flock-showing-he-was-5-miles-from-crime-scene/",
+          "community": "technology",
+          "score": 676,
+          "comments": 34,
+          "author": "tonytins"
+        },
+        {
+          "rank": 6,
+          "title": "Wait bro, what if??????",
+          "url": "https://lemmy.world/post/47941431",
+          "external_url": "https://lemmy.world/pictrs/image/8537c7bf-d76f-47de-9ed3-72291e53b6d9.jpeg",
+          "community": "lemmyshitpost",
+          "score": 647,
+          "comments": 73,
+          "author": "Godric"
+        },
+        {
+          "rank": 7,
+          "title": "I fried this meme because reddit banned it",
+          "url": "https://lemmy.world/post/47924639",
+          "external_url": "https://sh.itjust.works/pictrs/image/4fe0ce5f-3ad4-44bc-be74-dd49ccf1d114.jpeg",
+          "community": "memes",
+          "score": 630,
+          "comments": 23,
+          "author": "TheparishofChigwell"
+        },
+        {
+          "rank": 8,
+          "title": "Dress codes",
+          "url": "https://lemmy.world/post/47932507",
+          "external_url": "https://slrpnk.net/pictrs/image/c0900e26-4cac-4d59-9b62-04c9ddd48879.jpeg",
+          "community": "microblogmemes",
+          "score": 608,
+          "comments": 62,
+          "author": "Track_Shovel"
+        },
+        {
+          "rank": 9,
           "title": "Rule, ha ha ha, rule!",
           "url": "https://lemmy.world/post/47926141",
           "external_url": "https://lemmy.world/pictrs/image/3def1820-8f09-44d8-8649-489968562cae.jpeg",
           "community": "onehundredninetysix",
-          "score": 486,
-          "comments": 67,
+          "score": 601,
+          "comments": 95,
           "author": "ZILtoid1991"
         },
         {
-          "rank": 22,
-          "title": "You donkey",
-          "url": "https://lemmy.world/post/47918926",
-          "external_url": "https://lemmy.world/pictrs/image/d1978a79-4d45-4749-a9cc-65b0bfcb79d0.jpeg",
-          "community": "memes",
-          "score": 468,
-          "comments": 13,
-          "author": "The_Picard_Maneuver"
+          "rank": 10,
+          "title": "Me_irl",
+          "url": "https://lemmy.world/post/47937655",
+          "external_url": "https://lemmy.today/pictrs/image/7798fa62-491e-4dd7-bfa0-9697ba1f7ffa.jpeg",
+          "community": "me_irl",
+          "score": 547,
+          "comments": 10,
+          "author": "sanitation"
         },
         {
-          "rank": 23,
+          "rank": 11,
+          "title": "Meow meow meow",
+          "url": "https://lemmy.world/post/47935720",
+          "external_url": "https://mander.xyz/pictrs/image/e2303a1d-53d1-4c8a-b102-08e81975fbc1.jpeg",
+          "community": "science_memes",
+          "score": 518,
+          "comments": 18,
+          "author": "fossilesque"
+        },
+        {
+          "rank": 12,
           "title": "A beast",
           "url": "https://lemmy.world/post/47932051",
           "external_url": "https://slrpnk.net/pictrs/image/b2c54c06-6d3d-4186-82ad-5caaca6d9544.jpeg",
           "community": "lemmyshitpost",
-          "score": 467,
+          "score": 516,
           "comments": 11,
           "author": "Track_Shovel"
         },
         {
+          "rank": 13,
+          "title": "He took his picnic basket",
+          "url": "https://lemmy.world/post/47933608",
+          "external_url": "https://sh.itjust.works/pictrs/image/441d5e90-eb5f-4c01-959d-cab3b13c369c.jpeg",
+          "community": "whitepeopletwitter",
+          "score": 486,
+          "comments": 33,
+          "author": "pelespirit"
+        },
+        {
+          "rank": 14,
+          "title": "On cats",
+          "url": "https://lemmy.world/post/47935718",
+          "external_url": "https://mander.xyz/pictrs/image/6c364a4d-69af-4af6-94a6-4575a13a9eb2.jpeg",
+          "community": "science_memes",
+          "score": 472,
+          "comments": 5,
+          "author": "fossilesque"
+        },
+        {
+          "rank": 15,
+          "title": "doomscroll while you still can",
+          "url": "https://lemmy.world/post/47921984",
+          "external_url": "https://media.piefed.zip/posts/32/95/3295kEukbqqiIAx.jpg",
+          "community": "lemmyshitpost",
+          "score": 455,
+          "comments": 9,
+          "author": "UnCollaredCarrot"
+        },
+        {
+          "rank": 16,
+          "title": "Pointers explained:",
+          "url": "https://lemmy.world/post/47930937",
+          "external_url": "https://lemmy.world/pictrs/image/9b312cc8-b1a5-4507-8744-58d175b97135.webp",
+          "community": "programmer_humor",
+          "score": 448,
+          "comments": 57,
+          "author": "ZILtoid1991"
+        },
+        {
+          "rank": 17,
+          "title": "Mew Lun",
+          "url": "https://lemmy.world/post/47943895",
+          "external_url": "https://sh.itjust.works/pictrs/image/d171a956-a620-4144-971b-ff29f7c17b35.jpeg",
+          "community": "microblogmemes",
+          "score": 446,
+          "comments": 66,
+          "author": "pastermil"
+        },
+        {
+          "rank": 18,
+          "title": "Who's a good boy?",
+          "url": "https://lemmy.world/post/47932406",
+          "external_url": "https://slrpnk.net/pictrs/image/e3601738-d6c2-45fc-8303-e4876a60acd8.png",
+          "community": "microblogmemes",
+          "score": 417,
+          "comments": 11,
+          "author": "Track_Shovel"
+        },
+        {
+          "rank": 19,
+          "title": "President Trump roundly booed by New York crowd at NBA Finals Game 3 at MSG",
+          "url": "https://lemmy.world/post/47936633",
+          "external_url": "https://www.nytimes.com/athletic/7343354/2026/06/08/trump-nba-finals-knicks-spurs-game-3/?source=emp_shared_article&unlocked_article_code=1.o1A.sBUI.hZTzejJlvpXi",
+          "community": "politics",
+          "score": 413,
+          "comments": 44,
+          "author": "silence7"
+        },
+        {
+          "rank": 20,
+          "title": "Companies should by law have to pay you for each interview round.",
+          "url": "https://lemmy.world/post/47937027",
+          "external_url": null,
+          "community": "showerthoughts",
+          "score": 404,
+          "comments": 55,
+          "author": "SubArcticTundra"
+        },
+        {
+          "rank": 21,
+          "title": "Meta Deletes Face-Recognition System From Its Smart Glasses App After WIRED Report",
+          "url": "https://lemmy.world/post/47932146",
+          "external_url": "https://www.wired.com/story/meta-removes-face-recognition-code-meta-ai-app-smart-glasses/",
+          "community": "technology",
+          "score": 402,
+          "comments": 27,
+          "author": "floofloof"
+        },
+        {
+          "rank": 22,
+          "title": "xkcd #3256: Nostalgia Content",
+          "url": "https://lemmy.world/post/47932209",
+          "external_url": "https://imgs.xkcd.com/comics/nostalgia_content.png",
+          "community": "xkcd",
+          "score": 395,
+          "comments": 15,
+          "author": "xkcdbot"
+        },
+        {
+          "rank": 23,
+          "title": "See ya [Beetle Moses]",
+          "url": "https://lemmy.world/post/47935660",
+          "external_url": "https://lemmy.world/pictrs/image/b8207396-ef67-4727-a1d4-1e1a23962f79.jpeg",
+          "community": "comicstrips",
+          "score": 388,
+          "comments": 7,
+          "author": "cannedtuna"
+        },
+        {
           "rank": 24,
-          "title": "Life is short, you should piss off the church more",
-          "url": "https://lemmy.world/post/47917786",
-          "external_url": "https://lemmy.world/pictrs/image/7b212778-66c9-4d40-9ad3-84efa61e068b.jpeg",
-          "community": "witchymemes",
-          "score": 451,
-          "comments": 13,
-          "author": "ickplant"
+          "title": "me_irl",
+          "url": "https://lemmy.world/post/47936393",
+          "external_url": "https://lemmy.today/pictrs/image/097ad791-a4d1-48c3-bbc9-a61a55c59c93.jpeg",
+          "community": "me_irl",
+          "score": 385,
+          "comments": 67,
+          "author": "sanitation"
         },
         {
           "rank": 25,
-          "title": "Me_irl",
-          "url": "https://lemmy.world/post/47910029",
-          "external_url": "https://lemmy.today/pictrs/image/b8036013-5512-41f6-ad40-3986bf8210d5.png",
-          "community": "me_irl",
-          "score": 437,
-          "comments": 11,
-          "author": "sanitation"
+          "title": "East Asia",
+          "url": "https://lemmy.world/post/47925272",
+          "external_url": "https://lemmy.world/pictrs/image/991e29c2-6687-42f9-a497-32f0f178bb6b.png",
+          "community": "lemmyshitpost",
+          "score": 377,
+          "comments": 54,
+          "author": "Absolute_Slayer"
         }
       ]
     },
     "stackoverflow": {
       "source": "stackoverflow",
       "label": "Stack Overflow — hot questions",
-      "fetched_at": "2026-06-09T11:08:39.317Z",
+      "fetched_at": "2026-06-09T16:54:45.653Z",
       "items": [
         {
           "rank": 1,
-          "title": "Struggling adding dependencies in C++17",
-          "url": "https://stackoverflow.com/questions/79954485/struggling-adding-dependencies-in-c17",
+          "title": "creating a variable if it doesn't exist c++",
+          "url": "https://stackoverflow.com/questions/79954691/creating-a-variable-if-it-doesnt-exist-c",
           "score": 0,
           "answers": 2,
-          "views": 32,
+          "views": 34,
           "tags": [
-            "c++",
-            "cmake",
-            "gtk"
+            "c++"
           ]
         },
         {
           "rank": 2,
-          "title": "How to convert an string to unsigned string in c",
-          "url": "https://stackoverflow.com/questions/79954508/how-to-convert-an-string-to-unsigned-string-in-c",
+          "title": "The fastest algorithm for the problem \"Cheapest flight within k stops\"?",
+          "url": "https://stackoverflow.com/questions/79954689/the-fastest-algorithm-for-the-problem-cheapest-flight-within-k-stops",
           "score": 0,
-          "answers": 2,
-          "views": 31,
+          "answers": 0,
+          "views": 22,
           "tags": [
-            "c",
-            "type-conversion",
-            "basic"
+            "java",
+            "algorithm",
+            "time-complexity",
+            "shortest-path",
+            "bellman-ford"
           ]
         },
         {
           "rank": 3,
-          "title": "How do I calculate the index of children in a tree of order 3?",
-          "url": "https://stackoverflow.com/questions/79954512/how-do-i-calculate-the-index-of-children-in-a-tree-of-order-3",
-          "score": 0,
+          "title": "Bellhopcuda building binaries",
+          "url": "https://stackoverflow.com/questions/79954681/bellhopcuda-building-binaries",
+          "score": -1,
           "answers": 0,
-          "views": 27,
+          "views": 20,
           "tags": [
-            "tree",
-            "tree-traversal"
+            "simulation",
+            "acoustics"
           ]
         },
         {
           "rank": 4,
-          "title": "Browser \"edge\" is not supported by the browser provider \"playwright\" when running Vitest in Angular",
-          "url": "https://stackoverflow.com/questions/79954498/browser-edge-is-not-supported-by-the-browser-provider-playwright-when-runnin",
-          "score": 0,
-          "answers": 1,
+          "title": "QTextEdit accessibility issue in PyQt6 and PySide6",
+          "url": "https://stackoverflow.com/questions/79954683/qtextedit-accessibility-issue-in-pyqt6-and-pyside6",
+          "score": 1,
+          "answers": 0,
           "views": 18,
           "tags": [
-            "angular",
-            "vitest"
+            "python",
+            "qt",
+            "pyqt",
+            "accessibility"
           ]
         },
         {
           "rank": 5,
-          "title": "Data path \"\" must have required property 'project' when generating Vitest config in Angular",
-          "url": "https://stackoverflow.com/questions/79954490/data-path-must-have-required-property-project-when-generating-vitest-config",
+          "title": "Is it possoble to get PasswordEncoder bean from UserDetailsService bean?",
+          "url": "https://stackoverflow.com/questions/79954685/is-it-possoble-to-get-passwordencoder-bean-from-userdetailsservice-bean",
           "score": 0,
-          "answers": 1,
-          "views": 16,
+          "answers": 0,
+          "views": 12,
           "tags": [
-            "angular",
-            "vitest"
+            "spring-boot",
+            "security",
+            "password-encryption"
           ]
         },
         {
           "rank": 6,
-          "title": "MS SQL package in my Express app returns 1 row affected but value in recordset is undefined",
-          "url": "https://stackoverflow.com/questions/79954509/ms-sql-package-in-my-express-app-returns-1-row-affected-but-value-in-recordset-i",
-          "score": -1,
-          "answers": 0,
-          "views": 15,
+          "title": "Claude OPUS and Concurrency in C++?",
+          "url": "https://stackoverflow.com/questions/79954621/claude-opus-and-concurrency-in-c",
+          "score": 0,
+          "answers": 4,
+          "views": 73,
           "tags": [
-            "sql-server",
-            "typescript",
-            "express"
+            "c++",
+            "concurrency",
+            "claude"
           ]
         },
         {
           "rank": 7,
-          "title": "Livekit basic agent set up problem with rtc audioframe",
-          "url": "https://stackoverflow.com/questions/79954496/livekit-basic-agent-set-up-problem-with-rtc-audioframe",
-          "score": 0,
-          "answers": 0,
-          "views": 14,
+          "title": "python dataframe rolling by date to concatenate a string",
+          "url": "https://stackoverflow.com/questions/79954671/python-dataframe-rolling-by-date-to-concatenate-a-string",
+          "score": -4,
+          "answers": 1,
+          "views": 54,
           "tags": [
             "python",
-            "audio",
-            "artificial-intelligence",
-            "agent",
-            "livekit"
+            "pandas",
+            "dataframe"
           ]
         },
         {
           "rank": 8,
-          "title": "How to create a WhatsApp bridge for matrix.org?",
-          "url": "https://stackoverflow.com/questions/79954503/how-to-create-a-whatsapp-bridge-for-matrix-org",
+          "title": "Best Parameter-Set for Google Fleet Routing to Use all Vehicles",
+          "url": "https://stackoverflow.com/questions/79954663/best-parameter-set-for-google-fleet-routing-to-use-all-vehicles",
           "score": 0,
           "answers": 0,
-          "views": 13,
+          "views": 26,
           "tags": [
-            "chat",
-            "distributed",
-            "self-hosting"
+            "google-route-optimization-api"
           ]
         },
         {
           "rank": 9,
-          "title": "Terraform Azure Container Registry task keeps failing",
-          "url": "https://stackoverflow.com/questions/79954461/terraform-azure-container-registry-task-keeps-failing",
-          "score": 0,
-          "answers": 1,
-          "views": 46,
+          "title": "YouTube InnerTube API - comment replies missing continuation tokens despite visible replies",
+          "url": "https://stackoverflow.com/questions/79954660/youtube-innertube-api-comment-replies-missing-continuation-tokens-despite-visi",
+          "score": -1,
+          "answers": 0,
+          "views": 25,
           "tags": [
-            "azure",
-            "terraform",
-            "terraform-provider-azure",
-            "azure-container-registry"
+            "javascript",
+            "function",
+            "youtube",
+            "youtube-api",
+            "developer-console"
           ]
         },
         {
           "rank": 10,
-          "title": "ConnectionError: Failed to connect to localhost/SQLEXPRESS01:1433",
-          "url": "https://stackoverflow.com/questions/79954459/connectionerror-failed-to-connect-to-localhost-sqlexpress011433",
-          "score": 0,
-          "answers": 1,
-          "views": 37,
+          "title": "Proper semantics for specifying the portion of something you supply?",
+          "url": "https://stackoverflow.com/questions/79954668/proper-semantics-for-specifying-the-portion-of-something-you-supply",
+          "score": 1,
+          "answers": 2,
+          "views": 24,
           "tags": [
-            "sql-server",
-            "express",
-            "sql-server-express",
-            "sql-server-2022"
+            "html",
+            "css",
+            "semantic-markup"
           ]
         },
         {
           "rank": 11,
-          "title": "UDT HEADER Packing Data From Structure to Array",
-          "url": "https://stackoverflow.com/questions/79954452/udt-header-packing-data-from-structure-to-array",
+          "title": "Making the prefix 0o for octal numbers mandatory?",
+          "url": "https://stackoverflow.com/questions/79954584/making-the-prefix-0o-for-octal-numbers-mandatory",
           "score": 0,
-          "answers": 0,
-          "views": 35,
+          "answers": 3,
+          "views": 104,
           "tags": [
             "c",
-            "embedded"
+            "octal",
+            "strtol",
+            "strtoull",
+            "strtoul"
           ]
         },
         {
           "rank": 12,
-          "title": "Why does engine.execute() not work for merge statements?",
-          "url": "https://stackoverflow.com/questions/79954456/why-does-engine-execute-not-work-for-merge-statements",
-          "score": 0,
-          "answers": 1,
-          "views": 24,
+          "title": "Python turtle screen setup",
+          "url": "https://stackoverflow.com/questions/79954622/python-turtle-screen-setup",
+          "score": -3,
+          "answers": 0,
+          "views": 58,
           "tags": [
-            "sqlalchemy"
+            "python",
+            "turtle-graphics",
+            "python-turtle"
           ]
         },
         {
           "rank": 13,
-          "title": "Pixel-based Pathfinding for a Bot in a 2.5D Isometric Game",
-          "url": "https://stackoverflow.com/questions/79954454/pixel-based-pathfinding-for-a-bot-in-a-2-5d-isometric-game",
+          "title": "Encoding XML in Terraform",
+          "url": "https://stackoverflow.com/questions/79954612/encoding-xml-in-terraform",
           "score": 0,
-          "answers": 0,
-          "views": 24,
+          "answers": 1,
+          "views": 33,
           "tags": [
-            "python",
-            "opencv",
-            "image-processing",
-            "computer-vision",
-            "path-finding"
+            "xml",
+            "terraform"
           ]
         },
         {
           "rank": 14,
-          "title": "Can Preview Window be changed dynamically at runtime after switching themes?",
-          "url": "https://stackoverflow.com/questions/79954479/can-preview-window-be-changed-dynamically-at-runtime-after-switching-themes",
-          "score": 0,
+          "title": "Linker can't find cv::VideoCapture::VideoCapture() under Cygwin?",
+          "url": "https://stackoverflow.com/questions/79954617/linker-cant-find-cvvideocapturevideocapture-under-cygwin",
+          "score": 3,
           "answers": 0,
-          "views": 23,
+          "views": 39,
           "tags": [
-            "java",
-            "android"
+            "c++",
+            "opencv",
+            "cygwin",
+            "undefined-reference"
           ]
         },
         {
           "rank": 15,
-          "title": "SQLAlchemyAsyncRepository object has no attribute 'get_many'",
-          "url": "https://stackoverflow.com/questions/79954451/sqlalchemyasyncrepository-object-has-no-attribute-get-many",
-          "score": -1,
+          "title": "Text overflow on the right, cannot add Flexible or Expanded with flex",
+          "url": "https://stackoverflow.com/questions/79954659/text-overflow-on-the-right-cannot-add-flexible-or-expanded-with-flex",
+          "score": 0,
           "answers": 1,
-          "views": 23,
+          "views": 24,
           "tags": [
-            "python",
-            "sqlalchemy",
-            "litestar"
+            "flutter"
           ]
         },
         {
           "rank": 16,
-          "title": "Header Menu Dropdown Renders Behind Page Content in Chrome but Works Fine in Firefox",
-          "url": "https://stackoverflow.com/questions/79954429/header-menu-dropdown-renders-behind-page-content-in-chrome-but-works-fine-in-fir",
+          "title": "en('cards.html',s f: for index, row in data.iterrows(): f.write(html_template.format(row['name'], row['password']))",
+          "url": "https://stackoverflow.com/questions/79954593/encards-html-s-f-for-index-row-in-data-iterrows-f-writehtml-template-fo",
           "score": 0,
-          "answers": 0,
-          "views": 21,
+          "answers": 2,
+          "views": 37,
           "tags": [
-            "css",
-            "wordpress",
-            "google-chrome",
-            "drop-down-menu",
-            "z-index"
+            "deep-learning"
           ]
         },
         {
           "rank": 17,
-          "title": "What things should I keep in mind while write code?",
-          "url": "https://stackoverflow.com/questions/79954391/what-things-should-i-keep-in-mind-while-write-code",
-          "score": 0,
-          "answers": 4,
-          "views": 102,
+          "title": "Meta App Review: user_birthday rejected for \"missing end-to-end experience\" despite comprehensive screencast. How to resolve?",
+          "url": "https://stackoverflow.com/questions/79954630/meta-app-review-user-birthday-rejected-for-missing-end-to-end-experience-desp",
+          "score": -1,
+          "answers": 0,
+          "views": 31,
           "tags": [
-            "reactjs",
-            "typescript"
+            "facebook",
+            "facebook-graph-api",
+            "react-router",
+            "facebook-login",
+            "facebook-appreview"
           ]
         },
         {
           "rank": 18,
-          "title": "How embassy should be decoupled from logic in rust embedded project?",
-          "url": "https://stackoverflow.com/questions/79954488/how-embassy-should-be-decoupled-from-logic-in-rust-embedded-project",
-          "score": 0,
-          "answers": 0,
-          "views": 17,
+          "title": "How to extend subset of products by ones determined by few product groups?",
+          "url": "https://stackoverflow.com/questions/79954541/how-to-extend-subset-of-products-by-ones-determined-by-few-product-groups",
+          "score": 1,
+          "answers": 1,
+          "views": 52,
           "tags": [
-            "rust",
-            "architecture",
-            "embedded"
+            "sql-server",
+            "entity-framework-core",
+            "ef-core-8.0"
           ]
         },
         {
           "rank": 19,
+          "title": "How to show an Exception's stack trace docked when the Exception is caught?",
+          "url": "https://stackoverflow.com/questions/79954530/how-to-show-an-exceptions-stack-trace-docked-when-the-exception-is-caught",
+          "score": 0,
+          "answers": 1,
+          "views": 76,
+          "tags": [
+            "c#",
+            ".net",
+            "visual-studio",
+            "visual-studio-2022"
+          ]
+        },
+        {
+          "rank": 20,
+          "title": "SBT 1.12.11 cannot handle netty-4.2.13.Final",
+          "url": "https://stackoverflow.com/questions/79954648/sbt-1-12-11-cannot-handle-netty-4-2-13-final",
+          "score": 0,
+          "answers": 0,
+          "views": 19,
+          "tags": [
+            "sbt",
+            "ivy"
+          ]
+        },
+        {
+          "rank": 21,
+          "title": "Best Source Online to learn Kotlin",
+          "url": "https://stackoverflow.com/questions/79954640/best-source-online-to-learn-kotlin",
+          "score": 0,
+          "answers": 0,
+          "views": 19,
+          "tags": [
+            "kotlin",
+            "jvm"
+          ]
+        },
+        {
+          "rank": 22,
+          "title": "Open62541 OPC UA library with OpenSSL",
+          "url": "https://stackoverflow.com/questions/79954633/open62541-opc-ua-library-with-openssl",
+          "score": 0,
+          "answers": 0,
+          "views": 17,
+          "tags": [
+            "cmake",
+            "openssl",
+            "opc",
+            "open62541"
+          ]
+        },
+        {
+          "rank": 23,
           "title": "How can I avoid using LLMs as a software developer?",
           "url": "https://stackoverflow.com/questions/79948695/how-can-i-avoid-using-llms-as-a-software-developer",
-          "score": 110,
+          "score": 111,
           "answers": 167,
-          "views": 7912,
+          "views": 7948,
           "tags": [
             "large-language-model"
           ]
         },
         {
-          "rank": 20,
-          "title": "How can I keep a ModalBottomSheet only partially expanded without clipping its content?",
-          "url": "https://stackoverflow.com/questions/79954476/how-can-i-keep-a-modalbottomsheet-only-partially-expanded-without-clipping-its-c",
-          "score": 0,
-          "answers": 0,
-          "views": 16,
-          "tags": [
-            "android",
-            "android-jetpack-compose"
-          ]
-        },
-        {
-          "rank": 21,
-          "title": "Running Inference With ONNX and MIGraphX",
-          "url": "https://stackoverflow.com/questions/79954444/running-inference-with-onnx-and-migraphx",
-          "score": 0,
-          "answers": 0,
-          "views": 16,
-          "tags": [
-            "onnxruntime",
-            "amd-rocm"
-          ]
-        },
-        {
-          "rank": 22,
-          "title": "Why does checking for UTF-8 without BOM work, but with BOM it doesn't?",
-          "url": "https://stackoverflow.com/questions/79954410/why-does-checking-for-utf-8-without-bom-work-but-with-bom-it-doesnt",
-          "score": 0,
-          "answers": 2,
-          "views": 77,
-          "tags": [
-            "c#"
-          ]
-        },
-        {
-          "rank": 23,
-          "title": "Cannot find module 'react/jsx-runtime' or its corresponding type declarations after switching to pnpm from npm",
-          "url": "https://stackoverflow.com/questions/79954486/cannot-find-module-react-jsx-runtime-or-its-corresponding-type-declarations-af",
-          "score": 0,
-          "answers": 0,
-          "views": 14,
-          "tags": [
-            "reactjs",
-            "typescript",
-            "next.js",
-            "pnpm"
-          ]
-        },
-        {
           "rank": 24,
-          "title": "NullPointerException is logged different in prod and local env",
-          "url": "https://stackoverflow.com/questions/79954430/nullpointerexception-is-logged-different-in-prod-and-local-env",
-          "score": 3,
-          "answers": 1,
-          "views": 66,
+          "title": "How to make a Qt MSVC solution?",
+          "url": "https://stackoverflow.com/questions/79954656/how-to-make-a-qt-msvc-solution",
+          "score": 0,
+          "answers": 0,
+          "views": 16,
           "tags": [
-            "java",
-            "nullpointerexception"
+            "windows",
+            "qt",
+            "compilation"
           ]
         },
         {
           "rank": 25,
-          "title": "CYBERSECURITY relate",
-          "url": "https://stackoverflow.com/questions/79954449/cybersecurity-relate",
-          "score": 2,
+          "title": "Best way to have a Galera node that does nothing",
+          "url": "https://stackoverflow.com/questions/79954647/best-way-to-have-a-galera-node-that-does-nothing",
+          "score": 0,
           "answers": 0,
-          "views": 35,
+          "views": 16,
           "tags": [
-            "security"
+            "linux",
+            "wordpress",
+            "mariadb",
+            "galera"
           ]
         }
       ]
@@ -1656,7 +1666,7 @@
     "steam": {
       "source": "steam",
       "label": "Steam — top games (24h peak)",
-      "fetched_at": "2026-06-09T11:08:40.935Z",
+      "fetched_at": "2026-06-09T16:54:45.957Z",
       "items": [
         {
           "rank": 1,
@@ -1938,7 +1948,7 @@
     "youtube": {
       "source": "youtube",
       "label": "YouTube — trending videos",
-      "fetched_at": "2026-06-09T11:08:39.214Z",
+      "fetched_at": "2026-06-09T16:54:45.609Z",
       "configured": true,
       "items": [
         {
@@ -1946,638 +1956,638 @@
           "title": "C-Kan - Toma Todo",
           "url": "https://www.youtube.com/watch?v=N7JOI12o_NI",
           "channel": "ckan98",
-          "views": 681106,
-          "likes": 73760
+          "views": 825463,
+          "likes": 87508
         },
         {
           "rank": 2,
           "title": "Streamer University 2026 | Official Enrollment Trailer",
           "url": "https://www.youtube.com/watch?v=rN9viJlnir4",
           "channel": "Kai Cenat Live",
-          "views": 821570,
-          "likes": 75696
+          "views": 966958,
+          "likes": 84637
         },
         {
           "rank": 3,
-          "title": "FORMULA BRAWL RACE #1 #FormulaBrawl",
-          "url": "https://www.youtube.com/watch?v=_BE6aVJgM98",
-          "channel": "Brawl Stars",
-          "views": 6131198,
-          "likes": 140004
+          "title": "We Found The Backrooms Blue Tape",
+          "url": "https://www.youtube.com/watch?v=RykH02byhVg",
+          "channel": "SMii7Y",
+          "views": 1123238,
+          "likes": 57517
         },
         {
           "rank": 4,
           "title": "Madonna - \"Confessions II - The Film\"",
           "url": "https://www.youtube.com/watch?v=yJtckcMHM2g",
           "channel": "Madonna",
-          "views": 1109832,
-          "likes": 98860
+          "views": 1321436,
+          "likes": 108534
         },
         {
           "rank": 5,
           "title": "Halo: Campaign Evolved | Cinematic Story Trailer",
           "url": "https://www.youtube.com/watch?v=0MxBFXH2a_U",
           "channel": "HALO",
-          "views": 511622,
-          "likes": 43842
+          "views": 542772,
+          "likes": 45435
         },
         {
           "rank": 6,
-          "title": "We Found The Backrooms Blue Tape",
-          "url": "https://www.youtube.com/watch?v=RykH02byhVg",
-          "channel": "SMii7Y",
-          "views": 953350,
-          "likes": 49536
+          "title": "FORMULA BRAWL RACE #1 #FormulaBrawl",
+          "url": "https://www.youtube.com/watch?v=_BE6aVJgM98",
+          "channel": "Brawl Stars",
+          "views": 7220184,
+          "likes": 150516
         },
         {
           "rank": 7,
           "title": "Jnr Vigi, Liz Vamarasi - Lewa (Official Audio)",
           "url": "https://www.youtube.com/watch?v=mTN5DTJEFEs",
           "channel": "VT1S",
-          "views": 38411,
-          "likes": 2293
+          "views": 40228,
+          "likes": 2341
         },
         {
           "rank": 8,
-          "title": "Persona 6 — Teaser Trailer",
-          "url": "https://www.youtube.com/watch?v=CL-q0HgfMOY",
-          "channel": "Official ATLUS West",
-          "views": 1306198,
-          "likes": 103311
+          "title": "The Cat in the Hat | Official Trailer 3",
+          "url": "https://www.youtube.com/watch?v=HT5JAp5z0-o",
+          "channel": "Warner Bros.",
+          "views": 105781,
+          "likes": 7567
         },
         {
           "rank": 9,
-          "title": "Taylor Swift - I Knew It, I Knew You (from Toy Story 5)",
-          "url": "https://www.youtube.com/watch?v=hDU4GB1PTxc",
-          "channel": "Taylor Swift",
-          "views": 1919019,
-          "likes": 128331
-        },
-        {
-          "rank": 10,
-          "title": "The Dog Stars | Official Trailer | In Theaters Aug 28",
-          "url": "https://www.youtube.com/watch?v=sVCrTJdNtSs",
-          "channel": "20th Century Studios",
-          "views": 1284573,
-          "likes": 14247
-        },
-        {
-          "rank": 11,
           "title": "The Worst Gambling Group Of All Time [Gamble With Your Friends]",
           "url": "https://www.youtube.com/watch?v=l9NPooDfxvY",
           "channel": "Joe Bart Games",
-          "views": 268167,
-          "likes": 7597
+          "views": 343086,
+          "likes": 9869
+        },
+        {
+          "rank": 10,
+          "title": "Taylor Swift - I Knew It, I Knew You (from Toy Story 5)",
+          "url": "https://www.youtube.com/watch?v=hDU4GB1PTxc",
+          "channel": "Taylor Swift",
+          "views": 2145545,
+          "likes": 135660
+        },
+        {
+          "rank": 11,
+          "title": "Persona 6 — Teaser Trailer",
+          "url": "https://www.youtube.com/watch?v=CL-q0HgfMOY",
+          "channel": "Official ATLUS West",
+          "views": 1323372,
+          "likes": 104481
         },
         {
           "rank": 12,
           "title": "Cartel de Santa - Sapo (Video Oficial) | @elcarteldesantatv",
           "url": "https://www.youtube.com/watch?v=mSlpFhEPkgc",
           "channel": "elcarteldesantatv",
-          "views": 2445006,
-          "likes": 174959
+          "views": 2559734,
+          "likes": 180162
         },
         {
           "rank": 13,
-          "title": "Gears of War: E-Day - Official Gameplay Trailer | Xbox Games  Showcase 2026",
-          "url": "https://www.youtube.com/watch?v=8LWpeBX6ZwY",
-          "channel": "IGN",
-          "views": 893902,
-          "likes": 34403
+          "title": "Jurassic World Evolution 3: Rebirth Expansion | Announce Trailer",
+          "url": "https://www.youtube.com/watch?v=Umk1t-09FeA",
+          "channel": "Jurassic World Evolution 3",
+          "views": 53707,
+          "likes": 8270
         },
         {
           "rank": 14,
-          "title": "PLAYING ELDEN RING UNTIL I BEAT IT DAY 4",
-          "url": "https://www.youtube.com/watch?v=H-6e0w_8liI",
-          "channel": "Jynxzi",
-          "views": 849562,
-          "likes": 10869
+          "title": "I Became the Strongest on the Unstable SMP",
+          "url": "https://www.youtube.com/watch?v=Ym2wmd19S_c",
+          "channel": "FlameFrags",
+          "views": 986211,
+          "likes": 90920
         },
         {
           "rank": 15,
           "title": "Lil Tony - “ Look At Me Now “ (Visualizer) Shot By : Henny Visuals ",
           "url": "https://www.youtube.com/watch?v=IWRH2Ve5Tz0",
           "channel": "Lil Tony Official",
-          "views": 37193,
-          "likes": 4756
+          "views": 43876,
+          "likes": 5436
         },
         {
           "rank": 16,
-          "title": "The Bear | Season 5 Official Trailer | Jeremy Allen White, Ayo Edebiri, Ebon Moss-Bachrach | FX",
-          "url": "https://www.youtube.com/watch?v=ojjCvICC86c",
-          "channel": "FX Networks",
-          "views": 1279908,
-          "likes": 6430
+          "title": "The Dog Stars | Official Trailer | In Theaters Aug 28",
+          "url": "https://www.youtube.com/watch?v=sVCrTJdNtSs",
+          "channel": "20th Century Studios",
+          "views": 1644829,
+          "likes": 16393
         },
         {
           "rank": 17,
           "title": "🔴LIVE | TARKOBUNGUS | SUMMIT1G & HUTCHMF | MANY MEN MONDAY | #BUNGULATE",
           "url": "https://www.youtube.com/watch?v=DQUnJmK7K20",
           "channel": "TheBurntPeanut",
-          "views": 442839,
-          "likes": 8585
+          "views": 464685,
+          "likes": 8960
         },
         {
           "rank": 18,
-          "title": "BABYMONSTER - 'SUGAR HONEY ICE TEA' M/V",
-          "url": "https://www.youtube.com/watch?v=naoGk-Zjc1s",
-          "channel": "BABYMONSTER",
-          "views": 18604891,
-          "likes": 793010
-        },
-        {
-          "rank": 19,
-          "title": "SCOOBY-DOO: ORIGINS Official Teaser Trailer (2027) Netflix",
-          "url": "https://www.youtube.com/watch?v=uHpz5sgmJwo",
-          "channel": "KinoCheck.com",
-          "views": 103660,
-          "likes": 2476
-        },
-        {
-          "rank": 20,
-          "title": "I Got A Job As A Gate Guard…",
-          "url": "https://www.youtube.com/watch?v=vwv0yIiRwWk",
-          "channel": "CaseOh",
-          "views": 316514,
-          "likes": 12946
-        },
-        {
-          "rank": 21,
           "title": "Prince Royce - La Carretera | Letra",
           "url": "https://www.youtube.com/watch?v=_lCGNt_kdhc",
           "channel": "Sabor Amor",
-          "views": 332542,
-          "likes": 420
+          "views": 380593,
+          "likes": 481
+        },
+        {
+          "rank": 19,
+          "title": "Enola Holmes 3 | Official Trailer | Netflix",
+          "url": "https://www.youtube.com/watch?v=n_pEJjq-9xQ",
+          "channel": "Netflix",
+          "views": 380265,
+          "likes": 26974
+        },
+        {
+          "rank": 20,
+          "title": "PLAYING ELDEN RING UNTIL I BEAT IT DAY 4",
+          "url": "https://www.youtube.com/watch?v=H-6e0w_8liI",
+          "channel": "Jynxzi",
+          "views": 873272,
+          "likes": 11122
+        },
+        {
+          "rank": 21,
+          "title": "Fenix Flexin \"RUBBERZ\" | On The Radar Performance",
+          "url": "https://www.youtube.com/watch?v=msjS2zdObCs",
+          "channel": "On The Radar Radio",
+          "views": 18974,
+          "likes": 1179
         },
         {
           "rank": 22,
-          "title": "Spider-Man Trailer Leaks, Scooby First Look, Doomsday Toys & MORE!!",
-          "url": "https://www.youtube.com/watch?v=W9cL860xg9M",
-          "channel": "3C Films",
-          "views": 66287,
-          "likes": 4705
+          "title": "The Bear | Season 5 Official Trailer | Jeremy Allen White, Ayo Edebiri, Ebon Moss-Bachrach | FX",
+          "url": "https://www.youtube.com/watch?v=ojjCvICC86c",
+          "channel": "FX Networks",
+          "views": 1666372,
+          "likes": 7486
         },
         {
           "rank": 23,
-          "title": "Hermitcraft 11: Episode 18 - THE WORST DAY ON HERMITCRAFT.",
-          "url": "https://www.youtube.com/watch?v=sDrigUXaWR4",
-          "channel": "Grian",
-          "views": 633449,
-          "likes": 59148
+          "title": "I Got A Job As A Gate Guard…",
+          "url": "https://www.youtube.com/watch?v=vwv0yIiRwWk",
+          "channel": "CaseOh",
+          "views": 399705,
+          "likes": 16092
         },
         {
           "rank": 24,
-          "title": "Larry June - The Machinist (Official Video)",
-          "url": "https://www.youtube.com/watch?v=aMKM8E86OXs",
-          "channel": "Larry June",
-          "views": 120877,
-          "likes": 9079
+          "title": "Air Supply - Making Love Out of Nothing at All (Lyrics) Letra en español",
+          "url": "https://www.youtube.com/watch?v=FvpPdqQduIg",
+          "channel": "Cherry Lady",
+          "views": 714429,
+          "likes": 1055
         }
       ]
     },
     "bluesky": {
       "source": "bluesky",
       "label": "Bluesky — what's hot",
-      "fetched_at": "2026-06-09T11:08:39.481Z",
+      "fetched_at": "2026-06-09T16:54:45.766Z",
       "items": [
         {
           "rank": 1,
-          "title": "Mandarina pelada de Roth #vanEgmond #Realismo #contemporáneo #painting",
-          "url": "https://bsky.app/profile/museoprivado.bsky.social/post/3mntnncq6z225",
-          "author": "museoprivado.bsky.social",
-          "display_name": "Museo Privado",
-          "likes": 273,
-          "reposts": 24
+          "title": " 万紫千紅",
+          "url": "https://bsky.app/profile/chimney1022.bsky.social/post/3mnumfrumus2s",
+          "author": "chimney1022.bsky.social",
+          "display_name": "チムニー",
+          "likes": 632,
+          "reposts": 266
         },
         {
           "rank": 2,
-          "title": "'The Photobomb' Taken this morning in Glastonbury.",
-          "url": "https://bsky.app/profile/glastomichelle.bsky.social/post/3mntmm44dxk2h",
-          "author": "glastomichelle.bsky.social",
-          "display_name": "",
-          "likes": 2136,
-          "reposts": 187
+          "title": "We only rate dogs. This is a whirlpool. Please don't get too close. It is quite powerful. Still 13/10 (IG: goldenbabybas",
+          "url": "https://bsky.app/profile/weratedogs.com/post/3mnulz5hfqc2l",
+          "author": "weratedogs.com",
+          "display_name": "WeRateDogs",
+          "likes": 2471,
+          "reposts": 351
         },
         {
           "rank": 3,
-          "title": "Kävin Viiankiaavalla. Hienoa.",
-          "url": "https://bsky.app/profile/mirjasofia.bsky.social/post/3mntv2dhdts2x",
-          "author": "mirjasofia.bsky.social",
-          "display_name": "Mirja Kynsijärvi",
-          "likes": 55,
-          "reposts": 1
-        },
-        {
-          "rank": 4,
-          "title": "I really don’t care what the Bible says about literally anything 🤷‍♂️",
-          "url": "https://bsky.app/profile/tonysensei.bsky.social/post/3mnsl6gy57o2j",
-          "author": "tonysensei.bsky.social",
-          "display_name": "Tony",
-          "likes": 5601,
-          "reposts": 589
-        },
-        {
-          "rank": 5,
-          "title": "Pendulum",
-          "url": "https://bsky.app/profile/hydeangelus.bsky.social/post/3mntsvwqok22r",
-          "author": "hydeangelus.bsky.social",
-          "display_name": "☀Hyde Angelus☀",
-          "likes": 471,
-          "reposts": 138
-        },
-        {
-          "rank": 6,
-          "title": "Good morning sunshines 🌞",
-          "url": "https://bsky.app/profile/blueheartedly1.bsky.social/post/3mntts2lk3k27",
-          "author": "blueheartedly1.bsky.social",
-          "display_name": "4fuxake",
-          "likes": 726,
-          "reposts": 30
-        },
-        {
-          "rank": 7,
-          "title": "もうお昼ごはんですね",
-          "url": "https://bsky.app/profile/setouchiandore.bsky.social/post/3mnt7zhwwcs2b",
-          "author": "setouchiandore.bsky.social",
-          "display_name": "瀬戸内アンドレ",
-          "likes": 55,
-          "reposts": 4
-        },
-        {
-          "rank": 8,
-          "title": "",
-          "url": "https://bsky.app/profile/zen-celo.bsky.social/post/3mntvoqo2ks24",
-          "author": "zen-celo.bsky.social",
-          "display_name": "ZenCelo 🍉",
-          "likes": 48,
-          "reposts": 12
-        },
-        {
-          "rank": 9,
-          "title": "💐",
-          "url": "https://bsky.app/profile/nonna0705.bsky.social/post/3mntw757xy22t",
-          "author": "nonna0705.bsky.social",
-          "display_name": "翔太",
-          "likes": 89,
-          "reposts": 19
-        },
-        {
-          "rank": 10,
-          "title": "🎧🫶",
-          "url": "https://bsky.app/profile/roma22.bsky.social/post/3mntufallfc2v",
-          "author": "roma22.bsky.social",
-          "display_name": "Rahma °•▪︎",
-          "likes": 59,
-          "reposts": 0
-        },
-        {
-          "rank": 11,
-          "title": "Minha casa tá virando um amontoado de caixas de papelão na sala, mas tão bonitinho gata na caixa 💜",
-          "url": "https://bsky.app/profile/afasia.bsky.social/post/3mntqhzk5jk22",
-          "author": "afasia.bsky.social",
-          "display_name": "Cris",
-          "likes": 106,
-          "reposts": 0
-        },
-        {
-          "rank": 12,
-          "title": "Marc Bouldoukian a Wildlife Photographer captures a heartwarming moment a mama bear carrying her three cubs across the w",
-          "url": "https://bsky.app/profile/contemprainn.bsky.social/post/3mnt7lqajf22g",
-          "author": "contemprainn.bsky.social",
-          "display_name": "ContempraInn 🌹",
-          "likes": 2674,
-          "reposts": 482
-        },
-        {
-          "rank": 13,
-          "title": "Italian Renaissance painters are often credited for introducing realism and observation into painting. Well, this was pa",
-          "url": "https://bsky.app/profile/vincenzodm.bsky.social/post/3mnthpsysbc2w",
-          "author": "vincenzodm.bsky.social",
-          "display_name": "Vincenzo DM",
-          "likes": 109,
-          "reposts": 11
-        },
-        {
-          "rank": 14,
-          "title": "",
-          "url": "https://bsky.app/profile/gatinarios.bsky.social/post/3mntghm3z4c2q",
-          "author": "gatinarios.bsky.social",
-          "display_name": "gatos fazendo gatices",
-          "likes": 121,
-          "reposts": 14
-        },
-        {
-          "rank": 15,
           "title": "BREAKING NEWS: Wildly unpopular president met with \"thunderous boos\" from thousands of onlookers.",
           "url": "https://bsky.app/profile/motherjones.com/post/3mnt4jhrvox2a",
           "author": "motherjones.com",
           "display_name": "Mother Jones",
-          "likes": 3651,
-          "reposts": 1018
+          "likes": 4789,
+          "reposts": 1395
         },
         {
-          "rank": 16,
-          "title": "Ach ja, Henk Bleker met zijn 70% bezuiniging op natuur en Femke Wiersma die het licht uit deed door de stekker uit het N",
-          "url": "https://bsky.app/profile/anotherday2024.bsky.social/post/3mntdnbvft22i",
-          "author": "anotherday2024.bsky.social",
-          "display_name": "Tess vindt er ook iets van",
-          "likes": 142,
-          "reposts": 33
+          "rank": 4,
+          "title": "Precisely! ",
+          "url": "https://bsky.app/profile/raeradford.bsky.social/post/3mnujurkoj22n",
+          "author": "raeradford.bsky.social",
+          "display_name": "Rae Radford",
+          "likes": 989,
+          "reposts": 180
         },
         {
-          "rank": 17,
-          "title": "Keski-Suomessa on hakattu metsää täysin surutta ja luontoa kunnioittamatta. Tänäkin keväänä on tehty valtaisia aukkoja j",
-          "url": "https://bsky.app/profile/jussiisoaho.bsky.social/post/3mntkcafrfc27",
-          "author": "jussiisoaho.bsky.social",
-          "display_name": "Jussi Isoaho",
-          "likes": 94,
-          "reposts": 19
+          "rank": 5,
+          "title": "The number of Democratic and women veterans running for federal office this year is at record levels as the overall numb",
+          "url": "https://bsky.app/profile/politico.com/post/3mnumedpvyk25",
+          "author": "politico.com",
+          "display_name": "Politico",
+          "likes": 287,
+          "reposts": 95
         },
         {
-          "rank": 18,
-          "title": "\"يُزهر الإنسان مع الشخص الصحيح.\"",
-          "url": "https://bsky.app/profile/mo0ona.bsky.social/post/3mntn5324vk2n",
-          "author": "mo0ona.bsky.social",
-          "display_name": "Mona (White Rose ✿)",
-          "likes": 57,
+          "rank": 6,
+          "title": "Happy hopping Tuesday 😺",
+          "url": "https://bsky.app/profile/contemprainn.bsky.social/post/3mnuewltw4s2e",
+          "author": "contemprainn.bsky.social",
+          "display_name": "ContempraInn 🌹",
+          "likes": 1213,
+          "reposts": 194
+        },
+        {
+          "rank": 7,
+          "title": "'The Photobomb' Taken this morning in Glastonbury.",
+          "url": "https://bsky.app/profile/glastomichelle.bsky.social/post/3mntmm44dxk2h",
+          "author": "glastomichelle.bsky.social",
+          "display_name": "",
+          "likes": 5695,
+          "reposts": 524
+        },
+        {
+          "rank": 8,
+          "title": "Summer sunset across the fields in Minnesota ",
+          "url": "https://bsky.app/profile/midwestusa.bsky.social/post/3mnu42bx7zs2y",
+          "author": "midwestusa.bsky.social",
+          "display_name": "Greg 🤍   MidwestUSA",
+          "likes": 184,
+          "reposts": 23
+        },
+        {
+          "rank": 9,
+          "title": "bom dia",
+          "url": "https://bsky.app/profile/ossodeborboleta.bsky.social/post/3mnubuouvxs26",
+          "author": "ossodeborboleta.bsky.social",
+          "display_name": "agnès varda fantasiada de batata",
+          "likes": 67,
           "reposts": 1
         },
         {
-          "rank": 19,
-          "title": "To paraphrase Mark Twain, “Those who do not read have no advantage over those who cannot read.”",
-          "url": "https://bsky.app/profile/jkavanagh.bsky.social/post/3mnty2qoldc23",
-          "author": "jkavanagh.bsky.social",
-          "display_name": "",
-          "likes": 168,
+          "rank": 10,
+          "title": "I know this sounds so dumb but I still read all my articles out loud before submission to make sure the sentences are ac",
+          "url": "https://bsky.app/profile/rachelschine.bsky.social/post/3mnuiqn4jak2h",
+          "author": "rachelschine.bsky.social",
+          "display_name": "Dr. Rachel Schine",
+          "likes": 459,
+          "reposts": 7
+        },
+        {
+          "rank": 11,
+          "title": "Ele tá sonhando que tá no trabalho",
+          "url": "https://bsky.app/profile/bichinhos.bsky.social/post/3mnuiho3ldh2q",
+          "author": "bichinhos.bsky.social",
+          "display_name": "Bichinhos Fofinhos pra quem ta cansado",
+          "likes": 131,
+          "reposts": 11
+        },
+        {
+          "rank": 12,
+          "title": "Good morning",
+          "url": "https://bsky.app/profile/mizati.bsky.social/post/3mnue6gxza22s",
+          "author": "mizati.bsky.social",
+          "display_name": "🇨🇦 l.faraday 🇨🇦",
+          "likes": 1666,
+          "reposts": 154
+        },
+        {
+          "rank": 13,
+          "title": "Brad Paisley urges his followers to sign a petition to stop the construction of a 69,000-square-foot data center that wo",
+          "url": "https://bsky.app/profile/nbcnews.com/post/3mnue7yf4gc2m",
+          "author": "nbcnews.com",
+          "display_name": "NBC News",
+          "likes": 119,
           "reposts": 21
         },
         {
+          "rank": 14,
+          "title": "Wife and I got a new dog today.  A rescue who has spent 2 yrs of his 2.5 in the city animal shelter.  He still acts out ",
+          "url": "https://bsky.app/profile/sonofirving.bsky.social/post/3mnuixc3q5s2x",
+          "author": "sonofirving.bsky.social",
+          "display_name": "Charlie",
+          "likes": 1009,
+          "reposts": 52
+        },
+        {
+          "rank": 15,
+          "title": "Ivy, the Chesapeake Bay Retriever, helps out on the farm. 💕",
+          "url": "https://bsky.app/profile/lucagalletti.bsky.social/post/3mnu7popmtk2q",
+          "author": "lucagalletti.bsky.social",
+          "display_name": "Luca",
+          "likes": 3978,
+          "reposts": 453
+        },
+        {
+          "rank": 16,
+          "title": "In a field near Wicken, Cambridgeshire larkspur is grown for London florists along with cornflowers & Nigella. It’s quit",
+          "url": "https://bsky.app/profile/silverpebble2.bsky.social/post/3mntno46crc26",
+          "author": "silverpebble2.bsky.social",
+          "display_name": "Emma Mitchell",
+          "likes": 3091,
+          "reposts": 388
+        },
+        {
+          "rank": 17,
+          "title": "The troutbeck valley in the English lake District",
+          "url": "https://bsky.app/profile/paulst001.bsky.social/post/3mnu7xeuzyc2s",
+          "author": "paulst001.bsky.social",
+          "display_name": "",
+          "likes": 119,
+          "reposts": 4
+        },
+        {
+          "rank": 18,
+          "title": "I am once again begging folks to understand the difference between ‘I don’t like this’ and ‘Nobody likes this’. ",
+          "url": "https://bsky.app/profile/bookspotlight.bsky.social/post/3mnu6ui5gwc2r",
+          "author": "bookspotlight.bsky.social",
+          "display_name": "Indie Book Spotlight",
+          "likes": 1545,
+          "reposts": 261
+        },
+        {
+          "rank": 19,
+          "title": "Pendulum",
+          "url": "https://bsky.app/profile/hydeangelus.bsky.social/post/3mntsvwqok22r",
+          "author": "hydeangelus.bsky.social",
+          "display_name": "☀Hyde Angelus☀",
+          "likes": 1522,
+          "reposts": 425
+        },
+        {
           "rank": 20,
+          "title": "",
+          "url": "https://bsky.app/profile/haalah.bsky.social/post/3mnuf6m3its2q",
+          "author": "haalah.bsky.social",
+          "display_name": "هالة",
+          "likes": 69,
+          "reposts": 1
+        },
+        {
+          "rank": 21,
+          "title": "My painting of peonies",
+          "url": "https://bsky.app/profile/vera-kober-art.bsky.social/post/3mnuhdwppqs2w",
+          "author": "vera-kober-art.bsky.social",
+          "display_name": "Vera Kober Art",
+          "likes": 905,
+          "reposts": 80
+        },
+        {
+          "rank": 22,
+          "title": "#ColorADay #BlueTue #TidesOutTuesday #RockinTuesday",
+          "url": "https://bsky.app/profile/alinagrafik.eurosky.social/post/3mnuett7fl22e",
+          "author": "alinagrafik.eurosky.social",
+          "display_name": "AlinaHagen 🌊🎨📸",
+          "likes": 105,
+          "reposts": 15
+        },
+        {
+          "rank": 23,
+          "title": "Mandarina pelada de Roth #vanEgmond #Realismo #contemporáneo #painting",
+          "url": "https://bsky.app/profile/museoprivado.bsky.social/post/3mntnncq6z225",
+          "author": "museoprivado.bsky.social",
+          "display_name": "Museo Privado",
+          "likes": 697,
+          "reposts": 74
+        },
+        {
+          "rank": 24,
           "title": "The most expensive taxpayer funded nap #NBAFinals",
           "url": "https://bsky.app/profile/lincolnproject.us/post/3mnt5jgyald2e",
           "author": "lincolnproject.us",
           "display_name": "The Lincoln Project",
-          "likes": 9233,
-          "reposts": 3030
-        },
-        {
-          "rank": 21,
-          "title": "Akira Kusaka/morning",
-          "url": "https://bsky.app/profile/gregcatar.bsky.social/post/3mnts3oxyr22l",
-          "author": "gregcatar.bsky.social",
-          "display_name": "",
-          "likes": 76,
-          "reposts": 7
-        },
-        {
-          "rank": 22,
-          "title": "I was driving across the high plateau yesterday when I crested a hill and this is what I saw. No birds, I'm afraid (thou",
-          "url": "https://bsky.app/profile/taminf.bsky.social/post/3mntnfrmvec2a",
-          "author": "taminf.bsky.social",
-          "display_name": "Tony Allen-Mills",
-          "likes": 773,
-          "reposts": 87
-        },
-        {
-          "rank": 23,
-          "title": "Yesterday, I spent the morning in Uragh, a fragment of ancient Beara rainforest. It's part of less than 1/1,000th of Ire",
-          "url": "https://bsky.app/profile/irishrainforest.bsky.social/post/3mntktuiv522e",
-          "author": "irishrainforest.bsky.social",
-          "display_name": "Eoghan Daltun 🌍",
-          "likes": 103,
-          "reposts": 17
-        },
-        {
-          "rank": 24,
-          "title": "MS NOW: The Missouri Department of Elementary and Secondary Education announced it is freezing enrollment in Dolly Parto",
-          "url": "https://bsky.app/profile/namwella1961.bsky.social/post/3mnsb33abck2u",
-          "author": "namwella1961.bsky.social",
-          "display_name": "LA Blue Dot in GA 🌊🐸",
-          "likes": 2773,
-          "reposts": 1062
+          "likes": 15398,
+          "reposts": 4845
         },
         {
           "rank": 25,
-          "title": "#植えた狼",
-          "url": "https://bsky.app/profile/gardeningwerewolf.bsky.social/post/3mntuiofugc2u",
-          "author": "gardeningwerewolf.bsky.social",
-          "display_name": "園芸の狼",
-          "likes": 100,
-          "reposts": 3
+          "title": "🤲",
+          "url": "https://bsky.app/profile/mithatbirol.bsky.social/post/3mnuctwlpzk2t",
+          "author": "mithatbirol.bsky.social",
+          "display_name": "",
+          "likes": 49,
+          "reposts": 0
         }
       ]
     },
     "mastodon-trending": {
       "source": "mastodon-trending",
       "label": "Mastodon — trending posts",
-      "fetched_at": "2026-06-09T11:08:39.817Z",
+      "fetched_at": "2026-06-09T16:54:45.880Z",
       "items": [
         {
           "rank": 1,
-          "title": "[media]",
-          "url": "https://beige.party/@TheBreadmonkey/116719119384492963",
-          "author": "Ben",
-          "likes": 209,
-          "boosts": 165
+          "title": "Have you heard of Apple's decision on the rollout of Siri AI in Europe? Let's get the facts straight ⬇️",
+          "url": "https://ec.social-network.europa.eu/@EUCommission/116720885785978132",
+          "author": "European Commission",
+          "likes": 207,
+          "boosts": 220
         },
         {
           "rank": 2,
-          "title": "Apple: Our Apple Intelligence (AI) totally secure, trust us. It wiil change your life.Apple: BTW, Apple Intelligence …",
-          "url": "https://mastodon.social/@nixCraft/116718612024501606",
-          "author": "nixCraft 🐧",
-          "likes": 198,
-          "boosts": 184
+          "title": "Secret Panel HERE 👻 https://patreon.com/posts/54470189",
+          "url": "https://mastodon.social/@MrLovenstein/116720440054672806",
+          "author": "J. L. Westover",
+          "likes": 236,
+          "boosts": 115
         },
         {
           "rank": 3,
           "title": "[media]",
-          "url": "https://mastodon.social/@cmconseils/116719568342221977",
-          "author": "Lady Laura :bongoCat:",
-          "likes": 46,
-          "boosts": 46
+          "url": "https://mastodon.social/@Sheril/116720919490343442",
+          "author": "Sheril Kirshenbaum",
+          "likes": 101,
+          "boosts": 72
         },
         {
           "rank": 4,
-          "title": "🇪🇺🤝🇦🇺🤝🔬Welcome to the Horizon family, Australia!We have successfully concluded negotiations on Australia's ass…",
-          "url": "https://ec.social-network.europa.eu/@EUCommission/116719627215417999",
-          "author": "European Commission",
-          "likes": 43,
-          "boosts": 61
+          "title": "Gay dog comic.",
+          "url": "https://mastodon.social/@mothcub/116720819051526147",
+          "author": "mothcub",
+          "likes": 106,
+          "boosts": 64
         },
         {
           "rank": 5,
-          "title": "Careful! She bytes 🐍 #CodeGals #Art #FediArt #MastoArt #Krita #DigitalArt",
-          "url": "https://mastodon.gamedev.place/@NullTheFool/116718806533361306",
-          "author": "NullDott 🎩",
-          "likes": 354,
-          "boosts": 226
+          "title": "the cyberpunk present is weird as fuck: the latest Shai Hulud malware wave contains an LLM prompt to create biologica…",
+          "url": "https://indieweb.social/@laurenshof/116720287681995824",
+          "author": "Laurens Hof",
+          "likes": 324,
+          "boosts": 323
         },
         {
           "rank": 6,
-          "title": "Because of a Mathematician From Rural Virginia’s Work on Global Positioning, You Have No Excuse for Getting LostGlady…",
-          "url": "https://mastodon.social/@gutenberg_org/116719552266467094",
-          "author": "Project Gutenberg",
-          "likes": 27,
-          "boosts": 48
+          "title": "Euro-Office just launched its first stable version 🇪🇺🔥We're excited to be part of this movement to bring digital s…",
+          "url": "https://mastodon.social/@Tutanota/116720475387018053",
+          "author": "Tuta",
+          "likes": 132,
+          "boosts": 100
         },
         {
           "rank": 7,
-          "title": "The best software usually does fewer things than its competitors, which is deeply confusing to people who believe val…",
-          "url": "https://mastodon.social/@Daojoan/116718309256203999",
-          "author": "JA Westenberg",
-          "likes": 247,
-          "boosts": 144
+          "title": "Mostly build on open source libraries made by volunteers",
+          "url": "https://mstdn.social/@stux/116719989807825619",
+          "author": "stux⚡️",
+          "likes": 417,
+          "boosts": 337
         },
         {
           "rank": 8,
-          "title": "A plaque in Iceland #climate changeA letter to the future \"Ok\" is the first Icelandic glacier to lose its status as a…",
-          "url": "https://cosocial.ca/@jfmezei/116718883511800444",
-          "author": "Jean-François Mezei",
-          "likes": 95,
-          "boosts": 155
+          "title": "When I visit my late wife's grave, I always bring extra flowers. I tidy up graves of others and lay flowers where the…",
+          "url": "https://mastodon.social/@fesshole/116720822206831798",
+          "author": "Fesshole 🧻",
+          "likes": 89,
+          "boosts": 39
         },
         {
           "rank": 9,
-          "title": "There's a visual joke in the logo, but some may struggle to find it (yes it's a real sign, at Edgewater in NJ)",
-          "url": "https://tech.lgbt/@Natasha_Jay/116719296869735097",
-          "author": "Natasha :mastodon:🇪🇺",
-          "likes": 107,
-          "boosts": 75
+          "title": "[media]",
+          "url": "https://mastodon.social/@cmconseils/116719568342221977",
+          "author": "Lady Laura :bongoCat:",
+          "likes": 344,
+          "boosts": 265
         },
         {
           "rank": 10,
-          "title": "PSA for #AsahiLinux users: Do NOT upgrade to macOS 27 Golden Gate!Apple has changed how the boot picker and Startup D…",
-          "url": "https://social.treehouse.systems/@AsahiLinux/116719749555082847",
-          "author": "Asahi Linux",
-          "likes": 38,
-          "boosts": 52
+          "title": "Welcome, Oliver, to the curl* dev team*curled feetsies",
+          "url": "https://infosec.exchange/@catsalad/116720779739016707",
+          "author": "Cat 🐈🥗 (D.Burch) :paw:⁠:paw:",
+          "likes": 137,
+          "boosts": 66
         },
         {
           "rank": 11,
-          "title": "517) Genderrevealbot. \"Oh, your father and I are so happy we persuaded you to throw one of these parties - I think th…",
-          "url": "https://mastodon.social/@smolrobots/116719638863687606",
-          "author": "small robots",
-          "likes": 20,
-          "boosts": 30
+          "title": "Adding a pinch of color to my black wardrobe. 🧵#Sewing #Embroidery #Handcrated",
+          "url": "https://mastodon.social/@linguistgoneforeign/116720168266542011",
+          "author": "Linguist Gone Foreign 🌏",
+          "likes": 149,
+          "boosts": 69
         },
         {
           "rank": 12,
-          "title": "Nannette was thrilled to find a hat with pom poms to match her fur. No further searching necessary. Looking good Nann…",
-          "url": "https://things.uk/@eclectech/116719584890730984",
-          "author": "eclectech",
-          "likes": 69,
-          "boosts": 48
+          "title": "When shown on screen, Trump was booed loudly outside the Madison Square Garden NBA game on Monday.This is the video T…",
+          "url": "https://mastodon.social/@randahl/116720423971040260",
+          "author": "Randahl Fink",
+          "likes": 84,
+          "boosts": 63
         },
         {
           "rank": 13,
-          "title": "Me everytime I hear politicians talk about competetiveness...#StarTrek #Green #Memes #Spock",
-          "url": "https://mastodon.art/@NickEast_IndieWriter/116719368185797255",
-          "author": "Nick East (Indie Writer)",
-          "likes": 55,
-          "boosts": 52
+          "title": "Meanwhile, 55 years ago",
+          "url": "https://hachyderm.io/@thomasfuchs/116720681042716590",
+          "author": "Thomas Fuchs",
+          "likes": 113,
+          "boosts": 86
         },
         {
           "rank": 14,
-          "title": "Big news: We’re official!This past weekend we completed the paperwork to officially become a non-profit organisation.…",
-          "url": "https://eupolicy.social/@erpu/116718865798295211",
-          "author": "European Rail Passengers Union",
-          "likes": 94,
-          "boosts": 94
+          "title": "Markdown showing in Settings: Software Update.",
+          "url": "https://mastodon.social/@gruber/116720949319174003",
+          "author": "John Gruber",
+          "likes": 59,
+          "boosts": 9
         },
         {
           "rank": 15,
-          "title": "Out of the 16 pending #curl CVEs:13 are severity LOW 3 are severity MEDIUM 9 of them are libcurl only (not the tool) …",
-          "url": "https://mastodon.social/@bagder/116719403897699957",
-          "author": "daniel:// stenberg://",
-          "likes": 34,
-          "boosts": 13
+          "title": "100 days since the start of US-Israel's attacks on Iran. 100 days since the Strait of Hormuz closed. 100 days of foss…",
+          "url": "https://mastodon.social/@greenpeace/116720299548815594",
+          "author": "Greenpeace International",
+          "likes": 70,
+          "boosts": 94
         },
         {
           "rank": 16,
-          "title": "The government's aim to block nude images would take away control over our devices.ORG's @JamesBaker explains that th…",
-          "url": "https://social.openrightsgroup.org/@openrightsgroup/116719387135066070",
-          "author": "Open Rights Group",
-          "likes": 18,
-          "boosts": 45
+          "title": "[media]",
+          "url": "https://norden.social/@ghoermann/116720651734857317",
+          "author": "ghoermann",
+          "likes": 118,
+          "boosts": 87
         },
         {
           "rank": 17,
-          "title": "(づ｡◕‿‿◕｡)づ",
-          "url": "https://aus.social/@dgar/116718526038430429",
-          "author": "Dgar",
-          "likes": 209,
-          "boosts": 135
+          "title": "I did Compiler Explorer's monthly accounts, and for the first time in ages we only broke even. Usually we run at a sm…",
+          "url": "https://hachyderm.io/@mattgodbolt/116720259790041462",
+          "author": "matt godbolt",
+          "likes": 46,
+          "boosts": 129
         },
         {
           "rank": 18,
-          "title": "Another tech conference, another version of AI shoved down people's throats. 🥱 Should we do another video like the o…",
-          "url": "https://social.vivaldi.net/@Vivaldi/116719375006019728",
-          "author": "Vivaldi Browser",
-          "likes": 45,
-          "boosts": 33
+          "title": "ADHD packing list:• 7 books you won’t read • ipad full of movies/shows you won’t watch • random crap that sounded imp…",
+          "url": "https://mastodon.social/@adhdjesse/116720744494473296",
+          "author": "ADHD Jesse",
+          "likes": 39,
+          "boosts": 25
         },
         {
           "rank": 19,
-          "title": "This is priceless:Trump is hosting the FIFA World Cup, while Trump's own Customs and Border Protection agents follow …",
-          "url": "https://mastodon.social/@randahl/116717906459852062",
-          "author": "Randahl Fink",
-          "likes": 162,
-          "boosts": 221
+          "title": "Imagine their adventures! From a glass plate negative in my collection, no date/info.",
+          "url": "https://mastodon.social/@CatsOfYore/116721005084057353",
+          "author": "Cats of Yore",
+          "likes": 35,
+          "boosts": 11
         },
         {
           "rank": 20,
-          "title": "Hey folks! Remember I was asking what kind of merch you'd buy for #Mastodon's 10 years anniversary? It's here now! Ho…",
-          "url": "https://mastodon.social/@Gargron/116719761249648780",
-          "author": "Eugen Rochko",
-          "likes": 19,
-          "boosts": 15
+          "title": "“I mean, your society’s broken, so who should we blame? Should we blame the rich, powerful people who caused it? No l…",
+          "url": "https://mastodon.scot/@scotlit/116720926227151695",
+          "author": "Assoc for Scottish Literature",
+          "likes": 31,
+          "boosts": 54
         },
         {
           "rank": 21,
-          "title": "On reprend les live ! Aujourd'hui: une aquarelle de commande pour un festival. C'est ici: https://twitch.tv/bouletcorp",
-          "url": "https://mastodon.social/@bouletcorp2/116719071193922313",
-          "author": "-Boulet-",
-          "likes": 34,
-          "boosts": 30
+          "title": "NEW: A U.S. Senator Pushed to Cut Firefighting Aircraft Inspections the Same Month His Former Company Failed OneBefor…",
+          "url": "https://newsie.social/@ProPublica/116720437002701047",
+          "author": "ProPublica",
+          "likes": 38,
+          "boosts": 90
         },
         {
           "rank": 22,
-          "title": "RE: https://mastodon.social/@jdelacueva/116103089304791787More on this EU login trojan horse. I used DuckDuckGo app t…",
-          "url": "https://mastodon.social/@jdelacueva/116719036679709962",
-          "author": "Javier de la Cueva",
-          "likes": 23,
-          "boosts": 42
+          "title": "#StarTrek",
+          "url": "https://mastodon.social/@nocontexttrek/116720844414964623",
+          "author": "Star Trek Minus Context",
+          "likes": 36,
+          "boosts": 17
         },
         {
           "rank": 23,
-          "title": "#tech #technology #BigTech #IT #AI #ArtificialIntelligence #LLM #LLMs #ML #MachineLearning #GenAI #generativeAI #AIAg…",
-          "url": "https://graphics.social/@metin/116718794131352311",
-          "author": "Metin Seven 🎨",
-          "likes": 77,
-          "boosts": 95
+          "title": "Getting nice treats for breakfast almost every day 😋 🍓 #Gardening #Joy #Breakfast #Berries",
+          "url": "https://mastodon.social/@BlossomLikeFlowers/116720504168303023",
+          "author": "Blossom Like Flowers",
+          "likes": 61,
+          "boosts": 22
         },
         {
           "rank": 24,
-          "title": "Just cleaned out my late dad's attic. He had 3 cases of porno mags and VHS tapes. I put the tapes in the recycling bu…",
-          "url": "https://mastodon.social/@fesshole/116719406805574318",
-          "author": "Fesshole 🧻",
-          "likes": 31,
-          "boosts": 6
+          "title": "So people are totally now using AI models for regular stuff that you can do via shell scripts and cron, because why d…",
+          "url": "https://mstdn.social/@jschauma/116720282088272048",
+          "author": "Jan Schaumann",
+          "likes": 123,
+          "boosts": 94
         },
         {
           "rank": 25,
-          "title": "GOOD NEWS After decades of destruction, mangrove forests are making a comebackThanks to stronger legal protections an…",
-          "url": "https://mastodon.social/@greenpeace/116719681494434579",
-          "author": "Greenpeace International",
-          "likes": 9,
-          "boosts": 17
+          "title": "Why is #Linux like a religion? Everyone thinks their distro is the one true path, and they’ll die on that hill usuall…",
+          "url": "https://mastodon.social/@nixCraft/116720214072137218",
+          "author": "nixCraft 🐧",
+          "likes": 77,
+          "boosts": 48
         }
       ]
     },
     "product-hunt": {
       "source": "product-hunt",
       "label": "Product Hunt — top products",
-      "fetched_at": "2026-06-09T11:08:39.984Z",
+      "fetched_at": "2026-06-09T16:54:45.823Z",
       "configured": true,
       "items": [
         {
@@ -2585,7 +2595,7 @@
           "title": "Fundraisly",
           "url": "https://www.producthunt.com/products/fundraisly?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+web-pulse+%28ID%3A+282925%29",
           "tagline": "AI fundraising agent that finds investors and books meetings",
-          "votes_count": 1167,
+          "votes_count": 1177,
           "comments_count": 277
         },
         {
@@ -2593,7 +2603,7 @@
           "title": "Brew ",
           "url": "https://www.producthunt.com/products/brew-5/launches/brew-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+web-pulse+%28ID%3A+282925%29",
           "tagline": "Like Claude design for email marketing",
-          "votes_count": 904,
+          "votes_count": 906,
           "comments_count": 149
         },
         {
@@ -2601,7 +2611,7 @@
           "title": "StoreClaw",
           "url": "https://www.producthunt.com/products/storeclaw/launches/storeclaw?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+web-pulse+%28ID%3A+282925%29",
           "tagline": "Grow your store profits with agents that know how to sell",
-          "votes_count": 879,
+          "votes_count": 876,
           "comments_count": 280
         },
         {
@@ -2617,7 +2627,7 @@
           "title": "Unabyss",
           "url": "https://www.producthunt.com/products/unabyss/launches/unabyss?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+web-pulse+%28ID%3A+282925%29",
           "tagline": "MCP-native self-updating context layer for your AI",
-          "votes_count": 759,
+          "votes_count": 761,
           "comments_count": 144
         },
         {
@@ -2625,7 +2635,7 @@
           "title": "own.page",
           "url": "https://www.producthunt.com/products/own-page/launches/own-page?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+web-pulse+%28ID%3A+282925%29",
           "tagline": "Make your own personal website with bento tiles",
-          "votes_count": 665,
+          "votes_count": 667,
           "comments_count": 87
         },
         {
@@ -2633,7 +2643,7 @@
           "title": "OpenHuman",
           "url": "https://www.producthunt.com/products/openhuman/launches/openhuman?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+web-pulse+%28ID%3A+282925%29",
           "tagline": "An open source AI harness built with the human in mind",
-          "votes_count": 624,
+          "votes_count": 623,
           "comments_count": 75
         },
         {
@@ -2649,7 +2659,7 @@
           "title": "Mailwarm 2.0",
           "url": "https://www.producthunt.com/products/mailwarm?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+web-pulse+%28ID%3A+282925%29",
           "tagline": "The email warmup tool, upgraded for deliverability.",
-          "votes_count": 612,
+          "votes_count": 614,
           "comments_count": 108
         },
         {
@@ -2658,7 +2668,7 @@
           "url": "https://www.producthunt.com/products/pancake-6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+web-pulse+%28ID%3A+282925%29",
           "tagline": "OpenClaw in Slack that makes your company autonomous",
           "votes_count": 612,
-          "comments_count": 74
+          "comments_count": 75
         },
         {
           "rank": 11,
@@ -2673,7 +2683,7 @@
           "title": "Elentaria",
           "url": "https://www.producthunt.com/products/elentaria?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+web-pulse+%28ID%3A+282925%29",
           "tagline": "Your GTM: from diagnosis to execution",
-          "votes_count": 585,
+          "votes_count": 587,
           "comments_count": 103
         },
         {
@@ -2681,7 +2691,7 @@
           "title": "SocLeads 3.0",
           "url": "https://www.producthunt.com/products/socleads/launches/socleads-3-0?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+web-pulse+%28ID%3A+282925%29",
           "tagline": "Scrape emails from socials and maps by location",
-          "votes_count": 583,
+          "votes_count": 585,
           "comments_count": 96
         },
         {
@@ -2689,7 +2699,7 @@
           "title": "Tycoon AI ",
           "url": "https://www.producthunt.com/products/tycoon-us/launches/tycoon-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+web-pulse+%28ID%3A+282925%29",
           "tagline": "Run one-person companies entirely with AI agents",
-          "votes_count": 567,
+          "votes_count": 569,
           "comments_count": 114
         },
         {
@@ -2721,7 +2731,7 @@
           "title": "InsForge Backend Branching",
           "url": "https://www.producthunt.com/products/insforge-alpha?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+web-pulse+%28ID%3A+282925%29",
           "tagline": "Git style branching for your backend",
-          "votes_count": 548,
+          "votes_count": 549,
           "comments_count": 186
         },
         {
@@ -2729,7 +2739,7 @@
           "title": "SellerClaw",
           "url": "https://www.producthunt.com/products/sellerclaw?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+web-pulse+%28ID%3A+282925%29",
           "tagline": "A team of AI agents that runs your stores across channels",
-          "votes_count": 541,
+          "votes_count": 545,
           "comments_count": 166
         },
         {
@@ -2745,7 +2755,7 @@
     "huggingface": {
       "source": "huggingface",
       "label": "Hugging Face — trending models",
-      "fetched_at": "2026-06-09T11:08:39.327Z",
+      "fetched_at": "2026-06-09T16:54:45.590Z",
       "items": [
         {
           "rank": 1,
@@ -2753,8 +2763,8 @@
           "url": "https://huggingface.co/nvidia/LocateAnything-3B",
           "author": "nvidia",
           "downloads": 123922,
-          "likes": 1664,
-          "trending_score": 730,
+          "likes": 1701,
+          "trending_score": 736,
           "pipeline_tag": "image-text-to-text",
           "last_modified": "2026-06-08T19:55:10.000Z"
         },
@@ -2764,8 +2774,8 @@
           "url": "https://huggingface.co/google/gemma-4-12B-it",
           "author": "google",
           "downloads": 581354,
-          "likes": 775,
-          "trending_score": 701,
+          "likes": 791,
+          "trending_score": 713,
           "pipeline_tag": "any-to-any",
           "last_modified": "2026-06-04T11:58:10.000Z"
         },
@@ -2775,10 +2785,10 @@
           "url": "https://huggingface.co/unsloth/gemma-4-12b-it-GGUF",
           "author": "unsloth",
           "downloads": 660140,
-          "likes": 517,
-          "trending_score": 481,
+          "likes": 522,
+          "trending_score": 484,
           "pipeline_tag": "image-text-to-text",
-          "last_modified": "2026-06-08T00:12:11.000Z"
+          "last_modified": "2026-06-09T15:32:24.000Z"
         },
         {
           "rank": 4,
@@ -2786,8 +2796,8 @@
           "url": "https://huggingface.co/google/gemma-4-12B",
           "author": "google",
           "downloads": 122464,
-          "likes": 463,
-          "trending_score": 433,
+          "likes": 473,
+          "trending_score": 441,
           "pipeline_tag": "any-to-any",
           "last_modified": "2026-06-04T11:58:12.000Z"
         },
@@ -2797,8 +2807,8 @@
           "url": "https://huggingface.co/ideogram-ai/ideogram-4-fp8",
           "author": "ideogram-ai",
           "downloads": 5915,
-          "likes": 417,
-          "trending_score": 398,
+          "likes": 429,
+          "trending_score": 409,
           "pipeline_tag": "text-to-image",
           "last_modified": "2026-06-03T18:34:44.000Z"
         },
@@ -2809,7 +2819,7 @@
           "author": "sapientinc",
           "downloads": 133351,
           "likes": 732,
-          "trending_score": 292,
+          "trending_score": 291,
           "pipeline_tag": "text-generation",
           "last_modified": "2026-05-21T05:57:38.000Z"
         },
@@ -2819,21 +2829,21 @@
           "url": "https://huggingface.co/ideogram-ai/ideogram-4-nf4",
           "author": "ideogram-ai",
           "downloads": 5250,
-          "likes": 274,
-          "trending_score": 264,
+          "likes": 282,
+          "trending_score": 272,
           "pipeline_tag": "text-to-image",
           "last_modified": "2026-06-04T18:59:26.000Z"
         },
         {
           "rank": 8,
-          "title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-          "url": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-          "author": "HauhauCS",
-          "downloads": 2983909,
-          "likes": 1572,
-          "trending_score": 263,
-          "pipeline_tag": "image-text-to-text",
-          "last_modified": "2026-04-17T02:59:21.000Z"
+          "title": "nvidia/nemotron-3.5-asr-streaming-0.6b",
+          "url": "https://huggingface.co/nvidia/nemotron-3.5-asr-streaming-0.6b",
+          "author": "nvidia",
+          "downloads": 4181,
+          "likes": 316,
+          "trending_score": 269,
+          "pipeline_tag": "automatic-speech-recognition",
+          "last_modified": "2026-06-05T21:59:07.000Z"
         },
         {
           "rank": 9,
@@ -2841,205 +2851,205 @@
           "url": "https://huggingface.co/bosonai/higgs-audio-v3-tts-4b",
           "author": "bosonai",
           "downloads": 16207,
-          "likes": 262,
-          "trending_score": 260,
+          "likes": 270,
+          "trending_score": 266,
           "pipeline_tag": "text-to-speech",
           "last_modified": "2026-06-05T01:12:34.000Z"
         },
         {
           "rank": 10,
-          "title": "nvidia/nemotron-3.5-asr-streaming-0.6b",
-          "url": "https://huggingface.co/nvidia/nemotron-3.5-asr-streaming-0.6b",
-          "author": "nvidia",
-          "downloads": 4181,
-          "likes": 305,
-          "trending_score": 259,
-          "pipeline_tag": "automatic-speech-recognition",
-          "last_modified": "2026-06-05T21:59:07.000Z"
+          "title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+          "url": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+          "author": "HauhauCS",
+          "downloads": 2983909,
+          "likes": 1580,
+          "trending_score": 261,
+          "pipeline_tag": "image-text-to-text",
+          "last_modified": "2026-04-17T02:59:21.000Z"
         },
         {
           "rank": 11,
-          "title": "JetBrains/Mellum2-12B-A2.5B-Thinking",
-          "url": "https://huggingface.co/JetBrains/Mellum2-12B-A2.5B-Thinking",
-          "author": "JetBrains",
-          "downloads": 17571,
-          "likes": 264,
-          "trending_score": 177,
-          "pipeline_tag": "text-generation",
-          "last_modified": "2026-06-01T15:40:37.000Z"
-        },
-        {
-          "rank": 12,
           "title": "nvidia/NVIDIA-Nemotron-3-Ultra-550B-A55B-BF16",
           "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Ultra-550B-A55B-BF16",
           "author": "nvidia",
           "downloads": 56864,
-          "likes": 169,
-          "trending_score": 164,
+          "likes": 171,
+          "trending_score": 166,
           "pipeline_tag": "text-generation",
           "last_modified": "2026-06-06T19:08:52.000Z"
         },
         {
-          "rank": 13,
+          "rank": 12,
           "title": "MisoLabs/MisoTTS",
           "url": "https://huggingface.co/MisoLabs/MisoTTS",
           "author": "MisoLabs",
           "downloads": 0,
-          "likes": 161,
-          "trending_score": 158,
+          "likes": 166,
+          "trending_score": 162,
           "pipeline_tag": "text-to-speech",
           "last_modified": "2026-06-02T11:35:19.000Z"
         },
         {
-          "rank": 14,
-          "title": "google/magenta-realtime-2",
-          "url": "https://huggingface.co/google/magenta-realtime-2",
-          "author": "google",
-          "downloads": 18216,
-          "likes": 156,
-          "trending_score": 154,
-          "pipeline_tag": "text-to-audio",
-          "last_modified": "2026-06-04T22:29:40.000Z"
+          "rank": 13,
+          "title": "JetBrains/Mellum2-12B-A2.5B-Thinking",
+          "url": "https://huggingface.co/JetBrains/Mellum2-12B-A2.5B-Thinking",
+          "author": "JetBrains",
+          "downloads": 17571,
+          "likes": 269,
+          "trending_score": 162,
+          "pipeline_tag": "text-generation",
+          "last_modified": "2026-06-01T15:40:37.000Z"
         },
         {
-          "rank": 15,
+          "rank": 14,
           "title": "unsloth/gemma-4-12B-it-qat-GGUF",
           "url": "https://huggingface.co/unsloth/gemma-4-12B-it-qat-GGUF",
           "author": "unsloth",
           "downloads": 127332,
-          "likes": 159,
-          "trending_score": 153,
+          "likes": 166,
+          "trending_score": 159,
           "pipeline_tag": "any-to-any",
-          "last_modified": "2026-06-06T10:58:35.000Z"
+          "last_modified": "2026-06-09T15:12:51.000Z"
+        },
+        {
+          "rank": 15,
+          "title": "google/magenta-realtime-2",
+          "url": "https://huggingface.co/google/magenta-realtime-2",
+          "author": "google",
+          "downloads": 18216,
+          "likes": 160,
+          "trending_score": 158,
+          "pipeline_tag": "text-to-audio",
+          "last_modified": "2026-06-04T22:29:40.000Z"
         },
         {
           "rank": 16,
-          "title": "stepfun-ai/Step-3.7-Flash",
-          "url": "https://huggingface.co/stepfun-ai/Step-3.7-Flash",
-          "author": "stepfun-ai",
-          "downloads": 46729,
-          "likes": 356,
-          "trending_score": 147,
-          "pipeline_tag": "image-text-to-text",
-          "last_modified": "2026-06-03T04:11:57.000Z"
-        },
-        {
-          "rank": 17,
           "title": "nex-agi/Nex-N2-Pro",
           "url": "https://huggingface.co/nex-agi/Nex-N2-Pro",
           "author": "nex-agi",
           "downloads": 783,
-          "likes": 149,
-          "trending_score": 147,
+          "likes": 158,
+          "trending_score": 156,
           "pipeline_tag": "text-generation",
           "last_modified": "2026-06-08T19:03:50.000Z"
         },
         {
-          "rank": 18,
+          "rank": 17,
           "title": "nvidia/NVIDIA-Nemotron-3-Ultra-550B-A55B-NVFP4",
           "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Ultra-550B-A55B-NVFP4",
           "author": "nvidia",
           "downloads": 71818,
-          "likes": 146,
-          "trending_score": 142,
+          "likes": 150,
+          "trending_score": 146,
           "pipeline_tag": "text-generation",
           "last_modified": "2026-06-06T19:08:33.000Z"
         },
         {
-          "rank": 19,
-          "title": "LiquidAI/LFM2.5-8B-A1B",
-          "url": "https://huggingface.co/LiquidAI/LFM2.5-8B-A1B",
-          "author": "LiquidAI",
-          "downloads": 137138,
-          "likes": 557,
-          "trending_score": 137,
-          "pipeline_tag": "text-generation",
-          "last_modified": "2026-06-05T23:10:36.000Z"
+          "rank": 18,
+          "title": "stepfun-ai/Step-3.7-Flash",
+          "url": "https://huggingface.co/stepfun-ai/Step-3.7-Flash",
+          "author": "stepfun-ai",
+          "downloads": 46729,
+          "likes": 358,
+          "trending_score": 144,
+          "pipeline_tag": "image-text-to-text",
+          "last_modified": "2026-06-03T04:11:57.000Z"
         },
         {
-          "rank": 20,
+          "rank": 19,
           "title": "ByteDance/Bernini-R",
           "url": "https://huggingface.co/ByteDance/Bernini-R",
           "author": "ByteDance",
           "downloads": 281,
-          "likes": 189,
+          "likes": 193,
           "trending_score": 135,
           "pipeline_tag": "image-text-to-video",
           "last_modified": "2026-06-02T09:04:50.000Z"
         },
         {
-          "rank": 21,
+          "rank": 20,
           "title": "deepseek-ai/DeepSeek-V4-Pro",
           "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro",
           "author": "deepseek-ai",
           "downloads": 4302553,
-          "likes": 4726,
-          "trending_score": 129,
+          "likes": 4732,
+          "trending_score": 131,
           "pipeline_tag": "text-generation",
           "last_modified": "2026-06-08T06:02:44.000Z"
         },
         {
-          "rank": 22,
-          "title": "nvidia/Cosmos3-Nano",
-          "url": "https://huggingface.co/nvidia/Cosmos3-Nano",
-          "author": "nvidia",
-          "downloads": 36739,
-          "likes": 212,
-          "trending_score": 113,
-          "pipeline_tag": null,
-          "last_modified": "2026-06-01T04:43:55.000Z"
+          "rank": 21,
+          "title": "LiquidAI/LFM2.5-8B-A1B",
+          "url": "https://huggingface.co/LiquidAI/LFM2.5-8B-A1B",
+          "author": "LiquidAI",
+          "downloads": 137138,
+          "likes": 563,
+          "trending_score": 130,
+          "pipeline_tag": "text-generation",
+          "last_modified": "2026-06-05T23:10:36.000Z"
         },
         {
-          "rank": 23,
+          "rank": 22,
           "title": "jdopensource/JoyAI-Echo",
           "url": "https://huggingface.co/jdopensource/JoyAI-Echo",
           "author": "jdopensource",
           "downloads": 4502,
-          "likes": 110,
-          "trending_score": 108,
+          "likes": 112,
+          "trending_score": 109,
           "pipeline_tag": "text-to-video",
           "last_modified": "2026-06-07T14:42:13.000Z"
         },
         {
-          "rank": 24,
-          "title": "PaddlePaddle/PaddleOCR-VL-1.6",
-          "url": "https://huggingface.co/PaddlePaddle/PaddleOCR-VL-1.6",
-          "author": "PaddlePaddle",
-          "downloads": 10139,
-          "likes": 278,
-          "trending_score": 103,
-          "pipeline_tag": "image-text-to-text",
-          "last_modified": "2026-06-05T09:26:03.000Z"
+          "rank": 23,
+          "title": "nvidia/Cosmos3-Nano",
+          "url": "https://huggingface.co/nvidia/Cosmos3-Nano",
+          "author": "nvidia",
+          "downloads": 36739,
+          "likes": 213,
+          "trending_score": 108,
+          "pipeline_tag": null,
+          "last_modified": "2026-06-01T04:43:55.000Z"
         },
         {
-          "rank": 25,
+          "rank": 24,
           "title": "unsloth/gemma-4-26B-A4B-it-qat-GGUF",
           "url": "https://huggingface.co/unsloth/gemma-4-26B-A4B-it-qat-GGUF",
           "author": "unsloth",
           "downloads": 96059,
-          "likes": 108,
-          "trending_score": 103,
+          "likes": 112,
+          "trending_score": 107,
           "pipeline_tag": "image-text-to-text",
-          "last_modified": "2026-06-06T10:58:56.000Z"
+          "last_modified": "2026-06-09T15:13:07.000Z"
+        },
+        {
+          "rank": 25,
+          "title": "google/gemma-4-12B-it-qat-q4_0-gguf",
+          "url": "https://huggingface.co/google/gemma-4-12B-it-qat-q4_0-gguf",
+          "author": "google",
+          "downloads": 63049,
+          "likes": 110,
+          "trending_score": 103,
+          "pipeline_tag": "any-to-any",
+          "last_modified": "2026-06-05T15:48:49.000Z"
         }
       ]
     },
     "polymarket": {
       "source": "polymarket",
       "label": "Polymarket — top 24h volume",
-      "fetched_at": "2026-06-09T11:08:39.343Z",
+      "fetched_at": "2026-06-09T16:54:45.558Z",
       "items": [
         {
           "rank": 1,
           "title": "Will Roberto Sánchez Palomino win the 2026 Peruvian presidential election?",
           "url": "https://polymarket.com/event/peru-presidential-election-winner",
-          "volume_24h": 5581520.799577985,
-          "volume_total": 23969313.421953216,
-          "liquidity": 324334.55619,
-          "yes_price": 0.0525,
+          "volume_24h": 5515385.924571992,
+          "volume_total": 24836915.881695062,
+          "liquidity": 215663.17669,
+          "yes_price": 0.071,
           "leader": {
             "name": "No",
-            "price": 0.9475
+            "price": 0.929
           },
           "end_date": "2026-06-07T00:00:00Z",
           "outcomes": [
@@ -3049,15 +3059,15 @@
         },
         {
           "rank": 2,
-          "title": "Will Sweden win the 2026 FIFA World Cup?",
+          "title": "Will Tunisia win the 2026 FIFA World Cup?",
           "url": "https://polymarket.com/event/world-cup-winner",
-          "volume_24h": 2784145.9302410004,
-          "volume_total": 25287547.88579418,
-          "liquidity": 8748314.75448,
-          "yes_price": 0.0035,
+          "volume_24h": 3556633.12,
+          "volume_total": 35283034.85368602,
+          "liquidity": 11832489.48333,
+          "yes_price": 0.0005,
           "leader": {
             "name": "No",
-            "price": 0.9965
+            "price": 0.9995
           },
           "end_date": "2026-07-20T00:00:00Z",
           "outcomes": [
@@ -3069,13 +3079,13 @@
           "rank": 3,
           "title": "US x Iran permanent peace deal by December 31, 2026?",
           "url": "https://polymarket.com/event/us-x-iran-permanent-peace-deal-by",
-          "volume_24h": 2075275.5504699969,
-          "volume_total": 9107818.822995035,
-          "liquidity": 490056.3881,
-          "yes_price": 0.685,
+          "volume_24h": 2130646.6840469968,
+          "volume_total": 9179620.279294036,
+          "liquidity": 422843.7014,
+          "yes_price": 0.695,
           "leader": {
             "name": "Yes",
-            "price": 0.685
+            "price": 0.695
           },
           "end_date": "2026-12-31T00:00:00Z",
           "outcomes": [
@@ -3085,11 +3095,65 @@
         },
         {
           "rank": 4,
+          "title": "Will Tyreek Hill play for the Chicago Bears next?",
+          "url": "https://polymarket.com/event/where-will-tyreek-hill-play-in-2026",
+          "volume_24h": 1244876.170216,
+          "volume_total": 2193093.8652159986,
+          "liquidity": 1621.41086,
+          "yes_price": 0.006,
+          "leader": {
+            "name": "No",
+            "price": 0.994
+          },
+          "end_date": "2026-08-31T23:55:00Z",
+          "outcomes": [
+            "Yes",
+            "No"
+          ]
+        },
+        {
+          "rank": 5,
+          "title": "Will the New York Knicks win the 2026 NBA Finals?",
+          "url": "https://polymarket.com/event/2026-nba-champion",
+          "volume_24h": 1122206.8400049997,
+          "volume_total": 25603367.57656522,
+          "liquidity": 203470.58572,
+          "yes_price": 0.6215,
+          "leader": {
+            "name": "Yes",
+            "price": 0.6215
+          },
+          "end_date": "2026-07-01T00:00:00Z",
+          "outcomes": [
+            "Yes",
+            "No"
+          ]
+        },
+        {
+          "rank": 6,
+          "title": "Counter-Strike: TYLOO vs Legacy (BO3) - IEM Cologne Major Stage 2",
+          "url": "https://polymarket.com/event/cs2-tyloo-lgc-2026-06-09",
+          "volume_24h": 1066107.6269170018,
+          "volume_total": 1066107.6269169936,
+          "liquidity": 785351.37329,
+          "yes_price": 0.0005,
+          "leader": {
+            "name": "Legacy",
+            "price": 0.9995
+          },
+          "end_date": "2026-06-09T20:30:00Z",
+          "outcomes": [
+            "TYLOO",
+            "Legacy"
+          ]
+        },
+        {
+          "rank": 7,
           "title": "Iran closes its airspace by June 8?",
           "url": "https://polymarket.com/event/iran-closes-its-airspace-by",
-          "volume_24h": 1927171.420235,
-          "volume_total": 10344257.463117052,
-          "liquidity": 4581698.15849,
+          "volume_24h": 980301.7880050001,
+          "volume_total": 10529609.423117053,
+          "liquidity": 4996895.33548,
           "yes_price": 0.9995,
           "leader": {
             "name": "Yes",
@@ -3102,48 +3166,30 @@
           ]
         },
         {
-          "rank": 5,
-          "title": "Will the New York Knicks win the 2026 NBA Finals?",
-          "url": "https://polymarket.com/event/2026-nba-champion",
-          "volume_24h": 1465264.325795003,
-          "volume_total": 25448443.78524922,
-          "liquidity": 373209.24988,
-          "yes_price": 0.6225,
+          "rank": 8,
+          "title": "Counter-Strike: BIG vs B8 (BO3) - IEM Cologne Major Stage 2",
+          "url": "https://polymarket.com/event/cs2-big5-b8-2026-06-09",
+          "volume_24h": 932278.8588289971,
+          "volume_total": 932278.8588289971,
+          "liquidity": 386154.3617,
+          "yes_price": 0.435,
           "leader": {
-            "name": "Yes",
-            "price": 0.6225
+            "name": "B8",
+            "price": 0.565
           },
-          "end_date": "2026-07-01T00:00:00Z",
+          "end_date": "2026-06-09T23:00:00Z",
           "outcomes": [
-            "Yes",
-            "No"
+            "BIG",
+            "B8"
           ]
         },
         {
-          "rank": 6,
-          "title": "Will Tyreek Hill play for the Chicago Bears next?",
-          "url": "https://polymarket.com/event/where-will-tyreek-hill-play-in-2026",
-          "volume_24h": 1376606.01,
-          "volume_total": 1887033.695,
-          "liquidity": 2749.28859,
-          "yes_price": 0.0055,
-          "leader": {
-            "name": "No",
-            "price": 0.9945
-          },
-          "end_date": "2026-08-31T23:55:00Z",
-          "outcomes": [
-            "Yes",
-            "No"
-          ]
-        },
-        {
-          "rank": 7,
+          "rank": 9,
           "title": "Will there be no change in Fed interest rates after the June 2026 meeting?",
           "url": "https://polymarket.com/event/fed-decision-in-june-825",
-          "volume_24h": 1206192.941412003,
-          "volume_total": 13193220.739387868,
-          "liquidity": 1039058.65101,
+          "volume_24h": 929758.4136280034,
+          "volume_total": 13385688.635720871,
+          "liquidity": 899230.81804,
           "yes_price": 0.9905,
           "leader": {
             "name": "Yes",
@@ -3154,49 +3200,13 @@
             "Yes",
             "No"
           ]
-        },
-        {
-          "rank": 8,
-          "title": "Syria leading at halftime?",
-          "url": "https://polymarket.com/event/fif-bah1-syr-2026-06-09-halftime-result",
-          "volume_24h": 880218.5400090001,
-          "volume_total": 894552.1122369999,
-          "liquidity": 3253636.68296,
-          "yes_price": 0.0005,
-          "leader": {
-            "name": "No",
-            "price": 0.9995
-          },
-          "end_date": "2026-06-09T14:00:00Z",
-          "outcomes": [
-            "Yes",
-            "No"
-          ]
-        },
-        {
-          "rank": 9,
-          "title": "Will Vitality win IEM Cologne Major 2026?",
-          "url": "https://polymarket.com/event/iem-cologne-major-2026-winner",
-          "volume_24h": 712643.1086130018,
-          "volume_total": 1228861.92483,
-          "liquidity": 224664.0559,
-          "yes_price": 0.465,
-          "leader": {
-            "name": "No",
-            "price": 0.535
-          },
-          "end_date": "2026-06-21T00:00:00Z",
-          "outcomes": [
-            "Yes",
-            "No"
-          ]
         }
       ]
     },
     "usgs": {
       "source": "usgs",
       "label": "USGS — earthquakes (24h, M2.5+)",
-      "fetched_at": "2026-06-09T11:08:39.381Z",
+      "fetched_at": "2026-06-09T16:54:45.590Z",
       "items": [
         {
           "rank": 1,
@@ -3206,7 +3216,7 @@
           "place": "104 km WNW of Mantua, Cuba",
           "time": 1780941627786,
           "sig": 1132,
-          "felt": 5471,
+          "felt": 5639,
           "tsunami": false,
           "depth_km": 26,
           "lat": 22.7854,
@@ -3214,48 +3224,20 @@
         },
         {
           "rank": 2,
-          "title": "southern Mid-Atlantic Ridge",
-          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000srgz",
-          "magnitude": 5.5,
-          "place": "southern Mid-Atlantic Ridge",
-          "time": 1780928410924,
-          "sig": 465,
-          "felt": 0,
-          "tsunami": false,
-          "depth_km": 10,
-          "lat": -55.7537,
-          "lon": -4.3787
-        },
-        {
-          "rank": 3,
-          "title": "12 km WSW of Balangonan, Philippines",
-          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000srfx",
-          "magnitude": 5.5,
-          "place": "12 km WSW of Balangonan, Philippines",
-          "time": 1780917752657,
-          "sig": 465,
-          "felt": 0,
-          "tsunami": false,
-          "depth_km": 81.1,
-          "lat": 5.532,
-          "lon": 125.2525
-        },
-        {
-          "rank": 4,
           "title": "21 km SSW of Lumatil, Philippines",
           "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000srpu",
           "magnitude": 5.4,
           "place": "21 km SSW of Lumatil, Philippines",
           "time": 1780999649185,
           "sig": 449,
-          "felt": 0,
+          "felt": 1,
           "tsunami": false,
           "depth_km": 35,
           "lat": 5.6881,
           "lon": 124.825
         },
         {
-          "rank": 5,
+          "rank": 3,
           "title": "southern Mid-Atlantic Ridge",
           "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000srku",
           "magnitude": 5.4,
@@ -3269,7 +3251,7 @@
           "lon": -4.3752
         },
         {
-          "rank": 6,
+          "rank": 4,
           "title": "197 km SSE of Isangel, Vanuatu",
           "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000srkc",
           "magnitude": 5.4,
@@ -3283,21 +3265,7 @@
           "lon": 169.9905
         },
         {
-          "rank": 7,
-          "title": "19 km SSW of Lumatil, Philippines",
-          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000srh8",
-          "magnitude": 5.3,
-          "place": "19 km SSW of Lumatil, Philippines",
-          "time": 1780930384491,
-          "sig": 432,
-          "felt": 0,
-          "tsunami": false,
-          "depth_km": 46,
-          "lat": 5.7068,
-          "lon": 124.8303
-        },
-        {
-          "rank": 8,
+          "rank": 5,
           "title": "21 km SW of Sarangani, Philippines",
           "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000srp0",
           "magnitude": 5.2,
@@ -3311,21 +3279,7 @@
           "lon": 125.3116
         },
         {
-          "rank": 9,
-          "title": "44 km SSW of Sarangani, Philippines",
-          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000srgq",
-          "magnitude": 5.2,
-          "place": "44 km SSW of Sarangani, Philippines",
-          "time": 1780925878742,
-          "sig": 416,
-          "felt": 0,
-          "tsunami": false,
-          "depth_km": 55.7,
-          "lat": 5.0648,
-          "lon": 125.2439
-        },
-        {
-          "rank": 10,
+          "rank": 6,
           "title": "6 km SSW of Sibagat, Philippines",
           "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000srpr",
           "magnitude": 5.1,
@@ -3339,7 +3293,7 @@
           "lon": 125.685
         },
         {
-          "rank": 11,
+          "rank": 7,
           "title": "10 km N of Sarangani, Philippines",
           "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000srmq",
           "magnitude": 5.1,
@@ -3353,7 +3307,7 @@
           "lon": 125.4753
         },
         {
-          "rank": 12,
+          "rank": 8,
           "title": "52 km S of Sarangani, Philippines",
           "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000srk7",
           "magnitude": 5.1,
@@ -3367,7 +3321,7 @@
           "lon": 125.4615
         },
         {
-          "rank": 13,
+          "rank": 9,
           "title": "2 km ESE of Nuing, Philippines",
           "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000srph",
           "magnitude": 4.9,
@@ -3381,7 +3335,7 @@
           "lon": 125.4582
         },
         {
-          "rank": 14,
+          "rank": 10,
           "title": "12 km SW of Balangonan, Philippines",
           "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000srm7",
           "magnitude": 4.9,
@@ -3395,7 +3349,7 @@
           "lon": 125.277
         },
         {
-          "rank": 15,
+          "rank": 11,
           "title": "101 km N of Mīnāb, Iran",
           "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000srlm",
           "magnitude": 4.9,
@@ -3409,21 +3363,21 @@
           "lon": 56.9078
         },
         {
-          "rank": 16,
-          "title": "75 km S of Sarangani, Philippines",
-          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000srh6",
-          "magnitude": 4.9,
-          "place": "75 km S of Sarangani, Philippines",
-          "time": 1780929454156,
-          "sig": 369,
+          "rank": 12,
+          "title": "north of Ascension Island",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000srq8",
+          "magnitude": 4.8,
+          "place": "north of Ascension Island",
+          "time": 1781003858741,
+          "sig": 354,
           "felt": 0,
           "tsunami": false,
-          "depth_km": 39.2,
-          "lat": 4.7313,
-          "lon": 125.3486
+          "depth_km": 10,
+          "lat": -1.3003,
+          "lon": -14.8752
         },
         {
-          "rank": 17,
+          "rank": 13,
           "title": "116 km SW of Tambolaka, Indonesia",
           "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000srpn",
           "magnitude": 4.8,
@@ -3437,7 +3391,7 @@
           "lon": 118.5847
         },
         {
-          "rank": 18,
+          "rank": 14,
           "title": "82 km WSW of Sarangani, Philippines",
           "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000srkw",
           "magnitude": 4.8,
@@ -3451,7 +3405,21 @@
           "lon": 124.8372
         },
         {
-          "rank": 19,
+          "rank": 15,
+          "title": "28 km S of Sarangani, Philippines",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000srqm",
+          "magnitude": 4.7,
+          "place": "28 km S of Sarangani, Philippines",
+          "time": 1781009705541,
+          "sig": 340,
+          "felt": 0,
+          "tsunami": false,
+          "depth_km": 54.7,
+          "lat": 5.1489,
+          "lon": 125.4513
+        },
+        {
+          "rank": 16,
           "title": "8 km SSW of Pangyan, Philippines",
           "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000srml",
           "magnitude": 4.7,
@@ -3465,7 +3433,7 @@
           "lon": 125.2423
         },
         {
-          "rank": 20,
+          "rank": 17,
           "title": "12 km SW of Burias, Philippines",
           "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000srn9",
           "magnitude": 4.6,
@@ -3479,7 +3447,7 @@
           "lon": 125.1815
         },
         {
-          "rank": 21,
+          "rank": 18,
           "title": "84 km S of Sarangani, Philippines",
           "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000srjt",
           "magnitude": 4.6,
@@ -3493,21 +3461,7 @@
           "lon": 125.3771
         },
         {
-          "rank": 22,
-          "title": "54 km SE of Angoram, Papua New Guinea",
-          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000srgy",
-          "magnitude": 4.6,
-          "place": "54 km SE of Angoram, Papua New Guinea",
-          "time": 1780928507127,
-          "sig": 326,
-          "felt": 0,
-          "tsunami": false,
-          "depth_km": 154.4,
-          "lat": -4.4318,
-          "lon": 144.3895
-        },
-        {
-          "rank": 23,
+          "rank": 19,
           "title": "151 km SE of Karpathos, Greece",
           "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000srnz",
           "magnitude": 4.4,
@@ -3521,7 +3475,7 @@
           "lon": 28.4032
         },
         {
-          "rank": 24,
+          "rank": 20,
           "title": "87 km E of Minami-Sōma, Japan",
           "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000srm3",
           "magnitude": 4.4,
@@ -3535,291 +3489,348 @@
           "lon": 141.973
         },
         {
-          "rank": 25,
-          "title": "50 km S of Hokitika, New Zealand",
-          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000srgm",
-          "magnitude": 4.4,
-          "place": "50 km S of Hokitika, New Zealand",
-          "time": 1780924746233,
-          "sig": 298,
+          "rank": 21,
+          "title": "133 km E of Wāngjing, India",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000srnl",
+          "magnitude": 4.2,
+          "place": "133 km E of Wāngjing, India",
+          "time": 1780973569308,
+          "sig": 271,
+          "felt": 0,
+          "tsunami": false,
+          "depth_km": 138.8,
+          "lat": 24.6092,
+          "lon": 95.3782
+        },
+        {
+          "rank": 22,
+          "title": "6 km NE of Himarë, Albania",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000srlv",
+          "magnitude": 4.2,
+          "place": "6 km NE of Himarë, Albania",
+          "time": 1780952169591,
+          "sig": 271,
           "felt": 0,
           "tsunami": false,
           "depth_km": 10,
-          "lat": -43.1708,
-          "lon": 170.9516
+          "lat": 40.1423,
+          "lon": 19.7924
+        },
+        {
+          "rank": 23,
+          "title": "5 km NE of Límni, Greece",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000srlu",
+          "magnitude": 4.2,
+          "place": "5 km NE of Límni, Greece",
+          "time": 1780948103451,
+          "sig": 271,
+          "felt": 0,
+          "tsunami": false,
+          "depth_km": 10,
+          "lat": 38.8003,
+          "lon": 23.3579
+        },
+        {
+          "rank": 24,
+          "title": "Bonin Islands, Japan region",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000srr5",
+          "magnitude": 4.1,
+          "place": "Bonin Islands, Japan region",
+          "time": 1781014047843,
+          "sig": 259,
+          "felt": 0,
+          "tsunami": false,
+          "depth_km": 508.5,
+          "lat": 27.8986,
+          "lon": 139.6159
+        },
+        {
+          "rank": 25,
+          "title": "Revilla Gigedo Islands region",
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000srnq",
+          "magnitude": 4.1,
+          "place": "Revilla Gigedo Islands region",
+          "time": 1780973962760,
+          "sig": 259,
+          "felt": 0,
+          "tsunami": false,
+          "depth_km": 10,
+          "lat": 19.7014,
+          "lon": -108.9747
         }
       ]
     },
     "twitch": {
       "source": "twitch",
       "label": "Twitch — top streams (live)",
-      "fetched_at": "2026-06-09T11:08:40.913Z",
+      "fetched_at": "2026-06-09T16:54:46.376Z",
       "configured": true,
       "items": [
         {
           "rank": 1,
+          "title": "ESLCS",
+          "stream_title": "LIVE: BIG vs B8 Esports - IEM Cologne Major 2026",
+          "url": "https://twitch.tv/eslcs",
+          "viewers": 36338,
+          "game": "Counter-Strike",
+          "language": "en",
+          "started_at": "2026-06-09T11:02:19Z"
+        },
+        {
+          "rank": 2,
+          "title": "ohnePixel",
+          "stream_title": "🔴BEATING FORZA ON A WHEEL...🔴",
+          "url": "https://twitch.tv/ohnepixel",
+          "viewers": 35957,
+          "game": "Forza Horizon 6",
+          "language": "en",
+          "started_at": "2026-06-09T15:04:56Z"
+        },
+        {
+          "rank": 3,
+          "title": "GOFNS",
+          "stream_title": "EG SUDOWOODO | GE vs FS - VCT Masters London Swiss Stage #VCTWatchparty !inzone !socials",
+          "url": "https://twitch.tv/gofns",
+          "viewers": 34171,
+          "game": "VALORANT",
+          "language": "en",
+          "started_at": "2026-06-09T14:54:42Z"
+        },
+        {
+          "rank": 4,
+          "title": "Jynxzi",
+          "stream_title": "[524/730] 🟥 DAY 5 🟥 PLAYING ELDEN RING UNTIL I BEAT IT 🟥",
+          "url": "https://twitch.tv/jynxzi",
+          "viewers": 29940,
+          "game": "Just Chatting",
+          "language": "en",
+          "started_at": "2026-06-09T16:25:18Z"
+        },
+        {
+          "rank": 5,
+          "title": "StRoGo",
+          "stream_title": "🔴 BIG 0:0 B8 | BO3 | IEM Cologne Major 2026 Stage 2 | @m3wsu @ct0m",
+          "url": "https://twitch.tv/strogo",
+          "viewers": 29677,
+          "game": "Counter-Strike",
+          "language": "ru",
+          "started_at": "2026-06-09T11:45:58Z"
+        },
+        {
+          "rank": 6,
+          "title": "anarabdullaev",
+          "stream_title": "Одеваемся в смешных ценах и потом едем на заброшку @pinqtast Огр Поня Мисоло",
+          "url": "https://twitch.tv/anarabdullaev",
+          "viewers": 28091,
+          "game": "IRL",
+          "language": "ru",
+          "started_at": "2026-06-09T16:43:26Z"
+        },
+        {
+          "rank": 7,
+          "title": "auronplay",
+          "stream_title": "🛑CARRRRRRREEEEERRRIIIIIIIIITAAAAAAASSSSSSSSS #854752782 🛑",
+          "url": "https://twitch.tv/auronplay",
+          "viewers": 21578,
+          "game": "Grand Theft Auto V",
+          "language": "es",
+          "started_at": "2026-06-09T16:06:36Z"
+        },
+        {
+          "rank": 8,
+          "title": "Aztecross",
+          "stream_title": "GIVE US D3!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! ( !starforge ! gamersupps ) #D3 #WeWantDestiny3",
+          "url": "https://twitch.tv/aztecross",
+          "viewers": 20905,
+          "game": "Destiny 2",
+          "language": "en",
+          "started_at": "2026-06-09T15:15:14Z"
+        },
+        {
+          "rank": 9,
+          "title": "VALORANT",
+          "stream_title": "DRG vs. XLG | VALORANT Masters London — Swiss Stage",
+          "url": "https://twitch.tv/valorant",
+          "viewers": 20227,
+          "game": "VALORANT",
+          "language": "en",
+          "started_at": "2026-06-09T13:15:09Z"
+        },
+        {
+          "rank": 10,
+          "title": "Trymacs",
+          "stream_title": "Route 66 Tour! 14 Tage Online Quer durch die USA! - !Canusa !WMTipp | !ESN !bitpanda !prepmymeal",
+          "url": "https://twitch.tv/trymacs",
+          "viewers": 19496,
+          "game": "Special Events",
+          "language": "de",
+          "started_at": "2026-06-09T13:01:05Z"
+        },
+        {
+          "rank": 11,
+          "title": "bratishkinoff",
+          "stream_title": "😱 САМЫЙ КРАСИВЫЙ СКАЙРИМ В ВАШЕЙ ЖИЗНИ 😱 НОВЫЙ РУССКИЙ НАРОДНЫЙ СЕРИАЛ ПО СКАЙРИМУ 😱",
+          "url": "https://twitch.tv/bratishkinoff",
+          "viewers": 18376,
+          "game": "The Elder Scrolls V: Skyrim",
+          "language": "ru",
+          "started_at": "2026-06-09T13:55:54Z"
+        },
+        {
+          "rank": 12,
+          "title": "zarbex",
+          "stream_title": "MR. GEIL STREAMT 🤏🏻 GEILE REACTIONS 🤏🏻 STORAGE HUNTER SIMULATOR 🤏🏻 !spotify !socials !merch",
+          "url": "https://twitch.tv/zarbex",
+          "viewers": 15537,
+          "game": "Just Chatting",
+          "language": "de",
+          "started_at": "2026-06-09T15:01:15Z"
+        },
+        {
+          "rank": 13,
+          "title": "T2x2",
+          "stream_title": "МАРАФОН | День 1/5 | ༼ ºل͟º༼ ºل͟º( ° ʖ °)ºل͟º ༽ºل͟º ༽ | Тг: t.me/t2xtwitch",
+          "url": "https://twitch.tv/t2x2",
+          "viewers": 15489,
+          "game": "Just Chatting",
+          "language": "ru",
+          "started_at": "2026-06-09T13:59:44Z"
+        },
+        {
+          "rank": 14,
           "title": "stylishnoob4",
-          "stream_title": "新PC配信テスト→スプラ練習する",
+          "stream_title": "にんだい見る",
           "url": "https://twitch.tv/stylishnoob4",
-          "viewers": 26526,
+          "viewers": 15404,
           "game": "Splatoon 3",
           "language": "ja",
           "started_at": "2026-06-09T07:27:47Z"
         },
         {
-          "rank": 2,
-          "title": "fps_shaka",
-          "stream_title": "2v2→スクリム→LTK",
-          "url": "https://twitch.tv/fps_shaka",
-          "viewers": 18326,
-          "game": "League of Legends",
-          "language": "ja",
-          "started_at": "2026-06-09T06:12:25Z"
-        },
-        {
-          "rank": 3,
-          "title": "たいじ_たいちゃんねる",
-          "stream_title": "スプラ大会いろいろ確定した",
-          "url": "https://twitch.tv/yaritaiji",
-          "viewers": 17866,
-          "game": "Just Chatting",
-          "language": "ja",
-          "started_at": "2026-06-09T10:40:05Z"
-        },
-        {
-          "rank": 4,
-          "title": "OW_ESPORTS_JP",
-          "stream_title": "2026 OWCS ASIA l JAPAN STAGE 2 - Week 2 Day 2",
-          "url": "https://twitch.tv/ow_esports_jp",
-          "viewers": 15166,
-          "game": "Overwatch",
-          "language": "ja",
-          "started_at": "2026-06-09T08:30:22Z"
-        },
-        {
-          "rank": 5,
-          "title": "Zerost_s",
-          "stream_title": "#LTK 運命のレギュラーシーズン最終日",
-          "url": "https://twitch.tv/zerost_s",
-          "viewers": 14570,
-          "game": "League of Legends",
-          "language": "ja",
-          "started_at": "2026-06-09T06:55:08Z"
-        },
-        {
-          "rank": 6,
-          "title": "Jynxzi",
-          "stream_title": "[524/730] 🟥 DAY 4 🟥 PLAYING ELDEN RING UNTIL I BEAT IT 🟥",
-          "url": "https://twitch.tv/jynxzi",
-          "viewers": 11903,
-          "game": "I'm Only Sleeping",
-          "language": "en",
-          "started_at": "2026-06-07T15:31:32Z"
-        },
-        {
-          "rank": 7,
-          "title": "k4sen",
-          "stream_title": "LTK Final Day #ナダルwin",
-          "url": "https://twitch.tv/k4sen",
-          "viewers": 11024,
-          "game": "League of Legends",
-          "language": "ja",
-          "started_at": "2026-06-09T08:06:24Z"
-        },
-        {
-          "rank": 8,
-          "title": "TQQ999_",
-          "stream_title": "19時からムラゲアンバサダー応援配信いくぞ！",
-          "url": "https://twitch.tv/tqq999_",
-          "viewers": 10938,
-          "game": "Overwatch",
-          "language": "ja",
-          "started_at": "2026-06-09T08:59:35Z"
-        },
-        {
-          "rank": 9,
-          "title": "Topson",
-          "stream_title": "The International 2026 Open Qualifiers starting 14:00 CEST! Playing pubs until then. WILL STREAM ALL QUALIFIER GAMES !VPN",
-          "url": "https://twitch.tv/topson",
-          "viewers": 10115,
-          "game": "Dota 2",
-          "language": "en",
-          "started_at": "2026-06-09T07:13:19Z"
-        },
-        {
-          "rank": 10,
-          "title": "ゆゆうた押忍",
-          "stream_title": "絶対にイライラしないスプラトゥーン３ 練習",
-          "url": "https://twitch.tv/yuyuta0702",
-          "viewers": 9725,
-          "game": "Splatoon 3",
-          "language": "ja",
-          "started_at": "2026-06-09T09:00:06Z"
-        },
-        {
-          "rank": 11,
+          "rank": 15,
           "title": "Rainbow6",
-          "stream_title": "Stage 01 2026: APL OCE - Week 1",
+          "stream_title": "Stage 01 2026: EML - Week 1",
           "url": "https://twitch.tv/rainbow6",
-          "viewers": 8583,
+          "viewers": 14483,
           "game": "Rainbow Six Siege",
           "language": "en",
-          "started_at": "2026-06-09T07:37:59Z"
-        },
-        {
-          "rank": 12,
-          "title": "Dmitry_Lixxx",
-          "stream_title": "ЗАКУПКА К ВЕЛОМАРАФОНУ ПО ЗЕЛЕНОМУ КОЛЬЦУ | !winline !lis !яо !яп",
-          "url": "https://twitch.tv/dmitry_lixxx",
-          "viewers": 7267,
-          "game": "IRL",
-          "language": "ru",
-          "started_at": "2026-06-09T10:10:25Z"
-        },
-        {
-          "rank": 13,
-          "title": "ironmouse",
-          "stream_title": "FIRST TIME EXPLORING THE METRO | !gnarly | !impulse | !senpai | !cheeky | !ht | !starforge | !tts | !merch | !razer",
-          "url": "https://twitch.tv/ironmouse",
-          "viewers": 7036,
-          "game": "Metro 2033 Redux",
-          "language": "en",
-          "started_at": "2026-06-08T21:39:09Z"
-        },
-        {
-          "rank": 14,
-          "title": "らいじん",
-          "stream_title": "Next本番日",
-          "url": "https://twitch.tv/alfrea",
-          "viewers": 6505,
-          "game": "League of Legends",
-          "language": "ja",
-          "started_at": "2026-06-09T05:19:19Z"
-        },
-        {
-          "rank": 15,
-          "title": "Alois_NL",
-          "stream_title": "Wake up, Coffee. SoloQ without shower or food but PURE WILLPOWER - 2 STREAMS TODAY I NEED MASTERS",
-          "url": "https://twitch.tv/alois_nl",
-          "viewers": 6093,
-          "game": "League of Legends",
-          "language": "en",
-          "started_at": "2026-06-09T07:16:56Z"
+          "started_at": "2026-06-09T15:00:08Z"
         },
         {
           "rank": 16,
-          "title": "metashi12",
-          "stream_title": "DRAMA, REACTIONS, ENTBANNUNGEN!  | !Holy | !hitech | !rested | !More | !POE2 | !prepmymeal | !TB | #Werbung",
-          "url": "https://twitch.tv/metashi12",
-          "viewers": 6050,
-          "game": "Just Chatting",
-          "language": "de",
-          "started_at": "2026-06-09T07:40:37Z"
+          "title": "Topson",
+          "stream_title": "The International 2026 Open Qualifiers starting 14:00 CEST! Playing pubs until then. WILL STREAM ALL QUALIFIER GAMES !VPN",
+          "url": "https://twitch.tv/topson",
+          "viewers": 13764,
+          "game": "Dota 2",
+          "language": "en",
+          "started_at": "2026-06-09T15:22:07Z"
         },
         {
           "rank": 17,
-          "title": "ta1yo_tv",
-          "stream_title": "OWCS JAPAN 下馬評とか関係ない？？  #owcs",
-          "url": "https://twitch.tv/ta1yo_tv",
-          "viewers": 6041,
-          "game": "Overwatch",
+          "title": "布団ちゃんと申します",
+          "stream_title": "【７日目】呪術師ダークソウル３～DLCの猛威～ビッツ禁止＆ネタバレ禁止＆含む←外はジメジメしてますね、まずはキターク雑談、放送！",
+          "url": "https://twitch.tv/indegnasen0706",
+          "viewers": 12385,
+          "game": "DARK SOULS III",
           "language": "ja",
-          "started_at": "2026-06-09T08:58:49Z"
+          "started_at": "2026-06-09T11:12:12Z"
         },
         {
           "rank": 18,
-          "title": "しゃるる",
-          "stream_title": "next→coreスクリムからの本番 #LTK",
-          "url": "https://twitch.tv/syaruru3",
-          "viewers": 5984,
-          "game": "League of Legends",
-          "language": "ja",
-          "started_at": "2026-06-09T09:21:39Z"
+          "title": "sasavot",
+          "stream_title": "ВТОРНИК/ЖЕЛЕЗНЫЙ",
+          "url": "https://twitch.tv/sasavot",
+          "viewers": 12347,
+          "game": "Just Chatting",
+          "language": "ru",
+          "started_at": "2026-06-09T15:43:44Z"
         },
         {
           "rank": 19,
-          "title": "lol_nemesis",
-          "stream_title": "🌈 [LIVE] LoL Legends Match on CHZZK DAY 1 | Korea Bootcamp Day 33  !korea !patreon !nord !discord",
-          "url": "https://twitch.tv/lol_nemesis",
-          "viewers": 5632,
-          "game": "League of Legends",
-          "language": "en",
-          "started_at": "2026-06-09T05:04:32Z"
+          "title": "Lazvell",
+          "stream_title": "DRG vs XLG / FS vs GE - Group Stage Day4 - VALORANT Masters London 2026 #MastersCostream",
+          "url": "https://twitch.tv/lazvell",
+          "viewers": 11597,
+          "game": "VALORANT",
+          "language": "ja",
+          "started_at": "2026-06-09T13:59:55Z"
         },
         {
           "rank": 20,
-          "title": "TheBurntPeanut_247",
-          "stream_title": "24/7 @TheBurntPeanut VODS/YT | TARKOV | ARC RAIDERS | SILLY GAMES | BUNGULATORS ONLY CHAT",
-          "url": "https://twitch.tv/theburntpeanut_247",
-          "viewers": 5587,
-          "game": "Always On",
+          "title": "Gorgc",
+          "stream_title": "TEAM BALD RETURNS - TI 2026 QUALIFIERS - BEST TEAM POV !roster !bracket w/ TobiDotes",
+          "url": "https://twitch.tv/gorgc",
+          "viewers": 11412,
+          "game": "Dota 2",
           "language": "en",
-          "started_at": "2026-06-09T05:26:24Z"
+          "started_at": "2026-06-09T10:26:26Z"
         },
         {
           "rank": 21,
-          "title": "Yugi2x",
-          "stream_title": "🌟STREAMER U APP🌟BALESH🌟 !socials !comm !oscs",
-          "url": "https://twitch.tv/yugi2x",
-          "viewers": 5302,
-          "game": "Just Chatting",
-          "language": "en",
-          "started_at": "2026-06-09T01:04:11Z"
+          "title": "NoWay4u_Sir",
+          "stream_title": "Einzug in die Salzmine - Abfahrt (19 Uhr Scrims)",
+          "url": "https://twitch.tv/noway4u_sir",
+          "viewers": 11382,
+          "game": "League of Legends",
+          "language": "de",
+          "started_at": "2026-06-09T14:45:57Z"
         },
         {
           "rank": 22,
-          "title": "yutapongo",
-          "stream_title": "LTK Next Core１戦ずつ見て本番見る",
-          "url": "https://twitch.tv/yutapongo",
-          "viewers": 5296,
-          "game": "League of Legends",
-          "language": "ja",
-          "started_at": "2026-06-09T07:06:32Z"
+          "title": "EDISON",
+          "stream_title": "Жизнь после матча СТРИМЕРЫ vs БЛОГЕРЫ",
+          "url": "https://twitch.tv/edison",
+          "viewers": 10737,
+          "game": "PEAK",
+          "language": "ru",
+          "started_at": "2026-06-09T14:45:03Z"
         },
         {
           "rank": 23,
-          "title": "Ponce",
-          "stream_title": "La dose !LYCANS sous maladie // 16h NINTENDO DIRECT HYPE // !patreon !zevent",
-          "url": "https://twitch.tv/ponce",
-          "viewers": 4938,
-          "game": "Lycans",
-          "language": "fr",
-          "started_at": "2026-06-09T09:35:45Z"
+          "title": "tarik",
+          "stream_title": "🔴 DRG vs. XLG - VCT Masters London 🔴 #MastersCostream",
+          "url": "https://twitch.tv/tarik",
+          "viewers": 10645,
+          "game": "VALORANT",
+          "language": "en",
+          "started_at": "2026-06-09T13:30:40Z"
         },
         {
           "rank": 24,
-          "title": "m3wsu",
-          "stream_title": "ДАЛИ ЧЕЛЛЕНДЖ НА 7к$ ОТ ЛЕРИЧА w/ @lerich13 !tg !winline",
-          "url": "https://twitch.tv/m3wsu",
-          "viewers": 4870,
-          "game": "Counter-Strike",
-          "language": "ru",
-          "started_at": "2026-06-09T07:10:14Z"
+          "title": "LIRIK",
+          "stream_title": "Pogging",
+          "url": "https://twitch.tv/lirik",
+          "viewers": 10435,
+          "game": "Into the Fire",
+          "language": "en",
+          "started_at": "2026-06-09T16:03:12Z"
         },
         {
           "rank": 25,
-          "title": "TpaBoMaH",
-          "stream_title": "с НУЛЯ до ТИТАНА на РАНДОМЕ (3887 ммр)🔥!25аркан !гтарп !вов",
-          "url": "https://twitch.tv/tpabomah",
-          "viewers": 4782,
+          "title": "Arteezy",
+          "stream_title": "THE INTERNATIONAL 2026 OPEN QUALIFERS WITH @Topson @qojqva @ceb_ @pablogaming13",
+          "url": "https://twitch.tv/arteezy",
+          "viewers": 10025,
           "game": "Dota 2",
-          "language": "ru",
-          "started_at": "2026-06-09T09:54:24Z"
+          "language": "en",
+          "started_at": "2026-06-09T12:03:33Z"
         }
       ]
     },
     "gdelt-ai": {
       "source": "gdelt-ai",
-      "fetched_at": "2026-06-09T11:09:04.799Z",
+      "fetched_at": "2026-06-09T16:55:13.078Z",
       "error": "GDELT failed after 3 attempts — HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries.",
       "items": []
     }
   },
   "clusters": [
     {
-      "id": "gmyzrg",
-      "name": "Will Sweden win the 2026 FIFA World Cup?",
+      "id": "s4ez8l",
+      "name": "Will Tunisia win the 2026 FIFA World Cup?",
       "sources": [
+        "google-trends",
         "polymarket",
         "wikipedia"
       ],
@@ -3831,14 +3842,20 @@
           "rank": 3
         },
         {
+          "source": "google-trends",
+          "title": "fifa world cup games",
+          "url": "https://bocamag.com/places-to-celebrate-the-soccer-spirit-during-the-fifa-world-cup-2026-games/",
+          "rank": 10
+        },
+        {
           "source": "polymarket",
-          "title": "Will Sweden win the 2026 FIFA World Cup?",
+          "title": "Will Tunisia win the 2026 FIFA World Cup?",
           "url": "https://polymarket.com/event/world-cup-winner",
           "rank": 2
         }
       ],
-      "score": 0.8333333333333333
+      "score": 0.9333333333333333
     }
   ],
-  "brief": "Across 16 sources on Tuesday, June 9, the story of the day is Will Sweden win the 2026 FIFA World Cup?, appearing in polymarket, wikipedia. In tech, mvanhorn/last30days-skill. On Lemmy, Making the bed."
+  "brief": "Across 16 sources on Tuesday, June 9, the story of the day is Will Tunisia win the 2026 FIFA World Cup?, appearing in google-trends, polymarket, wikipedia. In tech, mvanhorn/last30days-skill. On Lemmy, Ah, now that brings me back to my college days...."
 }

@@ -1,323 +1,330 @@
 {
   "source": "stackoverflow",
   "label": "Stack Overflow — hot questions",
-  "fetched_at": "2026-06-09T11:08:39.317Z",
+  "fetched_at": "2026-06-09T16:54:45.653Z",
   "items": [
     {
       "rank": 1,
-      "title": "Struggling adding dependencies in C++17",
-      "url": "https://stackoverflow.com/questions/79954485/struggling-adding-dependencies-in-c17",
+      "title": "creating a variable if it doesn't exist c++",
+      "url": "https://stackoverflow.com/questions/79954691/creating-a-variable-if-it-doesnt-exist-c",
       "score": 0,
       "answers": 2,
-      "views": 32,
+      "views": 34,
       "tags": [
-        "c++",
-        "cmake",
-        "gtk"
+        "c++"
       ]
     },
     {
       "rank": 2,
-      "title": "How to convert an string to unsigned string in c",
-      "url": "https://stackoverflow.com/questions/79954508/how-to-convert-an-string-to-unsigned-string-in-c",
+      "title": "The fastest algorithm for the problem \"Cheapest flight within k stops\"?",
+      "url": "https://stackoverflow.com/questions/79954689/the-fastest-algorithm-for-the-problem-cheapest-flight-within-k-stops",
       "score": 0,
-      "answers": 2,
-      "views": 31,
+      "answers": 0,
+      "views": 22,
       "tags": [
-        "c",
-        "type-conversion",
-        "basic"
+        "java",
+        "algorithm",
+        "time-complexity",
+        "shortest-path",
+        "bellman-ford"
       ]
     },
     {
       "rank": 3,
-      "title": "How do I calculate the index of children in a tree of order 3?",
-      "url": "https://stackoverflow.com/questions/79954512/how-do-i-calculate-the-index-of-children-in-a-tree-of-order-3",
-      "score": 0,
+      "title": "Bellhopcuda building binaries",
+      "url": "https://stackoverflow.com/questions/79954681/bellhopcuda-building-binaries",
+      "score": -1,
       "answers": 0,
-      "views": 27,
+      "views": 20,
       "tags": [
-        "tree",
-        "tree-traversal"
+        "simulation",
+        "acoustics"
       ]
     },
     {
       "rank": 4,
-      "title": "Browser \"edge\" is not supported by the browser provider \"playwright\" when running Vitest in Angular",
-      "url": "https://stackoverflow.com/questions/79954498/browser-edge-is-not-supported-by-the-browser-provider-playwright-when-runnin",
-      "score": 0,
-      "answers": 1,
+      "title": "QTextEdit accessibility issue in PyQt6 and PySide6",
+      "url": "https://stackoverflow.com/questions/79954683/qtextedit-accessibility-issue-in-pyqt6-and-pyside6",
+      "score": 1,
+      "answers": 0,
       "views": 18,
       "tags": [
-        "angular",
-        "vitest"
+        "python",
+        "qt",
+        "pyqt",
+        "accessibility"
       ]
     },
     {
       "rank": 5,
-      "title": "Data path \"\" must have required property 'project' when generating Vitest config in Angular",
-      "url": "https://stackoverflow.com/questions/79954490/data-path-must-have-required-property-project-when-generating-vitest-config",
+      "title": "Is it possoble to get PasswordEncoder bean from UserDetailsService bean?",
+      "url": "https://stackoverflow.com/questions/79954685/is-it-possoble-to-get-passwordencoder-bean-from-userdetailsservice-bean",
       "score": 0,
-      "answers": 1,
-      "views": 16,
+      "answers": 0,
+      "views": 12,
       "tags": [
-        "angular",
-        "vitest"
+        "spring-boot",
+        "security",
+        "password-encryption"
       ]
     },
     {
       "rank": 6,
-      "title": "MS SQL package in my Express app returns 1 row affected but value in recordset is undefined",
-      "url": "https://stackoverflow.com/questions/79954509/ms-sql-package-in-my-express-app-returns-1-row-affected-but-value-in-recordset-i",
-      "score": -1,
-      "answers": 0,
-      "views": 15,
+      "title": "Claude OPUS and Concurrency in C++?",
+      "url": "https://stackoverflow.com/questions/79954621/claude-opus-and-concurrency-in-c",
+      "score": 0,
+      "answers": 4,
+      "views": 73,
       "tags": [
-        "sql-server",
-        "typescript",
-        "express"
+        "c++",
+        "concurrency",
+        "claude"
       ]
     },
     {
       "rank": 7,
-      "title": "Livekit basic agent set up problem with rtc audioframe",
-      "url": "https://stackoverflow.com/questions/79954496/livekit-basic-agent-set-up-problem-with-rtc-audioframe",
-      "score": 0,
-      "answers": 0,
-      "views": 14,
+      "title": "python dataframe rolling by date to concatenate a string",
+      "url": "https://stackoverflow.com/questions/79954671/python-dataframe-rolling-by-date-to-concatenate-a-string",
+      "score": -4,
+      "answers": 1,
+      "views": 54,
       "tags": [
         "python",
-        "audio",
-        "artificial-intelligence",
-        "agent",
-        "livekit"
+        "pandas",
+        "dataframe"
       ]
     },
     {
       "rank": 8,
-      "title": "How to create a WhatsApp bridge for matrix.org?",
-      "url": "https://stackoverflow.com/questions/79954503/how-to-create-a-whatsapp-bridge-for-matrix-org",
+      "title": "Best Parameter-Set for Google Fleet Routing to Use all Vehicles",
+      "url": "https://stackoverflow.com/questions/79954663/best-parameter-set-for-google-fleet-routing-to-use-all-vehicles",
       "score": 0,
       "answers": 0,
-      "views": 13,
+      "views": 26,
       "tags": [
-        "chat",
-        "distributed",
-        "self-hosting"
+        "google-route-optimization-api"
       ]
     },
     {
       "rank": 9,
-      "title": "Terraform Azure Container Registry task keeps failing",
-      "url": "https://stackoverflow.com/questions/79954461/terraform-azure-container-registry-task-keeps-failing",
-      "score": 0,
-      "answers": 1,
-      "views": 46,
+      "title": "YouTube InnerTube API - comment replies missing continuation tokens despite visible replies",
+      "url": "https://stackoverflow.com/questions/79954660/youtube-innertube-api-comment-replies-missing-continuation-tokens-despite-visi",
+      "score": -1,
+      "answers": 0,
+      "views": 25,
       "tags": [
-        "azure",
-        "terraform",
-        "terraform-provider-azure",
-        "azure-container-registry"
+        "javascript",
+        "function",
+        "youtube",
+        "youtube-api",
+        "developer-console"
       ]
     },
     {
       "rank": 10,
-      "title": "ConnectionError: Failed to connect to localhost/SQLEXPRESS01:1433",
-      "url": "https://stackoverflow.com/questions/79954459/connectionerror-failed-to-connect-to-localhost-sqlexpress011433",
-      "score": 0,
-      "answers": 1,
-      "views": 37,
+      "title": "Proper semantics for specifying the portion of something you supply?",
+      "url": "https://stackoverflow.com/questions/79954668/proper-semantics-for-specifying-the-portion-of-something-you-supply",
+      "score": 1,
+      "answers": 2,
+      "views": 24,
       "tags": [
-        "sql-server",
-        "express",
-        "sql-server-express",
-        "sql-server-2022"
+        "html",
+        "css",
+        "semantic-markup"
       ]
     },
     {
       "rank": 11,
-      "title": "UDT HEADER Packing Data From Structure to Array",
-      "url": "https://stackoverflow.com/questions/79954452/udt-header-packing-data-from-structure-to-array",
+      "title": "Making the prefix 0o for octal numbers mandatory?",
+      "url": "https://stackoverflow.com/questions/79954584/making-the-prefix-0o-for-octal-numbers-mandatory",
       "score": 0,
-      "answers": 0,
-      "views": 35,
+      "answers": 3,
+      "views": 104,
       "tags": [
         "c",
-        "embedded"
+        "octal",
+        "strtol",
+        "strtoull",
+        "strtoul"
       ]
     },
     {
       "rank": 12,
-      "title": "Why does engine.execute() not work for merge statements?",
-      "url": "https://stackoverflow.com/questions/79954456/why-does-engine-execute-not-work-for-merge-statements",
-      "score": 0,
-      "answers": 1,
-      "views": 24,
+      "title": "Python turtle screen setup",
+      "url": "https://stackoverflow.com/questions/79954622/python-turtle-screen-setup",
+      "score": -3,
+      "answers": 0,
+      "views": 58,
       "tags": [
-        "sqlalchemy"
+        "python",
+        "turtle-graphics",
+        "python-turtle"
       ]
     },
     {
       "rank": 13,
-      "title": "Pixel-based Pathfinding for a Bot in a 2.5D Isometric Game",
-      "url": "https://stackoverflow.com/questions/79954454/pixel-based-pathfinding-for-a-bot-in-a-2-5d-isometric-game",
+      "title": "Encoding XML in Terraform",
+      "url": "https://stackoverflow.com/questions/79954612/encoding-xml-in-terraform",
       "score": 0,
-      "answers": 0,
-      "views": 24,
+      "answers": 1,
+      "views": 33,
       "tags": [
-        "python",
-        "opencv",
-        "image-processing",
-        "computer-vision",
-        "path-finding"
+        "xml",
+        "terraform"
       ]
     },
     {
       "rank": 14,
-      "title": "Can Preview Window be changed dynamically at runtime after switching themes?",
-      "url": "https://stackoverflow.com/questions/79954479/can-preview-window-be-changed-dynamically-at-runtime-after-switching-themes",
-      "score": 0,
+      "title": "Linker can't find cv::VideoCapture::VideoCapture() under Cygwin?",
+      "url": "https://stackoverflow.com/questions/79954617/linker-cant-find-cvvideocapturevideocapture-under-cygwin",
+      "score": 3,
       "answers": 0,
-      "views": 23,
+      "views": 39,
       "tags": [
-        "java",
-        "android"
+        "c++",
+        "opencv",
+        "cygwin",
+        "undefined-reference"
       ]
     },
     {
       "rank": 15,
-      "title": "SQLAlchemyAsyncRepository object has no attribute 'get_many'",
-      "url": "https://stackoverflow.com/questions/79954451/sqlalchemyasyncrepository-object-has-no-attribute-get-many",
-      "score": -1,
+      "title": "Text overflow on the right, cannot add Flexible or Expanded with flex",
+      "url": "https://stackoverflow.com/questions/79954659/text-overflow-on-the-right-cannot-add-flexible-or-expanded-with-flex",
+      "score": 0,
       "answers": 1,
-      "views": 23,
+      "views": 24,
       "tags": [
-        "python",
-        "sqlalchemy",
-        "litestar"
+        "flutter"
       ]
     },
     {
       "rank": 16,
-      "title": "Header Menu Dropdown Renders Behind Page Content in Chrome but Works Fine in Firefox",
-      "url": "https://stackoverflow.com/questions/79954429/header-menu-dropdown-renders-behind-page-content-in-chrome-but-works-fine-in-fir",
+      "title": "en('cards.html',s f: for index, row in data.iterrows(): f.write(html_template.format(row['name'], row['password']))",
+      "url": "https://stackoverflow.com/questions/79954593/encards-html-s-f-for-index-row-in-data-iterrows-f-writehtml-template-fo",
       "score": 0,
-      "answers": 0,
-      "views": 21,
+      "answers": 2,
+      "views": 37,
       "tags": [
-        "css",
-        "wordpress",
-        "google-chrome",
-        "drop-down-menu",
-        "z-index"
+        "deep-learning"
       ]
     },
     {
       "rank": 17,
-      "title": "What things should I keep in mind while write code?",
-      "url": "https://stackoverflow.com/questions/79954391/what-things-should-i-keep-in-mind-while-write-code",
-      "score": 0,
-      "answers": 4,
-      "views": 102,
+      "title": "Meta App Review: user_birthday rejected for \"missing end-to-end experience\" despite comprehensive screencast. How to resolve?",
+      "url": "https://stackoverflow.com/questions/79954630/meta-app-review-user-birthday-rejected-for-missing-end-to-end-experience-desp",
+      "score": -1,
+      "answers": 0,
+      "views": 31,
       "tags": [
-        "reactjs",
-        "typescript"
+        "facebook",
+        "facebook-graph-api",
+        "react-router",
+        "facebook-login",
+        "facebook-appreview"
       ]
     },
     {
       "rank": 18,
-      "title": "How embassy should be decoupled from logic in rust embedded project?",
-      "url": "https://stackoverflow.com/questions/79954488/how-embassy-should-be-decoupled-from-logic-in-rust-embedded-project",
-      "score": 0,
-      "answers": 0,
-      "views": 17,
+      "title": "How to extend subset of products by ones determined by few product groups?",
+      "url": "https://stackoverflow.com/questions/79954541/how-to-extend-subset-of-products-by-ones-determined-by-few-product-groups",
+      "score": 1,
+      "answers": 1,
+      "views": 52,
       "tags": [
-        "rust",
-        "architecture",
-        "embedded"
+        "sql-server",
+        "entity-framework-core",
+        "ef-core-8.0"
       ]
     },
     {
       "rank": 19,
+      "title": "How to show an Exception's stack trace docked when the Exception is caught?",
+      "url": "https://stackoverflow.com/questions/79954530/how-to-show-an-exceptions-stack-trace-docked-when-the-exception-is-caught",
+      "score": 0,
+      "answers": 1,
+      "views": 76,
+      "tags": [
+        "c#",
+        ".net",
+        "visual-studio",
+        "visual-studio-2022"
+      ]
+    },
+    {
+      "rank": 20,
+      "title": "SBT 1.12.11 cannot handle netty-4.2.13.Final",
+      "url": "https://stackoverflow.com/questions/79954648/sbt-1-12-11-cannot-handle-netty-4-2-13-final",
+      "score": 0,
+      "answers": 0,
+      "views": 19,
+      "tags": [
+        "sbt",
+        "ivy"
+      ]
+    },
+    {
+      "rank": 21,
+      "title": "Best Source Online to learn Kotlin",
+      "url": "https://stackoverflow.com/questions/79954640/best-source-online-to-learn-kotlin",
+      "score": 0,
+      "answers": 0,
+      "views": 19,
+      "tags": [
+        "kotlin",
+        "jvm"
+      ]
+    },
+    {
+      "rank": 22,
+      "title": "Open62541 OPC UA library with OpenSSL",
+      "url": "https://stackoverflow.com/questions/79954633/open62541-opc-ua-library-with-openssl",
+      "score": 0,
+      "answers": 0,
+      "views": 17,
+      "tags": [
+        "cmake",
+        "openssl",
+        "opc",
+        "open62541"
+      ]
+    },
+    {
+      "rank": 23,
       "title": "How can I avoid using LLMs as a software developer?",
       "url": "https://stackoverflow.com/questions/79948695/how-can-i-avoid-using-llms-as-a-software-developer",
-      "score": 110,
+      "score": 111,
       "answers": 167,
-      "views": 7912,
+      "views": 7948,
       "tags": [
         "large-language-model"
       ]
     },
     {
-      "rank": 20,
-      "title": "How can I keep a ModalBottomSheet only partially expanded without clipping its content?",
-      "url": "https://stackoverflow.com/questions/79954476/how-can-i-keep-a-modalbottomsheet-only-partially-expanded-without-clipping-its-c",
-      "score": 0,
-      "answers": 0,
-      "views": 16,
-      "tags": [
-        "android",
-        "android-jetpack-compose"
-      ]
-    },
-    {
-      "rank": 21,
-      "title": "Running Inference With ONNX and MIGraphX",
-      "url": "https://stackoverflow.com/questions/79954444/running-inference-with-onnx-and-migraphx",
-      "score": 0,
-      "answers": 0,
-      "views": 16,
-      "tags": [
-        "onnxruntime",
-        "amd-rocm"
-      ]
-    },
-    {
-      "rank": 22,
-      "title": "Why does checking for UTF-8 without BOM work, but with BOM it doesn't?",
-      "url": "https://stackoverflow.com/questions/79954410/why-does-checking-for-utf-8-without-bom-work-but-with-bom-it-doesnt",
-      "score": 0,
-      "answers": 2,
-      "views": 77,
-      "tags": [
-        "c#"
-      ]
-    },
-    {
-      "rank": 23,
-      "title": "Cannot find module 'react/jsx-runtime' or its corresponding type declarations after switching to pnpm from npm",
-      "url": "https://stackoverflow.com/questions/79954486/cannot-find-module-react-jsx-runtime-or-its-corresponding-type-declarations-af",
-      "score": 0,
-      "answers": 0,
-      "views": 14,
-      "tags": [
-        "reactjs",
-        "typescript",
-        "next.js",
-        "pnpm"
-      ]
-    },
-    {
       "rank": 24,
-      "title": "NullPointerException is logged different in prod and local env",
-      "url": "https://stackoverflow.com/questions/79954430/nullpointerexception-is-logged-different-in-prod-and-local-env",
-      "score": 3,
-      "answers": 1,
-      "views": 66,
+      "title": "How to make a Qt MSVC solution?",
+      "url": "https://stackoverflow.com/questions/79954656/how-to-make-a-qt-msvc-solution",
+      "score": 0,
+      "answers": 0,
+      "views": 16,
       "tags": [
-        "java",
-        "nullpointerexception"
+        "windows",
+        "qt",
+        "compilation"
       ]
     },
     {
       "rank": 25,
-      "title": "CYBERSECURITY relate",
-      "url": "https://stackoverflow.com/questions/79954449/cybersecurity-relate",
-      "score": 2,
+      "title": "Best way to have a Galera node that does nothing",
+      "url": "https://stackoverflow.com/questions/79954647/best-way-to-have-a-galera-node-that-does-nothing",
+      "score": 0,
       "answers": 0,
-      "views": 35,
+      "views": 16,
       "tags": [
-        "security"
+        "linux",
+        "wordpress",
+        "mariadb",
+        "galera"
       ]
     }
   ]

@@ -1,223 +1,223 @@
 {
   "source": "hackernews",
   "label": "Hacker News — top stories",
-  "fetched_at": "2026-06-09T11:08:40.156Z",
+  "fetched_at": "2026-06-09T16:54:45.715Z",
   "items": [
     {
       "rank": 1,
-      "title": "Microsoft's open source tools were hacked to steal passwords of AI developers",
-      "url": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/",
-      "hn_url": "https://news.ycombinator.com/item?id=48457830",
-      "score": 197,
-      "comments": 84,
-      "author": "raffael_de"
+      "title": "Making Graphics Like it's 1993",
+      "url": "https://staniks.github.io/articles/catlantean-3d-blog-1/",
+      "hn_url": "https://news.ycombinator.com/item?id=48459294",
+      "score": 470,
+      "comments": 63,
+      "author": "sklopec"
     },
     {
       "rank": 2,
-      "title": "GentleOS – Classic operating system with a lovely retro GUI",
-      "url": "https://github.com/luke8086/gentleos32",
-      "hn_url": "https://news.ycombinator.com/item?id=48458890",
-      "score": 53,
-      "comments": 5,
-      "author": "tekkertje"
+      "title": "Microsoft's open source tools were hacked to steal passwords of AI developers",
+      "url": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/",
+      "hn_url": "https://news.ycombinator.com/item?id=48457830",
+      "score": 417,
+      "comments": 158,
+      "author": "raffael_de"
     },
     {
       "rank": 3,
-      "title": "OpenCV 5 Is Here: The Biggest Leap in Years for Computer Vision",
-      "url": "https://opencv.org/opencv-5/",
-      "hn_url": "https://news.ycombinator.com/item?id=48421858",
-      "score": 237,
-      "comments": 39,
-      "author": "ternaus"
+      "title": "'Sloppenheimer:' Amazon Employees Mock the Company's AI on Slack",
+      "url": "https://www.404media.co/sloppenheimer-amazon-employees-mock-the-companys-ai-on-slack/",
+      "hn_url": "https://news.ycombinator.com/item?id=48462823",
+      "score": 83,
+      "comments": 36,
+      "author": "doener"
     },
     {
       "rank": 4,
-      "title": "Forever Young: how one molecule can lock plants in a youthful state.(2025)",
-      "url": "https://omnia.sas.upenn.edu/story/biologist-scott-poethig-plants-never-age",
-      "hn_url": "https://news.ycombinator.com/item?id=48458257",
-      "score": 35,
-      "comments": 17,
-      "author": "bryanrasmussen"
+      "title": "Launch HN: Transload (YC P26) – Measuring freight items with CCTV",
+      "url": "https://news.ycombinator.com/item?id=48463273",
+      "hn_url": "https://news.ycombinator.com/item?id=48463273",
+      "score": 6,
+      "comments": 1,
+      "author": "nils_spatial"
     },
     {
       "rank": 5,
-      "title": "The iPhone's Last Stand",
-      "url": "https://stratechery.com/2026/the-iphones-last-stand/",
-      "hn_url": "https://news.ycombinator.com/item?id=48459001",
-      "score": 14,
+      "title": "Biff.core: system composition for Clojure web apps",
+      "url": "https://biffweb.com/p/core/",
+      "hn_url": "https://news.ycombinator.com/item?id=48463018",
+      "score": 13,
       "comments": 3,
-      "author": "swolpers"
+      "author": "jacobobryant"
     },
     {
       "rank": 6,
-      "title": "Apple reveals new AI architecture built around Google Gemini models",
-      "url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
-      "hn_url": "https://news.ycombinator.com/item?id=48450142",
-      "score": 612,
-      "comments": 467,
-      "author": "unclefuzzy"
+      "title": "A giant star may have destroyed itself in one of the rarest explosions",
+      "url": "https://phys.org/news/2026-05-giant-star-destroyed-universe-rarest.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48451966",
+      "score": 23,
+      "comments": 4,
+      "author": "wglb"
     },
     {
       "rank": 7,
-      "title": "Thi.ng – open-source building blocks for computational design and art",
-      "url": "https://thi.ng",
-      "hn_url": "https://news.ycombinator.com/item?id=48437743",
-      "score": 54,
-      "comments": 9,
-      "author": "nmstoker"
+      "title": "I Think Rutger Bregman and the School for Moral Ambition Are Full of Shit",
+      "url": "https://louwrentius.com/i-think-rutger-bregman-the-school-for-moral-ambition-are-full-of-shit.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48463430",
+      "score": 4,
+      "comments": 1,
+      "author": "louwrentius"
     },
     {
       "rank": 8,
-      "title": "Siri AI",
-      "url": "https://www.apple.com/apple-intelligence/",
-      "hn_url": "https://news.ycombinator.com/item?id=48449084",
-      "score": 593,
-      "comments": 548,
-      "author": "0xedb"
+      "title": "Can LLMs Beat Classical Hyperparameter Optimization Algorithms?",
+      "url": "https://arxiv.org/abs/2603.24647",
+      "hn_url": "https://news.ycombinator.com/item?id=48462062",
+      "score": 45,
+      "comments": 5,
+      "author": "galsapir"
     },
     {
       "rank": 9,
-      "title": "Porting the ThinkPad X61 to Coreboot",
-      "url": "https://blog.aheymans.xyz/post/thinkpad_x61/",
-      "hn_url": "https://news.ycombinator.com/item?id=48456245",
-      "score": 85,
-      "comments": 30,
-      "author": "walterbell"
+      "title": "Show HN: GentleOS – A pair of hobby OSes for vintage 32-bit and 16-bit PCs",
+      "url": "https://github.com/luke8086/gentleos32",
+      "hn_url": "https://news.ycombinator.com/item?id=48435943",
+      "score": 39,
+      "comments": 71,
+      "author": "luke8086"
     },
     {
       "rank": 10,
-      "title": "xAI is looking more like a datacentre REIT than a frontier lab",
-      "url": "https://martinalderson.com/posts/xais-new-rental-business/",
-      "hn_url": "https://news.ycombinator.com/item?id=48446428",
-      "score": 577,
-      "comments": 450,
-      "author": "martinald"
+      "title": "OpenCV 5 Is Here: The Biggest Leap in Years for Computer Vision",
+      "url": "https://opencv.org/opencv-5/",
+      "hn_url": "https://news.ycombinator.com/item?id=48421858",
+      "score": 515,
+      "comments": 94,
+      "author": "ternaus"
     },
     {
       "rank": 11,
-      "title": "Show HN: Performative-UI – A react component library of design tropes",
-      "url": "https://vorpus.github.io/performativeUI/",
-      "hn_url": "https://news.ycombinator.com/item?id=48445554",
-      "score": 992,
-      "comments": 186,
-      "author": "lizhang"
+      "title": "Is Grep All You Need? How Agent Harnesses Reshape Agentic Search",
+      "url": "https://arxiv.org/abs/2605.15184",
+      "hn_url": "https://news.ycombinator.com/item?id=48460863",
+      "score": 48,
+      "comments": 25,
+      "author": "Anon84"
     },
     {
       "rank": 12,
-      "title": "Eagle Computer: The rise and fall of an early PC clone",
-      "url": "https://dfarq.homeip.net/eagle-computer-the-rise-and-fall-of-an-early-pc-clone/",
-      "hn_url": "https://news.ycombinator.com/item?id=48458636",
-      "score": 10,
-      "comments": 1,
-      "author": "giuliomagnifico"
+      "title": "Unified Controllable and Faithful Text-to-CAD Generation with LLMs",
+      "url": "https://arxiv.org/abs/2604.19773",
+      "hn_url": "https://news.ycombinator.com/item?id=48461311",
+      "score": 31,
+      "comments": 3,
+      "author": "PaulHoule"
     },
     {
       "rank": 13,
-      "title": "Old'aVista – The most powerful guide to the old Internet",
-      "url": "https://oldavista.com/",
-      "hn_url": "https://news.ycombinator.com/item?id=48447111",
-      "score": 112,
-      "comments": 25,
-      "author": "abnercoimbre"
+      "title": "Using Optical Aberrations to Distinguish Real Astronomical Transients",
+      "url": "https://arxiv.org/abs/2606.08319",
+      "hn_url": "https://news.ycombinator.com/item?id=48462184",
+      "score": 16,
+      "comments": 1,
+      "author": "solarist"
     },
     {
       "rank": 14,
-      "title": "EU-banned pesticides found in rice, tea and spices",
-      "url": "https://www.foodwatch.org/en/eu-banned-pesticides-found-in-rice-tea-and-spices",
-      "hn_url": "https://news.ycombinator.com/item?id=48447062",
-      "score": 433,
-      "comments": 209,
-      "author": "john-titor"
+      "title": "Show HN: Gravity – interactive solar-system simulator, from Newton to Einstein",
+      "url": "https://qunabu.github.io/Gravity/",
+      "hn_url": "https://news.ycombinator.com/item?id=48459837",
+      "score": 74,
+      "comments": 21,
+      "author": "qunabu"
     },
     {
       "rank": 15,
-      "title": "MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second",
-      "url": "https://mimo.xiaomi.com/blog/mimo-tilert-1000tps",
-      "hn_url": "https://news.ycombinator.com/item?id=48446639",
-      "score": 580,
-      "comments": 423,
-      "author": "gainsurier"
+      "title": "The iPhone's Last Stand?",
+      "url": "https://stratechery.com/2026/the-iphones-last-stand/",
+      "hn_url": "https://news.ycombinator.com/item?id=48459001",
+      "score": 98,
+      "comments": 145,
+      "author": "swolpers"
     },
     {
       "rank": 16,
-      "title": "The beauty and simplicity of the good old C-style void* in C++",
-      "url": "https://giodicanio.com/2026/06/05/how-to-declare-a-c-plus-plus-function-that-takes-a-blob-of-memory/",
-      "hn_url": "https://news.ycombinator.com/item?id=48427526",
-      "score": 10,
-      "comments": 17,
-      "author": "movd128"
+      "title": "Let's Encrypt bans certificate usage in any US sanctioned territory [pdf]",
+      "url": "https://letsencrypt.org/documents/LE-SA-v1.7-June-04-2026-diff.pdf",
+      "hn_url": "https://news.ycombinator.com/item?id=48453275",
+      "score": 79,
+      "comments": 63,
+      "author": "piskov"
     },
     {
       "rank": 17,
-      "title": "Apple Core AI Framework",
-      "url": "https://developer.apple.com/documentation/coreai/",
-      "hn_url": "https://news.ycombinator.com/item?id=48449665",
-      "score": 308,
-      "comments": 80,
-      "author": "hmokiguess"
+      "title": "Apple decided not to roll out Siri in EU after denied request for exemption",
+      "url": "https://www.reuters.com/business/apple-failed-make-its-ai-tool-comply-eu-regulations-eu-commission-says-2026-06-09/",
+      "hn_url": "https://news.ycombinator.com/item?id=48463024",
+      "score": 80,
+      "comments": 130,
+      "author": "flanged"
     },
     {
       "rank": 18,
-      "title": "Facebook is paying people overseas promoting Alberta separatism",
-      "url": "https://www.cbc.ca/news/canada/facebook-overseas-alberta-separtism-9.7223966",
-      "hn_url": "https://news.ycombinator.com/item?id=48457181",
-      "score": 170,
-      "comments": 73,
-      "author": "vrganj"
+      "title": "FCC Wants to Kill Burner Phones by Forcing Telecoms to Get All Customers' IDs",
+      "url": "https://www.404media.co/fcc-wants-to-kill-burner-phones-by-forcing-telecoms-to-get-all-customers-ids/",
+      "hn_url": "https://news.ycombinator.com/item?id=48462308",
+      "score": 101,
+      "comments": 74,
+      "author": "berlianta"
     },
     {
       "rank": 19,
-      "title": "Looking Forward to Postgres 19: Query Hints",
-      "url": "https://www.pgedge.com/blog/looking-forward-to-postgres-19-query-hints",
-      "hn_url": "https://news.ycombinator.com/item?id=48413655",
-      "score": 167,
-      "comments": 27,
-      "author": "jjgreen"
+      "title": "Forever Young: how one molecule can lock plants in a youthful state (2025)",
+      "url": "https://omnia.sas.upenn.edu/story/biologist-scott-poethig-plants-never-age",
+      "hn_url": "https://news.ycombinator.com/item?id=48458257",
+      "score": 100,
+      "comments": 61,
+      "author": "bryanrasmussen"
     },
     {
       "rank": 20,
-      "title": "Show HN: Gitdot – A better GitHub. Open-source, written in Rust",
-      "url": "https://gitdot.io/",
-      "hn_url": "https://news.ycombinator.com/item?id=48447806",
-      "score": 267,
-      "comments": 247,
-      "author": "baepaul"
+      "title": "Apple reveals new AI architecture built around Google Gemini models",
+      "url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
+      "hn_url": "https://news.ycombinator.com/item?id=48450142",
+      "score": 694,
+      "comments": 535,
+      "author": "unclefuzzy"
     },
     {
       "rank": 21,
-      "title": "Ask HN: What are tools you have made for yourself since the advent of AI?",
-      "url": "https://news.ycombinator.com/item?id=48449187",
-      "hn_url": "https://news.ycombinator.com/item?id=48449187",
-      "score": 317,
-      "comments": 522,
-      "author": "aryamaan"
+      "title": "Show HN: Learn from 30 historical figures, open source, nonprofit, self-hosted",
+      "url": "https://github.com/chipmates/agoracosmica",
+      "hn_url": "https://news.ycombinator.com/item?id=48459913",
+      "score": 4,
+      "comments": 0,
+      "author": "micstradev"
     },
     {
       "rank": 22,
-      "title": "Passing DBs through continuations",
-      "url": "https://remy.wang/blog/cps.html",
-      "hn_url": "https://news.ycombinator.com/item?id=48430821",
-      "score": 58,
-      "comments": 6,
-      "author": "remywang"
+      "title": "The Effective Sample Size",
+      "url": "https://alex.smola.org/posts/40-effective-sample-size/",
+      "hn_url": "https://news.ycombinator.com/item?id=48402936",
+      "score": 10,
+      "comments": 1,
+      "author": "jxmorris12"
     },
     {
       "rank": 23,
-      "title": "H2JVM – A Haskell Library for Writing JVM Bytecode",
-      "url": "https://discourse.haskell.org/t/h2jvm-a-haskell-library-for-writing-jvm-bytecode/14182",
-      "hn_url": "https://news.ycombinator.com/item?id=48433356",
-      "score": 8,
-      "comments": 0,
-      "author": "rowbin"
+      "title": "Thi.ng – open-source building blocks for computational design and art",
+      "url": "https://thi.ng",
+      "hn_url": "https://news.ycombinator.com/item?id=48437743",
+      "score": 149,
+      "comments": 20,
+      "author": "nmstoker"
     },
     {
       "rank": 24,
-      "title": "FrontierCode",
-      "url": "https://cognition.ai/blog/frontier-code",
-      "hn_url": "https://news.ycombinator.com/item?id=48451723",
-      "score": 202,
-      "comments": 35,
-      "author": "streamer45"
+      "title": "Cleaning up after AI rockstar developers",
+      "url": "https://www.codingwithjesse.com/blog/rockstar-developers/",
+      "hn_url": "https://news.ycombinator.com/item?id=48458586",
+      "score": 323,
+      "comments": 237,
+      "author": "BrunoBernardino"
     }
   ]
 }
