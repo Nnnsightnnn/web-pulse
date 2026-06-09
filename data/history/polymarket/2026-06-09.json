@@ -1,0 +1,169 @@
+{
+  "source": "polymarket",
+  "label": "Polymarket — top 24h volume",
+  "fetched_at": "2026-06-09T11:08:39.343Z",
+  "items": [
+    {
+      "rank": 1,
+      "title": "Will Roberto Sánchez Palomino win the 2026 Peruvian presidential election?",
+      "url": "https://polymarket.com/event/peru-presidential-election-winner",
+      "volume_24h": 5581520.799577985,
+      "volume_total": 23969313.421953216,
+      "liquidity": 324334.55619,
+      "yes_price": 0.0525,
+      "leader": {
+        "name": "No",
+        "price": 0.9475
+      },
+      "end_date": "2026-06-07T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Will Sweden win the 2026 FIFA World Cup?",
+      "url": "https://polymarket.com/event/world-cup-winner",
+      "volume_24h": 2784145.9302410004,
+      "volume_total": 25287547.88579418,
+      "liquidity": 8748314.75448,
+      "yes_price": 0.0035,
+      "leader": {
+        "name": "No",
+        "price": 0.9965
+      },
+      "end_date": "2026-07-20T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "US x Iran permanent peace deal by December 31, 2026?",
+      "url": "https://polymarket.com/event/us-x-iran-permanent-peace-deal-by",
+      "volume_24h": 2075275.5504699969,
+      "volume_total": 9107818.822995035,
+      "liquidity": 490056.3881,
+      "yes_price": 0.685,
+      "leader": {
+        "name": "Yes",
+        "price": 0.685
+      },
+      "end_date": "2026-12-31T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Iran closes its airspace by June 8?",
+      "url": "https://polymarket.com/event/iran-closes-its-airspace-by",
+      "volume_24h": 1927171.420235,
+      "volume_total": 10344257.463117052,
+      "liquidity": 4581698.15849,
+      "yes_price": 0.9995,
+      "leader": {
+        "name": "Yes",
+        "price": 0.9995
+      },
+      "end_date": "2026-06-08T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Will the New York Knicks win the 2026 NBA Finals?",
+      "url": "https://polymarket.com/event/2026-nba-champion",
+      "volume_24h": 1465264.325795003,
+      "volume_total": 25448443.78524922,
+      "liquidity": 373209.24988,
+      "yes_price": 0.6225,
+      "leader": {
+        "name": "Yes",
+        "price": 0.6225
+      },
+      "end_date": "2026-07-01T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Will Tyreek Hill play for the Chicago Bears next?",
+      "url": "https://polymarket.com/event/where-will-tyreek-hill-play-in-2026",
+      "volume_24h": 1376606.01,
+      "volume_total": 1887033.695,
+      "liquidity": 2749.28859,
+      "yes_price": 0.0055,
+      "leader": {
+        "name": "No",
+        "price": 0.9945
+      },
+      "end_date": "2026-08-31T23:55:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Will there be no change in Fed interest rates after the June 2026 meeting?",
+      "url": "https://polymarket.com/event/fed-decision-in-june-825",
+      "volume_24h": 1206192.941412003,
+      "volume_total": 13193220.739387868,
+      "liquidity": 1039058.65101,
+      "yes_price": 0.9905,
+      "leader": {
+        "name": "Yes",
+        "price": 0.9905
+      },
+      "end_date": "2026-06-17T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Syria leading at halftime?",
+      "url": "https://polymarket.com/event/fif-bah1-syr-2026-06-09-halftime-result",
+      "volume_24h": 880218.5400090001,
+      "volume_total": 894552.1122369999,
+      "liquidity": 3253636.68296,
+      "yes_price": 0.0005,
+      "leader": {
+        "name": "No",
+        "price": 0.9995
+      },
+      "end_date": "2026-06-09T14:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Will Vitality win IEM Cologne Major 2026?",
+      "url": "https://polymarket.com/event/iem-cologne-major-2026-winner",
+      "volume_24h": 712643.1086130018,
+      "volume_total": 1228861.92483,
+      "liquidity": 224664.0559,
+      "yes_price": 0.465,
+      "leader": {
+        "name": "No",
+        "price": 0.535
+      },
+      "end_date": "2026-06-21T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    }
+  ]
+}
