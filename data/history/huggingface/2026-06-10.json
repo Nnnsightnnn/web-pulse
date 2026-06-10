@@ -1,0 +1,282 @@
+{
+  "source": "huggingface",
+  "label": "Hugging Face — trending models",
+  "fetched_at": "2026-06-10T13:13:25.257Z",
+  "items": [
+    {
+      "rank": 1,
+      "title": "google/gemma-4-12B-it",
+      "url": "https://huggingface.co/google/gemma-4-12B-it",
+      "author": "google",
+      "downloads": 581354,
+      "likes": 856,
+      "trending_score": 771,
+      "pipeline_tag": "any-to-any",
+      "last_modified": "2026-06-04T11:58:10.000Z"
+    },
+    {
+      "rank": 2,
+      "title": "nvidia/LocateAnything-3B",
+      "url": "https://huggingface.co/nvidia/LocateAnything-3B",
+      "author": "nvidia",
+      "downloads": 123922,
+      "likes": 1775,
+      "trending_score": 637,
+      "pipeline_tag": "image-text-to-text",
+      "last_modified": "2026-06-08T19:55:10.000Z"
+    },
+    {
+      "rank": 3,
+      "title": "unsloth/gemma-4-12b-it-GGUF",
+      "url": "https://huggingface.co/unsloth/gemma-4-12b-it-GGUF",
+      "author": "unsloth",
+      "downloads": 660140,
+      "likes": 541,
+      "trending_score": 500,
+      "pipeline_tag": "image-text-to-text",
+      "last_modified": "2026-06-09T15:32:24.000Z"
+    },
+    {
+      "rank": 4,
+      "title": "google/gemma-4-12B",
+      "url": "https://huggingface.co/google/gemma-4-12B",
+      "author": "google",
+      "downloads": 122464,
+      "likes": 494,
+      "trending_score": 459,
+      "pipeline_tag": "any-to-any",
+      "last_modified": "2026-06-04T11:58:12.000Z"
+    },
+    {
+      "rank": 5,
+      "title": "ideogram-ai/ideogram-4-fp8",
+      "url": "https://huggingface.co/ideogram-ai/ideogram-4-fp8",
+      "author": "ideogram-ai",
+      "downloads": 5915,
+      "likes": 457,
+      "trending_score": 435,
+      "pipeline_tag": "text-to-image",
+      "last_modified": "2026-06-03T18:34:44.000Z"
+    },
+    {
+      "rank": 6,
+      "title": "bosonai/higgs-audio-v3-tts-4b",
+      "url": "https://huggingface.co/bosonai/higgs-audio-v3-tts-4b",
+      "author": "bosonai",
+      "downloads": 16207,
+      "likes": 304,
+      "trending_score": 300,
+      "pipeline_tag": "text-to-speech",
+      "last_modified": "2026-06-05T01:12:34.000Z"
+    },
+    {
+      "rank": 7,
+      "title": "ideogram-ai/ideogram-4-nf4",
+      "url": "https://huggingface.co/ideogram-ai/ideogram-4-nf4",
+      "author": "ideogram-ai",
+      "downloads": 5250,
+      "likes": 300,
+      "trending_score": 288,
+      "pipeline_tag": "text-to-image",
+      "last_modified": "2026-06-04T18:59:26.000Z"
+    },
+    {
+      "rank": 8,
+      "title": "nvidia/nemotron-3.5-asr-streaming-0.6b",
+      "url": "https://huggingface.co/nvidia/nemotron-3.5-asr-streaming-0.6b",
+      "author": "nvidia",
+      "downloads": 4181,
+      "likes": 331,
+      "trending_score": 282,
+      "pipeline_tag": "automatic-speech-recognition",
+      "last_modified": "2026-06-05T21:59:07.000Z"
+    },
+    {
+      "rank": 9,
+      "title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "url": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "author": "HauhauCS",
+      "downloads": 2983909,
+      "likes": 1615,
+      "trending_score": 249,
+      "pipeline_tag": "image-text-to-text",
+      "last_modified": "2026-04-17T02:59:21.000Z"
+    },
+    {
+      "rank": 10,
+      "title": "sapientinc/HRM-Text-1B",
+      "url": "https://huggingface.co/sapientinc/HRM-Text-1B",
+      "author": "sapientinc",
+      "downloads": 133351,
+      "likes": 739,
+      "trending_score": 230,
+      "pipeline_tag": "text-generation",
+      "last_modified": "2026-05-21T05:57:38.000Z"
+    },
+    {
+      "rank": 11,
+      "title": "CohereLabs/North-Mini-Code-1.0",
+      "url": "https://huggingface.co/CohereLabs/North-Mini-Code-1.0",
+      "author": "CohereLabs",
+      "downloads": 1784,
+      "likes": 214,
+      "trending_score": 210,
+      "pipeline_tag": "text-generation",
+      "last_modified": "2026-06-09T16:43:11.000Z"
+    },
+    {
+      "rank": 12,
+      "title": "nvidia/NVIDIA-Nemotron-3-Ultra-550B-A55B-BF16",
+      "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Ultra-550B-A55B-BF16",
+      "author": "nvidia",
+      "downloads": 56864,
+      "likes": 183,
+      "trending_score": 178,
+      "pipeline_tag": "text-generation",
+      "last_modified": "2026-06-10T05:26:20.000Z"
+    },
+    {
+      "rank": 13,
+      "title": "MisoLabs/MisoTTS",
+      "url": "https://huggingface.co/MisoLabs/MisoTTS",
+      "author": "MisoLabs",
+      "downloads": 0,
+      "likes": 181,
+      "trending_score": 175,
+      "pipeline_tag": "text-to-speech",
+      "last_modified": "2026-06-02T11:35:19.000Z"
+    },
+    {
+      "rank": 14,
+      "title": "OBLITERATUS/Gemma-4-12B-OBLITERATED",
+      "url": "https://huggingface.co/OBLITERATUS/Gemma-4-12B-OBLITERATED",
+      "author": "OBLITERATUS",
+      "downloads": 8106,
+      "likes": 190,
+      "trending_score": 173,
+      "pipeline_tag": "text-generation",
+      "last_modified": "2026-06-09T10:55:06.000Z"
+    },
+    {
+      "rank": 15,
+      "title": "unsloth/gemma-4-12B-it-qat-GGUF",
+      "url": "https://huggingface.co/unsloth/gemma-4-12B-it-qat-GGUF",
+      "author": "unsloth",
+      "downloads": 127332,
+      "likes": 177,
+      "trending_score": 169,
+      "pipeline_tag": "any-to-any",
+      "last_modified": "2026-06-10T11:44:14.000Z"
+    },
+    {
+      "rank": 16,
+      "title": "nex-agi/Nex-N2-Pro",
+      "url": "https://huggingface.co/nex-agi/Nex-N2-Pro",
+      "author": "nex-agi",
+      "downloads": 783,
+      "likes": 170,
+      "trending_score": 167,
+      "pipeline_tag": "text-generation",
+      "last_modified": "2026-06-08T19:03:50.000Z"
+    },
+    {
+      "rank": 17,
+      "title": "google/magenta-realtime-2",
+      "url": "https://huggingface.co/google/magenta-realtime-2",
+      "author": "google",
+      "downloads": 18216,
+      "likes": 166,
+      "trending_score": 163,
+      "pipeline_tag": "text-to-audio",
+      "last_modified": "2026-06-04T22:29:40.000Z"
+    },
+    {
+      "rank": 18,
+      "title": "nvidia/NVIDIA-Nemotron-3-Ultra-550B-A55B-NVFP4",
+      "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Ultra-550B-A55B-NVFP4",
+      "author": "nvidia",
+      "downloads": 71818,
+      "likes": 156,
+      "trending_score": 152,
+      "pipeline_tag": "text-generation",
+      "last_modified": "2026-06-10T05:43:40.000Z"
+    },
+    {
+      "rank": 19,
+      "title": "stepfun-ai/Step-3.7-Flash",
+      "url": "https://huggingface.co/stepfun-ai/Step-3.7-Flash",
+      "author": "stepfun-ai",
+      "downloads": 46729,
+      "likes": 362,
+      "trending_score": 135,
+      "pipeline_tag": "image-text-to-text",
+      "last_modified": "2026-06-03T04:11:57.000Z"
+    },
+    {
+      "rank": 20,
+      "title": "nex-agi/Nex-N2-mini",
+      "url": "https://huggingface.co/nex-agi/Nex-N2-mini",
+      "author": "nex-agi",
+      "downloads": 748,
+      "likes": 127,
+      "trending_score": 126,
+      "pipeline_tag": "text-generation",
+      "last_modified": "2026-06-08T19:04:52.000Z"
+    },
+    {
+      "rank": 21,
+      "title": "ByteDance/Bernini-R",
+      "url": "https://huggingface.co/ByteDance/Bernini-R",
+      "author": "ByteDance",
+      "downloads": 281,
+      "likes": 203,
+      "trending_score": 118,
+      "pipeline_tag": "image-text-to-video",
+      "last_modified": "2026-06-02T09:04:50.000Z"
+    },
+    {
+      "rank": 22,
+      "title": "unsloth/gemma-4-26B-A4B-it-qat-GGUF",
+      "url": "https://huggingface.co/unsloth/gemma-4-26B-A4B-it-qat-GGUF",
+      "author": "unsloth",
+      "downloads": 96059,
+      "likes": 123,
+      "trending_score": 118,
+      "pipeline_tag": "image-text-to-text",
+      "last_modified": "2026-06-10T11:44:18.000Z"
+    },
+    {
+      "rank": 23,
+      "title": "LiquidAI/LFM2.5-8B-A1B",
+      "url": "https://huggingface.co/LiquidAI/LFM2.5-8B-A1B",
+      "author": "LiquidAI",
+      "downloads": 137138,
+      "likes": 578,
+      "trending_score": 117,
+      "pipeline_tag": "text-generation",
+      "last_modified": "2026-06-05T23:10:36.000Z"
+    },
+    {
+      "rank": 24,
+      "title": "Comfy-Org/Ideogram-4",
+      "url": "https://huggingface.co/Comfy-Org/Ideogram-4",
+      "author": "Comfy-Org",
+      "downloads": 0,
+      "likes": 120,
+      "trending_score": 117,
+      "pipeline_tag": null,
+      "last_modified": "2026-06-05T09:32:33.000Z"
+    },
+    {
+      "rank": 25,
+      "title": "deepseek-ai/DeepSeek-V4-Pro",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro",
+      "author": "deepseek-ai",
+      "downloads": 4302553,
+      "likes": 4750,
+      "trending_score": 114,
+      "pipeline_tag": "text-generation",
+      "last_modified": "2026-06-08T06:02:44.000Z"
+    }
+  ]
+}

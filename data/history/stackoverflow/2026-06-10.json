@@ -1,0 +1,335 @@
+{
+  "source": "stackoverflow",
+  "label": "Stack Overflow — hot questions",
+  "fetched_at": "2026-06-10T13:13:25.474Z",
+  "items": [
+    {
+      "rank": 1,
+      "title": "QT QML Android Edge-to-Edge (notch screen) setup",
+      "url": "https://stackoverflow.com/questions/79956027/qt-qml-android-edge-to-edge-notch-screen-setup",
+      "score": 0,
+      "answers": 0,
+      "views": 11,
+      "tags": [
+        "android",
+        "c++",
+        "qt",
+        "qml"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "My FTP server is not recognizing or loading my website correctly",
+      "url": "https://stackoverflow.com/questions/79955998/my-ftp-server-is-not-recognizing-or-loading-my-website-correctly",
+      "score": -6,
+      "answers": 0,
+      "views": 45,
+      "tags": [
+        "node-modules",
+        "ftp-client",
+        "ftp-server"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "What Salesforce architecture and tools should we use to scale our sales operations?",
+      "url": "https://stackoverflow.com/questions/79956009/what-salesforce-architecture-and-tools-should-we-use-to-scale-our-sales-operatio",
+      "score": 1,
+      "answers": 1,
+      "views": 32,
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "What are public test suites for C printf implementations?",
+      "url": "https://stackoverflow.com/questions/79956008/what-are-public-test-suites-for-c-printf-implementations",
+      "score": 0,
+      "answers": 0,
+      "views": 30,
+      "tags": [
+        "c",
+        "unit-testing",
+        "printf"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "How should we design a multi-tenant SaaS architecture for a scalable product engineering platform?",
+      "url": "https://stackoverflow.com/questions/79956015/how-should-we-design-a-multi-tenant-saas-architecture-for-a-scalable-product-eng",
+      "score": 0,
+      "answers": 2,
+      "views": 13,
+      "tags": [
+        "database-design",
+        "architecture",
+        "multi-tenant",
+        "scalability",
+        "saas"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "in Dart why does String start with capital letters and not the other types",
+      "url": "https://stackoverflow.com/questions/79956016/in-dart-why-does-string-start-with-capital-letters-and-not-the-other-types",
+      "score": 0,
+      "answers": 0,
+      "views": 11,
+      "tags": [
+        "string",
+        "dart",
+        "object",
+        "oop",
+        "types"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "string literals and constexpr string msg = format(...) with GCC C++23",
+      "url": "https://stackoverflow.com/questions/79955996/string-literals-and-constexpr-string-msg-format-with-gcc-c23",
+      "score": 1,
+      "answers": 0,
+      "views": 59,
+      "tags": [
+        "c++",
+        "gcc",
+        "format",
+        "string-literals",
+        "c++23"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Pandas DataFrame difference bug?",
+      "url": "https://stackoverflow.com/questions/79955993/pandas-dataframe-difference-bug",
+      "score": 0,
+      "answers": 1,
+      "views": 58,
+      "tags": [
+        "python",
+        "pandas",
+        "dataframe"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Why can't I debug on 64-bit mode?",
+      "url": "https://stackoverflow.com/questions/79955990/why-cant-i-debug-on-64-bit-mode",
+      "score": -3,
+      "answers": 0,
+      "views": 55,
+      "tags": [
+        "delphi",
+        "delphi-12-athens"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "I don't understand what they are referring to by deprecated is the global declaration of x is what is deprecated?",
+      "url": "https://stackoverflow.com/questions/79955968/i-dont-understand-what-they-are-referring-to-by-deprecated-is-the-global-declar",
+      "score": -2,
+      "answers": 2,
+      "views": 109,
+      "tags": [
+        "c++",
+        "gcc"
+      ]
+    },
+    {
+      "rank": 11,
+      "title": "Can't make a request to web API on local machine from handheld running Flutter",
+      "url": "https://stackoverflow.com/questions/79956002/cant-make-a-request-to-web-api-on-local-machine-from-handheld-running-flutter",
+      "score": -1,
+      "answers": 1,
+      "views": 45,
+      "tags": [
+        "android",
+        "typescript",
+        "flutter",
+        "express"
+      ]
+    },
+    {
+      "rank": 12,
+      "title": "Stripe Multi-Currency Subscription Limitation - Looking for Best Practice",
+      "url": "https://stackoverflow.com/questions/79955959/stripe-multi-currency-subscription-limitation-looking-for-best-practice",
+      "score": -3,
+      "answers": 0,
+      "views": 51,
+      "tags": [
+        "stripe-payments",
+        "strip",
+        "stripe-customers"
+      ]
+    },
+    {
+      "rank": 13,
+      "title": "httpclient and (decorating) middleware in golang",
+      "url": "https://stackoverflow.com/questions/79955981/httpclient-and-decorating-middleware-in-golang",
+      "score": 0,
+      "answers": 0,
+      "views": 40,
+      "tags": [
+        "go",
+        "decorator",
+        "http.client"
+      ]
+    },
+    {
+      "rank": 14,
+      "title": "How can I override the system-ui font in Firefox on GNOME?",
+      "url": "https://stackoverflow.com/questions/79955972/how-can-i-override-the-system-ui-font-in-firefox-on-gnome",
+      "score": 0,
+      "answers": 0,
+      "views": 36,
+      "tags": [
+        "user-interface",
+        "firefox",
+        "fonts"
+      ]
+    },
+    {
+      "rank": 15,
+      "title": "Google Map opening issue using Linking.canOpenURL(url)",
+      "url": "https://stackoverflow.com/questions/79955978/google-map-opening-issue-using-linking-canopenurlurl",
+      "score": 0,
+      "answers": 0,
+      "views": 41,
+      "tags": [
+        "react-native",
+        "google-maps",
+        "http-redirect"
+      ]
+    },
+    {
+      "rank": 16,
+      "title": "Why does pathlib.Path.mkdir() raise FileNotFoundError when creating nested directories?",
+      "url": "https://stackoverflow.com/questions/79955945/why-does-pathlib-path-mkdir-raise-filenotfounderror-when-creating-nested-direc",
+      "score": -4,
+      "answers": 1,
+      "views": 91,
+      "tags": [
+        "python"
+      ]
+    },
+    {
+      "rank": 17,
+      "title": "How do I make my Neovim open specific file instead of splash screen when I execute \"nvim\" in my shell?",
+      "url": "https://stackoverflow.com/questions/79955929/how-do-i-make-my-neovim-open-specific-file-instead-of-splash-screen-when-i-execu",
+      "score": 0,
+      "answers": 2,
+      "views": 53,
+      "tags": [
+        "lua",
+        "neovim"
+      ]
+    },
+    {
+      "rank": 18,
+      "title": "explanations about -Wuseless-cast behavior",
+      "url": "https://stackoverflow.com/questions/79955925/explanations-about-wuseless-cast-behavior",
+      "score": 1,
+      "answers": 1,
+      "views": 107,
+      "tags": [
+        "c++",
+        "casting",
+        "g++",
+        "warnings",
+        "gcc-warning"
+      ]
+    },
+    {
+      "rank": 19,
+      "title": "R8/ProGuard-My flutter app runs fines when I install via vs code but a certain page crashes when installed via play store via internal testing",
+      "url": "https://stackoverflow.com/questions/79955930/r8-proguard-my-flutter-app-runs-fines-when-i-install-via-vs-code-but-a-certain-p",
+      "score": 1,
+      "answers": 0,
+      "views": 58,
+      "tags": [
+        "flutter",
+        "google-play-console"
+      ]
+    },
+    {
+      "rank": 20,
+      "title": "Next.js 16 PPR: /api/og route logs \"needs to bail out of prerendering\" on every build",
+      "url": "https://stackoverflow.com/questions/79955908/next-js-16-ppr-api-og-route-logs-needs-to-bail-out-of-prerendering-on-every",
+      "score": 0,
+      "answers": 2,
+      "views": 52,
+      "tags": [
+        "next.js",
+        "caching",
+        "pre-rendering",
+        "open-graph-beta"
+      ]
+    },
+    {
+      "rank": 21,
+      "title": "Airflow 3.2.2 default email options not being loaded correctly",
+      "url": "https://stackoverflow.com/questions/79955936/airflow-3-2-2-default-email-options-not-being-loaded-correctly",
+      "score": -1,
+      "answers": 0,
+      "views": 46,
+      "tags": [
+        "email",
+        "airflow"
+      ]
+    },
+    {
+      "rank": 22,
+      "title": "How can I include only specific classes from a library instead of adding the entire dependency in Gradle?",
+      "url": "https://stackoverflow.com/questions/79955883/how-can-i-include-only-specific-classes-from-a-library-instead-of-adding-the-ent",
+      "score": 1,
+      "answers": 2,
+      "views": 83,
+      "tags": [
+        "java",
+        "spring-boot",
+        "gradle"
+      ]
+    },
+    {
+      "rank": 23,
+      "title": "Creating crcc based on etsi standard",
+      "url": "https://stackoverflow.com/questions/79955906/creating-crcc-based-on-etsi-standard",
+      "score": -3,
+      "answers": 0,
+      "views": 62,
+      "tags": [
+        "c",
+        "crc",
+        "crc16"
+      ]
+    },
+    {
+      "rank": 24,
+      "title": "Ptrace is slow, Is there any faster alternative syscall that is faster and doesnt pauses the process",
+      "url": "https://stackoverflow.com/questions/79955854/ptrace-is-slow-is-there-any-faster-alternative-syscall-that-is-faster-and-doesn",
+      "score": -2,
+      "answers": 1,
+      "views": 60,
+      "tags": [
+        "debugging",
+        "memory",
+        "ptrace"
+      ]
+    },
+    {
+      "rank": 25,
+      "title": "Replicating the iOS 26 Tab Bar: Components, Animations, and Dimensions",
+      "url": "https://stackoverflow.com/questions/79955881/replicating-the-ios-26-tab-bar-components-animations-and-dimensions",
+      "score": 0,
+      "answers": 1,
+      "views": 59,
+      "tags": [
+        "ios",
+        "swift",
+        "swiftui",
+        "tabs"
+      ]
+    }
+  ]
+}
