@@ -1,0 +1,331 @@
+{
+  "source": "stackoverflow",
+  "label": "Stack Overflow — hot questions",
+  "fetched_at": "2026-06-16T12:06:53.074Z",
+  "items": [
+    {
+      "rank": 1,
+      "title": "Where is the GAP?",
+      "url": "https://stackoverflow.com/questions/79960600/where-is-the-gap",
+      "score": 0,
+      "answers": 2,
+      "views": 34,
+      "tags": [
+        "saas"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "In Laravel, when should I use Controllers, Services, Actions, Repositories, Model?",
+      "url": "https://stackoverflow.com/questions/79960601/in-laravel-when-should-i-use-controllers-services-actions-repositories-mode",
+      "score": 1,
+      "answers": 1,
+      "views": 20,
+      "tags": [
+        "php",
+        "laravel",
+        "design-patterns",
+        "architecture",
+        "frameworks"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "In Delphi use implements directive with a generic type",
+      "url": "https://stackoverflow.com/questions/79960604/in-delphi-use-implements-directive-with-a-generic-type",
+      "score": 0,
+      "answers": 0,
+      "views": 19,
+      "tags": [
+        "delphi",
+        "generics"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Ignore the current project's files in golangci-lint's wrapcheck configuration",
+      "url": "https://stackoverflow.com/questions/79960610/ignore-the-current-projects-files-in-golangci-lints-wrapcheck-configuration",
+      "score": 0,
+      "answers": 1,
+      "views": 18,
+      "tags": [
+        "golangci-lint"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Unable to Disable AMFI on macOS Despite SIP and Authenticated Root Being Disabled",
+      "url": "https://stackoverflow.com/questions/79960605/unable-to-disable-amfi-on-macos-despite-sip-and-authenticated-root-being-disable",
+      "score": -1,
+      "answers": 0,
+      "views": 16,
+      "tags": [
+        "macos",
+        "macos-tahoe"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Cards inside Reactable Details Pane",
+      "url": "https://stackoverflow.com/questions/79960609/cards-inside-reactable-details-pane",
+      "score": 0,
+      "answers": 0,
+      "views": 12,
+      "tags": [
+        "r",
+        "shiny",
+        "reactable"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Recover deleted private videos from OPPO A15s after factory reset",
+      "url": "https://stackoverflow.com/questions/79960579/recover-deleted-private-videos-from-oppo-a15s-after-factory-reset",
+      "score": 0,
+      "answers": 2,
+      "views": 44,
+      "tags": [
+        "android",
+        "encryption",
+        "storage",
+        "data-recovery",
+        "file-recovery"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Why does the Handle count in C# Windows/WPF application keep increasing while idle?",
+      "url": "https://stackoverflow.com/questions/79960560/why-does-the-handle-count-in-c-windows-wpf-application-keep-increasing-while-id",
+      "score": 1,
+      "answers": 0,
+      "views": 43,
+      "tags": [
+        "c#",
+        ".net",
+        "wpf",
+        "memory-leaks"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Sudo password echoed in plain text when running command in background with '&'",
+      "url": "https://stackoverflow.com/questions/79960592/sudo-password-echoed-in-plain-text-when-running-command-in-background-with",
+      "score": -3,
+      "answers": 0,
+      "views": 30,
+      "tags": [
+        "linux",
+        "bash",
+        "ubuntu",
+        "terminal",
+        "sudo"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Writing to a buffer of unknown size in a compute shader",
+      "url": "https://stackoverflow.com/questions/79960561/writing-to-a-buffer-of-unknown-size-in-a-compute-shader",
+      "score": 0,
+      "answers": 0,
+      "views": 30,
+      "tags": [
+        "opengl",
+        "gpu",
+        "glsl",
+        "compute-shader",
+        "opengl-4"
+      ]
+    },
+    {
+      "rank": 11,
+      "title": "Best approach for role-based access control in a healthcare platform with overlapping permissions?",
+      "url": "https://stackoverflow.com/questions/79960577/best-approach-for-role-based-access-control-in-a-healthcare-platform-with-overla",
+      "score": -3,
+      "answers": 1,
+      "views": 45,
+      "tags": [
+        "web-applications",
+        "architecture",
+        "authorization",
+        "access-control",
+        "rbac"
+      ]
+    },
+    {
+      "rank": 12,
+      "title": "Goroutines leaking after context cancellation in fan-out/fan-in worker pool",
+      "url": "https://stackoverflow.com/questions/79960574/goroutines-leaking-after-context-cancellation-in-fan-out-fan-in-worker-pool",
+      "score": 0,
+      "answers": 0,
+      "views": 27,
+      "tags": [
+        "go",
+        "concurrency",
+        "goroutine",
+        "context"
+      ]
+    },
+    {
+      "rank": 13,
+      "title": "VS Code terminal cannot see project files but external PowerShell can - same path",
+      "url": "https://stackoverflow.com/questions/79960570/vs-code-terminal-cannot-see-project-files-but-external-powershell-can-same-pat",
+      "score": 0,
+      "answers": 0,
+      "views": 26,
+      "tags": [
+        "powershell",
+        "visual-studio-code"
+      ]
+    },
+    {
+      "rank": 14,
+      "title": "Autodesk AutoCAD Mechanical 2024 installer fails to launch on Windows 10",
+      "url": "https://stackoverflow.com/questions/79960568/autodesk-autocad-mechanical-2024-installer-fails-to-launch-on-windows-10",
+      "score": -2,
+      "answers": 0,
+      "views": 24,
+      "tags": [
+        "autocad",
+        "autodesk"
+      ]
+    },
+    {
+      "rank": 15,
+      "title": "NetBeans Compile on Save / Copy Static Resources on Save not working with Spring Boot 4?",
+      "url": "https://stackoverflow.com/questions/79960555/netbeans-compile-on-save-copy-static-resources-on-save-not-working-with-spring",
+      "score": 0,
+      "answers": 0,
+      "views": 23,
+      "tags": [
+        "spring-boot",
+        "netbeans",
+        "thymeleaf"
+      ]
+    },
+    {
+      "rank": 16,
+      "title": "What programming language was used to make the black edition of Need for Speed: Most Wanted (2005)?",
+      "url": "https://stackoverflow.com/questions/79960511/what-programming-language-was-used-to-make-the-black-edition-of-need-for-speed",
+      "score": 0,
+      "answers": 6,
+      "views": 129,
+      "tags": [
+        "c++",
+        "3d",
+        "game-development"
+      ]
+    },
+    {
+      "rank": 17,
+      "title": "Ionic Angular ion-input doesn't reset visually when using reactive forms programmatically",
+      "url": "https://stackoverflow.com/questions/79960566/ionic-angular-ion-input-doesnt-reset-visually-when-using-reactive-forms-program",
+      "score": 2,
+      "answers": 0,
+      "views": 19,
+      "tags": [
+        "angular",
+        "ionic-framework",
+        "input"
+      ]
+    },
+    {
+      "rank": 18,
+      "title": "How to build the technical stack and architecture of an on-demand car wash application?",
+      "url": "https://stackoverflow.com/questions/79960535/how-to-build-the-technical-stack-and-architecture-of-an-on-demand-car-wash-appli",
+      "score": 0,
+      "answers": 1,
+      "views": 62,
+      "tags": [
+        "python"
+      ]
+    },
+    {
+      "rank": 19,
+      "title": "why dd don't read enough count from pipe then exit",
+      "url": "https://stackoverflow.com/questions/79960551/why-dd-dont-read-enough-count-from-pipe-then-exit",
+      "score": 0,
+      "answers": 1,
+      "views": 37,
+      "tags": [
+        "dd"
+      ]
+    },
+    {
+      "rank": 20,
+      "title": "Azure Container Apps OpenSearch security plugin not working over HTTP internal ingress (HTTPS → HTTP mismatch)",
+      "url": "https://stackoverflow.com/questions/79960569/azure-container-apps-opensearch-security-plugin-not-working-over-http-internal-i",
+      "score": 0,
+      "answers": 0,
+      "views": 11,
+      "tags": [
+        "asp.net",
+        "azure",
+        "opensearch",
+        "azure-container-apps"
+      ]
+    },
+    {
+      "rank": 21,
+      "title": "Legacy SQL Server jobs for data migration issues",
+      "url": "https://stackoverflow.com/questions/79960531/legacy-sql-server-jobs-for-data-migration-issues",
+      "score": -1,
+      "answers": 0,
+      "views": 59,
+      "tags": [
+        "sql-server",
+        "sql-server-2008-r2"
+      ]
+    },
+    {
+      "rank": 22,
+      "title": "How can I avoid using LLMs as a software developer?",
+      "url": "https://stackoverflow.com/questions/79948695/how-can-i-avoid-using-llms-as-a-software-developer",
+      "score": 116,
+      "answers": 170,
+      "views": 8349,
+      "tags": [
+        "large-language-model"
+      ]
+    },
+    {
+      "rank": 23,
+      "title": "Splitting NCLOB up for insert statement",
+      "url": "https://stackoverflow.com/questions/79960554/splitting-nclob-up-for-insert-statement",
+      "score": 0,
+      "answers": 0,
+      "views": 16,
+      "tags": [
+        "plsql",
+        "oracle-sqldeveloper"
+      ]
+    },
+    {
+      "rank": 24,
+      "title": "Is it best to stick with UTC times?",
+      "url": "https://stackoverflow.com/questions/79959348/is-it-best-to-stick-with-utc-times",
+      "score": 6,
+      "answers": 2,
+      "views": 308,
+      "tags": [
+        "c++",
+        "c++20",
+        "c++-chrono"
+      ]
+    },
+    {
+      "rank": 25,
+      "title": "The mobile hamburger menu isn’t displaying or styling correctly with the current CSS",
+      "url": "https://stackoverflow.com/questions/79960478/the-mobile-hamburger-menu-isn-t-displaying-or-styling-correctly-with-the-current",
+      "score": -1,
+      "answers": 1,
+      "views": 62,
+      "tags": [
+        "javascript",
+        "html",
+        "css",
+        "drop-down-menu",
+        "hamburger-menu"
+      ]
+    }
+  ]
+}
