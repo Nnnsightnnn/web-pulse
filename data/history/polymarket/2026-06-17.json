@@ -1,0 +1,133 @@
+{
+  "source": "polymarket",
+  "label": "Polymarket — top 24h volume",
+  "fetched_at": "2026-06-17T09:13:59.358Z",
+  "items": [
+    {
+      "rank": 1,
+      "title": "US x Iran permanent peace deal by June 15, 2026?",
+      "url": "https://polymarket.com/event/us-x-iran-permanent-peace-deal-by",
+      "volume_24h": 21809354.823046006,
+      "volume_total": 95383049.54337114,
+      "liquidity": 21619178.45931,
+      "yes_price": 0.9985,
+      "leader": {
+        "name": "Yes",
+        "price": 0.9985
+      },
+      "end_date": "2026-06-15T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Will there be no change in Fed interest rates after the June 2026 meeting?",
+      "url": "https://polymarket.com/event/fed-decision-in-june-825",
+      "volume_24h": 11104365.441599006,
+      "volume_total": 34389585.04729084,
+      "liquidity": 3007097.36029,
+      "yes_price": 0.9975,
+      "leader": {
+        "name": "Yes",
+        "price": 0.9975
+      },
+      "end_date": "2026-06-17T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Will Australia win the 2026 FIFA World Cup?",
+      "url": "https://polymarket.com/event/world-cup-winner",
+      "volume_24h": 7743635.406031,
+      "volume_total": 67611197.34440647,
+      "liquidity": 13884252.81958,
+      "yes_price": 0.0045,
+      "leader": {
+        "name": "No",
+        "price": 0.9955
+      },
+      "end_date": "2026-07-20T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "US and Iran sign an agreement by June 15, 2026?",
+      "url": "https://polymarket.com/event/us-and-iran-sign-an-agreement-byptptpt-20260611221049850",
+      "volume_24h": 5554509.39612599,
+      "volume_total": 10829827.342850061,
+      "liquidity": 3028461.45167,
+      "yes_price": 0.9995,
+      "leader": {
+        "name": "Yes",
+        "price": 0.9995
+      },
+      "end_date": "2026-06-16T03:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Will Gedion Timothewos be the next Prime Minister of Ethiopia?",
+      "url": "https://polymarket.com/event/next-prime-minister-of-ethiopia",
+      "volume_24h": 3923851.162,
+      "volume_total": 10495998.802098999,
+      "liquidity": 20536.29942,
+      "yes_price": 0.0055,
+      "leader": {
+        "name": "No",
+        "price": 0.9945
+      },
+      "end_date": "2026-06-01T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "US announces new Iran agreement/ceasefire extension by June 13?",
+      "url": "https://polymarket.com/event/us-announces-new-iran-agreementceasefire-extension-by",
+      "volume_24h": 1368818.7706489996,
+      "volume_total": 6854473.639779974,
+      "liquidity": 1761810.78745,
+      "yes_price": 0.0035,
+      "leader": {
+        "name": "No",
+        "price": 0.9965
+      },
+      "end_date": "2026-06-13T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "San Francisco Giants vs. Atlanta Braves",
+      "url": "https://polymarket.com/event/mlb-sf-atl-2026-06-16",
+      "volume_24h": 1099484.7835300022,
+      "volume_total": 1103741.5604359962,
+      "liquidity": 32195.062,
+      "yes_price": 0.455,
+      "leader": {
+        "name": "Atlanta Braves",
+        "price": 0.545
+      },
+      "end_date": "2026-06-23T23:15:00Z",
+      "outcomes": [
+        "San Francisco Giants",
+        "Atlanta Braves"
+      ]
+    }
+  ]
+}
