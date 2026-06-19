@@ -1,0 +1,223 @@
+{
+  "source": "hackernews",
+  "label": "Hacker News — top stories",
+  "fetched_at": "2026-06-19T08:10:04.509Z",
+  "items": [
+    {
+      "rank": 1,
+      "title": "DuckDB Internals: Why Is DuckDB Fast? (Part 1)",
+      "url": "https://www.greybeam.ai/blog/duckdb-internals-part-1",
+      "hn_url": "https://news.ycombinator.com/item?id=48553388",
+      "score": 126,
+      "comments": 48,
+      "author": "marklit"
+    },
+    {
+      "rank": 2,
+      "title": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
+      "url": "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a",
+      "hn_url": "https://news.ycombinator.com/item?id=48595511",
+      "score": 31,
+      "comments": 8,
+      "author": "philonoist"
+    },
+    {
+      "rank": 3,
+      "title": "To study how chips work, MIT researchers built their own operating system",
+      "url": "https://news.mit.edu/2026/to-study-how-chips-really-work-mit-researchers-built-their-own-operating-system-0610",
+      "hn_url": "https://news.ycombinator.com/item?id=48543311",
+      "score": 161,
+      "comments": 21,
+      "author": "speckx"
+    },
+    {
+      "rank": 4,
+      "title": "So You Want to Define a Well-Known URI",
+      "url": "https://mnot.net/blog/2026/well_known_uris",
+      "hn_url": "https://news.ycombinator.com/item?id=48595331",
+      "score": 34,
+      "comments": 13,
+      "author": "ingve"
+    },
+    {
+      "rank": 5,
+      "title": "Zen and the Art of Machine Learning Research",
+      "url": "https://blog.jxmo.io/p/zen-and-the-art-of-machine-learning",
+      "hn_url": "https://news.ycombinator.com/item?id=48549118",
+      "score": 35,
+      "comments": 10,
+      "author": "jxmorris12"
+    },
+    {
+      "rank": 6,
+      "title": "Gribouille 0.3.0: A Grammar of Graphics for Typst",
+      "url": "https://mickael.canouil.fr/posts/2026-06-15-gribouille-0-3/",
+      "hn_url": "https://news.ycombinator.com/item?id=48541062",
+      "score": 63,
+      "comments": 17,
+      "author": "mcanouil"
+    },
+    {
+      "rank": 7,
+      "title": "I found 10k GitHub repositories distributing Trojan malware",
+      "url": "https://orchidfiles.com/github-repositories-distributing-malware/",
+      "hn_url": "https://news.ycombinator.com/item?id=48583928",
+      "score": 775,
+      "comments": 198,
+      "author": "theorchid"
+    },
+    {
+      "rank": 8,
+      "title": "Zero-Touch OAuth for MCP",
+      "url": "https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/",
+      "hn_url": "https://news.ycombinator.com/item?id=48592163",
+      "score": 184,
+      "comments": 65,
+      "author": "niyikiza"
+    },
+    {
+      "rank": 9,
+      "title": "DARPA Heavy Life Challenge",
+      "url": "https://www.darpa.mil/research/challenges/lift",
+      "hn_url": "https://news.ycombinator.com/item?id=48594933",
+      "score": 18,
+      "comments": 17,
+      "author": "mhb"
+    },
+    {
+      "rank": 10,
+      "title": "Datasette Apps: Host custom HTML applications inside Datasette",
+      "url": "https://simonwillison.net/2026/Jun/18/datasette-apps/",
+      "hn_url": "https://news.ycombinator.com/item?id=48593731",
+      "score": 71,
+      "comments": 24,
+      "author": "lumpa"
+    },
+    {
+      "rank": 11,
+      "title": "How Japan's railways stayed one while splitting apart",
+      "url": "https://arun.is/blog/jr-logo/",
+      "hn_url": "https://news.ycombinator.com/item?id=48570730",
+      "score": 84,
+      "comments": 68,
+      "author": "ddrmaxgt37"
+    },
+    {
+      "rank": 12,
+      "title": "Building a robotics research setup that lives next to my desk",
+      "url": "https://dfdxlabs.com/research/2026/robotics-setup/",
+      "hn_url": "https://news.ycombinator.com/item?id=48586329",
+      "score": 69,
+      "comments": 24,
+      "author": "mplappert"
+    },
+    {
+      "rank": 13,
+      "title": "Ice water drowning survival of young patient (2025)",
+      "url": "https://www.jacc.org/doi/10.1016/j.jaccas.2025.104885",
+      "hn_url": "https://news.ycombinator.com/item?id=48594592",
+      "score": 124,
+      "comments": 81,
+      "author": "js2"
+    },
+    {
+      "rank": 14,
+      "title": "The AirPods Effect",
+      "url": "https://www.theescapenewsletter.com/p/the-airpods-effect",
+      "hn_url": "https://news.ycombinator.com/item?id=48592832",
+      "score": 73,
+      "comments": 118,
+      "author": "herbertl"
+    },
+    {
+      "rank": 15,
+      "title": "Ubiquiti: Enterprise NAS, Built on ZFS",
+      "url": "https://blog.ui.com/article/introducing-enterprise-nas",
+      "hn_url": "https://news.ycombinator.com/item?id=48585866",
+      "score": 326,
+      "comments": 280,
+      "author": "ksec"
+    },
+    {
+      "rank": 16,
+      "title": "Show HN: Talos – Open-source WASM interpreter for Lean",
+      "url": "https://github.com/cajal-technologies/talos",
+      "hn_url": "https://news.ycombinator.com/item?id=48584761",
+      "score": 51,
+      "comments": 5,
+      "author": "mfornet"
+    },
+    {
+      "rank": 17,
+      "title": "Generative AI Is Having Its Herbalife Moment",
+      "url": "https://www.whatwelo.st/p/generative-ai-is-having-its-herbalife",
+      "hn_url": "https://news.ycombinator.com/item?id=48595144",
+      "score": 32,
+      "comments": 26,
+      "author": "watermelon0"
+    },
+    {
+      "rank": 18,
+      "title": "CS 6120: Advanced Compilers: The Self-Guided Online Course (2020)",
+      "url": "https://www.cs.cornell.edu/courses/cs6120/2025fa/self-guided/",
+      "hn_url": "https://news.ycombinator.com/item?id=48583606",
+      "score": 360,
+      "comments": 51,
+      "author": "ibobev"
+    },
+    {
+      "rank": 19,
+      "title": "Cell-based architecture for resilient payment systems",
+      "url": "https://americanexpress.io/cell-based-architecture-for-resilient-payment-systems/",
+      "hn_url": "https://news.ycombinator.com/item?id=48547969",
+      "score": 118,
+      "comments": 47,
+      "author": "birdculture"
+    },
+    {
+      "rank": 20,
+      "title": ".gitignore Isn't the only way to ignore files in Git",
+      "url": "https://nelson.cloud/.gitignore-isnt-the-only-way-to-ignore-files-in-git/",
+      "hn_url": "https://news.ycombinator.com/item?id=48583356",
+      "score": 400,
+      "comments": 126,
+      "author": "FergusArgyll"
+    },
+    {
+      "rank": 21,
+      "title": "Many Let's Encrypt renewals had errors today",
+      "url": "https://letsencrypt.status.io/#2026",
+      "hn_url": "https://news.ycombinator.com/item?id=48594715",
+      "score": 135,
+      "comments": 80,
+      "author": "widdakay"
+    },
+    {
+      "rank": 22,
+      "title": "Hospitals and universities repurposing drugs at lower cost",
+      "url": "https://www.kcl.ac.uk/news/hospitals-and-universities-repurposing-drugs-at-90-lower-cost",
+      "hn_url": "https://news.ycombinator.com/item?id=48583386",
+      "score": 304,
+      "comments": 133,
+      "author": "giuliomagnifico"
+    },
+    {
+      "rank": 23,
+      "title": "I told them forced consent was unlawful. 5 years later it cost Elkjop €1.8M",
+      "url": "https://www.thatprivacyguy.com/blog/elkjop-forced-consent-fine/",
+      "hn_url": "https://news.ycombinator.com/item?id=48589501",
+      "score": 361,
+      "comments": 194,
+      "author": "speckx"
+    },
+    {
+      "rank": 24,
+      "title": "The Korean telecom giant at the center of Anthropic's Mythos controversy",
+      "url": "https://www.wired.com/story/sk-telecom-anthropic-mythos-export-controls/",
+      "hn_url": "https://news.ycombinator.com/item?id=48584484",
+      "score": 109,
+      "comments": 88,
+      "author": "dstala"
+    }
+  ]
+}

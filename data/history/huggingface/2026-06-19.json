@@ -1,0 +1,282 @@
+{
+  "source": "huggingface",
+  "label": "Hugging Face — trending models",
+  "fetched_at": "2026-06-19T08:10:04.393Z",
+  "items": [
+    {
+      "rank": 1,
+      "title": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+      "url": "https://huggingface.co/yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+      "author": "yuxinlu1",
+      "downloads": 211424,
+      "likes": 1742,
+      "trending_score": 1543,
+      "pipeline_tag": "text-generation",
+      "last_modified": "2026-06-19T03:52:11.000Z"
+    },
+    {
+      "rank": 2,
+      "title": "zai-org/GLM-5.2",
+      "url": "https://huggingface.co/zai-org/GLM-5.2",
+      "author": "zai-org",
+      "downloads": 4307,
+      "likes": 1400,
+      "trending_score": 1324,
+      "pipeline_tag": "text-generation",
+      "last_modified": "2026-06-17T09:31:36.000Z"
+    },
+    {
+      "rank": 3,
+      "title": "MiniMaxAI/MiniMax-M3",
+      "url": "https://huggingface.co/MiniMaxAI/MiniMax-M3",
+      "author": "MiniMaxAI",
+      "downloads": 56162,
+      "likes": 1109,
+      "trending_score": 946,
+      "pipeline_tag": "image-text-to-text",
+      "last_modified": "2026-06-16T05:18:24.000Z"
+    },
+    {
+      "rank": 4,
+      "title": "moonshotai/Kimi-K2.7-Code",
+      "url": "https://huggingface.co/moonshotai/Kimi-K2.7-Code",
+      "author": "moonshotai",
+      "downloads": 229156,
+      "likes": 889,
+      "trending_score": 847,
+      "pipeline_tag": "image-text-to-text",
+      "last_modified": "2026-06-15T07:49:29.000Z"
+    },
+    {
+      "rank": 5,
+      "title": "google/diffusiongemma-26B-A4B-it",
+      "url": "https://huggingface.co/google/diffusiongemma-26B-A4B-it",
+      "author": "google",
+      "downloads": 527080,
+      "likes": 1007,
+      "trending_score": 425,
+      "pipeline_tag": "image-text-to-text",
+      "last_modified": "2026-06-10T13:45:13.000Z"
+    },
+    {
+      "rank": 6,
+      "title": "WeiboAI/VibeThinker-3B",
+      "url": "https://huggingface.co/WeiboAI/VibeThinker-3B",
+      "author": "WeiboAI",
+      "downloads": 6589,
+      "likes": 417,
+      "trending_score": 409,
+      "pipeline_tag": "text-generation",
+      "last_modified": "2026-06-19T02:50:09.000Z"
+    },
+    {
+      "rank": 7,
+      "title": "prefeitura-rio/Rio-3.5-Open-397B",
+      "url": "https://huggingface.co/prefeitura-rio/Rio-3.5-Open-397B",
+      "author": "prefeitura-rio",
+      "downloads": 190501,
+      "likes": 324,
+      "trending_score": 308,
+      "pipeline_tag": "image-text-to-text",
+      "last_modified": "2026-06-14T18:58:47.000Z"
+    },
+    {
+      "rank": 8,
+      "title": "nvidia/LocateAnything-3B",
+      "url": "https://huggingface.co/nvidia/LocateAnything-3B",
+      "author": "nvidia",
+      "downloads": 183093,
+      "likes": 2175,
+      "trending_score": 252,
+      "pipeline_tag": "image-text-to-text",
+      "last_modified": "2026-06-12T10:51:04.000Z"
+    },
+    {
+      "rank": 9,
+      "title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "url": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "author": "HauhauCS",
+      "downloads": 3420052,
+      "likes": 1978,
+      "trending_score": 217,
+      "pipeline_tag": "image-text-to-text",
+      "last_modified": "2026-04-17T02:59:21.000Z"
+    },
+    {
+      "rank": 10,
+      "title": "microsoft/FastContext-1.0-4B-SFT",
+      "url": "https://huggingface.co/microsoft/FastContext-1.0-4B-SFT",
+      "author": "microsoft",
+      "downloads": 957,
+      "likes": 211,
+      "trending_score": 207,
+      "pipeline_tag": "text-generation",
+      "last_modified": "2026-06-17T05:43:37.000Z"
+    },
+    {
+      "rank": 11,
+      "title": "Jackrong/Qwopus3.6-27B-Coder-MTP-GGUF",
+      "url": "https://huggingface.co/Jackrong/Qwopus3.6-27B-Coder-MTP-GGUF",
+      "author": "Jackrong",
+      "downloads": 122175,
+      "likes": 254,
+      "trending_score": 193,
+      "pipeline_tag": "image-text-to-text",
+      "last_modified": "2026-06-15T00:23:23.000Z"
+    },
+    {
+      "rank": 12,
+      "title": "nvidia/nemotron-3.5-asr-streaming-0.6b",
+      "url": "https://huggingface.co/nvidia/nemotron-3.5-asr-streaming-0.6b",
+      "author": "nvidia",
+      "downloads": 13033,
+      "likes": 550,
+      "trending_score": 166,
+      "pipeline_tag": "automatic-speech-recognition",
+      "last_modified": "2026-06-16T16:01:48.000Z"
+    },
+    {
+      "rank": 13,
+      "title": "unsloth/GLM-5.2-GGUF",
+      "url": "https://huggingface.co/unsloth/GLM-5.2-GGUF",
+      "author": "unsloth",
+      "downloads": 305,
+      "likes": 141,
+      "trending_score": 138,
+      "pipeline_tag": "text-generation",
+      "last_modified": "2026-06-18T15:37:12.000Z"
+    },
+    {
+      "rank": 14,
+      "title": "CohereLabs/North-Mini-Code-1.0",
+      "url": "https://huggingface.co/CohereLabs/North-Mini-Code-1.0",
+      "author": "CohereLabs",
+      "downloads": 15285,
+      "likes": 453,
+      "trending_score": 135,
+      "pipeline_tag": "text-generation",
+      "last_modified": "2026-06-15T04:32:41.000Z"
+    },
+    {
+      "rank": 15,
+      "title": "unsloth/Kimi-K2.7-Code-GGUF",
+      "url": "https://huggingface.co/unsloth/Kimi-K2.7-Code-GGUF",
+      "author": "unsloth",
+      "downloads": 29287,
+      "likes": 135,
+      "trending_score": 131,
+      "pipeline_tag": "image-text-to-text",
+      "last_modified": "2026-06-15T05:40:32.000Z"
+    },
+    {
+      "rank": 16,
+      "title": "deepseek-ai/DeepSeek-V4-Pro",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro",
+      "author": "deepseek-ai",
+      "downloads": 2948726,
+      "likes": 4958,
+      "trending_score": 127,
+      "pipeline_tag": "text-generation",
+      "last_modified": "2026-06-08T06:02:44.000Z"
+    },
+    {
+      "rank": 17,
+      "title": "unsloth/diffusiongemma-26B-A4B-it-GGUF",
+      "url": "https://huggingface.co/unsloth/diffusiongemma-26B-A4B-it-GGUF",
+      "author": "unsloth",
+      "downloads": 164209,
+      "likes": 311,
+      "trending_score": 124,
+      "pipeline_tag": "image-text-to-text",
+      "last_modified": "2026-06-12T14:44:09.000Z"
+    },
+    {
+      "rank": 18,
+      "title": "lordx64/Qwable-v1",
+      "url": "https://huggingface.co/lordx64/Qwable-v1",
+      "author": "lordx64",
+      "downloads": 836,
+      "likes": 124,
+      "trending_score": 120,
+      "pipeline_tag": "text-generation",
+      "last_modified": "2026-06-15T21:19:20.000Z"
+    },
+    {
+      "rank": 19,
+      "title": "nex-agi/Nex-N2-Pro",
+      "url": "https://huggingface.co/nex-agi/Nex-N2-Pro",
+      "author": "nex-agi",
+      "downloads": 6640,
+      "likes": 330,
+      "trending_score": 115,
+      "pipeline_tag": "text-generation",
+      "last_modified": "2026-06-11T09:43:23.000Z"
+    },
+    {
+      "rank": 20,
+      "title": "Zyphra/ZONOS2",
+      "url": "https://huggingface.co/Zyphra/ZONOS2",
+      "author": "Zyphra",
+      "downloads": 669,
+      "likes": 116,
+      "trending_score": 115,
+      "pipeline_tag": "text-to-speech",
+      "last_modified": "2026-06-13T01:05:00.000Z"
+    },
+    {
+      "rank": 21,
+      "title": "bosonai/higgs-audio-v3-tts-4b",
+      "url": "https://huggingface.co/bosonai/higgs-audio-v3-tts-4b",
+      "author": "bosonai",
+      "downloads": 57380,
+      "likes": 490,
+      "trending_score": 111,
+      "pipeline_tag": "text-to-speech",
+      "last_modified": "2026-06-16T00:11:02.000Z"
+    },
+    {
+      "rank": 22,
+      "title": "google/gemma-4-12B-it",
+      "url": "https://huggingface.co/google/gemma-4-12B-it",
+      "author": "google",
+      "downloads": 1309625,
+      "likes": 1088,
+      "trending_score": 110,
+      "pipeline_tag": "any-to-any",
+      "last_modified": "2026-06-04T11:58:10.000Z"
+    },
+    {
+      "rank": 23,
+      "title": "owensong/Inflect-Nano-v1",
+      "url": "https://huggingface.co/owensong/Inflect-Nano-v1",
+      "author": "owensong",
+      "downloads": 0,
+      "likes": 105,
+      "trending_score": 105,
+      "pipeline_tag": "text-to-speech",
+      "last_modified": "2026-06-18T20:37:55.000Z"
+    },
+    {
+      "rank": 24,
+      "title": "unsloth/MiniMax-M3-GGUF",
+      "url": "https://huggingface.co/unsloth/MiniMax-M3-GGUF",
+      "author": "unsloth",
+      "downloads": 22659,
+      "likes": 104,
+      "trending_score": 102,
+      "pipeline_tag": "image-text-to-text",
+      "last_modified": "2026-06-15T01:57:42.000Z"
+    },
+    {
+      "rank": 25,
+      "title": "zai-org/SCAIL-2",
+      "url": "https://huggingface.co/zai-org/SCAIL-2",
+      "author": "zai-org",
+      "downloads": 0,
+      "likes": 228,
+      "trending_score": 100,
+      "pipeline_tag": "image-to-video",
+      "last_modified": "2026-06-15T14:28:29.000Z"
+    }
+  ]
+}

@@ -1,0 +1,223 @@
+{
+  "source": "polymarket",
+  "label": "Polymarket — top 24h volume",
+  "fetched_at": "2026-06-19T08:10:04.637Z",
+  "items": [
+    {
+      "rank": 1,
+      "title": "Will Canada win the 2026 FIFA World Cup?",
+      "url": "https://polymarket.com/event/world-cup-winner",
+      "volume_24h": 5755107.450307001,
+      "volume_total": 61198800.58740036,
+      "liquidity": 8877782.91717,
+      "yes_price": 0.0035,
+      "leader": {
+        "name": "No",
+        "price": 0.9965
+      },
+      "end_date": "2026-07-20T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Will Berhanu Nega be the next Prime Minister of Ethiopia?",
+      "url": "https://polymarket.com/event/next-prime-minister-of-ethiopia",
+      "volume_24h": 3999357.817111,
+      "volume_total": 13795176.581897002,
+      "liquidity": 9750.04917,
+      "yes_price": 0.005,
+      "leader": {
+        "name": "No",
+        "price": 0.995
+      },
+      "end_date": "2026-06-01T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Will Graham Platner win the 2028 Democratic presidential nomination?",
+      "url": "https://polymarket.com/event/democratic-presidential-nominee-2028",
+      "volume_24h": 1938665.3558480004,
+      "volume_total": 4353064.302839007,
+      "liquidity": 706135.12908,
+      "yes_price": 0.0205,
+      "leader": {
+        "name": "No",
+        "price": 0.9795
+      },
+      "end_date": "2028-11-07T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": " Iran agrees to end enrichment of uranium by June 30?",
+      "url": "https://polymarket.com/event/iran-agrees-to-end-enrichment-of-uranium-by-june-30",
+      "volume_24h": 1889500.5997039995,
+      "volume_total": 6887035.451796104,
+      "liquidity": 197658.3997,
+      "yes_price": 0.585,
+      "leader": {
+        "name": "Yes",
+        "price": 0.585
+      },
+      "end_date": "2026-06-30T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Will Trump agree to withdraw troops from the Iranian region by June 30?",
+      "url": "https://polymarket.com/event/what-iranian-demands-will-trump-agree-to-by-june-30",
+      "volume_24h": 1804930.28216,
+      "volume_total": 2904046.364681008,
+      "liquidity": 3934567.46424,
+      "yes_price": 0.9995,
+      "leader": {
+        "name": "Yes",
+        "price": 0.9995
+      },
+      "end_date": "2026-06-30T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Strait of Hormuz traffic returns to normal by end of June?",
+      "url": "https://polymarket.com/event/strait-of-hormuz-traffic-returns-to-normal-by-end-of-june",
+      "volume_24h": 1355746.0460480014,
+      "volume_total": 27171530.2337519,
+      "liquidity": 576106.2233,
+      "yes_price": 0.085,
+      "leader": {
+        "name": "No",
+        "price": 0.915
+      },
+      "end_date": "2026-06-30T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Will United States win on 2026-06-19?",
+      "url": "https://polymarket.com/event/fifwc-usa-aus-2026-06-19",
+      "volume_24h": 1138221.6655530003,
+      "volume_total": 1546443.709339041,
+      "liquidity": 2263439.4811,
+      "yes_price": 0.605,
+      "leader": {
+        "name": "Yes",
+        "price": 0.605
+      },
+      "end_date": "2026-06-19T19:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "US x Iran diplomatic meeting by June 19, 2026?",
+      "url": "https://polymarket.com/event/us-x-iran-diplomatic-meeting-by-329",
+      "volume_24h": 965752.0312880019,
+      "volume_total": 1925248.1018329991,
+      "liquidity": 74839.79591,
+      "yes_price": 0.0265,
+      "leader": {
+        "name": "No",
+        "price": 0.9735
+      },
+      "end_date": "2026-06-19T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Israel x Hezbollah permanent peace deal by June 15, 2026?",
+      "url": "https://polymarket.com/event/israel-x-hezbollah-permanent-peace-deal-by",
+      "volume_24h": 652289.8309960001,
+      "volume_total": 2975673.504681999,
+      "liquidity": 2857566.46368,
+      "yes_price": 0.0005,
+      "leader": {
+        "name": "No",
+        "price": 0.9995
+      },
+      "end_date": "2026-06-15T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Will the text of the US-Iran agreement be released by June 16? ",
+      "url": "https://polymarket.com/event/us-iran-deal-text-released-byptptpt-20260615224044572",
+      "volume_24h": 649501.1561749997,
+      "volume_total": 1855311.381387996,
+      "liquidity": 2417991.39892,
+      "yes_price": 0.0005,
+      "leader": {
+        "name": "No",
+        "price": 0.9995
+      },
+      "end_date": "2026-06-18T03:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 11,
+      "title": "Will China invade Taiwan by end of 2026?",
+      "url": "https://polymarket.com/event/will-china-invade-taiwan-before-2027",
+      "volume_24h": 596415.5396409993,
+      "volume_total": 35791017.75553212,
+      "liquidity": 766920.46929,
+      "yes_price": 0.0625,
+      "leader": {
+        "name": "No",
+        "price": 0.9375
+      },
+      "end_date": "2026-12-31T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 12,
+      "title": "HSBC Championships: Hamad Medjedovic vs Ugo Humbert",
+      "url": "https://polymarket.com/event/atp-medjedo-humbert-2026-06-17",
+      "volume_24h": 583040.3560660006,
+      "volume_total": 587462.1067060006,
+      "liquidity": 86176.1063,
+      "yes_price": 0.435,
+      "leader": {
+        "name": "Ugo Humbert",
+        "price": 0.565
+      },
+      "end_date": "2026-06-24T08:00:00Z",
+      "outcomes": [
+        "Hamad Medjedovic",
+        "Ugo Humbert"
+      ]
+    }
+  ]
+}
