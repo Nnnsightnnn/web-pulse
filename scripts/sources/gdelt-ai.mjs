@@ -8,6 +8,21 @@
 // and replies with a PLAIN-TEXT 429 body, not JSON. We retry with backoff and,
 // if it never yields JSON, surface an error block the orchestrator can render.
 
+import { readdir, readFile } from "node:fs/promises";
+import { dirname, join } from "node:path";
+import { fileURLToPath } from "node:url";
+
+const __dirname = dirname(fileURLToPath(import.meta.url));
+// data/history/gdelt-ai/<YYYY-MM-DD>.json — daily snapshots the orchestrator
+// writes after every successful run. Used as a stale fallback below.
+const HISTORY_DIR = join(__dirname, "..", "..", "data", "history", "gdelt-ai");
+
+const LABEL = "GDELT — AI & tech news";
+
+function todayStamp() {
+  return new Date().toISOString().slice(0, 10);
+}
+
 // AI/tech focus. Kept reasonably short — GDELT rejects overly complex queries.
 const QUERY =
   '("artificial intelligence" OR "machine learning" OR "generative AI" OR ' +
@@ -114,9 +129,8 @@ async function fetchArticles() {
   throw new Error(`GDELT failed after ${MAX_ATTEMPTS} attempts — ${lastErr}`);
 }
 
-export default async function fetchGdeltAI() {
-  const articles = await fetchArticles();
-
+// Build the cleaned, deduped item list from GDELT's raw article array.
+function buildItems(articles) {
   // Dedupe by normalized title, keeping the first (most recent) occurrence.
   const seen = new Set();
   const items = [];
@@ -138,12 +152,67 @@ export default async function fetchGdeltAI() {
     });
     if (items.length >= 25) break;
   }
+  return items;
+}
+
+// Most recent good daily snapshot, used when the live fetch is throttled out.
+// Returns { date, items } or null if no usable snapshot exists. We only ever
+// snapshot real (non-stale) runs, so a snapshot's filename date is the true age
+// of its data — it never silently chains stale-from-stale.
+async function loadLatestSnapshot() {
+  const files = (await readdir(HISTORY_DIR).catch(() => []))
+    .filter((f) => /^\d{4}-\d{2}-\d{2}\.json$/.test(f))
+    .sort(); // ascending → last entry is newest
+  for (let i = files.length - 1; i >= 0; i--) {
+    try {
+      const snap = JSON.parse(await readFile(join(HISTORY_DIR, files[i]), "utf8"));
+      if (Array.isArray(snap.items) && snap.items.length) {
+        return { date: files[i].replace(/\.json$/, ""), items: snap.items };
+      }
+    } catch {
+      // Corrupt/unreadable snapshot — fall through to an older one.
+    }
+  }
+  return null;
+}
+
+export default async function fetchGdeltAI() {
+  let articles;
+  try {
+    articles = await fetchArticles();
+  } catch (err) {
+    // Live fetch failed — almost always GDELT throttling. Rather than render an
+    // empty AI-news tile, serve the most recent good snapshot, clearly marked
+    // stale (the `(stale: <date>)` label suffix surfaces on every consumer that
+    // shows a source's label). The orchestrator skips re-snapshotting `stale`
+    // payloads, so we never falsely refresh the data's age.
+    const fb = await loadLatestSnapshot();
+    if (fb) {
+      console.warn(
+        `[gdelt-ai] LIVE FETCH FAILED — serving stale snapshot from ${fb.date} ` +
+        `(${fb.items.length} items). Reason: ${err.message}`
+      );
+      return {
+        source: "gdelt-ai",
+        label: `${LABEL} (stale: ${fb.date})`,
+        fetched_at: new Date().toISOString(),
+        data_date: fb.date,
+        stale: true,
+        stale_reason: err.message,
+        query: QUERY,
+        items: fb.items,
+      };
+    }
+    // No usable snapshot — preserve original behavior (orchestrator error block).
+    throw err;
+  }
 
   return {
     source: "gdelt-ai",
-    label: "GDELT — AI & tech news",
+    label: LABEL,
     fetched_at: new Date().toISOString(),
+    data_date: todayStamp(),
     query: QUERY,
-    items,
+    items: buildItems(articles),
   };
 }

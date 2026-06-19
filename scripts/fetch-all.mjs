@@ -123,7 +123,9 @@ async function run() {
   // Per-source daily history snapshots.
   const stamp = dateStamp();
   for (const [name, payload] of Object.entries(byName)) {
-    if (payload.error) continue;
+    // Skip errored runs (nothing to save) and stale fallbacks (a source served
+    // an old snapshot — re-snapshotting it would falsely reset the data's age).
+    if (payload.error || payload.stale) continue;
     const dir = join(HISTORY_DIR, name);
     await mkdir(dir, { recursive: true });
     await writeFile(join(dir, `${stamp}.json`), JSON.stringify(payload, null, 2));
