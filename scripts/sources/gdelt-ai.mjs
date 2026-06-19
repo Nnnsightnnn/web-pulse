@@ -15,8 +15,16 @@ const QUERY =
   'semiconductor) sourcelang:english';
 
 const ENDPOINT = "https://api.gdeltproject.org/api/v2/doc/doc";
-const MAX_ATTEMPTS = 3;
-const BACKOFF_MS = 6000;
+// GDELT's limiter is unforgiving: once you trip it, a short 5–6s pause is NOT
+// enough — follow-up requests keep returning 429 for a longer penalty window.
+// So we (a) try more times and (b) back off exponentially with jitter so the
+// retries actually clear the window instead of compounding the throttle.
+// Sources run in parallel via Promise.allSettled, so a slow GDELT recovery only
+// extends total wall-clock — it never blocks the other 16 sources.
+const MAX_ATTEMPTS = 5;
+const BACKOFF_BASE_MS = 10000; // first backoff ~10s, then ~18s, ~28s, ~40s (+jitter)
+const BACKOFF_GROWTH = 1.6;
+const BACKOFF_MAX_MS = 45000;
 
 function buildUrl() {
   const params = new URLSearchParams({
@@ -52,14 +60,28 @@ function parseSeendate(s) {
   return `${y}-${mo}-${d}T${h}:${mi}:${se}Z`;
 }
 
+// Backoff for the Nth failed attempt (1-based): exponential growth, capped,
+// with ±25% jitter so repeated daily runs don't fall into the same cadence.
+function backoffFor(attempt) {
+  const base = Math.min(BACKOFF_BASE_MS * BACKOFF_GROWTH ** (attempt - 1), BACKOFF_MAX_MS);
+  const jitter = base * (0.75 + Math.random() * 0.5);
+  return Math.round(jitter);
+}
+
 async function fetchArticles() {
   const url = buildUrl();
   let lastErr = "";
+
+  // Small random pre-flight delay (0–3s) desyncs us from any other GDELT
+  // traffic and from the previous run's timing, lowering the odds the very
+  // first request lands inside an existing penalty window.
+  await sleep(Math.round(Math.random() * 3000));
+
   for (let attempt = 1; attempt <= MAX_ATTEMPTS; attempt++) {
     try {
       const res = await fetch(url, {
         headers: { "User-Agent": "web-pulse/0.1 (+github.com/Nnnsightnnn/web-pulse)" },
-        signal: AbortSignal.timeout(15000),
+        signal: AbortSignal.timeout(20000),
       });
       const text = await res.text();
       // GDELT returns 200 with JSON on success; 429 + plaintext when throttled.
@@ -72,12 +94,22 @@ async function fetchArticles() {
         }
       } else {
         lastErr = `HTTP ${res.status}: ${text.slice(0, 120).trim()}`;
+        // Honor an explicit Retry-After (seconds) if GDELT sends one; otherwise
+        // fall through to our exponential schedule. 429 in particular needs a
+        // longer cooldown than a generic error.
+        if (res.status === 429 && attempt < MAX_ATTEMPTS) {
+          const ra = Number(res.headers.get("retry-after"));
+          if (Number.isFinite(ra) && ra > 0) {
+            await sleep(Math.min(ra * 1000, BACKOFF_MAX_MS) + backoffFor(attempt) * 0.25);
+            continue;
+          }
+        }
       }
     } catch (err) {
       // Network-level failure (DNS, reset, timeout) — fetch() itself rejected.
       lastErr = `network: ${err.message}`;
     }
-    if (attempt < MAX_ATTEMPTS) await sleep(BACKOFF_MS);
+    if (attempt < MAX_ATTEMPTS) await sleep(backoffFor(attempt));
   }
   throw new Error(`GDELT failed after ${MAX_ATTEMPTS} attempts — ${lastErr}`);
 }
