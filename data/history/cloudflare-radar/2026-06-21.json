@@ -1,7 +1,7 @@
 {
   "source": "cloudflare-radar",
   "label": "Cloudflare Radar — top domains",
-  "fetched_at": "2026-06-20T08:11:12.525Z",
+  "fetched_at": "2026-06-21T08:11:19.940Z",
   "configured": true,
   "items": [
     {
@@ -60,18 +60,18 @@
     },
     {
       "rank": 7,
-      "title": "facebook.com",
-      "url": "https://facebook.com",
-      "category": "Social Networks",
+      "title": "amazonaws.com",
+      "url": "https://amazonaws.com",
+      "category": "Technology",
       "rank_delta_7d": 0,
       "prev_rank_7d": 7,
       "is_new_to_top": false
     },
     {
       "rank": 8,
-      "title": "amazonaws.com",
-      "url": "https://amazonaws.com",
-      "category": "Technology",
+      "title": "facebook.com",
+      "url": "https://facebook.com",
+      "category": "Social Networks",
       "rank_delta_7d": 0,
       "prev_rank_7d": 8,
       "is_new_to_top": false
@@ -96,27 +96,27 @@
     },
     {
       "rank": 11,
-      "title": "whatsapp.net",
-      "url": "https://whatsapp.net",
-      "category": "Instant Messengers",
-      "rank_delta_7d": 1,
-      "prev_rank_7d": 12,
-      "is_new_to_top": false
-    },
-    {
-      "rank": 12,
       "title": "amazon.com",
       "url": "https://amazon.com",
       "category": "Ecommerce",
-      "rank_delta_7d": -1,
+      "rank_delta_7d": 0,
       "prev_rank_7d": 11,
       "is_new_to_top": false
     },
     {
-      "rank": 13,
+      "rank": 12,
       "title": "youtube.com",
       "url": "https://youtube.com",
       "category": "Video Streaming",
+      "rank_delta_7d": 0,
+      "prev_rank_7d": 12,
+      "is_new_to_top": false
+    },
+    {
+      "rank": 13,
+      "title": "whatsapp.net",
+      "url": "https://whatsapp.net",
+      "category": "Instant Messengers",
       "rank_delta_7d": 0,
       "prev_rank_7d": 13,
       "is_new_to_top": false
@@ -132,101 +132,101 @@
     },
     {
       "rank": 15,
-      "title": "doubleclick.net",
-      "url": "https://doubleclick.net",
-      "category": "Advertisements",
-      "rank_delta_7d": 0,
-      "prev_rank_7d": 15,
-      "is_new_to_top": false
-    },
-    {
-      "rank": 16,
       "title": "bing.com",
       "url": "https://bing.com",
       "category": "Search Engines",
-      "rank_delta_7d": 0,
-      "prev_rank_7d": 16,
-      "is_new_to_top": false
-    },
-    {
-      "rank": 17,
-      "title": "apple-dns.net",
-      "url": "https://apple-dns.net",
-      "category": "Content Servers",
-      "rank_delta_7d": 0,
-      "prev_rank_7d": 17,
-      "is_new_to_top": false
-    },
-    {
-      "rank": 18,
-      "title": "live.com",
-      "url": "https://live.com",
-      "category": "Technology",
-      "rank_delta_7d": 0,
-      "prev_rank_7d": 18,
-      "is_new_to_top": false
-    },
-    {
-      "rank": 19,
-      "title": "akadns.net",
-      "url": "https://akadns.net",
-      "category": "Content Servers",
-      "rank_delta_7d": 0,
-      "prev_rank_7d": 19,
-      "is_new_to_top": false
-    },
-    {
-      "rank": 20,
-      "title": "googleusercontent.com",
-      "url": "https://googleusercontent.com",
-      "category": "Content Servers",
-      "rank_delta_7d": 0,
+      "rank_delta_7d": 5,
       "prev_rank_7d": 20,
       "is_new_to_top": false
     },
     {
-      "rank": 21,
-      "title": "netflix.com",
-      "url": "https://netflix.com",
-      "category": "Movies",
-      "rank_delta_7d": 1,
+      "rank": 16,
+      "title": "doubleclick.net",
+      "url": "https://doubleclick.net",
+      "category": "Advertisements",
+      "rank_delta_7d": -1,
+      "prev_rank_7d": 15,
+      "is_new_to_top": false
+    },
+    {
+      "rank": 17,
+      "title": "live.com",
+      "url": "https://live.com",
+      "category": "Technology",
+      "rank_delta_7d": 5,
       "prev_rank_7d": 22,
       "is_new_to_top": false
     },
     {
+      "rank": 18,
+      "title": "apple-dns.net",
+      "url": "https://apple-dns.net",
+      "category": "Content Servers",
+      "rank_delta_7d": -2,
+      "prev_rank_7d": 16,
+      "is_new_to_top": false
+    },
+    {
+      "rank": 19,
+      "title": "netflix.com",
+      "url": "https://netflix.com",
+      "category": "Movies",
+      "rank_delta_7d": -1,
+      "prev_rank_7d": 18,
+      "is_new_to_top": false
+    },
+    {
+      "rank": 20,
+      "title": "akadns.net",
+      "url": "https://akadns.net",
+      "category": "Content Servers",
+      "rank_delta_7d": -3,
+      "prev_rank_7d": 17,
+      "is_new_to_top": false
+    },
+    {
+      "rank": 21,
+      "title": "ntp.org",
+      "url": "https://ntp.org",
+      "category": "Technology",
+      "rank_delta_7d": -2,
+      "prev_rank_7d": 19,
+      "is_new_to_top": false
+    },
+    {
       "rank": 22,
-      "title": "icloud.com",
-      "url": "https://icloud.com",
-      "category": "File Sharing",
+      "title": "googleusercontent.com",
+      "url": "https://googleusercontent.com",
+      "category": "Content Servers",
       "rank_delta_7d": -1,
       "prev_rank_7d": 21,
       "is_new_to_top": false
     },
     {
       "rank": 23,
-      "title": "ntp.org",
-      "url": "https://ntp.org",
-      "category": "Technology",
-      "rank_delta_7d": 1,
-      "prev_rank_7d": 24,
-      "is_new_to_top": false
-    },
-    {
-      "rank": 24,
-      "title": "googlesyndication.com",
-      "url": "https://googlesyndication.com",
-      "category": "Search Engines",
-      "rank_delta_7d": -1,
+      "title": "icloud.com",
+      "url": "https://icloud.com",
+      "category": "File Sharing",
+      "rank_delta_7d": 0,
       "prev_rank_7d": 23,
       "is_new_to_top": false
     },
     {
+      "rank": 24,
+      "title": "cdninstagram.com",
+      "url": "https://cdninstagram.com",
+      "category": "Content Servers",
+      "rank_delta_7d": 5,
+      "prev_rank_7d": 29,
+      "is_new_to_top": false
+    },
+    {
       "rank": 25,
-      "title": "aaplimg.com",
-      "url": "https://aaplimg.com",
-      "category": "Information Technology",
-      "rank_delta_7d": 2,
-      "prev_rank_7d": 27,
+      "title": "chatgpt.com",
+      "url": "https://chatgpt.com",
+      "category": "Artificial Intelligence",
+      "rank_delta_7d": 0,
+      "prev_rank_7d": 25,
       "is_new_to_top": false
     }
   ]

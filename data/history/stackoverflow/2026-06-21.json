@@ -1,0 +1,318 @@
+{
+  "source": "stackoverflow",
+  "label": "Stack Overflow — hot questions",
+  "fetched_at": "2026-06-21T08:11:19.599Z",
+  "items": [
+    {
+      "rank": 1,
+      "title": "Why `decltype(x)` in a lambda evaluates to reference even though the `x` is capture by value",
+      "url": "https://stackoverflow.com/questions/79964748/why-decltypex-in-a-lambda-evaluates-to-reference-even-though-the-x-is-capt",
+      "score": 1,
+      "answers": 1,
+      "views": 28,
+      "tags": [
+        "c++"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "ModuleNotFoundError: No module named 'requests' error comes when running program",
+      "url": "https://stackoverflow.com/questions/79964751/modulenotfounderror-no-module-named-requests-error-comes-when-running-program",
+      "score": 1,
+      "answers": 2,
+      "views": 33,
+      "tags": [
+        "python"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "How to check whether a string contains only numbers such as 1s and 0s?",
+      "url": "https://stackoverflow.com/questions/79964752/how-to-check-whether-a-string-contains-only-numbers-such-as-1s-and-0s",
+      "score": -3,
+      "answers": 0,
+      "views": 17,
+      "tags": [
+        "javascript",
+        "node.js"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Why when I create object, the variable contains a reference to the object, not the object it self?",
+      "url": "https://stackoverflow.com/questions/79964736/why-when-i-create-object-the-variable-contains-a-reference-to-the-object-not-t",
+      "score": 1,
+      "answers": 4,
+      "views": 41,
+      "tags": [
+        "oop"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "computer vision iOS help for teenager",
+      "url": "https://stackoverflow.com/questions/79964731/computer-vision-ios-help-for-teenager",
+      "score": 0,
+      "answers": 0,
+      "views": 27,
+      "tags": [
+        "swift",
+        "opencv",
+        "swiftui",
+        "computer-vision",
+        "coreml"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "How to dynamically convert each row of an Excel file (unknown columns) into JSON string in Pentaho PDI 8.2?",
+      "url": "https://stackoverflow.com/questions/79964732/how-to-dynamically-convert-each-row-of-an-excel-file-unknown-columns-into-json",
+      "score": 1,
+      "answers": 0,
+      "views": 19,
+      "tags": [
+        "pentaho",
+        "pentaho-spoon",
+        "pentaho-data-integration"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "In a CLion debug session, how to show all members values of a class immediately, without clicking on the Load link they have each at their right?",
+      "url": "https://stackoverflow.com/questions/79964715/in-a-clion-debug-session-how-to-show-all-members-values-of-a-class-immediately",
+      "score": 0,
+      "answers": 0,
+      "views": 33,
+      "tags": [
+        "c++",
+        "clion"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Which multimodal model is best for generating product category and description from an image only?",
+      "url": "https://stackoverflow.com/questions/79964725/which-multimodal-model-is-best-for-generating-product-category-and-description-f",
+      "score": -2,
+      "answers": 1,
+      "views": 27,
+      "tags": [
+        "image-processing",
+        "deep-learning",
+        "computer-vision",
+        "transformer-model",
+        "ml"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Hamburger menu stopped working after logo was added",
+      "url": "https://stackoverflow.com/questions/79964717/hamburger-menu-stopped-working-after-logo-was-added",
+      "score": 0,
+      "answers": 0,
+      "views": 39,
+      "tags": [
+        "javascript",
+        "html",
+        "css",
+        "bootstrap-4",
+        "deployment"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "GridDB Java client throws GSException after long idle period",
+      "url": "https://stackoverflow.com/questions/79964714/griddb-java-client-throws-gsexception-after-long-idle-period",
+      "score": 0,
+      "answers": 1,
+      "views": 17,
+      "tags": [
+        "java",
+        "griddb"
+      ]
+    },
+    {
+      "rank": 11,
+      "title": "Android .Net Maui Button not responding",
+      "url": "https://stackoverflow.com/questions/79964713/android-net-maui-button-not-responding",
+      "score": 0,
+      "answers": 0,
+      "views": 15,
+      "tags": [
+        "android",
+        "button",
+        "maui"
+      ]
+    },
+    {
+      "rank": 12,
+      "title": "what is the best practices to get the height of the fontSize of languages and font family?",
+      "url": "https://stackoverflow.com/questions/79963713/what-is-the-best-practices-to-get-the-height-of-the-fontsize-of-languages-and-fo",
+      "score": 0,
+      "answers": 2,
+      "views": 29,
+      "tags": [
+        "android"
+      ]
+    },
+    {
+      "rank": 13,
+      "title": "How can I make detect the Studio Display size in macOS with swiftUI?",
+      "url": "https://stackoverflow.com/questions/79964708/how-can-i-make-detect-the-studio-display-size-in-macos-with-swiftui",
+      "score": -1,
+      "answers": 0,
+      "views": 25,
+      "tags": [
+        "macos",
+        "swiftui",
+        "display",
+        "monitor"
+      ]
+    },
+    {
+      "rank": 14,
+      "title": "How can I avoid using LLMs as a software developer?",
+      "url": "https://stackoverflow.com/questions/79948695/how-can-i-avoid-using-llms-as-a-software-developer",
+      "score": 116,
+      "answers": 178,
+      "views": 8600,
+      "tags": [
+        "large-language-model"
+      ]
+    },
+    {
+      "rank": 15,
+      "title": "Why are my gettext translations not appearing?",
+      "url": "https://stackoverflow.com/questions/79963704/why-are-my-gettext-translations-not-appearing",
+      "score": 1,
+      "answers": 0,
+      "views": 48,
+      "tags": [
+        "c",
+        "linux",
+        "gettext",
+        "xgettext"
+      ]
+    },
+    {
+      "rank": 16,
+      "title": "Is it possible to ask user for authentication for an App Intent action?",
+      "url": "https://stackoverflow.com/questions/79964710/is-it-possible-to-ask-user-for-authentication-for-an-app-intent-action",
+      "score": -1,
+      "answers": 0,
+      "views": 16,
+      "tags": [
+        "appintents"
+      ]
+    },
+    {
+      "rank": 17,
+      "title": "Expanding window diffusion index models (with PCA) forecasting",
+      "url": "https://stackoverflow.com/questions/79963683/expanding-window-diffusion-index-models-with-pca-forecasting",
+      "score": 0,
+      "answers": 0,
+      "views": 40,
+      "tags": [
+        "r",
+        "statistics"
+      ]
+    },
+    {
+      "rank": 18,
+      "title": "how to learn java oop in most effective and which resource to follow",
+      "url": "https://stackoverflow.com/questions/79963701/how-to-learn-java-oop-in-most-effective-and-which-resource-to-follow",
+      "score": 0,
+      "answers": 1,
+      "views": 34,
+      "tags": [
+        "java",
+        "oop"
+      ]
+    },
+    {
+      "rank": 19,
+      "title": "Cosmos os boot failure",
+      "url": "https://stackoverflow.com/questions/79963693/cosmos-os-boot-failure",
+      "score": -1,
+      "answers": 0,
+      "views": 25,
+      "tags": [
+        "c#",
+        "cosmos"
+      ]
+    },
+    {
+      "rank": 20,
+      "title": "Is the Geist design system really open source?",
+      "url": "https://stackoverflow.com/questions/79963677/is-the-geist-design-system-really-open-source",
+      "score": 0,
+      "answers": 1,
+      "views": 48,
+      "tags": [
+        "javascript",
+        "user-interface"
+      ]
+    },
+    {
+      "rank": 21,
+      "title": "How can I retrieve all works associated with a specific ORCID using the OpenAlex API?",
+      "url": "https://stackoverflow.com/questions/79963586/how-can-i-retrieve-all-works-associated-with-a-specific-orcid-using-the-openalex",
+      "score": 0,
+      "answers": 2,
+      "views": 47,
+      "tags": [
+        "python"
+      ]
+    },
+    {
+      "rank": 22,
+      "title": "How do I wait correctly for web_view_javascript_finished() to return in gtk4 and C?",
+      "url": "https://stackoverflow.com/questions/79963610/how-do-i-wait-correctly-for-web-view-javascript-finished-to-return-in-gtk4-and",
+      "score": 3,
+      "answers": 1,
+      "views": 82,
+      "tags": [
+        "c",
+        "gtk",
+        "webkitgtk"
+      ]
+    },
+    {
+      "rank": 23,
+      "title": "Node.js login doesn't work. How to fix it?",
+      "url": "https://stackoverflow.com/questions/79963636/node-js-login-doesnt-work-how-to-fix-it",
+      "score": -3,
+      "answers": 0,
+      "views": 95,
+      "tags": [
+        "javascript",
+        "html",
+        "node.js",
+        "backend"
+      ]
+    },
+    {
+      "rank": 24,
+      "title": "Problematic type-hints",
+      "url": "https://stackoverflow.com/questions/79963662/problematic-type-hints",
+      "score": -6,
+      "answers": 0,
+      "views": 61,
+      "tags": [
+        "python",
+        "python-typing"
+      ]
+    },
+    {
+      "rank": 25,
+      "title": "best data architecture to scale Python",
+      "url": "https://stackoverflow.com/questions/79963656/best-data-architecture-to-scale-python",
+      "score": 1,
+      "answers": 1,
+      "views": 62,
+      "tags": [
+        "python",
+        "amazon-s3"
+      ]
+    }
+  ]
+}
