@@ -8,7 +8,7 @@
 // and replies with a PLAIN-TEXT 429 body, not JSON. We retry with backoff and,
 // if it never yields JSON, surface an error block the orchestrator can render.
 
-import { readdir, readFile } from "node:fs/promises";
+import { readdir, readFile, writeFile } from "node:fs/promises";
 import { dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";
 
@@ -30,25 +30,38 @@ const QUERY =
   'semiconductor) sourcelang:english';
 
 const ENDPOINT = "https://api.gdeltproject.org/api/v2/doc/doc";
-// GDELT's limiter is unforgiving: once you trip it, a short 5–6s pause is NOT
-// enough — follow-up requests keep returning 429 for a longer penalty window.
-// So we (a) try more times and (b) back off exponentially with jitter so the
-// retries actually clear the window instead of compounding the throttle.
-// Sources run in parallel via Promise.allSettled, so a slow GDELT recovery only
-// extends total wall-clock — it never blocks the other 16 sources.
-const MAX_ATTEMPTS = 5;
-const BACKOFF_BASE_MS = 10000; // first backoff ~10s, then ~18s, ~28s, ~40s (+jitter)
-const BACKOFF_GROWTH = 1.6;
-const BACKOFF_MAX_MS = 45000;
+// GDELT's limiter is unforgiving and, critically, SELF-COMPOUNDING: once you
+// trip it, every further request while throttled appears to RESET/extend the
+// penalty window. Empirically the window outlasts a 30s wait, and a throttled
+// IP gets a deliberate ~10s-delayed 429 on each hit. So pounding it with fast
+// retries is counterproductive — it keeps the lockout alive.
+//
+// The strategy here is therefore "fewer, far-apart, patient" rather than "more,
+// closer": a handful of attempts spaced long enough to let the penalty actually
+// expire between tries. Sources run in parallel via Promise.allSettled, so a
+// slow GDELT recovery only extends total wall-clock — it never blocks the
+// other 16 sources.
+const MAX_ATTEMPTS = 4;
+const BACKOFF_BASE_MS = 45000; // first backoff ~45s, then ~68s, ~101s (+jitter)
+const BACKOFF_GROWTH = 1.5;
+const BACKOFF_MAX_MS = 120000;
+
+// Circuit-breaker: when a run is throttled out completely, we record a cooldown
+// timestamp. Subsequent runs (manual re-runs, retries) within this window skip
+// the live fetch entirely and serve the stale snapshot WITHOUT poking GDELT —
+// which is what was keeping the penalty alive. A once-daily scheduled run is
+// always well past this window, so it still attempts a fresh live fetch.
+const COOLDOWN_MS = 30 * 60 * 1000; // 30 min
+const COOLDOWN_FILE = join(HISTORY_DIR, ".cooldown.json");
 
 function buildUrl() {
   const params = new URLSearchParams({
     query: QUERY,
     mode: "ArtList",
     format: "json",
-    maxrecords: "40",
+    maxrecords: "25", // lighter "query weight" — GDELT throttles larger pulls harder
     sort: "DateDesc",
-    timespan: "2d",
+    timespan: "1d",
   });
   return `${ENDPOINT}?${params.toString()}`;
 }
@@ -176,11 +189,68 @@ async function loadLatestSnapshot() {
   return null;
 }
 
+// Circuit-breaker persistence. Returns the epoch-ms timestamp until which we
+// should NOT poke GDELT, or 0 if clear / unreadable.
+async function cooldownUntil() {
+  try {
+    const { until } = JSON.parse(await readFile(COOLDOWN_FILE, "utf8"));
+    return Number(until) || 0;
+  } catch {
+    return 0;
+  }
+}
+
+async function setCooldown(untilMs) {
+  try {
+    await writeFile(
+      COOLDOWN_FILE,
+      JSON.stringify({ until: untilMs, set_at: new Date().toISOString() }, null, 2)
+    );
+  } catch {
+    // Best-effort only — a missing cooldown file just means the next run retries.
+  }
+}
+
+async function clearCooldown() {
+  await writeFile(COOLDOWN_FILE, JSON.stringify({ until: 0 }, null, 2)).catch(() => {});
+}
+
 export default async function fetchGdeltAI() {
   let articles;
+
+  // If a recent run was throttled out, don't poke GDELT again — that only keeps
+  // its penalty window alive. Serve stale immediately instead.
+  const cdUntil = await cooldownUntil();
+  if (Date.now() < cdUntil) {
+    const mins = Math.ceil((cdUntil - Date.now()) / 60000);
+    const fb = await loadLatestSnapshot();
+    if (fb) {
+      console.warn(
+        `[gdelt-ai] IN COOLDOWN (~${mins}m left) — skipping live fetch, ` +
+        `serving stale snapshot from ${fb.date} (${fb.items.length} items).`
+      );
+      return {
+        source: "gdelt-ai",
+        label: `${LABEL} (stale: ${fb.date})`,
+        fetched_at: new Date().toISOString(),
+        data_date: fb.date,
+        stale: true,
+        stale_reason: `in cooldown (~${mins}m left after a recent throttle)`,
+        query: QUERY,
+        items: fb.items,
+      };
+    }
+    // No snapshot to serve — fall through and try anyway.
+  }
+
   try {
     articles = await fetchArticles();
+    await clearCooldown(); // live fetch worked — reset any prior throttle state
   } catch (err) {
+    // On a throttle, open the circuit so repeated runs stop hammering GDELT.
+    if (/HTTP 429/.test(err.message)) {
+      await setCooldown(Date.now() + COOLDOWN_MS);
+    }
     // Live fetch failed — almost always GDELT throttling. Rather than render an
     // empty AI-news tile, serve the most recent good snapshot, clearly marked
     // stale (the `(stale: <date>)` label suffix surfaces on every consumer that

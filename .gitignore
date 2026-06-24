@@ -6,4 +6,8 @@ node_modules/
 /handoff
 /.claude
 CLAUDE.md
+AGENTS.md
 /docs
+
+# gdelt-ai circuit-breaker state (local only)
+data/history/*/.cooldown.json
