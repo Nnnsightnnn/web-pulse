@@ -1,0 +1,72 @@
+{
+  "source": "gdelt-ai",
+  "label": "GDELT — AI & tech news",
+  "fetched_at": "2026-06-26T08:09:30.425Z",
+  "data_date": "2026-06-26",
+  "query": "(\"artificial intelligence\" OR \"machine learning\" OR \"generative AI\" OR OpenAI OR Anthropic OR \"large language model\" OR \"neural network\" OR semiconductor) sourcelang:english",
+  "items": [
+    {
+      "rank": 1,
+      "title": "Anthropic accuses Alibaba of biggest Claude cloning attempt , seeks tougher US action",
+      "url": "https://indianexpress.com/article/technology/tech-news-technology/anthropic-accuses-alibaba-of-biggest-claude-cloning-attempt-seeks-tougher-us-action-10758451/",
+      "domain": "indianexpress.com",
+      "source_country": "India",
+      "seen_at": "2026-06-26T07:30:00Z",
+      "image": "https://images.indianexpress.com/2026/03/Anthropic-AI-generated.png"
+    },
+    {
+      "rank": 2,
+      "title": "India attracts AI billions , but HSBC top investment picks are China , Japan and Korea ; know why",
+      "url": "https://www.businesstoday.in/technology/artificial-intelligence/story/india-attracts-ai-billions-but-hsbcs-top-investment-picks-are-china-japan-and-korea-know-why-539373-2026-06-26",
+      "domain": "businesstoday.in",
+      "source_country": "India",
+      "seen_at": "2026-06-26T07:30:00Z",
+      "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202606/6a3e24ca8445f-ai-investment-260540736-16x9.png"
+    },
+    {
+      "rank": 3,
+      "title": "Seoul shares nosedive nearly 6 % on profit hunting after AI - led rallies",
+      "url": "https://www.koreaherald.com/article/10789692",
+      "domain": "koreaherald.com",
+      "source_country": "South Korea",
+      "seen_at": "2026-06-26T07:30:00Z",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/06/26/news-p.v1.20260626.6c4079f4c54b45789f9c0302ac1ce5eb_T1.jpg"
+    },
+    {
+      "rank": 4,
+      "title": "Asian shares plunge as traders sell to lock in profits after recent rallies driven by AI",
+      "url": "https://www.union-bulletin.com/news/world/asian-shares-plunge-as-traders-sell-to-lock-in-profits-after-recent-rallies-driven-by/article_8faaecef-2df4-5a6c-be89-afadeac7e7be.html",
+      "domain": "union-bulletin.com",
+      "source_country": "United States",
+      "seen_at": "2026-06-26T07:00:00Z",
+      "image": "https://bloximages.newyork1.vip.townnews.com/union-bulletin.com/content/tncms/assets/v3/editorial/7/bd/7bd66b26-f455-57d3-b41e-376a3527474e/6a3e01c142eb3.image.jpg?crop=1763%2C926%2C0%2C124"
+    },
+    {
+      "rank": 5,
+      "title": "Nokia Acquired Infinera and Is Now Quietly Becoming an AI Infrastructure Play . Wall Street Hasnt Caught On Yet .",
+      "url": "https://finance.yahoo.com/technology/ai/articles/nokia-acquired-infinera-now-quietly-185000739.html",
+      "domain": "finance.yahoo.com",
+      "source_country": "United States",
+      "seen_at": "2026-06-26T07:00:00Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/399B67D0B01D7D8B34BE6D40A79182C69A8F4F9E77A540040779390B8670E01A/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F2d0be90414aca1d294352edd5f4db12c"
+    },
+    {
+      "rank": 6,
+      "title": "Why Robo Global Robotics & Automation ETF ( ROBO ) Is a Top ETF Buy for Robotics Investors",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-robo-global-robotics-automation-185546241.html",
+      "domain": "finance.yahoo.com",
+      "source_country": "United States",
+      "seen_at": "2026-06-26T07:00:00Z",
+      "image": "https://s.yimg.com/lo/mysterio/api/C850B2BAB995A838EA52AB7CC7967C7C60F2EE8D559F14D405A02004746EABCD/subgraphmysterio/resizefill_w1200_h674;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2Fc7bc3fe97473bf58bc2293a819a639a0"
+    },
+    {
+      "rank": 7,
+      "title": "GIFT Nifty tumbles over 150 points as global sell - off in AI stocks rattles sentiment",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/gift-nifty-tumbles-over-150-points-as-global-sell-off-in-ai-stocks-rattles-sentiment/articleshow/132009209.cms",
+      "domain": "economictimes.indiatimes.com",
+      "source_country": "India",
+      "seen_at": "2026-06-26T07:00:00Z",
+      "image": "https://img.etimg.com/thumb/msid-132009194,width-1200,height-630,imgsize-50816,overlay-etmarkets/articleshow.jpg"
+    }
+  ]
+}

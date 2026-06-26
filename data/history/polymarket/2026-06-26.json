@@ -1,0 +1,331 @@
+{
+  "source": "polymarket",
+  "label": "Polymarket — top 24h volume",
+  "fetched_at": "2026-06-26T08:09:19.812Z",
+  "items": [
+    {
+      "rank": 1,
+      "title": "Will Ecuador win the 2026 FIFA World Cup?",
+      "url": "https://polymarket.com/event/world-cup-winner",
+      "volume_24h": 7623167.964764997,
+      "volume_total": 80046273.12078637,
+      "liquidity": 3568113.35761,
+      "yes_price": 0.0055,
+      "leader": {
+        "name": "No",
+        "price": 0.9945
+      },
+      "end_date": "2026-07-20T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Will Benjamin Netanyahu enter Iran by June 30?",
+      "url": "https://polymarket.com/event/who-will-enter-iran-by-june-30",
+      "volume_24h": 3129784.557891,
+      "volume_total": 5557216.626927,
+      "liquidity": 42477.96821,
+      "yes_price": 0.0015,
+      "leader": {
+        "name": "No",
+        "price": 0.9985
+      },
+      "end_date": "2026-06-30T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Will Adanech Abiebie be the next Prime Minister of Ethiopia?",
+      "url": "https://polymarket.com/event/next-prime-minister-of-ethiopia",
+      "volume_24h": 3009506.945,
+      "volume_total": 22049677.517521,
+      "liquidity": 12279.37496,
+      "yes_price": 0.002,
+      "leader": {
+        "name": "No",
+        "price": 0.998
+      },
+      "end_date": "2026-06-01T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Will McCartney Kessler be the 2026 Women’s Wimbledon Winner?",
+      "url": "https://polymarket.com/event/2026-womens-wimbledon-winner",
+      "volume_24h": 2776215,
+      "volume_total": 3108839.449707,
+      "liquidity": 28759.77586,
+      "yes_price": 0.002,
+      "leader": {
+        "name": "No",
+        "price": 0.998
+      },
+      "end_date": "2026-07-12T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Strait of Hormuz traffic returns to normal by end of June?",
+      "url": "https://polymarket.com/event/strait-of-hormuz-traffic-returns-to-normal-by-end-of-june",
+      "volume_24h": 2297731.705530998,
+      "volume_total": 36982884.30908431,
+      "liquidity": 133023.31317,
+      "yes_price": 0.1265,
+      "leader": {
+        "name": "No",
+        "price": 0.8735
+      },
+      "end_date": "2026-06-30T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Will France win on 2026-06-26?",
+      "url": "https://polymarket.com/event/fifwc-nor-fra-2026-06-26",
+      "volume_24h": 1590419.0100000005,
+      "volume_total": 2167011.3870710433,
+      "liquidity": 1562708.6249,
+      "yes_price": 0.605,
+      "leader": {
+        "name": "Yes",
+        "price": 0.605
+      },
+      "end_date": "2026-06-26T19:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Will Cabo Verde win on 2026-06-26?",
+      "url": "https://polymarket.com/event/fifwc-cvi-ksa-2026-06-26",
+      "volume_24h": 1183136.952010998,
+      "volume_total": 1660601.6862849947,
+      "liquidity": 728414.2359,
+      "yes_price": 0.365,
+      "leader": {
+        "name": "No",
+        "price": 0.635
+      },
+      "end_date": "2026-06-27T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Will Egypt win on 2026-06-26?",
+      "url": "https://polymarket.com/event/fifwc-egy-irn-2026-06-26",
+      "volume_24h": 1011518.6424890002,
+      "volume_total": 1118991.0116029975,
+      "liquidity": 518105.7543,
+      "yes_price": 0.375,
+      "leader": {
+        "name": "No",
+        "price": 0.625
+      },
+      "end_date": "2026-06-27T03:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Strait of Hormuz traffic returns to normal by July 31?",
+      "url": "https://polymarket.com/event/strait-of-hormuz-traffic-returns-to-normal-by-july-31",
+      "volume_24h": 978929.8826499996,
+      "volume_total": 9756052.183031086,
+      "liquidity": 219344.483,
+      "yes_price": 0.615,
+      "leader": {
+        "name": "Yes",
+        "price": 0.615
+      },
+      "end_date": "2026-07-31T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Will Spain win on 2026-06-26?",
+      "url": "https://polymarket.com/event/fifwc-ury-esp-2026-06-26",
+      "volume_24h": 931600.877681,
+      "volume_total": 1171553.8936280042,
+      "liquidity": 805991.3122,
+      "yes_price": 0.615,
+      "leader": {
+        "name": "Yes",
+        "price": 0.615
+      },
+      "end_date": "2026-06-27T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 11,
+      "title": "Kharg Island no longer under Iranian control by June 30?",
+      "url": "https://polymarket.com/event/kharg-island-no-longer-under-iranian-control-by-march-31",
+      "volume_24h": 813921.4998009999,
+      "volume_total": 12491657.601217002,
+      "liquidity": 601634.2879,
+      "yes_price": 0.0025,
+      "leader": {
+        "name": "No",
+        "price": 0.9975
+      },
+      "end_date": "2026-06-30T23:55:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 12,
+      "title": "Will the Fed increase interest rates by 50+ bps after the July 2026 meeting?",
+      "url": "https://polymarket.com/event/fed-decision-in-july-181",
+      "volume_24h": 807048.819995,
+      "volume_total": 3910314.3660440096,
+      "liquidity": 133478.24319,
+      "yes_price": 0.0045,
+      "leader": {
+        "name": "No",
+        "price": 0.9955
+      },
+      "end_date": "2026-07-29T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 13,
+      "title": "Strait of Hormuz traffic returns to normal by July 15?",
+      "url": "https://polymarket.com/event/strait-of-hormuz-traffic-returns-to-normal-by-july-15",
+      "volume_24h": 781851.5770090002,
+      "volume_total": 4095974.5661309944,
+      "liquidity": 144894.3121,
+      "yes_price": 0.465,
+      "leader": {
+        "name": "No",
+        "price": 0.535
+      },
+      "end_date": "2026-07-15T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 14,
+      "title": "Will Crude Oil (CL) hit (HIGH) $200 by end of June?",
+      "url": "https://polymarket.com/event/cl-hit-jun-2026",
+      "volume_24h": 687944.9400000001,
+      "volume_total": 6005392.577628995,
+      "liquidity": 561556.99139,
+      "yes_price": 0.0005,
+      "leader": {
+        "name": "No",
+        "price": 0.9995
+      },
+      "end_date": "2026-06-30T18:30:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 15,
+      "title": "Will the US confirm that aliens exist by June 30?",
+      "url": "https://polymarket.com/event/will-the-us-confirm-that-aliens-exist-before-2027",
+      "volume_24h": 632856.6859690001,
+      "volume_total": 10322225.572943943,
+      "liquidity": 501318.43767,
+      "yes_price": 0.0035,
+      "leader": {
+        "name": "No",
+        "price": 0.9965
+      },
+      "end_date": "2026-06-30T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 16,
+      "title": "Will Iraq reach the 2026 FIFA World Cup final?",
+      "url": "https://polymarket.com/event/world-cup-nation-to-reach-final",
+      "volume_24h": 548650.1403330001,
+      "volume_total": 550668.0413330002,
+      "liquidity": 79055.04668,
+      "yes_price": 0.0015,
+      "leader": {
+        "name": "No",
+        "price": 0.9985
+      },
+      "end_date": "2026-07-20T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 17,
+      "title": "Will Ayo Dosunmu play for the Oklahoma City Thunder in 2026-27?",
+      "url": "https://polymarket.com/event/nba-free-agency-ayo-dosunmu-next-team-20260622172322449",
+      "volume_24h": 474780.011,
+      "volume_total": 475115.453,
+      "liquidity": 1825.27152,
+      "yes_price": 0.009,
+      "leader": {
+        "name": "No",
+        "price": 0.991
+      },
+      "end_date": "2026-10-31T23:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 18,
+      "title": "Putin out as President of Russia by December 31, 2026?",
+      "url": "https://polymarket.com/event/putin-out-before-2027",
+      "volume_24h": 468371.04038799996,
+      "volume_total": 8575083.886732006,
+      "liquidity": 155953.2407,
+      "yes_price": 0.125,
+      "leader": {
+        "name": "No",
+        "price": 0.875
+      },
+      "end_date": "2026-12-31T18:30:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "source": "google-trends",
   "label": "Google Trends — trending searches",
-  "fetched_at": "2026-06-25T08:10:32.998Z",
+  "fetched_at": "2026-06-25T08:09:25.485Z",
   "countries": [
     "US",
     "GB",
@@ -170,6 +170,17 @@
     },
     {
       "rank": 15,
+      "title": "大久保博元",
+      "geos": [
+        "JP"
+      ],
+      "traffic_estimate": 2000,
+      "news_title": "",
+      "news_url": "",
+      "news_source": ""
+    },
+    {
+      "rank": 16,
       "title": "flights",
       "geos": [
         "US"
@@ -180,7 +191,7 @@
       "news_source": "ABC7 New York"
     },
     {
-      "rank": 16,
+      "rank": 17,
       "title": "steam summer sale 2026",
       "geos": [
         "US"
@@ -191,7 +202,7 @@
       "news_source": "AltChar"
     },
     {
-      "rank": 17,
+      "rank": 18,
       "title": "hotels",
       "geos": [
         "US"
@@ -202,7 +213,7 @@
       "news_source": "KOB.com"
     },
     {
-      "rank": 18,
+      "rank": 19,
       "title": "time",
       "geos": [
         "US"
@@ -213,7 +224,7 @@
       "news_source": "Los Angeles Times"
     },
     {
-      "rank": 19,
+      "rank": 20,
       "title": "ગૌતમ અદાણી",
       "geos": [
         "IN"
@@ -224,7 +235,7 @@
       "news_source": "Divya Bhaskar"
     },
     {
-      "rank": 20,
+      "rank": 21,
       "title": "杉尾秀哉",
       "geos": [
         "JP"
@@ -235,7 +246,7 @@
       "news_source": "Yahoo!ニュース"
     },
     {
-      "rank": 21,
+      "rank": 22,
       "title": "285a",
       "geos": [
         "JP"
@@ -246,7 +257,7 @@
       "news_source": "The Japan Times"
     },
     {
-      "rank": 22,
+      "rank": 23,
       "title": "marvel studios avengers endgame re-release",
       "geos": [
         "US"
@@ -257,7 +268,7 @@
       "news_source": "Deadline"
     },
     {
-      "rank": 23,
+      "rank": 24,
       "title": "efl fixtures",
       "geos": [
         "GB"
@@ -268,7 +279,7 @@
       "news_source": "BBC"
     },
     {
-      "rank": 24,
+      "rank": 25,
       "title": "dp world tour",
       "geos": [
         "GB"
@@ -277,17 +288,6 @@
       "news_title": "PGA Tour: Promotion and relegation a key element of revamped tour from 2028",
       "news_url": "https://www.bbc.co.uk/sport/golf/articles/c0ry0nz48k9o",
       "news_source": "BBC"
-    },
-    {
-      "rank": 25,
-      "title": "free games",
-      "geos": [
-        "IN"
-      ],
-      "traffic_estimate": 500,
-      "news_title": "World Cup 2026 schedule: Here's how to watch every match for free",
-      "news_url": "https://sports.yahoo.com/soccer/article/world-cup-2026-free-livestream-info-how-to-watch-every-match-184500795.html",
-      "news_source": "Yahoo Sports"
     }
   ]
 }
