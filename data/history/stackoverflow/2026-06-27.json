@@ -1,0 +1,331 @@
+{
+  "source": "stackoverflow",
+  "label": "Stack Overflow — hot questions",
+  "fetched_at": "2026-06-27T08:18:45.483Z",
+  "items": [
+    {
+      "rank": 1,
+      "title": "Why face_recognition.face_encodings() cause request timeout in concurrent django requests?",
+      "url": "https://stackoverflow.com/questions/79968554/why-face-recognition-face-encodings-cause-request-timeout-in-concurrent-django",
+      "score": 3,
+      "answers": 0,
+      "views": 27,
+      "tags": [
+        "python",
+        "django",
+        "opencv",
+        "face-recognition"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "How do you decide what's worth automating?",
+      "url": "https://stackoverflow.com/questions/79968538/how-do-you-decide-whats-worth-automating",
+      "score": 0,
+      "answers": 2,
+      "views": 36,
+      "tags": [
+        "azure-devops",
+        "automation",
+        "devops"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Are active PA speakers worth the investment over passive speakers for small live events?",
+      "url": "https://stackoverflow.com/questions/79968533/are-active-pa-speakers-worth-the-investment-over-passive-speakers-for-small-live",
+      "score": 0,
+      "answers": 2,
+      "views": 28,
+      "tags": [
+        "audio",
+        "actions-on-google",
+        "mui-x-data-grid"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "How can I call my class's method with a switch type parameter? The PowerShell doesn't like the way I'm trying to do this in my code",
+      "url": "https://stackoverflow.com/questions/79968551/how-can-i-call-my-classs-method-with-a-switch-type-parameter-the-powershell-do",
+      "score": 0,
+      "answers": 0,
+      "views": 24,
+      "tags": [
+        "powershell",
+        "methods",
+        "switch-statement",
+        "parse-error"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Does GridStoreFactory.getGridStore() internally reuse connections when identical connection properties are supplied?",
+      "url": "https://stackoverflow.com/questions/79968550/does-gridstorefactory-getgridstore-internally-reuse-connections-when-identical",
+      "score": 0,
+      "answers": 0,
+      "views": 15,
+      "tags": [
+        "java",
+        "griddb"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "How can I provide a static outbound IP for Azure Container Apps to support third-party IP whitelisting?",
+      "url": "https://stackoverflow.com/questions/79968547/how-can-i-provide-a-static-outbound-ip-for-azure-container-apps-to-support-third",
+      "score": 0,
+      "answers": 0,
+      "views": 20,
+      "tags": [
+        "azure",
+        "network-programming",
+        "ftp",
+        "azure-container-apps"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "How to get rid of line breaks when printing in the Shell",
+      "url": "https://stackoverflow.com/questions/79968521/how-to-get-rid-of-line-breaks-when-printing-in-the-shell",
+      "score": 0,
+      "answers": 2,
+      "views": 55,
+      "tags": [
+        "python",
+        "thonny"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Windows Console resizing works when increasing size but fails when decreasing",
+      "url": "https://stackoverflow.com/questions/79968522/windows-console-resizing-works-when-increasing-size-but-fails-when-decreasing",
+      "score": 0,
+      "answers": 0,
+      "views": 49,
+      "tags": [
+        "c++",
+        "windows",
+        "winapi",
+        "console-application"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Devops real time projects",
+      "url": "https://stackoverflow.com/questions/79968537/devops-real-time-projects",
+      "score": 0,
+      "answers": 0,
+      "views": 36,
+      "tags": [
+        "amazon-web-services",
+        "git",
+        "kubernetes",
+        "jenkins-pipeline",
+        "github-actions"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "What do fgetc and fputc have to do that using fread or fwrite on a big block avoids",
+      "url": "https://stackoverflow.com/questions/79968516/what-do-fgetc-and-fputc-have-to-do-that-using-fread-or-fwrite-on-a-big-block-avo",
+      "score": 3,
+      "answers": 1,
+      "views": 75,
+      "tags": [
+        "c",
+        "io",
+        "posix"
+      ]
+    },
+    {
+      "rank": 11,
+      "title": "True configuration of a PowerShell Light Theme",
+      "url": "https://stackoverflow.com/questions/79968514/true-configuration-of-a-powershell-light-theme",
+      "score": 0,
+      "answers": 0,
+      "views": 26,
+      "tags": [
+        "powershell",
+        "themes",
+        "windows-terminal"
+      ]
+    },
+    {
+      "rank": 12,
+      "title": "GTM enhanced conversions: user data sends with constant value but not with data layer variable",
+      "url": "https://stackoverflow.com/questions/79968523/gtm-enhanced-conversions-user-data-sends-with-constant-value-but-not-with-data",
+      "score": -1,
+      "answers": 0,
+      "views": 21,
+      "tags": [
+        "google-tag-manager",
+        "event-tracking",
+        "google-tag-manager-server-side"
+      ]
+    },
+    {
+      "rank": 13,
+      "title": "How to create table from project Bookservice .NET",
+      "url": "https://stackoverflow.com/questions/79968502/how-to-create-table-from-project-bookservice-net",
+      "score": -3,
+      "answers": 0,
+      "views": 35,
+      "tags": [
+        ".net"
+      ]
+    },
+    {
+      "rank": 14,
+      "title": "Update column with other column's values in same group but exclude current group members",
+      "url": "https://stackoverflow.com/questions/79968500/update-column-with-other-columns-values-in-same-group-but-exclude-current-group",
+      "score": -2,
+      "answers": 0,
+      "views": 55,
+      "tags": [
+        "sql",
+        "sql-server"
+      ]
+    },
+    {
+      "rank": 15,
+      "title": "Is retrieving the row before calling put() the only way to update a single field in GridDB?",
+      "url": "https://stackoverflow.com/questions/79968526/is-retrieving-the-row-before-calling-put-the-only-way-to-update-a-single-field",
+      "score": 0,
+      "answers": 1,
+      "views": 41,
+      "tags": [
+        "java",
+        "griddb"
+      ]
+    },
+    {
+      "rank": 16,
+      "title": "Why is mypy 2.0 caching not working between invocations that do/don't pass --num-workers?",
+      "url": "https://stackoverflow.com/questions/79968512/why-is-mypy-2-0-caching-not-working-between-invocations-that-do-dont-pass-num",
+      "score": 1,
+      "answers": 1,
+      "views": 33,
+      "tags": [
+        "mypy"
+      ]
+    },
+    {
+      "rank": 17,
+      "title": "f2py `-DF2PY_REPORT_ATEXIT` flag not working",
+      "url": "https://stackoverflow.com/questions/79968524/f2py-df2py-report-atexit-flag-not-working",
+      "score": 0,
+      "answers": 0,
+      "views": 25,
+      "tags": [
+        "python",
+        "numpy",
+        "fortran",
+        "f2py"
+      ]
+    },
+    {
+      "rank": 18,
+      "title": "I am getting a TypeError in fastapi jinja2",
+      "url": "https://stackoverflow.com/questions/79968520/i-am-getting-a-typeerror-in-fastapi-jinja2",
+      "score": -1,
+      "answers": 0,
+      "views": 34,
+      "tags": [
+        "python"
+      ]
+    },
+    {
+      "rank": 19,
+      "title": "Codes on the Right side of Visual Studio Code",
+      "url": "https://stackoverflow.com/questions/79968461/codes-on-the-right-side-of-visual-studio-code",
+      "score": 0,
+      "answers": 3,
+      "views": 69,
+      "tags": [
+        "visual-studio-code",
+        "ide"
+      ]
+    },
+    {
+      "rank": 20,
+      "title": "Get bitwidth of any _BitInt(x) (especially signed)?",
+      "url": "https://stackoverflow.com/questions/79968504/get-bitwidth-of-any-bitintx-especially-signed",
+      "score": 0,
+      "answers": 4,
+      "views": 39,
+      "tags": [
+        "c",
+        "metaprogramming",
+        "c23"
+      ]
+    },
+    {
+      "rank": 21,
+      "title": "Created a Chrome Add in For helping build automations",
+      "url": "https://stackoverflow.com/questions/79968507/created-a-chrome-add-in-for-helping-build-automations",
+      "score": 0,
+      "answers": 0,
+      "views": 33,
+      "tags": [
+        "python",
+        "powershell",
+        "curl",
+        "google-chrome-extension",
+        "product"
+      ]
+    },
+    {
+      "rank": 22,
+      "title": "Unit testing (XUnit) Metalama Aspect with injected IConfiguration",
+      "url": "https://stackoverflow.com/questions/79968395/unit-testing-xunit-metalama-aspect-with-injected-iconfiguration",
+      "score": 0,
+      "answers": 0,
+      "views": 38,
+      "tags": [
+        "c#",
+        "unit-testing",
+        "xunit",
+        "metalama"
+      ]
+    },
+    {
+      "rank": 23,
+      "title": "Visual Studio 2026 with CMake not building for x86_64",
+      "url": "https://stackoverflow.com/questions/79968303/visual-studio-2026-with-cmake-not-building-for-x86-64",
+      "score": 0,
+      "answers": 0,
+      "views": 97,
+      "tags": [
+        "visual-studio",
+        "cmake",
+        "visual-studio-2026"
+      ]
+    },
+    {
+      "rank": 24,
+      "title": "The UI button doesn't open the new panel on the first click",
+      "url": "https://stackoverflow.com/questions/79968333/the-ui-button-doesnt-open-the-new-panel-on-the-first-click",
+      "score": 0,
+      "answers": 0,
+      "views": 55,
+      "tags": [
+        "c#",
+        "unity-game-engine",
+        "user-interface",
+        "click",
+        "panel"
+      ]
+    },
+    {
+      "rank": 25,
+      "title": "Learning through AI",
+      "url": "https://stackoverflow.com/questions/79968481/learning-through-ai",
+      "score": 0,
+      "answers": 4,
+      "views": 87,
+      "tags": [
+        "artificial-intelligence"
+      ]
+    }
+  ]
+}
