@@ -1,0 +1,313 @@
+{
+  "source": "polymarket",
+  "label": "Polymarket — top 24h volume",
+  "fetched_at": "2026-06-29T08:11:30.704Z",
+  "items": [
+    {
+      "rank": 1,
+      "title": "Will Canada win the 2026 FIFA World Cup?",
+      "url": "https://polymarket.com/event/world-cup-winner",
+      "volume_24h": 8092664.448647994,
+      "volume_total": 89268489.09834164,
+      "liquidity": 11035190.35032,
+      "yes_price": 0.0025,
+      "leader": {
+        "name": "No",
+        "price": 0.9975
+      },
+      "end_date": "2026-07-20T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Will Shimelis Abdisa be the next Prime Minister of Ethiopia?",
+      "url": "https://polymarket.com/event/next-prime-minister-of-ethiopia",
+      "volume_24h": 7271266.370673,
+      "volume_total": 7439983.792465,
+      "liquidity": 21796.0381,
+      "yes_price": 0.002,
+      "leader": {
+        "name": "No",
+        "price": 0.998
+      },
+      "end_date": "2026-06-01T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Will Brazil win on 2026-06-29?",
+      "url": "https://polymarket.com/event/fifwc-bra-jpn-2026-06-29",
+      "volume_24h": 2418206.3125620326,
+      "volume_total": 3342659.4775318764,
+      "liquidity": 2800853.8487,
+      "yes_price": 0.575,
+      "leader": {
+        "name": "Yes",
+        "price": 0.575
+      },
+      "end_date": "2026-06-29T17:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Will Laura Siegemund be the 2026 Women’s Wimbledon Winner?",
+      "url": "https://polymarket.com/event/2026-womens-wimbledon-winner",
+      "volume_24h": 1821946.4983329999,
+      "volume_total": 5272107.184964999,
+      "liquidity": 24048.84016,
+      "yes_price": 0.0015,
+      "leader": {
+        "name": "No",
+        "price": 0.9985
+      },
+      "end_date": "2026-07-12T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "LoL: Deep Cross Gaming vs Team Liquid - Game 2 Winner",
+      "url": "https://polymarket.com/event/lol-dcg-tl2-2026-06-29",
+      "volume_24h": 1280613.5639400003,
+      "volume_total": 1280613.5639399996,
+      "liquidity": 442908.99571,
+      "yes_price": 0.0005,
+      "leader": {
+        "name": "Team Liquid",
+        "price": 0.9995
+      },
+      "end_date": "2026-06-29T11:45:00Z",
+      "outcomes": [
+        "Deep Cross Gaming",
+        "Team Liquid"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Will Netherlands win on 2026-06-29?",
+      "url": "https://polymarket.com/event/fifwc-nld-mar-2026-06-29",
+      "volume_24h": 1233482.222693002,
+      "volume_total": 1608305.1993579948,
+      "liquidity": 1999363.741,
+      "yes_price": 0.425,
+      "leader": {
+        "name": "No",
+        "price": 0.575
+      },
+      "end_date": "2026-06-30T01:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Will any U.S. Senator enter Iran by June 30?",
+      "url": "https://polymarket.com/event/who-will-enter-iran-by-june-30",
+      "volume_24h": 1213702.538833,
+      "volume_total": 1285154.628531,
+      "liquidity": 29365.51521,
+      "yes_price": 0.0015,
+      "leader": {
+        "name": "No",
+        "price": 0.9985
+      },
+      "end_date": "2026-06-30T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Spread: Germany (-1.5)",
+      "url": "https://polymarket.com/event/fifwc-ger-par-2026-06-29-more-markets",
+      "volume_24h": 1185039.2020829997,
+      "volume_total": 1293813.6912050005,
+      "liquidity": 467068.2987,
+      "yes_price": 0.455,
+      "leader": {
+        "name": "Paraguay",
+        "price": 0.545
+      },
+      "end_date": "2026-06-29T20:30:00Z",
+      "outcomes": [
+        "Germany",
+        "Paraguay"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Brazil vs. Japan: O/U 2.5",
+      "url": "https://polymarket.com/event/fifwc-bra-jpn-2026-06-29-more-markets",
+      "volume_24h": 1106550.1043200025,
+      "volume_total": 1193046.8420209975,
+      "liquidity": 578589.9196,
+      "yes_price": 0.455,
+      "leader": {
+        "name": "Under",
+        "price": 0.545
+      },
+      "end_date": "2026-06-29T17:00:00Z",
+      "outcomes": [
+        "Over",
+        "Under"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Will Gunnar Henderson lead the MLB in runs for the 2026 regular season?",
+      "url": "https://polymarket.com/event/mlb-runs-leader",
+      "volume_24h": 796390.5,
+      "volume_total": 796760.973858,
+      "liquidity": 545.76541,
+      "yes_price": 0.009,
+      "leader": {
+        "name": "No",
+        "price": 0.991
+      },
+      "end_date": "2026-09-28T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 11,
+      "title": "Will Germany win on 2026-06-29?",
+      "url": "https://polymarket.com/event/fifwc-ger-par-2026-06-29",
+      "volume_24h": 757961.792667008,
+      "volume_total": 1110020.3603639917,
+      "liquidity": 1299703.4176,
+      "yes_price": 0.725,
+      "leader": {
+        "name": "Yes",
+        "price": 0.725
+      },
+      "end_date": "2026-06-29T20:30:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 12,
+      "title": "US forces in Venezuela again by June 30, 2026?",
+      "url": "https://polymarket.com/event/us-forces-in-venezuela-again-by",
+      "volume_24h": 723115.2236039991,
+      "volume_total": 1378672.1293120217,
+      "liquidity": 3377446.46195,
+      "yes_price": 0.9995,
+      "leader": {
+        "name": "Yes",
+        "price": 0.9995
+      },
+      "end_date": "2026-01-31T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 13,
+      "title": "Will Trump say \"Mutilation\" during Faith & Freedom Coalition Conference?",
+      "url": "https://polymarket.com/event/what-will-trump-say-during-the-faith-freedom-coalition-conference-20260626142533098",
+      "volume_24h": 677157.92,
+      "volume_total": 2353723.673806,
+      "liquidity": 2330520.62419,
+      "yes_price": 0.0005,
+      "leader": {
+        "name": "No",
+        "price": 0.9995
+      },
+      "end_date": "2026-06-26T23:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 14,
+      "title": "Iran leadership change by June 30?",
+      "url": "https://polymarket.com/event/iran-leadership-change-by",
+      "volume_24h": 628635.245465,
+      "volume_total": 4047539.1374820103,
+      "liquidity": 114320.59261,
+      "yes_price": 0.0025,
+      "leader": {
+        "name": "No",
+        "price": 0.9975
+      },
+      "end_date": "2026-06-30T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 15,
+      "title": "Will Logan Webb strike out the most batters during the 2026 MLB regular season?",
+      "url": "https://polymarket.com/event/mlb-strikeouts-leader-pitcher",
+      "volume_24h": 583252,
+      "volume_total": 583813.91776,
+      "liquidity": 236.387,
+      "yes_price": 0.077,
+      "leader": {
+        "name": "No",
+        "price": 0.923
+      },
+      "end_date": null,
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 16,
+      "title": "Will Alexander Albon be the 2026 F1 Drivers' Champion?",
+      "url": "https://polymarket.com/event/2026-f1-drivers-champion",
+      "volume_24h": 573669.8995,
+      "volume_total": 11713857.408512104,
+      "liquidity": 954729.75549,
+      "yes_price": 0.0025,
+      "leader": {
+        "name": "No",
+        "price": 0.9975
+      },
+      "end_date": "2026-12-06T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 17,
+      "title": "Strait of Hormuz traffic returns to normal by end of June?",
+      "url": "https://polymarket.com/event/strait-of-hormuz-traffic-returns-to-normal-by-end-of-june",
+      "volume_24h": 572052.2673749991,
+      "volume_total": 39265603.88714412,
+      "liquidity": 348142.93143,
+      "yes_price": 0.0095,
+      "leader": {
+        "name": "No",
+        "price": 0.9905
+      },
+      "end_date": "2026-06-30T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    }
+  ]
+}
