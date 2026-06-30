@@ -1,0 +1,331 @@
+{
+  "source": "polymarket",
+  "label": "Polymarket — top 24h volume",
+  "fetched_at": "2026-06-30T08:11:06.641Z",
+  "items": [
+    {
+      "rank": 1,
+      "title": "Will Paraguay win the 2026 FIFA World Cup?",
+      "url": "https://polymarket.com/event/world-cup-winner",
+      "volume_24h": 15166474.853798995,
+      "volume_total": 89464506.94426438,
+      "liquidity": 12483976.85003,
+      "yes_price": 0.0025,
+      "leader": {
+        "name": "No",
+        "price": 0.9975
+      },
+      "end_date": "2026-07-20T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Will Shimelis Abdisa be the next Prime Minister of Ethiopia?",
+      "url": "https://polymarket.com/event/next-prime-minister-of-ethiopia",
+      "volume_24h": 6072842.385,
+      "volume_total": 13544026.177465,
+      "liquidity": 22360.27528,
+      "yes_price": 0.002,
+      "leader": {
+        "name": "No",
+        "price": 0.998
+      },
+      "end_date": "2026-06-01T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Will Laura Siegemund be the 2026 Women’s Wimbledon Winner?",
+      "url": "https://polymarket.com/event/2026-womens-wimbledon-winner",
+      "volume_24h": 3926238.551,
+      "volume_total": 9198345.735964999,
+      "liquidity": 20175.3589,
+      "yes_price": 0.002,
+      "leader": {
+        "name": "No",
+        "price": 0.998
+      },
+      "end_date": "2026-07-12T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Will Norway win on 2026-06-30?",
+      "url": "https://polymarket.com/event/fifwc-civ-nor-2026-06-30",
+      "volume_24h": 2426579.816630995,
+      "volume_total": 3162130.3737470014,
+      "liquidity": 1865047.2538,
+      "yes_price": 0.455,
+      "leader": {
+        "name": "No",
+        "price": 0.545
+      },
+      "end_date": "2026-06-30T17:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Putin out as President of Russia by December 31, 2026?",
+      "url": "https://polymarket.com/event/putin-out-before-2027",
+      "volume_24h": 1540220.3745949997,
+      "volume_total": 11809207.559128035,
+      "liquidity": 412055.4224,
+      "yes_price": 0.155,
+      "leader": {
+        "name": "No",
+        "price": 0.845
+      },
+      "end_date": "2026-12-31T18:30:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Will the Fed decrease interest rates by 50+ bps after the July 2026 meeting?",
+      "url": "https://polymarket.com/event/fed-decision-in-july-181",
+      "volume_24h": 1351219.682658,
+      "volume_total": 4848784.697836009,
+      "liquidity": 237260.54532,
+      "yes_price": 0.0085,
+      "leader": {
+        "name": "No",
+        "price": 0.9915
+      },
+      "end_date": "2026-07-29T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Will France win on 2026-06-30?",
+      "url": "https://polymarket.com/event/fifwc-fra-swe-2026-06-30",
+      "volume_24h": 1341062.169290006,
+      "volume_total": 2081288.1999540152,
+      "liquidity": 1921735.0363,
+      "yes_price": 0.765,
+      "leader": {
+        "name": "Yes",
+        "price": 0.765
+      },
+      "end_date": "2026-06-30T21:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Aleksandar Vučić out as Serbian President by June 30, 2026?",
+      "url": "https://polymarket.com/event/aleksandar-vui-out-as-serbian-president-by",
+      "volume_24h": 1225395.1379280004,
+      "volume_total": 1514671.3930599992,
+      "liquidity": 543396.74798,
+      "yes_price": 0.9985,
+      "leader": {
+        "name": "Yes",
+        "price": 0.9985
+      },
+      "end_date": "2026-06-30T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Côte d'Ivoire vs. Norway: O/U 2.5",
+      "url": "https://polymarket.com/event/fifwc-civ-nor-2026-06-30-more-markets",
+      "volume_24h": 1082113.883945,
+      "volume_total": 1130090.6132030038,
+      "liquidity": 576788.7428,
+      "yes_price": 0.515,
+      "leader": {
+        "name": "Over",
+        "price": 0.515
+      },
+      "end_date": "2026-06-30T17:00:00Z",
+      "outcomes": [
+        "Over",
+        "Under"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Spread: France (-1.5)",
+      "url": "https://polymarket.com/event/fifwc-fra-swe-2026-06-30-more-markets",
+      "volume_24h": 935956.8119970002,
+      "volume_total": 1476185.2259009928,
+      "liquidity": 658711.1436,
+      "yes_price": 0.535,
+      "leader": {
+        "name": "France",
+        "price": 0.535
+      },
+      "end_date": "2026-06-30T21:00:00Z",
+      "outcomes": [
+        "France",
+        "Sweden"
+      ]
+    },
+    {
+      "rank": 11,
+      "title": "Will Ayo Dosunmu play for the New York Knicks in 2026-27?",
+      "url": "https://polymarket.com/event/nba-free-agency-ayo-dosunmu-next-team-20260622172322449",
+      "volume_24h": 929124.622,
+      "volume_total": 929522.4935000001,
+      "liquidity": 1490.15446,
+      "yes_price": 0.004,
+      "leader": {
+        "name": "No",
+        "price": 0.996
+      },
+      "end_date": "2026-10-31T23:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 12,
+      "title": "Will Sébastien Lecornu be the next leader out before 2027?",
+      "url": "https://polymarket.com/event/next-leader-out-of-power-before-2027-no-orban",
+      "volume_24h": 778469.8652479999,
+      "volume_total": 881621.7303939998,
+      "liquidity": 37036.54368,
+      "yes_price": 0.0025,
+      "leader": {
+        "name": "No",
+        "price": 0.9975
+      },
+      "end_date": "2026-12-31T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 13,
+      "title": "US x Iran diplomatic meeting by July 3, 2026?",
+      "url": "https://polymarket.com/event/next-round-of-us-iran-peace-talks-byptptpt-20260623022722982",
+      "volume_24h": 599392.1358889997,
+      "volume_total": 920264.1413519995,
+      "liquidity": 58010.4423,
+      "yes_price": 0.385,
+      "leader": {
+        "name": "No",
+        "price": 0.615
+      },
+      "end_date": "2026-07-03T23:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 14,
+      "title": "Trump announces US x Iran ceasefire over by June 30?",
+      "url": "https://polymarket.com/event/trump-announces-us-x-iran-ceasefire-over-byptptpt-20260607232555290",
+      "volume_24h": 595482.1900120002,
+      "volume_total": 2181285.5551179987,
+      "liquidity": 58101.2411,
+      "yes_price": 0.0055,
+      "leader": {
+        "name": "No",
+        "price": 0.9945
+      },
+      "end_date": "2026-07-01T03:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 15,
+      "title": "Strait of Hormuz traffic returns to normal by end of June?",
+      "url": "https://polymarket.com/event/strait-of-hormuz-traffic-returns-to-normal-by-end-of-june",
+      "volume_24h": 587499.485735,
+      "volume_total": 39853604.63287917,
+      "liquidity": 438484.60135,
+      "yes_price": 0.0055,
+      "leader": {
+        "name": "No",
+        "price": 0.9945
+      },
+      "end_date": "2026-06-30T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 16,
+      "title": "Wimbledon ATP: Jesper de Jong vs Rinky Hijikata",
+      "url": "https://polymarket.com/event/atp-jong-hijikat-2026-06-29",
+      "volume_24h": 560752.3107670002,
+      "volume_total": 562944.3166069984,
+      "liquidity": 57402.1237,
+      "yes_price": 0.165,
+      "leader": {
+        "name": "Rinky Hijikata",
+        "price": 0.835
+      },
+      "end_date": "2026-07-06T10:00:00Z",
+      "outcomes": [
+        "Jesper de Jong",
+        "Rinky Hijikata"
+      ]
+    },
+    {
+      "rank": 17,
+      "title": "Will Bitcoin dip to $57,500 in June?",
+      "url": "https://polymarket.com/event/what-price-will-bitcoin-hit-in-june-2026",
+      "volume_24h": 560112.2113539997,
+      "volume_total": 4114130.739610996,
+      "liquidity": 59468.28351,
+      "yes_price": 0.135,
+      "leader": {
+        "name": "No",
+        "price": 0.865
+      },
+      "end_date": "2026-07-01T04:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 18,
+      "title": "U.S. agrees to give Ukraine security guarantee by June 30? ",
+      "url": "https://polymarket.com/event/us-agrees-to-give-ukraine-security-guarantee-by-june-30",
+      "volume_24h": 538295.901701,
+      "volume_total": 709526.0892510002,
+      "liquidity": 32752.57147,
+      "yes_price": 0.0025,
+      "leader": {
+        "name": "No",
+        "price": 0.9975
+      },
+      "end_date": "2026-12-31T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    }
+  ]
+}

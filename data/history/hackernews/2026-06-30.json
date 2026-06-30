@@ -1,0 +1,232 @@
+{
+  "source": "hackernews",
+  "label": "Hacker News — top stories",
+  "fetched_at": "2026-06-30T08:11:06.765Z",
+  "items": [
+    {
+      "rank": 1,
+      "title": "Qwen 3.6 27B is the sweet spot for local development",
+      "url": "https://quesma.com/blog/qwen-36-is-awesome/",
+      "hn_url": "https://news.ycombinator.com/item?id=48721903",
+      "score": 880,
+      "comments": 600,
+      "author": "stared"
+    },
+    {
+      "rank": 2,
+      "title": "Open Source Low Tech",
+      "url": "https://opensourcelowtech.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=48683098",
+      "score": 71,
+      "comments": 15,
+      "author": "grep_it"
+    },
+    {
+      "rank": 3,
+      "title": ".self: A new top-level domain designed to support self-hosting",
+      "url": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
+      "hn_url": "https://news.ycombinator.com/item?id=48724230",
+      "score": 482,
+      "comments": 273,
+      "author": "HumanCCF"
+    },
+    {
+      "rank": 4,
+      "title": "Free the Icons",
+      "url": "https://weblog.rogueamoeba.com/2026/06/26/free-the-icons/",
+      "hn_url": "https://news.ycombinator.com/item?id=48698908",
+      "score": 415,
+      "comments": 113,
+      "author": "zdw"
+    },
+    {
+      "rank": 5,
+      "title": "LongCat-2.0, a large-scale MoE model with 1.6T total and 48B Active",
+      "url": "https://longcat.chat/blog/longcat-2.0/",
+      "hn_url": "https://news.ycombinator.com/item?id=48727116",
+      "score": 120,
+      "comments": 36,
+      "author": "benjiro29"
+    },
+    {
+      "rank": 6,
+      "title": "Memory Safe Context Switching",
+      "url": "https://fil-c.org/context_switches",
+      "hn_url": "https://news.ycombinator.com/item?id=48727177",
+      "score": 109,
+      "comments": 23,
+      "author": "modeless"
+    },
+    {
+      "rank": 7,
+      "title": "Old Computer Challenge",
+      "url": "http://occ.sdf.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=48702320",
+      "score": 55,
+      "comments": 15,
+      "author": "wrxd"
+    },
+    {
+      "rank": 8,
+      "title": "Rocketlab acquires Iridium",
+      "url": "https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully",
+      "hn_url": "https://news.ycombinator.com/item?id=48719485",
+      "score": 401,
+      "comments": 263,
+      "author": "everfrustrated"
+    },
+    {
+      "rank": 9,
+      "title": "The end of the AArch64 desktop experiment",
+      "url": "https://marcin.juszkiewicz.com.pl/2026/06/26/the-end-of-the-aarch64-desktop-experiment/",
+      "hn_url": "https://news.ycombinator.com/item?id=48728599",
+      "score": 26,
+      "comments": 7,
+      "author": "signa11"
+    },
+    {
+      "rank": 10,
+      "title": "Exploring PDP-1 Lisp (1960)",
+      "url": "https://obsolescence.dev/pdp1-lisp-introduction.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48727323",
+      "score": 58,
+      "comments": 16,
+      "author": "ozymandiax"
+    },
+    {
+      "rank": 11,
+      "title": "Linux for the Sega MegaDrive",
+      "url": "https://github.com/LinuxMD/linuxmd",
+      "hn_url": "https://news.ycombinator.com/item?id=48720186",
+      "score": 90,
+      "comments": 12,
+      "author": "HardwareLust"
+    },
+    {
+      "rank": 12,
+      "title": "US Supreme Court Just Blew Up EU-US Data Transfers",
+      "url": "https://noyb.eu/en/us-supreme-court-just-blew-eu-us-data-transfers",
+      "hn_url": "https://news.ycombinator.com/item?id=48728740",
+      "score": 93,
+      "comments": 37,
+      "author": "tomwas54"
+    },
+    {
+      "rank": 13,
+      "title": "Popping the GPU Bubble",
+      "url": "https://moondream.ai/blog/popping-the-gpu-bubble",
+      "hn_url": "https://news.ycombinator.com/item?id=48728729",
+      "score": 103,
+      "comments": 19,
+      "author": "radq"
+    },
+    {
+      "rank": 14,
+      "title": "Ornith-1.0: self-improving open-source models for agentic coding",
+      "url": "https://github.com/deepreinforce-ai/Ornith-1",
+      "hn_url": "https://news.ycombinator.com/item?id=48722052",
+      "score": 202,
+      "comments": 39,
+      "author": "danboarder"
+    },
+    {
+      "rank": 15,
+      "title": "US Supreme Court rules geofence warrants require constitutional protections",
+      "url": "https://www.theguardian.com/us-news/2026/jun/29/supreme-court-geofence-warrants-case-decision",
+      "hn_url": "https://news.ycombinator.com/item?id=48720924",
+      "score": 513,
+      "comments": 243,
+      "author": "cdrnsf"
+    },
+    {
+      "rank": 16,
+      "title": "One million passports leaked online",
+      "url": "https://www.theverge.com/tech/947157/passports-data-breach-cannabis-club-systems-nefos-puffpal",
+      "hn_url": "https://news.ycombinator.com/item?id=48706389",
+      "score": 250,
+      "comments": 133,
+      "author": "jruohonen"
+    },
+    {
+      "rank": 17,
+      "title": "How to corrupt an SQLite database file",
+      "url": "https://www.sqlite.org/howtocorrupt.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48689885",
+      "score": 68,
+      "comments": 15,
+      "author": "tosh"
+    },
+    {
+      "rank": 18,
+      "title": "Zig – SPIR-V Backend Progress",
+      "url": "https://ziglang.org/devlog/2026/#2026-06-26",
+      "hn_url": "https://news.ycombinator.com/item?id=48679809",
+      "score": 58,
+      "comments": 17,
+      "author": "Retro_Dev"
+    },
+    {
+      "rank": 19,
+      "title": "Alan Kay on the meaning of \"object-oriented programming\" (2003)",
+      "url": "https://notes.shixiangxi.com/en/docs/appendix/alan-kay-on-oop/",
+      "hn_url": "https://news.ycombinator.com/item?id=48698781",
+      "score": 57,
+      "comments": 17,
+      "author": "sxx0"
+    },
+    {
+      "rank": 20,
+      "title": "Logical Physical Clocks and Consistent Snapshots in Globally Distributed DB [pdf]",
+      "url": "https://cse.buffalo.edu/tech-reports/2014-04.pdf",
+      "hn_url": "https://news.ycombinator.com/item?id=48698648",
+      "score": 3,
+      "comments": 0,
+      "author": "teleforce"
+    },
+    {
+      "rank": 21,
+      "title": "British Origami: the 1955 exhibition by Akira Yoshizawa (2005)",
+      "url": "https://www.britishorigami.org/cp-lister-list/the-1955-exhibition-by-akira-yoshizawa/",
+      "hn_url": "https://news.ycombinator.com/item?id=48710325",
+      "score": 30,
+      "comments": 3,
+      "author": "dang"
+    },
+    {
+      "rank": 22,
+      "title": "Apple Neural Engine: Architecture, Programming, and Performance",
+      "url": "https://arxiv.org/abs/2606.22283",
+      "hn_url": "https://news.ycombinator.com/item?id=48702825",
+      "score": 159,
+      "comments": 22,
+      "author": "Jimmc414"
+    },
+    {
+      "rank": 23,
+      "title": "A native graphical shell for SSH",
+      "url": "https://probablymarcus.com/blocks/2026/06/28/native-graphical-shell-for-SSH.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48720758",
+      "score": 293,
+      "comments": 159,
+      "author": "mrcslws"
+    },
+    {
+      "rank": 24,
+      "title": "Dark Sky Lighting",
+      "url": "https://www.savingourstars.org/darkskylighting#whatisdarkskylighting",
+      "hn_url": "https://news.ycombinator.com/item?id=48675653",
+      "score": 199,
+      "comments": 34,
+      "author": "alexandrehtrb"
+    },
+    {
+      "rank": 25,
+      "title": "WATaBoy: JIT-Ing Game Boy Instructions to WASM Beats a Native Interpreter",
+      "url": "https://humphri.es/blog/WATaBoy/",
+      "hn_url": "https://news.ycombinator.com/item?id=48720190",
+      "score": 202,
+      "comments": 33,
+      "author": "energeticbark"
+    }
+  ]
+}

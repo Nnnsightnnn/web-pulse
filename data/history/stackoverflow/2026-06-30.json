@@ -1,0 +1,331 @@
+{
+  "source": "stackoverflow",
+  "label": "Stack Overflow — hot questions",
+  "fetched_at": "2026-06-30T08:11:06.602Z",
+  "items": [
+    {
+      "rank": 1,
+      "title": "Claude Dedicated Spring Boot Skill",
+      "url": "https://stackoverflow.com/questions/79971573/claude-dedicated-spring-boot-skill",
+      "score": 0,
+      "answers": 1,
+      "views": 27,
+      "tags": [
+        "spring",
+        "spring-boot",
+        "claude-code"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "PKCS#11 token is detected but no certificates are returned in a .NET application on Linux",
+      "url": "https://stackoverflow.com/questions/79971576/pkcs11-token-is-detected-but-no-certificates-are-returned-in-a-net-application",
+      "score": 0,
+      "answers": 0,
+      "views": 23,
+      "tags": [
+        "c#",
+        ".net",
+        "linux",
+        "cryptography",
+        "pkcs#11"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Is there a plugin for ingesting gRPC streaming protobuf data?",
+      "url": "https://stackoverflow.com/questions/79971587/is-there-a-plugin-for-ingesting-grpc-streaming-protobuf-data",
+      "score": -1,
+      "answers": 0,
+      "views": 15,
+      "tags": [
+        "streaming",
+        "grpc",
+        "protobuf-net",
+        "dolphindb"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Why does LAST_BY(value, time) return NULL when the latest timestamp has NULL in Apache IoTDB table model?",
+      "url": "https://stackoverflow.com/questions/79971580/why-does-last-byvalue-time-return-null-when-the-latest-timestamp-has-null-in",
+      "score": 0,
+      "answers": 0,
+      "views": 16,
+      "tags": [
+        "time-series",
+        "apache-iotdb"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "n8n + postsgresql on nginx",
+      "url": "https://stackoverflow.com/questions/79971594/n8n-postsgresql-on-nginx",
+      "score": -1,
+      "answers": 0,
+      "views": 13,
+      "tags": [
+        "docker",
+        "nginx",
+        "docker-compose",
+        "n8n"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "file handling in java",
+      "url": "https://stackoverflow.com/questions/79971563/file-handling-in-java",
+      "score": 2,
+      "answers": 1,
+      "views": 47,
+      "tags": [
+        "java",
+        "spring-boot",
+        "jdbc",
+        "file-handling"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "What toot do i use to gain remote access to my android on a pc",
+      "url": "https://stackoverflow.com/questions/79971561/what-toot-do-i-use-to-gain-remote-access-to-my-android-on-a-pc",
+      "score": 0,
+      "answers": 2,
+      "views": 30,
+      "tags": [
+        "android"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "How do you rigorously validate autonomous code-repair patches when tests are incomplete and the validator can be gamed?",
+      "url": "https://stackoverflow.com/questions/79971552/how-do-you-rigorously-validate-autonomous-code-repair-patches-when-tests-are-inc",
+      "score": 0,
+      "answers": 0,
+      "views": 26,
+      "tags": [
+        "continuous-integration",
+        "automated-tests",
+        "sandbox",
+        "static-analysis",
+        "mutation-testing"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Vba codes for data cleaning",
+      "url": "https://stackoverflow.com/questions/79971571/vba-codes-for-data-cleaning",
+      "score": 0,
+      "answers": 0,
+      "views": 23,
+      "tags": [
+        "vba"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Fix for C# Raw Socket, Error 10013 \"An attempt was made to access a socket in a way forbidden by its access permissions\"",
+      "url": "https://stackoverflow.com/questions/79971557/fix-for-c-raw-socket-error-10013-an-attempt-was-made-to-access-a-socket-in-a",
+      "score": 0,
+      "answers": 2,
+      "views": 21,
+      "tags": [
+        "c#"
+      ]
+    },
+    {
+      "rank": 11,
+      "title": "AWS Credentials error while using agentcore deploy",
+      "url": "https://stackoverflow.com/questions/79971556/aws-credentials-error-while-using-agentcore-deploy",
+      "score": -2,
+      "answers": 0,
+      "views": 20,
+      "tags": [
+        "amazon-web-services",
+        "credentials"
+      ]
+    },
+    {
+      "rank": 12,
+      "title": "Failed to load resource: the server responded with a status of 401 (Unauthorized) react",
+      "url": "https://stackoverflow.com/questions/79971562/failed-to-load-resource-the-server-responded-with-a-status-of-401-unauthorized",
+      "score": -3,
+      "answers": 0,
+      "views": 18,
+      "tags": [
+        "reactjs",
+        "authentication",
+        "jwt",
+        "authorization",
+        "fastapi"
+      ]
+    },
+    {
+      "rank": 13,
+      "title": "How to improve Qdrant retrieval accuracy for chunked database semantic YAML models (RAG on DB Metadata)?",
+      "url": "https://stackoverflow.com/questions/79971546/how-to-improve-qdrant-retrieval-accuracy-for-chunked-database-semantic-yaml-mode",
+      "score": 0,
+      "answers": 0,
+      "views": 46,
+      "tags": [
+        "python",
+        "vector-database",
+        "rag",
+        "qdrant",
+        "semantic-search"
+      ]
+    },
+    {
+      "rank": 14,
+      "title": "FastAPI async endpoint not deleting temporary audio files after processing",
+      "url": "https://stackoverflow.com/questions/79971540/fastapi-async-endpoint-not-deleting-temporary-audio-files-after-processing",
+      "score": -4,
+      "answers": 1,
+      "views": 73,
+      "tags": [
+        "python",
+        "audio",
+        "fastapi"
+      ]
+    },
+    {
+      "rank": 15,
+      "title": "Remote WCF Debugging is Failing (net48)",
+      "url": "https://stackoverflow.com/questions/79971527/remote-wcf-debugging-is-failing-net48",
+      "score": -3,
+      "answers": 1,
+      "views": 41,
+      "tags": [
+        "wcf",
+        "iis",
+        "remote-debugging",
+        ".net-4.8",
+        "visual-studio-2026"
+      ]
+    },
+    {
+      "rank": 16,
+      "title": "How can a K3s cluster survive server IP address changes without rebuilding the cluster?",
+      "url": "https://stackoverflow.com/questions/79971535/how-can-a-k3s-cluster-survive-server-ip-address-changes-without-rebuilding-the-c",
+      "score": -3,
+      "answers": 0,
+      "views": 56,
+      "tags": [
+        "kubernetes",
+        "high-availability",
+        "rancher",
+        "etcd",
+        "k3s"
+      ]
+    },
+    {
+      "rank": 17,
+      "title": "Deployment issue on vercel",
+      "url": "https://stackoverflow.com/questions/79971533/deployment-issue-on-vercel",
+      "score": -6,
+      "answers": 0,
+      "views": 46,
+      "tags": [
+        "deployment"
+      ]
+    },
+    {
+      "rank": 18,
+      "title": "Why doesn't LIMIT return N rows per device after ALIGN BY DEVICE in Apache IoTDB tree model?",
+      "url": "https://stackoverflow.com/questions/79970522/why-doesnt-limit-return-n-rows-per-device-after-align-by-device-in-apache-iotdb",
+      "score": 1,
+      "answers": 1,
+      "views": 48,
+      "tags": [
+        "time-series",
+        "apache-iotdb"
+      ]
+    },
+    {
+      "rank": 19,
+      "title": "Fluent UI in Outlook Add-In has suddenly stopped working",
+      "url": "https://stackoverflow.com/questions/79971531/fluent-ui-in-outlook-add-in-has-suddenly-stopped-working",
+      "score": -3,
+      "answers": 1,
+      "views": 35,
+      "tags": [
+        "office-js",
+        "outlook-web-addins"
+      ]
+    },
+    {
+      "rank": 20,
+      "title": "How do I align the buttons I made using <a> inside of <ul> to be spaced evenly both vertically and horizontally?",
+      "url": "https://stackoverflow.com/questions/79970470/how-do-i-align-the-buttons-i-made-using-a-inside-of-ul-to-be-spaced-evenly-b",
+      "score": 0,
+      "answers": 3,
+      "views": 81,
+      "tags": [
+        "html",
+        "css",
+        "list",
+        "alignment"
+      ]
+    },
+    {
+      "rank": 21,
+      "title": "Pyside6 \"`Signal source has been deleted`\"",
+      "url": "https://stackoverflow.com/questions/79970530/pyside6-signal-source-has-been-deleted",
+      "score": -2,
+      "answers": 0,
+      "views": 44,
+      "tags": [
+        "python",
+        "pyside6"
+      ]
+    },
+    {
+      "rank": 22,
+      "title": "Structuring and compiling a large project using cmake and c++",
+      "url": "https://stackoverflow.com/questions/79970490/structuring-and-compiling-a-large-project-using-cmake-and-c",
+      "score": 1,
+      "answers": 4,
+      "views": 101,
+      "tags": [
+        "c++",
+        "cmake"
+      ]
+    },
+    {
+      "rank": 23,
+      "title": "Why does ROUND(2.5) return 2 instead of 3 in Apache IoTDB table model?",
+      "url": "https://stackoverflow.com/questions/79970517/why-does-round2-5-return-2-instead-of-3-in-apache-iotdb-table-model",
+      "score": 1,
+      "answers": 1,
+      "views": 59,
+      "tags": [
+        "time-series",
+        "apache-iotdb"
+      ]
+    },
+    {
+      "rank": 24,
+      "title": "Why doesn't std::filesystem::file_status contain the file size, given that stat() provides it?",
+      "url": "https://stackoverflow.com/questions/79970240/why-doesnt-stdfilesystemfile-status-contain-the-file-size-given-that-stat",
+      "score": 2,
+      "answers": 4,
+      "views": 170,
+      "tags": [
+        "c++",
+        "c++17"
+      ]
+    },
+    {
+      "rank": 25,
+      "title": "Why does CASE with a DOUBLE branch and ELSE NULL fail with unknown vs DOUBLE in Apache IoTDB table model?",
+      "url": "https://stackoverflow.com/questions/79970521/why-does-case-with-a-double-branch-and-else-null-fail-with-unknown-vs-double-in",
+      "score": 3,
+      "answers": 1,
+      "views": 47,
+      "tags": [
+        "time-series",
+        "apache-iotdb"
+      ]
+    }
+  ]
+}
