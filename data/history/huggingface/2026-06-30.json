@@ -1,7 +1,7 @@
 {
   "source": "huggingface",
   "label": "Hugging Face — trending models",
-  "fetched_at": "2026-06-30T08:11:06.549Z",
+  "fetched_at": "2026-06-30T08:09:57.024Z",
   "items": [
     {
       "rank": 1,
@@ -10,7 +10,7 @@
       "author": "baidu",
       "downloads": 362945,
       "likes": 1409,
-      "trending_score": 1063,
+      "trending_score": 1064,
       "pipeline_tag": "image-text-to-text",
       "last_modified": "2026-06-28T06:20:01.000Z"
     },
@@ -32,7 +32,7 @@
       "author": "zai-org",
       "downloads": 133350,
       "likes": 2971,
-      "trending_score": 727,
+      "trending_score": 729,
       "pipeline_tag": "text-generation",
       "last_modified": "2026-06-23T03:56:16.000Z"
     },
@@ -203,6 +203,17 @@
     },
     {
       "rank": 19,
+      "title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "url": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "author": "HauhauCS",
+      "downloads": 3089944,
+      "likes": 2338,
+      "trending_score": 164,
+      "pipeline_tag": "image-text-to-text",
+      "last_modified": "2026-04-17T02:59:21.000Z"
+    },
+    {
+      "rank": 20,
       "title": "nvidia/LocateAnything-3B",
       "url": "https://huggingface.co/nvidia/LocateAnything-3B",
       "author": "nvidia",
@@ -211,17 +222,6 @@
       "trending_score": 163,
       "pipeline_tag": "image-text-to-text",
       "last_modified": "2026-06-12T10:51:04.000Z"
-    },
-    {
-      "rank": 20,
-      "title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-      "url": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-      "author": "HauhauCS",
-      "downloads": 3089944,
-      "likes": 2338,
-      "trending_score": 162,
-      "pipeline_tag": "image-text-to-text",
-      "last_modified": "2026-04-17T02:59:21.000Z"
     },
     {
       "rank": 21,

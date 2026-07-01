@@ -1,7 +1,7 @@
 {
   "source": "stackoverflow",
   "label": "Stack Overflow — hot questions",
-  "fetched_at": "2026-06-30T08:11:06.602Z",
+  "fetched_at": "2026-06-30T08:09:56.789Z",
   "items": [
     {
       "rank": 1,
@@ -51,7 +51,7 @@
       "url": "https://stackoverflow.com/questions/79971580/why-does-last-byvalue-time-return-null-when-the-latest-timestamp-has-null-in",
       "score": 0,
       "answers": 0,
-      "views": 16,
+      "views": 15,
       "tags": [
         "time-series",
         "apache-iotdb"
@@ -181,7 +181,7 @@
       "url": "https://stackoverflow.com/questions/79971540/fastapi-async-endpoint-not-deleting-temporary-audio-files-after-processing",
       "score": -4,
       "answers": 1,
-      "views": 73,
+      "views": 72,
       "tags": [
         "python",
         "audio",
@@ -269,18 +269,6 @@
     },
     {
       "rank": 21,
-      "title": "Pyside6 \"`Signal source has been deleted`\"",
-      "url": "https://stackoverflow.com/questions/79970530/pyside6-signal-source-has-been-deleted",
-      "score": -2,
-      "answers": 0,
-      "views": 44,
-      "tags": [
-        "python",
-        "pyside6"
-      ]
-    },
-    {
-      "rank": 22,
       "title": "Structuring and compiling a large project using cmake and c++",
       "url": "https://stackoverflow.com/questions/79970490/structuring-and-compiling-a-large-project-using-cmake-and-c",
       "score": 1,
@@ -289,6 +277,18 @@
       "tags": [
         "c++",
         "cmake"
+      ]
+    },
+    {
+      "rank": 22,
+      "title": "Pyside6 \"`Signal source has been deleted`\"",
+      "url": "https://stackoverflow.com/questions/79970530/pyside6-signal-source-has-been-deleted",
+      "score": -2,
+      "answers": 0,
+      "views": 44,
+      "tags": [
+        "python",
+        "pyside6"
       ]
     },
     {

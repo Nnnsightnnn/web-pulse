@@ -1,14 +1,14 @@
 {
   "source": "hackernews",
   "label": "Hacker News — top stories",
-  "fetched_at": "2026-06-30T08:11:06.765Z",
+  "fetched_at": "2026-06-30T08:09:57.307Z",
   "items": [
     {
       "rank": 1,
       "title": "Qwen 3.6 27B is the sweet spot for local development",
       "url": "https://quesma.com/blog/qwen-36-is-awesome/",
       "hn_url": "https://news.ycombinator.com/item?id=48721903",
-      "score": 880,
+      "score": 879,
       "comments": 600,
       "author": "stared"
     },
@@ -17,8 +17,8 @@
       "title": "Open Source Low Tech",
       "url": "https://opensourcelowtech.org/",
       "hn_url": "https://news.ycombinator.com/item?id=48683098",
-      "score": 71,
-      "comments": 15,
+      "score": 69,
+      "comments": 14,
       "author": "grep_it"
     },
     {
@@ -35,7 +35,7 @@
       "title": "Free the Icons",
       "url": "https://weblog.rogueamoeba.com/2026/06/26/free-the-icons/",
       "hn_url": "https://news.ycombinator.com/item?id=48698908",
-      "score": 415,
+      "score": 414,
       "comments": 113,
       "author": "zdw"
     },
@@ -45,7 +45,7 @@
       "url": "https://longcat.chat/blog/longcat-2.0/",
       "hn_url": "https://news.ycombinator.com/item?id=48727116",
       "score": 120,
-      "comments": 36,
+      "comments": 35,
       "author": "benjiro29"
     },
     {
@@ -68,15 +68,6 @@
     },
     {
       "rank": 8,
-      "title": "Rocketlab acquires Iridium",
-      "url": "https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully",
-      "hn_url": "https://news.ycombinator.com/item?id=48719485",
-      "score": 401,
-      "comments": 263,
-      "author": "everfrustrated"
-    },
-    {
-      "rank": 9,
       "title": "The end of the AArch64 desktop experiment",
       "url": "https://marcin.juszkiewicz.com.pl/2026/06/26/the-end-of-the-aarch64-desktop-experiment/",
       "hn_url": "https://news.ycombinator.com/item?id=48728599",
@@ -85,13 +76,22 @@
       "author": "signa11"
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "Exploring PDP-1 Lisp (1960)",
       "url": "https://obsolescence.dev/pdp1-lisp-introduction.html",
       "hn_url": "https://news.ycombinator.com/item?id=48727323",
       "score": 58,
       "comments": 16,
       "author": "ozymandiax"
+    },
+    {
+      "rank": 10,
+      "title": "Rocketlab acquires Iridium",
+      "url": "https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully",
+      "hn_url": "https://news.ycombinator.com/item?id=48719485",
+      "score": 401,
+      "comments": 262,
+      "author": "everfrustrated"
     },
     {
       "rank": 11,
@@ -108,7 +108,7 @@
       "url": "https://noyb.eu/en/us-supreme-court-just-blew-eu-us-data-transfers",
       "hn_url": "https://news.ycombinator.com/item?id=48728740",
       "score": 93,
-      "comments": 37,
+      "comments": 35,
       "author": "tomwas54"
     },
     {
@@ -152,7 +152,7 @@
       "title": "How to corrupt an SQLite database file",
       "url": "https://www.sqlite.org/howtocorrupt.html",
       "hn_url": "https://news.ycombinator.com/item?id=48689885",
-      "score": 68,
+      "score": 67,
       "comments": 15,
       "author": "tosh"
     },
@@ -216,7 +216,7 @@
       "url": "https://www.savingourstars.org/darkskylighting#whatisdarkskylighting",
       "hn_url": "https://news.ycombinator.com/item?id=48675653",
       "score": 199,
-      "comments": 34,
+      "comments": 33,
       "author": "alexandrehtrb"
     },
     {
