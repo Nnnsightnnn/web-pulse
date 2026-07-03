@@ -1,0 +1,336 @@
+{
+  "source": "stackoverflow",
+  "label": "Stack Overflow — hot questions",
+  "fetched_at": "2026-07-02T08:11:13.434Z",
+  "items": [
+    {
+      "rank": 1,
+      "title": "How can I create a Linux Container in C?",
+      "url": "https://stackoverflow.com/questions/79972459/how-can-i-create-a-linux-container-in-c",
+      "score": 0,
+      "answers": 5,
+      "views": 72,
+      "tags": [
+        "c",
+        "linux",
+        "namespaces",
+        "containers",
+        "virtualization"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "How to speed up the creation of an HttpClient?",
+      "url": "https://stackoverflow.com/questions/79972471/how-to-speed-up-the-creation-of-an-httpclient",
+      "score": -1,
+      "answers": 1,
+      "views": 56,
+      "tags": [
+        "c#",
+        "performance",
+        "network-programming",
+        "dotnet-httpclient"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Zero/minimal-downtime migration from MongoDB Standalone to Replica Set (v4.0.28)",
+      "url": "https://stackoverflow.com/questions/79972489/zero-minimal-downtime-migration-from-mongodb-standalone-to-replica-set-v4-0-28",
+      "score": -3,
+      "answers": 0,
+      "views": 18,
+      "tags": [
+        "database",
+        "mongodb",
+        "nosql"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "HTML slide - PPTX slide conversion using the pptx gen js",
+      "url": "https://stackoverflow.com/questions/79972494/html-slide-pptx-slide-conversion-using-the-pptx-gen-js",
+      "score": 0,
+      "answers": 0,
+      "views": 14,
+      "tags": [
+        "html",
+        "powerpoint",
+        "slide",
+        "pptxgenjs"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "I encountered something odd with the Claude Code extension for VS Code. Do you know how tool calling works in Claude Code for VS Code?",
+      "url": "https://stackoverflow.com/questions/79972441/i-encountered-something-odd-with-the-claude-code-extension-for-vs-code-do-you-k",
+      "score": 1,
+      "answers": 2,
+      "views": 49,
+      "tags": [
+        "visual-studio-code",
+        "artificial-intelligence",
+        "model-context-protocol",
+        "claude-code"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Replicate SAS Merge happening in loop into Pyspark",
+      "url": "https://stackoverflow.com/questions/79972477/replicate-sas-merge-happening-in-loop-into-pyspark",
+      "score": 0,
+      "answers": 1,
+      "views": 33,
+      "tags": [
+        "sql",
+        "pyspark",
+        "apache-spark-sql",
+        "sas"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "How to avoid cyclic dependency when using Flask as Viewer part of MVC setup?",
+      "url": "https://stackoverflow.com/questions/79972440/how-to-avoid-cyclic-dependency-when-using-flask-as-viewer-part-of-mvc-setup",
+      "score": 1,
+      "answers": 0,
+      "views": 27,
+      "tags": [
+        "python",
+        "flask"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Interpreting correlation result obtained from R studio",
+      "url": "https://stackoverflow.com/questions/79972468/interpreting-correlation-result-obtained-from-r-studio",
+      "score": 0,
+      "answers": 0,
+      "views": 19,
+      "tags": [
+        "r",
+        "visual-studio",
+        "pearson-correlation",
+        "interpretation",
+        "observation"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "How do I center my <div> element containing a lot of other <div> elements?",
+      "url": "https://stackoverflow.com/questions/79972431/how-do-i-center-my-div-element-containing-a-lot-of-other-div-elements",
+      "score": 0,
+      "answers": 1,
+      "views": 48,
+      "tags": [
+        "html",
+        "css"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "How to disable the default user and set custom user with strong password in Redis with docker-compose?",
+      "url": "https://stackoverflow.com/questions/79972457/how-to-disable-the-default-user-and-set-custom-user-with-strong-password-in-redi",
+      "score": 0,
+      "answers": 1,
+      "views": 34,
+      "tags": [
+        "docker",
+        "redis"
+      ]
+    },
+    {
+      "rank": 11,
+      "title": "How do I create a form to submit press releases in HTML?",
+      "url": "https://stackoverflow.com/questions/79972455/how-do-i-create-a-form-to-submit-press-releases-in-html",
+      "score": 0,
+      "answers": 0,
+      "views": 33,
+      "tags": [
+        "json"
+      ]
+    },
+    {
+      "rank": 12,
+      "title": "How to remove the last frame of the played video in LibVlcSharp",
+      "url": "https://stackoverflow.com/questions/79972433/how-to-remove-the-last-frame-of-the-played-video-in-libvlcsharp",
+      "score": 1,
+      "answers": 0,
+      "views": 40,
+      "tags": [
+        "c#",
+        "avaloniaui",
+        "libvlcsharp"
+      ]
+    },
+    {
+      "rank": 13,
+      "title": "Controlling footnote text and separator colors in reledmac",
+      "url": "https://stackoverflow.com/questions/79972409/controlling-footnote-text-and-separator-colors-in-reledmac",
+      "score": 0,
+      "answers": 1,
+      "views": 33,
+      "tags": [
+        "formatting",
+        "latex",
+        "footnotes"
+      ]
+    },
+    {
+      "rank": 14,
+      "title": "Where should values that will rarely change be stored in a full stack application",
+      "url": "https://stackoverflow.com/questions/79972390/where-should-values-that-will-rarely-change-be-stored-in-a-full-stack-applicatio",
+      "score": 0,
+      "answers": 3,
+      "views": 65,
+      "tags": [
+        "spring-boot",
+        "rest",
+        "react-fullstack"
+      ]
+    },
+    {
+      "rank": 15,
+      "title": "Why does filtering by run state remove later temperature samples?",
+      "url": "https://stackoverflow.com/questions/79972418/why-does-filtering-by-run-state-remove-later-temperature-samples",
+      "score": -1,
+      "answers": 0,
+      "views": 43,
+      "tags": [
+        "time-series",
+        "apache-iotdb"
+      ]
+    },
+    {
+      "rank": 16,
+      "title": "Is coding going to be obsolete?",
+      "url": "https://stackoverflow.com/questions/79972019/is-coding-going-to-be-obsolete",
+      "score": 3,
+      "answers": 21,
+      "views": 331,
+      "tags": [
+        "artificial-intelligence"
+      ]
+    },
+    {
+      "rank": 17,
+      "title": "What are some techniques from the OpenAI SDK and Pandas library to accomplish what I want to do for my SKU coding system program?",
+      "url": "https://stackoverflow.com/questions/79972415/what-are-some-techniques-from-the-openai-sdk-and-pandas-library-to-accomplish-wh",
+      "score": -2,
+      "answers": 0,
+      "views": 62,
+      "tags": [
+        "python",
+        "pandas",
+        "openai-api"
+      ]
+    },
+    {
+      "rank": 18,
+      "title": "When selfhosting fonts from Google Fonts, is it better to use the download feature of the Google Fonts website or get them from the Git repositories?",
+      "url": "https://stackoverflow.com/questions/79972377/when-selfhosting-fonts-from-google-fonts-is-it-better-to-use-the-download-featu",
+      "score": 0,
+      "answers": 2,
+      "views": 50,
+      "tags": [
+        "git",
+        "fonts",
+        "google-fonts"
+      ]
+    },
+    {
+      "rank": 19,
+      "title": "Aspose Words doesn't handle mailmerging nested templates",
+      "url": "https://stackoverflow.com/questions/79972406/aspose-words-doesnt-handle-mailmerging-nested-templates",
+      "score": 0,
+      "answers": 1,
+      "views": 27,
+      "tags": [
+        ".net",
+        "aspose",
+        "aspose.words"
+      ]
+    },
+    {
+      "rank": 20,
+      "title": "How do I filter by contents of an unnamed object with JSONPath?",
+      "url": "https://stackoverflow.com/questions/79972339/how-do-i-filter-by-contents-of-an-unnamed-object-with-jsonpath",
+      "score": 2,
+      "answers": 2,
+      "views": 58,
+      "tags": [
+        "json",
+        "jsonpath"
+      ]
+    },
+    {
+      "rank": 21,
+      "title": "Find Consecutive Red Candles in TradingView Pine script",
+      "url": "https://stackoverflow.com/questions/79972365/find-consecutive-red-candles-in-tradingview-pine-script",
+      "score": 0,
+      "answers": 1,
+      "views": 32,
+      "tags": [
+        "bar-chart",
+        "pine-script-v5",
+        "tradingview-api",
+        "candlestick-chart",
+        "candlesticks"
+      ]
+    },
+    {
+      "rank": 22,
+      "title": "future_invoke_map() deprecated, cannot get replacement to work",
+      "url": "https://stackoverflow.com/questions/79972279/future-invoke-map-deprecated-cannot-get-replacement-to-work",
+      "score": -1,
+      "answers": 0,
+      "views": 62,
+      "tags": [
+        "r",
+        "machine-learning",
+        "purrr",
+        "tidymodels",
+        "furrr"
+      ]
+    },
+    {
+      "rank": 23,
+      "title": "Query that shows if a member meets defined metrics from the metrics table",
+      "url": "https://stackoverflow.com/questions/79972343/query-that-shows-if-a-member-meets-defined-metrics-from-the-metrics-table",
+      "score": 0,
+      "answers": 1,
+      "views": 73,
+      "tags": [
+        "sql",
+        "sql-server",
+        "join",
+        "many-to-many"
+      ]
+    },
+    {
+      "rank": 24,
+      "title": "TCP Retransmission followed by RST/ACK on localhost",
+      "url": "https://stackoverflow.com/questions/79972397/tcp-retransmission-followed-by-rst-ack-on-localhost",
+      "score": -2,
+      "answers": 0,
+      "views": 45,
+      "tags": [
+        "tcp",
+        "localhost",
+        "wireshark"
+      ]
+    },
+    {
+      "rank": 25,
+      "title": "Best way to start learning SQL for database design and analysis?",
+      "url": "https://stackoverflow.com/questions/79972280/best-way-to-start-learning-sql-for-database-design-and-analysis",
+      "score": 0,
+      "answers": 6,
+      "views": 75,
+      "tags": [
+        "sql",
+        "database",
+        "database-design"
+      ]
+    }
+  ]
+}
