@@ -1,0 +1,421 @@
+{
+  "source": "polymarket",
+  "label": "Polymarket — top 24h volume",
+  "fetched_at": "2026-07-05T08:09:50.376Z",
+  "items": [
+    {
+      "rank": 1,
+      "title": "Will Morocco win the 2026 FIFA World Cup?",
+      "url": "https://polymarket.com/event/world-cup-winner",
+      "volume_24h": 7982594.537197984,
+      "volume_total": 124526578.59230158,
+      "liquidity": 2008002.26518,
+      "yes_price": 0.0285,
+      "leader": {
+        "name": "No",
+        "price": 0.9715
+      },
+      "end_date": "2026-07-20T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Will Javier Milei be the next leader out before 2027?",
+      "url": "https://polymarket.com/event/next-leader-out-of-power-before-2027-no-orban",
+      "volume_24h": 4123836.0399999893,
+      "volume_total": 4808191.795382985,
+      "liquidity": 38580.61871,
+      "yes_price": 0.0005,
+      "leader": {
+        "name": "No",
+        "price": 0.9995
+      },
+      "end_date": "2026-12-31T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "LoL: Team Secret Whales vs Top Esports (BO5) - Mid-Season Invitational Playoffs",
+      "url": "https://polymarket.com/event/lol-tsw-tes-2026-07-04",
+      "volume_24h": 3555343.5567370015,
+      "volume_total": 3565507.2444399954,
+      "liquidity": 1292507.69671,
+      "yes_price": 0.9995,
+      "leader": {
+        "name": "Team Secret Whales",
+        "price": 0.9995
+      },
+      "end_date": "2026-07-05T09:00:00Z",
+      "outcomes": [
+        "Team Secret Whales",
+        "Top Esports"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Will Gedion Timothewos be the next Prime Minister of Ethiopia?",
+      "url": "https://polymarket.com/event/next-prime-minister-of-ethiopia",
+      "volume_24h": 3376535.63,
+      "volume_total": 38097625.916430995,
+      "liquidity": 31154.67546,
+      "yes_price": 0.002,
+      "leader": {
+        "name": "No",
+        "price": 0.998
+      },
+      "end_date": "2026-06-01T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "LoL: Hanwha Life Esports vs G2 Esports (BO5) - Mid-Season Invitational Playoffs",
+      "url": "https://polymarket.com/event/lol-hle1-g2-2026-07-05",
+      "volume_24h": 1886819.2326970054,
+      "volume_total": 1896478.6407649962,
+      "liquidity": 260866.44859,
+      "yes_price": 0.9765,
+      "leader": {
+        "name": "Hanwha Life Esports",
+        "price": 0.9765
+      },
+      "end_date": "2026-07-05T12:45:00Z",
+      "outcomes": [
+        "Hanwha Life Esports",
+        "G2 Esports"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Mexico vs. England: Team to Advance",
+      "url": "https://polymarket.com/event/fifwc-mex-eng-2026-07-05-more-markets",
+      "volume_24h": 1588137.2902459987,
+      "volume_total": 2282820.8626889805,
+      "liquidity": 3560979.5891,
+      "yes_price": 0.455,
+      "leader": {
+        "name": "England",
+        "price": 0.545
+      },
+      "end_date": "2026-07-06T00:00:00Z",
+      "outcomes": [
+        "Mexico",
+        "England"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Will Mexico win on 2026-07-05?",
+      "url": "https://polymarket.com/event/fifwc-mex-eng-2026-07-05",
+      "volume_24h": 1295195.0803539925,
+      "volume_total": 2301021.4706689743,
+      "liquidity": 3186600.7051,
+      "yes_price": 0.295,
+      "leader": {
+        "name": "No",
+        "price": 0.705
+      },
+      "end_date": "2026-07-06T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Will Brazil win on 2026-07-05?",
+      "url": "https://polymarket.com/event/fifwc-bra-nor-2026-07-05",
+      "volume_24h": 1169585.7220899942,
+      "volume_total": 1717837.6264879662,
+      "liquidity": 3669537.1924,
+      "yes_price": 0.545,
+      "leader": {
+        "name": "Yes",
+        "price": 0.545
+      },
+      "end_date": "2026-07-05T20:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Brazil vs. Norway: O/U 2.5",
+      "url": "https://polymarket.com/event/fifwc-bra-nor-2026-07-05-more-markets",
+      "volume_24h": 1020134.6877079986,
+      "volume_total": 1278944.5894079993,
+      "liquidity": 713672.4839,
+      "yes_price": 0.565,
+      "leader": {
+        "name": "Over",
+        "price": 0.565
+      },
+      "end_date": "2026-07-05T20:00:00Z",
+      "outcomes": [
+        "Over",
+        "Under"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Will the Los Angeles Chargers win the 2027 NFL league championship?",
+      "url": "https://polymarket.com/event/big-game-champion-2027",
+      "volume_24h": 963010.9014600131,
+      "volume_total": 2296815.1922339434,
+      "liquidity": 145529.50377,
+      "yes_price": 0.0385,
+      "leader": {
+        "name": "No",
+        "price": 0.9615
+      },
+      "end_date": "2027-03-31T23:55:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 11,
+      "title": "Strait of Hormuz traffic returns to normal by end of June?",
+      "url": "https://polymarket.com/event/strait-of-hormuz-traffic-returns-to-normal-by-end-of-june",
+      "volume_24h": 790356.1358610003,
+      "volume_total": 43405313.61321816,
+      "liquidity": 2228883.05583,
+      "yes_price": 0.0015,
+      "leader": {
+        "name": "No",
+        "price": 0.9985
+      },
+      "end_date": "2026-06-30T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 12,
+      "title": "Will Lebanon recognize Israel by June 30?",
+      "url": "https://polymarket.com/event/which-countries-will-recognize-israel-by-june-30",
+      "volume_24h": 639926.6385049992,
+      "volume_total": 2960350.7189290356,
+      "liquidity": 2484416.39139,
+      "yes_price": 0.0005,
+      "leader": {
+        "name": "No",
+        "price": 0.9995
+      },
+      "end_date": null,
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 13,
+      "title": "Will Pete Crow-Armstrong win the 2026 National League MVP Award?",
+      "url": "https://polymarket.com/event/mlb-2026-nl-mvp",
+      "volume_24h": 571755.98,
+      "volume_total": 571755.9800000001,
+      "liquidity": 7080.53675,
+      "yes_price": 0.0055,
+      "leader": {
+        "name": "No",
+        "price": 0.9945
+      },
+      "end_date": "2026-11-13T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 14,
+      "title": "Putin out as President of Russia by December 31, 2026?",
+      "url": "https://polymarket.com/event/putin-out-before-2027",
+      "volume_24h": 475487.3490010004,
+      "volume_total": 15926215.078205094,
+      "liquidity": 2272966.2922,
+      "yes_price": 0.105,
+      "leader": {
+        "name": "No",
+        "price": 0.895
+      },
+      "end_date": "2026-12-31T18:30:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 15,
+      "title": "Will Cristiano Ronaldo be the top goalscorer at the 2026 FIFA World Cup?",
+      "url": "https://polymarket.com/event/world-cup-golden-boot-winner",
+      "volume_24h": 420934.4883419997,
+      "volume_total": 3017688.0441709817,
+      "liquidity": 159452.11392,
+      "yes_price": 0.0055,
+      "leader": {
+        "name": "No",
+        "price": 0.9945
+      },
+      "end_date": "2026-07-20T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 16,
+      "title": "Exact Score: Brazil 2 - 1 Norway?",
+      "url": "https://polymarket.com/event/fifwc-bra-nor-2026-07-05-exact-score",
+      "volume_24h": 382523.1458700023,
+      "volume_total": 443501.5019670078,
+      "liquidity": 1629569.0437,
+      "yes_price": 0.115,
+      "leader": {
+        "name": "No",
+        "price": 0.885
+      },
+      "end_date": "2026-07-05T20:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 17,
+      "title": "Will Kevin McGonigle hit the most triples in the 2026 MLB regular season?",
+      "url": "https://polymarket.com/event/mlb-triples-leader",
+      "volume_24h": 376720,
+      "volume_total": 376935.98600000003,
+      "liquidity": 3166.13798,
+      "yes_price": 0.014,
+      "leader": {
+        "name": "No",
+        "price": 0.986
+      },
+      "end_date": "2026-09-28T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 18,
+      "title": "Counter-Strike: MIBR vs 9z (BO3) - XSE Pro League Group Stage",
+      "url": "https://polymarket.com/event/cs2-mibr-9z-2026-07-05",
+      "volume_24h": 349166.71301899967,
+      "volume_total": 349166.7130190009,
+      "liquidity": 59602.2531,
+      "yes_price": 0.095,
+      "leader": {
+        "name": "9z",
+        "price": 0.905
+      },
+      "end_date": "2026-07-05T12:00:00Z",
+      "outcomes": [
+        "MIBR",
+        "9z"
+      ]
+    },
+    {
+      "rank": 19,
+      "title": "Strait of Hormuz traffic returns to normal by July 15?",
+      "url": "https://polymarket.com/event/strait-of-hormuz-traffic-returns-to-normal-by-july-15",
+      "volume_24h": 339426.7089680005,
+      "volume_total": 6762406.556139965,
+      "liquidity": 705400.06388,
+      "yes_price": 0.0365,
+      "leader": {
+        "name": "No",
+        "price": 0.9635
+      },
+      "end_date": "2026-07-15T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 20,
+      "title": "Strait of Hormuz traffic returns to normal by December 31?",
+      "url": "https://polymarket.com/event/strait-of-hormuz-traffic-returns-to-normal-by-december-31",
+      "volume_24h": 309341.67006100004,
+      "volume_total": 3825628.503867985,
+      "liquidity": 247537.5819,
+      "yes_price": 0.735,
+      "leader": {
+        "name": "Yes",
+        "price": 0.735
+      },
+      "end_date": "2026-12-31T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 21,
+      "title": "Will Spain win on 2026-07-06?",
+      "url": "https://polymarket.com/event/fifwc-prt-esp-2026-07-06",
+      "volume_24h": 282873.2602309987,
+      "volume_total": 463431.91309900343,
+      "liquidity": 1317033.7927,
+      "yes_price": 0.515,
+      "leader": {
+        "name": "Yes",
+        "price": 0.515
+      },
+      "end_date": "2026-07-06T19:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 22,
+      "title": "Strait of Hormuz traffic returns to normal by July 31?",
+      "url": "https://polymarket.com/event/strait-of-hormuz-traffic-returns-to-normal-by-july-31",
+      "volume_24h": 267934.86287,
+      "volume_total": 12037022.880952245,
+      "liquidity": 621358.2754,
+      "yes_price": 0.155,
+      "leader": {
+        "name": "No",
+        "price": 0.845
+      },
+      "end_date": "2026-07-31T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 23,
+      "title": "Will Colombia win on 2026-07-07?",
+      "url": "https://polymarket.com/event/fifwc-che-col-2026-07-07",
+      "volume_24h": 267561.0806669999,
+      "volume_total": 267561.08066699904,
+      "liquidity": 649778.2353,
+      "yes_price": 0.435,
+      "leader": {
+        "name": "No",
+        "price": 0.565
+      },
+      "end_date": "2026-07-07T20:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    }
+  ]
+}
