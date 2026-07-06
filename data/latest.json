@@ -4239,5 +4239,31 @@
       "score": 2.7283558832471875
     }
   ],
-  "brief": "Across 17 sources on Monday, July 6, the story of the day is Erling Haaland, appearing in polymarket, wikipedia. In tech, Zackriya-Solutions/meetily. On Lemmy, Second hand smoking and drunk driving."
+  "brief": "Football dominates. Erling Haaland topped Wikipedia with 889,039 views, 1.7 times his nearest rival, then turned up again on Polymarket, where traders are pricing today's World Cup semi-final markets. Naomi Osaka's 340,925 views are the one break in an otherwise all-football top five.",
+  "editorial": {
+    "brief": "Football dominates. Erling Haaland topped Wikipedia with 889,039 views, 1.7 times his nearest rival, then turned up again on Polymarket, where traders are pricing today's World Cup semi-final markets. Naomi Osaka's 340,925 views are the one break in an otherwise all-football top five.",
+    "cover_sub": "Haaland drew 889,039 reads today, well clear of the pack, as Google users in Britain searched for the World Cup semi-final and Polymarket traders staked money on which teams advance.",
+    "wiki_epithet": "the World Cup's talisman",
+    "wiki_deck": "Erling Haaland led the day's reading by a comfortable margin, with the World Cup itself, two more of its stars and one tennis outlier filling out the rest of Wikipedia's top five.",
+    "letter_headline": "A Football Day, With One Tennis Exception",
+    "discourse_deck": "Hacker News is torn between AI economics and an open-source maps app that outscored them all, while Lemmy debates rule-following and second-hand smoke, Bluesky splits between Neymar's late drama and an Ebola story, and Mastodon needles infosec's excuses.",
+    "foreign_deck": "Microsoft is building an enterprise AI unit and India is pressing its case at the UN's AI governance dialogue, while Britain searched the World Cup semi-final and easyJet's share price.",
+    "markets_deck": "Politics barely registers next to sport: Zelenskyy's exit odds sit at zero percent, while World Cup traders are pricing Norway at 5 percent and split closely on Portugal versus Spain.",
+    "watch_deck": "Counter-Strike 2 is pulling 1.28 million peak players on Steam tonight, PUBG and Dota 2 follow behind it, and Caedrel alone is drawing 117,746 viewers on Twitch, more than Riot Games' own channel.",
+    "yt_headline": "Beyoncé's MORNING DEW Tops Trending",
+    "yt_note": "Beyoncé's MORNING DEW (DONK) leads with 1.39 million views, but anime carries the rest of the list, with trailers for Black Clover and Bleach's final part pulling 622,000 and 397,000 views apiece.",
+    "closing_note": "By tomorrow's edition Haaland's 889,039 will likely have been overtaken by whoever plays next, the semi-final odds will have resolved into results, and Has_not_been_viewed_much will presumably have been viewed rather more. The earthquakes near Fiji will have already stopped mattering to anyone who was not there when they happened.",
+    "wiki_paras": [
+      "Erling Haaland was the day's most-read article, drawing 889,039 views. The 2026 FIFA World Cup itself sat second with 538,797, and the rest of the top five stayed inside football and its adjacent sport, tennis, with Naomi Osaka, Neymar and Kylian Mbappé rounding out the list.",
+      "The margin was not enormous by Wikipedia's usual standards — 1.7 times the runner-up — but it held across a field where every other name was also drawing football traffic. That kind of clustering, one player pulling ahead of an event that features him, is a familiar shape on a tournament day.",
+      "Haaland shows up a second time today, on Polymarket, where traders are pricing semi-final outcomes rather than reading his biography. Wikipedia and betting markets rarely agree on what matters, so when they do, on a day when Britain is also searching for the same fixture, that is as close to consensus as the internet gets."
+    ],
+    "letter_paras": [
+      "Today reads as a single-story day. Four of Wikipedia's top five articles are football names, the same sport supplies half of Polymarket's biggest markets, and Google users in Britain searched for the same semi-final. Erling Haaland anchors it twice over, topping the reading list and reappearing among the bets. Everywhere else, the internet went about its scattered business.",
+      "Elsewhere the small print carries its own weight. USGS logged 25 earthquakes above magnitude 2.5 in a day, the largest a 5.8 near Fiji that nobody on the social feeds mentioned. A Hacker News post titled Has_not_been_viewed_much collected 243 points, which is either a joke that landed or one that didn't, and the data does not say which.",
+      "A snapshot taken at one moment cannot explain why Haaland was reading well before kickoff, only that he was. That is not a weakness. Top-ten lists usually arrive smoothed into a story; catching seventeen feeds at the same minute keeps the football cluster sitting next to an unexplained earthquake and an untranslated hashtag, closer to how the internet actually sits at any hour."
+    ],
+    "model": "claude-cli/sonnet",
+    "written_at": "2026-07-06T15:09:48.070Z"
+  }
 }

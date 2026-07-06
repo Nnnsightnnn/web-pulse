@@ -11,6 +11,7 @@ import "./env.mjs";
 
 import { clusterItems } from "./cluster.mjs";
 import { generateBrief } from "./brief.mjs";
+import { generateEditorial } from "./editorial.mjs";
 import { writeFile, mkdir, readdir } from "node:fs/promises";
 import { dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";
@@ -110,8 +111,23 @@ async function run() {
     clusters,
   };
 
+  // LLM copy desk — best-effort. On failure the dashboard renders its
+  // seeded template fallbacks, so this must never block or crash the run.
   try {
-    latest.brief = generateBrief(latest);
+    const t = Date.now();
+    const editorial = await generateEditorial(latest);
+    if (editorial) {
+      latest.editorial = editorial;
+      console.log(`  ✎ editorial written (${Date.now() - t}ms, ${editorial.model})`);
+    } else {
+      console.warn("  ⊘ editorial unavailable — dashboard will use template copy");
+    }
+  } catch (err) {
+    console.warn("  ⊘ editorial failed:", err.message);
+  }
+
+  try {
+    latest.brief = latest.editorial?.brief || generateBrief(latest);
   } catch (err) {
     console.warn("  brief generation failed:", err.message);
     latest.brief = "";

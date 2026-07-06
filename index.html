@@ -1565,6 +1565,20 @@ function items(data, key) {
   return (s && Array.isArray(s.items)) ? s.items : [];
 }
 function get(arr, i) { return arr && arr[i] ? arr[i] : null; }
+// Deterministic daily variant picker — same issue reads the same all day,
+// tomorrow's issue picks a different sentence shape. No RNG, no flicker.
+function pickv(c, salt, arr) { return arr[(c.seed + salt) % arr.length]; }
+// LLM copy desk accessor: escaped plain text, or '' so callers can fall back.
+function ed(c, field) {
+  const v = c.data.editorial && c.data.editorial[field];
+  return (typeof v === 'string' && v.trim()) ? esc(v.trim()) : '';
+}
+function edParas(c, field) {
+  const v = c.data.editorial && c.data.editorial[field];
+  return Array.isArray(v) ? v.map(p => esc(String(p).trim())).filter(Boolean) : [];
+}
+const NUM_WORDS = ['zero','one','two','three','four','five','six','seven','eight','nine','ten','eleven','twelve','thirteen','fourteen','fifteen','sixteen','seventeen','eighteen','nineteen','twenty'];
+function numWord(n) { return NUM_WORDS[n] || String(n); }
 // GitHub Linguist-ish language → swatch color (subset; falls back to paper-edge)
 const LANG_COLORS = {
   JavaScript: '#f1e05a', TypeScript: '#3178c6', Python: '#3572A5',
@@ -1627,7 +1641,9 @@ function renderMagazine(data) {
   const dateShort = gen.getUTCDate() + ' ' + month + ' ' + gen.getUTCFullYear();
   const snapshotIso = gen.toISOString().replace('T', ' ').slice(0, 16) + ' UTC';
   const sourceCount = Object.keys(data.sources || {}).length;
-  const ctx = { data, gen, issueNo, issueStr, issueShort, weekday, month, dateLong, dateShort, snapshotIso, sourceCount };
+  const seed = issueNo + gen.getUTCFullYear();
+  const clusters = Array.isArray(data.clusters) ? data.clusters : [];
+  const ctx = { data, gen, issueNo, issueStr, issueShort, weekday, month, dateLong, dateShort, snapshotIso, sourceCount, seed, clusters };
 
   return [
     spreadCover(ctx),
@@ -1680,7 +1696,11 @@ function spreadCover(c) {
             <em>${link(top.url, esc(headline))}</em>?
           </h2>
           <p class="cover-sub">
-            For one ${esc(c.weekday)} in ${esc(c.month)}, ${link(top.url, esc(headline))} sat at the top of the English Wikipedia. Inside: today's snapshot of sixteen public surfaces, arranged the way one might arrange a daily newspaper.
+            ${ed(c, 'cover_sub') || pickv(c, 3, [
+              `For one ${esc(c.weekday)} in ${esc(c.month)}, ${link(top.url, esc(headline))} sat at the top of the English Wikipedia.`,
+              `${link(top.url, esc(headline))} finished the day as the most-read page on the English Wikipedia.`,
+              `The English Wikipedia spent this ${esc(c.weekday)} reading about ${link(top.url, esc(headline))}.`,
+            ])} Inside: one morning's snapshot of ${esc(numWord(c.sourceCount))} public surfaces, laid out as a daily paper.
           </p>
           <div style="display:flex;gap:24px;align-items:center;margin-top:10px;">
             <span class="byline">By the Editors</span>
@@ -1759,17 +1779,65 @@ function spreadMasthead(c) {
     <div class="page right">
       <div class="editor-stack">
         <div class="kicker" style="margin-top:18px;">Editor’s Letter</div>
-        <h2 class="editor-head">A quiet ${esc(c.weekday)}<br>where the world<br><em>looked up ${esc(topName)}</em>.</h2>
+        ${(() => {
+          const cluster = c.clusters[0];
+          const clusterExplainsWiki = cluster && (
+            cluster.name.toLowerCase().includes(topName.toLowerCase()) ||
+            topName.toLowerCase().includes(cluster.name.toLowerCase())
+          );
+          const headline = ed(c, 'letter_headline') || (
+            clusterExplainsWiki
+              ? pickv(c, 5, [
+                  `This ${esc(c.weekday)}, everyone had the same tab open`,
+                  `For once, the whole internet agreed on ${esc(topName)}`,
+                ])
+              : cluster
+              ? pickv(c, 5, [
+                  `${esc(topName)} on Wikipedia, ${esc(cluster.name)} everywhere else`,
+                  `A ${esc(c.weekday)} of two conversations`,
+                ])
+              : pickv(c, 5, [
+                  `A scattered ${esc(c.weekday)} where the world looked up ${esc(topName)}`,
+                  `Nothing agreed on anything, except ${esc(topName)}`,
+                  `A quiet ${esc(c.weekday)} where the world looked up ${esc(topName)}`,
+                ])
+          );
+
+          const cap = (html, firstChar) =>
+            `<p><span style="font-family:var(--serif);font-weight:700;font-size:62px;line-height:0.85;float:left;padding:6px 10px 0 0;color:var(--red);">${esc(firstChar)}</span>${html}</p>`;
+
+          const rawParas = (c.data.editorial && Array.isArray(c.data.editorial.letter_paras))
+            ? c.data.editorial.letter_paras.map(s => String(s).trim()).filter(Boolean) : [];
+          let body;
+          if (rawParas.length >= 2) {
+            body = cap(esc(rawParas[0].slice(1)), rawParas[0][0]) +
+              rawParas.slice(1).map(p => `<p>${esc(p)}</p>`).join('');
+          } else {
+            const p1inner = clusterExplainsWiki
+              ? `’s snapshot, taken at ${esc(c.snapshotIso)}, found ${esc(fmt(top.views))} readers on a single Wikipedia article — <em>${esc(topName)}</em> — and for once the reason was in plain sight: the same subject was running on ${esc(cluster.sources.join(', '))} at the same minute.`
+              : cluster
+              ? `’s snapshot, taken at ${esc(c.snapshotIso)}, found ${esc(fmt(top.views))} readers on <em>${esc(topName)}</em> while the feeds argued about something else entirely — <em>${esc(cluster.name)}</em> was crossing ${esc(cluster.sources.join(' and '))} in the same window.`
+              : pickv(c, 6, [
+                  `’s snapshot, taken at ${esc(c.snapshotIso)}, found ${esc(fmt(top.views))} readers settling on a single Wikipedia article — <em>${esc(topName)}</em> — with no single news event to demand it. Slow days are when the seams of the internet show.`,
+                  `’s snapshot, taken at ${esc(c.snapshotIso)}, found ${esc(fmt(top.views))} readers on <em>${esc(topName)}</em> and no cross-feed story anywhere in the data. The internet spent the day in ${esc(String(c.sourceCount))} separate rooms.`,
+                ]);
+            const p2 = pickv(c, 7, [
+              `The big stories announce themselves. The small ones — ${topQuake ? 'a magnitude‑' + (topQuake.magnitude.toFixed(1)) + ' tremor near ' + esc(topQuake.place.split(',').slice(-1)[0].trim()) : 'a quiet earthquake'}${ph ? ', a launch called <em>' + esc(ph.title) + '</em>' : ''} — only show up when you look.`,
+              `Down in the margins of the data: ${topQuake ? 'the Earth managed a magnitude‑' + (topQuake.magnitude.toFixed(1)) + ' near ' + esc(topQuake.place.split(',').slice(-1)[0].trim()) : 'the Earth kept quiet'}${ph ? ', and somebody shipped <em>' + esc(ph.title) + '</em>' : ''}. Nobody clapped. It happened anyway.`,
+            ]);
+            const p3 = pickv(c, 8, [
+              `Inside: a front page, a feature, the discourse columns, the markets, the tremors, the listings, and a colophon. The data is real. The framing is editorial. Everything redates by morning.`,
+              `The same ${esc(String(c.sourceCount))} surfaces, photographed at the same hour, every day — that is the whole method. The data is real. The framing is editorial. Everything redates by morning.`,
+            ]);
+            body = cap(esc(c.weekday.slice(1)) + p1inner, c.weekday[0]) + `<p>${p2}</p><p>${p3}</p>`;
+          }
+
+          return `<h2 class="editor-head">${headline}.</h2>
 
         <hr class="rule-thin">
 
-        <div class="editor-body">
-          <p><span style="font-family:var(--serif);font-weight:700;font-size:62px;line-height:0.85;float:left;padding:6px 10px 0 0;color:var(--red);">${esc(c.weekday[0])}</span>${esc(c.weekday.slice(1))}’s snapshot, taken at ${esc(c.snapshotIso)}, found ${esc(fmt(top.views))} readers settling on a single Wikipedia article — <em>${esc(topName)}</em> — with no single news event to demand it. Slow days are when the seams of the internet show.</p>
-
-          <p>This is the value, we think, of a daily snapshot taken at the same hour, of the same ${esc(String(c.sourceCount))} surfaces. The big stories announce themselves. The small ones — ${topQuake ? 'a magnitude‑' + (topQuake.magnitude.toFixed(1)) + ' tremor near ' + esc(topQuake.place.split(',').slice(-1)[0].trim()) : 'a quiet earthquake'}${ph ? ', a launch called <em>' + esc(ph.title) + '</em>' : ''} — only show up when you look.</p>
-
-          <p>Inside, we have arranged today’s feeds the way one might arrange a daily newspaper: a front page, a feature, the discourse columns, the markets, the tremors, the listings, and a colophon. The data is real. The framing is editorial. Everything redates by morning.</p>
-        </div>
+        <div class="editor-body">${body}</div>`;
+        })()}
 
         <div class="sign">
           With regards from the desk,
@@ -1782,6 +1850,8 @@ function spreadMasthead(c) {
             <dd>A scheduled task on Kenny’s MacBook</dd>
             <dt>Feeds Editor</dt>
             <dd>fetch‑all.mjs, run 06:00 PT daily</dd>
+            <dt>Copy Desk</dt>
+            <dd>${c.data.editorial ? esc(c.data.editorial.model) + ', morning shift' : 'house templates, seeded by the date'}</dd>
             <dt>Picture Desk</dt>
             <dd>Placeholders, until further notice</dd>
           </dl>
@@ -1875,7 +1945,11 @@ function spreadNumbers(c) {
     <div class="page right" style="padding-top:96px;padding-left:0;padding-right:0;">
       <div class="nums-grid">
         ${numsCell('Wikipedia · pageviews on ' + link(wikiTop.url, esc(cleanWikiTitle(wikiTop.title))), fmt(wikiTop.views), '',
-          'Top‑read English Wikipedia article in the last 24 hours. Read by more people than live in Atlanta.')}
+          'Top‑read English Wikipedia article in the last 24 hours.' + (
+            wikiTop.views > 8e6 ? ' Read by more people than live in New York City.' :
+            wikiTop.views > 2.5e6 ? ' Read by more people than live in Chicago.' :
+            wikiTop.views > 5e5 ? ' Read by more people than live in Atlanta.' :
+            wikiTop.views > 12e4 ? ' Read by more people than live in Athens, Georgia.' : ''))}
         ${poly ? numsCell('Polymarket · 24‑hour volume on one bet', '$' + (poly.volume_24h/1e6).toFixed(1), 'M',
           link(poly.url, esc(truncate(poly.title, 110)))) : ''}
         ${topQuake ? numsCell('USGS · largest tremor in the last 24 hours', topQuake.magnitude.toFixed(1), '',
@@ -1920,14 +1994,33 @@ function spreadWiki(c) {
 
     <div class="page left" style="padding-top:96px;">
       <div class="kicker">Cover Story · Most Read Yesterday</div>
-      <h2 class="cs-head">
+      ${(() => {
+        const cluster = c.clusters.find(cl =>
+          cl.name.toLowerCase().includes(headline.toLowerCase()) ||
+          headline.toLowerCase().includes(cl.name.toLowerCase()));
+        const epithet = ed(c, 'wiki_epithet') || (
+          cluster
+            ? pickv(c, 9, ['the story of the day', 'the one everyone heard about'])
+            : pickv(c, 9, ['the accidental protagonist', 'the unlikely headliner', 'an unexplained fascination'])
+        );
+        const deck = ed(c, 'wiki_deck') || (
+          cluster
+            ? `${esc(fmt(top.views))} readers, and this time the trail is obvious — the same subject was running on ${esc(cluster.sources.join(' and '))} all morning.`
+            : ratio !== '—' && Number(ratio) >= 2.5
+            ? `For one ${esc(c.weekday)}, ${esc(fmt(top.views))} of us decided to read about ${link(top.url, esc(headline))} — ${esc(ratio)}× anything else on the site. We have no good explanation. That is the story.`
+            : pickv(c, 10, [
+                `${esc(fmt(top.views))} readers, a narrow lead, and no obvious reason. Some days the top of Wikipedia is just where the coin landed.`,
+                `For one ${esc(c.weekday)}, ${esc(fmt(top.views))} of us read about ${link(top.url, esc(headline))}. The margin was thin. The curiosity was real.`,
+              ])
+        );
+        return `<h2 class="cs-head">
         ${link(top.url, esc(headline))},<br>
-        <em>the</em> <em class="red">accidental</em><br>
-        <em>protagonist</em>.
+        <em class="red">${epithet}</em>.
       </h2>
       <p class="cs-deck">
-        For one ${esc(c.weekday)}, ${esc(fmt(top.views))} of us decided to read about ${link(top.url, esc(headline))}. We have no good explanation. That is the story.
-      </p>
+        ${deck}
+      </p>`;
+      })()}
       ${c.data.brief ? `<blockquote class="brief-pull" style="margin:18px 0 0;padding:14px 16px;border-left:3px solid var(--red);font-family:var(--serif);font-style:italic;font-size:16px;line-height:1.45;color:var(--ink-2);background:rgba(178,58,35,0.05);">${esc(c.data.brief)}</blockquote>` : ''}
       <figure style="margin:18px 0 0;display:flex;flex-direction:column;gap:6px;">
         <image-slot id="wiki-hero"
@@ -1936,7 +2029,7 @@ function spreadWiki(c) {
           style="width:100%;height:240px;display:block;--slot-bg:#1a1814;--slot-border:1px solid var(--ink);--slot-fg:rgba(241,233,216,0.55);">
         </image-slot>
         <figcaption style="font-family:var(--sans);font-size:10px;letter-spacing:0.18em;text-transform:uppercase;color:var(--grey-1);">
-          Photograph · the picture desk · ${esc(headline)}, accidentally famous on a ${esc(c.weekday)} in ${esc(c.month)}.
+          Photograph · the picture desk · ${esc(headline)}, ${esc(c.dateShort)}.
         </figcaption>
       </figure>
     </div>
@@ -1945,15 +2038,34 @@ function spreadWiki(c) {
       <div class="byline" style="margin-bottom:6px;">By the Wikipedia Desk · from one snapshot</div>
       <hr class="rule-thick">
       <div class="article" style="margin-top:18px;">
-        <p>The most‑read article on the English Wikipedia, in our ${esc(c.snapshotIso)} snapshot, was <em>${link(top.url, esc(headline))}</em>. ${esc(fmt(top.views))} of us read it. We are not going to pretend we know why.</p>
-
-        <p>What we can say is that the number was roughly ${esc(ratio)}× the second‑place entry${second ? ' — <em>' + link(second.url, esc(cleanWikiTitle(second.title))) + '</em>' : ''}${second ? ' — a margin wider than most ordinary news cycles produce' : '.'}</p>
-
-        <p>The Wikipedia top‑five table on the next spread tells the rest of the story: ${wiki.slice(1,5).map(w => link(w.url, esc(cleanWikiTitle(w.title)))).join(', ')}. Together they describe a quiet ${esc(c.weekday)} in ${esc(c.month)}.</p>
-
-        <p>This is, we think, what an ordinary day looks like in the year ${esc(String(c.gen.getUTCFullYear()))}. In the absence of a story, the Wikipedia readership picks a thread at random and tugs.</p>
-
-        <p>By tomorrow ${link(top.url, esc(headline))} will sit at the baseline. The page itself will not have changed. We will have. Briefly.</p>
+        ${(() => {
+          const tableP = `<p>The Wikipedia top‑five table on the next spread carries the rest of the day's reading: ${wiki.slice(1,5).map(w => link(w.url, esc(cleanWikiTitle(w.title)))).join(', ')}.</p>`;
+          const llmParas = edParas(c, 'wiki_paras');
+          if (llmParas.length >= 2) {
+            return llmParas.map(p => `<p>${p}</p>`).join('\n        ') + '\n        ' + tableP;
+          }
+          const cluster = c.clusters.find(cl =>
+            cl.name.toLowerCase().includes(headline.toLowerCase()) ||
+            headline.toLowerCase().includes(cl.name.toLowerCase()));
+          const r = Number(ratio);
+          const p1 = `<p>The most‑read article on the English Wikipedia, in our ${esc(c.snapshotIso)} snapshot, was <em>${link(top.url, esc(headline))}</em>. ${esc(fmt(top.views))} of us read it. ${cluster
+            ? 'The why, for once, is on the record — the same subject was crossing ' + esc(cluster.sources.join(' and ')) + ' in the same window.'
+            : pickv(c, 11, ['We are not going to pretend we know why.', 'No feed we watch offers a reason.'])}</p>`;
+          const margin = !second ? '.'
+            : r >= 2.5 ? ' — <em>' + link(second.url, esc(cleanWikiTitle(second.title))) + '</em> — a margin wider than most ordinary news cycles produce.'
+            : r >= 1.5 ? ' — <em>' + link(second.url, esc(cleanWikiTitle(second.title))) + '</em> — a clear lead, if not a runaway.'
+            : ' — <em>' + link(second.url, esc(cleanWikiTitle(second.title))) + '</em> — which is to say, a photo finish.';
+          const p2 = `<p>The number was roughly ${esc(ratio)}× the second‑place entry${margin}</p>`;
+          const p4 = `<p>${cluster ? pickv(c, 12, [
+            'Days when Wikipedia and the feeds agree are rarer than they sound. Most mornings this page is a mystery; today it is a receipt.',
+            'When the encyclopedia and the timeline point at the same thing, you are looking at an actual event. Enjoy it — the correlation will be gone by Thursday.',
+          ]) : pickv(c, 12, [
+            'In the absence of a story, the Wikipedia readership picks a thread and tugs. This appears to be what an ordinary ' + esc(c.weekday) + ' looks like in ' + esc(String(c.gen.getUTCFullYear())) + '.',
+            'An ordinary day on the encyclopedia, in other words: several million people, one loose thread, no coordination whatsoever.',
+          ])}</p>`;
+          const p5 = `<p>By tomorrow ${link(top.url, esc(headline))} will sit at the baseline. The page itself will not have changed. We will have. Briefly.</p>`;
+          return [p1, p2, tableP, p4, p5].join('\n        ');
+        })()}
       </div>
     </div>
 
@@ -2080,7 +2192,11 @@ function spreadDiscourse(c) {
     <div class="page left" style="padding-top:78px;">
       <div class="kicker" style="margin-bottom:6px;">Four feeds, one ${esc(c.weekday)}</div>
       <h2 class="disc-head">The <em>Discourse</em>.</h2>
-      <p class="disc-deck">If you pull the top five from each of four social feeds at the same minute, on the same morning, you get a portrait that looks roughly like this. Different rooms, different weather.</p>
+      <p class="disc-deck">${ed(c, 'discourse_deck') || pickv(c, 13, [
+        'If you pull the top five from each of four social feeds at the same minute, on the same morning, you get a portrait that looks roughly like this. Different rooms, different weather.',
+        'Four feeds, sampled at the same minute. They share an internet and almost nothing else.',
+        'The same morning, read four ways. What each room chooses to shout about is the real editorial.',
+      ])}</p>
 
       <div class="ticker" style="margin-top:18px;">
         <span><span class="dot"></span>${esc(tickerHn)}</span>
@@ -2163,7 +2279,11 @@ function spreadForeign(c) {
       <div class="kicker">Foreign Desk · Mediastack · today</div>
       <h2 class="head-xl">The <em>Datelines</em>.</h2>
       <p class="body-serif" style="font-size:18px;max-width:680px;">
-        Five stories the world’s wires were moving this morning, in the order Mediastack handed them to us — which is to say, no particular order at all.
+        ${ed(c, 'foreign_deck') || pickv(c, 14, [
+          'Five stories the world’s wires were moving this morning, in the order Mediastack handed them to us.',
+          'What the wires were carrying when we took the snapshot. Order courtesy of the wire, not the desk.',
+          'The morning’s wire budget, five items deep.',
+        ])}
       </p>
 
       <div style="display:flex;flex-direction:column;margin-top:18px;">${wires}</div>
@@ -2235,7 +2355,13 @@ function spreadMarkets(c) {
     <div class="page left" style="padding-top:96px;">
       <div class="kicker">Markets · Top 24‑hour volume</div>
       <h2 class="panel-head">The <em>Wagers</em>.</h2>
-      <p class="panel-deck">Five bets, listed in descending order of money put behind them in the last day. None of them have resolved. All of them are alarmist by design.</p>
+      <p class="panel-deck">${ed(c, 'markets_deck') || (() => {
+        const near = poly.filter(p => Math.max(p.yes_price || 0, 1 - (p.yes_price || 0)) >= 0.95).length;
+        return pickv(c, 15, [
+          'Five bets, in descending order of money put behind them in the last day.' + (near > 0 ? ' ' + numWord(near).charAt(0).toUpperCase() + numWord(near).slice(1) + ' of them ' + (near === 1 ? 'is' : 'are') + ' all but settled; the rest are still honest questions.' : ' None of them are anywhere near settled.'),
+          'Where the money went in the last twenty‑four hours. The percentages are the crowd’s opinion; the volumes are how much it cares.',
+        ]);
+      })()}</p>
 
       <div class="mkt-list">${mktRows}</div>
 
@@ -2398,7 +2524,11 @@ function spreadWatch(c) {
     <div class="page left" style="padding-top:78px;">
       <div class="kicker">Listings · evenings, ranked</div>
       <h2 class="show-head"><em>Watch</em><br>&amp; <em>Play</em>.</h2>
-      <p class="show-deck">${steam[0] ? link(steam[0].url, esc(truncate(steam[0].title, 30))) + ' cleared ' + esc(fmt(steam[0].peak_24h)) + ' concurrent players.' : ''} ${twitch[0] ? esc(fmt(twitch[0].viewers)) + ' people are watching <em>' + link(twitch[0].url, esc(twitch[0].title)) + '</em> on Twitch right now.' : ''} The night is loud.</p>
+      <p class="show-deck">${ed(c, 'watch_deck') || (
+        (steam[0] ? link(steam[0].url, esc(truncate(steam[0].title, 30))) + ' cleared ' + esc(fmt(steam[0].peak_24h)) + ' concurrent players.' : '') + ' ' +
+        (twitch[0] ? esc(fmt(twitch[0].viewers)) + ' people are watching <em>' + link(twitch[0].url, esc(twitch[0].title)) + '</em> on Twitch as we go to press.' : '') + ' ' +
+        pickv(c, 16, ['The night is loud.', 'Attendance is strong.', 'The evening shift is fully staffed.'])
+      )}</p>
 
       <div class="charts" style="margin-top:18px;">
         <div class="chart-block">
@@ -2421,12 +2551,29 @@ function spreadWatch(c) {
 
     <div class="page right" style="padding-top:78px;">
       <div class="kicker" style="margin-bottom:8px;">YouTube · trending</div>
-      <h2 style="font-family:var(--serif);font-weight:600;font-size:${ytHeadlineSize}px;line-height:0.9;letter-spacing:-0.025em;margin:0 0 12px;">
-        The <em style="font-style:italic;color:var(--red);">trailer</em><br>that ate the day.
+      ${(() => {
+        const llmHead = ed(c, 'yt_headline');
+        const t = ytTop ? String(ytTop.title) : '';
+        const kind = /trailer|teaser/i.test(t) ? 'trailer'
+          : /official (music )?video|m\/v|\bmv\b|lyric|song|audio/i.test(t) ? 'song'
+          : /highlights|\bvs\.?\b|full match|game \d/i.test(t) ? 'match'
+          : /episode|ep\.? ?\d|season \d/i.test(t) ? 'episode'
+          : 'video';
+        const head = llmHead
+          ? `<em style="font-style:italic;color:var(--red);">${llmHead}</em>.`
+          : `The <em style="font-style:italic;color:var(--red);">${kind}</em><br>that ate the day.`;
+        const note = ed(c, 'yt_note') || pickv(c, 17, [
+          'The rest of the list is exactly what the rest of the list always is.',
+          'Below it, the usual congress of uploads, each certain of its own importance.',
+          'The remaining nine slots went about their business.',
+        ]);
+        return `<h2 style="font-family:var(--serif);font-weight:600;font-size:${ytHeadlineSize}px;line-height:0.9;letter-spacing:-0.025em;margin:0 0 12px;">
+        ${head}
       </h2>
       <p class="body-serif" style="font-size:17px;max-width:620px;">
-        ${ytTop ? 'At ' + esc(fmt(ytTop.views)) + ' views, <em>' + link(ytTop.url, esc(truncate(ytTop.title, 60))) + '</em> tops today’s YouTube trending sample.' : 'YouTube trending sample for today.'} The rest of the list is, charmingly, exactly the rest of the list.
-      </p>
+        ${ytTop ? 'At ' + esc(fmt(ytTop.views)) + ' views, <em>' + link(ytTop.url, esc(truncate(ytTop.title, 60))) + '</em> tops today’s YouTube trending sample.' : 'YouTube trending sample for today.'} ${note}
+      </p>`;
+      })()}
 
       <div class="yt-list" style="margin-top:18px;">${ytRows}</div>
 
@@ -2496,7 +2643,15 @@ function spreadBack(c) {
       </h2>
 
       <p class="body-serif" style="font-size:20px;max-width:640px;">
-        Tomorrow’s edition will be different. ${wiki ? link(wiki.url, esc(cleanWikiTitle(wiki.title))) + ' will be back to baseline' : 'Yesterday’s leader will be back to baseline'}. A new trailer will overrun the listings. The bitcoin bet will reroll. We will be here, taking the snapshot.
+        ${ed(c, 'closing_note') || (() => {
+          const poly0 = items(c.data, 'polymarket')[0];
+          const yt0 = items(c.data, 'youtube')[0];
+          return 'Tomorrow’s edition will be different. ' +
+            (wiki ? link(wiki.url, esc(cleanWikiTitle(wiki.title))) + ' will be back to baseline. ' : 'Yesterday’s leader will be back to baseline. ') +
+            (yt0 ? 'The listings will have found a new obsession. ' : '') +
+            (poly0 ? 'The wager on ' + link(poly0.url, esc(truncate(poly0.title, 40))) + ' will have repriced. ' : '') +
+            'We will be here, taking the snapshot.';
+        })()}
       </p>
 
       <div class="double-rule" style="margin-top:30px;"></div>
