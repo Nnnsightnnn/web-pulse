@@ -1,0 +1,403 @@
+{
+  "source": "polymarket",
+  "label": "Polymarket — top 24h volume",
+  "fetched_at": "2026-07-06T08:10:22.730Z",
+  "items": [
+    {
+      "rank": 1,
+      "title": "Will Norway win the 2026 FIFA World Cup?",
+      "url": "https://polymarket.com/event/world-cup-winner",
+      "volume_24h": 11466446.35885912,
+      "volume_total": 106534124.465224,
+      "liquidity": 1507856.43877,
+      "yes_price": 0.0475,
+      "leader": {
+        "name": "No",
+        "price": 0.9525
+      },
+      "end_date": "2026-07-20T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Will Volodymyr Zelenskyy be the next leader out before 2027?",
+      "url": "https://polymarket.com/event/next-leader-out-of-power-before-2027-no-orban",
+      "volume_24h": 2534002.305435,
+      "volume_total": 11090465.264768,
+      "liquidity": 67026.25844,
+      "yes_price": 0.004,
+      "leader": {
+        "name": "No",
+        "price": 0.996
+      },
+      "end_date": "2026-12-31T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "United States vs. Belgium: Team to Advance",
+      "url": "https://polymarket.com/event/fifwc-usa-bel-2026-07-06-more-markets",
+      "volume_24h": 1991327.7491620006,
+      "volume_total": 2260302.2773139873,
+      "liquidity": 1119482.4209,
+      "yes_price": 0.525,
+      "leader": {
+        "name": "United States",
+        "price": 0.525
+      },
+      "end_date": "2026-07-07T00:00:00Z",
+      "outcomes": [
+        "United States",
+        "Belgium"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Portugal vs. Spain: Team to Advance",
+      "url": "https://polymarket.com/event/fifwc-prt-esp-2026-07-06-more-markets",
+      "volume_24h": 1904887.1676729994,
+      "volume_total": 2182134.688764998,
+      "liquidity": 900080.7933,
+      "yes_price": 0.335,
+      "leader": {
+        "name": "Spain",
+        "price": 0.665
+      },
+      "end_date": "2026-07-06T19:00:00Z",
+      "outcomes": [
+        "Portugal",
+        "Spain"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Will United States win on 2026-07-06?",
+      "url": "https://polymarket.com/event/fifwc-usa-bel-2026-07-06",
+      "volume_24h": 1690422.185729001,
+      "volume_total": 2138780.0028529926,
+      "liquidity": 1699302.2441,
+      "yes_price": 0.385,
+      "leader": {
+        "name": "No",
+        "price": 0.615
+      },
+      "end_date": "2026-07-07T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Will Spain win on 2026-07-06?",
+      "url": "https://polymarket.com/event/fifwc-prt-esp-2026-07-06",
+      "volume_24h": 1366169.9938249919,
+      "volume_total": 1829601.9069240182,
+      "liquidity": 2302811.1513,
+      "yes_price": 0.505,
+      "leader": {
+        "name": "Yes",
+        "price": 0.505
+      },
+      "end_date": "2026-07-06T19:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "LoL: T1 vs FURIA Esports - Game 2 Winner",
+      "url": "https://polymarket.com/event/lol-t1-fur-2026-07-06",
+      "volume_24h": 1183260.1301680012,
+      "volume_total": 1183534.6430749996,
+      "liquidity": 760041.26973,
+      "yes_price": 0.9995,
+      "leader": {
+        "name": "T1",
+        "price": 0.9995
+      },
+      "end_date": "2026-07-06T12:00:00Z",
+      "outcomes": [
+        "T1",
+        "FURIA Esports"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Will the Los Angeles Chargers win the 2027 NFL league championship?",
+      "url": "https://polymarket.com/event/big-game-champion-2027",
+      "volume_24h": 725639.440028997,
+      "volume_total": 3022454.632263136,
+      "liquidity": 146251.94216,
+      "yes_price": 0.0395,
+      "leader": {
+        "name": "No",
+        "price": 0.9605
+      },
+      "end_date": "2027-03-31T23:55:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Will the White House call a full lid by 6:30PM on July 4?",
+      "url": "https://polymarket.com/event/will-the-white-house-call-a-full-lid-by-630-pm-june-29-july-4-20260626160825412",
+      "volume_24h": 495053.6739829998,
+      "volume_total": 514094.79234299925,
+      "liquidity": 1225942.93023,
+      "yes_price": 0.0005,
+      "leader": {
+        "name": "No",
+        "price": 0.9995
+      },
+      "end_date": "2026-07-04T23:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Strait of Hormuz traffic returns to normal by end of June?",
+      "url": "https://polymarket.com/event/strait-of-hormuz-traffic-returns-to-normal-by-end-of-june",
+      "volume_24h": 445722.9253180001,
+      "volume_total": 43851036.53853654,
+      "liquidity": 1222355.85897,
+      "yes_price": 0.0005,
+      "leader": {
+        "name": "No",
+        "price": 0.9995
+      },
+      "end_date": "2026-06-30T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 11,
+      "title": "Exact Score: Portugal 3 - 3 Spain?",
+      "url": "https://polymarket.com/event/fifwc-prt-esp-2026-07-06-exact-score",
+      "volume_24h": 430198.29023300094,
+      "volume_total": 445172.61741000146,
+      "liquidity": 372644.39362,
+      "yes_price": 0.0145,
+      "leader": {
+        "name": "No",
+        "price": 0.9855
+      },
+      "end_date": "2026-07-06T19:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 12,
+      "title": "Strait of Hormuz traffic returns to normal by July 15?",
+      "url": "https://polymarket.com/event/strait-of-hormuz-traffic-returns-to-normal-by-july-15",
+      "volume_24h": 361731.29844499874,
+      "volume_total": 7124137.854584952,
+      "liquidity": 548443.12367,
+      "yes_price": 0.0165,
+      "leader": {
+        "name": "No",
+        "price": 0.9835
+      },
+      "end_date": "2026-07-15T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 13,
+      "title": "Will the Fed decrease interest rates by 25 bps after the July 2026 meeting?",
+      "url": "https://polymarket.com/event/fed-decision-in-july-181",
+      "volume_24h": 335397.96753199986,
+      "volume_total": 6607155.021411107,
+      "liquidity": 375297.1275,
+      "yes_price": 0.0065,
+      "leader": {
+        "name": "No",
+        "price": 0.9935
+      },
+      "end_date": "2026-07-29T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 14,
+      "title": "Will Pete Hegseth win the 2028 US Presidential Election?",
+      "url": "https://polymarket.com/event/presidential-election-winner-2028",
+      "volume_24h": 308206.3748,
+      "volume_total": 8026759.967214065,
+      "liquidity": 1688626.79189,
+      "yes_price": 0.0055,
+      "leader": {
+        "name": "No",
+        "price": 0.9945
+      },
+      "end_date": "2028-11-07T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 15,
+      "title": "Wimbledon WTA: Ashlyn Krueger vs Marta Kostyuk",
+      "url": "https://polymarket.com/event/wta-krueger-kostyuk-2026-07-05",
+      "volume_24h": 305480.19575,
+      "volume_total": 306820.796236,
+      "liquidity": 312656.5492,
+      "yes_price": 0.305,
+      "leader": {
+        "name": "Marta Kostyuk",
+        "price": 0.695
+      },
+      "end_date": "2026-07-12T10:00:00Z",
+      "outcomes": [
+        "Ashlyn Krueger",
+        "Marta Kostyuk"
+      ]
+    },
+    {
+      "rank": 16,
+      "title": "Will Erling Haaland be the top goalscorer at the 2026 FIFA World Cup?",
+      "url": "https://polymarket.com/event/world-cup-golden-boot-winner",
+      "volume_24h": 293415.4867259989,
+      "volume_total": 2098559.3849880095,
+      "liquidity": 126477.08304,
+      "yes_price": 0.1185,
+      "leader": {
+        "name": "No",
+        "price": 0.8815
+      },
+      "end_date": "2026-07-20T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 17,
+      "title": "Will Argentina win on 2026-07-07?",
+      "url": "https://polymarket.com/event/fifwc-arg-egy-2026-07-07",
+      "volume_24h": 250389.09441399833,
+      "volume_total": 473420.96210501227,
+      "liquidity": 747325.3615,
+      "yes_price": 0.715,
+      "leader": {
+        "name": "Yes",
+        "price": 0.715
+      },
+      "end_date": "2026-07-07T16:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 18,
+      "title": "Will the price of Bitcoin be above $66,000 on July 6?",
+      "url": "https://polymarket.com/event/bitcoin-above-on-july-6-2026",
+      "volume_24h": 238890.64639500002,
+      "volume_total": 257608.24037999994,
+      "liquidity": 57647.71798,
+      "yes_price": 0.004,
+      "leader": {
+        "name": "No",
+        "price": 0.996
+      },
+      "end_date": "2026-07-06T16:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 19,
+      "title": "Will Samuel Alito announce his retirement by July 15, 2026?",
+      "url": "https://polymarket.com/event/will-samuel-alito-announce-his-retirement-by",
+      "volume_24h": 230542.09374199997,
+      "volume_total": 439700.1139660003,
+      "liquidity": 50106.11363,
+      "yes_price": 0.0955,
+      "leader": {
+        "name": "No",
+        "price": 0.9045
+      },
+      "end_date": "2026-12-31T23:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 20,
+      "title": "Will Colombia win on 2026-07-07?",
+      "url": "https://polymarket.com/event/fifwc-che-col-2026-07-07",
+      "volume_24h": 217268.10481999998,
+      "volume_total": 484829.1854870016,
+      "liquidity": 1223573.2235,
+      "yes_price": 0.425,
+      "leader": {
+        "name": "No",
+        "price": 0.575
+      },
+      "end_date": "2026-07-07T20:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 21,
+      "title": "Wimbledon WTA: Marie Bouzkova vs Elise Mertens",
+      "url": "https://polymarket.com/event/wta-bouzkov-mertens-2026-07-05",
+      "volume_24h": 207168.556293,
+      "volume_total": 207912.27633000002,
+      "liquidity": 280240.9238,
+      "yes_price": 0.465,
+      "leader": {
+        "name": "Elise Mertens",
+        "price": 0.535
+      },
+      "end_date": "2026-07-12T10:00:00Z",
+      "outcomes": [
+        "Marie Bouzkova",
+        "Elise Mertens"
+      ]
+    },
+    {
+      "rank": 22,
+      "title": "Will Mahmoud Ahmadinejad be head of state in Iran end of 2026?",
+      "url": "https://polymarket.com/event/iran-leader-end-of-2026",
+      "volume_24h": 199902.27999999997,
+      "volume_total": 746299.4609739996,
+      "liquidity": 71864.2224,
+      "yes_price": 0.0025,
+      "leader": {
+        "name": "No",
+        "price": 0.9975
+      },
+      "end_date": "2026-12-31T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    }
+  ]
+}

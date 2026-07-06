@@ -1,0 +1,282 @@
+{
+  "source": "huggingface",
+  "label": "Hugging Face — trending models",
+  "fetched_at": "2026-07-06T08:10:22.727Z",
+  "items": [
+    {
+      "rank": 1,
+      "title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+      "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+      "author": "empero-ai",
+      "downloads": 1533844,
+      "likes": 1583,
+      "trending_score": 650,
+      "pipeline_tag": "image-text-to-text",
+      "last_modified": "2026-06-28T17:05:20.000Z"
+    },
+    {
+      "rank": 2,
+      "title": "zai-org/GLM-5.2",
+      "url": "https://huggingface.co/zai-org/GLM-5.2",
+      "author": "zai-org",
+      "downloads": 220379,
+      "likes": 3479,
+      "trending_score": 509,
+      "pipeline_tag": "text-generation",
+      "last_modified": "2026-07-02T08:08:14.000Z"
+    },
+    {
+      "rank": 3,
+      "title": "baidu/Unlimited-OCR",
+      "url": "https://huggingface.co/baidu/Unlimited-OCR",
+      "author": "baidu",
+      "downloads": 1044217,
+      "likes": 1763,
+      "trending_score": 428,
+      "pipeline_tag": "image-text-to-text",
+      "last_modified": "2026-07-03T05:15:09.000Z"
+    },
+    {
+      "rank": 4,
+      "title": "deepreinforce-ai/Ornith-1.0-35B-GGUF",
+      "url": "https://huggingface.co/deepreinforce-ai/Ornith-1.0-35B-GGUF",
+      "author": "deepreinforce-ai",
+      "downloads": 394164,
+      "likes": 742,
+      "trending_score": 295,
+      "pipeline_tag": "text-generation",
+      "last_modified": "2026-06-25T14:31:04.000Z"
+    },
+    {
+      "rank": 5,
+      "title": "InternScience/Agents-A1",
+      "url": "https://huggingface.co/InternScience/Agents-A1",
+      "author": "InternScience",
+      "downloads": 7010,
+      "likes": 311,
+      "trending_score": 293,
+      "pipeline_tag": "text-generation",
+      "last_modified": "2026-07-03T07:19:00.000Z"
+    },
+    {
+      "rank": 6,
+      "title": "nvidia/Qwen3.6-27B-NVFP4",
+      "url": "https://huggingface.co/nvidia/Qwen3.6-27B-NVFP4",
+      "author": "nvidia",
+      "downloads": 297130,
+      "likes": 278,
+      "trending_score": 266,
+      "pipeline_tag": "text-generation",
+      "last_modified": "2026-06-30T14:40:07.000Z"
+    },
+    {
+      "rank": 7,
+      "title": "google/tabfm-1.0.0-pytorch",
+      "url": "https://huggingface.co/google/tabfm-1.0.0-pytorch",
+      "author": "google",
+      "downloads": 2670,
+      "likes": 234,
+      "trending_score": 230,
+      "pipeline_tag": "tabular-classification",
+      "last_modified": "2026-07-04T06:08:26.000Z"
+    },
+    {
+      "rank": 8,
+      "title": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
+      "url": "https://huggingface.co/yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
+      "author": "yuxinlu1",
+      "downloads": 355871,
+      "likes": 1035,
+      "trending_score": 196,
+      "pipeline_tag": "text-generation",
+      "last_modified": "2026-06-19T09:31:48.000Z"
+    },
+    {
+      "rank": 9,
+      "title": "deepseek-ai/DeepSeek-V4-Pro-DSpark",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-DSpark",
+      "author": "deepseek-ai",
+      "downloads": 12580,
+      "likes": 397,
+      "trending_score": 187,
+      "pipeline_tag": "text-generation",
+      "last_modified": "2026-07-04T03:14:46.000Z"
+    },
+    {
+      "rank": 10,
+      "title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "url": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "author": "HauhauCS",
+      "downloads": 3018257,
+      "likes": 2503,
+      "trending_score": 161,
+      "pipeline_tag": "image-text-to-text",
+      "last_modified": "2026-04-17T02:59:21.000Z"
+    },
+    {
+      "rank": 11,
+      "title": "AliesTaha/fable-traces",
+      "url": "https://huggingface.co/AliesTaha/fable-traces",
+      "author": "AliesTaha",
+      "downloads": 277,
+      "likes": 166,
+      "trending_score": 161,
+      "pipeline_tag": "text-generation",
+      "last_modified": "2026-07-04T20:47:18.000Z"
+    },
+    {
+      "rank": 12,
+      "title": "nvidia/LocateAnything-3B",
+      "url": "https://huggingface.co/nvidia/LocateAnything-3B",
+      "author": "nvidia",
+      "downloads": 1247265,
+      "likes": 2621,
+      "trending_score": 159,
+      "pipeline_tag": "image-text-to-text",
+      "last_modified": "2026-06-12T10:51:04.000Z"
+    },
+    {
+      "rank": 13,
+      "title": "huihui-ai/Huihui-GLM-5.2-abliterated-GGUF",
+      "url": "https://huggingface.co/huihui-ai/Huihui-GLM-5.2-abliterated-GGUF",
+      "author": "huihui-ai",
+      "downloads": 5609,
+      "likes": 170,
+      "trending_score": 154,
+      "pipeline_tag": "text-generation",
+      "last_modified": "2026-06-30T12:21:39.000Z"
+    },
+    {
+      "rank": 14,
+      "title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M",
+      "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M",
+      "author": "empero-ai",
+      "downloads": 144933,
+      "likes": 692,
+      "trending_score": 150,
+      "pipeline_tag": "text-generation",
+      "last_modified": "2026-06-28T16:36:08.000Z"
+    },
+    {
+      "rank": 15,
+      "title": "deepreinforce-ai/Ornith-1.0-9B-GGUF",
+      "url": "https://huggingface.co/deepreinforce-ai/Ornith-1.0-9B-GGUF",
+      "author": "deepreinforce-ai",
+      "downloads": 352002,
+      "likes": 435,
+      "trending_score": 138,
+      "pipeline_tag": "text-generation",
+      "last_modified": "2026-06-25T14:12:12.000Z"
+    },
+    {
+      "rank": 16,
+      "title": "Jackrong/Qwopus3.6-35B-A3B-Coder-MTP-GGUF",
+      "url": "https://huggingface.co/Jackrong/Qwopus3.6-35B-A3B-Coder-MTP-GGUF",
+      "author": "Jackrong",
+      "downloads": 84951,
+      "likes": 141,
+      "trending_score": 137,
+      "pipeline_tag": "image-text-to-text",
+      "last_modified": "2026-06-30T00:27:37.000Z"
+    },
+    {
+      "rank": 17,
+      "title": "tencent/Hy3",
+      "url": "https://huggingface.co/tencent/Hy3",
+      "author": "tencent",
+      "downloads": 0,
+      "likes": 140,
+      "trending_score": 137,
+      "pipeline_tag": "text-generation",
+      "last_modified": "2026-07-06T07:24:35.000Z"
+    },
+    {
+      "rank": 18,
+      "title": "krea/Krea-2-Turbo",
+      "url": "https://huggingface.co/krea/Krea-2-Turbo",
+      "author": "krea",
+      "downloads": 99049,
+      "likes": 516,
+      "trending_score": 131,
+      "pipeline_tag": "text-to-image",
+      "last_modified": "2026-06-23T16:23:00.000Z"
+    },
+    {
+      "rank": 19,
+      "title": "Qwen/Qwen-AgentWorld-35B-A3B",
+      "url": "https://huggingface.co/Qwen/Qwen-AgentWorld-35B-A3B",
+      "author": "Qwen",
+      "downloads": 55113,
+      "likes": 551,
+      "trending_score": 129,
+      "pipeline_tag": "text-generation",
+      "last_modified": "2026-06-25T07:24:16.000Z"
+    },
+    {
+      "rank": 20,
+      "title": "deepreinforce-ai/Ornith-1.0-9B",
+      "url": "https://huggingface.co/deepreinforce-ai/Ornith-1.0-9B",
+      "author": "deepreinforce-ai",
+      "downloads": 76189,
+      "likes": 385,
+      "trending_score": 128,
+      "pipeline_tag": "text-generation",
+      "last_modified": "2026-06-25T14:08:32.000Z"
+    },
+    {
+      "rank": 21,
+      "title": "nationaldesignstudio/rampart",
+      "url": "https://huggingface.co/nationaldesignstudio/rampart",
+      "author": "nationaldesignstudio",
+      "downloads": 2783,
+      "likes": 130,
+      "trending_score": 126,
+      "pipeline_tag": "token-classification",
+      "last_modified": "2026-06-30T19:45:17.000Z"
+    },
+    {
+      "rank": 22,
+      "title": "deepreinforce-ai/Ornith-1.0-35B",
+      "url": "https://huggingface.co/deepreinforce-ai/Ornith-1.0-35B",
+      "author": "deepreinforce-ai",
+      "downloads": 224641,
+      "likes": 343,
+      "trending_score": 125,
+      "pipeline_tag": "text-generation",
+      "last_modified": "2026-06-25T14:30:28.000Z"
+    },
+    {
+      "rank": 23,
+      "title": "mistralai/Leanstral-1.5-119B-A6B",
+      "url": "https://huggingface.co/mistralai/Leanstral-1.5-119B-A6B",
+      "author": "mistralai",
+      "downloads": 26,
+      "likes": 122,
+      "trending_score": 118,
+      "pipeline_tag": null,
+      "last_modified": "2026-07-03T14:04:05.000Z"
+    },
+    {
+      "rank": 24,
+      "title": "BugTraceAI/BugTraceAI-CORE-Ultra-27B-Q6",
+      "url": "https://huggingface.co/BugTraceAI/BugTraceAI-CORE-Ultra-27B-Q6",
+      "author": "BugTraceAI",
+      "downloads": 12196,
+      "likes": 135,
+      "trending_score": 102,
+      "pipeline_tag": null,
+      "last_modified": "2026-05-11T21:25:42.000Z"
+    },
+    {
+      "rank": 25,
+      "title": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+      "url": "https://huggingface.co/yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+      "author": "yuxinlu1",
+      "downloads": 651758,
+      "likes": 2612,
+      "trending_score": 99,
+      "pipeline_tag": "text-generation",
+      "last_modified": "2026-06-19T03:52:11.000Z"
+    }
+  ]
+}
