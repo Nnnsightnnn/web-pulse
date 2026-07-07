@@ -1,0 +1,223 @@
+{
+  "source": "hackernews",
+  "label": "Hacker News — top stories",
+  "fetched_at": "2026-07-07T08:09:51.449Z",
+  "items": [
+    {
+      "rank": 1,
+      "title": "Fable turned reMarkable into Tom Riddle's diary from Harry Potter",
+      "url": "https://github.com/MaximeRivest/Riddle",
+      "hn_url": "https://news.ycombinator.com/item?id=48811591",
+      "score": 397,
+      "comments": 221,
+      "author": "modinfo"
+    },
+    {
+      "rank": 2,
+      "title": "OpenWrt One – Open Hardware Router",
+      "url": "https://openwrt.org/toh/openwrt/one",
+      "hn_url": "https://news.ycombinator.com/item?id=48808482",
+      "score": 575,
+      "comments": 224,
+      "author": "peter_d_sherman"
+    },
+    {
+      "rank": 3,
+      "title": "CoMaps – FOSS Offline Maps",
+      "url": "https://www.comaps.app/",
+      "hn_url": "https://news.ycombinator.com/item?id=48808928",
+      "score": 504,
+      "comments": 99,
+      "author": "basilikum"
+    },
+    {
+      "rank": 4,
+      "title": "GLM 5.2 and the coming AI margin collapse",
+      "url": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
+      "hn_url": "https://news.ycombinator.com/item?id=48809877",
+      "score": 364,
+      "comments": 228,
+      "author": "martinald"
+    },
+    {
+      "rank": 5,
+      "title": "How to sequence your own DNA at home",
+      "url": "https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home",
+      "hn_url": "https://news.ycombinator.com/item?id=48812156",
+      "score": 182,
+      "comments": 64,
+      "author": "bilsbie"
+    },
+    {
+      "rank": 6,
+      "title": "Small AI Models Gain Traction In places with unreliable networks",
+      "url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
+      "hn_url": "https://news.ycombinator.com/item?id=48812055",
+      "score": 118,
+      "comments": 32,
+      "author": "sscaryterry"
+    },
+    {
+      "rank": 7,
+      "title": "Ternlight – 7 MB embedding model that runs in browser (WASM)",
+      "url": "https://ternlight-demo.vercel.app/",
+      "hn_url": "https://news.ycombinator.com/item?id=48811644",
+      "score": 199,
+      "comments": 47,
+      "author": "soycaporal"
+    },
+    {
+      "rank": 8,
+      "title": "Dolosse – a South African invention used over the world",
+      "url": "https://thisbugslife.com/2021/11/21/dolosse-a-south-african-invention-used-over-the-world/",
+      "hn_url": "https://news.ycombinator.com/item?id=48786124",
+      "score": 26,
+      "comments": 4,
+      "author": "andsoitis"
+    },
+    {
+      "rank": 9,
+      "title": "A global workspace in language models",
+      "url": "https://www.anthropic.com/research/global-workspace",
+      "hn_url": "https://news.ycombinator.com/item?id=48808002",
+      "score": 351,
+      "comments": 128,
+      "author": "in-silico"
+    },
+    {
+      "rank": 10,
+      "title": "Pruning RAG context down to what the answer actually needs",
+      "url": "https://www.kapa.ai/blog/how-we-prune-rag-context",
+      "hn_url": "https://news.ycombinator.com/item?id=48809354",
+      "score": 97,
+      "comments": 19,
+      "author": "emil_sorensen"
+    },
+    {
+      "rank": 11,
+      "title": "Resetting Xbox",
+      "url": "https://news.xbox.com/en-us/2026/07/06/resetting-xbox/",
+      "hn_url": "https://news.ycombinator.com/item?id=48804993",
+      "score": 593,
+      "comments": 611,
+      "author": "dijksterhuis"
+    },
+    {
+      "rank": 12,
+      "title": "AMD Ryzen AI Halo – $4k AI Dev Kit",
+      "url": "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo",
+      "hn_url": "https://news.ycombinator.com/item?id=48805624",
+      "score": 318,
+      "comments": 220,
+      "author": "LabsLucas"
+    },
+    {
+      "rank": 13,
+      "title": "Linux on the Atari Jaguar",
+      "url": "https://cakehonolulu.github.io/linux-for-jaguar/",
+      "hn_url": "https://news.ycombinator.com/item?id=48808663",
+      "score": 141,
+      "comments": 27,
+      "author": "cakehonolulu"
+    },
+    {
+      "rank": 14,
+      "title": "Inkfield",
+      "url": "https://www.inkfield.studio",
+      "hn_url": "https://news.ycombinator.com/item?id=48778243",
+      "score": 5,
+      "comments": 1,
+      "author": "surprisetalk"
+    },
+    {
+      "rank": 15,
+      "title": "OpenSSH 10.4/10.4p1 Released",
+      "url": "https://www.openssh.org/txt/release-10.4",
+      "hn_url": "https://news.ycombinator.com/item?id=48811373",
+      "score": 70,
+      "comments": 15,
+      "author": "throw0101a"
+    },
+    {
+      "rank": 16,
+      "title": "OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files",
+      "url": "https://github.com/iOfficeAI/OfficeCLI",
+      "hn_url": "https://news.ycombinator.com/item?id=48807225",
+      "score": 169,
+      "comments": 51,
+      "author": "maxloh"
+    },
+    {
+      "rank": 17,
+      "title": "A 2048-spin bulk acoustic wave Ising machine for number partitioning and Sudoku",
+      "url": "https://arxiv.org/abs/2607.02112",
+      "hn_url": "https://news.ycombinator.com/item?id=48782248",
+      "score": 39,
+      "comments": 10,
+      "author": "Jimmc414"
+    },
+    {
+      "rank": 18,
+      "title": "Learning to code is still worthwhile",
+      "url": "https://stevekrouse.com/learn-to-code",
+      "hn_url": "https://news.ycombinator.com/item?id=48810439",
+      "score": 185,
+      "comments": 188,
+      "author": "stevekrouse"
+    },
+    {
+      "rank": 19,
+      "title": "Januscape: Guest-to-Host Escape in KVM/x86 [CVE-2026-53359]",
+      "url": "https://github.com/V4bel/Januscape",
+      "hn_url": "https://news.ycombinator.com/item?id=48807908",
+      "score": 106,
+      "comments": 34,
+      "author": "Imustaskforhelp"
+    },
+    {
+      "rank": 20,
+      "title": "Rotman Lens",
+      "url": "https://en.wikipedia.org/wiki/Rotman_lens",
+      "hn_url": "https://news.ycombinator.com/item?id=48747889",
+      "score": 103,
+      "comments": 29,
+      "author": "thomasjb"
+    },
+    {
+      "rank": 21,
+      "title": "M/PC – A Concatenative OS",
+      "url": "https://wiki.xxiivv.com/site/m_pc.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48809810",
+      "score": 60,
+      "comments": 10,
+      "author": "caminanteblanco"
+    },
+    {
+      "rank": 22,
+      "title": "NSA and IETF: Fairness",
+      "url": "https://blog.cr.yp.to/20260706-fairness.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48811887",
+      "score": 97,
+      "comments": 80,
+      "author": "WatchDog"
+    },
+    {
+      "rank": 23,
+      "title": "Kani: A Model Checker for Rust",
+      "url": "https://arxiv.org/abs/2607.01504",
+      "hn_url": "https://news.ycombinator.com/item?id=48806410",
+      "score": 142,
+      "comments": 7,
+      "author": "Jimmc414"
+    },
+    {
+      "rank": 24,
+      "title": "Full Writeup of the Windows GDID",
+      "url": "https://github.com/SmtimesIWndr/gdid-reversal",
+      "hn_url": "https://news.ycombinator.com/item?id=48811081",
+      "score": 65,
+      "comments": 30,
+      "author": "typeofhuman"
+    }
+  ]
+}
