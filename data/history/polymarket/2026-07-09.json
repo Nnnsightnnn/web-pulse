@@ -1,0 +1,331 @@
+{
+  "source": "polymarket",
+  "label": "Polymarket — top 24h volume",
+  "fetched_at": "2026-07-09T19:58:47.527Z",
+  "items": [
+    {
+      "rank": 1,
+      "title": "Will Ronaldo Cry at the World Cup?",
+      "url": "https://polymarket.com/event/will-ronaldo-cry-at-the-world-cup-20260604013616610",
+      "volume_24h": 37824954.914032,
+      "volume_total": 87074356.57233909,
+      "liquidity": 9479048.21988,
+      "yes_price": 0.9995,
+      "leader": {
+        "name": "Yes",
+        "price": 0.9995
+      },
+      "end_date": null,
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "France vs. Morocco: O/U 2.5",
+      "url": "https://polymarket.com/event/fifwc-fra-mar-2026-07-09-more-markets",
+      "volume_24h": 16461883.153129008,
+      "volume_total": 18155164.494734194,
+      "liquidity": 2254579.0753,
+      "yes_price": 0.50875,
+      "leader": {
+        "name": "Over",
+        "price": 0.50875
+      },
+      "end_date": "2026-07-09T20:00:00Z",
+      "outcomes": [
+        "Over",
+        "Under"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Will France win on 2026-07-09?",
+      "url": "https://polymarket.com/event/fifwc-fra-mar-2026-07-09",
+      "volume_24h": 8465394.303820958,
+      "volume_total": 11315360.364322094,
+      "liquidity": 3926495.889275,
+      "yes_price": 0.61625,
+      "leader": {
+        "name": "Yes",
+        "price": 0.61625
+      },
+      "end_date": "2026-07-09T20:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Will Morocco win the 2026 FIFA World Cup?",
+      "url": "https://polymarket.com/event/world-cup-winner",
+      "volume_24h": 5728259.385432994,
+      "volume_total": 147021454.5764222,
+      "liquidity": 2276842.81116,
+      "yes_price": 0.0315,
+      "leader": {
+        "name": "No",
+        "price": 0.9685
+      },
+      "end_date": "2026-07-20T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Will Shimelis Abdisa be the next Prime Minister of Ethiopia?",
+      "url": "https://polymarket.com/event/next-prime-minister-of-ethiopia",
+      "volume_24h": 4916400,
+      "volume_total": 41256895.87713003,
+      "liquidity": 28549.82374,
+      "yes_price": 0.002,
+      "leader": {
+        "name": "No",
+        "price": 0.998
+      },
+      "end_date": "2026-06-01T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Exact Score: France 3 - 3 Morocco?",
+      "url": "https://polymarket.com/event/fifwc-fra-mar-2026-07-09-exact-score",
+      "volume_24h": 2707395.010553009,
+      "volume_total": 3818750.0200570123,
+      "liquidity": 845310.89388,
+      "yes_price": 0.012,
+      "leader": {
+        "name": "No",
+        "price": 0.988
+      },
+      "end_date": "2026-07-09T20:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Will Seyed Hossein Mousavian be head of state in Iran end of 2026?",
+      "url": "https://polymarket.com/event/iran-leader-end-of-2026",
+      "volume_24h": 2390613.383333,
+      "volume_total": 2798655.711215,
+      "liquidity": 57242.59669,
+      "yes_price": 0.002,
+      "leader": {
+        "name": "No",
+        "price": 0.998
+      },
+      "end_date": "2026-12-31T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Will Miguel Díaz-Canel be the next leader out before 2027?",
+      "url": "https://polymarket.com/event/next-leader-out-of-power-before-2027-no-orban",
+      "volume_24h": 882514.346004,
+      "volume_total": 1529841.2731669997,
+      "liquidity": 74113.08104,
+      "yes_price": 0.0025,
+      "leader": {
+        "name": "No",
+        "price": 0.9975
+      },
+      "end_date": "2026-12-31T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "UFC 329: Max Holloway vs. Conor McGregor (Welterweight, Main Card)",
+      "url": "https://polymarket.com/event/ufc-max1-con-2026-07-11",
+      "volume_24h": 800987.2445720003,
+      "volume_total": 2822543.507751007,
+      "liquidity": 1707727.013,
+      "yes_price": 0.665,
+      "leader": {
+        "name": "Max Holloway",
+        "price": 0.665
+      },
+      "end_date": "2026-07-12T03:59:59.999Z",
+      "outcomes": [
+        "Max Holloway",
+        "Conor McGregor"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "New York Yankees vs. Tampa Bay Rays",
+      "url": "https://polymarket.com/event/mlb-nyy-tb-2026-07-09",
+      "volume_24h": 799201.1037869994,
+      "volume_total": 799585.6945499985,
+      "liquidity": 93183.5865,
+      "yes_price": 0.998,
+      "leader": {
+        "name": "New York Yankees",
+        "price": 0.998
+      },
+      "end_date": "2026-07-16T17:10:00Z",
+      "outcomes": [
+        "New York Yankees",
+        "Tampa Bay Rays"
+      ]
+    },
+    {
+      "rank": 11,
+      "title": "Will Sergio Pérez be the 2026 F1 Drivers' Champion?",
+      "url": "https://polymarket.com/event/2026-f1-drivers-champion",
+      "volume_24h": 788669.405,
+      "volume_total": 11694461.626138322,
+      "liquidity": 913487.55681,
+      "yes_price": 0.0015,
+      "leader": {
+        "name": "No",
+        "price": 0.9985
+      },
+      "end_date": "2026-12-06T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 12,
+      "title": "Kylian Mbappé: 1+ goals",
+      "url": "https://polymarket.com/event/fifwc-fra-mar-2026-07-09-player-props",
+      "volume_24h": 657538.234583001,
+      "volume_total": 672563.9358640023,
+      "liquidity": 306722.6047,
+      "yes_price": 0.525,
+      "leader": {
+        "name": "Yes",
+        "price": 0.525
+      },
+      "end_date": "2026-07-09T20:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 13,
+      "title": "Will Spain win on 2026-07-10?",
+      "url": "https://polymarket.com/event/fifwc-esp-bel-2026-07-10",
+      "volume_24h": 643894.3857170005,
+      "volume_total": 1031249.622511001,
+      "liquidity": 3073691.36985,
+      "yes_price": 0.59375,
+      "leader": {
+        "name": "Yes",
+        "price": 0.59375
+      },
+      "end_date": "2026-07-10T19:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 14,
+      "title": "Will there be no change in Fed interest rates after the July 2026 meeting?",
+      "url": "https://polymarket.com/event/fed-decision-in-july-181",
+      "volume_24h": 567088.2372090016,
+      "volume_total": 12610926.81020499,
+      "liquidity": 524335.5277,
+      "yes_price": 0.855,
+      "leader": {
+        "name": "Yes",
+        "price": 0.855
+      },
+      "end_date": "2026-07-29T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 15,
+      "title": "Spain vs. Belgium: Team to Advance",
+      "url": "https://polymarket.com/event/fifwc-esp-bel-2026-07-10-more-markets",
+      "volume_24h": 557995.5463350028,
+      "volume_total": 861662.3774599987,
+      "liquidity": 906059.559275,
+      "yes_price": 0.73875,
+      "leader": {
+        "name": "Spain",
+        "price": 0.73875
+      },
+      "end_date": "2026-07-10T19:00:00Z",
+      "outcomes": [
+        "Spain",
+        "Belgium"
+      ]
+    },
+    {
+      "rank": 16,
+      "title": "Atlanta Braves vs. Pittsburgh Pirates",
+      "url": "https://polymarket.com/event/mlb-atl-pit-2026-07-09",
+      "volume_24h": 518113.06765,
+      "volume_total": 518911.7497980014,
+      "liquidity": 112371.1696,
+      "yes_price": 0.735,
+      "leader": {
+        "name": "Atlanta Braves",
+        "price": 0.735
+      },
+      "end_date": "2026-07-16T16:35:00Z",
+      "outcomes": [
+        "Atlanta Braves",
+        "Pittsburgh Pirates"
+      ]
+    },
+    {
+      "rank": 17,
+      "title": "Dota 2: LGD Gaming vs 1win - Game 1 Winner",
+      "url": "https://polymarket.com/event/dota2-lgd-1win-2026-07-09",
+      "volume_24h": 510342.5014740003,
+      "volume_total": 510342.5014740006,
+      "liquidity": 264430.6315,
+      "yes_price": 0.0005,
+      "leader": {
+        "name": "1win",
+        "price": 0.9995
+      },
+      "end_date": "2026-07-10T00:15:00Z",
+      "outcomes": [
+        "LGD Gaming",
+        "1win"
+      ]
+    },
+    {
+      "rank": 18,
+      "title": "France vs. Morocco: O/U 9.5 Total Corners",
+      "url": "https://polymarket.com/event/fifwc-fra-mar-2026-07-09-total-corners",
+      "volume_24h": 500043.6334480008,
+      "volume_total": 555113.0315650019,
+      "liquidity": 280606.3491,
+      "yes_price": 0.505,
+      "leader": {
+        "name": "Over",
+        "price": 0.505
+      },
+      "end_date": "2026-07-09T20:00:00Z",
+      "outcomes": [
+        "Over",
+        "Under"
+      ]
+    }
+  ]
+}
