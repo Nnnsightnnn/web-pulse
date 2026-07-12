@@ -1,0 +1,282 @@
+{
+  "source": "huggingface",
+  "label": "Hugging Face — trending models",
+  "fetched_at": "2026-07-12T08:09:35.923Z",
+  "items": [
+    {
+      "rank": 1,
+      "title": "tencent/Hy3",
+      "url": "https://huggingface.co/tencent/Hy3",
+      "author": "tencent",
+      "downloads": 8210,
+      "likes": 702,
+      "trending_score": 673,
+      "pipeline_tag": "text-generation",
+      "last_modified": "2026-07-06T14:09:24.000Z"
+    },
+    {
+      "rank": 2,
+      "title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+      "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+      "author": "empero-ai",
+      "downloads": 1944961,
+      "likes": 2023,
+      "trending_score": 457,
+      "pipeline_tag": "image-text-to-text",
+      "last_modified": "2026-07-12T00:57:41.000Z"
+    },
+    {
+      "rank": 3,
+      "title": "zai-org/GLM-5.2",
+      "url": "https://huggingface.co/zai-org/GLM-5.2",
+      "author": "zai-org",
+      "downloads": 421270,
+      "likes": 3840,
+      "trending_score": 332,
+      "pipeline_tag": "text-generation",
+      "last_modified": "2026-07-02T08:08:14.000Z"
+    },
+    {
+      "rank": 4,
+      "title": "InternScience/Agents-A1",
+      "url": "https://huggingface.co/InternScience/Agents-A1",
+      "author": "InternScience",
+      "downloads": 28141,
+      "likes": 498,
+      "trending_score": 240,
+      "pipeline_tag": "text-generation",
+      "last_modified": "2026-07-09T01:14:45.000Z"
+    },
+    {
+      "rank": 5,
+      "title": "bottlecapai/ThinkingCap-Qwen3.6-27B",
+      "url": "https://huggingface.co/bottlecapai/ThinkingCap-Qwen3.6-27B",
+      "author": "bottlecapai",
+      "downloads": 4128,
+      "likes": 240,
+      "trending_score": 232,
+      "pipeline_tag": "image-text-to-text",
+      "last_modified": "2026-07-10T13:15:25.000Z"
+    },
+    {
+      "rank": 6,
+      "title": "froggeric/Qwen-Fixed-Chat-Templates",
+      "url": "https://huggingface.co/froggeric/Qwen-Fixed-Chat-Templates",
+      "author": "froggeric",
+      "downloads": 0,
+      "likes": 855,
+      "trending_score": 206,
+      "pipeline_tag": null,
+      "last_modified": "2026-07-03T08:54:29.000Z"
+    },
+    {
+      "rank": 7,
+      "title": "baidu/Unlimited-OCR",
+      "url": "https://huggingface.co/baidu/Unlimited-OCR",
+      "author": "baidu",
+      "downloads": 1380690,
+      "likes": 1935,
+      "trending_score": 203,
+      "pipeline_tag": "image-text-to-text",
+      "last_modified": "2026-07-03T05:15:09.000Z"
+    },
+    {
+      "rank": 8,
+      "title": "conradlocke/krea2-identity-edit",
+      "url": "https://huggingface.co/conradlocke/krea2-identity-edit",
+      "author": "conradlocke",
+      "downloads": 0,
+      "likes": 196,
+      "trending_score": 195,
+      "pipeline_tag": null,
+      "last_modified": "2026-07-09T13:51:08.000Z"
+    },
+    {
+      "rank": 9,
+      "title": "meituan-longcat/LongCat-2.0",
+      "url": "https://huggingface.co/meituan-longcat/LongCat-2.0",
+      "author": "meituan-longcat",
+      "downloads": 1572,
+      "likes": 178,
+      "trending_score": 175,
+      "pipeline_tag": "text-generation",
+      "last_modified": "2026-07-08T06:29:21.000Z"
+    },
+    {
+      "rank": 10,
+      "title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "url": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "author": "HauhauCS",
+      "downloads": 2641936,
+      "likes": 2659,
+      "trending_score": 154,
+      "pipeline_tag": "image-text-to-text",
+      "last_modified": "2026-04-17T02:59:21.000Z"
+    },
+    {
+      "rank": 11,
+      "title": "GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF",
+      "url": "https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF",
+      "author": "GnLOLot",
+      "downloads": 29887,
+      "likes": 194,
+      "trending_score": 142,
+      "pipeline_tag": "text-generation",
+      "last_modified": "2026-07-09T16:04:17.000Z"
+    },
+    {
+      "rank": 12,
+      "title": "google/tabfm-1.0.0-pytorch",
+      "url": "https://huggingface.co/google/tabfm-1.0.0-pytorch",
+      "author": "google",
+      "downloads": 20110,
+      "likes": 350,
+      "trending_score": 140,
+      "pipeline_tag": "tabular-classification",
+      "last_modified": "2026-07-04T06:08:26.000Z"
+    },
+    {
+      "rank": 13,
+      "title": "unsloth/DeepSeek-V4-Flash-GGUF",
+      "url": "https://huggingface.co/unsloth/DeepSeek-V4-Flash-GGUF",
+      "author": "unsloth",
+      "downloads": 38922,
+      "likes": 143,
+      "trending_score": 138,
+      "pipeline_tag": null,
+      "last_modified": "2026-07-09T12:39:39.000Z"
+    },
+    {
+      "rank": 14,
+      "title": "deepreinforce-ai/Ornith-1.0-35B-GGUF",
+      "url": "https://huggingface.co/deepreinforce-ai/Ornith-1.0-35B-GGUF",
+      "author": "deepreinforce-ai",
+      "downloads": 1216495,
+      "likes": 853,
+      "trending_score": 127,
+      "pipeline_tag": "text-generation",
+      "last_modified": "2026-06-25T14:31:04.000Z"
+    },
+    {
+      "rank": 15,
+      "title": "nvidia/Nemotron-Labs-Audex-30B-A3B",
+      "url": "https://huggingface.co/nvidia/Nemotron-Labs-Audex-30B-A3B",
+      "author": "nvidia",
+      "downloads": 743,
+      "likes": 125,
+      "trending_score": 123,
+      "pipeline_tag": "text-generation",
+      "last_modified": "2026-07-08T17:58:05.000Z"
+    },
+    {
+      "rank": 16,
+      "title": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
+      "url": "https://huggingface.co/yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
+      "author": "yuxinlu1",
+      "downloads": 436530,
+      "likes": 1153,
+      "trending_score": 121,
+      "pipeline_tag": "text-generation",
+      "last_modified": "2026-06-19T09:31:48.000Z"
+    },
+    {
+      "rank": 17,
+      "title": "open-gigaai/Giga-World-1",
+      "url": "https://huggingface.co/open-gigaai/Giga-World-1",
+      "author": "open-gigaai",
+      "downloads": 0,
+      "likes": 122,
+      "trending_score": 121,
+      "pipeline_tag": null,
+      "last_modified": "2026-07-01T08:45:49.000Z"
+    },
+    {
+      "rank": 18,
+      "title": "OpenMOSS-Team/MOSS-Transcribe-Diarize",
+      "url": "https://huggingface.co/OpenMOSS-Team/MOSS-Transcribe-Diarize",
+      "author": "OpenMOSS-Team",
+      "downloads": 12817,
+      "likes": 112,
+      "trending_score": 110,
+      "pipeline_tag": "audio-text-to-text",
+      "last_modified": "2026-07-12T07:03:41.000Z"
+    },
+    {
+      "rank": 19,
+      "title": "nvidia/NVIDIA-Nemotron-Labs-3-Puzzle-75B-A9B-NVFP4",
+      "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-Labs-3-Puzzle-75B-A9B-NVFP4",
+      "author": "nvidia",
+      "downloads": 30418,
+      "likes": 109,
+      "trending_score": 106,
+      "pipeline_tag": "text-generation",
+      "last_modified": "2026-07-07T10:58:31.000Z"
+    },
+    {
+      "rank": 20,
+      "title": "SupraLabs/Supra-Router-51M",
+      "url": "https://huggingface.co/SupraLabs/Supra-Router-51M",
+      "author": "SupraLabs",
+      "downloads": 1275,
+      "likes": 103,
+      "trending_score": 103,
+      "pipeline_tag": "text-generation",
+      "last_modified": "2026-07-09T20:38:41.000Z"
+    },
+    {
+      "rank": 21,
+      "title": "Alissonerdx/LTX-Best-Face-ID",
+      "url": "https://huggingface.co/Alissonerdx/LTX-Best-Face-ID",
+      "author": "Alissonerdx",
+      "downloads": 0,
+      "likes": 103,
+      "trending_score": 98,
+      "pipeline_tag": "text-to-video",
+      "last_modified": "2026-07-10T14:34:10.000Z"
+    },
+    {
+      "rank": 22,
+      "title": "nvidia/LocateAnything-3B",
+      "url": "https://huggingface.co/nvidia/LocateAnything-3B",
+      "author": "nvidia",
+      "downloads": 1501653,
+      "likes": 2709,
+      "trending_score": 93,
+      "pipeline_tag": "image-text-to-text",
+      "last_modified": "2026-06-12T10:51:04.000Z"
+    },
+    {
+      "rank": 23,
+      "title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M",
+      "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M",
+      "author": "empero-ai",
+      "downloads": 186852,
+      "likes": 770,
+      "trending_score": 88,
+      "pipeline_tag": "text-generation",
+      "last_modified": "2026-07-12T00:58:03.000Z"
+    },
+    {
+      "rank": 24,
+      "title": "migtissera/Tess-4-27B",
+      "url": "https://huggingface.co/migtissera/Tess-4-27B",
+      "author": "migtissera",
+      "downloads": 806,
+      "likes": 88,
+      "trending_score": 87,
+      "pipeline_tag": "image-text-to-text",
+      "last_modified": "2026-07-10T07:48:53.000Z"
+    },
+    {
+      "rank": 25,
+      "title": "robbyant/lingbot-video-moe-30b-a3b",
+      "url": "https://huggingface.co/robbyant/lingbot-video-moe-30b-a3b",
+      "author": "robbyant",
+      "downloads": 381,
+      "likes": 86,
+      "trending_score": 86,
+      "pipeline_tag": null,
+      "last_modified": "2026-07-08T16:47:22.000Z"
+    }
+  ]
+}
