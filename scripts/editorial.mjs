@@ -13,6 +13,11 @@ import { existsSync } from "node:fs";
 
 const API_MODEL = process.env.EDITORIAL_MODEL_API || "claude-sonnet-5";
 const CLI_MODEL = process.env.EDITORIAL_MODEL_CLI || "sonnet";
+// Editorial is best-effort (dashboard falls back to seeded template copy), so
+// this must never dominate the run. The old 240s cap meant a slow/stalled CLI
+// added ~4 min of dead wall-clock on every keyless run. 90s is plenty for a
+// single Sonnet completion; override via EDITORIAL_CLI_TIMEOUT_MS if needed.
+const CLI_TIMEOUT_MS = Number(process.env.EDITORIAL_CLI_TIMEOUT_MS) || 90_000;
 const CLI_CANDIDATES = [
   process.env.CLAUDE_BIN,
   "/opt/homebrew/bin/claude",
@@ -185,8 +190,8 @@ async function viaCli(prompt) {
     let out = "", err = "";
     const timer = setTimeout(() => {
       child.kill("SIGKILL");
-      reject(new Error("claude CLI timed out after 240s"));
-    }, 240_000);
+      reject(new Error(`claude CLI timed out after ${Math.round(CLI_TIMEOUT_MS / 1000)}s`));
+    }, CLI_TIMEOUT_MS);
     child.stdout.on("data", (d) => (out += d));
     child.stderr.on("data", (d) => (err += d));
     child.on("error", (e) => { clearTimeout(timer); reject(e); });

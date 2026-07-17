@@ -37,14 +37,22 @@ const ENDPOINT = "https://api.gdeltproject.org/api/v2/doc/doc";
 // retries is counterproductive — it keeps the lockout alive.
 //
 // The strategy here is therefore "fewer, far-apart, patient" rather than "more,
-// closer": a handful of attempts spaced long enough to let the penalty actually
+// closer": a couple of attempts spaced long enough to let the penalty actually
 // expire between tries. Sources run in parallel via Promise.allSettled, so a
 // slow GDELT recovery only extends total wall-clock — it never blocks the
 // other 16 sources.
-const MAX_ATTEMPTS = 4;
-const BACKOFF_BASE_MS = 45000; // first backoff ~45s, then ~68s, ~101s (+jitter)
+//
+// Wall-clock cap: this IP is chronically throttled, so a throttled run almost
+// always ends up serving the stale snapshot regardless of how long we wait.
+// The old 4-attempt / 45–101s schedule cost ~4.4 min of wall-clock per run for
+// no practical gain. We now cap at 2 attempts with a single ~20s spacer, which
+// still honors GDELT's "one request / 5s" ask while bounding worst-case to
+// ~60s. The 30-min circuit-breaker cooldown below still short-circuits repeated
+// runs entirely.
+const MAX_ATTEMPTS = 2;
+const BACKOFF_BASE_MS = 20000; // single spacer ~20s (+jitter) between the 2 tries
 const BACKOFF_GROWTH = 1.5;
-const BACKOFF_MAX_MS = 120000;
+const BACKOFF_MAX_MS = 30000;
 
 // Circuit-breaker: when a run is throttled out completely, we record a cooldown
 // timestamp. Subsequent runs (manual re-runs, retries) within this window skip
