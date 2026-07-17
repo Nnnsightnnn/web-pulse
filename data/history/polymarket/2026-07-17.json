@@ -1,0 +1,457 @@
+{
+  "source": "polymarket",
+  "label": "Polymarket — top 24h volume",
+  "fetched_at": "2026-07-17T08:14:06.179Z",
+  "items": [
+    {
+      "rank": 1,
+      "title": "Will Gedion Timothewos be the next Prime Minister of Ethiopia?",
+      "url": "https://polymarket.com/event/next-prime-minister-of-ethiopia",
+      "volume_24h": 5619704.466941,
+      "volume_total": 55904433.12484603,
+      "liquidity": 24549.54939,
+      "yes_price": 0.0105,
+      "leader": {
+        "name": "No",
+        "price": 0.9895
+      },
+      "end_date": "2026-06-01T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Exact Score: Spain 2 - 3 Argentina?",
+      "url": "https://polymarket.com/event/fifwc-esp-arg-2026-07-19-exact-score",
+      "volume_24h": 2926753.144865001,
+      "volume_total": 3270305.965987994,
+      "liquidity": 263025.87576,
+      "yes_price": 0.033,
+      "leader": {
+        "name": "No",
+        "price": 0.967
+      },
+      "end_date": "2026-07-19T19:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Will Argentina win the 2026 FIFA World Cup?",
+      "url": "https://polymarket.com/event/world-cup-winner",
+      "volume_24h": 2912842.476188996,
+      "volume_total": 154905037.60300153,
+      "liquidity": 8757222.31682,
+      "yes_price": 0.4115,
+      "leader": {
+        "name": "No",
+        "price": 0.5885
+      },
+      "end_date": "2026-07-20T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Will Mohammad Khatami be head of state in Iran end of 2026?",
+      "url": "https://polymarket.com/event/iran-leader-end-of-2026",
+      "volume_24h": 1415161.1149999981,
+      "volume_total": 5000419.275269006,
+      "liquidity": 52323.14717,
+      "yes_price": 0.0015,
+      "leader": {
+        "name": "No",
+        "price": 0.9985
+      },
+      "end_date": "2026-12-31T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Swiss Open: Alexander Bublik vs Quentin Halys",
+      "url": "https://polymarket.com/event/atp-bublik-halys-2026-07-15",
+      "volume_24h": 1144099.3827469987,
+      "volume_total": 1176483.014495999,
+      "liquidity": 128468.98449,
+      "yes_price": 0.705,
+      "leader": {
+        "name": "Alexander Bublik",
+        "price": 0.705
+      },
+      "end_date": "2026-07-22T08:00:00Z",
+      "outcomes": [
+        "Alexander Bublik",
+        "Quentin Halys"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Will France win on 2026-07-18?",
+      "url": "https://polymarket.com/event/fifwc-fra-eng-2026-07-18",
+      "volume_24h": 1016296.7672800043,
+      "volume_total": 1122805.1674499998,
+      "liquidity": 2276728.5223,
+      "yes_price": 0.495,
+      "leader": {
+        "name": "No",
+        "price": 0.505
+      },
+      "end_date": "2026-07-18T21:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "France vs. England: Team to Win",
+      "url": "https://polymarket.com/event/fifwc-fra-eng-2026-07-18-more-markets",
+      "volume_24h": 927333.2888420142,
+      "volume_total": 963590.4890430159,
+      "liquidity": 712996.7937,
+      "yes_price": 0.645,
+      "leader": {
+        "name": "France",
+        "price": 0.645
+      },
+      "end_date": "2026-07-18T21:00:00Z",
+      "outcomes": [
+        "France",
+        "England"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Spain vs. Argentina: Team to Advance",
+      "url": "https://polymarket.com/event/fifwc-esp-arg-2026-07-19-more-markets",
+      "volume_24h": 914674.4025580001,
+      "volume_total": 995491.1516229976,
+      "liquidity": 5177627.718,
+      "yes_price": 0.585,
+      "leader": {
+        "name": "Spain",
+        "price": 0.585
+      },
+      "end_date": "2026-07-19T19:00:00Z",
+      "outcomes": [
+        "Spain",
+        "Argentina"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Will the Fed decrease interest rates by 25 bps after the July 2026 meeting?",
+      "url": "https://polymarket.com/event/fed-decision-in-july-181",
+      "volume_24h": 642540.0206600002,
+      "volume_total": 10859026.893758073,
+      "liquidity": 998060.38615,
+      "yes_price": 0.0035,
+      "leader": {
+        "name": "No",
+        "price": 0.9965
+      },
+      "end_date": "2026-07-29T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Will the U.S. invade Iran before 2027?",
+      "url": "https://polymarket.com/event/will-the-us-invade-iran-before-2027",
+      "volume_24h": 583826.2574730004,
+      "volume_total": 43665132.09996212,
+      "liquidity": 638914.9667,
+      "yes_price": 0.235,
+      "leader": {
+        "name": "No",
+        "price": 0.765
+      },
+      "end_date": "2026-12-31T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 11,
+      "title": "Will Cal Raleigh win the 2026 American League MVP Award?",
+      "url": "https://polymarket.com/event/pro-baseball-2026-al-mvp",
+      "volume_24h": 557894,
+      "volume_total": 558127.289236,
+      "liquidity": 15900.11523,
+      "yes_price": 0.009,
+      "leader": {
+        "name": "No",
+        "price": 0.991
+      },
+      "end_date": "2026-11-13T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 12,
+      "title": "Will Max Verstappen be the 2026 F1 Drivers' Champion?",
+      "url": "https://polymarket.com/event/2026-f1-drivers-champion",
+      "volume_24h": 549098.1899809988,
+      "volume_total": 4837845.110874022,
+      "liquidity": 213067.64609,
+      "yes_price": 0.0215,
+      "leader": {
+        "name": "No",
+        "price": 0.9785
+      },
+      "end_date": "2026-12-06T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 13,
+      "title": "World Cup: Unbeaten Champion?",
+      "url": "https://polymarket.com/event/world-cup-unbeaten-champion",
+      "volume_24h": 531880.228701,
+      "volume_total": 2132696.8919259924,
+      "liquidity": 364602.64364,
+      "yes_price": 0.9995,
+      "leader": {
+        "name": "Yes",
+        "price": 0.9995
+      },
+      "end_date": "2026-07-20T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 14,
+      "title": "LoL: Hanwha Life Esports vs T1 (BO3) - Esports World Cup Playoffs",
+      "url": "https://polymarket.com/event/lol-hle1-t1-2026-07-17",
+      "volume_24h": 525719.7080040006,
+      "volume_total": 525719.7080039995,
+      "liquidity": 511113.0516,
+      "yes_price": 0.665,
+      "leader": {
+        "name": "Hanwha Life Esports",
+        "price": 0.665
+      },
+      "end_date": "2026-07-17T17:00:00Z",
+      "outcomes": [
+        "Hanwha Life Esports",
+        "T1"
+      ]
+    },
+    {
+      "rank": 15,
+      "title": "Will LeBron James play for the Golden State Warriors in 2026-27?",
+      "url": "https://polymarket.com/event/nba-lebron-james-next-team",
+      "volume_24h": 511380.273187,
+      "volume_total": 2428020.657711998,
+      "liquidity": 104760.96903,
+      "yes_price": 0.3195,
+      "leader": {
+        "name": "No",
+        "price": 0.6805
+      },
+      "end_date": "2026-10-31T03:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 16,
+      "title": "Will Argentina win on 2026-07-19?",
+      "url": "https://polymarket.com/event/fifwc-esp-arg-2026-07-19",
+      "volume_24h": 508445.4387630035,
+      "volume_total": 639964.698799005,
+      "liquidity": 3756034.6329,
+      "yes_price": 0.265,
+      "leader": {
+        "name": "No",
+        "price": 0.735
+      },
+      "end_date": "2026-07-19T19:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 17,
+      "title": "Will Mike Pence win the 2028 Republican presidential nomination?",
+      "url": "https://polymarket.com/event/republican-presidential-nominee-2028",
+      "volume_24h": 449813.245723,
+      "volume_total": 43091947.94805706,
+      "liquidity": 1837528.89806,
+      "yes_price": 0.0035,
+      "leader": {
+        "name": "No",
+        "price": 0.9965
+      },
+      "end_date": "2028-11-07T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 18,
+      "title": "Exact Score: France 0 - 0 England?",
+      "url": "https://polymarket.com/event/fifwc-fra-eng-2026-07-18-exact-score",
+      "volume_24h": 395920.0942000001,
+      "volume_total": 401460.96404700103,
+      "liquidity": 421847.7938,
+      "yes_price": 0.0375,
+      "leader": {
+        "name": "No",
+        "price": 0.9625
+      },
+      "end_date": "2026-07-18T21:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 19,
+      "title": "Strait of Hormuz traffic returns to normal by July 31?",
+      "url": "https://polymarket.com/event/strait-of-hormuz-traffic-returns-to-normal-by-july-31",
+      "volume_24h": 383660.65846999997,
+      "volume_total": 17358417.421911277,
+      "liquidity": 711457.54096,
+      "yes_price": 0.0105,
+      "leader": {
+        "name": "No",
+        "price": 0.9895
+      },
+      "end_date": "2026-07-31T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 20,
+      "title": "Will Benjamin Netanyahu be the next leader out before 2027?",
+      "url": "https://polymarket.com/event/next-leader-out-of-power-before-2027-no-orban",
+      "volume_24h": 302370.414794,
+      "volume_total": 3989548.8291829997,
+      "liquidity": 53514.95742,
+      "yes_price": 0.002,
+      "leader": {
+        "name": "No",
+        "price": 0.998
+      },
+      "end_date": "2026-12-31T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 21,
+      "title": "Will Manchester City win the 2026-27 English Premier League (EPL) Championship?",
+      "url": "https://polymarket.com/event/epl-2027-champion-20260701200428749",
+      "volume_24h": 296535.903504,
+      "volume_total": 343758.0361399999,
+      "liquidity": 340941.0416,
+      "yes_price": 0.295,
+      "leader": {
+        "name": "No",
+        "price": 0.705
+      },
+      "end_date": "2027-05-30T23:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 22,
+      "title": "Will Mathilde Panot win the 2027 French presidential election?",
+      "url": "https://polymarket.com/event/next-french-presidential-election",
+      "volume_24h": 288044.642,
+      "volume_total": 6150032.689722048,
+      "liquidity": 512018.26688,
+      "yes_price": 0.0015,
+      "leader": {
+        "name": "No",
+        "price": 0.9985
+      },
+      "end_date": "2027-04-30T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 23,
+      "title": "Will Lionel Messi be the top goalscorer at the 2026 FIFA World Cup?",
+      "url": "https://polymarket.com/event/world-cup-golden-boot-winner",
+      "volume_24h": 283120.67605900014,
+      "volume_total": 5421269.972757971,
+      "liquidity": 696292.12381,
+      "yes_price": 0.5935,
+      "leader": {
+        "name": "Yes",
+        "price": 0.5935
+      },
+      "end_date": "2026-07-20T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 24,
+      "title": "Will Ukraine recapture Crimean territory by December 31, 2026?",
+      "url": "https://polymarket.com/event/will-ukraine-recapture-crimean-territory-by-june-30-2026",
+      "volume_24h": 276239.842161,
+      "volume_total": 2120102.675205993,
+      "liquidity": 348154.0725,
+      "yes_price": 0.085,
+      "leader": {
+        "name": "No",
+        "price": 0.915
+      },
+      "end_date": "2026-12-31T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 25,
+      "title": "Kharg Island no longer under Iranian control by July 31?",
+      "url": "https://polymarket.com/event/kharg-island-no-longer-under-iranian-control-by-march-31",
+      "volume_24h": 205894.43635499987,
+      "volume_total": 2950346.243988,
+      "liquidity": 139521.52137,
+      "yes_price": 0.0325,
+      "leader": {
+        "name": "No",
+        "price": 0.9675
+      },
+      "end_date": "2026-06-30T23:55:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    }
+  ]
+}
