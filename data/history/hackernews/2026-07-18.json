@@ -1,0 +1,223 @@
+{
+  "source": "hackernews",
+  "label": "Hacker News — top stories",
+  "fetched_at": "2026-07-18T08:09:17.298Z",
+  "items": [
+    {
+      "rank": 1,
+      "title": "Regressive JPEGs",
+      "url": "https://maurycyz.com/projects/bad_jpeg/",
+      "hn_url": "https://news.ycombinator.com/item?id=48954851",
+      "score": 198,
+      "comments": 10,
+      "author": "vitaut"
+    },
+    {
+      "rank": 2,
+      "title": "AWS: Inaccurate Estimated Billing Data – $1.7 billion",
+      "url": "https://news.ycombinator.com/item?id=48945241",
+      "hn_url": "https://news.ycombinator.com/item?id=48945241",
+      "score": 1155,
+      "comments": 692,
+      "author": "nprateem"
+    },
+    {
+      "rank": 3,
+      "title": "Reviving a 15-year-old netbook with Arch Linux",
+      "url": "https://parksb.github.io/en/article/41.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48907063",
+      "score": 81,
+      "comments": 41,
+      "author": "parksb"
+    },
+    {
+      "rank": 4,
+      "title": "Thanks HN for 15 years of support and helping me find my life's work",
+      "url": "https://news.ycombinator.com/item?id=48949551",
+      "hn_url": "https://news.ycombinator.com/item?id=48949551",
+      "score": 541,
+      "comments": 54,
+      "author": "nicholasjbs"
+    },
+    {
+      "rank": 5,
+      "title": "First atmosphere found on Earth-like planet in habitable zone of distant star",
+      "url": "https://www.bbc.com/news/articles/cy4kdd1e0ejo",
+      "hn_url": "https://news.ycombinator.com/item?id=48947560",
+      "score": 444,
+      "comments": 257,
+      "author": "neversaydie"
+    },
+    {
+      "rank": 6,
+      "title": "The Zilog Z80 has turned 50",
+      "url": "https://goliath32.com/blog/z80.html",
+      "hn_url": "https://news.ycombinator.com/item?id=48951461",
+      "score": 210,
+      "comments": 71,
+      "author": "st_goliath"
+    },
+    {
+      "rank": 7,
+      "title": "TP-Link Kasa cameras leaked home GPS via unauthenticated UDP for 6 years",
+      "url": "https://github.com/BadChemical/IoT-Vulnerability-Research-Public/blob/main/TP-Link_Kasa_EC71/Kasa_EC71.md",
+      "hn_url": "https://news.ycombinator.com/item?id=48952565",
+      "score": 108,
+      "comments": 27,
+      "author": "BadChemical"
+    },
+    {
+      "rank": 8,
+      "title": "Learning a few things about running SQLite",
+      "url": "https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/",
+      "hn_url": "https://news.ycombinator.com/item?id=48950122",
+      "score": 236,
+      "comments": 63,
+      "author": "surprisetalk"
+    },
+    {
+      "rank": 9,
+      "title": "In-toto: A framework to secure the integrity of software supply chains",
+      "url": "https://in-toto.io/",
+      "hn_url": "https://news.ycombinator.com/item?id=48942603",
+      "score": 13,
+      "comments": 0,
+      "author": "Erenay09"
+    },
+    {
+      "rank": 10,
+      "title": "I started a “dirt notebook”",
+      "url": "https://pinewind.bearblog.dev/i-started-a-dirt-notebook/",
+      "hn_url": "https://news.ycombinator.com/item?id=48954149",
+      "score": 53,
+      "comments": 44,
+      "author": "herbertl"
+    },
+    {
+      "rank": 11,
+      "title": "Porting nanochat to a TPU: what carries over from PyTorch, and what breaks",
+      "url": "https://github.com/tucan9389/nanochat-jax/discussions/1",
+      "hn_url": "https://news.ycombinator.com/item?id=48917755",
+      "score": 11,
+      "comments": 0,
+      "author": "tucan9389"
+    },
+    {
+      "rank": 12,
+      "title": "Shipping OpenStrike: A Counter-Strike-Shaped FPS on a 2004 Handheld",
+      "url": "https://pocketjs.dev/blog/shipping-openstrike/",
+      "hn_url": "https://news.ycombinator.com/item?id=48874347",
+      "score": 39,
+      "comments": 13,
+      "author": "itvision"
+    },
+    {
+      "rank": 13,
+      "title": "Stenchill: 3D Printable Solder Paste Stencil Generator",
+      "url": "https://www.stenchill.com/en/",
+      "hn_url": "https://news.ycombinator.com/item?id=48953981",
+      "score": 40,
+      "comments": 7,
+      "author": "radeeyate"
+    },
+    {
+      "rank": 14,
+      "title": "Kimi K3, and what we can still learn from the pelican benchmark",
+      "url": "https://simonwillison.net/2026/Jul/16/kimi-k3/",
+      "hn_url": "https://news.ycombinator.com/item?id=48947717",
+      "score": 327,
+      "comments": 170,
+      "author": "droidjj"
+    },
+    {
+      "rank": 15,
+      "title": "Vāgdhenu: A Sanskrit Chanting TTS System",
+      "url": "https://prathosh.in/vagdhenu/",
+      "hn_url": "https://news.ycombinator.com/item?id=48896149",
+      "score": 153,
+      "comments": 32,
+      "author": "subinalex"
+    },
+    {
+      "rank": 16,
+      "title": "An Update on Igalia's Layer Based SVG Engine in WebKit (Reducing Layer Overhead)",
+      "url": "https://blogs.igalia.com/nzimmermann/posts/2026-07-14-lbse-conditional-layers/",
+      "hn_url": "https://news.ycombinator.com/item?id=48906171",
+      "score": 42,
+      "comments": 1,
+      "author": "bkardell"
+    },
+    {
+      "rank": 17,
+      "title": "Battery packs: Let's talk about crates, baby",
+      "url": "https://smallcultfollowing.com/babysteps/blog/2026/07/15/battery-packs/",
+      "hn_url": "https://news.ycombinator.com/item?id=48941315",
+      "score": 15,
+      "comments": 3,
+      "author": "MeetingsBrowser"
+    },
+    {
+      "rank": 18,
+      "title": "Static search trees: 40x faster than binary search (2024)",
+      "url": "https://curiouscoding.nl/posts/static-search-tree/",
+      "hn_url": "https://news.ycombinator.com/item?id=48951898",
+      "score": 107,
+      "comments": 6,
+      "author": "lalitmaganti"
+    },
+    {
+      "rank": 19,
+      "title": "Lego building instructions through time",
+      "url": "https://www.lego.com/en-us/history/articles/d-lego-building-instructions-through-time",
+      "hn_url": "https://news.ycombinator.com/item?id=48950518",
+      "score": 112,
+      "comments": 24,
+      "author": "NaOH"
+    },
+    {
+      "rank": 20,
+      "title": "Show HN: IKEA Complexity Index",
+      "url": "https://ikea.greg.technology/",
+      "hn_url": "https://news.ycombinator.com/item?id=48955042",
+      "score": 11,
+      "comments": 4,
+      "author": "gregsadetsky"
+    },
+    {
+      "rank": 21,
+      "title": "Open Book Touch: open-source e-reader",
+      "url": "https://www.crowdsupply.com/oddly-specific-objects/open-book-touch",
+      "hn_url": "https://news.ycombinator.com/item?id=48952135",
+      "score": 104,
+      "comments": 36,
+      "author": "surprisetalk"
+    },
+    {
+      "rank": 22,
+      "title": "The Isomorphic Labs Drug Design Engine unlocks a new frontier beyond AlphaFold",
+      "url": "https://www.isomorphiclabs.com/articles/the-isomorphic-labs-drug-design-engine-unlocks-a-new-frontier",
+      "hn_url": "https://news.ycombinator.com/item?id=48953406",
+      "score": 70,
+      "comments": 6,
+      "author": "andsoitis"
+    },
+    {
+      "rank": 23,
+      "title": "Painting the sides of railroad rails white to reduce derailment",
+      "url": "https://www.up.com/news/safety/Tracking-Rail-Heat-260608",
+      "hn_url": "https://news.ycombinator.com/item?id=48951780",
+      "score": 87,
+      "comments": 45,
+      "author": "zdw"
+    },
+    {
+      "rank": 24,
+      "title": "The state of open source AI",
+      "url": "https://stateofopensource.ai/",
+      "hn_url": "https://news.ycombinator.com/item?id=48947825",
+      "score": 425,
+      "comments": 303,
+      "author": "rellem"
+    }
+  ]
+}
