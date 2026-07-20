@@ -1,7 +1,7 @@
 {
   "source": "cloudflare-radar",
   "label": "Cloudflare Radar — top domains",
-  "fetched_at": "2026-07-19T08:11:08.901Z",
+  "fetched_at": "2026-07-20T08:08:46.350Z",
   "configured": true,
   "items": [
     {
@@ -141,20 +141,20 @@
     },
     {
       "rank": 16,
-      "title": "apple-dns.net",
-      "url": "https://apple-dns.net",
-      "category": "Content Servers",
-      "rank_delta_7d": 1,
-      "prev_rank_7d": 17,
+      "title": "netflix.com",
+      "url": "https://netflix.com",
+      "category": "Movies",
+      "rank_delta_7d": 2,
+      "prev_rank_7d": 18,
       "is_new_to_top": false
     },
     {
       "rank": 17,
-      "title": "netflix.com",
-      "url": "https://netflix.com",
-      "category": "Movies",
-      "rank_delta_7d": 1,
-      "prev_rank_7d": 18,
+      "title": "apple-dns.net",
+      "url": "https://apple-dns.net",
+      "category": "Content Servers",
+      "rank_delta_7d": 0,
+      "prev_rank_7d": 17,
       "is_new_to_top": false
     },
     {
@@ -186,38 +186,38 @@
     },
     {
       "rank": 21,
-      "title": "googleusercontent.com",
-      "url": "https://googleusercontent.com",
-      "category": "Content Servers",
-      "rank_delta_7d": 1,
-      "prev_rank_7d": 22,
-      "is_new_to_top": false
-    },
-    {
-      "rank": 22,
       "title": "icloud.com",
       "url": "https://icloud.com",
       "category": "File Sharing",
-      "rank_delta_7d": -1,
+      "rank_delta_7d": 0,
       "prev_rank_7d": 21,
       "is_new_to_top": false
     },
     {
-      "rank": 23,
-      "title": "cdninstagram.com",
-      "url": "https://cdninstagram.com",
+      "rank": 22,
+      "title": "googleusercontent.com",
+      "url": "https://googleusercontent.com",
       "category": "Content Servers",
-      "rank_delta_7d": 3,
-      "prev_rank_7d": 26,
+      "rank_delta_7d": 0,
+      "prev_rank_7d": 22,
+      "is_new_to_top": false
+    },
+    {
+      "rank": 23,
+      "title": "chatgpt.com",
+      "url": "https://chatgpt.com",
+      "category": "Artificial Intelligence",
+      "rank_delta_7d": 0,
+      "prev_rank_7d": 23,
       "is_new_to_top": false
     },
     {
       "rank": 24,
-      "title": "chatgpt.com",
-      "url": "https://chatgpt.com",
-      "category": "Artificial Intelligence",
-      "rank_delta_7d": -1,
-      "prev_rank_7d": 23,
+      "title": "cdninstagram.com",
+      "url": "https://cdninstagram.com",
+      "category": "Content Servers",
+      "rank_delta_7d": 0,
+      "prev_rank_7d": 24,
       "is_new_to_top": false
     },
     {
