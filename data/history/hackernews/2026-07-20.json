@@ -1,15 +1,15 @@
 {
   "source": "hackernews",
   "label": "Hacker News — top stories",
-  "fetched_at": "2026-07-20T08:08:46.339Z",
+  "fetched_at": "2026-07-20T08:09:58.931Z",
   "items": [
     {
       "rank": 1,
       "title": "Xiaomi-Robotics-1",
       "url": "https://robotics.xiaomi.com/xiaomi-robotics-1.html",
       "hn_url": "https://news.ycombinator.com/item?id=48974454",
-      "score": 123,
-      "comments": 62,
+      "score": 127,
+      "comments": 65,
       "author": "ilreb"
     },
     {
@@ -17,27 +17,27 @@
       "title": "LoRA Speedrun – a public wall-clock leaderboard for fine-tuning techniques",
       "url": "https://github.com/Saivineeth147/lora-speedrun",
       "hn_url": "https://news.ycombinator.com/item?id=48974325",
-      "score": 52,
+      "score": 53,
       "comments": 6,
       "author": "Vineeth147"
     },
     {
       "rank": 3,
-      "title": "Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s",
-      "url": "https://news.ycombinator.com/item?id=48968606",
-      "hn_url": "https://news.ycombinator.com/item?id=48968606",
-      "score": 2160,
-      "comments": 228,
-      "author": "section33"
-    },
-    {
-      "rank": 4,
       "title": "I'm Done with Mullvad",
       "url": "https://moonwriting.blog/i-m-done-with-mullvad",
       "hn_url": "https://news.ycombinator.com/item?id=48975428",
-      "score": 4,
+      "score": 6,
       "comments": 0,
       "author": "lylo"
+    },
+    {
+      "rank": 4,
+      "title": "Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s",
+      "url": "https://news.ycombinator.com/item?id=48968606",
+      "hn_url": "https://news.ycombinator.com/item?id=48968606",
+      "score": 2162,
+      "comments": 228,
+      "author": "section33"
     },
     {
       "rank": 5,
@@ -59,30 +59,30 @@
     },
     {
       "rank": 7,
+      "title": "1-Bit LLM in the Browser",
+      "url": "https://huggingface.co/spaces/webml-community/bonsai-webgpu",
+      "hn_url": "https://news.ycombinator.com/item?id=48936994",
+      "score": 11,
+      "comments": 0,
+      "author": "simonebrunozzi"
+    },
+    {
+      "rank": 8,
       "title": "Claude Code uses Bun written in Rust now",
       "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
       "hn_url": "https://news.ycombinator.com/item?id=48966569",
       "score": 498,
-      "comments": 664,
+      "comments": 665,
       "author": "tosh"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "Orion Browser by Kagi",
       "url": "https://orionbrowser.com/",
       "hn_url": "https://news.ycombinator.com/item?id=48970894",
       "score": 183,
       "comments": 117,
       "author": "sebjones"
-    },
-    {
-      "rank": 9,
-      "title": "1-Bit LLM in the Browser",
-      "url": "https://huggingface.co/spaces/webml-community/bonsai-webgpu",
-      "hn_url": "https://news.ycombinator.com/item?id=48936994",
-      "score": 10,
-      "comments": 0,
-      "author": "simonebrunozzi"
     },
     {
       "rank": 10,
@@ -113,21 +113,21 @@
     },
     {
       "rank": 13,
+      "title": "Claude Fable produced a counterexample to the Jacobian Conjecture",
+      "url": "https://xcancel.com/__alpoge__/status/2079028340955197566",
+      "hn_url": "https://news.ycombinator.com/item?id=48973869",
+      "score": 344,
+      "comments": 189,
+      "author": "loubbrad"
+    },
+    {
+      "rank": 14,
       "title": "Minecraft: Java Edition now uses SDL3",
       "url": "https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4",
       "hn_url": "https://news.ycombinator.com/item?id=48967256",
       "score": 302,
       "comments": 201,
       "author": "ObviouslyFlamer"
-    },
-    {
-      "rank": 14,
-      "title": "Claude Fable produced a counterexample to the Jacobian Conjecture",
-      "url": "https://xcancel.com/__alpoge__/status/2079028340955197566",
-      "hn_url": "https://news.ycombinator.com/item?id=48973869",
-      "score": 343,
-      "comments": 188,
-      "author": "loubbrad"
     },
     {
       "rank": 15,
