@@ -1,0 +1,335 @@
+{
+  "source": "stackoverflow",
+  "label": "Stack Overflow — hot questions",
+  "fetched_at": "2026-07-22T08:09:34.770Z",
+  "items": [
+    {
+      "rank": 1,
+      "title": "Android ACTION_SEND to X always returns RESULT_CANCELED after posting successfully",
+      "url": "https://stackoverflow.com/questions/79983765/android-action-send-to-x-always-returns-result-canceled-after-posting-successful",
+      "score": 0,
+      "answers": 0,
+      "views": 21,
+      "tags": [
+        "android",
+        "kotlin",
+        "twitter",
+        "android-jetpack-compose"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "All insubstantiated instances of the same object seem to be using the same script variables are are acting in sync",
+      "url": "https://stackoverflow.com/questions/79983770/all-insubstantiated-instances-of-the-same-object-seem-to-be-using-the-same-scrip",
+      "score": 0,
+      "answers": 0,
+      "views": 16,
+      "tags": [
+        "godot"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Parsing a statement",
+      "url": "https://stackoverflow.com/questions/79983776/parsing-a-statement",
+      "score": 0,
+      "answers": 0,
+      "views": 15,
+      "tags": [
+        "python",
+        "regex"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Alfresco ACS Java REST API Spring Boot Starter: 401 after OAuth2 token expiration during long running jobs",
+      "url": "https://stackoverflow.com/questions/79983771/alfresco-acs-java-rest-api-spring-boot-starter-401-after-oauth2-token-expiratio",
+      "score": 0,
+      "answers": 0,
+      "views": 11,
+      "tags": [
+        "java",
+        "spring-boot",
+        "oauth-2.0",
+        "keycloak",
+        "alfresco"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "How to use lookup join instead of enrich policy in elasticsearch using powershell?",
+      "url": "https://stackoverflow.com/questions/79983751/how-to-use-lookup-join-instead-of-enrich-policy-in-elasticsearch-using-powershel",
+      "score": -2,
+      "answers": 1,
+      "views": 29,
+      "tags": [
+        "advice",
+        "powershell",
+        "elasticsearch",
+        "kibana"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Kafka KRaft Controller Quorum Instability Causing Continuous Leader Elections and Broker Startup Failures",
+      "url": "https://stackoverflow.com/questions/79983760/kafka-kraft-controller-quorum-instability-causing-continuous-leader-elections-an",
+      "score": -1,
+      "answers": 0,
+      "views": 22,
+      "tags": [
+        "apache-kafka",
+        "kafka-consumer-api",
+        "apache-kafka-connect",
+        "kraft"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Superset v6: Dashboard Edit Tab Title is not working",
+      "url": "https://stackoverflow.com/questions/79983759/superset-v6-dashboard-edit-tab-title-is-not-working",
+      "score": -1,
+      "answers": 0,
+      "views": 14,
+      "tags": [
+        "apache-superset"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Where is the wording that says the expression in the function's body is sequenced before the expression that is sequenced after the function call?",
+      "url": "https://stackoverflow.com/questions/79983738/where-is-the-wording-that-says-the-expression-in-the-functions-body-is-sequence",
+      "score": 0,
+      "answers": 1,
+      "views": 58,
+      "tags": [
+        "c++",
+        "language-lawyer"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Improving a pipeline performance",
+      "url": "https://stackoverflow.com/questions/79983735/improving-a-pipeline-performance",
+      "score": -4,
+      "answers": 0,
+      "views": 33,
+      "tags": [
+        "python",
+        "pyspark",
+        "databricks-sql",
+        "data-engineering"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "pip`, `uv`, and `conda` fail silently or force install to `AppData\\Roaming` ignoring active venv (Windows, Xcitium/Zscaler, Post-Update)",
+      "url": "https://stackoverflow.com/questions/79983740/pip-uv-and-conda-fail-silently-or-force-install-to-appdata-roaming-igno",
+      "score": -1,
+      "answers": 0,
+      "views": 29,
+      "tags": [
+        "python",
+        "pip"
+      ]
+    },
+    {
+      "rank": 11,
+      "title": "Electronbun GUI not launching",
+      "url": "https://stackoverflow.com/questions/79983741/electronbun-gui-not-launching",
+      "score": 0,
+      "answers": 0,
+      "views": 28,
+      "tags": [
+        "html",
+        "node.js",
+        "bun"
+      ]
+    },
+    {
+      "rank": 12,
+      "title": "Javascript not firing 100% of the time",
+      "url": "https://stackoverflow.com/questions/79983723/javascript-not-firing-100-of-the-time",
+      "score": -3,
+      "answers": 1,
+      "views": 107,
+      "tags": [
+        "javascript",
+        "html",
+        "rest"
+      ]
+    },
+    {
+      "rank": 13,
+      "title": "How to unnest a list-column as new rows in pre-existing columns?",
+      "url": "https://stackoverflow.com/questions/79983560/how-to-unnest-a-list-column-as-new-rows-in-pre-existing-columns",
+      "score": 5,
+      "answers": 5,
+      "views": 112,
+      "tags": [
+        "r",
+        "tidyr"
+      ]
+    },
+    {
+      "rank": 14,
+      "title": "Conway's Game of Life: How to colour the cells based on number of neighbours?",
+      "url": "https://stackoverflow.com/questions/79983720/conways-game-of-life-how-to-colour-the-cells-based-on-number-of-neighbours",
+      "score": 3,
+      "answers": 1,
+      "views": 103,
+      "tags": [
+        "python",
+        "matplotlib",
+        "dynamic",
+        "colors",
+        "matplotlib-animation"
+      ]
+    },
+    {
+      "rank": 15,
+      "title": "Django Channels Tutorial - Redis timeout error",
+      "url": "https://stackoverflow.com/questions/79983733/django-channels-tutorial-redis-timeout-error",
+      "score": -2,
+      "answers": 0,
+      "views": 20,
+      "tags": [
+        "django",
+        "redis"
+      ]
+    },
+    {
+      "rank": 16,
+      "title": "For loop is happening instantly",
+      "url": "https://stackoverflow.com/questions/79983697/for-loop-is-happening-instantly",
+      "score": -3,
+      "answers": 1,
+      "views": 94,
+      "tags": [
+        "lua",
+        "pico-8"
+      ]
+    },
+    {
+      "rank": 17,
+      "title": "How can a method concisely accept a vector of a polymorphic type populated with temporaries?",
+      "url": "https://stackoverflow.com/questions/79983687/how-can-a-method-concisely-accept-a-vector-of-a-polymorphic-type-populated-with",
+      "score": 2,
+      "answers": 1,
+      "views": 79,
+      "tags": [
+        "c++",
+        "polymorphism",
+        "stdvector"
+      ]
+    },
+    {
+      "rank": 18,
+      "title": "I need an Excel formula for 5 criteria",
+      "url": "https://stackoverflow.com/questions/79983634/i-need-an-excel-formula-for-5-criteria",
+      "score": -3,
+      "answers": 4,
+      "views": 112,
+      "tags": [
+        "excel",
+        "excel-formula"
+      ]
+    },
+    {
+      "rank": 19,
+      "title": "f-string W3School Challenge",
+      "url": "https://stackoverflow.com/questions/79983703/f-string-w3school-challenge",
+      "score": -4,
+      "answers": 0,
+      "views": 155,
+      "tags": [
+        "python",
+        "f-string"
+      ]
+    },
+    {
+      "rank": 20,
+      "title": "How to monkey patch Leaflet library?",
+      "url": "https://stackoverflow.com/questions/79983625/how-to-monkey-patch-leaflet-library",
+      "score": -1,
+      "answers": 2,
+      "views": 84,
+      "tags": [
+        "javascript",
+        "typescript",
+        "leaflet",
+        "vite",
+        "monkeypatching"
+      ]
+    },
+    {
+      "rank": 21,
+      "title": "AWS Glue Crawler: Can it detect Hive partitions when non-Hive path segments are present between partition keys?",
+      "url": "https://stackoverflow.com/questions/79983722/aws-glue-crawler-can-it-detect-hive-partitions-when-non-hive-path-segments-are",
+      "score": 1,
+      "answers": 0,
+      "views": 16,
+      "tags": [
+        "amazon-s3",
+        "avro",
+        "hive-partitions",
+        "braze",
+        "glue-crawler"
+      ]
+    },
+    {
+      "rank": 22,
+      "title": "Case insensitive HashSet[Object]",
+      "url": "https://stackoverflow.com/questions/79983537/case-insensitive-hashsetobject",
+      "score": 0,
+      "answers": 2,
+      "views": 87,
+      "tags": [
+        "powershell",
+        "hashset",
+        "case-insensitive",
+        "loose-typing"
+      ]
+    },
+    {
+      "rank": 23,
+      "title": "Is there something like a VM to wrap tools such as LLVM IRBuilder?",
+      "url": "https://stackoverflow.com/questions/79983700/is-there-something-like-a-vm-to-wrap-tools-such-as-llvm-irbuilder",
+      "score": -2,
+      "answers": 0,
+      "views": 66,
+      "tags": [
+        "tooling-recommendation",
+        "c++",
+        "llvm",
+        "llvm-ir",
+        "jank"
+      ]
+    },
+    {
+      "rank": 24,
+      "title": "Why shouldn't Airflow's standalone mode be used for production purposes?",
+      "url": "https://stackoverflow.com/questions/79983563/why-shouldnt-airflows-standalone-mode-be-used-for-production-purposes",
+      "score": -4,
+      "answers": 1,
+      "views": 59,
+      "tags": [
+        "best-practices",
+        "airflow"
+      ]
+    },
+    {
+      "rank": 25,
+      "title": "How to recover a node-oracledb Thin pool after an RDS Oracle restart without restarting Node.js?",
+      "url": "https://stackoverflow.com/questions/79983624/how-to-recover-a-node-oracledb-thin-pool-after-an-rds-oracle-restart-without-res",
+      "score": 2,
+      "answers": 1,
+      "views": 39,
+      "tags": [
+        "node.js",
+        "oracle-database",
+        "amazon-rds",
+        "node-oracledb"
+      ]
+    }
+  ]
+}

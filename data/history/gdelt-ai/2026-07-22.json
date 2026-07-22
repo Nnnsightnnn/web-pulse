@@ -1,0 +1,45 @@
+{
+  "source": "gdelt-ai",
+  "label": "GDELT — AI & tech news",
+  "fetched_at": "2026-07-22T08:09:50.470Z",
+  "data_date": "2026-07-22",
+  "query": "(\"artificial intelligence\" OR \"machine learning\" OR \"generative AI\" OR OpenAI OR Anthropic OR \"large language model\" OR \"neural network\" OR semiconductor) sourcelang:english",
+  "items": [
+    {
+      "rank": 1,
+      "title": "OpenAI reports  unprecedented  autonomous hack by AI agents",
+      "url": "https://arynews.tv/openai-reports-unprecedented-autonomous-hack-by-ai-agents",
+      "domain": "arynews.tv",
+      "source_country": "Pakistan",
+      "seen_at": "2026-07-22T07:45:00Z",
+      "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/ARY-1200-x-675-px-33.jpg"
+    },
+    {
+      "rank": 2,
+      "title": "UK Bloomsbury among beneficiaries of $1 . 5 billion Anthropic copyright lawsuit settlement",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/07/22/uk039s-bloomsbury-among-beneficiaries-of-15-billion-anthropic-copyright-lawsuit-settlement",
+      "domain": "thestar.com.my",
+      "source_country": "Malaysia",
+      "seen_at": "2026-07-22T07:45:00Z",
+      "image": "https://apicms.thestar.com.my/uploads/images/2026/07/22/4022584.jpg"
+    },
+    {
+      "rank": 3,
+      "title": "UChicago launches campus - wide access to Claude to teach students  how to think with machines",
+      "url": "https://www.thecollegefix.com/uchicago-gives-staff-students-access-to-claude-for-research-education/",
+      "domain": "thecollegefix.com",
+      "source_country": "United States",
+      "seen_at": "2026-07-22T07:45:00Z",
+      "image": "https://www.thecollegefix.com/wp-content/uploads/2026/05/AI.peshkov.CanvaPro72.webp"
+    },
+    {
+      "rank": 4,
+      "title": "MetaOptics to Deploy its Direct Laser Writer at the University of Arizona Center of Semiconductor Manufacturing to Advance its U . S . Expansion",
+      "url": "http://www.vietnamtribune.com/news/279202563/metaoptics-to-deploy-its-direct-laser-writer-at-the-university-of-arizona-center-of-semiconductor-manufacturing-to-advance-its-us-expansion",
+      "domain": "vietnamtribune.com",
+      "source_country": "Vietnam",
+      "seen_at": "2026-07-22T07:45:00Z",
+      "image": "https://image.chitra.live/api/v1/wps/b69850d/4472408f-fb85-41f5-895f-a5e66b3afa83/0/ANI-20260722051635-600x315.jpg"
+    }
+  ]
+}

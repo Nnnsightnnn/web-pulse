@@ -1,14 +1,14 @@
 {
   "source": "hackernews",
   "label": "Hacker News — top stories",
-  "fetched_at": "2026-07-21T08:09:55.081Z",
+  "fetched_at": "2026-07-21T08:11:48.790Z",
   "items": [
     {
       "rank": 1,
       "title": "Incremental – A library for incremental computations",
       "url": "https://github.com/janestreet/incremental",
       "hn_url": "https://news.ycombinator.com/item?id=48987822",
-      "score": 148,
+      "score": 149,
       "comments": 22,
       "author": "handfuloflight"
     },
@@ -18,7 +18,7 @@
       "url": "https://stratechery.com/2026/whos-afraid-of-chinese-models/",
       "hn_url": "https://news.ycombinator.com/item?id=48977128",
       "score": 586,
-      "comments": 394,
+      "comments": 395,
       "author": "mfiguiere"
     },
     {
@@ -36,7 +36,7 @@
       "url": "https://www.kimi.com/products/kimi-work",
       "hn_url": "https://news.ycombinator.com/item?id=48981703",
       "score": 518,
-      "comments": 224,
+      "comments": 225,
       "author": "ms7892"
     },
     {
@@ -44,12 +44,21 @@
       "title": "Linux kernel will support $ORIGIN, sort of",
       "url": "https://fzakaria.com/2026/07/20/linux-kernel-will-support-origin-sort-of",
       "hn_url": "https://news.ycombinator.com/item?id=48988793",
-      "score": 15,
+      "score": 16,
       "comments": 8,
       "author": "ingve"
     },
     {
       "rank": 6,
+      "title": "Five US tech giants' hidden debts soar to $1.65T on opaque AI funding",
+      "url": "https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding",
+      "hn_url": "https://news.ycombinator.com/item?id=48987863",
+      "score": 244,
+      "comments": 116,
+      "author": "NordStreamYacht"
+    },
+    {
+      "rank": 7,
       "title": "Jelly UI: Soft-body physics for native HTML form controls",
       "url": "https://jelly-ui.com/",
       "hn_url": "https://news.ycombinator.com/item?id=48981620",
@@ -58,21 +67,12 @@
       "author": "baldvinmar"
     },
     {
-      "rank": 7,
-      "title": "Five US tech giants' hidden debts soar to $1.65T on opaque AI funding",
-      "url": "https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding",
-      "hn_url": "https://news.ycombinator.com/item?id=48987863",
-      "score": 242,
-      "comments": 114,
-      "author": "NordStreamYacht"
-    },
-    {
       "rank": 8,
       "title": "A Koi Pond Mosaic Made from 10 Pounds of 3D Printer Waste",
       "url": "https://www.instructables.com/A-Koi-Pond-Mosaic-Made-From-10-Pounds-of-3D-Printe/",
       "hn_url": "https://news.ycombinator.com/item?id=48987831",
       "score": 28,
-      "comments": 21,
+      "comments": 22,
       "author": "sudo_cowsay"
     },
     {
@@ -98,8 +98,8 @@
       "title": "Flock Credibility Lost as It Repeatedly Lies to City Councils, Police, & Public",
       "url": "https://www.aclu.org/news/privacy-technology/tracking-alpr-cameras/flock-safety-credibility-lost-as-it-repeatedly-lies-to-city-councils-police-departments-and-public-across-the-country",
       "hn_url": "https://news.ycombinator.com/item?id=48986731",
-      "score": 371,
-      "comments": 99,
+      "score": 372,
+      "comments": 101,
       "author": "StatsAreFun"
     },
     {
@@ -149,6 +149,15 @@
     },
     {
       "rank": 17,
+      "title": "VTubing: How a Japanese Phenomenon Is Going Worldwide",
+      "url": "https://www.tokyodev.com/articles/vtubing-how-a-japanese-phenomenon-is-going-worldwide",
+      "hn_url": "https://news.ycombinator.com/item?id=48987775",
+      "score": 15,
+      "comments": 1,
+      "author": "pwim"
+    },
+    {
+      "rank": 18,
       "title": "How to pack ternary numbers in 8-bit bytes",
       "url": "https://compilade.net/blog/ternary-packing",
       "hn_url": "https://news.ycombinator.com/item?id=48912812",
@@ -157,7 +166,7 @@
       "author": "JoshTriplett"
     },
     {
-      "rank": 18,
+      "rank": 19,
       "title": "China’s open-weights AI strategy is winning",
       "url": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
       "hn_url": "https://news.ycombinator.com/item?id=48979269",
@@ -166,22 +175,13 @@
       "author": "benwerd"
     },
     {
-      "rank": 19,
+      "rank": 20,
       "title": "The Psychology of Software Teams",
       "url": "https://www.routledge.com/The-Psychology-of-Software-Teams/Hicks/p/book/9781032963389",
       "hn_url": "https://news.ycombinator.com/item?id=48923130",
       "score": 85,
       "comments": 21,
       "author": "dcre"
-    },
-    {
-      "rank": 20,
-      "title": "VTubing: How a Japanese Phenomenon Is Going Worldwide",
-      "url": "https://www.tokyodev.com/articles/vtubing-how-a-japanese-phenomenon-is-going-worldwide",
-      "hn_url": "https://news.ycombinator.com/item?id=48987775",
-      "score": 14,
-      "comments": 0,
-      "author": "pwim"
     },
     {
       "rank": 21,
@@ -206,7 +206,7 @@
       "title": "My two year old taught me constraint solving",
       "url": "https://thecomputersciencebook.com/posts/how-my-2yo-taught-me-constraint-solving/",
       "hn_url": "https://news.ycombinator.com/item?id=48864176",
-      "score": 68,
+      "score": 69,
       "comments": 26,
       "author": "bambataa"
     },

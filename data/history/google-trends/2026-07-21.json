@@ -1,7 +1,7 @@
 {
   "source": "google-trends",
   "label": "Google Trends — trending searches",
-  "fetched_at": "2026-07-21T08:09:55.372Z",
+  "fetched_at": "2026-07-21T08:11:48.804Z",
   "countries": [
     "US",
     "GB",
@@ -57,6 +57,17 @@
     },
     {
       "rank": 5,
+      "title": "オリコン",
+      "geos": [
+        "JP"
+      ],
+      "traffic_estimate": 5000,
+      "news_title": "ラヴ上等シーズン2 主題歌SPEED",
+      "news_url": "https://news.yahoo.co.jp/pickup/6588726",
+      "news_source": "Yahoo!ニュース"
+    },
+    {
+      "rank": 6,
       "title": "marcello hernandez",
       "geos": [
         "US"
@@ -67,7 +78,7 @@
       "news_source": "TODAY.com"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "morgan rogers chelsea transfer",
       "geos": [
         "GB"
@@ -78,18 +89,18 @@
       "news_source": "BBC"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "南鳥島",
       "geos": [
         "JP"
       ],
       "traffic_estimate": 2000,
-      "news_title": "南鳥島沖から重レアアース確認",
-      "news_url": "https://news.yahoo.co.jp/pickup/6588760",
+      "news_title": "【独自】南鳥島沖の泥から重レアアースを確認 近く分析結果を公表（テレビ朝日系（ANN））",
+      "news_url": "https://news.yahoo.co.jp/articles/cff90aee64ded456bb580c08b40d039f8a50dc79",
       "news_source": "Yahoo!ニュース"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "285a",
       "geos": [
         "JP"
@@ -100,7 +111,7 @@
       "news_source": "24/7 Wall St."
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "câncer",
       "geos": [
         "BR"
@@ -111,7 +122,7 @@
       "news_source": "G1"
     },
     {
-      "rank": 10,
+      "rank": 11,
       "title": "bundesregierung",
       "geos": [
         "DE"
@@ -122,7 +133,7 @@
       "news_source": "tagesschau.de"
     },
     {
-      "rank": 11,
+      "rank": 12,
       "title": "masters of the universe prime video",
       "geos": [
         "DE"
@@ -133,18 +144,18 @@
       "news_source": "ifun.de"
     },
     {
-      "rank": 12,
+      "rank": 13,
       "title": "langläufer",
       "geos": [
         "DE"
       ],
       "traffic_estimate": 2000,
-      "news_title": "Die Rückkehr von Einar Hedegart: „Mein Plan war es immer, zum Biathlon zurückzukehren.“",
-      "news_url": "https://www.biathlonworld.com/de/news/einar-hedegart-back-in-biathlon/5R6HRTc2d1Kfo5FVRVkU65",
-      "news_source": "International Biathlon Union"
+      "news_title": "„Ich werde fit an der Startlinie stehen“",
+      "news_url": "https://www.insuedthueringen.de/inhalt.victoria-carl-vor-comeback-ich-werde-fit-an-der-startlinie-stehen.581bd852-fda5-489e-806e-186d665972bf.html",
+      "news_source": "inSüdthüringen"
     },
     {
-      "rank": 13,
+      "rank": 14,
       "title": "sadie sink",
       "geos": [
         "US"
@@ -155,7 +166,7 @@
       "news_source": "Deadline"
     },
     {
-      "rank": 14,
+      "rank": 15,
       "title": "simon pegg",
       "geos": [
         "GB"
@@ -166,7 +177,7 @@
       "news_source": "The Guardian"
     },
     {
-      "rank": 15,
+      "rank": 16,
       "title": "sally nugent",
       "geos": [
         "GB"
@@ -177,7 +188,7 @@
       "news_source": "BBC"
     },
     {
-      "rank": 16,
+      "rank": 17,
       "title": "mitie",
       "geos": [
         "GB"
@@ -188,7 +199,7 @@
       "news_source": "Financial Times"
     },
     {
-      "rank": 17,
+      "rank": 18,
       "title": "समाचार",
       "geos": [
         "IN"
@@ -199,7 +210,7 @@
       "news_source": "Amar Ujala"
     },
     {
-      "rank": 18,
+      "rank": 19,
       "title": "श्रीलंका क्रिकेट टीम",
       "geos": [
         "IN"
@@ -210,7 +221,7 @@
       "news_source": "ABP News"
     },
     {
-      "rank": 19,
+      "rank": 20,
       "title": "presidente daniel ortega",
       "geos": [
         "BR"
@@ -221,7 +232,7 @@
       "news_source": "G1"
     },
     {
-      "rank": 20,
+      "rank": 21,
       "title": "daniel ortega",
       "geos": [
         "DE"
@@ -232,7 +243,7 @@
       "news_source": "The Guardian"
     },
     {
-      "rank": 21,
+      "rank": 22,
       "title": "vini jr chin surgery",
       "geos": [
         "US"
@@ -243,7 +254,7 @@
       "news_source": "Türkiye Today"
     },
     {
-      "rank": 22,
+      "rank": 23,
       "title": "chiqui tapia",
       "geos": [
         "US"
@@ -254,7 +265,7 @@
       "news_source": "San Antonio Express-News"
     },
     {
-      "rank": 23,
+      "rank": 24,
       "title": "graeme souness",
       "geos": [
         "GB"
@@ -265,7 +276,7 @@
       "news_source": "ESPN"
     },
     {
-      "rank": 24,
+      "rank": 25,
       "title": "radio 2",
       "geos": [
         "GB"
@@ -274,17 +285,6 @@
       "news_title": "Former Radio 2 digital producer brings debut play to Edinburgh",
       "news_url": "https://radiotoday.co.uk/2026/07/former-radio-2-digital-producer-brings-debut-play-to-edinburgh/",
       "news_source": "Radio Today UK"
-    },
-    {
-      "rank": 25,
-      "title": "ftse",
-      "geos": [
-        "GB"
-      ],
-      "traffic_estimate": 500,
-      "news_title": "UK Shares Fall as New Prime Minister Steps In",
-      "news_url": "https://uk.finance.yahoo.com/news/uk-shares-fall-prime-minister-155222492.html",
-      "news_source": "Yahoo Finance UK"
     }
   ]
 }
