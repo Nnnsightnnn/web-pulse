@@ -1,7 +1,7 @@
 {
   "source": "cloudflare-radar",
   "label": "Cloudflare Radar — top domains",
-  "fetched_at": "2026-07-22T08:10:43.473Z",
+  "fetched_at": "2026-07-23T08:09:49.398Z",
   "configured": true,
   "items": [
     {
@@ -27,8 +27,8 @@
       "title": "cloudflare.com",
       "url": "https://cloudflare.com",
       "category": "Technology",
-      "rank_delta_7d": 0,
-      "prev_rank_7d": 3,
+      "rank_delta_7d": 1,
+      "prev_rank_7d": 4,
       "is_new_to_top": false
     },
     {
@@ -36,8 +36,8 @@
       "title": "gstatic.com",
       "url": "https://gstatic.com",
       "category": "Content Servers",
-      "rank_delta_7d": 0,
-      "prev_rank_7d": 4,
+      "rank_delta_7d": -1,
+      "prev_rank_7d": 3,
       "is_new_to_top": false
     },
     {
@@ -168,38 +168,38 @@
     },
     {
       "rank": 19,
-      "title": "netflix.com",
-      "url": "https://netflix.com",
-      "category": "Movies",
+      "title": "akadns.net",
+      "url": "https://akadns.net",
+      "category": "Content Servers",
       "rank_delta_7d": 0,
       "prev_rank_7d": 19,
       "is_new_to_top": false
     },
     {
       "rank": 20,
-      "title": "icloud.com",
-      "url": "https://icloud.com",
-      "category": "File Sharing",
-      "rank_delta_7d": 2,
-      "prev_rank_7d": 22,
-      "is_new_to_top": false
-    },
-    {
-      "rank": 21,
-      "title": "akadns.net",
-      "url": "https://akadns.net",
-      "category": "Content Servers",
-      "rank_delta_7d": -1,
+      "title": "chatgpt.com",
+      "url": "https://chatgpt.com",
+      "category": "Artificial Intelligence",
+      "rank_delta_7d": 0,
       "prev_rank_7d": 20,
       "is_new_to_top": false
     },
     {
-      "rank": 22,
-      "title": "chatgpt.com",
-      "url": "https://chatgpt.com",
-      "category": "Artificial Intelligence",
-      "rank_delta_7d": -1,
+      "rank": 21,
+      "title": "icloud.com",
+      "url": "https://icloud.com",
+      "category": "File Sharing",
+      "rank_delta_7d": 0,
       "prev_rank_7d": 21,
+      "is_new_to_top": false
+    },
+    {
+      "rank": 22,
+      "title": "netflix.com",
+      "url": "https://netflix.com",
+      "category": "Movies",
+      "rank_delta_7d": 0,
+      "prev_rank_7d": 22,
       "is_new_to_top": false
     },
     {
@@ -225,8 +225,8 @@
       "title": "aaplimg.com",
       "url": "https://aaplimg.com",
       "category": "Information Technology",
-      "rank_delta_7d": 1,
-      "prev_rank_7d": 26,
+      "rank_delta_7d": -1,
+      "prev_rank_7d": 24,
       "is_new_to_top": false
     }
   ]

@@ -1,0 +1,439 @@
+{
+  "source": "polymarket",
+  "label": "Polymarket — top 24h volume",
+  "fetched_at": "2026-07-23T08:09:49.182Z",
+  "items": [
+    {
+      "rank": 1,
+      "title": "Will Trump be in the WC Champions Photo?",
+      "url": "https://polymarket.com/event/will-trump-be-in-the-wc-champions-photo-20260608152527021",
+      "volume_24h": 9097732.530000001,
+      "volume_total": 24093549.017928064,
+      "liquidity": 12063320.8828,
+      "yes_price": 0.9995,
+      "leader": {
+        "name": "Yes",
+        "price": 0.9995
+      },
+      "end_date": "2026-07-20T03:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Will Demeke Mekonnen be the next Prime Minister of Ethiopia?",
+      "url": "https://polymarket.com/event/next-prime-minister-of-ethiopia",
+      "volume_24h": 2206166.6466659997,
+      "volume_total": 24931533.264465973,
+      "liquidity": 25859.91501,
+      "yes_price": 0.0025,
+      "leader": {
+        "name": "No",
+        "price": 0.9975
+      },
+      "end_date": "2026-06-01T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Will there be no change in Fed interest rates after the July 2026 meeting?",
+      "url": "https://polymarket.com/event/fed-decision-in-july-181",
+      "volume_24h": 1391170.4643290055,
+      "volume_total": 24938044.627619416,
+      "liquidity": 271503.56394,
+      "yes_price": 0.7615,
+      "leader": {
+        "name": "Yes",
+        "price": 0.7615
+      },
+      "end_date": "2026-07-29T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "LoL: JD Gaming vs Anyone's Legend (BO3) - LPL Group Ascend",
+      "url": "https://polymarket.com/event/lol-jdg-al-2026-07-23",
+      "volume_24h": 590329.2466060009,
+      "volume_total": 606913.6039930007,
+      "liquidity": 310335.8297,
+      "yes_price": 0.525,
+      "leader": {
+        "name": "JD Gaming",
+        "price": 0.525
+      },
+      "end_date": "2026-07-23T15:00:00Z",
+      "outcomes": [
+        "JD Gaming",
+        "Anyone's Legend"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Will LeBron James play for the Miami Heat in 2026-27?",
+      "url": "https://polymarket.com/event/nba-lebron-james-next-team",
+      "volume_24h": 474212.415798,
+      "volume_total": 4230427.869686993,
+      "liquidity": 61313.00863,
+      "yes_price": 0.4725,
+      "leader": {
+        "name": "No",
+        "price": 0.5275
+      },
+      "end_date": "2026-10-31T03:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Israel x Iran ceasefire continues through July 22?",
+      "url": "https://polymarket.com/event/israel-x-iran-ceasefire-continues-throughptptpt-20260716224448963",
+      "volume_24h": 409538.4831919999,
+      "volume_total": 801451.2769499982,
+      "liquidity": 124111.68897,
+      "yes_price": 0.9955,
+      "leader": {
+        "name": "Yes",
+        "price": 0.9955
+      },
+      "end_date": "2026-07-22T23:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Strait of Hormuz traffic returns to normal by July 31?",
+      "url": "https://polymarket.com/event/strait-of-hormuz-traffic-returns-to-normal-by-july-31",
+      "volume_24h": 349827.9570470003,
+      "volume_total": 19627078.002095174,
+      "liquidity": 502084.01374,
+      "yes_price": 0.0095,
+      "leader": {
+        "name": "No",
+        "price": 0.9905
+      },
+      "end_date": "2026-07-31T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Trump out as President by July 31?",
+      "url": "https://polymarket.com/event/trump-out-as-president-by-july-31-20260626202639374",
+      "volume_24h": 296040.74542899994,
+      "volume_total": 2188532.6671309806,
+      "liquidity": 292484.60308,
+      "yes_price": 0.0035,
+      "leader": {
+        "name": "No",
+        "price": 0.9965
+      },
+      "end_date": "2026-07-31T23:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Will the U.S. invade Iran before 2027?",
+      "url": "https://polymarket.com/event/will-the-us-invade-iran-before-2027",
+      "volume_24h": 254106.62665299998,
+      "volume_total": 46249773.9759982,
+      "liquidity": 925357.6104,
+      "yes_price": 0.295,
+      "leader": {
+        "name": "No",
+        "price": 0.705
+      },
+      "end_date": "2026-12-31T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Will WTI Crude Oil (WTI) hit (HIGH) $95 in July?",
+      "url": "https://polymarket.com/event/what-price-will-wti-hit-in-july-2026",
+      "volume_24h": 247918.52938000023,
+      "volume_total": 1396790.0959830005,
+      "liquidity": 33048.78522,
+      "yes_price": 0.5205,
+      "leader": {
+        "name": "Yes",
+        "price": 0.5205
+      },
+      "end_date": "2026-08-01T03:59:59.999Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 11,
+      "title": "Will the price of Bitcoin be above $62,000 on July 23?",
+      "url": "https://polymarket.com/event/bitcoin-above-on-july-23-2026",
+      "volume_24h": 228373.7111359999,
+      "volume_total": 239099.04321699988,
+      "liquidity": 45755.95156,
+      "yes_price": 0.998,
+      "leader": {
+        "name": "Yes",
+        "price": 0.998
+      },
+      "end_date": "2026-07-23T16:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 12,
+      "title": "Will Cruzeiro EC win on 2026-07-22?",
+      "url": "https://polymarket.com/event/bra-int-cru-2026-07-22",
+      "volume_24h": 228207.2978830001,
+      "volume_total": 228302.20443599956,
+      "liquidity": 315491.28243,
+      "yes_price": 0.9995,
+      "leader": {
+        "name": "Yes",
+        "price": 0.9995
+      },
+      "end_date": "2026-07-23T00:30:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 13,
+      "title": "Tampa Bay Rays vs. Toronto Blue Jays",
+      "url": "https://polymarket.com/event/mlb-tb-tor-2026-07-23",
+      "volume_24h": 222530.36036799988,
+      "volume_total": 222575.5964450002,
+      "liquidity": 150756.3394,
+      "yes_price": 0.495,
+      "leader": {
+        "name": "Toronto Blue Jays",
+        "price": 0.505
+      },
+      "end_date": "2026-07-30T19:07:00Z",
+      "outcomes": [
+        "Tampa Bay Rays",
+        "Toronto Blue Jays"
+      ]
+    },
+    {
+      "rank": 14,
+      "title": "Clarity Act signed into law in 2026?",
+      "url": "https://polymarket.com/event/clarity-act-signed-into-law-in-2026",
+      "volume_24h": 187284.61013899997,
+      "volume_total": 2339747.593409999,
+      "liquidity": 79135.6429,
+      "yes_price": 0.33,
+      "leader": {
+        "name": "No",
+        "price": 0.67
+      },
+      "end_date": "2027-01-01T05:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 15,
+      "title": "Will Alphabet be the largest company in the world by market cap on July 31?",
+      "url": "https://polymarket.com/event/largest-company-end-of-july-20260624192302727",
+      "volume_24h": 174723.96002100004,
+      "volume_total": 554827.7117860006,
+      "liquidity": 63512.47467,
+      "yes_price": 0.0085,
+      "leader": {
+        "name": "No",
+        "price": 0.9915
+      },
+      "end_date": "2026-07-31T23:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 16,
+      "title": "US x Iran Effective Ceasefire by July 24?",
+      "url": "https://polymarket.com/event/us-x-iran-effective-ceasfire-byptptpt-2-week-pause-20260715194822042",
+      "volume_24h": 168210.0157720001,
+      "volume_total": 830555.1398320011,
+      "liquidity": 57906.74676,
+      "yes_price": 0.039,
+      "leader": {
+        "name": "No",
+        "price": 0.961
+      },
+      "end_date": "2026-07-24T23:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 17,
+      "title": "Fed rate hike in 2026?",
+      "url": "https://polymarket.com/event/fed-rate-hike-in-2026",
+      "volume_24h": 132124.781802,
+      "volume_total": 4475261.351907007,
+      "liquidity": 125575.5102,
+      "yes_price": 0.685,
+      "leader": {
+        "name": "Yes",
+        "price": 0.685
+      },
+      "end_date": "2026-12-09T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 18,
+      "title": "Valorant: Global Esports vs FULL SENSE (BO3) - VCT Pacific Group Alpha",
+      "url": "https://polymarket.com/event/val-ge1-fs1-2026-07-23",
+      "volume_24h": 131225.28251599998,
+      "volume_total": 131588.15682999982,
+      "liquidity": 1926.4106,
+      "yes_price": 0.435,
+      "leader": {
+        "name": "FULL SENSE",
+        "price": 0.565
+      },
+      "end_date": "2026-07-23T14:00:00Z",
+      "outcomes": [
+        "Global Esports",
+        "FULL SENSE"
+      ]
+    },
+    {
+      "rank": 19,
+      "title": "Counter-Strike: Aurora Gaming vs FOKUS (BO3) - BLAST Bounty Qualifier",
+      "url": "https://polymarket.com/event/cs2-aur1-fokus-2026-07-23",
+      "volume_24h": 131186.73500299998,
+      "volume_total": 140006.02068800005,
+      "liquidity": 152306.9521,
+      "yes_price": 0.835,
+      "leader": {
+        "name": "Aurora Gaming",
+        "price": 0.835
+      },
+      "end_date": "2026-07-23T16:00:00Z",
+      "outcomes": [
+        "Aurora Gaming",
+        "FOKUS"
+      ]
+    },
+    {
+      "rank": 20,
+      "title": "Bab el-Mandeb Strait effectively closed by August 31?",
+      "url": "https://polymarket.com/event/bab-el-mandeb-strait-effectively-closed-by",
+      "volume_24h": 129567.56853599999,
+      "volume_total": 479003.6963060005,
+      "liquidity": 48502.1013,
+      "yes_price": 0.2,
+      "leader": {
+        "name": "No",
+        "price": 0.8
+      },
+      "end_date": "2026-08-31T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 21,
+      "title": "Will the Fed decide differently in the next three decisions (Jun–Jul–Sep)?",
+      "url": "https://polymarket.com/event/fed-decisions-jun-sep",
+      "volume_24h": 129139.56633000002,
+      "volume_total": 229417.577432,
+      "liquidity": 22280.9902,
+      "yes_price": 0.605,
+      "leader": {
+        "name": "Yes",
+        "price": 0.605
+      },
+      "end_date": "2026-09-16T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 22,
+      "title": "Kharg Island no longer under Iranian control by August 31?",
+      "url": "https://polymarket.com/event/kharg-island-no-longer-under-iranian-control-by-march-31",
+      "volume_24h": 126995.26603900001,
+      "volume_total": 2294594.9460020056,
+      "liquidity": 172368.72407,
+      "yes_price": 0.0765,
+      "leader": {
+        "name": "No",
+        "price": 0.9235
+      },
+      "end_date": "2026-06-30T23:55:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 23,
+      "title": "Will Geraldo Alckmin win the 2026 Brazilian presidential election?",
+      "url": "https://polymarket.com/event/brazil-presidential-election",
+      "volume_24h": 125219.244083,
+      "volume_total": 4854547.266528931,
+      "liquidity": 175143.47892,
+      "yes_price": 0.0025,
+      "leader": {
+        "name": "No",
+        "price": 0.9975
+      },
+      "end_date": "2026-10-04T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 24,
+      "title": "Will Ethereum dip to $1,500 by December 31, 2026?",
+      "url": "https://polymarket.com/event/what-price-will-ethereum-hit-before-2027",
+      "volume_24h": 123428.205682,
+      "volume_total": 1792949.0455650038,
+      "liquidity": 43372.34548,
+      "yes_price": 0.386,
+      "leader": {
+        "name": "No",
+        "price": 0.614
+      },
+      "end_date": "2027-01-01T05:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    }
+  ]
+}
