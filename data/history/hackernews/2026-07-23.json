@@ -1,7 +1,7 @@
 {
   "source": "hackernews",
   "label": "Hacker News — top stories",
-  "fetched_at": "2026-07-23T08:09:49.095Z",
+  "fetched_at": "2026-07-23T08:10:56.028Z",
   "items": [
     {
       "rank": 1,
@@ -17,7 +17,7 @@
       "title": "git's –end-of-options Flag",
       "url": "https://nesbitt.io/2026/07/21/end-of-options.html",
       "hn_url": "https://news.ycombinator.com/item?id=48991882",
-      "score": 119,
+      "score": 120,
       "comments": 56,
       "author": "Erenay09"
     },
@@ -26,7 +26,7 @@
       "title": "Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample",
       "url": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
       "hn_url": "https://news.ycombinator.com/item?id=49010345",
-      "score": 825,
+      "score": 826,
       "comments": 480,
       "author": "gmays"
     },
@@ -45,7 +45,7 @@
       "url": "https://ziggit.dev/t/cruller-buns-zig-runtime-continued-on-zig-0-16/16734",
       "hn_url": "https://news.ycombinator.com/item?id=49017344",
       "score": 20,
-      "comments": 4,
+      "comments": 5,
       "author": "Erenay09"
     },
     {
@@ -77,6 +77,15 @@
     },
     {
       "rank": 9,
+      "title": "Amiga 1000: Ten years ahead of its time",
+      "url": "https://dfarq.homeip.net/amiga-1000-ten-years-ahead-of-its-time/",
+      "hn_url": "https://news.ycombinator.com/item?id=49017265",
+      "score": 49,
+      "comments": 23,
+      "author": "giuliomagnifico"
+    },
+    {
+      "rank": 10,
       "title": "Are AI labs pelicanmaxxing?",
       "url": "https://dylancastillo.co/posts/pelicanmaxxing.html",
       "hn_url": "https://news.ycombinator.com/item?id=49010129",
@@ -85,16 +94,16 @@
       "author": "dcastm"
     },
     {
-      "rank": 10,
-      "title": "Amiga 1000: Ten years ahead of its time",
-      "url": "https://dfarq.homeip.net/amiga-1000-ten-years-ahead-of-its-time/",
-      "hn_url": "https://news.ycombinator.com/item?id=49017265",
-      "score": 48,
-      "comments": 22,
-      "author": "giuliomagnifico"
+      "rank": 11,
+      "title": "ANSI escape injection in MCP servers: Hidden from humans, visible to AI",
+      "url": "https://brightsec.com/research/detecting-ansi-escape-sequence-injection-in-mcp-servers-with-dast/",
+      "hn_url": "https://news.ycombinator.com/item?id=48989006",
+      "score": 4,
+      "comments": 0,
+      "author": "xgpyc2qp"
     },
     {
-      "rank": 11,
+      "rank": 12,
       "title": "Making ASCII Art in Vim",
       "url": "https://alexyang.dev/vim-ascii-art/",
       "hn_url": "https://news.ycombinator.com/item?id=48983076",
@@ -103,7 +112,7 @@
       "author": "evakhoury"
     },
     {
-      "rank": 12,
+      "rank": 13,
       "title": "So Reddit has decided that plain HTML is unsafe",
       "url": "https://www.cole-k.com/2026/07/21/reddit/",
       "hn_url": "https://news.ycombinator.com/item?id=49005747",
@@ -112,16 +121,16 @@
       "author": "montroser"
     },
     {
-      "rank": 13,
+      "rank": 14,
       "title": "Show HN: Cactus Hybrid: We taught Gemma 4 to know when it's wrong",
       "url": "https://github.com/cactus-compute/cactus-hybrid",
       "hn_url": "https://news.ycombinator.com/item?id=49010782",
       "score": 124,
-      "comments": 18,
+      "comments": 19,
       "author": "HenryNdubuaku"
     },
     {
-      "rank": 14,
+      "rank": 15,
       "title": "Making",
       "url": "https://beej.us/blog/data/ai-making/",
       "hn_url": "https://news.ycombinator.com/item?id=49008440",
@@ -130,7 +139,7 @@
       "author": "erikschoster"
     },
     {
-      "rank": 15,
+      "rank": 16,
       "title": "Medici family mystery may be solved after more than 400 years",
       "url": "https://www.cnn.com/2026/07/15/science/medici-family-mystery-dna-malaria",
       "hn_url": "https://news.ycombinator.com/item?id=49014007",
@@ -139,7 +148,7 @@
       "author": "effects"
     },
     {
-      "rank": 16,
+      "rank": 17,
       "title": "The startup's Postgres survival guide",
       "url": "https://hatchet.run/blog/postgres-survival-guide",
       "hn_url": "https://news.ycombinator.com/item?id=49005787",
@@ -148,7 +157,7 @@
       "author": "abelanger"
     },
     {
-      "rank": 17,
+      "rank": 18,
       "title": "John C. Dvorak has died",
       "url": "https://twitter.com/na_announce/status/2079952538040672302",
       "hn_url": "https://news.ycombinator.com/item?id=49012070",
@@ -157,7 +166,16 @@
       "author": "coleca"
     },
     {
-      "rank": 18,
+      "rank": 19,
+      "title": "ascdraw: Editor for ASCII/UTF-8 diagrams (in 144FPS)",
+      "url": "https://github.com/exlee/ascdraw",
+      "hn_url": "https://news.ycombinator.com/item?id=48984534",
+      "score": 41,
+      "comments": 4,
+      "author": "xlii"
+    },
+    {
+      "rank": 20,
       "title": "Malleable Computing, Emacs, and You",
       "url": "http://yummymelon.com/devnull/malleable-computing-emacs-and-you.html",
       "hn_url": "https://news.ycombinator.com/item?id=49013538",
@@ -166,31 +184,13 @@
       "author": "kickingvegas"
     },
     {
-      "rank": 19,
+      "rank": 21,
       "title": "Restructuring GitHub's bug bounty program",
       "url": "https://github.blog/security/next-chapter-restructuring-githubs-bug-bounty-program/",
       "hn_url": "https://news.ycombinator.com/item?id=49016099",
       "score": 40,
       "comments": 16,
       "author": "soheilpro"
-    },
-    {
-      "rank": 20,
-      "title": "ascdraw: Editor for ASCII/UTF-8 diagrams (in 144FPS)",
-      "url": "https://github.com/exlee/ascdraw",
-      "hn_url": "https://news.ycombinator.com/item?id=48984534",
-      "score": 40,
-      "comments": 4,
-      "author": "xlii"
-    },
-    {
-      "rank": 21,
-      "title": "ANSI escape injection in MCP servers: Hidden from humans, visible to AI",
-      "url": "https://brightsec.com/research/detecting-ansi-escape-sequence-injection-in-mcp-servers-with-dast/",
-      "hn_url": "https://news.ycombinator.com/item?id=48989006",
-      "score": 3,
-      "comments": 0,
-      "author": "xgpyc2qp"
     },
     {
       "rank": 22,
@@ -203,21 +203,21 @@
     },
     {
       "rank": 23,
-      "title": "Why malloc always does more than I asked for?",
-      "url": "https://ssenthilnathan3.github.io/blog/malloc/",
-      "hn_url": "https://news.ycombinator.com/item?id=48977463",
-      "score": 24,
-      "comments": 12,
-      "author": "nathaah3"
-    },
-    {
-      "rank": 24,
       "title": "Businesses with ugly AI menu redesigns",
       "url": "https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/",
       "hn_url": "https://news.ycombinator.com/item?id=49005973",
       "score": 271,
       "comments": 174,
       "author": "speckx"
+    },
+    {
+      "rank": 24,
+      "title": "Why malloc always does more than I asked for?",
+      "url": "https://ssenthilnathan3.github.io/blog/malloc/",
+      "hn_url": "https://news.ycombinator.com/item?id=48977463",
+      "score": 24,
+      "comments": 12,
+      "author": "nathaah3"
     },
     {
       "rank": 25,

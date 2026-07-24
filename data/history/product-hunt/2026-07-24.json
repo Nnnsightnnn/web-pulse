@@ -1,7 +1,7 @@
 {
   "source": "product-hunt",
   "label": "Product Hunt — top products",
-  "fetched_at": "2026-07-23T08:10:55.802Z",
+  "fetched_at": "2026-07-24T08:11:32.824Z",
   "configured": true,
   "items": [
     {
@@ -9,43 +9,27 @@
       "title": "Acti",
       "url": "https://www.producthunt.com/products/acti-2/launches/acti-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+web-pulse+%28ID%3A+282925%29",
       "tagline": "Agentic keyboard for mobile commands and search",
-      "votes_count": 1387,
-      "comments_count": 271
+      "votes_count": 1337,
+      "comments_count": 262
     },
     {
       "rank": 2,
-      "title": "Tencent EdgeOne Makers",
-      "url": "https://www.producthunt.com/products/tencent-edgeone-2/launches/tencent-edgeone-makers?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+web-pulse+%28ID%3A+282925%29",
-      "tagline": "Ship AI agents like web apps, in minutes.",
-      "votes_count": 1155,
-      "comments_count": 164
-    },
-    {
-      "rank": 3,
       "title": "Context.dev",
       "url": "https://www.producthunt.com/products/context-dev/launches/context-dev-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+web-pulse+%28ID%3A+282925%29",
       "tagline": "One API to scrape, enrich, and extract the internet",
-      "votes_count": 1092,
+      "votes_count": 1064,
       "comments_count": 140
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "AnySearch",
       "url": "https://www.producthunt.com/products/anysearch/launches/anysearch-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+web-pulse+%28ID%3A+282925%29",
       "tagline": "Real-time structured search trusted by agents and developers",
-      "votes_count": 919,
-      "comments_count": 123
+      "votes_count": 884,
+      "comments_count": 120
     },
     {
-      "rank": 5,
-      "title": "ExploreYC",
-      "url": "https://www.producthunt.com/products/yc-company-explorer/launches/exploreyc-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+web-pulse+%28ID%3A+282925%29",
-      "tagline": "Open-source API for Y Combinator & a16z company data",
-      "votes_count": 893,
-      "comments_count": 68
-    },
-    {
-      "rank": 6,
+      "rank": 4,
       "title": "Pazi",
       "url": "https://www.producthunt.com/products/pazi?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+web-pulse+%28ID%3A+282925%29",
       "tagline": "Vibe code business operations",
@@ -53,79 +37,71 @@
       "comments_count": 106
     },
     {
-      "rank": 7,
+      "rank": 5,
       "title": "OpenSEO",
       "url": "https://www.producthunt.com/products/openseo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+web-pulse+%28ID%3A+282925%29",
       "tagline": "The open source Ahrefs alternative",
-      "votes_count": 867,
+      "votes_count": 880,
       "comments_count": 72
     },
     {
-      "rank": 8,
+      "rank": 6,
+      "title": "ExploreYC",
+      "url": "https://www.producthunt.com/products/yc-company-explorer/launches/exploreyc-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+web-pulse+%28ID%3A+282925%29",
+      "tagline": "Open-source API for Y Combinator & a16z company data",
+      "votes_count": 878,
+      "comments_count": 68
+    },
+    {
+      "rank": 7,
       "title": "Paradigm",
       "url": "https://www.producthunt.com/products/paradigm-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+web-pulse+%28ID%3A+282925%29",
       "tagline": "Turn any goal into a personalized, adaptive learning path.",
-      "votes_count": 866,
+      "votes_count": 819,
       "comments_count": 130
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "ClawTeams",
       "url": "https://www.producthunt.com/products/clawteams?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+web-pulse+%28ID%3A+282925%29",
       "tagline": "The first goal-driven, proactive AI team for e-commerce",
-      "votes_count": 842,
+      "votes_count": 810,
       "comments_count": 92
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "ChatCut",
-      "url": "https://www.producthunt.com/products/chatcut-ai-video-editor?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+web-pulse+%28ID%3A+282925%29",
+      "url": "https://www.producthunt.com/products/chatcut-ai-video-editor/launches/chatcut-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+web-pulse+%28ID%3A+282925%29",
       "tagline": "Your AI video editor in ChatGPT, desktop, and web",
-      "votes_count": 757,
+      "votes_count": 736,
       "comments_count": 107
     },
     {
-      "rank": 11,
+      "rank": 10,
       "title": "BrowserAct",
       "url": "https://www.producthunt.com/products/browseract/launches/browseract?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+web-pulse+%28ID%3A+282925%29",
       "tagline": "Web browser automation for AI agents",
-      "votes_count": 745,
+      "votes_count": 732,
       "comments_count": 124
     },
     {
-      "rank": 12,
+      "rank": 11,
       "title": "Fypro",
       "url": "https://www.producthunt.com/products/fypro/launches/fypro?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+web-pulse+%28ID%3A+282925%29",
       "tagline": "Convert your TikTok followers into paying customers",
-      "votes_count": 714,
-      "comments_count": 255
+      "votes_count": 707,
+      "comments_count": 251
     },
     {
-      "rank": 13,
-      "title": "AgentKey",
-      "url": "https://www.producthunt.com/products/agentkey?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+web-pulse+%28ID%3A+282925%29",
-      "tagline": "One-stop live data marketplace for your agent",
-      "votes_count": 705,
-      "comments_count": 130
-    },
-    {
-      "rank": 14,
+      "rank": 12,
       "title": "Auriko ",
       "url": "https://www.producthunt.com/products/auriko/launches/auriko-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+web-pulse+%28ID%3A+282925%29",
       "tagline": "Trading desk for LLM calls",
-      "votes_count": 704,
+      "votes_count": 684,
       "comments_count": 79
     },
     {
-      "rank": 15,
-      "title": "Sim",
-      "url": "https://www.producthunt.com/products/sim-studio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+web-pulse+%28ID%3A+282925%29",
-      "tagline": "Open-source workspace for AI agents and workflows",
-      "votes_count": 686,
-      "comments_count": 109
-    },
-    {
-      "rank": 16,
+      "rank": 13,
       "title": "Glaze by Raycast",
       "url": "https://www.producthunt.com/products/glaze-4/launches/glaze-by-raycast-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+web-pulse+%28ID%3A+282925%29",
       "tagline": "Create your own Mac apps by chatting with AI",
@@ -133,36 +109,60 @@
       "comments_count": 107
     },
     {
-      "rank": 17,
-      "title": "V2Fun",
-      "url": "https://www.producthunt.com/products/v2fun?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+web-pulse+%28ID%3A+282925%29",
-      "tagline": "Generate 3D character with 8K textures and AI motion capture",
-      "votes_count": 670,
-      "comments_count": 189
+      "rank": 14,
+      "title": "Sim",
+      "url": "https://www.producthunt.com/products/sim-studio/launches/sim-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+web-pulse+%28ID%3A+282925%29",
+      "tagline": "Open-source workspace for AI agents and workflows",
+      "votes_count": 678,
+      "comments_count": 109
     },
     {
-      "rank": 18,
+      "rank": 15,
+      "title": "AgentKey",
+      "url": "https://www.producthunt.com/products/agentkey?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+web-pulse+%28ID%3A+282925%29",
+      "tagline": "One-stop live data marketplace for your agent",
+      "votes_count": 669,
+      "comments_count": 130
+    },
+    {
+      "rank": 16,
       "title": "Velo 3.0",
       "url": "https://www.producthunt.com/products/velo-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+web-pulse+%28ID%3A+282925%29",
       "tagline": "AI video infrastructure to explain, train, and sell faster.",
-      "votes_count": 659,
-      "comments_count": 150
+      "votes_count": 660,
+      "comments_count": 147
     },
     {
-      "rank": 19,
-      "title": "Cursor for iOS",
-      "url": "https://www.producthunt.com/products/cursor/launches/cursor-for-ios-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+web-pulse+%28ID%3A+282925%29",
-      "tagline": "Build with coding agents from anywhere",
-      "votes_count": 654,
-      "comments_count": 64
-    },
-    {
-      "rank": 20,
+      "rank": 17,
       "title": "Unabyss for Claude",
       "url": "https://www.producthunt.com/products/unabyss?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+web-pulse+%28ID%3A+282925%29",
       "tagline": "Shared memory across all apps and LLMs. In Claude",
-      "votes_count": 654,
+      "votes_count": 658,
       "comments_count": 129
+    },
+    {
+      "rank": 18,
+      "title": "Cursor for iOS",
+      "url": "https://www.producthunt.com/products/cursor/launches/cursor-for-ios-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+web-pulse+%28ID%3A+282925%29",
+      "tagline": "Build with coding agents from anywhere",
+      "votes_count": 656,
+      "comments_count": 64
+    },
+    {
+      "rank": 19,
+      "title": "V2Fun",
+      "url": "https://www.producthunt.com/products/v2fun?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+web-pulse+%28ID%3A+282925%29",
+      "tagline": "Generate 3D character with 8K textures and AI motion capture",
+      "votes_count": 653,
+      "comments_count": 189
+    },
+    {
+      "rank": 20,
+      "title": "Fuzzy AI",
+      "url": "https://www.producthunt.com/products/fuzzy-ai-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+web-pulse+%28ID%3A+282925%29",
+      "tagline": "We warm your prospects before reaching out",
+      "votes_count": 645,
+      "comments_count": 104
     }
   ]
 }

@@ -1,0 +1,282 @@
+{
+  "source": "huggingface",
+  "label": "Hugging Face — trending models",
+  "fetched_at": "2026-07-24T08:11:32.508Z",
+  "items": [
+    {
+      "rank": 1,
+      "title": "baidu/Unlimited-OCR",
+      "url": "https://huggingface.co/baidu/Unlimited-OCR",
+      "author": "baidu",
+      "downloads": 2414259,
+      "likes": 2928,
+      "trending_score": 831,
+      "pipeline_tag": "image-text-to-text",
+      "last_modified": "2026-07-23T09:16:19.000Z"
+    },
+    {
+      "rank": 2,
+      "title": "thinkingmachines/Inkling",
+      "url": "https://huggingface.co/thinkingmachines/Inkling",
+      "author": "thinkingmachines",
+      "downloads": 24669,
+      "likes": 1523,
+      "trending_score": 582,
+      "pipeline_tag": "image-text-to-text",
+      "last_modified": "2026-07-23T17:27:17.000Z"
+    },
+    {
+      "rank": 3,
+      "title": "poolside/Laguna-S-2.1",
+      "url": "https://huggingface.co/poolside/Laguna-S-2.1",
+      "author": "poolside",
+      "downloads": 13285,
+      "likes": 541,
+      "trending_score": 533,
+      "pipeline_tag": "text-generation",
+      "last_modified": "2026-07-22T17:56:57.000Z"
+    },
+    {
+      "rank": 4,
+      "title": "upstage/Solar-Open2-250B",
+      "url": "https://huggingface.co/upstage/Solar-Open2-250B",
+      "author": "upstage",
+      "downloads": 362,
+      "likes": 496,
+      "trending_score": 424,
+      "pipeline_tag": "text-generation",
+      "last_modified": "2026-07-24T06:02:09.000Z"
+    },
+    {
+      "rank": 5,
+      "title": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+      "url": "https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+      "author": "DavidAU",
+      "downloads": 334847,
+      "likes": 424,
+      "trending_score": 403,
+      "pipeline_tag": "image-text-to-text",
+      "last_modified": "2026-07-20T09:16:52.000Z"
+    },
+    {
+      "rank": 6,
+      "title": "prism-ml/Ternary-Bonsai-27B-gguf",
+      "url": "https://huggingface.co/prism-ml/Ternary-Bonsai-27B-gguf",
+      "author": "prism-ml",
+      "downloads": 576083,
+      "likes": 994,
+      "trending_score": 335,
+      "pipeline_tag": "text-generation",
+      "last_modified": "2026-07-18T06:05:31.000Z"
+    },
+    {
+      "rank": 7,
+      "title": "Nanbeige/Nanbeige4.2-3B",
+      "url": "https://huggingface.co/Nanbeige/Nanbeige4.2-3B",
+      "author": "Nanbeige",
+      "downloads": 4532,
+      "likes": 337,
+      "trending_score": 335,
+      "pipeline_tag": "text-generation",
+      "last_modified": "2026-07-24T08:06:48.000Z"
+    },
+    {
+      "rank": 8,
+      "title": "zai-org/GLM-5.2",
+      "url": "https://huggingface.co/zai-org/GLM-5.2",
+      "author": "zai-org",
+      "downloads": 596442,
+      "likes": 4390,
+      "trending_score": 286,
+      "pipeline_tag": "text-generation",
+      "last_modified": "2026-07-02T08:08:14.000Z"
+    },
+    {
+      "rank": 9,
+      "title": "prism-ml/Bonsai-27B-gguf",
+      "url": "https://huggingface.co/prism-ml/Bonsai-27B-gguf",
+      "author": "prism-ml",
+      "downloads": 1910116,
+      "likes": 623,
+      "trending_score": 243,
+      "pipeline_tag": "text-generation",
+      "last_modified": "2026-07-17T16:05:42.000Z"
+    },
+    {
+      "rank": 10,
+      "title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "url": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "author": "HauhauCS",
+      "downloads": 2057103,
+      "likes": 3048,
+      "trending_score": 202,
+      "pipeline_tag": "image-text-to-text",
+      "last_modified": "2026-04-17T02:59:21.000Z"
+    },
+    {
+      "rank": 11,
+      "title": "microsoft/Mage-Flow",
+      "url": "https://huggingface.co/microsoft/Mage-Flow",
+      "author": "microsoft",
+      "downloads": 411,
+      "likes": 197,
+      "trending_score": 194,
+      "pipeline_tag": "text-to-image",
+      "last_modified": "2026-07-23T03:15:05.000Z"
+    },
+    {
+      "rank": 12,
+      "title": "conradlocke/krea2-identity-edit",
+      "url": "https://huggingface.co/conradlocke/krea2-identity-edit",
+      "author": "conradlocke",
+      "downloads": 0,
+      "likes": 522,
+      "trending_score": 192,
+      "pipeline_tag": null,
+      "last_modified": "2026-07-22T17:01:36.000Z"
+    },
+    {
+      "rank": 13,
+      "title": "Motif-Technologies/Motif-3-Beta",
+      "url": "https://huggingface.co/Motif-Technologies/Motif-3-Beta",
+      "author": "Motif-Technologies",
+      "downloads": 1856,
+      "likes": 178,
+      "trending_score": 173,
+      "pipeline_tag": "text-generation",
+      "last_modified": "2026-07-22T12:22:18.000Z"
+    },
+    {
+      "rank": 14,
+      "title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+      "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+      "author": "empero-ai",
+      "downloads": 2126755,
+      "likes": 2445,
+      "trending_score": 160,
+      "pipeline_tag": "image-text-to-text",
+      "last_modified": "2026-07-14T13:12:53.000Z"
+    },
+    {
+      "rank": 15,
+      "title": "openbmb/MiniCPM-RobotManip",
+      "url": "https://huggingface.co/openbmb/MiniCPM-RobotManip",
+      "author": "openbmb",
+      "downloads": 408,
+      "likes": 166,
+      "trending_score": 153,
+      "pipeline_tag": "robotics",
+      "last_modified": "2026-07-22T04:16:28.000Z"
+    },
+    {
+      "rank": 16,
+      "title": "unsloth/Laguna-S-2.1-GGUF",
+      "url": "https://huggingface.co/unsloth/Laguna-S-2.1-GGUF",
+      "author": "unsloth",
+      "downloads": 28542,
+      "likes": 152,
+      "trending_score": 149,
+      "pipeline_tag": "text-generation",
+      "last_modified": "2026-07-23T09:22:09.000Z"
+    },
+    {
+      "rank": 17,
+      "title": "bottlecapai/ThinkingCap-Qwen3.6-27B",
+      "url": "https://huggingface.co/bottlecapai/ThinkingCap-Qwen3.6-27B",
+      "author": "bottlecapai",
+      "downloads": 25231,
+      "likes": 532,
+      "trending_score": 132,
+      "pipeline_tag": "image-text-to-text",
+      "last_modified": "2026-07-10T13:15:25.000Z"
+    },
+    {
+      "rank": 18,
+      "title": "moonshotai/Kimi-K2.7-Code",
+      "url": "https://huggingface.co/moonshotai/Kimi-K2.7-Code",
+      "author": "moonshotai",
+      "downloads": 766522,
+      "likes": 1256,
+      "trending_score": 122,
+      "pipeline_tag": "image-text-to-text",
+      "last_modified": "2026-06-15T07:49:29.000Z"
+    },
+    {
+      "rank": 19,
+      "title": "poolside/Laguna-S-2.1-NVFP4",
+      "url": "https://huggingface.co/poolside/Laguna-S-2.1-NVFP4",
+      "author": "poolside",
+      "downloads": 52235,
+      "likes": 122,
+      "trending_score": 122,
+      "pipeline_tag": "text-generation",
+      "last_modified": "2026-07-22T22:20:50.000Z"
+    },
+    {
+      "rank": 20,
+      "title": "ATH-MaaS/OvisOCR2",
+      "url": "https://huggingface.co/ATH-MaaS/OvisOCR2",
+      "author": "ATH-MaaS",
+      "downloads": 26919,
+      "likes": 266,
+      "trending_score": 120,
+      "pipeline_tag": "image-text-to-text",
+      "last_modified": "2026-07-16T02:30:50.000Z"
+    },
+    {
+      "rank": 21,
+      "title": "poolside/Laguna-S-2.1-GGUF",
+      "url": "https://huggingface.co/poolside/Laguna-S-2.1-GGUF",
+      "author": "poolside",
+      "downloads": 25360,
+      "likes": 116,
+      "trending_score": 116,
+      "pipeline_tag": null,
+      "last_modified": "2026-07-23T11:36:39.000Z"
+    },
+    {
+      "rank": 22,
+      "title": "fdtn-ai/antares-1b",
+      "url": "https://huggingface.co/fdtn-ai/antares-1b",
+      "author": "fdtn-ai",
+      "downloads": 2747,
+      "likes": 128,
+      "trending_score": 114,
+      "pipeline_tag": "text-generation",
+      "last_modified": "2026-07-22T13:48:41.000Z"
+    },
+    {
+      "rank": 23,
+      "title": "openbmb/MiniCPM-RobotTrack",
+      "url": "https://huggingface.co/openbmb/MiniCPM-RobotTrack",
+      "author": "openbmb",
+      "downloads": 306,
+      "likes": 118,
+      "trending_score": 106,
+      "pipeline_tag": "robotics",
+      "last_modified": "2026-07-19T07:53:43.000Z"
+    },
+    {
+      "rank": 24,
+      "title": "nvidia/Cosmos3-Edge",
+      "url": "https://huggingface.co/nvidia/Cosmos3-Edge",
+      "author": "nvidia",
+      "downloads": 28493,
+      "likes": 106,
+      "trending_score": 104,
+      "pipeline_tag": null,
+      "last_modified": "2026-07-24T00:52:55.000Z"
+    },
+    {
+      "rank": 25,
+      "title": "google/gemma-4-31B-it",
+      "url": "https://huggingface.co/google/gemma-4-31B-it",
+      "author": "google",
+      "downloads": 12629921,
+      "likes": 3349,
+      "trending_score": 86,
+      "pipeline_tag": "image-text-to-text",
+      "last_modified": "2026-07-20T16:42:18.000Z"
+    }
+  ]
+}

@@ -1,0 +1,334 @@
+{
+  "source": "stackoverflow",
+  "label": "Stack Overflow — hot questions",
+  "fetched_at": "2026-07-24T08:11:32.508Z",
+  "items": [
+    {
+      "rank": 1,
+      "title": "Why Does PolarDB IMCI Storage Remain High After a Large DELETE Is Committed?",
+      "url": "https://stackoverflow.com/questions/79985457/why-does-polardb-imci-storage-remain-high-after-a-large-delete-is-committed",
+      "score": -2,
+      "answers": 1,
+      "views": 36,
+      "tags": [
+        "advice",
+        "polardb"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "How do AI coding agents like Codex, Roo Code, and Continue handle sensitive files such as .env or API keys?",
+      "url": "https://stackoverflow.com/questions/79985447/how-do-ai-coding-agents-like-codex-roo-code-and-continue-handle-sensitive-file",
+      "score": -2,
+      "answers": 1,
+      "views": 94,
+      "tags": [
+        "best-practices",
+        "artificial-intelligence",
+        "vscode-extensions",
+        "user-agent"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "JWT C++ OpenSSL RS256 Signature Verification",
+      "url": "https://stackoverflow.com/questions/79985443/jwt-c-openssl-rs256-signature-verification",
+      "score": 0,
+      "answers": 1,
+      "views": 34,
+      "tags": [
+        "c++11",
+        "jwt",
+        "openssl",
+        "rsa",
+        "digital-signature"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "How to get a tree of members on construction?",
+      "url": "https://stackoverflow.com/questions/79985435/how-to-get-a-tree-of-members-on-construction",
+      "score": -3,
+      "answers": 0,
+      "views": 61,
+      "tags": [
+        "c++",
+        "reflection"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Reading String from File Returns Incorrect String Length, Program Crashes",
+      "url": "https://stackoverflow.com/questions/79985432/reading-string-from-file-returns-incorrect-string-length-program-crashes",
+      "score": -1,
+      "answers": 0,
+      "views": 42,
+      "tags": [
+        "c++"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Selenium Wire: POST request returns 403 Forbidden although cookies, CSRF token, and payload match browser request",
+      "url": "https://stackoverflow.com/questions/79985434/selenium-wire-post-request-returns-403-forbidden-although-cookies-csrf-token",
+      "score": -2,
+      "answers": 1,
+      "views": 31,
+      "tags": [
+        "python",
+        "selenium-chromedriver",
+        "ui-automation"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "ARKit outdoor BIM overlay: how to keep .scn model aligned on a construction site without drift?",
+      "url": "https://stackoverflow.com/questions/79985433/arkit-outdoor-bim-overlay-how-to-keep-scn-model-aligned-on-a-construction-site",
+      "score": 0,
+      "answers": 0,
+      "views": 15,
+      "tags": [
+        "ios",
+        "augmented-reality",
+        "scenekit",
+        "arkit"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "How to iterate over two objects without heap allocations?",
+      "url": "https://stackoverflow.com/questions/79984276/how-to-iterate-over-two-objects-without-heap-allocations",
+      "score": 3,
+      "answers": 2,
+      "views": 139,
+      "tags": [
+        "best-practices",
+        "c#"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Splitting OpenMP threads into multiple teams over loop",
+      "url": "https://stackoverflow.com/questions/79984403/splitting-openmp-threads-into-multiple-teams-over-loop",
+      "score": -1,
+      "answers": 1,
+      "views": 43,
+      "tags": [
+        "c++",
+        "parallel-processing",
+        "openmp"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Problem running the packaged app on Windows",
+      "url": "https://stackoverflow.com/questions/79984399/problem-running-the-packaged-app-on-windows",
+      "score": 0,
+      "answers": 0,
+      "views": 38,
+      "tags": [
+        "electron",
+        "electron-builder",
+        "electron-packager"
+      ]
+    },
+    {
+      "rank": 11,
+      "title": "Different kinds of UB are processed differently by GCC",
+      "url": "https://stackoverflow.com/questions/79984359/different-kinds-of-ub-are-processed-differently-by-gcc",
+      "score": 1,
+      "answers": 1,
+      "views": 119,
+      "tags": [
+        "c++",
+        "gcc",
+        "clang",
+        "compiler-construction",
+        "undefined-behavior"
+      ]
+    },
+    {
+      "rank": 12,
+      "title": "Type-mismatch in my VBA code for output PDF file",
+      "url": "https://stackoverflow.com/questions/79984374/type-mismatch-in-my-vba-code-for-output-pdf-file",
+      "score": 0,
+      "answers": 1,
+      "views": 68,
+      "tags": [
+        "excel",
+        "vba",
+        "pdf",
+        "output",
+        "type-mismatch"
+      ]
+    },
+    {
+      "rank": 13,
+      "title": "How to use an imported library as if local in rust?",
+      "url": "https://stackoverflow.com/questions/79984391/how-to-use-an-imported-library-as-if-local-in-rust",
+      "score": 1,
+      "answers": 1,
+      "views": 55,
+      "tags": [
+        "rust",
+        "include",
+        "rename",
+        "code-readability"
+      ]
+    },
+    {
+      "rank": 14,
+      "title": "Sending BLE Advertising Packets from a Python Zero 2WH",
+      "url": "https://stackoverflow.com/questions/79984398/sending-ble-advertising-packets-from-a-python-zero-2wh",
+      "score": 0,
+      "answers": 0,
+      "views": 28,
+      "tags": [
+        "bluetooth-lowenergy",
+        "raspberry-pi-zero",
+        "hci",
+        "bluetooth-hci"
+      ]
+    },
+    {
+      "rank": 15,
+      "title": "Tree Shaking / Minifying Firebase using esbuild",
+      "url": "https://stackoverflow.com/questions/79984376/tree-shaking-minifying-firebase-using-esbuild",
+      "score": -1,
+      "answers": 1,
+      "views": 58,
+      "tags": [
+        "node.js",
+        "firebase",
+        "esbuild",
+        "tree-shaking"
+      ]
+    },
+    {
+      "rank": 16,
+      "title": "What is best practice for preventing a class attribute from becoming stale data?",
+      "url": "https://stackoverflow.com/questions/79984365/what-is-best-practice-for-preventing-a-class-attribute-from-becoming-stale-data",
+      "score": -4,
+      "answers": 1,
+      "views": 88,
+      "tags": [
+        "best-practices",
+        "python"
+      ]
+    },
+    {
+      "rank": 17,
+      "title": "PDF redlines script cannot place bounding boxes or comments in correct location",
+      "url": "https://stackoverflow.com/questions/79984342/pdf-redlines-script-cannot-place-bounding-boxes-or-comments-in-correct-location",
+      "score": -1,
+      "answers": 0,
+      "views": 39,
+      "tags": [
+        "pdf"
+      ]
+    },
+    {
+      "rank": 18,
+      "title": "Optimize C++ function by value analysis (remove an if body that derefs a pointer which must be null if reached)",
+      "url": "https://stackoverflow.com/questions/79984291/optimize-c-function-by-value-analysis-remove-an-if-body-that-derefs-a-pointer",
+      "score": 2,
+      "answers": 1,
+      "views": 145,
+      "tags": [
+        "c++",
+        "compiler-optimization",
+        "undefined-behavior"
+      ]
+    },
+    {
+      "rank": 19,
+      "title": "New Android project in Intellij 2026 is missing ic_launcher_foreground.xml",
+      "url": "https://stackoverflow.com/questions/79984368/new-android-project-in-intellij-2026-is-missing-ic-launcher-foreground-xml",
+      "score": 0,
+      "answers": 0,
+      "views": 45,
+      "tags": [
+        "android",
+        "intellij-idea"
+      ]
+    },
+    {
+      "rank": 20,
+      "title": "How get acrual INCLUDE depthai-core 3.7.1 C++",
+      "url": "https://stackoverflow.com/questions/79984367/how-get-acrual-include-depthai-core-3-7-1-c",
+      "score": -1,
+      "answers": 0,
+      "views": 45,
+      "tags": [
+        "c++",
+        "c++17",
+        "include"
+      ]
+    },
+    {
+      "rank": 21,
+      "title": "Which is the best approach to add line number for debug message in a Fortran code?",
+      "url": "https://stackoverflow.com/questions/79984215/which-is-the-best-approach-to-add-line-number-for-debug-message-in-a-fortran-cod",
+      "score": -2,
+      "answers": 1,
+      "views": 79,
+      "tags": [
+        "vim",
+        "fortran",
+        "fortran95"
+      ]
+    },
+    {
+      "rank": 22,
+      "title": "Tabview doesn't fade/blur properly behind navigation bar (iOS 26+)",
+      "url": "https://stackoverflow.com/questions/79984337/tabview-doesnt-fade-blur-properly-behind-navigation-bar-ios-26",
+      "score": 0,
+      "answers": 0,
+      "views": 49,
+      "tags": [
+        "swift",
+        "swiftui"
+      ]
+    },
+    {
+      "rank": 23,
+      "title": "DB2/LUW v11.5.9 Collation names for COLLATION_KEY() function?",
+      "url": "https://stackoverflow.com/questions/79984257/db2-luw-v11-5-9-collation-names-for-collation-key-function",
+      "score": 0,
+      "answers": 2,
+      "views": 62,
+      "tags": [
+        "sql",
+        "collation",
+        "db2-luw"
+      ]
+    },
+    {
+      "rank": 24,
+      "title": "Word crashes after ThisDocument.Close when run from a MACROBUTTON field",
+      "url": "https://stackoverflow.com/questions/79984267/word-crashes-after-thisdocument-close-when-run-from-a-macrobutton-field",
+      "score": 0,
+      "answers": 2,
+      "views": 52,
+      "tags": [
+        "vba",
+        "windows",
+        "ms-word"
+      ]
+    },
+    {
+      "rank": 25,
+      "title": "Posit Workbench on Snowflake Connection to External Drive or Sharepoint",
+      "url": "https://stackoverflow.com/questions/79984373/posit-workbench-on-snowflake-connection-to-external-drive-or-sharepoint",
+      "score": 0,
+      "answers": 0,
+      "views": 33,
+      "tags": [
+        "best-practices",
+        "r",
+        "snowflake-cloud-data-platform",
+        "rstudio"
+      ]
+    }
+  ]
+}

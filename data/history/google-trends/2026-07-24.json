@@ -1,0 +1,290 @@
+{
+  "source": "google-trends",
+  "label": "Google Trends — trending searches",
+  "fetched_at": "2026-07-24T08:11:32.818Z",
+  "countries": [
+    "US",
+    "GB",
+    "IN",
+    "JP",
+    "BR",
+    "DE"
+  ],
+  "items": [
+    {
+      "rank": 1,
+      "title": "market",
+      "geos": [
+        "US"
+      ],
+      "traffic_estimate": 20000,
+      "news_title": "Stocks Tumble as A.I. Spending and Oil Prices Weigh on Market",
+      "news_url": "https://www.nytimes.com/2026/07/23/business/iran-crude-oil-gas-stock-prices.html",
+      "news_source": "The New York Times"
+    },
+    {
+      "rank": 2,
+      "title": "hitze",
+      "geos": [
+        "DE"
+      ],
+      "traffic_estimate": 10000,
+      "news_title": "Gluthitze kommt zurück: Deutschland wird zum Backofen",
+      "news_url": "https://www.bild.de/news/wetter/gluthitze-kommt-zurueck-deutschland-wird-zum-backofen-6a61d022efccf0c0d55366b9",
+      "news_source": "BILD"
+    },
+    {
+      "rank": 3,
+      "title": "tax",
+      "geos": [
+        "IN"
+      ],
+      "traffic_estimate": 5000,
+      "news_title": "Trump Administration Imposed New Tariffs of Around 10% on Over 80 Nations",
+      "news_url": "https://www.nytimes.com/2026/07/23/business/economy/trump-tariffs.html",
+      "news_source": "The New York Times"
+    },
+    {
+      "rank": 4,
+      "title": "stock market cresh",
+      "geos": [
+        "IN"
+      ],
+      "traffic_estimate": 5000,
+      "news_title": "Stock markets tumble in early trade as crude oil prices hit $100 per barrel mark",
+      "news_url": "https://www.thehindu.com/business/markets/stock-markets-tumble-in-early-trade-as-crude-oil-prices-hit-100-per-barrel-mark/article71260991.ece",
+      "news_source": "The Hindu"
+    },
+    {
+      "rank": 5,
+      "title": "noticias de hoje",
+      "geos": [
+        "BR"
+      ],
+      "traffic_estimate": 5000,
+      "news_title": "Mercado: Ancelotti procurado, 'não' corintiano e Grêmio com reforço de Copa",
+      "news_url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/07/23/mercado-da-bola-23-julho-2026.ghtm",
+      "news_source": "UOL"
+    },
+    {
+      "rank": 6,
+      "title": "prince andrew",
+      "geos": [
+        "GB"
+      ],
+      "traffic_estimate": 2000,
+      "news_title": "Paddy McNally obituary: one-time boyfriend to Sarah Ferguson",
+      "news_url": "https://www.thetimes.com/uk/obituaries/article/paddy-mcnally-obituary-one-time-boyfriend-to-sarah-ferguson-5t7w6h7k7",
+      "news_source": "The Times"
+    },
+    {
+      "rank": 7,
+      "title": "brezza",
+      "geos": [
+        "IN"
+      ],
+      "traffic_estimate": 2000,
+      "news_title": "Maruti Brezza Facelift Variant Details Surface Ahead of Launch",
+      "news_url": "https://www.carwale.com/news/maruti-brezza-facelift-variant-details-surface-ahead-of-launch/",
+      "news_source": "CarWale"
+    },
+    {
+      "rank": 8,
+      "title": "relatório cenipa acidente voepass",
+      "geos": [
+        "BR"
+      ],
+      "traffic_estimate": 2000,
+      "news_title": "Acidente Voepass: Cenipa cita conversas pessoais de pilotos durante voo e 'esquecimento' de acionar sistema de degelo",
+      "news_url": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/07/23/acidente-voepass-pilotos-conversavam-assuntos-pessoais-esqueceram-ligar-sistema-degelo-antes-acidente.ghtml",
+      "news_source": "G1"
+    },
+    {
+      "rank": 9,
+      "title": "ndr niedersachsen",
+      "geos": [
+        "DE"
+      ],
+      "traffic_estimate": 2000,
+      "news_title": "Auto prallt gegen Baum - 64-Jähriger schwer verletzt, Unfallursache bleibt ungeklärt",
+      "news_url": "https://www.ndr.de/nachrichten/niedersachsen/oldenburg_ostfriesland/auto-prallt-gegen-baum-64-jaehriger-schwer-verletzt,cloppenburg-112.html",
+      "news_source": "NDR.de"
+    },
+    {
+      "rank": 10,
+      "title": "extreme heat watch",
+      "geos": [
+        "US"
+      ],
+      "traffic_estimate": 1000,
+      "news_title": "Rain first, then heat: Kansas City could see 105-degree heat index by Sunday",
+      "news_url": "https://www.kmbc.com/article/kansas-city-weather-forecast-rain-friday-weekend-heat-humidity/73238199",
+      "news_source": "KMBC"
+    },
+    {
+      "rank": 11,
+      "title": "lacroix",
+      "geos": [
+        "GB"
+      ],
+      "traffic_estimate": 1000,
+      "news_title": "Chelsea step up interest in Palace's Lacroix",
+      "news_url": "https://www.bbc.com/sport/football/articles/c8xnpxy5v8vo",
+      "news_source": "BBC"
+    },
+    {
+      "rank": 12,
+      "title": "british prime ministers",
+      "geos": [
+        "GB"
+      ],
+      "traffic_estimate": 1000,
+      "news_title": "What do Burnham's tax cuts mean for London?",
+      "news_url": "https://www.bbc.co.uk/news/articles/cn8ny23lzplo",
+      "news_source": "BBC"
+    },
+    {
+      "rank": 13,
+      "title": "cycling",
+      "geos": [
+        "GB"
+      ],
+      "traffic_estimate": 1000,
+      "news_title": "Tour de France 2026: Richard Carapaz wins stage 18",
+      "news_url": "https://www.bbc.co.uk/sport/cycling/articles/c74gm7vj1xro",
+      "news_source": "BBC"
+    },
+    {
+      "rank": 14,
+      "title": "ರಾಜೀನಾಮೆ",
+      "geos": [
+        "IN"
+      ],
+      "traffic_estimate": 1000,
+      "news_title": "PM Modi Resign: ಮೋದಿಯವರಿಗೆ ರಾಜೀನಾಮೆ ಕೊಡೋಕೆ ಹೇಳಿ: ಮೆಲೊನಿಗೆ ಇನ್‌ಸ್ಟಾ ಕಮೆಂಟ್ ಮೂಲಕ ಮನವಿ",
+      "news_url": "https://www.prajavani.net/news/world-news/meloni-instagram-comments-modi-resignation-demand-4145827",
+      "news_source": "Prajavani"
+    },
+    {
+      "rank": 15,
+      "title": "lito inflamacao sistema nervoso central",
+      "geos": [
+        "BR"
+      ],
+      "traffic_estimate": 1000,
+      "news_title": "Internado, Lito Sousa recebe diagnóstico de inflamação do sistema nervoso central; tratamento de câncer de próstata continua",
+      "news_url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/07/22/internado-lito-sousa-recebe-diagnostico-de-inflamacao-do-sistema-nervoso-central-tratamento-de-cancer-de-prostata-continua.ghtml",
+      "news_source": "G1"
+    },
+    {
+      "rank": 16,
+      "title": "chay suede",
+      "geos": [
+        "BR"
+      ],
+      "traffic_estimate": 1000,
+      "news_title": "\"Achei que ia ganhar 10 salários\": Sem um tostão no bolso, Chay Suede ficou decepcionado com papel em sua grande estreia na Globo",
+      "news_url": "https://www.adorocinema.com/noticias/series/noticia-1000213239/",
+      "news_source": "AdoroCinema"
+    },
+    {
+      "rank": 17,
+      "title": "staatsminister",
+      "geos": [
+        "DE"
+      ],
+      "traffic_estimate": 1000,
+      "news_title": "Berlin Tag & Macht: Jens Spahn in: Das Ende der Unverwundbarkeit",
+      "news_url": "https://www.n-tv.de/politik/Jens-Spahn-in-Das-Ende-der-Unverwundbarkeit-id31116126.html",
+      "news_source": "n-tv.de"
+    },
+    {
+      "rank": 18,
+      "title": "interest rate",
+      "geos": [
+        "GB"
+      ],
+      "traffic_estimate": 500,
+      "news_title": "UK mortgage rates rise to highest level for a month as global tensions persist",
+      "news_url": "https://www.bbc.co.uk/news/articles/c70gknr7z1eo",
+      "news_source": "BBC"
+    },
+    {
+      "rank": 19,
+      "title": "ശ്വേത മേനോന്",
+      "geos": [
+        "IN"
+      ],
+      "traffic_estimate": 500,
+      "news_title": "'ചേച്ചിക്കല്ലേ ഏറ്റവും നന്നായി അറിയൂ', പരസ്പരം കൊമ്പുകോർത്ത് ശ്വേത മേനോനും മാലാ പാർവതിയും",
+      "news_url": "https://www.asianetnews.com/entertainment-news/shwetha-menon-and-mala-parvathy-fight-with-social-media-for-amma-association-post-articleshow-2mnm5uw",
+      "news_source": "Asianet News Malayalam"
+    },
+    {
+      "rank": 20,
+      "title": "weather tokyo",
+      "geos": [
+        "JP"
+      ],
+      "traffic_estimate": 500,
+      "news_title": "'Like being in a sauna': Hamamatsu area hits Japan's yearly high of 41.1 C",
+      "news_url": "https://mainichi.jp/english/articles/20260724/p2a/00m/0na/012000c",
+      "news_source": "毎日新聞"
+    },
+    {
+      "rank": 21,
+      "title": "leandro paredes",
+      "geos": [
+        "BR"
+      ],
+      "traffic_estimate": 500,
+      "news_title": "Paredes puso en duda su continuidad en la Selección y habló sobre las teorías conspirativas alrededor de la final del Mundial",
+      "news_url": "https://www.infobae.com/deportes/2026/07/24/paredes-puso-en-duda-su-continuidad-en-la-seleccion-y-hablo-sobre-las-teorias-conspirativas-alrededor-de-la-final-del-mundial/",
+      "news_source": "Infobae"
+    },
+    {
+      "rank": 22,
+      "title": "herediano",
+      "geos": [
+        "BR"
+      ],
+      "traffic_estimate": 500,
+      "news_title": "Puntarenas FC sorprende al campeón y le saca un empate",
+      "news_url": "https://www.diarioextra.com/noticia/puntarenas-fc-sorprende-al-campeon-y-le-saca-un-empate/",
+      "news_source": "Diario Extra"
+    },
+    {
+      "rank": 23,
+      "title": "phoenix live",
+      "geos": [
+        "DE"
+      ],
+      "traffic_estimate": 500,
+      "news_title": "LIVE: 2026 Arizona Primary Election results",
+      "news_url": "https://www.fox10phoenix.com/election/2026-arizona-live-primary-election-results",
+      "news_source": "FOX 10 Phoenix"
+    },
+    {
+      "rank": 24,
+      "title": "sleep news",
+      "geos": [
+        "US"
+      ],
+      "traffic_estimate": 200,
+      "news_title": "Could you run a country on just three hours of sleep? Japan's PM says she does",
+      "news_url": "https://www.bbc.com/news/videos/cz05l8ndy0mo",
+      "news_source": "BBC"
+    },
+    {
+      "rank": 25,
+      "title": "news science",
+      "geos": [
+        "US"
+      ],
+      "traffic_estimate": 200,
+      "news_title": "Scientists warn of potential global marine invasive species event linked to idle ships in the Strait of Hormuz",
+      "news_url": "https://phys.org/news/2026-07-scientists-potential-global-marine-invasive.html",
+      "news_source": "Phys.org"
+    }
+  ]
+}
