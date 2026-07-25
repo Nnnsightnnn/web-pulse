@@ -1,0 +1,334 @@
+{
+  "source": "stackoverflow",
+  "label": "Stack Overflow — hot questions",
+  "fetched_at": "2026-07-25T08:10:22.350Z",
+  "items": [
+    {
+      "rank": 1,
+      "title": "GitLab Closes keyword closes cross-project issue but does not show \"closed with commit\" reference",
+      "url": "https://stackoverflow.com/questions/79985758/gitlab-closes-keyword-closes-cross-project-issue-but-does-not-show-closed-with",
+      "score": 0,
+      "answers": 0,
+      "views": 11,
+      "tags": [
+        "git",
+        "gitlab",
+        "gitlab-api",
+        "gitlab-ce"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Long living asyncio.TaskGroup in python for Redis PUB/SUB",
+      "url": "https://stackoverflow.com/questions/79985755/long-living-asyncio-taskgroup-in-python-for-redis-pub-sub",
+      "score": 0,
+      "answers": 0,
+      "views": 11,
+      "tags": [
+        "python",
+        "redis",
+        "concurrency",
+        "python-asyncio",
+        "publish-subscribe"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Kamal deploy SQLite error on start: unable to open database file",
+      "url": "https://stackoverflow.com/questions/79985753/kamal-deploy-sqlite-error-on-start-unable-to-open-database-file",
+      "score": 0,
+      "answers": 0,
+      "views": 11,
+      "tags": [
+        "ruby-on-rails",
+        "sqlite",
+        "kamal"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Weston mouse cursor issue",
+      "url": "https://stackoverflow.com/questions/79985742/weston-mouse-cursor-issue",
+      "score": -3,
+      "answers": 0,
+      "views": 28,
+      "tags": [
+        "mouse",
+        "weston",
+        "waydroid"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Error Code 1054 unknown column in 'field list' error on MySQL without Group Concat Actor",
+      "url": "https://stackoverflow.com/questions/79985730/error-code-1054-unknown-column-in-field-list-error-on-mysql-without-group-conc",
+      "score": 0,
+      "answers": 2,
+      "views": 59,
+      "tags": [
+        "sql",
+        "mysql",
+        "mysql-error-1054"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "mmap() rejects too small a mapped area",
+      "url": "https://stackoverflow.com/questions/79985713/mmap-rejects-too-small-a-mapped-area",
+      "score": 2,
+      "answers": 1,
+      "views": 62,
+      "tags": [
+        "c",
+        "mmap"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "How to find the position of a path of coordinate points where the average difference between it and another path of a similar shape is the lowest?",
+      "url": "https://stackoverflow.com/questions/79985711/how-to-find-the-position-of-a-path-of-coordinate-points-where-the-average-differ",
+      "score": 0,
+      "answers": 1,
+      "views": 37,
+      "tags": [
+        "python",
+        "micropython"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Unable to define proper CSS attribute for correctly aligning a table DIV within a \"Page\" (centering horizontally) defined as an all-encompassing DIV",
+      "url": "https://stackoverflow.com/questions/79985698/unable-to-define-proper-css-attribute-for-correctly-aligning-a-table-div-within",
+      "score": 0,
+      "answers": 1,
+      "views": 43,
+      "tags": [
+        "html",
+        "css",
+        "html-table"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Create custom field in vCard format acceptable by Google Contacts",
+      "url": "https://stackoverflow.com/questions/79985699/create-custom-field-in-vcard-format-acceptable-by-google-contacts",
+      "score": 0,
+      "answers": 1,
+      "views": 25,
+      "tags": [
+        "tooling-recommendation",
+        "google-contacts-api",
+        "vcf-vcard"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "How to crop and save each line to image?",
+      "url": "https://stackoverflow.com/questions/79985689/how-to-crop-and-save-each-line-to-image",
+      "score": -3,
+      "answers": 0,
+      "views": 52,
+      "tags": [
+        "c#",
+        "vb.net",
+        "image"
+      ]
+    },
+    {
+      "rank": 11,
+      "title": "How to detect which files were conflict-resolved in a git merge commit?",
+      "url": "https://stackoverflow.com/questions/79985725/how-to-detect-which-files-were-conflict-resolved-in-a-git-merge-commit",
+      "score": -5,
+      "answers": 2,
+      "views": 49,
+      "tags": [
+        "git",
+        "github",
+        "git-merge"
+      ]
+    },
+    {
+      "rank": 12,
+      "title": "How do I include zlib in LibTIFF on Windows?",
+      "url": "https://stackoverflow.com/questions/79985709/how-do-i-include-zlib-in-libtiff-on-windows",
+      "score": 0,
+      "answers": 0,
+      "views": 27,
+      "tags": [
+        "windows",
+        "cmake",
+        "zlib",
+        "libtiff"
+      ]
+    },
+    {
+      "rank": 13,
+      "title": "Read and display miliseconds",
+      "url": "https://stackoverflow.com/questions/79985644/read-and-display-miliseconds",
+      "score": 4,
+      "answers": 1,
+      "views": 67,
+      "tags": [
+        "r",
+        "datetime",
+        "lubridate",
+        "readr"
+      ]
+    },
+    {
+      "rank": 14,
+      "title": "wireshark no longer displays my requettes",
+      "url": "https://stackoverflow.com/questions/79985690/wireshark-no-longer-displays-my-requettes",
+      "score": -4,
+      "answers": 1,
+      "views": 58,
+      "tags": [
+        "wireshark",
+        "wake-on-lan"
+      ]
+    },
+    {
+      "rank": 15,
+      "title": "TreeDataGrid with XAML-defined columns can't resolve view model properties",
+      "url": "https://stackoverflow.com/questions/79985662/treedatagrid-with-xaml-defined-columns-cant-resolve-view-model-properties",
+      "score": 0,
+      "answers": 0,
+      "views": 21,
+      "tags": [
+        "c#",
+        "mvvm",
+        "datagrid",
+        "avaloniaui"
+      ]
+    },
+    {
+      "rank": 16,
+      "title": "Use websockify to bridge secure WebSockets to a Java TLS server?",
+      "url": "https://stackoverflow.com/questions/79985696/use-websockify-to-bridge-secure-websockets-to-a-java-tls-server",
+      "score": 0,
+      "answers": 0,
+      "views": 35,
+      "tags": [
+        "java",
+        "ssl",
+        "websocket",
+        "websockify"
+      ]
+    },
+    {
+      "rank": 17,
+      "title": "How to access QML managed QSlider from PySide?",
+      "url": "https://stackoverflow.com/questions/79985639/how-to-access-qml-managed-qslider-from-pyside",
+      "score": -1,
+      "answers": 1,
+      "views": 52,
+      "tags": [
+        "python",
+        "qml",
+        "pyside",
+        "pyside6"
+      ]
+    },
+    {
+      "rank": 18,
+      "title": "Power BI Identical Measures Giving Different Results",
+      "url": "https://stackoverflow.com/questions/79985629/power-bi-identical-measures-giving-different-results",
+      "score": 0,
+      "answers": 1,
+      "views": 42,
+      "tags": [
+        "powerbi",
+        "dax"
+      ]
+    },
+    {
+      "rank": 19,
+      "title": "How to install mcp-server-dev for GitHub Copilot?",
+      "url": "https://stackoverflow.com/questions/79985557/how-to-install-mcp-server-dev-for-github-copilot",
+      "score": -5,
+      "answers": 1,
+      "views": 82,
+      "tags": [
+        "visual-studio-code",
+        "github-copilot",
+        "mcp-server"
+      ]
+    },
+    {
+      "rank": 20,
+      "title": "Efficient header resolution strategy for zero-copy CSV parsing in C",
+      "url": "https://stackoverflow.com/questions/79985530/efficient-header-resolution-strategy-for-zero-copy-csv-parsing-in-c",
+      "score": -2,
+      "answers": 0,
+      "views": 103,
+      "tags": [
+        "best-practices",
+        "c",
+        "csv",
+        "mmap",
+        "zero-copy"
+      ]
+    },
+    {
+      "rank": 21,
+      "title": "Backend roadmap: what to learn first?",
+      "url": "https://stackoverflow.com/questions/79985606/backend-roadmap-what-to-learn-first",
+      "score": -4,
+      "answers": 0,
+      "views": 54,
+      "tags": [
+        "advice"
+      ]
+    },
+    {
+      "rank": 22,
+      "title": "What's the most annoying gap in your dev workflow right now?",
+      "url": "https://stackoverflow.com/questions/79985668/whats-the-most-annoying-gap-in-your-dev-workflow-right-now",
+      "score": -3,
+      "answers": 0,
+      "views": 42,
+      "tags": [
+        "advice",
+        "workflow",
+        "devtools"
+      ]
+    },
+    {
+      "rank": 23,
+      "title": "Stream behavior in PHP",
+      "url": "https://stackoverflow.com/questions/79985678/stream-behavior-in-php",
+      "score": 0,
+      "answers": 0,
+      "views": 39,
+      "tags": [
+        "advice",
+        "php",
+        "stream"
+      ]
+    },
+    {
+      "rank": 24,
+      "title": "WSL2 fails to start with CreateVm/HCS/ERROR_FILE_NOT_FOUND after a reboot, but the install looks healthy",
+      "url": "https://stackoverflow.com/questions/79985664/wsl2-fails-to-start-with-createvm-hcs-error-file-not-found-after-a-reboot-but-t",
+      "score": -1,
+      "answers": 1,
+      "views": 39,
+      "tags": [
+        "windows-subsystem-for-linux"
+      ]
+    },
+    {
+      "rank": 25,
+      "title": "Hugo Test Server shows Images but Github Pages Does not",
+      "url": "https://stackoverflow.com/questions/79985680/hugo-test-server-shows-images-but-github-pages-does-not",
+      "score": 0,
+      "answers": 0,
+      "views": 29,
+      "tags": [
+        "github-actions",
+        "github-pages",
+        "hugo"
+      ]
+    }
+  ]
+}
