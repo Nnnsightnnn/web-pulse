@@ -1,0 +1,232 @@
+{
+  "source": "hackernews",
+  "label": "Hacker News — top stories",
+  "fetched_at": "2026-07-26T08:11:37.632Z",
+  "items": [
+    {
+      "rank": 1,
+      "title": "A shell colon does nothing. Use it anyway",
+      "url": "https://refp.se/articles/your-shell-and-the-magic-colon",
+      "hn_url": "https://news.ycombinator.com/item?id=49047453",
+      "score": 119,
+      "comments": 37,
+      "author": "olexsmir"
+    },
+    {
+      "rank": 2,
+      "title": "An ESP32 based plane radar for my desk",
+      "url": "https://blog.ktz.me/esp32-plane-radar/",
+      "hn_url": "https://news.ycombinator.com/item?id=49054107",
+      "score": 118,
+      "comments": 21,
+      "author": "alexktz"
+    },
+    {
+      "rank": 3,
+      "title": "The new rules of context engineering for Claude 5 generation models",
+      "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+      "hn_url": "https://news.ycombinator.com/item?id=49051361",
+      "score": 301,
+      "comments": 187,
+      "author": "mellosouls"
+    },
+    {
+      "rank": 4,
+      "title": "Show HN: I mapped every US golf course",
+      "url": "https://golfcoursebrowser.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=49054010",
+      "score": 109,
+      "comments": 57,
+      "author": "rickmf"
+    },
+    {
+      "rank": 5,
+      "title": "Stinkpot: SQLite-backed shell history",
+      "url": "https://tangled.org/oppi.li/stinkpot",
+      "hn_url": "https://news.ycombinator.com/item?id=49034777",
+      "score": 39,
+      "comments": 8,
+      "author": "nerdypepper"
+    },
+    {
+      "rank": 6,
+      "title": "Inflect-Micro-v2: complete voice in 9.36M parameters",
+      "url": "https://huggingface.co/owensong/Inflect-Micro-v2",
+      "hn_url": "https://news.ycombinator.com/item?id=49053375",
+      "score": 109,
+      "comments": 9,
+      "author": "nateb2022"
+    },
+    {
+      "rank": 7,
+      "title": "DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
+      "url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
+      "hn_url": "https://news.ycombinator.com/item?id=49052912",
+      "score": 127,
+      "comments": 92,
+      "author": "oliculipolicula"
+    },
+    {
+      "rank": 8,
+      "title": "Some more things about Django I've been enjoying",
+      "url": "https://jvns.ca/blog/2026/07/21/more-nice-django-things/",
+      "hn_url": "https://news.ycombinator.com/item?id=48997828",
+      "score": 18,
+      "comments": 2,
+      "author": "surprisetalk"
+    },
+    {
+      "rank": 9,
+      "title": "Cloudflare's new AI traffic options for customers",
+      "url": "https://blog.cloudflare.com/content-independence-day-ai-options/",
+      "hn_url": "https://news.ycombinator.com/item?id=49052564",
+      "score": 103,
+      "comments": 74,
+      "author": "alphabetatango"
+    },
+    {
+      "rank": 10,
+      "title": "GrapheneOS protections against data extraction from locked devices",
+      "url": "https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices",
+      "hn_url": "https://news.ycombinator.com/item?id=49055169",
+      "score": 10,
+      "comments": 0,
+      "author": "Cider9986"
+    },
+    {
+      "rank": 11,
+      "title": "Rethinking Legal Education in the AI Era",
+      "url": "https://www.law.uchicago.edu/news/ai-strategy-statement",
+      "hn_url": "https://news.ycombinator.com/item?id=49024980",
+      "score": 68,
+      "comments": 31,
+      "author": "jjwiseman"
+    },
+    {
+      "rank": 12,
+      "title": "JetZero",
+      "url": "https://www.jetzero.aero",
+      "hn_url": "https://news.ycombinator.com/item?id=49054224",
+      "score": 182,
+      "comments": 142,
+      "author": "lisper"
+    },
+    {
+      "rank": 13,
+      "title": "Alien World Chemistry Found Inside Meteorite That Struck New Jersey Home",
+      "url": "https://www.seti.org/news/alien-world-chemistry-found-inside-meteorite/",
+      "hn_url": "https://news.ycombinator.com/item?id=49053708",
+      "score": 54,
+      "comments": 15,
+      "author": "spzx"
+    },
+    {
+      "rank": 14,
+      "title": "Running a 28.9M parameter LLM on an $8 microcontroller",
+      "url": "https://github.com/slvDev/esp32-ai",
+      "hn_url": "https://news.ycombinator.com/item?id=49050512",
+      "score": 166,
+      "comments": 37,
+      "author": "boveyking"
+    },
+    {
+      "rank": 15,
+      "title": "Git rebase -I is not that scary",
+      "url": "https://cachebag.sh/journal/interactive-rebasing/",
+      "hn_url": "https://news.ycombinator.com/item?id=49053385",
+      "score": 55,
+      "comments": 52,
+      "author": "vinhnx"
+    },
+    {
+      "rank": 16,
+      "title": "Clinical failure rates over the decades: yikes",
+      "url": "https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes",
+      "hn_url": "https://news.ycombinator.com/item?id=49052628",
+      "score": 94,
+      "comments": 67,
+      "author": "EA-3167"
+    },
+    {
+      "rank": 17,
+      "title": "Systems and Delays",
+      "url": "https://martin.janiczek.cz/2026/07/24/systems-and-delays.html",
+      "hn_url": "https://news.ycombinator.com/item?id=49053382",
+      "score": 59,
+      "comments": 14,
+      "author": "vinhnx"
+    },
+    {
+      "rank": 18,
+      "title": "W4ME Station – a WASM-4 runtime for Java ME phones",
+      "url": "https://github.com/mulfyx/w4me-station",
+      "hn_url": "https://news.ycombinator.com/item?id=49054697",
+      "score": 15,
+      "comments": 2,
+      "author": "sqshi"
+    },
+    {
+      "rank": 19,
+      "title": "LLM Usage in Debian: Three Proposals",
+      "url": "https://www.debian.org/vote/2026/vote_002",
+      "hn_url": "https://news.ycombinator.com/item?id=49050859",
+      "score": 141,
+      "comments": 120,
+      "author": "zdw"
+    },
+    {
+      "rank": 20,
+      "title": "What is happening to jobs? Separating AI hype from reality",
+      "url": "https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality",
+      "hn_url": "https://news.ycombinator.com/item?id=49052570",
+      "score": 76,
+      "comments": 81,
+      "author": "pod_krad"
+    },
+    {
+      "rank": 21,
+      "title": "SIMD for Collision",
+      "url": "https://box2d.org/posts/2026/07/simd-for-collision/",
+      "hn_url": "https://news.ycombinator.com/item?id=49013464",
+      "score": 88,
+      "comments": 27,
+      "author": "birdculture"
+    },
+    {
+      "rank": 22,
+      "title": "GM Backs Sodium Ion Batteries for U.S. Grid Storage",
+      "url": "https://spectrum.ieee.org/sodium-ion-battery-peak-energy",
+      "hn_url": "https://news.ycombinator.com/item?id=49051947",
+      "score": 171,
+      "comments": 72,
+      "author": "rbanffy"
+    },
+    {
+      "rank": 23,
+      "title": "Show HN: I made some transistor animations",
+      "url": "https://brandonli.net/semisim/animations",
+      "hn_url": "https://news.ycombinator.com/item?id=49039868",
+      "score": 172,
+      "comments": 21,
+      "author": "stunningllama"
+    },
+    {
+      "rank": 24,
+      "title": "Show HN: Brolly, a plain-text weather forecast site",
+      "url": "https://brolly.sh/forecast/RWFP2qW8",
+      "hn_url": "https://news.ycombinator.com/item?id=49049693",
+      "score": 180,
+      "comments": 53,
+      "author": "jsax"
+    },
+    {
+      "rank": 25,
+      "title": "Agatha Christie's Disappearance: Amnesia, Suicide, or Despair?",
+      "url": "https://www.historicmysteries.com/unexplained-mysteries/agatha-christie-disappearance/23136/",
+      "hn_url": "https://news.ycombinator.com/item?id=49015898",
+      "score": 21,
+      "comments": 9,
+      "author": "thunderbong"
+    }
+  ]
+}
