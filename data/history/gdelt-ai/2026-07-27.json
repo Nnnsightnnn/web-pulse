@@ -1,0 +1,54 @@
+{
+  "source": "gdelt-ai",
+  "label": "GDELT — AI & tech news",
+  "fetched_at": "2026-07-27T08:14:21.917Z",
+  "data_date": "2026-07-27",
+  "query": "(\"artificial intelligence\" OR \"machine learning\" OR \"generative AI\" OR OpenAI OR Anthropic OR \"large language model\" OR \"neural network\" OR semiconductor) sourcelang:english",
+  "items": [
+    {
+      "rank": 1,
+      "title": "Singapore factory output rises on AI demand",
+      "url": "https://www.straitstimes.com/business/economy/spore-factory-output-rises-in-june-with-ai-demand-continuing-to-drive-electronics-production",
+      "domain": "straitstimes.com",
+      "source_country": "Singapore",
+      "seen_at": "2026-07-27T07:45:00Z",
+      "image": "https://cassette.sphdigital.com.sg/image/straitstimes/b333b3815978cb7921b5c44322fd8131e4ceebb4668fdf9e34b5c3aef117a1cd"
+    },
+    {
+      "rank": 2,
+      "title": "US credit outlook tied to AI investment confidence while consumer sectors face headwinds : Fitch",
+      "url": "http://www.nepalnational.com/news/279211591/us-credit-outlook-tied-to-ai-investment-confidence-while-consumer-sectors-face-headwinds-fitch",
+      "domain": "nepalnational.com",
+      "source_country": "Nepal",
+      "seen_at": "2026-07-27T07:45:00Z",
+      "image": "https://image.chitra.live/api/v1/wps/8f369c6/abb77fd1-9994-4c9e-be81-b2762a3a0589/0/ANI-20260727024348-600x315.jpg"
+    },
+    {
+      "rank": 3,
+      "title": "Samsung secures Broadcom AI chip pact worth over $200 billion",
+      "url": "http://www.texasguardian.com/news/279209547/samsung-secures-broadcom-ai-chip-pact-worth-over-usd200-billion",
+      "domain": "texasguardian.com",
+      "source_country": "United States",
+      "seen_at": "2026-07-27T07:30:00Z",
+      "image": "https://image.chitra.live/api/v1/wps/ad52601/d1776b0c-f666-4384-8ec8-0c3a71642566/1/Samsung-Electronics-1-600x315.jpg"
+    },
+    {
+      "rank": 4,
+      "title": "Beyond AI : Future - proofing oil and gas with private 5G",
+      "url": "https://www.offshore-technology.com/sponsored/beyond-ai-future-proofing-oil-and-gas-with-private-5g/",
+      "domain": "offshore-technology.com",
+      "source_country": "United Kingdom",
+      "seen_at": "2026-07-27T07:30:00Z",
+      "image": "https://www.offshore-technology.com/wp-content/uploads/sites/20/2026/07/shutterstock_2754295539.jpg"
+    },
+    {
+      "rank": 5,
+      "title": "Lee Arrives in Brazil for Summit After Unveiling AI Vision in US",
+      "url": "https://world.kbs.co.kr/service/news_view.htm?lang=e&Seq_Code=203162",
+      "domain": "world.kbs.co.kr",
+      "source_country": "South Korea",
+      "seen_at": "2026-07-27T07:15:00Z",
+      "image": "https://worldimg.kbs.co.kr/src/images/news/202607/260727084001_53_k.jpg"
+    }
+  ]
+}
