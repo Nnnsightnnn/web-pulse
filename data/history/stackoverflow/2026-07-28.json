@@ -1,0 +1,348 @@
+{
+  "source": "stackoverflow",
+  "label": "Stack Overflow — hot questions",
+  "fetched_at": "2026-07-28T08:09:41.873Z",
+  "items": [
+    {
+      "rank": 1,
+      "title": "A regular expression to match C-strings",
+      "url": "https://stackoverflow.com/questions/79986472/a-regular-expression-to-match-c-strings",
+      "score": 1,
+      "answers": 0,
+      "views": 24,
+      "tags": [
+        "c",
+        "regex",
+        "perl",
+        "c-strings"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "VS2022 not detecting uninitialised variable from heap",
+      "url": "https://stackoverflow.com/questions/79986466/vs2022-not-detecting-uninitialised-variable-from-heap",
+      "score": -1,
+      "answers": 1,
+      "views": 35,
+      "tags": [
+        "c++",
+        "visual-studio",
+        "initialization"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "What networking features introduced after Linux 6.6 have provided the most practical value in cloud environments?",
+      "url": "https://stackoverflow.com/questions/79986467/what-networking-features-introduced-after-linux-6-6-have-provided-the-most-pract",
+      "score": -2,
+      "answers": 0,
+      "views": 27,
+      "tags": [
+        "linux",
+        "network-programming",
+        "linux-kernel",
+        "ebpf",
+        "xdp-bpf"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "How automatically update the status of an enrollment in an ASP.NET Core API following Clean Architecture?",
+      "url": "https://stackoverflow.com/questions/79986449/how-automatically-update-the-status-of-an-enrollment-in-an-asp-net-core-api-foll",
+      "score": 1,
+      "answers": 2,
+      "views": 44,
+      "tags": [
+        "c#",
+        "asp.net-web-api"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "R version 4.5.2 for macOS appears to accept ambiguous references to columns",
+      "url": "https://stackoverflow.com/questions/79986458/r-version-4-5-2-for-macos-appears-to-accept-ambiguous-references-to-columns",
+      "score": 0,
+      "answers": 0,
+      "views": 22,
+      "tags": [
+        "advice",
+        "r",
+        "ambiguous"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "C assign to char * in a struct in a pointer to the struct from a char * function parameter called with a char array",
+      "url": "https://stackoverflow.com/questions/79986370/c-assign-to-char-in-a-struct-in-a-pointer-to-the-struct-from-a-char-function",
+      "score": 3,
+      "answers": 2,
+      "views": 114,
+      "tags": [
+        "c",
+        "string",
+        "pointers",
+        "memory-management"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Performing summary statistics on a data table in R (with two different classes)",
+      "url": "https://stackoverflow.com/questions/79986447/performing-summary-statistics-on-a-data-table-in-r-with-two-different-classes",
+      "score": 1,
+      "answers": 1,
+      "views": 26,
+      "tags": [
+        "r",
+        "dplyr",
+        "aggregate",
+        "summary",
+        "t-test"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "OceanBase 4.3.x: Hybrid query (ANN_SEARCH + WHERE clause) forces full table scan instead of Vector Index Pre-filtering",
+      "url": "https://stackoverflow.com/questions/79986462/oceanbase-4-3-x-hybrid-query-ann-search-where-clause-forces-full-table-scan",
+      "score": 0,
+      "answers": 0,
+      "views": 17,
+      "tags": [
+        "database",
+        "vector-database",
+        "rag",
+        "query-planner",
+        "oceanbase"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Implementing From vs Into for non-covering sets in Rust",
+      "url": "https://stackoverflow.com/questions/79986440/implementing-from-vs-into-for-non-covering-sets-in-rust",
+      "score": -1,
+      "answers": 0,
+      "views": 50,
+      "tags": [
+        "best-practices",
+        "rust"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Is pthread_cancel called during a SIGINT?",
+      "url": "https://stackoverflow.com/questions/79986425/is-pthread-cancel-called-during-a-sigint",
+      "score": -4,
+      "answers": 0,
+      "views": 79,
+      "tags": [
+        "c",
+        "pthreads",
+        "embedded-linux"
+      ]
+    },
+    {
+      "rank": 11,
+      "title": "Asynchronous Timers in Swift",
+      "url": "https://stackoverflow.com/questions/79986444/asynchronous-timers-in-swift",
+      "score": 1,
+      "answers": 0,
+      "views": 28,
+      "tags": [
+        "best-practices",
+        "swift",
+        "swiftui"
+      ]
+    },
+    {
+      "rank": 12,
+      "title": "Cloudflare proxy enabled but my PHP website does not load correctly after DNS configuration",
+      "url": "https://stackoverflow.com/questions/79986438/cloudflare-proxy-enabled-but-my-php-website-does-not-load-correctly-after-dns-co",
+      "score": -1,
+      "answers": 0,
+      "views": 40,
+      "tags": [
+        "php",
+        "apache",
+        "ssl",
+        "dns",
+        "cloudflare"
+      ]
+    },
+    {
+      "rank": 13,
+      "title": "What is the exact object construction timeline for a built-in data member initialized using a member initializer list?",
+      "url": "https://stackoverflow.com/questions/79986285/what-is-the-exact-object-construction-timeline-for-a-built-in-data-member-initia",
+      "score": 2,
+      "answers": 2,
+      "views": 124,
+      "tags": [
+        "c++",
+        "constructor",
+        "member-initialization"
+      ]
+    },
+    {
+      "rank": 14,
+      "title": "Can Rust enforce a non-zero BigDecimal parameter at compile time?",
+      "url": "https://stackoverflow.com/questions/79986437/can-rust-enforce-a-non-zero-bigdecimal-parameter-at-compile-time",
+      "score": 0,
+      "answers": 1,
+      "views": 49,
+      "tags": [
+        "rust",
+        "bigdecimal",
+        "panic",
+        "rust-analyzer"
+      ]
+    },
+    {
+      "rank": 15,
+      "title": "How do I make a 3d matrix out of multiple 2d matrices in C#?",
+      "url": "https://stackoverflow.com/questions/79986408/how-do-i-make-a-3d-matrix-out-of-multiple-2d-matrices-in-c",
+      "score": 1,
+      "answers": 1,
+      "views": 76,
+      "tags": [
+        "c#",
+        "matrix",
+        "concatenation"
+      ]
+    },
+    {
+      "rank": 16,
+      "title": "RuntimeError: Event loop is closed - python exception",
+      "url": "https://stackoverflow.com/questions/79986381/runtimeerror-event-loop-is-closed-python-exception",
+      "score": 2,
+      "answers": 1,
+      "views": 94,
+      "tags": [
+        "python",
+        "python-3.x",
+        "asynchronous",
+        "python-aiofiles"
+      ]
+    },
+    {
+      "rank": 17,
+      "title": "Normalized Mutual Information (skimage) near-minimum (~1.03) for registered RGB-thermal images — expected or an issue?",
+      "url": "https://stackoverflow.com/questions/79986366/normalized-mutual-information-skimage-near-minimum-1-03-for-registered-rgb",
+      "score": 1,
+      "answers": 0,
+      "views": 52,
+      "tags": [
+        "python",
+        "image-processing",
+        "scikit-image",
+        "image-registration",
+        "mutual-information"
+      ]
+    },
+    {
+      "rank": 18,
+      "title": "`do.call` blows up final object size (returned object is not identical to direct function call)",
+      "url": "https://stackoverflow.com/questions/79986355/do-call-blows-up-final-object-size-returned-object-is-not-identical-to-direct",
+      "score": 0,
+      "answers": 1,
+      "views": 81,
+      "tags": [
+        "r",
+        "memory",
+        "do.call"
+      ]
+    },
+    {
+      "rank": 19,
+      "title": "`offset` from stats package insert an offset, but `stats::offset` insert a variable",
+      "url": "https://stackoverflow.com/questions/79986382/offset-from-stats-package-insert-an-offset-but-statsoffset-insert-a-varia",
+      "score": -2,
+      "answers": 1,
+      "views": 78,
+      "tags": [
+        "r",
+        "offset",
+        "glm",
+        "glmmtmb"
+      ]
+    },
+    {
+      "rank": 20,
+      "title": "React use() cache gets overwritten by an older Promise after invalidation",
+      "url": "https://stackoverflow.com/questions/79986423/react-use-cache-gets-overwritten-by-an-older-promise-after-invalidation",
+      "score": 0,
+      "answers": 0,
+      "views": 55,
+      "tags": [
+        "javascript",
+        "reactjs",
+        "caching",
+        "promise"
+      ]
+    },
+    {
+      "rank": 21,
+      "title": "Is it possible to enforce checking all possible return types in PHP?",
+      "url": "https://stackoverflow.com/questions/79986380/is-it-possible-to-enforce-checking-all-possible-return-types-in-php",
+      "score": 0,
+      "answers": 1,
+      "views": 76,
+      "tags": [
+        "tooling-recommendation",
+        "php",
+        "static-analysis"
+      ]
+    },
+    {
+      "rank": 22,
+      "title": "If the express module is a return function, then why cannot we directly call the properties of the function?",
+      "url": "https://stackoverflow.com/questions/79986333/if-the-express-module-is-a-return-function-then-why-cannot-we-directly-call-the",
+      "score": -3,
+      "answers": 0,
+      "views": 91,
+      "tags": [
+        "javascript",
+        "express"
+      ]
+    },
+    {
+      "rank": 23,
+      "title": "How to distribute a C++ dynamic library which uses C++ modules (no header files)",
+      "url": "https://stackoverflow.com/questions/79986340/how-to-distribute-a-c-dynamic-library-which-uses-c-modules-no-header-files",
+      "score": 5,
+      "answers": 0,
+      "views": 106,
+      "tags": [
+        "c++",
+        "cmake",
+        "c++-modules"
+      ]
+    },
+    {
+      "rank": 24,
+      "title": "Async background task uploads rotated logs to S3 only after log rotation, not in real time",
+      "url": "https://stackoverflow.com/questions/79986302/async-background-task-uploads-rotated-logs-to-s3-only-after-log-rotation-not-in",
+      "score": -4,
+      "answers": 0,
+      "views": 58,
+      "tags": [
+        "tooling-recommendation",
+        "python",
+        "amazon-s3",
+        "deep-learning",
+        "architecture"
+      ]
+    },
+    {
+      "rank": 25,
+      "title": "When to use a triplestore or an LPG database for GraphRAG?",
+      "url": "https://stackoverflow.com/questions/79986417/when-to-use-a-triplestore-or-an-lpg-database-for-graphrag",
+      "score": -3,
+      "answers": 0,
+      "views": 38,
+      "tags": [
+        "rdf",
+        "ontology",
+        "large-language-model",
+        "graphrag"
+      ]
+    }
+  ]
+}

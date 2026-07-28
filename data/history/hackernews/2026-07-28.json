@@ -1,0 +1,232 @@
+{
+  "source": "hackernews",
+  "label": "Hacker News — top stories",
+  "fetched_at": "2026-07-28T08:09:42.256Z",
+  "items": [
+    {
+      "rank": 1,
+      "title": "7.1 Earthquake in Japan",
+      "url": "https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en",
+      "hn_url": "https://news.ycombinator.com/item?id=49080664",
+      "score": 52,
+      "comments": 2,
+      "author": "krembo"
+    },
+    {
+      "rank": 2,
+      "title": "Our position on open-weights models",
+      "url": "https://www.anthropic.com/news/position-open-weights-models",
+      "hn_url": "https://news.ycombinator.com/item?id=49076057",
+      "score": 836,
+      "comments": 1208,
+      "author": "surprisetalk"
+    },
+    {
+      "rank": 3,
+      "title": "A $500 RL fine-tune of a 9B open model beat frontier models on catalog review",
+      "url": "https://fermisense.com/when-machines-take-the-wheel/",
+      "hn_url": "https://news.ycombinator.com/item?id=49078454",
+      "score": 147,
+      "comments": 43,
+      "author": "ilreb"
+    },
+    {
+      "rank": 4,
+      "title": "Ars Astronomica – English translations of rare Hebrew and Latin astronomy texts",
+      "url": "https://arsastronomica.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=49079727",
+      "score": 45,
+      "comments": 7,
+      "author": "sweisman"
+    },
+    {
+      "rank": 5,
+      "title": "Neutrino-1 8B",
+      "url": "https://www.fermionresearch.com/models/neutrino-8b/",
+      "hn_url": "https://news.ycombinator.com/item?id=49079490",
+      "score": 60,
+      "comments": 12,
+      "author": "handfuloflight"
+    },
+    {
+      "rank": 6,
+      "title": "Using an open model feels surprisingly good",
+      "url": "https://matthewsaltz.com/blog/using-an-open-model-feels-surprisingly-good/",
+      "hn_url": "https://news.ycombinator.com/item?id=49078583",
+      "score": 254,
+      "comments": 77,
+      "author": "msaltz"
+    },
+    {
+      "rank": 7,
+      "title": "Benchmarking Opus 5 on SlopCodeBench",
+      "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md",
+      "hn_url": "https://news.ycombinator.com/item?id=49076391",
+      "score": 261,
+      "comments": 58,
+      "author": "dhorthy"
+    },
+    {
+      "rank": 8,
+      "title": "Vehicle Motion Cues",
+      "url": "https://support.apple.com/guide/iphone/iphone-comfortably-riding-a-vehicle-iph55564cb22/ios",
+      "hn_url": "https://news.ycombinator.com/item?id=49077999",
+      "score": 81,
+      "comments": 35,
+      "author": "Austin_Conlon"
+    },
+    {
+      "rank": 9,
+      "title": "RTX 2080 Ti Memory Upgrade to 22 GB",
+      "url": "https://gpusolutions.net/rbservices/graphics-card-upgrade/",
+      "hn_url": "https://news.ycombinator.com/item?id=49041256",
+      "score": 90,
+      "comments": 57,
+      "author": "wslh"
+    },
+    {
+      "rank": 10,
+      "title": "PyTorch: A Reference Language",
+      "url": "https://docs.pytorch.org/devlogs/compiler/2026-07-25-pytorch-a-reference-language/",
+      "hn_url": "https://news.ycombinator.com/item?id=49079454",
+      "score": 24,
+      "comments": 2,
+      "author": "matt_d"
+    },
+    {
+      "rank": 11,
+      "title": "Programming Languages Are Authoring Tools for Platforms",
+      "url": "https://www.makonea.com/en-US/blog/programming-languages-are-authoring-tools-for-platforms",
+      "hn_url": "https://news.ycombinator.com/item?id=49034534",
+      "score": 11,
+      "comments": 0,
+      "author": "jdw64"
+    },
+    {
+      "rank": 12,
+      "title": "Watching Go's new garbage collector move through the heap",
+      "url": "https://theconsensus.dev/p/2026/07/19/observing-gos-garbage-collector-old-and-new.html",
+      "hn_url": "https://news.ycombinator.com/item?id=49045474",
+      "score": 209,
+      "comments": 25,
+      "author": "matheusmoreira"
+    },
+    {
+      "rank": 13,
+      "title": "Kimi K3 Now Available via Telnyx Inference API",
+      "url": "https://telnyx.com/release-notes/kimi-k3-telnyx-inference",
+      "hn_url": "https://news.ycombinator.com/item?id=49076505",
+      "score": 72,
+      "comments": 25,
+      "author": "fionaattelnyx"
+    },
+    {
+      "rank": 14,
+      "title": "Show HN: Yap – OSS on-device voice dictation for macOS with no model to download",
+      "url": "https://github.com/FrigadeHQ/yap",
+      "hn_url": "https://news.ycombinator.com/item?id=49073834",
+      "score": 61,
+      "comments": 16,
+      "author": "pancomplex"
+    },
+    {
+      "rank": 15,
+      "title": "DConf 2026 in London",
+      "url": "https://dconf.org/2026/index.html",
+      "hn_url": "https://news.ycombinator.com/item?id=49076840",
+      "score": 81,
+      "comments": 38,
+      "author": "teleforce"
+    },
+    {
+      "rank": 16,
+      "title": "EYG: A Programming Language for Humans",
+      "url": "https://crowdhailer.me/2026-06-08/a-programming-language-for-humans/",
+      "hn_url": "https://news.ycombinator.com/item?id=49078463",
+      "score": 62,
+      "comments": 32,
+      "author": "crowdhailer"
+    },
+    {
+      "rank": 17,
+      "title": "C/C++ projects packaged for Zig",
+      "url": "https://github.com/allyourcodebase",
+      "hn_url": "https://news.ycombinator.com/item?id=49076791",
+      "score": 54,
+      "comments": 34,
+      "author": "jcbhmr"
+    },
+    {
+      "rank": 18,
+      "title": "Launch HN: Rise Reforming (YC S26) – Turning Waste Gases into Valuable Chemicals",
+      "url": "https://www.rise-reforming.com",
+      "hn_url": "https://news.ycombinator.com/item?id=49074817",
+      "score": 71,
+      "comments": 31,
+      "author": "george_rose25"
+    },
+    {
+      "rank": 19,
+      "title": "An Uncomplicated Man – A review of The Odyssey, directed by Christopher Nolan",
+      "url": "https://www.lrb.co.uk/the-paper/v48/n14/emily-wilson/an-uncomplicated-man",
+      "hn_url": "https://news.ycombinator.com/item?id=49078575",
+      "score": 79,
+      "comments": 50,
+      "author": "andsoitis"
+    },
+    {
+      "rank": 20,
+      "title": "Three Theses on the Literacy Crisis",
+      "url": "https://trevoraleo.substack.com/p/three-theses-on-the-literacy-crisis",
+      "hn_url": "https://news.ycombinator.com/item?id=49050021",
+      "score": 47,
+      "comments": 35,
+      "author": "samclemens"
+    },
+    {
+      "rank": 21,
+      "title": "Some combinatorial applications of spacefilling curves",
+      "url": "https://www2.isye.gatech.edu/~jjb/research/mow/mow.html",
+      "hn_url": "https://news.ycombinator.com/item?id=49049724",
+      "score": 50,
+      "comments": 5,
+      "author": "shraiwi"
+    },
+    {
+      "rank": 22,
+      "title": "Ray tracing massive amounts of animated geometry using tetrahedral cages",
+      "url": "https://gpuopen.com/learn/ray-tracing-massive-amounts-animated-geometry/",
+      "hn_url": "https://news.ycombinator.com/item?id=49021007",
+      "score": 99,
+      "comments": 12,
+      "author": "LorenDB"
+    },
+    {
+      "rank": 23,
+      "title": "Why copper still rules the motherboard trace",
+      "url": "https://psyll.com/articles/technology/why-copper-still-rules-the-motherboard-trace",
+      "hn_url": "https://news.ycombinator.com/item?id=49017741",
+      "score": 4,
+      "comments": 2,
+      "author": "lucasfletcher"
+    },
+    {
+      "rank": 24,
+      "title": "Self-contained highly-portable Python distributions",
+      "url": "https://gregoryszorc.com/docs/python-build-standalone/main/",
+      "hn_url": "https://news.ycombinator.com/item?id=49073942",
+      "score": 141,
+      "comments": 31,
+      "author": "jcbhmr"
+    },
+    {
+      "rank": 25,
+      "title": "Securing Services with Rootless Containers",
+      "url": "https://blog.coderspirit.xyz/blog/2026/07/06/securing-services-with-rootless-containers/",
+      "hn_url": "https://news.ycombinator.com/item?id=49021024",
+      "score": 91,
+      "comments": 28,
+      "author": "speckx"
+    }
+  ]
+}

@@ -1,0 +1,457 @@
+{
+  "source": "polymarket",
+  "label": "Polymarket — top 24h volume",
+  "fetched_at": "2026-07-28T08:09:42.279Z",
+  "items": [
+    {
+      "rank": 1,
+      "title": "Will the Fed decrease interest rates by 50+ bps after the July 2026 meeting?",
+      "url": "https://polymarket.com/event/fed-decision-in-july-181",
+      "volume_24h": 3300845.045679,
+      "volume_total": 17773359.755827915,
+      "liquidity": 3279559.2551,
+      "yes_price": 0.0015,
+      "leader": {
+        "name": "No",
+        "price": 0.9985
+      },
+      "end_date": "2026-07-29T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "US announces halt in Iran offensive operations by July 31?",
+      "url": "https://polymarket.com/event/us-announces-halt-in-iran-offensive-operations-byptptpt-20260718015003096",
+      "volume_24h": 2685245.547285999,
+      "volume_total": 3167940.501667999,
+      "liquidity": 12186750.70903,
+      "yes_price": 0.9995,
+      "leader": {
+        "name": "Yes",
+        "price": 0.9995
+      },
+      "end_date": "2026-08-31T23:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Will Adanech Abiebie be the next Prime Minister of Ethiopia?",
+      "url": "https://polymarket.com/event/next-prime-minister-of-ethiopia",
+      "volume_24h": 1592999.9633330002,
+      "volume_total": 51661045.68707718,
+      "liquidity": 20748.9668,
+      "yes_price": 0.002,
+      "leader": {
+        "name": "No",
+        "price": 0.998
+      },
+      "end_date": "2026-06-01T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Strait of Hormuz traffic returns to normal by July 31?",
+      "url": "https://polymarket.com/event/strait-of-hormuz-traffic-returns-to-normal-by-july-31",
+      "volume_24h": 363374.36912899994,
+      "volume_total": 21578003.759396303,
+      "liquidity": 588594.92527,
+      "yes_price": 0.0035,
+      "leader": {
+        "name": "No",
+        "price": 0.9965
+      },
+      "end_date": "2026-07-31T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Cleveland Guardians vs. Cincinnati Reds",
+      "url": "https://polymarket.com/event/mlb-cle-cin-2026-07-27",
+      "volume_24h": 303671.36474300374,
+      "volume_total": 305570.22987999616,
+      "liquidity": 30473.7445,
+      "yes_price": 0.415,
+      "leader": {
+        "name": "Cincinnati Reds",
+        "price": 0.585
+      },
+      "end_date": "2026-08-03T23:10:00Z",
+      "outcomes": [
+        "Cleveland Guardians",
+        "Cincinnati Reds"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Strait of Hormuz traffic returns to normal by August 31?",
+      "url": "https://polymarket.com/event/strait-of-hormuz-traffic-returns-to-normal-by-august-31-20260702154212320",
+      "volume_24h": 281744.61559400003,
+      "volume_total": 3387839.808206991,
+      "liquidity": 476348.9509,
+      "yes_price": 0.125,
+      "leader": {
+        "name": "No",
+        "price": 0.875
+      },
+      "end_date": "2026-08-31T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "US x Iran Effective Ceasefire by July 24?",
+      "url": "https://polymarket.com/event/us-x-iran-effective-ceasfire-byptptpt-2-week-pause-20260715194822042",
+      "volume_24h": 276927.963695,
+      "volume_total": 2116340.5895970003,
+      "liquidity": 68667.43006,
+      "yes_price": 0.5285,
+      "leader": {
+        "name": "Yes",
+        "price": 0.5285
+      },
+      "end_date": "2026-07-24T23:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Kharg Island no longer under Iranian control by July 31?",
+      "url": "https://polymarket.com/event/kharg-island-no-longer-under-iranian-control-by-march-31",
+      "volume_24h": 246259.04998,
+      "volume_total": 5276124.474214998,
+      "liquidity": 269788.84301,
+      "yes_price": 0.004,
+      "leader": {
+        "name": "No",
+        "price": 0.996
+      },
+      "end_date": "2026-06-30T23:55:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Will the U.S. invade Iran before 2027?",
+      "url": "https://polymarket.com/event/will-the-us-invade-iran-before-2027",
+      "volume_24h": 224641.87549399998,
+      "volume_total": 48750491.542021796,
+      "liquidity": 780060.9332,
+      "yes_price": 0.215,
+      "leader": {
+        "name": "No",
+        "price": 0.785
+      },
+      "end_date": "2026-12-31T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Israel x Iran ceasefire continues through July 27?",
+      "url": "https://polymarket.com/event/israel-x-iran-ceasefire-continues-throughptptpt-20260716224448963",
+      "volume_24h": 215444.311429,
+      "volume_total": 477374.6958589996,
+      "liquidity": 125181.56103,
+      "yes_price": 0.9995,
+      "leader": {
+        "name": "Yes",
+        "price": 0.9995
+      },
+      "end_date": "2026-07-27T23:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 11,
+      "title": "Will Bitcoin reach $67,500 in July?",
+      "url": "https://polymarket.com/event/what-price-will-bitcoin-hit-in-july-2026",
+      "volume_24h": 200482.46925600004,
+      "volume_total": 2371438.579149011,
+      "liquidity": 28876.0883,
+      "yes_price": 0.09,
+      "leader": {
+        "name": "No",
+        "price": 0.91
+      },
+      "end_date": "2026-08-01T04:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 12,
+      "title": "Will the price of Bitcoin be above $56,000 on July 28?",
+      "url": "https://polymarket.com/event/bitcoin-above-on-july-28-2026",
+      "volume_24h": 187923.614124,
+      "volume_total": 188063.643124,
+      "liquidity": 41276.71184,
+      "yes_price": 0.9995,
+      "leader": {
+        "name": "Yes",
+        "price": 0.9995
+      },
+      "end_date": "2026-07-28T16:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 13,
+      "title": "Will WTI Crude Oil (WTI) hit (HIGH) $100 in July?",
+      "url": "https://polymarket.com/event/what-price-will-wti-hit-in-july-2026",
+      "volume_24h": 180982.61153700002,
+      "volume_total": 1322750.1593280013,
+      "liquidity": 77023.22679,
+      "yes_price": 0.0135,
+      "leader": {
+        "name": "No",
+        "price": 0.9865
+      },
+      "end_date": "2026-08-01T03:59:59.999Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 14,
+      "title": "LoL: Kiwoom DRX vs KT Rolster (BO3) - KeSPA Cup Last Chance Qualifier",
+      "url": "https://polymarket.com/event/lol-drx-kt-2026-07-28",
+      "volume_24h": 164113.56964099995,
+      "volume_total": 164113.56964100004,
+      "liquidity": 27720.2134,
+      "yes_price": 0.335,
+      "leader": {
+        "name": "KT Rolster",
+        "price": 0.665
+      },
+      "end_date": "2026-07-28T14:00:00Z",
+      "outcomes": [
+        "Kiwoom DRX",
+        "KT Rolster"
+      ]
+    },
+    {
+      "rank": 15,
+      "title": "Targu Mures: Francesca Jones vs Chloe Paquet",
+      "url": "https://polymarket.com/event/wta-jones-paquet-2026-07-28",
+      "volume_24h": 158443.886311,
+      "volume_total": 169088.54909000025,
+      "liquidity": 46482.3605,
+      "yes_price": 0.775,
+      "leader": {
+        "name": "Francesca Jones",
+        "price": 0.775
+      },
+      "end_date": "2026-08-04T08:00:00Z",
+      "outcomes": [
+        "Francesca Jones",
+        "Chloe Paquet"
+      ]
+    },
+    {
+      "rank": 16,
+      "title": "Will Nicolás Maduro be the leader of Venezuela end of 2026?",
+      "url": "https://polymarket.com/event/venezuela-leader-end-of-2026",
+      "volume_24h": 157162.3564679999,
+      "volume_total": 2479261.0600549607,
+      "liquidity": 54158.17268,
+      "yes_price": 0.8225,
+      "leader": {
+        "name": "Yes",
+        "price": 0.8225
+      },
+      "end_date": "2026-12-31T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 17,
+      "title": "Will Turkey join the Abraham Accords before 2027?",
+      "url": "https://polymarket.com/event/which-country-will-join-abraham-accords-before-2027",
+      "volume_24h": 153319.75133300002,
+      "volume_total": 293874.10805999977,
+      "liquidity": 14765.28016,
+      "yes_price": 0.066,
+      "leader": {
+        "name": "No",
+        "price": 0.934
+      },
+      "end_date": "2026-12-31T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 18,
+      "title": "Will no Fed rate cuts happen in 2026?",
+      "url": "https://polymarket.com/event/how-many-fed-rate-cuts-in-2026",
+      "volume_24h": 147448.70082800003,
+      "volume_total": 6534207.491727995,
+      "liquidity": 137156.79867,
+      "yes_price": 0.8525,
+      "leader": {
+        "name": "Yes",
+        "price": 0.8525
+      },
+      "end_date": "2026-12-31T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 19,
+      "title": "Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?",
+      "url": "https://polymarket.com/event/uefa-champions-league-2027-champion-20260701202025549",
+      "volume_24h": 143911.94,
+      "volume_total": 167869.176,
+      "liquidity": 144923.90179,
+      "yes_price": 0.0005,
+      "leader": {
+        "name": "No",
+        "price": 0.9995
+      },
+      "end_date": "2027-05-30T23:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 20,
+      "title": "Will NVIDIA be the largest company in the world by market cap on July 31?",
+      "url": "https://polymarket.com/event/largest-company-end-of-july-20260624192302727",
+      "volume_24h": 143515.35161199994,
+      "volume_total": 2158578.735287991,
+      "liquidity": 38578.8692,
+      "yes_price": 0.195,
+      "leader": {
+        "name": "No",
+        "price": 0.805
+      },
+      "end_date": "2026-07-31T23:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 21,
+      "title": "Will Elon Musk post 320-339 tweets from July 21 to July 28, 2026?",
+      "url": "https://polymarket.com/event/elon-musk-of-tweets-july-21-july-28",
+      "volume_24h": 134344.67012,
+      "volume_total": 288845.06178000005,
+      "liquidity": 19948.85553,
+      "yes_price": 0.002,
+      "leader": {
+        "name": "No",
+        "price": 0.998
+      },
+      "end_date": "2026-07-28T16:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 22,
+      "title": "Will Rodina gain the most seats in the next Russian parliamentary election?",
+      "url": "https://polymarket.com/event/which-party-will-gain-most-seats-in-russian-parliamentary-election",
+      "volume_24h": 130886.882,
+      "volume_total": 1961174.9022550276,
+      "liquidity": 155869.12546,
+      "yes_price": 0.0015,
+      "leader": {
+        "name": "No",
+        "price": 0.9985
+      },
+      "end_date": "2026-09-30T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 23,
+      "title": "Israel closes its airspace by July 31?",
+      "url": "https://polymarket.com/event/israel-closes-its-airspace-by",
+      "volume_24h": 113745.831107,
+      "volume_total": 2749417.761659005,
+      "liquidity": 100663.9971,
+      "yes_price": 0.0325,
+      "leader": {
+        "name": "No",
+        "price": 0.9675
+      },
+      "end_date": "2026-07-31T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 24,
+      "title": "Fed rate hike in 2026?",
+      "url": "https://polymarket.com/event/fed-rate-hike-in-2026",
+      "volume_24h": 107731.09780699998,
+      "volume_total": 4846276.287305008,
+      "liquidity": 186300.1703,
+      "yes_price": 0.775,
+      "leader": {
+        "name": "Yes",
+        "price": 0.775
+      },
+      "end_date": "2026-12-09T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 25,
+      "title": "US announces end of Iranian blockade by July 31, 2026?",
+      "url": "https://polymarket.com/event/us-announces-end-of-iranian-blockade-byptptpt-20260713152715080",
+      "volume_24h": 106706.524018,
+      "volume_total": 708127.6207060015,
+      "liquidity": 28972.2893,
+      "yes_price": 0.135,
+      "leader": {
+        "name": "No",
+        "price": 0.865
+      },
+      "end_date": "2026-07-31T23:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    }
+  ]
+}
