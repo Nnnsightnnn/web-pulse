@@ -1,7 +1,7 @@
 {
   "source": "huggingface",
   "label": "Hugging Face — trending models",
-  "fetched_at": "2026-07-28T08:09:42.268Z",
+  "fetched_at": "2026-07-28T08:10:48.870Z",
   "items": [
     {
       "rank": 1,
@@ -9,8 +9,8 @@
       "url": "https://huggingface.co/moonshotai/Kimi-K3",
       "author": "moonshotai",
       "downloads": 2850,
-      "likes": 7118,
-      "trending_score": 6659,
+      "likes": 7121,
+      "trending_score": 6660,
       "pipeline_tag": "image-text-to-text",
       "last_modified": "2026-07-27T16:29:18.000Z"
     },
@@ -43,7 +43,7 @@
       "author": "DavidAU",
       "downloads": 634146,
       "likes": 782,
-      "trending_score": 568,
+      "trending_score": 567,
       "pipeline_tag": "image-text-to-text",
       "last_modified": "2026-07-28T01:07:24.000Z"
     },
@@ -87,7 +87,7 @@
       "author": "thinkingmachines",
       "downloads": 36196,
       "likes": 1616,
-      "trending_score": 272,
+      "trending_score": 271,
       "pipeline_tag": "image-text-to-text",
       "last_modified": "2026-07-23T17:27:17.000Z"
     },
@@ -208,7 +208,7 @@
       "author": "Motif-Technologies",
       "downloads": 2532,
       "likes": 203,
-      "trending_score": 136,
+      "trending_score": 135,
       "pipeline_tag": "text-generation",
       "last_modified": "2026-07-22T12:22:18.000Z"
     },
@@ -258,17 +258,6 @@
     },
     {
       "rank": 24,
-      "title": "LuffyTheFox/Qwen3.6-35B-A3B-Uncensored-Genesis-Hermes-V5-GGUF",
-      "url": "https://huggingface.co/LuffyTheFox/Qwen3.6-35B-A3B-Uncensored-Genesis-Hermes-V5-GGUF",
-      "author": "LuffyTheFox",
-      "downloads": 83658,
-      "likes": 191,
-      "trending_score": 104,
-      "pipeline_tag": "image-text-to-text",
-      "last_modified": "2026-07-27T18:31:20.000Z"
-    },
-    {
-      "rank": 25,
       "title": "microsoft/Mage-Flow-Edit-Turbo",
       "url": "https://huggingface.co/microsoft/Mage-Flow-Edit-Turbo",
       "author": "microsoft",
@@ -277,6 +266,17 @@
       "trending_score": 104,
       "pipeline_tag": "image-to-image",
       "last_modified": "2026-07-23T03:15:16.000Z"
+    },
+    {
+      "rank": 25,
+      "title": "LuffyTheFox/Qwen3.6-35B-A3B-Uncensored-Genesis-Hermes-V5-GGUF",
+      "url": "https://huggingface.co/LuffyTheFox/Qwen3.6-35B-A3B-Uncensored-Genesis-Hermes-V5-GGUF",
+      "author": "LuffyTheFox",
+      "downloads": 83658,
+      "likes": 191,
+      "trending_score": 102,
+      "pipeline_tag": "image-text-to-text",
+      "last_modified": "2026-07-27T18:31:20.000Z"
     }
   ]
 }

@@ -1,14 +1,14 @@
 {
   "source": "hackernews",
   "label": "Hacker News — top stories",
-  "fetched_at": "2026-07-28T08:09:42.256Z",
+  "fetched_at": "2026-07-28T08:10:49.193Z",
   "items": [
     {
       "rank": 1,
       "title": "7.1 Earthquake in Japan",
       "url": "https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en",
       "hn_url": "https://news.ycombinator.com/item?id=49080664",
-      "score": 52,
+      "score": 54,
       "comments": 2,
       "author": "krembo"
     },
@@ -17,8 +17,8 @@
       "title": "Our position on open-weights models",
       "url": "https://www.anthropic.com/news/position-open-weights-models",
       "hn_url": "https://news.ycombinator.com/item?id=49076057",
-      "score": 836,
-      "comments": 1208,
+      "score": 837,
+      "comments": 1211,
       "author": "surprisetalk"
     },
     {
@@ -62,7 +62,7 @@
       "title": "Benchmarking Opus 5 on SlopCodeBench",
       "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md",
       "hn_url": "https://news.ycombinator.com/item?id=49076391",
-      "score": 261,
+      "score": 262,
       "comments": 58,
       "author": "dhorthy"
     },
@@ -71,7 +71,7 @@
       "title": "Vehicle Motion Cues",
       "url": "https://support.apple.com/guide/iphone/iphone-comfortably-riding-a-vehicle-iph55564cb22/ios",
       "hn_url": "https://news.ycombinator.com/item?id=49077999",
-      "score": 81,
+      "score": 83,
       "comments": 35,
       "author": "Austin_Conlon"
     },
@@ -117,7 +117,7 @@
       "url": "https://telnyx.com/release-notes/kimi-k3-telnyx-inference",
       "hn_url": "https://news.ycombinator.com/item?id=49076505",
       "score": 72,
-      "comments": 25,
+      "comments": 26,
       "author": "fionaattelnyx"
     },
     {
@@ -167,15 +167,6 @@
     },
     {
       "rank": 19,
-      "title": "An Uncomplicated Man – A review of The Odyssey, directed by Christopher Nolan",
-      "url": "https://www.lrb.co.uk/the-paper/v48/n14/emily-wilson/an-uncomplicated-man",
-      "hn_url": "https://news.ycombinator.com/item?id=49078575",
-      "score": 79,
-      "comments": 50,
-      "author": "andsoitis"
-    },
-    {
-      "rank": 20,
       "title": "Three Theses on the Literacy Crisis",
       "url": "https://trevoraleo.substack.com/p/three-theses-on-the-literacy-crisis",
       "hn_url": "https://news.ycombinator.com/item?id=49050021",
@@ -184,7 +175,7 @@
       "author": "samclemens"
     },
     {
-      "rank": 21,
+      "rank": 20,
       "title": "Some combinatorial applications of spacefilling curves",
       "url": "https://www2.isye.gatech.edu/~jjb/research/mow/mow.html",
       "hn_url": "https://news.ycombinator.com/item?id=49049724",
@@ -193,7 +184,7 @@
       "author": "shraiwi"
     },
     {
-      "rank": 22,
+      "rank": 21,
       "title": "Ray tracing massive amounts of animated geometry using tetrahedral cages",
       "url": "https://gpuopen.com/learn/ray-tracing-massive-amounts-animated-geometry/",
       "hn_url": "https://news.ycombinator.com/item?id=49021007",
@@ -202,13 +193,22 @@
       "author": "LorenDB"
     },
     {
-      "rank": 23,
+      "rank": 22,
       "title": "Why copper still rules the motherboard trace",
       "url": "https://psyll.com/articles/technology/why-copper-still-rules-the-motherboard-trace",
       "hn_url": "https://news.ycombinator.com/item?id=49017741",
       "score": 4,
       "comments": 2,
       "author": "lucasfletcher"
+    },
+    {
+      "rank": 23,
+      "title": "An Uncomplicated Man – A review of The Odyssey, directed by Christopher Nolan",
+      "url": "https://www.lrb.co.uk/the-paper/v48/n14/emily-wilson/an-uncomplicated-man",
+      "hn_url": "https://news.ycombinator.com/item?id=49078575",
+      "score": 79,
+      "comments": 52,
+      "author": "andsoitis"
     },
     {
       "rank": 24,

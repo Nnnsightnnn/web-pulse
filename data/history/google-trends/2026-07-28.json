@@ -1,7 +1,7 @@
 {
   "source": "google-trends",
   "label": "Google Trends — trending searches",
-  "fetched_at": "2026-07-28T08:09:42.031Z",
+  "fetched_at": "2026-07-28T08:10:49.120Z",
   "countries": [
     "US",
     "GB",
@@ -195,9 +195,9 @@
         "IN"
       ],
       "traffic_estimate": 500,
-      "news_title": "શ્રીલંકા પ્રવાસ માટે ભારતીય ટેસ્ટ ટીમની જાહેરાત: શુભમન ગિલ કેપ્ટન, આ ખેલાડીની સરપ્રાઈઝ એન્ટ્રી",
-      "news_url": "https://www.gujaratsamachar.com/news/sports/indian-test-team-announced-for-sri-lanka-tour-shubman-gill-captain-this-players-surprise-entry-95233503692",
-      "news_source": "Gujarat Samachar"
+      "news_title": "શ્રીલંકા ટેસ્ટ સિરીઝ માટે ભારતીય ટીમની જાહેરાત: કેએલ રાહુલ વાઈસ કેપ્ટન, જાડેજાની વાપસી; 33 વર્ષીય સારાંશ જૈ...",
+      "news_url": "https://www.divyabhaskar.co.in/sports/cricket/news/india-sri-lanka-test-squad-jadeja-bumrah-kl-rahul-update-138561550.html",
+      "news_source": "Divya Bhaskar"
     },
     {
       "rank": 18,
@@ -223,6 +223,17 @@
     },
     {
       "rank": 20,
+      "title": "ジェフ千葉",
+      "geos": [
+        "JP"
+      ],
+      "traffic_estimate": 500,
+      "news_title": "高橋壱晟が加入＝Ｊ１神戸",
+      "news_url": "https://sp.m.jiji.com/article/show/3833012",
+      "news_source": "時事通信ニュース"
+    },
+    {
+      "rank": 21,
       "title": "テレビ",
       "geos": [
         "JP"
@@ -233,7 +244,7 @@
       "news_source": "現代ビジネス"
     },
     {
-      "rank": 21,
+      "rank": 22,
       "title": "関東大震災",
       "geos": [
         "JP"
@@ -244,7 +255,7 @@
       "news_source": ""
     },
     {
-      "rank": 22,
+      "rank": 23,
       "title": "finanzkrise",
       "geos": [
         "DE"
@@ -255,7 +266,7 @@
       "news_source": "ZDFheute"
     },
     {
-      "rank": 23,
+      "rank": 24,
       "title": "地震",
       "geos": [
         "US"
@@ -266,7 +277,7 @@
       "news_source": "中华网"
     },
     {
-      "rank": 24,
+      "rank": 25,
       "title": "new york times",
       "geos": [
         "US"
@@ -275,17 +286,6 @@
       "news_title": "Trump Allowed by Judge to Amend $15 Billion Suit Against NYT",
       "news_url": "https://www.bloomberg.com/news/articles/2026-07-27/trump-allowed-by-judge-to-amend-15-billion-suit-against-nyt",
       "news_source": "Bloomberg.com"
-    },
-    {
-      "rank": 25,
-      "title": "mars rover",
-      "geos": [
-        "US"
-      ],
-      "traffic_estimate": 200,
-      "news_title": "Curiosity Mars rover inspects cracked wheel photo of the day for July 27, 2026",
-      "news_url": "https://www.space.com/space-exploration/mars-rovers/curiosity-mars-rover-inspects-cracked-wheel-space-photo-of-the-day-for-july-24-2026",
-      "news_source": "Space"
     }
   ]
 }

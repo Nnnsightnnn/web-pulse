@@ -1,7 +1,7 @@
 {
   "source": "cloudflare-radar",
   "label": "Cloudflare Radar — top domains",
-  "fetched_at": "2026-07-28T08:10:49.553Z",
+  "fetched_at": "2026-07-29T08:10:52.428Z",
   "configured": true,
   "items": [
     {
@@ -180,8 +180,8 @@
       "title": "akadns.net",
       "url": "https://akadns.net",
       "category": "Content Servers",
-      "rank_delta_7d": 0,
-      "prev_rank_7d": 20,
+      "rank_delta_7d": 1,
+      "prev_rank_7d": 21,
       "is_new_to_top": false
     },
     {
@@ -189,33 +189,33 @@
       "title": "icloud.com",
       "url": "https://icloud.com",
       "category": "File Sharing",
-      "rank_delta_7d": 0,
-      "prev_rank_7d": 21,
+      "rank_delta_7d": -1,
+      "prev_rank_7d": 20,
       "is_new_to_top": false
     },
     {
       "rank": 22,
-      "title": "ntp.org",
-      "url": "https://ntp.org",
-      "category": "Technology",
-      "rank_delta_7d": 3,
-      "prev_rank_7d": 25,
-      "is_new_to_top": false
-    },
-    {
-      "rank": 23,
       "title": "cdninstagram.com",
       "url": "https://cdninstagram.com",
       "category": "Content Servers",
-      "rank_delta_7d": 1,
+      "rank_delta_7d": 2,
       "prev_rank_7d": 24,
       "is_new_to_top": false
     },
     {
-      "rank": 24,
+      "rank": 23,
       "title": "aaplimg.com",
       "url": "https://aaplimg.com",
       "category": "Information Technology",
+      "rank_delta_7d": 2,
+      "prev_rank_7d": 25,
+      "is_new_to_top": false
+    },
+    {
+      "rank": 24,
+      "title": "ntp.org",
+      "url": "https://ntp.org",
+      "category": "Technology",
       "rank_delta_7d": 2,
       "prev_rank_7d": 26,
       "is_new_to_top": false
