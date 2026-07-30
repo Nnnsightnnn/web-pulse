@@ -1,0 +1,330 @@
+{
+  "source": "stackoverflow",
+  "label": "Stack Overflow — hot questions",
+  "fetched_at": "2026-07-30T08:10:45.246Z",
+  "items": [
+    {
+      "rank": 1,
+      "title": "Best way to store a JS accessible and amateur user editable spreadsheet",
+      "url": "https://stackoverflow.com/questions/79989105/best-way-to-store-a-js-accessible-and-amateur-user-editable-spreadsheet",
+      "score": -1,
+      "answers": 0,
+      "views": 38,
+      "tags": [
+        "advice",
+        "best-practices",
+        "javascript",
+        "fetch-api",
+        "xlsx"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "PostgreSQL reappearing after reinstallation",
+      "url": "https://stackoverflow.com/questions/79989104/postgresql-reappearing-after-reinstallation",
+      "score": -2,
+      "answers": 0,
+      "views": 20,
+      "tags": [
+        "postgresql"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Reddit Bot request got rejected by reddit and show me \"Something went wrong logging in\"",
+      "url": "https://stackoverflow.com/questions/79989112/reddit-bot-request-got-rejected-by-reddit-and-show-me-something-went-wrong-logg",
+      "score": -1,
+      "answers": 0,
+      "views": 20,
+      "tags": [
+        "python",
+        "playwright",
+        "reddit"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Pixi Game Embedded in a Page Using Shadow DOM Forces the Page to Refresh on iOS",
+      "url": "https://stackoverflow.com/questions/79989099/pixi-game-embedded-in-a-page-using-shadow-dom-forces-the-page-to-refresh-on-ios",
+      "score": 2,
+      "answers": 2,
+      "views": 14,
+      "tags": [
+        "ios",
+        "page-refresh",
+        "pixi.js",
+        "howler.js",
+        "shadow-root"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Why do custom gradient and clip path coordinates shift during SVG export in desktop vector tools?",
+      "url": "https://stackoverflow.com/questions/79989108/why-do-custom-gradient-and-clip-path-coordinates-shift-during-svg-export-in-desk",
+      "score": 0,
+      "answers": 0,
+      "views": 15,
+      "tags": [
+        "svg"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Overlapping M4 windows return duplicate, out-of-order timestamps",
+      "url": "https://stackoverflow.com/questions/79989109/overlapping-m4-windows-return-duplicate-out-of-order-timestamps",
+      "score": 0,
+      "answers": 0,
+      "views": 11,
+      "tags": [
+        "time-series",
+        "apache-iotdb"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "How to securely call OpenAI API from a Flutter Web app without exposing the API key?",
+      "url": "https://stackoverflow.com/questions/79989092/how-to-securely-call-openai-api-from-a-flutter-web-app-without-exposing-the-api",
+      "score": 0,
+      "answers": 1,
+      "views": 40,
+      "tags": [
+        "advice",
+        "flutter"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Sudoku solver for Challenge #21 no loger finds solutions after \"improvement\"",
+      "url": "https://stackoverflow.com/questions/79989090/sudoku-solver-for-challenge-21-no-loger-finds-solutions-after-improvement",
+      "score": -3,
+      "answers": 0,
+      "views": 47,
+      "tags": [
+        "c",
+        "recursion"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Why a decimal-form INT64 filter matches the neighboring work-order ID?",
+      "url": "https://stackoverflow.com/questions/79989082/why-a-decimal-form-int64-filter-matches-the-neighboring-work-order-id",
+      "score": 1,
+      "answers": 1,
+      "views": 35,
+      "tags": [
+        "time-series",
+        "apache-iotdb"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Can't start or connect to SQL server in MAC",
+      "url": "https://stackoverflow.com/questions/79989080/cant-start-or-connect-to-sql-server-in-mac",
+      "score": -3,
+      "answers": 0,
+      "views": 31,
+      "tags": [
+        "mysql-workbench"
+      ]
+    },
+    {
+      "rank": 11,
+      "title": "How can a single-page web app let whitelisted IPs bypass OIDC login?",
+      "url": "https://stackoverflow.com/questions/79989064/how-can-a-single-page-web-app-let-whitelisted-ips-bypass-oidc-login",
+      "score": 0,
+      "answers": 1,
+      "views": 39,
+      "tags": [
+        "javascript",
+        "authentication",
+        "amazon-cognito",
+        "single-page-application",
+        "oidc-client-js"
+      ]
+    },
+    {
+      "rank": 12,
+      "title": "Pycharm error while configuring PySpark (Select Content Root Directory)",
+      "url": "https://stackoverflow.com/questions/79989089/pycharm-error-while-configuring-pyspark-select-content-root-directory",
+      "score": 0,
+      "answers": 0,
+      "views": 13,
+      "tags": [
+        "pyspark",
+        "pycharm"
+      ]
+    },
+    {
+      "rank": 13,
+      "title": "yaml.scanner.ScannerError: mapping values are not allowed here - error when trying to use Detectron2 for layout mapping in WSL2 in Windows 11",
+      "url": "https://stackoverflow.com/questions/79989086/yaml-scanner-scannererror-mapping-values-are-not-allowed-here-error-when-tryi",
+      "score": 0,
+      "answers": 0,
+      "views": 12,
+      "tags": [
+        "python",
+        "yaml",
+        "detectron",
+        "pdf-extraction"
+      ]
+    },
+    {
+      "rank": 14,
+      "title": "Is there a Reason Creating IFormFile from stored image won't open",
+      "url": "https://stackoverflow.com/questions/79989061/is-there-a-reason-creating-iformfile-from-stored-image-wont-open",
+      "score": 0,
+      "answers": 2,
+      "views": 40,
+      "tags": [
+        "c#",
+        "iformfile",
+        ".net-10.0"
+      ]
+    },
+    {
+      "rank": 15,
+      "title": "How to compare a flow<string> and a string in an if statement",
+      "url": "https://stackoverflow.com/questions/79989059/how-to-compare-a-flowstring-and-a-string-in-an-if-statement",
+      "score": 1,
+      "answers": 1,
+      "views": 29,
+      "tags": [
+        "kotlin"
+      ]
+    },
+    {
+      "rank": 16,
+      "title": "Constraint Programming beginner -- why aren't my constraints showing up?",
+      "url": "https://stackoverflow.com/questions/79989072/constraint-programming-beginner-why-arent-my-constraints-showing-up",
+      "score": -2,
+      "answers": 0,
+      "views": 35,
+      "tags": [
+        "python",
+        "or-tools",
+        "constraint-programming"
+      ]
+    },
+    {
+      "rank": 17,
+      "title": "Hahn Air Ticketing issue",
+      "url": "https://stackoverflow.com/questions/79989070/hahn-air-ticketing-issue",
+      "score": -4,
+      "answers": 0,
+      "views": 34,
+      "tags": [
+        "c#",
+        "air",
+        "ticket-system"
+      ]
+    },
+    {
+      "rank": 18,
+      "title": "Machine learning methods for classifying open vs. closed curves with only 12 training samples (no pretraining or handcrafted features)",
+      "url": "https://stackoverflow.com/questions/79989058/machine-learning-methods-for-classifying-open-vs-closed-curves-with-only-12-tra",
+      "score": -1,
+      "answers": 0,
+      "views": 34,
+      "tags": [
+        "advice",
+        "tooling-recommendation",
+        "machine-learning",
+        "few-shot-learning"
+      ]
+    },
+    {
+      "rank": 19,
+      "title": "Optimize query to reduce the downtime",
+      "url": "https://stackoverflow.com/questions/79989076/optimize-query-to-reduce-the-downtime",
+      "score": -3,
+      "answers": 0,
+      "views": 36,
+      "tags": [
+        "sql",
+        "query-optimization"
+      ]
+    },
+    {
+      "rank": 20,
+      "title": "How to fix this error \"Failed to apply plugin 'dev.flutter.flutter-gradle-plugin' \"?",
+      "url": "https://stackoverflow.com/questions/79989068/how-to-fix-this-error-failed-to-apply-plugin-dev-flutter-flutter-gradle-plugin",
+      "score": 0,
+      "answers": 0,
+      "views": 32,
+      "tags": [
+        "java",
+        "android",
+        "flutter",
+        "kotlin",
+        "gradle"
+      ]
+    },
+    {
+      "rank": 21,
+      "title": "PXE boot live Ubuntu Server for Burst on|off workloads on this storageless 384gb Ram server i am commissioning. HPE Proliant DL360 Gen 9... noob",
+      "url": "https://stackoverflow.com/questions/79989077/pxe-boot-live-ubuntu-server-for-burst-onoff-workloads-on-this-storageless-384gb",
+      "score": -4,
+      "answers": 0,
+      "views": 24,
+      "tags": [
+        "artificial-intelligence",
+        "ram",
+        "ubuntu-server",
+        "rag",
+        "ipxe"
+      ]
+    },
+    {
+      "rank": 22,
+      "title": "Copy to stdout with CSV header always hangs",
+      "url": "https://stackoverflow.com/questions/79988040/copy-to-stdout-with-csv-header-always-hangs",
+      "score": 0,
+      "answers": 0,
+      "views": 54,
+      "tags": [
+        "python",
+        "psycopg3"
+      ]
+    },
+    {
+      "rank": 23,
+      "title": "Color structures and constants for embedded display",
+      "url": "https://stackoverflow.com/questions/79988036/color-structures-and-constants-for-embedded-display",
+      "score": 1,
+      "answers": 0,
+      "views": 76,
+      "tags": [
+        "c",
+        "struct",
+        "macros",
+        "constants",
+        "compile-time-constant"
+      ]
+    },
+    {
+      "rank": 24,
+      "title": "JavaScript for a collapsible which expands on click",
+      "url": "https://stackoverflow.com/questions/79988009/javascript-for-a-collapsible-which-expands-on-click",
+      "score": -1,
+      "answers": 2,
+      "views": 118,
+      "tags": [
+        "javascript",
+        "html",
+        "css"
+      ]
+    },
+    {
+      "rank": 25,
+      "title": "Angular 22.1 update failing Cannot read properties of undefined (reading 'filter')",
+      "url": "https://stackoverflow.com/questions/79988033/angular-22-1-update-failing-cannot-read-properties-of-undefined-reading-filter",
+      "score": 0,
+      "answers": 1,
+      "views": 69,
+      "tags": [
+        "angular",
+        "angular-cli"
+      ]
+    }
+  ]
+}

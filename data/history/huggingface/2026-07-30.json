@@ -1,0 +1,282 @@
+{
+  "source": "huggingface",
+  "label": "Hugging Face — trending models",
+  "fetched_at": "2026-07-30T08:10:45.133Z",
+  "items": [
+    {
+      "rank": 1,
+      "title": "moonshotai/Kimi-K3",
+      "url": "https://huggingface.co/moonshotai/Kimi-K3",
+      "author": "moonshotai",
+      "downloads": 99214,
+      "likes": 8784,
+      "trending_score": 7973,
+      "pipeline_tag": "image-text-to-text",
+      "last_modified": "2026-07-27T16:29:18.000Z"
+    },
+    {
+      "rank": 2,
+      "title": "baidu/Unlimited-OCR",
+      "url": "https://huggingface.co/baidu/Unlimited-OCR",
+      "author": "baidu",
+      "downloads": 2694935,
+      "likes": 3532,
+      "trending_score": 613,
+      "pipeline_tag": "image-text-to-text",
+      "last_modified": "2026-07-29T04:34:16.000Z"
+    },
+    {
+      "rank": 3,
+      "title": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+      "url": "https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+      "author": "DavidAU",
+      "downloads": 736692,
+      "likes": 970,
+      "trending_score": 571,
+      "pipeline_tag": "image-text-to-text",
+      "last_modified": "2026-07-29T07:43:02.000Z"
+    },
+    {
+      "rank": 4,
+      "title": "poolside/Laguna-S-2.1",
+      "url": "https://huggingface.co/poolside/Laguna-S-2.1",
+      "author": "poolside",
+      "downloads": 67286,
+      "likes": 834,
+      "trending_score": 375,
+      "pipeline_tag": "text-generation",
+      "last_modified": "2026-07-27T11:25:04.000Z"
+    },
+    {
+      "rank": 5,
+      "title": "Kwaipilot/KAT-Coder-V2.5-Dev",
+      "url": "https://huggingface.co/Kwaipilot/KAT-Coder-V2.5-Dev",
+      "author": "Kwaipilot",
+      "downloads": 6275,
+      "likes": 327,
+      "trending_score": 323,
+      "pipeline_tag": "text-generation",
+      "last_modified": "2026-07-28T04:35:27.000Z"
+    },
+    {
+      "rank": 6,
+      "title": "Nanbeige/Nanbeige4.2-3B",
+      "url": "https://huggingface.co/Nanbeige/Nanbeige4.2-3B",
+      "author": "Nanbeige",
+      "downloads": 18933,
+      "likes": 561,
+      "trending_score": 293,
+      "pipeline_tag": "text-generation",
+      "last_modified": "2026-07-28T12:47:15.000Z"
+    },
+    {
+      "rank": 7,
+      "title": "upstage/Solar-Open2-250B",
+      "url": "https://huggingface.co/upstage/Solar-Open2-250B",
+      "author": "upstage",
+      "downloads": 4804,
+      "likes": 702,
+      "trending_score": 285,
+      "pipeline_tag": "text-generation",
+      "last_modified": "2026-07-27T10:30:02.000Z"
+    },
+    {
+      "rank": 8,
+      "title": "owensong/Inflect-Micro-v2",
+      "url": "https://huggingface.co/owensong/Inflect-Micro-v2",
+      "author": "owensong",
+      "downloads": 645,
+      "likes": 293,
+      "trending_score": 284,
+      "pipeline_tag": "text-to-speech",
+      "last_modified": "2026-07-30T01:42:28.000Z"
+    },
+    {
+      "rank": 9,
+      "title": "zai-org/GLM-5.2",
+      "url": "https://huggingface.co/zai-org/GLM-5.2",
+      "author": "zai-org",
+      "downloads": 1267198,
+      "likes": 4651,
+      "trending_score": 237,
+      "pipeline_tag": "text-generation",
+      "last_modified": "2026-07-02T08:08:14.000Z"
+    },
+    {
+      "rank": 10,
+      "title": "microsoft/Fara1.5-27B",
+      "url": "https://huggingface.co/microsoft/Fara1.5-27B",
+      "author": "microsoft",
+      "downloads": 1543,
+      "likes": 209,
+      "trending_score": 183,
+      "pipeline_tag": "image-text-to-text",
+      "last_modified": "2026-07-27T16:07:09.000Z"
+    },
+    {
+      "rank": 11,
+      "title": "unsloth/Kimi-K3",
+      "url": "https://huggingface.co/unsloth/Kimi-K3",
+      "author": "unsloth",
+      "downloads": 410,
+      "likes": 171,
+      "trending_score": 169,
+      "pipeline_tag": "image-text-to-text",
+      "last_modified": "2026-07-28T06:38:35.000Z"
+    },
+    {
+      "rank": 12,
+      "title": "unsloth/Kimi-K3-GGUF",
+      "url": "https://huggingface.co/unsloth/Kimi-K3-GGUF",
+      "author": "unsloth",
+      "downloads": 0,
+      "likes": 172,
+      "trending_score": 169,
+      "pipeline_tag": "image-text-to-text",
+      "last_modified": "2026-07-29T18:03:55.000Z"
+    },
+    {
+      "rank": 13,
+      "title": "thinkingmachines/Inkling",
+      "url": "https://huggingface.co/thinkingmachines/Inkling",
+      "author": "thinkingmachines",
+      "downloads": 39052,
+      "likes": 1643,
+      "trending_score": 146,
+      "pipeline_tag": "image-text-to-text",
+      "last_modified": "2026-07-23T17:27:17.000Z"
+    },
+    {
+      "rank": 14,
+      "title": "fdtn-ai/antares-1b",
+      "url": "https://huggingface.co/fdtn-ai/antares-1b",
+      "author": "fdtn-ai",
+      "downloads": 7666,
+      "likes": 235,
+      "trending_score": 133,
+      "pipeline_tag": "text-generation",
+      "last_modified": "2026-07-22T13:48:41.000Z"
+    },
+    {
+      "rank": 15,
+      "title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "url": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "author": "HauhauCS",
+      "downloads": 1855505,
+      "likes": 3176,
+      "trending_score": 125,
+      "pipeline_tag": "image-text-to-text",
+      "last_modified": "2026-04-17T02:59:21.000Z"
+    },
+    {
+      "rank": 16,
+      "title": "prism-ml/Ternary-Bonsai-27B-gguf",
+      "url": "https://huggingface.co/prism-ml/Ternary-Bonsai-27B-gguf",
+      "author": "prism-ml",
+      "downloads": 665427,
+      "likes": 1102,
+      "trending_score": 124,
+      "pipeline_tag": "text-generation",
+      "last_modified": "2026-07-18T06:05:31.000Z"
+    },
+    {
+      "rank": 17,
+      "title": "nota-ai/Solar-Open2-250B-Nota-NVFP4",
+      "url": "https://huggingface.co/nota-ai/Solar-Open2-250B-Nota-NVFP4",
+      "author": "nota-ai",
+      "downloads": 6189,
+      "likes": 143,
+      "trending_score": 119,
+      "pipeline_tag": "text-generation",
+      "last_modified": "2026-07-23T07:40:28.000Z"
+    },
+    {
+      "rank": 18,
+      "title": "unsloth/Laguna-S-2.1-GGUF",
+      "url": "https://huggingface.co/unsloth/Laguna-S-2.1-GGUF",
+      "author": "unsloth",
+      "downloads": 129601,
+      "likes": 249,
+      "trending_score": 118,
+      "pipeline_tag": "text-generation",
+      "last_modified": "2026-07-27T00:15:55.000Z"
+    },
+    {
+      "rank": 19,
+      "title": "LuffyTheFox/Qwen3.6-35B-A3B-Uncensored-Genesis-Hermes-V6-GGUF",
+      "url": "https://huggingface.co/LuffyTheFox/Qwen3.6-35B-A3B-Uncensored-Genesis-Hermes-V6-GGUF",
+      "author": "LuffyTheFox",
+      "downloads": 99660,
+      "likes": 224,
+      "trending_score": 116,
+      "pipeline_tag": "image-text-to-text",
+      "last_modified": "2026-07-30T07:35:53.000Z"
+    },
+    {
+      "rank": 20,
+      "title": "owensong/Inflect-Nano-v2",
+      "url": "https://huggingface.co/owensong/Inflect-Nano-v2",
+      "author": "owensong",
+      "downloads": 434,
+      "likes": 112,
+      "trending_score": 111,
+      "pipeline_tag": "text-to-speech",
+      "last_modified": "2026-07-30T01:45:52.000Z"
+    },
+    {
+      "rank": 21,
+      "title": "microsoft/VibeVoice-ASR-BitNet",
+      "url": "https://huggingface.co/microsoft/VibeVoice-ASR-BitNet",
+      "author": "microsoft",
+      "downloads": 1754,
+      "likes": 111,
+      "trending_score": 109,
+      "pipeline_tag": "automatic-speech-recognition",
+      "last_modified": "2026-07-24T06:03:32.000Z"
+    },
+    {
+      "rank": 22,
+      "title": "microsoft/Mage-VL",
+      "url": "https://huggingface.co/microsoft/Mage-VL",
+      "author": "microsoft",
+      "downloads": 702,
+      "likes": 104,
+      "trending_score": 103,
+      "pipeline_tag": "image-text-to-text",
+      "last_modified": "2026-07-29T10:11:30.000Z"
+    },
+    {
+      "rank": 23,
+      "title": "ATH-MaaS/OvisOCR2",
+      "url": "https://huggingface.co/ATH-MaaS/OvisOCR2",
+      "author": "ATH-MaaS",
+      "downloads": 47129,
+      "likes": 348,
+      "trending_score": 96,
+      "pipeline_tag": "image-text-to-text",
+      "last_modified": "2026-07-16T02:30:50.000Z"
+    },
+    {
+      "rank": 24,
+      "title": "baseten/GLM-5.2-Vision-NVFP4",
+      "url": "https://huggingface.co/baseten/GLM-5.2-Vision-NVFP4",
+      "author": "baseten",
+      "downloads": 2756,
+      "likes": 137,
+      "trending_score": 95,
+      "pipeline_tag": "image-text-to-text",
+      "last_modified": "2026-07-21T23:15:45.000Z"
+    },
+    {
+      "rank": 25,
+      "title": "moonshotai/Kimi-K2.7-Code",
+      "url": "https://huggingface.co/moonshotai/Kimi-K2.7-Code",
+      "author": "moonshotai",
+      "downloads": 681111,
+      "likes": 1337,
+      "trending_score": 91,
+      "pipeline_tag": "image-text-to-text",
+      "last_modified": "2026-06-15T07:49:29.000Z"
+    }
+  ]
+}
