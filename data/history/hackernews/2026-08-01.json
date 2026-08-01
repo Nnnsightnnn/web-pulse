@@ -1,0 +1,232 @@
+{
+  "source": "hackernews",
+  "label": "Hacker News — top stories",
+  "fetched_at": "2026-08-01T08:11:23.098Z",
+  "items": [
+    {
+      "rank": 1,
+      "title": "Ten advances in mathematics and theoretical computer science",
+      "url": "https://openai.com/index/ten-advances-in-mathematics/",
+      "hn_url": "https://news.ycombinator.com/item?id=49132058",
+      "score": 37,
+      "comments": 7,
+      "author": "milkshakes"
+    },
+    {
+      "rank": 2,
+      "title": "Elevators",
+      "url": "https://john.fun/elevators",
+      "hn_url": "https://news.ycombinator.com/item?id=49124218",
+      "score": 1230,
+      "comments": 294,
+      "author": "Jrh0203"
+    },
+    {
+      "rank": 3,
+      "title": "Flint: A Visualization Language for the AI Era",
+      "url": "https://microsoft.github.io/flint-chart/",
+      "hn_url": "https://news.ycombinator.com/item?id=49130604",
+      "score": 97,
+      "comments": 31,
+      "author": "vinhnx"
+    },
+    {
+      "rank": 4,
+      "title": "How to Exist",
+      "url": "https://www.raptitude.com/2026/07/how-to-exist/",
+      "hn_url": "https://news.ycombinator.com/item?id=49129990",
+      "score": 165,
+      "comments": 91,
+      "author": "walterbell"
+    },
+    {
+      "rank": 5,
+      "title": "qm – Multiplayer agent harness for work",
+      "url": "https://github.com/yc-software/qm",
+      "hn_url": "https://news.ycombinator.com/item?id=49126604",
+      "score": 547,
+      "comments": 113,
+      "author": "tosh"
+    },
+    {
+      "rank": 6,
+      "title": "The development pipeline is a production system",
+      "url": "https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system",
+      "hn_url": "https://news.ycombinator.com/item?id=49130726",
+      "score": 67,
+      "comments": 22,
+      "author": "firefoxd"
+    },
+    {
+      "rank": 7,
+      "title": "Software for One",
+      "url": "https://www.ajwaxman.com/writing/software-for-one",
+      "hn_url": "https://news.ycombinator.com/item?id=49096605",
+      "score": 91,
+      "comments": 72,
+      "author": "awaxman11"
+    },
+    {
+      "rank": 8,
+      "title": "Progressive Web Components",
+      "url": "https://arielsalminen.com/2026/progressive-web-components/",
+      "hn_url": "https://news.ycombinator.com/item?id=49121196",
+      "score": 146,
+      "comments": 26,
+      "author": "hosteur"
+    },
+    {
+      "rank": 9,
+      "title": "Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
+      "url": "https://blog.google/security/chrome-stronger-with-every-update/",
+      "hn_url": "https://news.ycombinator.com/item?id=49120097",
+      "score": 499,
+      "comments": 516,
+      "author": "Garbage"
+    },
+    {
+      "rank": 10,
+      "title": "Attention Decode on AMD MI450 GPUs: A Gluon Kernel Optimization Guide",
+      "url": "https://rocm.blogs.amd.com/software-tools-optimization/gluon-attention-decode-mi450/README.html",
+      "hn_url": "https://news.ycombinator.com/item?id=49077646",
+      "score": 19,
+      "comments": 0,
+      "author": "matt_d"
+    },
+    {
+      "rank": 11,
+      "title": "A tiny holdout building in the middle of Macy’s is back in view",
+      "url": "https://ephemeralnewyork.wordpress.com/2026/07/27/hidden-by-billboards-for-over-100-years-the-tiny-holdout-building-in-the-middle-of-macys-is-back-in-view/",
+      "hn_url": "https://news.ycombinator.com/item?id=49091614",
+      "score": 15,
+      "comments": 4,
+      "author": "donohoe"
+    },
+    {
+      "rank": 12,
+      "title": "The Absurdity of Albert Camus",
+      "url": "https://www.historytoday.com/archive/portrait-author-historian/absurdity-albert-camus",
+      "hn_url": "https://news.ycombinator.com/item?id=49117089",
+      "score": 105,
+      "comments": 53,
+      "author": "apollinaire"
+    },
+    {
+      "rank": 13,
+      "title": "Run Kimi K3 using 29 GB of RAM at 0.50 tok/s",
+      "url": "https://github.com/sqliteai/waste",
+      "hn_url": "https://news.ycombinator.com/item?id=49123386",
+      "score": 235,
+      "comments": 96,
+      "author": "marcobambini"
+    },
+    {
+      "rank": 14,
+      "title": "A week in Matrix",
+      "url": "https://piegames.de/dumps/a-week-in-matrix/",
+      "hn_url": "https://news.ycombinator.com/item?id=49130295",
+      "score": 53,
+      "comments": 30,
+      "author": "Kesseki"
+    },
+    {
+      "rank": 15,
+      "title": "Getting 25 Gbps Thunderbolt Ethernet on My Mac Studio",
+      "url": "https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/",
+      "hn_url": "https://news.ycombinator.com/item?id=49125034",
+      "score": 184,
+      "comments": 95,
+      "author": "speckx"
+    },
+    {
+      "rank": 16,
+      "title": "June in Servo: real world compat, media queries, SharedWorker, and more",
+      "url": "https://servo.org/blog/2026/07/31/june-in-servo/",
+      "hn_url": "https://news.ycombinator.com/item?id=49126765",
+      "score": 136,
+      "comments": 46,
+      "author": "iamnothere"
+    },
+    {
+      "rank": 17,
+      "title": "Ten Ways NAS Is Getting Enshitified",
+      "url": "https://nascompares.com/2026/07/31/the-10-ways-nas-is-getting-enshitified/",
+      "hn_url": "https://news.ycombinator.com/item?id=49131367",
+      "score": 50,
+      "comments": 41,
+      "author": "giuliomagnifico"
+    },
+    {
+      "rank": 18,
+      "title": "Long Range Wi-Fi – Pushing 2.4 GHz Wi-Fi to the limits (2019)",
+      "url": "https://www.phidgets.com/?view=articles&article=LongRangeWifi",
+      "hn_url": "https://news.ycombinator.com/item?id=49084005",
+      "score": 47,
+      "comments": 30,
+      "author": "rzk"
+    },
+    {
+      "rank": 19,
+      "title": "Big Food vs. the People",
+      "url": "https://www.lighthousereports.com/investigation/big-food-vs-the-people/",
+      "hn_url": "https://news.ycombinator.com/item?id=49124858",
+      "score": 225,
+      "comments": 143,
+      "author": "jruohonen"
+    },
+    {
+      "rank": 20,
+      "title": "Golang proposal: container/: generic collection types",
+      "url": "https://github.com/golang/go/issues/80590",
+      "hn_url": "https://news.ycombinator.com/item?id=49127031",
+      "score": 147,
+      "comments": 114,
+      "author": "jabits"
+    },
+    {
+      "rank": 21,
+      "title": "Increasing the lifespan of a bulb makes it worse in every other way",
+      "url": "https://maurycyz.com/misc/tungsten/",
+      "hn_url": "https://news.ycombinator.com/item?id=49121849",
+      "score": 72,
+      "comments": 71,
+      "author": "tonyg"
+    },
+    {
+      "rank": 22,
+      "title": "Demystifying DRAM Read Disturbance: RowHammer and RowPress Phenomena",
+      "url": "https://arxiv.org/abs/2607.28233",
+      "hn_url": "https://news.ycombinator.com/item?id=49128323",
+      "score": 48,
+      "comments": 26,
+      "author": "Jimmc414"
+    },
+    {
+      "rank": 23,
+      "title": "Let's make the worst Htmx",
+      "url": "https://zserge.com/posts/worst-htmx-ever/",
+      "hn_url": "https://news.ycombinator.com/item?id=49119270",
+      "score": 94,
+      "comments": 30,
+      "author": "RebelPotato"
+    },
+    {
+      "rank": 24,
+      "title": "The most official water costs $120k a gallon",
+      "url": "https://signoregalilei.com/2026/07/26/the-most-official-water-costs-120000-a-gallon/",
+      "hn_url": "https://news.ycombinator.com/item?id=49124042",
+      "score": 177,
+      "comments": 144,
+      "author": "surprisetalk"
+    },
+    {
+      "rank": 25,
+      "title": "When Internal Memory Fails: A No-Solder Wii U Recovery",
+      "url": "https://smolnero.com/posts/when-internal-memory-fails-a-no-solder-wii-u-recovery",
+      "hn_url": "https://news.ycombinator.com/item?id=49084215",
+      "score": 7,
+      "comments": 1,
+      "author": "edgar_ortega"
+    }
+  ]
+}
