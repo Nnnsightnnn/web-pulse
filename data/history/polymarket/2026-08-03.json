@@ -1,0 +1,457 @@
+{
+  "source": "polymarket",
+  "label": "Polymarket — top 24h volume",
+  "fetched_at": "2026-08-03T08:15:09.486Z",
+  "items": [
+    {
+      "rank": 1,
+      "title": "Mubadala Citi DC Open: Jessica Pegula vs Alexandra Eala",
+      "url": "https://polymarket.com/event/wta-pegula-eala-2026-08-02",
+      "volume_24h": 1670108.8955119997,
+      "volume_total": 1699272.6704970005,
+      "liquidity": 197483.7674,
+      "yes_price": 0.805,
+      "leader": {
+        "name": "Jessica Pegula",
+        "price": 0.805
+      },
+      "end_date": "2026-08-09T21:00:00Z",
+      "outcomes": [
+        "Jessica Pegula",
+        "Alexandra Eala"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Will Tucker Carlson win the 2028 Republican presidential nomination?",
+      "url": "https://polymarket.com/event/republican-presidential-nominee-2028",
+      "volume_24h": 798100.074888,
+      "volume_total": 12833857.677357,
+      "liquidity": 405756.18935,
+      "yes_price": 0.0165,
+      "leader": {
+        "name": "No",
+        "price": 0.9835
+      },
+      "end_date": "2028-11-07T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Strait of Hormuz traffic returns to normal by August 31?",
+      "url": "https://polymarket.com/event/strait-of-hormuz-traffic-returns-to-normal-by-august-31-20260702154212320",
+      "volume_24h": 625829.6393299999,
+      "volume_total": 5774134.778497002,
+      "liquidity": 627971.9526,
+      "yes_price": 0.115,
+      "leader": {
+        "name": "No",
+        "price": 0.885
+      },
+      "end_date": "2026-08-31T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Canadian Open: Aleksandar Kovacevic vs Nuno Borges",
+      "url": "https://polymarket.com/event/atp-kovacev-borges-2026-08-03",
+      "volume_24h": 614987.3949509998,
+      "volume_total": 626514.5365769998,
+      "liquidity": 96528.0705,
+      "yes_price": 0.255,
+      "leader": {
+        "name": "Nuno Borges",
+        "price": 0.745
+      },
+      "end_date": "2026-08-10T14:00:00Z",
+      "outcomes": [
+        "Aleksandar Kovacevic",
+        "Nuno Borges"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Will the U.S. invade Iran before 2027?",
+      "url": "https://polymarket.com/event/will-the-us-invade-iran-before-2027",
+      "volume_24h": 536151.7859920001,
+      "volume_total": 54760089.42324002,
+      "liquidity": 1558235.4317,
+      "yes_price": 0.195,
+      "leader": {
+        "name": "No",
+        "price": 0.805
+      },
+      "end_date": "2026-12-31T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Mubadala Citi DC Open: Taylor Fritz vs Rafael Jodar",
+      "url": "https://polymarket.com/event/atp-fritz-jodar-2026-08-02",
+      "volume_24h": 466829.00797300035,
+      "volume_total": 471837.71431800013,
+      "liquidity": 258838.7799,
+      "yes_price": 0.615,
+      "leader": {
+        "name": "Taylor Fritz",
+        "price": 0.615
+      },
+      "end_date": "2026-08-09T18:30:00Z",
+      "outcomes": [
+        "Taylor Fritz",
+        "Rafael Jodar"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "LoL: Gen.G vs Hanwha Life Esports (BO3) - KeSPA Cup Last Chance Qualifier",
+      "url": "https://polymarket.com/event/lol-gen-hle1-2026-08-03",
+      "volume_24h": 464498.27178199997,
+      "volume_total": 467504.9678940001,
+      "liquidity": 206275.9834,
+      "yes_price": 0.295,
+      "leader": {
+        "name": "Hanwha Life Esports",
+        "price": 0.705
+      },
+      "end_date": "2026-08-03T14:00:00Z",
+      "outcomes": [
+        "Gen.G",
+        "Hanwha Life Esports"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Will Trump speak to Emmanuel Macron in July?",
+      "url": "https://polymarket.com/event/who-will-trump-speak-to-in-july-20260626154217421",
+      "volume_24h": 463877.39440199995,
+      "volume_total": 548495.7803740001,
+      "liquidity": 78288.24356,
+      "yes_price": 0.005,
+      "leader": {
+        "name": "No",
+        "price": 0.995
+      },
+      "end_date": "2026-07-31T23:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "National Bank Open: Michael Zheng vs Miomir Kecmanovic",
+      "url": "https://polymarket.com/event/atp-zheng-kecmano-2026-08-02",
+      "volume_24h": 446492.5475449997,
+      "volume_total": 447725.7377940002,
+      "liquidity": 75813.3378,
+      "yes_price": 0.585,
+      "leader": {
+        "name": "Michael Zheng",
+        "price": 0.585
+      },
+      "end_date": "2026-08-09T15:00:00Z",
+      "outcomes": [
+        "Michael Zheng",
+        "Miomir Kecmanovic"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Israel x Iran ceasefire continues through August 2?",
+      "url": "https://polymarket.com/event/israel-x-iran-ceasefire-continues-throughptptpt-20260716224448963",
+      "volume_24h": 403335.58021399984,
+      "volume_total": 2721427.070687,
+      "liquidity": 261645.64302,
+      "yes_price": 0.9985,
+      "leader": {
+        "name": "Yes",
+        "price": 0.9985
+      },
+      "end_date": "2026-08-02T23:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 11,
+      "title": "US x Iran Effective Ceasefire by July 31?",
+      "url": "https://polymarket.com/event/us-x-iran-effective-ceasfire-byptptpt-2-week-pause-20260715194822042",
+      "volume_24h": 383578.0067649997,
+      "volume_total": 4545590.866734,
+      "liquidity": 66449.9915,
+      "yes_price": 0.605,
+      "leader": {
+        "name": "Yes",
+        "price": 0.605
+      },
+      "end_date": "2026-07-31T23:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 12,
+      "title": "Dota 2: GLYPH vs PlayTime - Game 2 Winner",
+      "url": "https://polymarket.com/event/dota2-glyph-playti-2026-08-03",
+      "volume_24h": 357518.76781799993,
+      "volume_total": 353810.68370500015,
+      "liquidity": 361108.04473,
+      "yes_price": 0.9995,
+      "leader": {
+        "name": "GLYPH",
+        "price": 0.9995
+      },
+      "end_date": "2026-08-03T11:15:00Z",
+      "outcomes": [
+        "GLYPH",
+        "PlayTime"
+      ]
+    },
+    {
+      "rank": 13,
+      "title": "Philadelphia Phillies vs. Baltimore Orioles",
+      "url": "https://polymarket.com/event/mlb-phi-bal-2026-08-02",
+      "volume_24h": 331418.0412280003,
+      "volume_total": 384928.2719820001,
+      "liquidity": 149135.82976,
+      "yes_price": 0.9995,
+      "leader": {
+        "name": "Philadelphia Phillies",
+        "price": 0.9995
+      },
+      "end_date": "2026-08-09T17:35:00Z",
+      "outcomes": [
+        "Philadelphia Phillies",
+        "Baltimore Orioles"
+      ]
+    },
+    {
+      "rank": 14,
+      "title": "Will Wes Moore win the 2028 Democratic presidential nomination?",
+      "url": "https://polymarket.com/event/democratic-presidential-nominee-2028",
+      "volume_24h": 312717.29506,
+      "volume_total": 17423796.672415003,
+      "liquidity": 396298.43024,
+      "yes_price": 0.0145,
+      "leader": {
+        "name": "No",
+        "price": 0.9855
+      },
+      "end_date": "2028-11-07T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 15,
+      "title": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
+      "url": "https://polymarket.com/event/fed-decision-in-september-762",
+      "volume_24h": 312089.57581,
+      "volume_total": 2646710.8846379993,
+      "liquidity": 642618.2152,
+      "yes_price": 0.565,
+      "leader": {
+        "name": "Yes",
+        "price": 0.565
+      },
+      "end_date": "2026-09-16T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 16,
+      "title": "Trump out as President by August 31?",
+      "url": "https://polymarket.com/event/trump-out-as-president-by-august-31-20260730185655928",
+      "volume_24h": 211068.728405,
+      "volume_total": 260761.983452,
+      "liquidity": 341878.14371,
+      "yes_price": 0.0085,
+      "leader": {
+        "name": "No",
+        "price": 0.9915
+      },
+      "end_date": "2026-08-31T23:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 17,
+      "title": "Strait of Hormuz traffic returns to normal by December 31?",
+      "url": "https://polymarket.com/event/strait-of-hormuz-traffic-returns-to-normal-by-december-31",
+      "volume_24h": 196335.457836,
+      "volume_total": 6787630.453513,
+      "liquidity": 265639.7989,
+      "yes_price": 0.575,
+      "leader": {
+        "name": "Yes",
+        "price": 0.575
+      },
+      "end_date": "2026-12-31T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 18,
+      "title": "Strait of Hormuz traffic returns to normal by July 31?",
+      "url": "https://polymarket.com/event/strait-of-hormuz-traffic-returns-to-normal-by-july-31",
+      "volume_24h": 193367.01,
+      "volume_total": 24006747.180813003,
+      "liquidity": 1743588.90506,
+      "yes_price": 0.0005,
+      "leader": {
+        "name": "No",
+        "price": 0.9995
+      },
+      "end_date": "2026-07-31T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 19,
+      "title": "Will Thomas Massie win the 2028 US Presidential Election?",
+      "url": "https://polymarket.com/event/presidential-election-winner-2028",
+      "volume_24h": 181578.929998,
+      "volume_total": 7880961.905735999,
+      "liquidity": 418290.71189,
+      "yes_price": 0.0165,
+      "leader": {
+        "name": "No",
+        "price": 0.9835
+      },
+      "end_date": "2028-11-07T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 20,
+      "title": "Canadian Open: Matteo Berrettini vs Mariano Navone",
+      "url": "https://polymarket.com/event/atp-berrett-navone-2026-08-03",
+      "volume_24h": 153486.94873099995,
+      "volume_total": 167325.66608499998,
+      "liquidity": 169632.0856,
+      "yes_price": 0.635,
+      "leader": {
+        "name": "Matteo Berrettini",
+        "price": 0.635
+      },
+      "end_date": "2026-08-10T14:00:00Z",
+      "outcomes": [
+        "Matteo Berrettini",
+        "Mariano Navone"
+      ]
+    },
+    {
+      "rank": 21,
+      "title": "Will WTI Crude Oil (WTI) hit (LOW) $60 in August?",
+      "url": "https://polymarket.com/event/what-price-will-wti-hit-in-august-2026",
+      "volume_24h": 152221.884937,
+      "volume_total": 173345.334486,
+      "liquidity": 128917.88258,
+      "yes_price": 0.0505,
+      "leader": {
+        "name": "No",
+        "price": 0.9495
+      },
+      "end_date": "2026-09-01T03:59:59.999Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 22,
+      "title": "Strait of Hormuz traffic returns to normal by September 30?",
+      "url": "https://polymarket.com/event/strait-of-hormuz-traffic-returns-to-normal-by-september-30-20260702154339440",
+      "volume_24h": 149755.845604,
+      "volume_total": 1597922.1729439998,
+      "liquidity": 280142.9752,
+      "yes_price": 0.235,
+      "leader": {
+        "name": "No",
+        "price": 0.765
+      },
+      "end_date": "2026-09-30T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 23,
+      "title": "Will Count Binface win the Clacton by-election?",
+      "url": "https://polymarket.com/event/clacton-by-election-winner-20260707143521303",
+      "volume_24h": 139983.30667299998,
+      "volume_total": 2082742.4649250002,
+      "liquidity": 242795.62683,
+      "yes_price": 0.017,
+      "leader": {
+        "name": "No",
+        "price": 0.983
+      },
+      "end_date": "2026-08-13T16:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 24,
+      "title": "National Bank Open: Yulia Putintseva vs Shuai Zhang",
+      "url": "https://polymarket.com/event/wta-putints-zhang-2026-08-03",
+      "volume_24h": 134845.187584,
+      "volume_total": 134929.36007400008,
+      "liquidity": 50691.6298,
+      "yes_price": 0.645,
+      "leader": {
+        "name": "Yulia Putintseva",
+        "price": 0.645
+      },
+      "end_date": "2026-08-10T14:00:00Z",
+      "outcomes": [
+        "Yulia Putintseva",
+        "Shuai Zhang"
+      ]
+    },
+    {
+      "rank": 25,
+      "title": "Will Elon Musk post 180-199 tweets from July 28 to August 4, 2026?",
+      "url": "https://polymarket.com/event/elon-musk-of-tweets-july-28-august-4",
+      "volume_24h": 133367.572522,
+      "volume_total": 267534.28245899995,
+      "liquidity": 33905.14681,
+      "yes_price": 0.0025,
+      "leader": {
+        "name": "No",
+        "price": 0.9975
+      },
+      "end_date": "2026-08-04T16:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    }
+  ]
+}

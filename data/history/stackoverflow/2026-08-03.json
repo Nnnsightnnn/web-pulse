@@ -1,0 +1,335 @@
+{
+  "source": "stackoverflow",
+  "label": "Stack Overflow — hot questions",
+  "fetched_at": "2026-08-03T08:15:09.152Z",
+  "items": [
+    {
+      "rank": 1,
+      "title": "Logging with Vertx and log4j2 failing at large number of request",
+      "url": "https://stackoverflow.com/questions/79990014/logging-with-vertx-and-log4j2-failing-at-large-number-of-request",
+      "score": 0,
+      "answers": 0,
+      "views": 19,
+      "tags": [
+        "java",
+        "log4j2",
+        "vert.x"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "L2 replay reorders records with identical timestamps; a common sort column errors with \"column does not exist\"",
+      "url": "https://stackoverflow.com/questions/79990020/l2-replay-reorders-records-with-identical-timestamps-a-common-sort-column-error",
+      "score": 0,
+      "answers": 0,
+      "views": 12,
+      "tags": [
+        "sorting",
+        "time-series",
+        "dolphindb"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "PostgreSQL Optimizer Mystery: Identical Environments, Different Execution Plans",
+      "url": "https://stackoverflow.com/questions/79990002/postgresql-optimizer-mystery-identical-environments-different-execution-plans",
+      "score": -1,
+      "answers": 0,
+      "views": 34,
+      "tags": [
+        "postgresql",
+        "performance",
+        "entity-framework-core",
+        "psql"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "YouTube Data API delivering too many playlist item pages",
+      "url": "https://stackoverflow.com/questions/79990008/youtube-data-api-delivering-too-many-playlist-item-pages",
+      "score": 0,
+      "answers": 0,
+      "views": 27,
+      "tags": [
+        "youtube-api",
+        "youtube-data-api"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Godot Google Play Billing ( I'm getting this result -> [IAP] Product not cached: coins_0.99 )",
+      "url": "https://stackoverflow.com/questions/79990005/godot-google-play-billing-im-getting-this-result-iap-product-not-cached",
+      "score": -1,
+      "answers": 0,
+      "views": 30,
+      "tags": [
+        "google-cloud-platform",
+        "in-app-billing",
+        "godot",
+        "android-billing",
+        "play-billing-library"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "How can I make a same-origin fetch request between two Docker containers?",
+      "url": "https://stackoverflow.com/questions/79989994/how-can-i-make-a-same-origin-fetch-request-between-two-docker-containers",
+      "score": 1,
+      "answers": 0,
+      "views": 48,
+      "tags": [
+        "docker-compose",
+        "traefik"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Custom GAM plots with inverse link",
+      "url": "https://stackoverflow.com/questions/79989998/custom-gam-plots-with-inverse-link",
+      "score": 0,
+      "answers": 0,
+      "views": 15,
+      "tags": [
+        "ggplot2",
+        "gam",
+        "gratia"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "How to fix adjustment responsive web on next js, and using tailwind css",
+      "url": "https://stackoverflow.com/questions/79989989/how-to-fix-adjustment-responsive-web-on-next-js-and-using-tailwind-css",
+      "score": -6,
+      "answers": 0,
+      "views": 58,
+      "tags": [
+        "next.js",
+        "tailwind-css"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Race condition on large systems",
+      "url": "https://stackoverflow.com/questions/79989959/race-condition-on-large-systems",
+      "score": -1,
+      "answers": 1,
+      "views": 58,
+      "tags": [
+        "best-practices",
+        "design-patterns",
+        "race-condition"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Weirdness with NSTextLists and UITextView",
+      "url": "https://stackoverflow.com/questions/79989973/weirdness-with-nstextlists-and-uitextview",
+      "score": 0,
+      "answers": 1,
+      "views": 51,
+      "tags": [
+        "macos",
+        "uitextview",
+        "textkit2"
+      ]
+    },
+    {
+      "rank": 11,
+      "title": "How can I (portably) determine the start time of program?",
+      "url": "https://stackoverflow.com/questions/79989876/how-can-i-portably-determine-the-start-time-of-program",
+      "score": 0,
+      "answers": 2,
+      "views": 171,
+      "tags": [
+        "c++",
+        "time",
+        "portability",
+        "static-initialization"
+      ]
+    },
+    {
+      "rank": 12,
+      "title": "What are the implementation trade-offs between RAG and Fine-Tuning for a domain-specific chatbot?",
+      "url": "https://stackoverflow.com/questions/79989981/what-are-the-implementation-trade-offs-between-rag-and-fine-tuning-for-a-domain",
+      "score": -4,
+      "answers": 0,
+      "views": 48,
+      "tags": [
+        "artificial-intelligence"
+      ]
+    },
+    {
+      "rank": 13,
+      "title": "ImportError: cannot import name 'BuildDependencyInstallError' while compiling Python Kivy 2.1.0 with Buildozer 1.4.0",
+      "url": "https://stackoverflow.com/questions/79989978/importerror-cannot-import-name-builddependencyinstallerror-while-compiling-py",
+      "score": 1,
+      "answers": 1,
+      "views": 44,
+      "tags": [
+        "python",
+        "pip",
+        "importerror",
+        "buildozer",
+        "python-3.10"
+      ]
+    },
+    {
+      "rank": 14,
+      "title": "How can I locate an element in a nested div without selecting the outer div?",
+      "url": "https://stackoverflow.com/questions/79989960/how-can-i-locate-an-element-in-a-nested-div-without-selecting-the-outer-div",
+      "score": 0,
+      "answers": 1,
+      "views": 80,
+      "tags": [
+        "javascript",
+        "ui-automation",
+        "playwright"
+      ]
+    },
+    {
+      "rank": 15,
+      "title": "Static Extension Method: CS0704: Cannot do non-virtual member lookup in 'type' because it is a type parameter?",
+      "url": "https://stackoverflow.com/questions/79989900/static-extension-method-cs0704-cannot-do-non-virtual-member-lookup-in-type-b",
+      "score": 4,
+      "answers": 2,
+      "views": 110,
+      "tags": [
+        "c#",
+        "generics",
+        "extension-methods",
+        ".net-generic-math"
+      ]
+    },
+    {
+      "rank": 16,
+      "title": "Best practice for serving shared HTML header/footer and extensionless URLs in static HTML",
+      "url": "https://stackoverflow.com/questions/79989896/best-practice-for-serving-shared-html-header-footer-and-extensionless-urls-in-st",
+      "score": 1,
+      "answers": 1,
+      "views": 49,
+      "tags": [
+        "best-practices",
+        "html",
+        "nginx",
+        "http-redirect",
+        "seo"
+      ]
+    },
+    {
+      "rank": 17,
+      "title": "Add information from response in HTML component",
+      "url": "https://stackoverflow.com/questions/79989970/add-information-from-response-in-html-component",
+      "score": 1,
+      "answers": 1,
+      "views": 48,
+      "tags": [
+        "angular"
+      ]
+    },
+    {
+      "rank": 18,
+      "title": "How do I create a Word (.docx) report with multiple interspersed bullet points from a template Word (.docx) using python-docx?",
+      "url": "https://stackoverflow.com/questions/79989937/how-do-i-create-a-word-docx-report-with-multiple-interspersed-bullet-points-f",
+      "score": 2,
+      "answers": 1,
+      "views": 65,
+      "tags": [
+        "python",
+        "docx",
+        "python-docx"
+      ]
+    },
+    {
+      "rank": 19,
+      "title": "How to go from a std::vector or std::deque to a std::initializer_list?",
+      "url": "https://stackoverflow.com/questions/79989839/how-to-go-from-a-stdvector-or-stddeque-to-a-stdinitializer-list",
+      "score": 2,
+      "answers": 1,
+      "views": 107,
+      "tags": [
+        "c++",
+        "boost-process",
+        "stdinitializerlist"
+      ]
+    },
+    {
+      "rank": 20,
+      "title": "Warnings about deleted constructors/operators/assignment operators",
+      "url": "https://stackoverflow.com/questions/79989884/warnings-about-deleted-constructors-operators-assignment-operators",
+      "score": 0,
+      "answers": 1,
+      "views": 131,
+      "tags": [
+        "c++",
+        "templates",
+        "compiler-warnings"
+      ]
+    },
+    {
+      "rank": 21,
+      "title": "Why does DP with optimal substructure sometimes not reduce to greedy, even when a choice looks obviously best?",
+      "url": "https://stackoverflow.com/questions/79989895/why-does-dp-with-optimal-substructure-sometimes-not-reduce-to-greedy-even-when",
+      "score": 2,
+      "answers": 1,
+      "views": 53,
+      "tags": [
+        "advice",
+        "algorithm",
+        "dynamic-programming",
+        "greedy",
+        "clrs"
+      ]
+    },
+    {
+      "rank": 22,
+      "title": "Problems formatting Rust code in presence of dioxus `rsx!` macro",
+      "url": "https://stackoverflow.com/questions/79989938/problems-formatting-rust-code-in-presence-of-dioxus-rsx-macro",
+      "score": -1,
+      "answers": 1,
+      "views": 69,
+      "tags": [
+        "rust",
+        "emacs",
+        "dioxus"
+      ]
+    },
+    {
+      "rank": 23,
+      "title": "Positioning plot legend",
+      "url": "https://stackoverflow.com/questions/79989961/positioning-plot-legend",
+      "score": -6,
+      "answers": 0,
+      "views": 53,
+      "tags": [
+        "python",
+        "matplotlib"
+      ]
+    },
+    {
+      "rank": 24,
+      "title": "How to link sort of stdlib_sorting in gfortran with program test2_sort.f90",
+      "url": "https://stackoverflow.com/questions/79989862/how-to-link-sort-of-stdlib-sorting-in-gfortran-with-program-test2-sort-f90",
+      "score": -1,
+      "answers": 0,
+      "views": 36,
+      "tags": [
+        "linker",
+        "fortran",
+        "linker-errors"
+      ]
+    },
+    {
+      "rank": 25,
+      "title": "Failed to create virtual environment in VS Code",
+      "url": "https://stackoverflow.com/questions/79989943/failed-to-create-virtual-environment-in-vs-code",
+      "score": 0,
+      "answers": 1,
+      "views": 68,
+      "tags": [
+        "python",
+        "visual-studio-code",
+        "virtual-environment"
+      ]
+    }
+  ]
+}
