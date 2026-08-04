@@ -1,7 +1,7 @@
 {
   "source": "google-trends",
   "label": "Google Trends — trending searches",
-  "fetched_at": "2026-08-03T08:15:09.315Z",
+  "fetched_at": "2026-08-03T08:16:20.580Z",
   "countries": [
     "US",
     "GB",
@@ -220,12 +220,23 @@
         "IN"
       ],
       "traffic_estimate": 1000,
-      "news_title": "बीजेपी नेता रमेश बिधूड़ी के वायरल बयान पर कांग्रेस ने क्या कहा",
-      "news_url": "https://www.bbc.com/hindi/live/c5y4ezwp9xkt",
-      "news_source": "BBC"
+      "news_title": "'जंतर-मंतर पर पंचर और चाबी बनाने वाले ज्यादा थे', छात्र आंदोलन पर भाजपा नेता रमेश बिधूड़ी का विवादित बयान",
+      "news_url": "https://www.aajtak.in/india/delhi/story/ramesh-bidhuri-statement-neet-protests-jantar-mantar-ntc-apdy-rpti-2613758-2026-08-02",
+      "news_source": "AajTak"
     },
     {
       "rank": 20,
+      "title": "tennis scores today",
+      "geos": [
+        "BR"
+      ],
+      "traffic_estimate": 1000,
+      "news_title": "Washington final delayed until Monday due to rain",
+      "news_url": "https://www.atptour.com/en/news/washington-2026-final-rain-delay",
+      "news_source": "ATP Tour"
+    },
+    {
+      "rank": 21,
       "title": "movie theaters near me",
       "geos": [
         "BR"
@@ -236,7 +247,7 @@
       "news_source": "WDW News Today"
     },
     {
-      "rank": 21,
+      "rank": 22,
       "title": "erdbeben ägypten",
       "geos": [
         "DE"
@@ -247,7 +258,7 @@
       "news_source": "FAZ"
     },
     {
-      "rank": 22,
+      "rank": 23,
       "title": "tornadoes",
       "geos": [
         "US"
@@ -258,7 +269,7 @@
       "news_source": "WKRC"
     },
     {
-      "rank": 23,
+      "rank": 24,
       "title": "कांवड़ यात्रा",
       "geos": [
         "IN"
@@ -269,7 +280,7 @@
       "news_source": "Dainik Bhaskar"
     },
     {
-      "rank": 24,
+      "rank": 25,
       "title": "भूख हड़ताल",
       "geos": [
         "IN"
@@ -278,17 +289,6 @@
       "news_title": "सोनम वांगचुक जैसी भूख हड़ताल, अभिजीत दीपके का सपोर्ट; झारखंड में क्यों प्रदर्शन कर रहे सैंकड़ों छात्र",
       "news_url": "https://www.livehindustan.com/jharkhand/why-jharkhand-students-protesting-cjp-supports-indefinite-hunger-strike-what-are-the-demands-201785732423301.html",
       "news_source": "Hindustan"
-    },
-    {
-      "rank": 25,
-      "title": "新型ハリアー",
-      "geos": [
-        "JP"
-      ],
-      "traffic_estimate": 500,
-      "news_title": "トヨタ、「ハリアー」一部改良でHEVモデルに一本化 価格439万6700円から",
-      "news_url": "https://car.watch.impress.co.jp/docs/news/2130033.html",
-      "news_source": "Car Watch"
     }
   ]
 }
