@@ -1,0 +1,321 @@
+{
+  "source": "stackoverflow",
+  "label": "Stack Overflow — hot questions",
+  "fetched_at": "2026-08-05T08:11:00.952Z",
+  "items": [
+    {
+      "rank": 1,
+      "title": "GitLab CI/CD job doesn't find \"main\" git branch",
+      "url": "https://stackoverflow.com/questions/79990607/gitlab-ci-cd-job-doesnt-find-main-git-branch",
+      "score": -3,
+      "answers": 1,
+      "views": 37,
+      "tags": [
+        "git",
+        "gitlab-ci"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Is fetching std::chrono::steady_clock inside a critical section necessary to theoretically align C++ happens-before with real-time order?",
+      "url": "https://stackoverflow.com/questions/79990614/is-fetching-stdchronosteady-clock-inside-a-critical-section-necessary-to-the",
+      "score": 0,
+      "answers": 1,
+      "views": 28,
+      "tags": [
+        "c++",
+        "language-lawyer",
+        "atomic"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Google Play Protect flags my Android app as harmful before publishing",
+      "url": "https://stackoverflow.com/questions/79990611/google-play-protect-flags-my-android-app-as-harmful-before-publishing",
+      "score": 0,
+      "answers": 0,
+      "views": 21,
+      "tags": [
+        "android",
+        "android-studio",
+        "google-play",
+        "apk",
+        "google-play-protect"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "How should multiple SaaS services share OAuth credentials without refresh-token synchronization issues?",
+      "url": "https://stackoverflow.com/questions/79990618/how-should-multiple-saas-services-share-oauth-credentials-without-refresh-token",
+      "score": -1,
+      "answers": 0,
+      "views": 17,
+      "tags": [
+        "django",
+        "oauth-2.0",
+        "microservices",
+        "access-token",
+        "distributed-system"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Play Framework's Json.format not working with our models after upgrading to Scala 3?",
+      "url": "https://stackoverflow.com/questions/79990606/play-frameworks-json-format-not-working-with-our-models-after-upgrading-to-scal",
+      "score": 0,
+      "answers": 1,
+      "views": 15,
+      "tags": [
+        "scala",
+        "playframework",
+        "scala-3",
+        "play-json"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Why does implementing index as Binary tree imply faster data access?",
+      "url": "https://stackoverflow.com/questions/79990583/why-does-implementing-index-as-binary-tree-imply-faster-data-access",
+      "score": -2,
+      "answers": 0,
+      "views": 37,
+      "tags": [
+        "advice",
+        "sql-server",
+        "indexing",
+        "data-structures"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "GET /resource/{name}/{id}) returns full entity:own columns, audit columns, and every mapper-level eager relationship (lazy=\"joined\"/\"selectin\")",
+      "url": "https://stackoverflow.com/questions/79990588/get-resource-name-id-returns-full-entityown-columns-audit-columns-and-e",
+      "score": -2,
+      "answers": 0,
+      "views": 35,
+      "tags": [
+        "best-practices",
+        "sqlalchemy"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Playwright with correct user",
+      "url": "https://stackoverflow.com/questions/79990596/playwright-with-correct-user",
+      "score": 0,
+      "answers": 0,
+      "views": 23,
+      "tags": [
+        "css",
+        "playwright"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "How to enable Highcharts Custom Events with Highcharts v12",
+      "url": "https://stackoverflow.com/questions/79990604/how-to-enable-highcharts-custom-events-with-highcharts-v12",
+      "score": 0,
+      "answers": 0,
+      "views": 19,
+      "tags": [
+        "angular",
+        "highcharts"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "What to do when an uncontrolled AI agent is unintentionally escaping the box? and how to build in the safety guard",
+      "url": "https://stackoverflow.com/questions/79990587/what-to-do-when-an-uncontrolled-ai-agent-is-unintentionally-escaping-the-box-an",
+      "score": -5,
+      "answers": 0,
+      "views": 53,
+      "tags": [
+        "best-practices",
+        "artificial-intelligence",
+        "agent"
+      ]
+    },
+    {
+      "rank": 11,
+      "title": "I need the path of the file that is invoking the launch of my Python application",
+      "url": "https://stackoverflow.com/questions/79990582/i-need-the-path-of-the-file-that-is-invoking-the-launch-of-my-python-application",
+      "score": 0,
+      "answers": 2,
+      "views": 37,
+      "tags": [
+        "python",
+        "path",
+        "launch"
+      ]
+    },
+    {
+      "rank": 12,
+      "title": "Javascript generator only running through one array",
+      "url": "https://stackoverflow.com/questions/79990584/javascript-generator-only-running-through-one-array",
+      "score": 1,
+      "answers": 0,
+      "views": 33,
+      "tags": [
+        "javascript",
+        "arrays",
+        "random",
+        "text"
+      ]
+    },
+    {
+      "rank": 13,
+      "title": "How to run a self-elevating (single) batch file from a network share?",
+      "url": "https://stackoverflow.com/questions/79990579/how-to-run-a-self-elevating-single-batch-file-from-a-network-share",
+      "score": 0,
+      "answers": 1,
+      "views": 31,
+      "tags": [
+        "batch-file",
+        "system-administration"
+      ]
+    },
+    {
+      "rank": 14,
+      "title": "How do I make this function NOT return a flow<string>?",
+      "url": "https://stackoverflow.com/questions/79990568/how-do-i-make-this-function-not-return-a-flowstring",
+      "score": -1,
+      "answers": 1,
+      "views": 72,
+      "tags": [
+        "kotlin",
+        "kotlin-flow"
+      ]
+    },
+    {
+      "rank": 15,
+      "title": "What is the practical difference between takeLatest and debounce in Redux Saga for a search bar?",
+      "url": "https://stackoverflow.com/questions/79990578/what-is-the-practical-difference-between-takelatest-and-debounce-in-redux-saga-f",
+      "score": -5,
+      "answers": 0,
+      "views": 24,
+      "tags": [
+        "best-practices"
+      ]
+    },
+    {
+      "rank": 16,
+      "title": "Adjusting time and space complexity of array manipulation",
+      "url": "https://stackoverflow.com/questions/79990563/adjusting-time-and-space-complexity-of-array-manipulation",
+      "score": 3,
+      "answers": 1,
+      "views": 65,
+      "tags": [
+        "python",
+        "arrays"
+      ]
+    },
+    {
+      "rank": 17,
+      "title": "unsubscribeTable doc example fails with \"needs 2 to 5 parameters\"; how do I pass actionName?",
+      "url": "https://stackoverflow.com/questions/79990564/unsubscribetable-doc-example-fails-with-needs-2-to-5-parameters-how-do-i-pass",
+      "score": 1,
+      "answers": 1,
+      "views": 24,
+      "tags": [
+        "streaming",
+        "persistence",
+        "dolphindb"
+      ]
+    },
+    {
+      "rank": 18,
+      "title": "Not able to use n8n for reading data from an Excel file which is on OneDrive",
+      "url": "https://stackoverflow.com/questions/79990565/not-able-to-use-n8n-for-reading-data-from-an-excel-file-which-is-on-onedrive",
+      "score": -3,
+      "answers": 0,
+      "views": 28,
+      "tags": [
+        "n8n"
+      ]
+    },
+    {
+      "rank": 19,
+      "title": "Why is only one of my tasks being cancelled in my python asyncio program?",
+      "url": "https://stackoverflow.com/questions/79990524/why-is-only-one-of-my-tasks-being-cancelled-in-my-python-asyncio-program",
+      "score": 0,
+      "answers": 1,
+      "views": 41,
+      "tags": [
+        "python",
+        "python-asyncio"
+      ]
+    },
+    {
+      "rank": 20,
+      "title": "Xero API: Updating purchase order billed column using API",
+      "url": "https://stackoverflow.com/questions/79990535/xero-api-updating-purchase-order-billed-column-using-api",
+      "score": -6,
+      "answers": 0,
+      "views": 52,
+      "tags": [
+        "xero-api"
+      ]
+    },
+    {
+      "rank": 21,
+      "title": "How to iterate through this table in python?",
+      "url": "https://stackoverflow.com/questions/79990509/how-to-iterate-through-this-table-in-python",
+      "score": -5,
+      "answers": 1,
+      "views": 91,
+      "tags": [
+        "python"
+      ]
+    },
+    {
+      "rank": 22,
+      "title": "Selecting non blank data in aggregation query",
+      "url": "https://stackoverflow.com/questions/79990469/selecting-non-blank-data-in-aggregation-query",
+      "score": 1,
+      "answers": 2,
+      "views": 81,
+      "tags": [
+        "sql",
+        "mysql"
+      ]
+    },
+    {
+      "rank": 23,
+      "title": "Check two T values for inequality/current INotifyPropertyChanged syntax sugar/best practices",
+      "url": "https://stackoverflow.com/questions/79990546/check-two-t-values-for-inequality-current-inotifypropertychanged-syntax-sugar-be",
+      "score": 1,
+      "answers": 0,
+      "views": 45,
+      "tags": [
+        "c#",
+        "mvvm",
+        "data-binding"
+      ]
+    },
+    {
+      "rank": 24,
+      "title": "Why is my C# code not finding the FuzzyHash in ssdeep?",
+      "url": "https://stackoverflow.com/questions/79990517/why-is-my-c-code-not-finding-the-fuzzyhash-in-ssdeep",
+      "score": -4,
+      "answers": 1,
+      "views": 57,
+      "tags": [
+        "c#"
+      ]
+    },
+    {
+      "rank": 25,
+      "title": "Python dataclasses - intercept field assignment",
+      "url": "https://stackoverflow.com/questions/79990537/python-dataclasses-intercept-field-assignment",
+      "score": 2,
+      "answers": 2,
+      "views": 65,
+      "tags": [
+        "python",
+        "pydantic",
+        "metaclass",
+        "python-dataclasses"
+      ]
+    }
+  ]
+}

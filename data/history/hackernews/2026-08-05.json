@@ -1,0 +1,232 @@
+{
+  "source": "hackernews",
+  "label": "Hacker News — top stories",
+  "fetched_at": "2026-08-05T08:11:01.048Z",
+  "items": [
+    {
+      "rank": 1,
+      "title": "Stateless MCP has recaptured my interest",
+      "url": "https://simonwillison.net/2026/Jul/31/stateless-mcp/",
+      "hn_url": "https://news.ycombinator.com/item?id=49131438",
+      "score": 149,
+      "comments": 74,
+      "author": "tosh"
+    },
+    {
+      "rank": 2,
+      "title": "\"Gravity is worth asking about.\"",
+      "url": "https://unsung.aresluna.org/gravity-is-worth-asking-about/",
+      "hn_url": "https://news.ycombinator.com/item?id=49105978",
+      "score": 29,
+      "comments": 13,
+      "author": "nozzlegear"
+    },
+    {
+      "rank": 3,
+      "title": "The Golden Age of British Ice Cream",
+      "url": "https://www.vittlesmagazine.com/p/the-golden-age-of-british-ice-cream",
+      "hn_url": "https://news.ycombinator.com/item?id=49172784",
+      "score": 48,
+      "comments": 31,
+      "author": "bryanrasmussen"
+    },
+    {
+      "rank": 4,
+      "title": "Pi's Minimalism Is Its Advantage",
+      "url": "https://earendil.com/posts/pi-autoresearch-and-databricks/",
+      "hn_url": "https://news.ycombinator.com/item?id=49176038",
+      "score": 316,
+      "comments": 123,
+      "author": "luispa"
+    },
+    {
+      "rank": 5,
+      "title": "The Pneumatics of Hero of Alexandria",
+      "url": "https://www.thehopkinthomasproject.com/TheHopkinThomasProject/TimeLine/Wales/Steam/URochesterCollection/Hero/index-2.html",
+      "hn_url": "https://news.ycombinator.com/item?id=49124273",
+      "score": 13,
+      "comments": 0,
+      "author": "gregsadetsky"
+    },
+    {
+      "rank": 6,
+      "title": "Zero-Mem: Zero-Token Memory Operations for LLM Agents",
+      "url": "https://arxiv.org/abs/2607.29377",
+      "hn_url": "https://news.ycombinator.com/item?id=49178608",
+      "score": 24,
+      "comments": 5,
+      "author": "theanonymousone"
+    },
+    {
+      "rank": 7,
+      "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
+      "url": "https://mistral.ai/news/shieldstral/",
+      "hn_url": "https://news.ycombinator.com/item?id=49171268",
+      "score": 389,
+      "comments": 95,
+      "author": "riadsila"
+    },
+    {
+      "rank": 8,
+      "title": "Show HN: Simple algorithm and color space to generate diverse skin tones",
+      "url": "https://toneyalexander.github.io/inclusive-color-space/",
+      "hn_url": "https://news.ycombinator.com/item?id=49170165",
+      "score": 514,
+      "comments": 92,
+      "author": "automatoney"
+    },
+    {
+      "rank": 9,
+      "title": "IP and DNS Leaks in WebKit Affecting Proxy Browsers and iCloud Private Relay",
+      "url": "https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/",
+      "hn_url": "https://news.ycombinator.com/item?id=49176697",
+      "score": 95,
+      "comments": 14,
+      "author": "lapcat"
+    },
+    {
+      "rank": 10,
+      "title": "In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years",
+      "url": "https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/",
+      "hn_url": "https://news.ycombinator.com/item?id=49173165",
+      "score": 1291,
+      "comments": 73,
+      "author": "jdcampolargo"
+    },
+    {
+      "rank": 11,
+      "title": "Show HN: Maple-Preview – Ternary 20B MoE running at 120 tok/s on a iPhone",
+      "url": "https://deepgrove.ai/maple-preview",
+      "hn_url": "https://news.ycombinator.com/item?id=49173984",
+      "score": 103,
+      "comments": 30,
+      "author": "edwardbzhang"
+    },
+    {
+      "rank": 12,
+      "title": "DuckDB – Data power tools for your laptop, now in Clojure (2023)",
+      "url": "https://techascent.com/blog/just-ducking-around.html",
+      "hn_url": "https://news.ycombinator.com/item?id=49175924",
+      "score": 92,
+      "comments": 15,
+      "author": "sourdecor"
+    },
+    {
+      "rank": 13,
+      "title": "Rio-vt and librio: Rio's terminal engine, now embeddable",
+      "url": "https://rioterm.com/blog/2026/07/27/rio-vt-and-librio",
+      "hn_url": "https://news.ycombinator.com/item?id=49084236",
+      "score": 27,
+      "comments": 5,
+      "author": "vinhnx"
+    },
+    {
+      "rank": 14,
+      "title": "Eight Myths on Software Engineering and GenAI",
+      "url": "https://queue.acm.org/detail.cfm?id=3807963",
+      "hn_url": "https://news.ycombinator.com/item?id=49176830",
+      "score": 191,
+      "comments": 156,
+      "author": "tchalla"
+    },
+    {
+      "rank": 15,
+      "title": "AI fuels more than half of cybercrime in Africa as scams surge – Interpol",
+      "url": "https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/",
+      "hn_url": "https://news.ycombinator.com/item?id=49175826",
+      "score": 217,
+      "comments": 165,
+      "author": "bookofjoe"
+    },
+    {
+      "rank": 16,
+      "title": "Bugtraq is back",
+      "url": "https://lists.securityfocus.com/hyperkitty/list/bugtraq@securityfocus.com/thread/CHKLXLA7SJEWLDFHWXB3QU57ADOXGL2E/",
+      "hn_url": "https://news.ycombinator.com/item?id=49176947",
+      "score": 38,
+      "comments": 9,
+      "author": "bashtoni"
+    },
+    {
+      "rank": 17,
+      "title": "Rust-lang/rust is adopting an LLM policy",
+      "url": "https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/",
+      "hn_url": "https://news.ycombinator.com/item?id=49179039",
+      "score": 47,
+      "comments": 29,
+      "author": "afdbcreid"
+    },
+    {
+      "rank": 18,
+      "title": "libexpat now funded by the City of Munich for up to 6 months",
+      "url": "https://blog.hartwork.org/posts/libexpat-city-of-munich-open-source-sabbatical/",
+      "hn_url": "https://news.ycombinator.com/item?id=49176606",
+      "score": 255,
+      "comments": 41,
+      "author": "spyc"
+    },
+    {
+      "rank": 19,
+      "title": "Video2NAND – Abusing video codecs for great computational power",
+      "url": "https://sharedobject.blog/posts/vp8-combinatorial-logic/",
+      "hn_url": "https://news.ycombinator.com/item?id=49145037",
+      "score": 60,
+      "comments": 11,
+      "author": "firer"
+    },
+    {
+      "rank": 20,
+      "title": "Waymo in Dallas",
+      "url": "https://waymo.com/blog/shorts/dallas-open-to-all/",
+      "hn_url": "https://news.ycombinator.com/item?id=49172836",
+      "score": 287,
+      "comments": 494,
+      "author": "xnx"
+    },
+    {
+      "rank": 21,
+      "title": "Zigbee vs. Matter over Thread:Understanding IoT Protocol Performance in Practice",
+      "url": "https://arxiv.org/abs/2603.04221",
+      "hn_url": "https://news.ycombinator.com/item?id=49176983",
+      "score": 79,
+      "comments": 62,
+      "author": "teleforce"
+    },
+    {
+      "rank": 22,
+      "title": "There Will Come Soft Rains (1950) [pdf]",
+      "url": "https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf",
+      "hn_url": "https://news.ycombinator.com/item?id=49162653",
+      "score": 377,
+      "comments": 399,
+      "author": "pmg101"
+    },
+    {
+      "rank": 23,
+      "title": "We finally learned to center a div, then browsers added sidebars",
+      "url": "https://seg6.space/posts/center-div/",
+      "hn_url": "https://news.ycombinator.com/item?id=49176055",
+      "score": 118,
+      "comments": 99,
+      "author": "seg6"
+    },
+    {
+      "rank": 24,
+      "title": "An SLM trained on $8 ESP32-S3",
+      "url": "https://github.com/Carloscodix/qapla",
+      "hn_url": "https://news.ycombinator.com/item?id=49178464",
+      "score": 18,
+      "comments": 6,
+      "author": "pavelai"
+    },
+    {
+      "rank": 25,
+      "title": "Flowise is shutting down",
+      "url": "https://flowiseai.com/sunset",
+      "hn_url": "https://news.ycombinator.com/item?id=49176920",
+      "score": 44,
+      "comments": 26,
+      "author": "llmgraph"
+    }
+  ]
+}
