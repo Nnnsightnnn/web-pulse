@@ -1,0 +1,457 @@
+{
+  "source": "polymarket",
+  "label": "Polymarket — top 24h volume",
+  "fetched_at": "2026-08-06T08:10:39.183Z",
+  "items": [
+    {
+      "rank": 1,
+      "title": "Will Manchester City win the 2026-27 English Premier League (EPL) Championship?",
+      "url": "https://polymarket.com/event/epl-2027-champion-20260701200428749",
+      "volume_24h": 867804.133693,
+      "volume_total": 1519827.2058430002,
+      "liquidity": 836061.8135,
+      "yes_price": 0.285,
+      "leader": {
+        "name": "No",
+        "price": 0.715
+      },
+      "end_date": "2027-05-30T23:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Will Berhanu Nega be the next Prime Minister of Ethiopia?",
+      "url": "https://polymarket.com/event/next-prime-minister-of-ethiopia",
+      "volume_24h": 819458.333333,
+      "volume_total": 27130130.84578099,
+      "liquidity": 18871.59538,
+      "yes_price": 0.003,
+      "leader": {
+        "name": "No",
+        "price": 0.997
+      },
+      "end_date": "2026-06-01T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Strait of Hormuz traffic returns to normal by August 31?",
+      "url": "https://polymarket.com/event/strait-of-hormuz-traffic-returns-to-normal-by-august-31-20260702154212320",
+      "volume_24h": 790545.3391130001,
+      "volume_total": 7985232.915202005,
+      "liquidity": 641142.158,
+      "yes_price": 0.155,
+      "leader": {
+        "name": "No",
+        "price": 0.845
+      },
+      "end_date": "2026-08-31T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "US announces end of Iranian blockade by August 7, 2026?",
+      "url": "https://polymarket.com/event/us-announces-end-of-iranian-blockade-byptptpt-20260713152715080",
+      "volume_24h": 539671.4813370004,
+      "volume_total": 1654685.0270549997,
+      "liquidity": 81681.44547,
+      "yes_price": 0.337,
+      "leader": {
+        "name": "No",
+        "price": 0.663
+      },
+      "end_date": "2026-08-07T23:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "LoL: LGD Gaming vs ThunderTalk Gaming - Game 1 Winner",
+      "url": "https://polymarket.com/event/lol-lgd-tt-2026-08-06",
+      "volume_24h": 521436.6506000001,
+      "volume_total": 521436.65060000063,
+      "liquidity": 759169.13918,
+      "yes_price": 0.9995,
+      "leader": {
+        "name": "LGD Gaming",
+        "price": 0.9995
+      },
+      "end_date": "2026-08-06T11:00:00Z",
+      "outcomes": [
+        "LGD Gaming",
+        "ThunderTalk Gaming"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Will Elissa Slotkin win the 2028 Democratic presidential nomination?",
+      "url": "https://polymarket.com/event/democratic-presidential-nominee-2028",
+      "volume_24h": 481735.6395,
+      "volume_total": 853408.694948,
+      "liquidity": 834549.25629,
+      "yes_price": 0.0035,
+      "leader": {
+        "name": "No",
+        "price": 0.9965
+      },
+      "end_date": "2028-11-07T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Clarity Act (H.R.3633) signed into law in 2026?",
+      "url": "https://polymarket.com/event/clarity-act-signed-into-law-in-2026",
+      "volume_24h": 480271.26544999983,
+      "volume_total": 4943074.0999139985,
+      "liquidity": 326894.1526,
+      "yes_price": 0.165,
+      "leader": {
+        "name": "No",
+        "price": 0.835
+      },
+      "end_date": "2027-01-01T05:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?",
+      "url": "https://polymarket.com/event/uefa-champions-league-2027-champion-20260701202025549",
+      "volume_24h": 404850.38,
+      "volume_total": 1526212.3429999999,
+      "liquidity": 240832.26675,
+      "yes_price": 0.0015,
+      "leader": {
+        "name": "No",
+        "price": 0.9985
+      },
+      "end_date": "2027-05-30T23:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
+      "url": "https://polymarket.com/event/fed-decision-in-september-762",
+      "volume_24h": 371805.92326199997,
+      "volume_total": 3508232.6545820036,
+      "liquidity": 432216.5073,
+      "yes_price": 0.445,
+      "leader": {
+        "name": "No",
+        "price": 0.555
+      },
+      "end_date": "2026-09-16T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "US x Iran Effective Ceasefire by July 31?",
+      "url": "https://polymarket.com/event/us-x-iran-effective-ceasfire-byptptpt-2-week-pause-20260715194822042",
+      "volume_24h": 350111.541558,
+      "volume_total": 6184072.688636007,
+      "liquidity": 67541.6873,
+      "yes_price": 0.845,
+      "leader": {
+        "name": "Yes",
+        "price": 0.845
+      },
+      "end_date": "2026-07-31T23:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 11,
+      "title": "Will the U.S. invade Iran before 2027?",
+      "url": "https://polymarket.com/event/will-the-us-invade-iran-before-2027",
+      "volume_24h": 307582.59769300005,
+      "volume_total": 56978574.863280974,
+      "liquidity": 721100.0406,
+      "yes_price": 0.165,
+      "leader": {
+        "name": "No",
+        "price": 0.835
+      },
+      "end_date": "2026-12-31T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 12,
+      "title": "LoL: Dplus KIA vs T1 (BO3) - LCK Round 3-4 Legend Group",
+      "url": "https://polymarket.com/event/lol-dk-t1-2026-08-06",
+      "volume_24h": 247744.50188300005,
+      "volume_total": 293265.984593,
+      "liquidity": 306492.487,
+      "yes_price": 0.455,
+      "leader": {
+        "name": "T1",
+        "price": 0.545
+      },
+      "end_date": "2026-08-06T16:00:00Z",
+      "outcomes": [
+        "Dplus KIA",
+        "T1"
+      ]
+    },
+    {
+      "rank": 13,
+      "title": "LoL: DN SOOPers Challengers vs T1 Academy (BO3) - LCK Challengers League Rounds 3-4 Challenge Group",
+      "url": "https://polymarket.com/event/lol-dnsc-t1a-2026-08-06",
+      "volume_24h": 218517.912986,
+      "volume_total": 219640.11489100006,
+      "liquidity": 259118.58157,
+      "yes_price": 0.0005,
+      "leader": {
+        "name": "T1 Academy",
+        "price": 0.9995
+      },
+      "end_date": "2026-08-06T11:00:00Z",
+      "outcomes": [
+        "DN SOOPers Challengers",
+        "T1 Academy"
+      ]
+    },
+    {
+      "rank": 14,
+      "title": "Will Declan Rice win the 2026 Ballon d'Or?",
+      "url": "https://polymarket.com/event/ballon-dor-winner-2026",
+      "volume_24h": 214764.55900000004,
+      "volume_total": 777264.2684429999,
+      "liquidity": 472487.54912,
+      "yes_price": 0.0015,
+      "leader": {
+        "name": "No",
+        "price": 0.9985
+      },
+      "end_date": "2026-10-31T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 15,
+      "title": "Israel x Iran ceasefire continues through August 9?",
+      "url": "https://polymarket.com/event/israel-x-iran-ceasefire-continues-throughptptpt-20260716224448963",
+      "volume_24h": 178338.86632799995,
+      "volume_total": 1177679.9866579997,
+      "liquidity": 174140.2984,
+      "yes_price": 0.945,
+      "leader": {
+        "name": "Yes",
+        "price": 0.945
+      },
+      "end_date": "2026-08-09T23:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 16,
+      "title": "LoL: HANJIN BRION Challengers vs Gen.G Global Academy (BO3) - LCK Challengers League Rounds 3-4 Trial Group",
+      "url": "https://polymarket.com/event/lol-bro1-genga-2026-08-06",
+      "volume_24h": 158323.32521000004,
+      "volume_total": 160787.27824500002,
+      "liquidity": 484735.96698,
+      "yes_price": 0.9995,
+      "leader": {
+        "name": "HANJIN BRION Challengers",
+        "price": 0.9995
+      },
+      "end_date": "2026-08-06T11:00:00Z",
+      "outcomes": [
+        "HANJIN BRION Challengers",
+        "Gen.G Global Academy"
+      ]
+    },
+    {
+      "rank": 17,
+      "title": "Will the price of Bitcoin be above $60,000 on August 6?",
+      "url": "https://polymarket.com/event/bitcoin-above-on-august-6-2026",
+      "volume_24h": 152594.255422,
+      "volume_total": 209197.67027700003,
+      "liquidity": 25230.97286,
+      "yes_price": 0.9995,
+      "leader": {
+        "name": "Yes",
+        "price": 0.9995
+      },
+      "end_date": "2026-08-06T16:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 18,
+      "title": "Will Elon Musk post 140-159 tweets from July 31 to August 7, 2026?",
+      "url": "https://polymarket.com/event/elon-musk-of-tweets-july-31-august-7",
+      "volume_24h": 144370.53726200003,
+      "volume_total": 293595.15291100007,
+      "liquidity": 47263.88534,
+      "yes_price": 0.0055,
+      "leader": {
+        "name": "No",
+        "price": 0.9945
+      },
+      "end_date": "2026-08-07T16:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 19,
+      "title": "LoL: Kiwoom DRX vs DN SOOPers (BO3) - LCK Round 3-4 Rise Group",
+      "url": "https://polymarket.com/event/lol-drx-dnf-2026-08-06",
+      "volume_24h": 135599.544401,
+      "volume_total": 141837.25799299998,
+      "liquidity": 179172.2605,
+      "yes_price": 0.685,
+      "leader": {
+        "name": "Kiwoom DRX",
+        "price": 0.685
+      },
+      "end_date": "2026-08-06T14:00:00Z",
+      "outcomes": [
+        "Kiwoom DRX",
+        "DN SOOPers"
+      ]
+    },
+    {
+      "rank": 20,
+      "title": "Will Bitcoin reach $100,000 in August?",
+      "url": "https://polymarket.com/event/what-price-will-bitcoin-hit-in-august-2026",
+      "volume_24h": 112674.503127,
+      "volume_total": 307086.92148399993,
+      "liquidity": 191374.17137,
+      "yes_price": 0.002,
+      "leader": {
+        "name": "No",
+        "price": 0.998
+      },
+      "end_date": "2026-09-01T04:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 21,
+      "title": "Will Ronaldo Caiado win the 2026 Brazilian presidential election?",
+      "url": "https://polymarket.com/event/brazil-presidential-election",
+      "volume_24h": 107865.42728599999,
+      "volume_total": 5555128.883134996,
+      "liquidity": 172934.14873,
+      "yes_price": 0.0205,
+      "leader": {
+        "name": "No",
+        "price": 0.9795
+      },
+      "end_date": "2026-10-04T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 22,
+      "title": "Will Thomas Massie win the 2028 US Presidential Election?",
+      "url": "https://polymarket.com/event/presidential-election-winner-2028",
+      "volume_24h": 95559.76567099999,
+      "volume_total": 7992991.3705939995,
+      "liquidity": 304884.04217,
+      "yes_price": 0.0195,
+      "leader": {
+        "name": "No",
+        "price": 0.9805
+      },
+      "end_date": "2028-11-07T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 23,
+      "title": "Will Vinicius Junior stay at Real Madrid?",
+      "url": "https://polymarket.com/event/where-will-vinicius-junior-transfer-20260612232836376",
+      "volume_24h": 91647.60094000003,
+      "volume_total": 301857.7060579999,
+      "liquidity": 17164.2346,
+      "yes_price": 0.925,
+      "leader": {
+        "name": "Yes",
+        "price": 0.925
+      },
+      "end_date": "2026-09-02T03:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 24,
+      "title": "Will the price of Ethereum be above $1,700 on August 6?",
+      "url": "https://polymarket.com/event/ethereum-above-on-august-6-2026",
+      "volume_24h": 89425.64658299998,
+      "volume_total": 91326.34986900001,
+      "liquidity": 23247.17918,
+      "yes_price": 0.9985,
+      "leader": {
+        "name": "Yes",
+        "price": 0.9985
+      },
+      "end_date": "2026-08-06T16:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 25,
+      "title": "LoL: Invictus Gaming vs Ninjas in Pyjamas (BO3) - LPL Group Nirvana",
+      "url": "https://polymarket.com/event/lol-ig1-nip-2026-08-06",
+      "volume_24h": 88724.944143,
+      "volume_total": 92431.253764,
+      "liquidity": 295533.5507,
+      "yes_price": 0.595,
+      "leader": {
+        "name": "Invictus Gaming",
+        "price": 0.595
+      },
+      "end_date": "2026-08-06T15:00:00Z",
+      "outcomes": [
+        "Invictus Gaming",
+        "Ninjas in Pyjamas"
+      ]
+    }
+  ]
+}
