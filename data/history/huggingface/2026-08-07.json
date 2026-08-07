@@ -1,0 +1,282 @@
+{
+  "source": "huggingface",
+  "label": "Hugging Face — trending models",
+  "fetched_at": "2026-08-07T08:11:27.368Z",
+  "items": [
+    {
+      "rank": 1,
+      "title": "MiniMaxAI/MiniMax-H3",
+      "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3",
+      "author": "MiniMaxAI",
+      "downloads": 12102,
+      "likes": 2824,
+      "trending_score": 2672,
+      "pipeline_tag": "image-text-to-video",
+      "last_modified": "2026-08-06T16:07:09.000Z"
+    },
+    {
+      "rank": 2,
+      "title": "deepseek-ai/DeepSeek-V4-Flash-0731",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731",
+      "author": "deepseek-ai",
+      "downloads": 617900,
+      "likes": 2688,
+      "trending_score": 2405,
+      "pipeline_tag": "text-generation",
+      "last_modified": "2026-08-01T03:07:41.000Z"
+    },
+    {
+      "rank": 3,
+      "title": "moonshotai/Kimi-K3",
+      "url": "https://huggingface.co/moonshotai/Kimi-K3",
+      "author": "moonshotai",
+      "downloads": 1258043,
+      "likes": 10232,
+      "trending_score": 845,
+      "pipeline_tag": "image-text-to-text",
+      "last_modified": "2026-07-27T16:29:18.000Z"
+    },
+    {
+      "rank": 4,
+      "title": "Comfy-Org/MiniMax-H3",
+      "url": "https://huggingface.co/Comfy-Org/MiniMax-H3",
+      "author": "Comfy-Org",
+      "downloads": 2295377,
+      "likes": 875,
+      "trending_score": 829,
+      "pipeline_tag": null,
+      "last_modified": "2026-08-06T01:44:50.000Z"
+    },
+    {
+      "rank": 5,
+      "title": "unsloth/DeepSeek-V4-Flash-0731-GGUF",
+      "url": "https://huggingface.co/unsloth/DeepSeek-V4-Flash-0731-GGUF",
+      "author": "unsloth",
+      "downloads": 145105,
+      "likes": 564,
+      "trending_score": 527,
+      "pipeline_tag": null,
+      "last_modified": "2026-08-06T14:54:45.000Z"
+    },
+    {
+      "rank": 6,
+      "title": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+      "url": "https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+      "author": "DavidAU",
+      "downloads": 2087189,
+      "likes": 1667,
+      "trending_score": 461,
+      "pipeline_tag": "image-text-to-text",
+      "last_modified": "2026-08-05T02:10:38.000Z"
+    },
+    {
+      "rank": 7,
+      "title": "ethanfel/Qwen3-VL-32B-Ultra-Heretic-H3-ComfyUI-INT8-ConvRot",
+      "url": "https://huggingface.co/ethanfel/Qwen3-VL-32B-Ultra-Heretic-H3-ComfyUI-INT8-ConvRot",
+      "author": "ethanfel",
+      "downloads": 0,
+      "likes": 353,
+      "trending_score": 336,
+      "pipeline_tag": "image-text-to-text",
+      "last_modified": "2026-08-05T15:28:00.000Z"
+    },
+    {
+      "rank": 8,
+      "title": "LiquidAI/LFM2.5-2.6B",
+      "url": "https://huggingface.co/LiquidAI/LFM2.5-2.6B",
+      "author": "LiquidAI",
+      "downloads": 73573,
+      "likes": 343,
+      "trending_score": 331,
+      "pipeline_tag": "text-generation",
+      "last_modified": "2026-08-06T18:32:43.000Z"
+    },
+    {
+      "rank": 9,
+      "title": "larryvrh/MiniMax-H3-Turbo-Lora",
+      "url": "https://huggingface.co/larryvrh/MiniMax-H3-Turbo-Lora",
+      "author": "larryvrh",
+      "downloads": 0,
+      "likes": 341,
+      "trending_score": 327,
+      "pipeline_tag": "text-to-video",
+      "last_modified": "2026-08-06T22:42:04.000Z"
+    },
+    {
+      "rank": 10,
+      "title": "baidu/Unlimited-OCR",
+      "url": "https://huggingface.co/baidu/Unlimited-OCR",
+      "author": "baidu",
+      "downloads": 2791862,
+      "likes": 3937,
+      "trending_score": 230,
+      "pipeline_tag": "image-text-to-text",
+      "last_modified": "2026-07-29T04:34:16.000Z"
+    },
+    {
+      "rank": 11,
+      "title": "deepgrove/maple-preview",
+      "url": "https://huggingface.co/deepgrove/maple-preview",
+      "author": "deepgrove",
+      "downloads": 419,
+      "likes": 215,
+      "trending_score": 212,
+      "pipeline_tag": "text-generation",
+      "last_modified": "2026-08-04T20:51:36.000Z"
+    },
+    {
+      "rank": 12,
+      "title": "nvidia/NVIDIA-NemotronLabs-VoiceChat-11B",
+      "url": "https://huggingface.co/nvidia/NVIDIA-NemotronLabs-VoiceChat-11B",
+      "author": "nvidia",
+      "downloads": 206,
+      "likes": 197,
+      "trending_score": 192,
+      "pipeline_tag": null,
+      "last_modified": "2026-08-04T09:26:31.000Z"
+    },
+    {
+      "rank": 13,
+      "title": "inclusionAI/Ling-3.0-flash",
+      "url": "https://huggingface.co/inclusionAI/Ling-3.0-flash",
+      "author": "inclusionAI",
+      "downloads": 1196,
+      "likes": 192,
+      "trending_score": 186,
+      "pipeline_tag": "text-generation",
+      "last_modified": "2026-08-06T15:09:42.000Z"
+    },
+    {
+      "rank": 14,
+      "title": "lodestones/Kroma",
+      "url": "https://huggingface.co/lodestones/Kroma",
+      "author": "lodestones",
+      "downloads": 0,
+      "likes": 212,
+      "trending_score": 175,
+      "pipeline_tag": "text-to-image",
+      "last_modified": "2026-08-02T03:35:22.000Z"
+    },
+    {
+      "rank": 15,
+      "title": "mistralai/Shieldstral-1.0-3B",
+      "url": "https://huggingface.co/mistralai/Shieldstral-1.0-3B",
+      "author": "mistralai",
+      "downloads": 1511,
+      "likes": 171,
+      "trending_score": 162,
+      "pipeline_tag": null,
+      "last_modified": "2026-08-05T10:06:52.000Z"
+    },
+    {
+      "rank": 16,
+      "title": "thinkingmachines/Inkling-Small",
+      "url": "https://huggingface.co/thinkingmachines/Inkling-Small",
+      "author": "thinkingmachines",
+      "downloads": 22223,
+      "likes": 330,
+      "trending_score": 155,
+      "pipeline_tag": "image-text-to-text",
+      "last_modified": "2026-07-31T00:39:44.000Z"
+    },
+    {
+      "rank": 17,
+      "title": "zai-org/GLM-5.2",
+      "url": "https://huggingface.co/zai-org/GLM-5.2",
+      "author": "zai-org",
+      "downloads": 2391730,
+      "likes": 4877,
+      "trending_score": 147,
+      "pipeline_tag": "text-generation",
+      "last_modified": "2026-07-02T08:08:14.000Z"
+    },
+    {
+      "rank": 18,
+      "title": "realrebelai/MiniMax-H3_GGUFs",
+      "url": "https://huggingface.co/realrebelai/MiniMax-H3_GGUFs",
+      "author": "realrebelai",
+      "downloads": 65679,
+      "likes": 161,
+      "trending_score": 147,
+      "pipeline_tag": null,
+      "last_modified": "2026-08-07T05:41:31.000Z"
+    },
+    {
+      "rank": 19,
+      "title": "drbaph/MiniMax-H3-Turbo-Lora-ComfyUI",
+      "url": "https://huggingface.co/drbaph/MiniMax-H3-Turbo-Lora-ComfyUI",
+      "author": "drbaph",
+      "downloads": 0,
+      "likes": 149,
+      "trending_score": 144,
+      "pipeline_tag": "text-to-video",
+      "last_modified": "2026-08-06T23:53:56.000Z"
+    },
+    {
+      "rank": 20,
+      "title": "Kwaipilot/KAT-Coder-V2.5-Dev",
+      "url": "https://huggingface.co/Kwaipilot/KAT-Coder-V2.5-Dev",
+      "author": "Kwaipilot",
+      "downloads": 16961,
+      "likes": 523,
+      "trending_score": 142,
+      "pipeline_tag": "text-generation",
+      "last_modified": "2026-07-28T04:35:27.000Z"
+    },
+    {
+      "rank": 21,
+      "title": "microsoft/Mage-VL",
+      "url": "https://huggingface.co/microsoft/Mage-VL",
+      "author": "microsoft",
+      "downloads": 440176,
+      "likes": 294,
+      "trending_score": 136,
+      "pipeline_tag": "image-text-to-text",
+      "last_modified": "2026-08-06T03:32:02.000Z"
+    },
+    {
+      "rank": 22,
+      "title": "LuffyTheFox/Qwen3.6-35B-A3B-Uncensored-Genesis-Hermes-V7-GGUF",
+      "url": "https://huggingface.co/LuffyTheFox/Qwen3.6-35B-A3B-Uncensored-Genesis-Hermes-V7-GGUF",
+      "author": "LuffyTheFox",
+      "downloads": 309149,
+      "likes": 414,
+      "trending_score": 134,
+      "pipeline_tag": "image-text-to-text",
+      "last_modified": "2026-08-06T04:37:46.000Z"
+    },
+    {
+      "rank": 23,
+      "title": "Audio8/Audio8-TTS-Preview-0.6b",
+      "url": "https://huggingface.co/Audio8/Audio8-TTS-Preview-0.6b",
+      "author": "Audio8",
+      "downloads": 12211,
+      "likes": 299,
+      "trending_score": 130,
+      "pipeline_tag": "text-to-speech",
+      "last_modified": "2026-07-31T12:58:38.000Z"
+    },
+    {
+      "rank": 24,
+      "title": "LiquidAI/LFM2.5-2.6B-GGUF",
+      "url": "https://huggingface.co/LiquidAI/LFM2.5-2.6B-GGUF",
+      "author": "LiquidAI",
+      "downloads": 12790,
+      "likes": 132,
+      "trending_score": 128,
+      "pipeline_tag": "text-generation",
+      "last_modified": "2026-08-06T17:10:07.000Z"
+    },
+    {
+      "rank": 25,
+      "title": "deepseek-ai/DeepSeek-V4-Flash",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash",
+      "author": "deepseek-ai",
+      "downloads": 2639756,
+      "likes": 2051,
+      "trending_score": 126,
+      "pipeline_tag": "text-generation",
+      "last_modified": "2026-06-22T12:12:13.000Z"
+    }
+  ]
+}
