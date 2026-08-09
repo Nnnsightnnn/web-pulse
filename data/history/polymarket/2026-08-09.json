@@ -1,0 +1,457 @@
+{
+  "source": "polymarket",
+  "label": "Polymarket — top 24h volume",
+  "fetched_at": "2026-08-09T08:09:53.616Z",
+  "items": [
+    {
+      "rank": 1,
+      "title": "Will Tom Cotton win the 2028 US Presidential Election?",
+      "url": "https://polymarket.com/event/presidential-election-winner-2028",
+      "volume_24h": 1096670.041,
+      "volume_total": 1214210.4854999997,
+      "liquidity": 1584680.56413,
+      "yes_price": 0.0015,
+      "leader": {
+        "name": "No",
+        "price": 0.9985
+      },
+      "end_date": "2028-11-07T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Strait of Hormuz traffic returns to normal by August 31?",
+      "url": "https://polymarket.com/event/strait-of-hormuz-traffic-returns-to-normal-by-august-31-20260702154212320",
+      "volume_24h": 1095541.9024150001,
+      "volume_total": 10520189.469192004,
+      "liquidity": 1159509.3457,
+      "yes_price": 0.065,
+      "leader": {
+        "name": "No",
+        "price": 0.935
+      },
+      "end_date": "2026-08-31T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Will Adanech Abiebie be the next Prime Minister of Ethiopia?",
+      "url": "https://polymarket.com/event/next-prime-minister-of-ethiopia",
+      "volume_24h": 980498.9895,
+      "volume_total": 76044082.453933,
+      "liquidity": 18289.76437,
+      "yes_price": 0.003,
+      "leader": {
+        "name": "No",
+        "price": 0.997
+      },
+      "end_date": "2026-06-01T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "LoL: Invictus Gaming vs LNG Esports - Game 1 Winner",
+      "url": "https://polymarket.com/event/lol-ig1-lng-2026-08-09",
+      "volume_24h": 534807.0251010001,
+      "volume_total": 534822.1751010005,
+      "liquidity": 752427.75027,
+      "yes_price": 0.9995,
+      "leader": {
+        "name": "Invictus Gaming",
+        "price": 0.9995
+      },
+      "end_date": "2026-08-09T11:00:00Z",
+      "outcomes": [
+        "Invictus Gaming",
+        "LNG Esports"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?",
+      "url": "https://polymarket.com/event/uefa-champions-league-2027-champion-20260701202025549",
+      "volume_24h": 430390.95,
+      "volume_total": 2783893.208,
+      "liquidity": 249353.32533,
+      "yes_price": 0.0015,
+      "leader": {
+        "name": "No",
+        "price": 0.9985
+      },
+      "end_date": "2027-05-30T23:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "US announces end of Iranian blockade by August 9, 2026?",
+      "url": "https://polymarket.com/event/us-announces-end-of-iranian-blockade-byptptpt-20260713152715080",
+      "volume_24h": 356838.7147330006,
+      "volume_total": 423201.21913200006,
+      "liquidity": 100730.5112,
+      "yes_price": 0.045,
+      "leader": {
+        "name": "No",
+        "price": 0.955
+      },
+      "end_date": "2026-08-09T23:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?",
+      "url": "https://polymarket.com/event/fed-decision-in-september-762",
+      "volume_24h": 335636.99829600006,
+      "volume_total": 5585680.349738001,
+      "liquidity": 734114.68819,
+      "yes_price": 0.0175,
+      "leader": {
+        "name": "No",
+        "price": 0.9825
+      },
+      "end_date": "2026-09-16T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Counter-Strike: Sinners vs EYEBALLERS (BO3) - Esports World Cup Open Qualifier Play-Ins",
+      "url": "https://polymarket.com/event/cs2-sin2-eye-2026-08-09",
+      "volume_24h": 304120.53014,
+      "volume_total": 304091.3501400001,
+      "liquidity": 260004.6162,
+      "yes_price": 0.495,
+      "leader": {
+        "name": "EYEBALLERS",
+        "price": 0.505
+      },
+      "end_date": "2026-08-09T15:00:00Z",
+      "outcomes": [
+        "Sinners",
+        "EYEBALLERS"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Counter-Strike: Virtus.pro vs Sashi Esport (BO3) - Esports World Cup Open Qualifier Play-Ins",
+      "url": "https://polymarket.com/event/cs2-vp-sashi-2026-08-09",
+      "volume_24h": 278126.44328300003,
+      "volume_total": 278103.2614659998,
+      "liquidity": 204565.7306,
+      "yes_price": 0.545,
+      "leader": {
+        "name": "Virtus.pro",
+        "price": 0.545
+      },
+      "end_date": "2026-08-09T15:00:00Z",
+      "outcomes": [
+        "Virtus.pro",
+        "Sashi Esport"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "LoL: Dplus KIA vs KT Rolster (BO3) - LCK Round 3-4 Legend Group",
+      "url": "https://polymarket.com/event/lol-dk-kt-2026-08-09",
+      "volume_24h": 266477.025406,
+      "volume_total": 271602.8715790001,
+      "liquidity": 274139.1732,
+      "yes_price": 0.625,
+      "leader": {
+        "name": "Dplus KIA",
+        "price": 0.625
+      },
+      "end_date": "2026-08-09T14:00:00Z",
+      "outcomes": [
+        "Dplus KIA",
+        "KT Rolster"
+      ]
+    },
+    {
+      "rank": 11,
+      "title": "US x Iran Effective Ceasefire by July 31?",
+      "url": "https://polymarket.com/event/us-x-iran-effective-ceasfire-byptptpt-2-week-pause-20260715194822042",
+      "volume_24h": 242934.06856099993,
+      "volume_total": 7208176.712737006,
+      "liquidity": 77559.5351,
+      "yes_price": 0.865,
+      "leader": {
+        "name": "Yes",
+        "price": 0.865
+      },
+      "end_date": "2026-07-31T23:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 12,
+      "title": "Israel x Iran ceasefire continues through August 9?",
+      "url": "https://polymarket.com/event/israel-x-iran-ceasefire-continues-throughptptpt-20260716224448963",
+      "volume_24h": 240764.46238900008,
+      "volume_total": 1848032.9878919998,
+      "liquidity": 88043.83615,
+      "yes_price": 0.9915,
+      "leader": {
+        "name": "Yes",
+        "price": 0.9915
+      },
+      "end_date": "2026-08-09T23:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 13,
+      "title": "Counter-Strike: 1WIN vs Liquid (BO3) - Esports World Cup Open Qualifier Play-Ins",
+      "url": "https://polymarket.com/event/cs2-1win-tl1-2026-08-09",
+      "volume_24h": 235523.95249700002,
+      "volume_total": 234579.95249700014,
+      "liquidity": 257864.9935,
+      "yes_price": 0.335,
+      "leader": {
+        "name": "Liquid",
+        "price": 0.665
+      },
+      "end_date": "2026-08-09T15:00:00Z",
+      "outcomes": [
+        "1WIN",
+        "Liquid"
+      ]
+    },
+    {
+      "rank": 14,
+      "title": "Will IShowSpeed attend Cristiano Ronaldo's wedding?",
+      "url": "https://polymarket.com/event/who-will-attend-cristiano-ronaldos-wedding-20260803185630253",
+      "volume_24h": 194440.95435499598,
+      "volume_total": 352748.46262799995,
+      "liquidity": 14047.79172,
+      "yes_price": 0.0535,
+      "leader": {
+        "name": "No",
+        "price": 0.9465
+      },
+      "end_date": "2026-08-08T23:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 15,
+      "title": "Will Newcastle United win the 2026-27 English Premier League (EPL) Championship?",
+      "url": "https://polymarket.com/event/epl-2027-champion-20260701200428749",
+      "volume_24h": 181851.41,
+      "volume_total": 373925.7435200001,
+      "liquidity": 352925.84462,
+      "yes_price": 0.0035,
+      "leader": {
+        "name": "No",
+        "price": 0.9965
+      },
+      "end_date": "2027-05-30T23:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 16,
+      "title": "Clarity Act (H.R.3633) signed into law in 2026?",
+      "url": "https://polymarket.com/event/clarity-act-signed-into-law-in-2026",
+      "volume_24h": 175195.05785299998,
+      "volume_total": 5536464.373983995,
+      "liquidity": 152990.8613,
+      "yes_price": 0.205,
+      "leader": {
+        "name": "No",
+        "price": 0.795
+      },
+      "end_date": "2027-01-01T05:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 17,
+      "title": "Will MrBeast win the 2028 Democratic presidential nomination?",
+      "url": "https://polymarket.com/event/democratic-presidential-nominee-2028",
+      "volume_24h": 171782.65300000008,
+      "volume_total": 40485052.876118004,
+      "liquidity": 2576033.84179,
+      "yes_price": 0.0025,
+      "leader": {
+        "name": "No",
+        "price": 0.9975
+      },
+      "end_date": "2028-11-07T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 18,
+      "title": "Will the U.S. invade Iran before 2027?",
+      "url": "https://polymarket.com/event/will-the-us-invade-iran-before-2027",
+      "volume_24h": 170166.80707099996,
+      "volume_total": 57795331.909281,
+      "liquidity": 1036830.4163,
+      "yes_price": 0.165,
+      "leader": {
+        "name": "No",
+        "price": 0.835
+      },
+      "end_date": "2026-12-31T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 19,
+      "title": "Counter-Strike: JiJieHao vs DENDELE CS (BO3) - Esports World Cup Open Qualifier Play-Ins",
+      "url": "https://polymarket.com/event/cs2-jjh-dendel-2026-08-09",
+      "volume_24h": 167068.119193,
+      "volume_total": 167068.11919300022,
+      "liquidity": 193691.4362,
+      "yes_price": 0.325,
+      "leader": {
+        "name": "DENDELE CS",
+        "price": 0.675
+      },
+      "end_date": "2026-08-09T15:00:00Z",
+      "outcomes": [
+        "JiJieHao",
+        "DENDELE CS"
+      ]
+    },
+    {
+      "rank": 20,
+      "title": "Iran leadership change by August 31?",
+      "url": "https://polymarket.com/event/iran-leadership-change-by",
+      "volume_24h": 148381.66099499998,
+      "volume_total": 1063300.4155710004,
+      "liquidity": 92090.399,
+      "yes_price": 0.039,
+      "leader": {
+        "name": "No",
+        "price": 0.961
+      },
+      "end_date": "2026-08-31T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 21,
+      "title": "Bab el-Mandeb Strait effectively closed by August 31?",
+      "url": "https://polymarket.com/event/bab-el-mandeb-strait-effectively-closed-by",
+      "volume_24h": 136575.123191,
+      "volume_total": 1502829.4104559997,
+      "liquidity": 180724.79583,
+      "yes_price": 0.0315,
+      "leader": {
+        "name": "No",
+        "price": 0.9685
+      },
+      "end_date": "2026-08-31T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 22,
+      "title": "Will Charlotte Hornets win the 2027 NBA Finals?",
+      "url": "https://polymarket.com/event/nba-2027-champion",
+      "volume_24h": 136384.726666,
+      "volume_total": 516501.7976999999,
+      "liquidity": 269723.59559,
+      "yes_price": 0.0055,
+      "leader": {
+        "name": "No",
+        "price": 0.9945
+      },
+      "end_date": "2027-07-01T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 23,
+      "title": "Will the price of Bitcoin be above $62,000 on August 9?",
+      "url": "https://polymarket.com/event/bitcoin-above-on-august-9-2026",
+      "volume_24h": 135705.860501,
+      "volume_total": 168735.50210200003,
+      "liquidity": 38418.92432,
+      "yes_price": 0.9995,
+      "leader": {
+        "name": "Yes",
+        "price": 0.9995
+      },
+      "end_date": "2026-08-09T16:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 24,
+      "title": "Will Bitcoin reach $72,000 August 3-9?",
+      "url": "https://polymarket.com/event/what-price-will-bitcoin-hit-august-3-9-2026",
+      "volume_24h": 132985.325399,
+      "volume_total": 230428.55725099996,
+      "liquidity": 44442.04022,
+      "yes_price": 0.0005,
+      "leader": {
+        "name": "No",
+        "price": 0.9995
+      },
+      "end_date": "2026-08-10T04:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 25,
+      "title": "Trump out as President by August 31?",
+      "url": "https://polymarket.com/event/trump-out-as-president-by-august-31-20260730185655928",
+      "volume_24h": 129065.591785,
+      "volume_total": 853656.719617,
+      "liquidity": 366691.78086,
+      "yes_price": 0.0075,
+      "leader": {
+        "name": "No",
+        "price": 0.9925
+      },
+      "end_date": "2026-08-31T23:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    }
+  ]
+}
