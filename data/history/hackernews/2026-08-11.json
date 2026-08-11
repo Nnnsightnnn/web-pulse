@@ -1,0 +1,232 @@
+{
+  "source": "hackernews",
+  "label": "Hacker News — top stories",
+  "fetched_at": "2026-08-11T08:10:35.973Z",
+  "items": [
+    {
+      "rank": 1,
+      "title": "H3-metal – Native MiniMax-H3 inference for Apple Silicon",
+      "url": "https://github.com/antirez/h3.c",
+      "hn_url": "https://news.ycombinator.com/item?id=49252179",
+      "score": 221,
+      "comments": 32,
+      "author": "swyx"
+    },
+    {
+      "rank": 2,
+      "title": "Show HN: Mcptoon – Token-efficient MCP CLI client",
+      "url": "https://github.com/activeing123/mcptoon",
+      "hn_url": "https://news.ycombinator.com/item?id=49253721",
+      "score": 34,
+      "comments": 21,
+      "author": "mcptokensaver"
+    },
+    {
+      "rank": 3,
+      "title": "Chicken Scheme 6.0",
+      "url": "https://code.call-cc.org/releases/6.0.0/NEWS",
+      "hn_url": "https://news.ycombinator.com/item?id=49251702",
+      "score": 167,
+      "comments": 17,
+      "author": "eatonphil"
+    },
+    {
+      "rank": 4,
+      "title": "As AI eats the web, the internet’s collective memory is disappearing",
+      "url": "https://thewalrus.ca/google-search-is-dying/",
+      "hn_url": "https://news.ycombinator.com/item?id=49250836",
+      "score": 200,
+      "comments": 184,
+      "author": "awnird"
+    },
+    {
+      "rank": 5,
+      "title": "LFM2.5 2.6B model competitive with 4x larger models",
+      "url": "https://huggingface.co/LiquidAI/LFM2.5-2.6B",
+      "hn_url": "https://news.ycombinator.com/item?id=49173107",
+      "score": 54,
+      "comments": 16,
+      "author": "nateb2022"
+    },
+    {
+      "rank": 6,
+      "title": "Show HN: Scroll through all 43252003274489856000 Rubik's Cube states",
+      "url": "https://everycube.alen.is/",
+      "hn_url": "https://news.ycombinator.com/item?id=49251179",
+      "score": 171,
+      "comments": 55,
+      "author": "Alen123"
+    },
+    {
+      "rank": 7,
+      "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
+      "url": "https://cactuscompute.com/needle",
+      "hn_url": "https://news.ycombinator.com/item?id=49246804",
+      "score": 307,
+      "comments": 111,
+      "author": "HenryNdubuaku"
+    },
+    {
+      "rank": 8,
+      "title": "The “mechanical miracle” that ruined Mark Twain’s life",
+      "url": "https://resobscura.substack.com/p/the-mechanical-miracle-that-ruined",
+      "hn_url": "https://news.ycombinator.com/item?id=49184220",
+      "score": 122,
+      "comments": 61,
+      "author": "benbreen"
+    },
+    {
+      "rank": 9,
+      "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
+      "url": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
+      "hn_url": "https://news.ycombinator.com/item?id=49243880",
+      "score": 489,
+      "comments": 446,
+      "author": "root-parent"
+    },
+    {
+      "rank": 10,
+      "title": "Recycle – Floppydisks",
+      "url": "https://www.floppydisk.com/recycle",
+      "hn_url": "https://news.ycombinator.com/item?id=49252462",
+      "score": 53,
+      "comments": 22,
+      "author": "calvinmorrison"
+    },
+    {
+      "rank": 11,
+      "title": "To Save C, We Must Save ABI",
+      "url": "https://thephd.dev/to-save-c-we-must-save-abi-fixing-c-function-abi",
+      "hn_url": "https://news.ycombinator.com/item?id=49219679",
+      "score": 11,
+      "comments": 0,
+      "author": "gurjeet"
+    },
+    {
+      "rank": 12,
+      "title": "The UK's war on anonymity has come to America",
+      "url": "https://www.effort.news/uk-lobby",
+      "hn_url": "https://news.ycombinator.com/item?id=49251411",
+      "score": 463,
+      "comments": 347,
+      "author": "slowin"
+    },
+    {
+      "rank": 13,
+      "title": "Stowaway – Take the window seat on any plane or satellite overhead",
+      "url": "https://stowaway.live/",
+      "hn_url": "https://news.ycombinator.com/item?id=49209918",
+      "score": 247,
+      "comments": 29,
+      "author": "thunderbong"
+    },
+    {
+      "rank": 14,
+      "title": "Sonic Pi v5",
+      "url": "https://www.patreon.com/samaaron/posts/sonic-pi-v5-166001392",
+      "hn_url": "https://news.ycombinator.com/item?id=49208296",
+      "score": 363,
+      "comments": 89,
+      "author": "samaaron"
+    },
+    {
+      "rank": 15,
+      "title": "Rust SIMD on the GPU",
+      "url": "https://www.vectorware.com/blog/simd-on-gpu/",
+      "hn_url": "https://news.ycombinator.com/item?id=49247477",
+      "score": 176,
+      "comments": 87,
+      "author": "sagacity"
+    },
+    {
+      "rank": 16,
+      "title": "How Claude marks AI-generated content",
+      "url": "https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content",
+      "hn_url": "https://news.ycombinator.com/item?id=49250109",
+      "score": 142,
+      "comments": 101,
+      "author": "mfiguiere"
+    },
+    {
+      "rank": 17,
+      "title": "What's the best programming language for coding agents?",
+      "url": "http://danluu.com/pl-tokens/",
+      "hn_url": "https://news.ycombinator.com/item?id=49245936",
+      "score": 159,
+      "comments": 105,
+      "author": "chaychoong"
+    },
+    {
+      "rank": 18,
+      "title": "Faster floating point math with Rust's new API",
+      "url": "https://pythonspeed.com/articles/faster-float-math-rust/",
+      "hn_url": "https://news.ycombinator.com/item?id=49196581",
+      "score": 25,
+      "comments": 1,
+      "author": "subset"
+    },
+    {
+      "rank": 19,
+      "title": "Confessions of a Long-Distance Sailor",
+      "url": "https://arachnoid.com/lutusp/sailbook.html",
+      "hn_url": "https://news.ycombinator.com/item?id=49249555",
+      "score": 104,
+      "comments": 29,
+      "author": "AntiRush"
+    },
+    {
+      "rank": 20,
+      "title": "Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows",
+      "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
+      "hn_url": "https://news.ycombinator.com/item?id=49241679",
+      "score": 1105,
+      "comments": 603,
+      "author": "riordan"
+    },
+    {
+      "rank": 21,
+      "title": "Publishing Schematics Before “Open Source” Was a Word",
+      "url": "https://fabscene.medium.com/publishing-schematics-before-open-source-was-a-word-55-years-of-akizuki-denshi-japans-be7ca9629704",
+      "hn_url": "https://news.ycombinator.com/item?id=49212449",
+      "score": 85,
+      "comments": 18,
+      "author": "extralongdivisi"
+    },
+    {
+      "rank": 22,
+      "title": "Squeak 6.1",
+      "url": "https://squeak.org/release_notes/6.1/",
+      "hn_url": "https://news.ycombinator.com/item?id=49242653",
+      "score": 260,
+      "comments": 126,
+      "author": "fniephaus"
+    },
+    {
+      "rank": 23,
+      "title": "Tail-call optimization in C is relatively recent (2025)",
+      "url": "https://lwn.net/Articles/1034703/",
+      "hn_url": "https://news.ycombinator.com/item?id=49242297",
+      "score": 143,
+      "comments": 131,
+      "author": "prakashqwerty"
+    },
+    {
+      "rank": 24,
+      "title": "Humanising LLM Outputs Is Dumb",
+      "url": "https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb",
+      "hn_url": "https://news.ycombinator.com/item?id=49243474",
+      "score": 204,
+      "comments": 132,
+      "author": "kuberwastaken"
+    },
+    {
+      "rank": 25,
+      "title": "Learning more about Claude's mathematical capabilities",
+      "url": "https://www.anthropic.com/research/riemann-zeta",
+      "hn_url": "https://news.ycombinator.com/item?id=49247070",
+      "score": 186,
+      "comments": 130,
+      "author": "tosh"
+    }
+  ]
+}

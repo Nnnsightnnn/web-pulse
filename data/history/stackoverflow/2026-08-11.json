@@ -1,0 +1,332 @@
+{
+  "source": "stackoverflow",
+  "label": "Stack Overflow — hot questions",
+  "fetched_at": "2026-08-11T08:10:35.687Z",
+  "items": [
+    {
+      "rank": 1,
+      "title": "How to convert variable into type associated data?",
+      "url": "https://stackoverflow.com/questions/79992155/how-to-convert-variable-into-type-associated-data",
+      "score": 0,
+      "answers": 0,
+      "views": 30,
+      "tags": [
+        "rust",
+        "types"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Is React Context ever a better fallback than Zustand for high-frequency/large-data state in React Native, or does it always perform worse under load?",
+      "url": "https://stackoverflow.com/questions/79992146/is-react-context-ever-a-better-fallback-than-zustand-for-high-frequency-large-da",
+      "score": -2,
+      "answers": 0,
+      "views": 21,
+      "tags": [
+        "tooling-recommendation",
+        "react-native",
+        "react-context",
+        "state-management",
+        "zustand"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "How to improve vectorStore and Search in RAG Pipeline",
+      "url": "https://stackoverflow.com/questions/79992136/how-to-improve-vectorstore-and-search-in-rag-pipeline",
+      "score": -2,
+      "answers": 0,
+      "views": 47,
+      "tags": [
+        "python",
+        "rag"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "What does \"must return a semantically identical result\" mean?",
+      "url": "https://stackoverflow.com/questions/79992144/what-does-must-return-a-semantically-identical-result-mean",
+      "score": -1,
+      "answers": 0,
+      "views": 48,
+      "tags": [
+        "best-practices",
+        "java",
+        "java-stream"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "limitations of manually constructed RAG prompt",
+      "url": "https://stackoverflow.com/questions/79992139/limitations-of-manually-constructed-rag-prompt",
+      "score": -3,
+      "answers": 1,
+      "views": 44,
+      "tags": [
+        "python",
+        "rag"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Disable selecting some items in a WPF listbox",
+      "url": "https://stackoverflow.com/questions/79992131/disable-selecting-some-items-in-a-wpf-listbox",
+      "score": 0,
+      "answers": 1,
+      "views": 33,
+      "tags": [
+        "c#",
+        "wpf",
+        "xaml"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Retire Iceberg snapshots with ability to revive them on demand",
+      "url": "https://stackoverflow.com/questions/79992141/retire-iceberg-snapshots-with-ability-to-revive-them-on-demand",
+      "score": -2,
+      "answers": 0,
+      "views": 27,
+      "tags": [
+        "amazon-s3",
+        "aws-glue",
+        "apache-iceberg"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "How can I improve a basic FAISS RAG pipeline",
+      "url": "https://stackoverflow.com/questions/79992120/how-can-i-improve-a-basic-faiss-rag-pipeline",
+      "score": -3,
+      "answers": 0,
+      "views": 48,
+      "tags": [
+        "advice",
+        "python",
+        "rag"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Cycling through Headings with VoiceOver",
+      "url": "https://stackoverflow.com/questions/79992128/cycling-through-headings-with-voiceover",
+      "score": -1,
+      "answers": 0,
+      "views": 19,
+      "tags": [
+        "cocoa",
+        "appkit"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Intercept YouTube audio stream",
+      "url": "https://stackoverflow.com/questions/79992108/intercept-youtube-audio-stream",
+      "score": -1,
+      "answers": 0,
+      "views": 53,
+      "tags": [
+        "google-chrome",
+        "google-chrome-extension",
+        "youtube",
+        "video-streaming",
+        "audio-streaming"
+      ]
+    },
+    {
+      "rank": 11,
+      "title": "How can I reliably use AI to build a secure licensing system in Rust?",
+      "url": "https://stackoverflow.com/questions/79992100/how-can-i-reliably-use-ai-to-build-a-secure-licensing-system-in-rust",
+      "score": -6,
+      "answers": 0,
+      "views": 105,
+      "tags": [
+        "security",
+        "rust",
+        "artificial-intelligence"
+      ]
+    },
+    {
+      "rank": 12,
+      "title": "pandas running notnull() sum() versus count() against the dataframe",
+      "url": "https://stackoverflow.com/questions/79992093/pandas-running-notnull-sum-versus-count-against-the-dataframe",
+      "score": -2,
+      "answers": 1,
+      "views": 88,
+      "tags": [
+        "python",
+        "pandas",
+        "notnull"
+      ]
+    },
+    {
+      "rank": 13,
+      "title": "Online MariaDB Server can't be accessed outside of MariaDB command Line",
+      "url": "https://stackoverflow.com/questions/79992091/online-mariadb-server-cant-be-accessed-outside-of-mariadb-command-line",
+      "score": -2,
+      "answers": 1,
+      "views": 50,
+      "tags": [
+        "php",
+        "mariadb"
+      ]
+    },
+    {
+      "rank": 14,
+      "title": "How to delete all constructors of a class and prevent aggregate initialization?",
+      "url": "https://stackoverflow.com/questions/79992088/how-to-delete-all-constructors-of-a-class-and-prevent-aggregate-initialization",
+      "score": 0,
+      "answers": 1,
+      "views": 57,
+      "tags": [
+        "c++",
+        "lambda",
+        "construct",
+        "aggregate-initialization"
+      ]
+    },
+    {
+      "rank": 15,
+      "title": "Defining implementation in global code of module extern declared function in Clang 20 gives 'declaration follows declaration' unlike MSVC",
+      "url": "https://stackoverflow.com/questions/79992105/defining-implementation-in-global-code-of-module-extern-declared-function-in-cla",
+      "score": 0,
+      "answers": 0,
+      "views": 33,
+      "tags": [
+        "c++",
+        "visual-c++",
+        "clang++",
+        "c++23"
+      ]
+    },
+    {
+      "rank": 16,
+      "title": "How can I require a password before stopping or uninstalling a Windows application/service from task manager?",
+      "url": "https://stackoverflow.com/questions/79992098/how-can-i-require-a-password-before-stopping-or-uninstalling-a-windows-applicati",
+      "score": -4,
+      "answers": 0,
+      "views": 50,
+      "tags": [
+        "advice"
+      ]
+    },
+    {
+      "rank": 17,
+      "title": "What SQL function would I use to locate specific words in a dataset?",
+      "url": "https://stackoverflow.com/questions/79992081/what-sql-function-would-i-use-to-locate-specific-words-in-a-dataset",
+      "score": -4,
+      "answers": 2,
+      "views": 88,
+      "tags": [
+        "advice",
+        "sql"
+      ]
+    },
+    {
+      "rank": 18,
+      "title": "How do I make it so that the script responds differently for each element?",
+      "url": "https://stackoverflow.com/questions/79991937/how-do-i-make-it-so-that-the-script-responds-differently-for-each-element",
+      "score": -5,
+      "answers": 2,
+      "views": 146,
+      "tags": [
+        "javascript",
+        "html"
+      ]
+    },
+    {
+      "rank": 19,
+      "title": "Why is ref T slower than Span<T> when processing multiple items?",
+      "url": "https://stackoverflow.com/questions/79991980/why-is-ref-t-slower-than-spant-when-processing-multiple-items",
+      "score": 5,
+      "answers": 1,
+      "views": 116,
+      "tags": [
+        "c#",
+        "performance",
+        "benchmarking",
+        ".net-11.0"
+      ]
+    },
+    {
+      "rank": 20,
+      "title": "Does std::format modify or move from its arguments?",
+      "url": "https://stackoverflow.com/questions/79992027/does-stdformat-modify-or-move-from-its-arguments",
+      "score": 1,
+      "answers": 2,
+      "views": 127,
+      "tags": [
+        "c++",
+        "perfect-forwarding",
+        "forwarding-reference",
+        "stdformat"
+      ]
+    },
+    {
+      "rank": 21,
+      "title": "How to initialize struct members in struct in constructor new",
+      "url": "https://stackoverflow.com/questions/79992040/how-to-initialize-struct-members-in-struct-in-constructor-new",
+      "score": 1,
+      "answers": 1,
+      "views": 55,
+      "tags": [
+        "rust",
+        "struct",
+        "constructor"
+      ]
+    },
+    {
+      "rank": 22,
+      "title": "GNU repo contains apparent ghost import",
+      "url": "https://stackoverflow.com/questions/79992058/gnu-repo-contains-apparent-ghost-import",
+      "score": -1,
+      "answers": 1,
+      "views": 125,
+      "tags": [
+        "c",
+        "git",
+        "github",
+        "code-organization"
+      ]
+    },
+    {
+      "rank": 23,
+      "title": "Custom dev skill: any invocation phrase fails with \"not supported on this device,\" but direct Lambda invocation via JSON Input always succeeds",
+      "url": "https://stackoverflow.com/questions/79992022/custom-dev-skill-any-invocation-phrase-fails-with-not-supported-on-this-device",
+      "score": 1,
+      "answers": 1,
+      "views": 29,
+      "tags": [
+        "amazon-web-services",
+        "aws-lambda",
+        "amazon-dynamodb",
+        "alexa-skills-kit",
+        "amazon-echo"
+      ]
+    },
+    {
+      "rank": 24,
+      "title": "Invalid operands to binary expression ('const TNationalAssociation' and 'const TNationalAssociation')",
+      "url": "https://stackoverflow.com/questions/79992023/invalid-operands-to-binary-expression-const-tnationalassociation-and-const-t",
+      "score": 0,
+      "answers": 0,
+      "views": 57,
+      "tags": [
+        "c++",
+        "equality-operator"
+      ]
+    },
+    {
+      "rank": 25,
+      "title": "Create a function to show top ten rows of a table",
+      "url": "https://stackoverflow.com/questions/79992037/create-a-function-to-show-top-ten-rows-of-a-table",
+      "score": 2,
+      "answers": 1,
+      "views": 95,
+      "tags": [
+        "sql",
+        "duckdb"
+      ]
+    }
+  ]
+}
