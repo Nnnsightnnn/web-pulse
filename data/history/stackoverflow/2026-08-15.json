@@ -1,0 +1,340 @@
+{
+  "source": "stackoverflow",
+  "label": "Stack Overflow — hot questions",
+  "fetched_at": "2026-08-15T08:09:27.034Z",
+  "items": [
+    {
+      "rank": 1,
+      "title": "How to handle linefeeds in data fields using a CSV file",
+      "url": "https://stackoverflow.com/questions/79995292/how-to-handle-linefeeds-in-data-fields-using-a-csv-file",
+      "score": 0,
+      "answers": 0,
+      "views": 13,
+      "tags": [
+        "csv",
+        "delphi",
+        "tstringlist"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Unable to get azure compute quota in Visual studio enterprise subscription",
+      "url": "https://stackoverflow.com/questions/79995283/unable-to-get-azure-compute-quota-in-visual-studio-enterprise-subscription",
+      "score": -1,
+      "answers": 0,
+      "views": 29,
+      "tags": [
+        "azure",
+        "visual-studio",
+        "azure-subscription"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Does ML Kit On-device Translation require written permission if the translation code cannot run on Android TV or Automotive devices?",
+      "url": "https://stackoverflow.com/questions/79995281/does-ml-kit-on-device-translation-require-written-permission-if-the-translation",
+      "score": -3,
+      "answers": 0,
+      "views": 22,
+      "tags": [
+        "advice",
+        "google-mlkit"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "In Python under Unix, ask for interactive terminal input but avoid stdout",
+      "url": "https://stackoverflow.com/questions/79995261/in-python-under-unix-ask-for-interactive-terminal-input-but-avoid-stdout",
+      "score": 3,
+      "answers": 1,
+      "views": 66,
+      "tags": [
+        "python",
+        "terminal",
+        "prompt"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Why/how do items appear in cache when working offline?",
+      "url": "https://stackoverflow.com/questions/79995265/why-how-do-items-appear-in-cache-when-working-offline",
+      "score": 0,
+      "answers": 1,
+      "views": 32,
+      "tags": [
+        "browser",
+        "browser-cache"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Get the return type of a method based on fully qualified class name, method name, and method parameter types",
+      "url": "https://stackoverflow.com/questions/79995275/get-the-return-type-of-a-method-based-on-fully-qualified-class-name-method-name",
+      "score": 0,
+      "answers": 1,
+      "views": 53,
+      "tags": [
+        "scala",
+        "methods",
+        "reflection",
+        "scala-reflect",
+        "scala-2.13"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Whats the difference in variable definitions",
+      "url": "https://stackoverflow.com/questions/79995259/whats-the-difference-in-variable-definitions",
+      "score": -1,
+      "answers": 3,
+      "views": 52,
+      "tags": [
+        "bash"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Content block builder",
+      "url": "https://stackoverflow.com/questions/79995268/content-block-builder",
+      "score": -2,
+      "answers": 0,
+      "views": 33,
+      "tags": [
+        "best-practices",
+        "javascript",
+        "html",
+        "templates"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "How do I fix this error and create my ADO.NET Entity Data Model from a local .mdf database with the EF designer?",
+      "url": "https://stackoverflow.com/questions/79995258/how-do-i-fix-this-error-and-create-my-ado-net-entity-data-model-from-a-local-md",
+      "score": 0,
+      "answers": 0,
+      "views": 28,
+      "tags": [
+        "c#",
+        "sql-server",
+        "visual-studio",
+        "entity-framework",
+        "ado.net-entity-data-model"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Why does `stride_view<V>::iterator` have a `missing_` member even if the underlying view `V` is *not* bidirectional?",
+      "url": "https://stackoverflow.com/questions/79995251/why-does-stride-viewviterator-have-a-missing-member-even-if-the-underly",
+      "score": 1,
+      "answers": 0,
+      "views": 44,
+      "tags": [
+        "c++",
+        "language-lawyer",
+        "c++23",
+        "std-ranges"
+      ]
+    },
+    {
+      "rank": 11,
+      "title": "why is LL(1) contained within LL(k)?",
+      "url": "https://stackoverflow.com/questions/79995270/why-is-ll1-contained-within-llk",
+      "score": 0,
+      "answers": 0,
+      "views": 43,
+      "tags": [
+        "parsing",
+        "lr-grammar"
+      ]
+    },
+    {
+      "rank": 12,
+      "title": "Create a new column in pandas conditionally based on two other columns that may have overlapping values",
+      "url": "https://stackoverflow.com/questions/79995253/create-a-new-column-in-pandas-conditionally-based-on-two-other-columns-that-may",
+      "score": 0,
+      "answers": 0,
+      "views": 37,
+      "tags": [
+        "python",
+        "pandas",
+        "numpy"
+      ]
+    },
+    {
+      "rank": 13,
+      "title": "Why is std::move necessary when forwarding values through std::tuple?",
+      "url": "https://stackoverflow.com/questions/79995238/why-is-stdmove-necessary-when-forwarding-values-through-stdtuple",
+      "score": 0,
+      "answers": 0,
+      "views": 58,
+      "tags": [
+        "c++",
+        "apply",
+        "perfect-forwarding",
+        "stdtuple",
+        "forwarding-reference"
+      ]
+    },
+    {
+      "rank": 14,
+      "title": "Striped lines are not following the entire series in TMS FNC Charts",
+      "url": "https://stackoverflow.com/questions/79995230/striped-lines-are-not-following-the-entire-series-in-tms-fnc-charts",
+      "score": 0,
+      "answers": 0,
+      "views": 24,
+      "tags": [
+        "delphi",
+        "charts",
+        "firemonkey",
+        "tms",
+        "delphi-13-florence"
+      ]
+    },
+    {
+      "rank": 15,
+      "title": "How to fix image importation problem in PhaserJs",
+      "url": "https://stackoverflow.com/questions/79995236/how-to-fix-image-importation-problem-in-phaserjs",
+      "score": -3,
+      "answers": 0,
+      "views": 45,
+      "tags": [
+        "javascript",
+        "import",
+        "game-development",
+        "phaser-framework"
+      ]
+    },
+    {
+      "rank": 16,
+      "title": "C++17: Check if constructor is ill-formed",
+      "url": "https://stackoverflow.com/questions/79995211/c17-check-if-constructor-is-ill-formed",
+      "score": 3,
+      "answers": 1,
+      "views": 83,
+      "tags": [
+        "c++",
+        "templates",
+        "c++17"
+      ]
+    },
+    {
+      "rank": 17,
+      "title": "Why is the Foreground field being ignored in my WPF Button style?",
+      "url": "https://stackoverflow.com/questions/79995241/why-is-the-foreground-field-being-ignored-in-my-wpf-button-style",
+      "score": 2,
+      "answers": 1,
+      "views": 29,
+      "tags": [
+        "wpf",
+        "button",
+        "foreground",
+        "wpf-style"
+      ]
+    },
+    {
+      "rank": 18,
+      "title": "In C# what is the best way to detect that an optional parameter wasn't specified?",
+      "url": "https://stackoverflow.com/questions/79995184/in-c-what-is-the-best-way-to-detect-that-an-optional-parameter-wasnt-specified",
+      "score": -3,
+      "answers": 3,
+      "views": 107,
+      "tags": [
+        "advice",
+        "c#",
+        "parameters",
+        "option-type"
+      ]
+    },
+    {
+      "rank": 19,
+      "title": "Is the Merge Sort Merely an Improved Insertion Sort?",
+      "url": "https://stackoverflow.com/questions/79995224/is-the-merge-sort-merely-an-improved-insertion-sort",
+      "score": -4,
+      "answers": 1,
+      "views": 76,
+      "tags": [
+        "best-practices",
+        "algorithm",
+        "performance",
+        "sorting",
+        "complexity-theory"
+      ]
+    },
+    {
+      "rank": 20,
+      "title": "How to combine csv files in Batch at Windows command prompt?",
+      "url": "https://stackoverflow.com/questions/79995223/how-to-combine-csv-files-in-batch-at-windows-command-prompt",
+      "score": -4,
+      "answers": 0,
+      "views": 29,
+      "tags": [
+        "batch-file"
+      ]
+    },
+    {
+      "rank": 21,
+      "title": "Display Files and Directories in TreeView Avalonia",
+      "url": "https://stackoverflow.com/questions/79995246/display-files-and-directories-in-treeview-avalonia",
+      "score": 0,
+      "answers": 0,
+      "views": 27,
+      "tags": [
+        "c#",
+        ".net",
+        "avaloniaui",
+        "avalonia"
+      ]
+    },
+    {
+      "rank": 22,
+      "title": "Why does gcc fail to compile sqlite3.c with -Wall flag",
+      "url": "https://stackoverflow.com/questions/79995243/why-does-gcc-fail-to-compile-sqlite3-c-with-wall-flag",
+      "score": -3,
+      "answers": 0,
+      "views": 46,
+      "tags": [
+        "sqlite",
+        "gcc"
+      ]
+    },
+    {
+      "rank": 23,
+      "title": "Write multiple values to file in mounted local folder",
+      "url": "https://stackoverflow.com/questions/79995205/write-multiple-values-to-file-in-mounted-local-folder",
+      "score": 0,
+      "answers": 1,
+      "views": 68,
+      "tags": [
+        "python",
+        "pyscript"
+      ]
+    },
+    {
+      "rank": 24,
+      "title": "Yocto recipe that depends on a local file",
+      "url": "https://stackoverflow.com/questions/79995206/yocto-recipe-that-depends-on-a-local-file",
+      "score": 1,
+      "answers": 1,
+      "views": 91,
+      "tags": [
+        "python",
+        "dependencies",
+        "yocto-recipe"
+      ]
+    },
+    {
+      "rank": 25,
+      "title": "Has a lazy-initialization vocabulary type been proposed for C++?",
+      "url": "https://stackoverflow.com/questions/79995192/has-a-lazy-initialization-vocabulary-type-been-proposed-for-c",
+      "score": 3,
+      "answers": 0,
+      "views": 112,
+      "tags": [
+        "c++",
+        "std",
+        "lazy-initialization",
+        "standardization"
+      ]
+    }
+  ]
+}

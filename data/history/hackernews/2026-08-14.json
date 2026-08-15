@@ -1,15 +1,15 @@
 {
   "source": "hackernews",
   "label": "Hacker News — top stories",
-  "fetched_at": "2026-08-14T08:09:46.019Z",
+  "fetched_at": "2026-08-14T08:10:54.394Z",
   "items": [
     {
       "rank": 1,
       "title": "GLM-5.3: Frontier coding with emergent cyber capabilities",
       "url": "https://z.ai/blog/glm-5.3",
       "hn_url": "https://news.ycombinator.com/item?id=49294997",
-      "score": 332,
-      "comments": 120,
+      "score": 335,
+      "comments": 121,
       "author": "pella"
     },
     {
@@ -17,8 +17,8 @@
       "title": "Gemini 3.7 Flash",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
       "hn_url": "https://news.ycombinator.com/item?id=49289112",
-      "score": 788,
-      "comments": 423,
+      "score": 789,
+      "comments": 424,
       "author": "thisisauserid"
     },
     {
@@ -26,7 +26,7 @@
       "title": "Accelerating GPT-5.6 Sol Ultrafast",
       "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
       "hn_url": "https://news.ycombinator.com/item?id=49289844",
-      "score": 558,
+      "score": 559,
       "comments": 233,
       "author": "pr337h4m"
     },
@@ -53,7 +53,7 @@
       "title": "Bluesky Protocol Services",
       "url": "https://atproto.com/blog/introducing-bluesky-protocol-services",
       "hn_url": "https://news.ycombinator.com/item?id=49293324",
-      "score": 154,
+      "score": 155,
       "comments": 28,
       "author": "danabramov"
     },
@@ -90,7 +90,7 @@
       "url": "https://docs.mistral.ai/models/ocr-4-1",
       "hn_url": "https://news.ycombinator.com/item?id=49288889",
       "score": 323,
-      "comments": 129,
+      "comments": 130,
       "author": "spelk"
     },
     {
@@ -117,7 +117,7 @@
       "url": "https://mcfunley.com/choose-boring-technology",
       "hn_url": "https://news.ycombinator.com/item?id=49289512",
       "score": 327,
-      "comments": 165,
+      "comments": 164,
       "author": "tosh"
     },
     {
@@ -131,6 +131,15 @@
     },
     {
       "rank": 15,
+      "title": "Ruby 4.0 Universal RCE Deserialization Gadget Chain",
+      "url": "https://www.elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain",
+      "hn_url": "https://news.ycombinator.com/item?id=49295238",
+      "score": 11,
+      "comments": 0,
+      "author": "pentestercrab"
+    },
+    {
+      "rank": 16,
       "title": "Nine PBS sues Iron Mountain over blocked access to archival data",
       "url": "https://current.org/2026/08/nine-pbs-sues-iron-mountain-over-blocked-access-to-archival-data/",
       "hn_url": "https://news.ycombinator.com/item?id=49285418",
@@ -139,7 +148,7 @@
       "author": "vinayakborkar"
     },
     {
-      "rank": 16,
+      "rank": 17,
       "title": "NP-overrated",
       "url": "https://gruhn.me/blog/2026-08-13/",
       "hn_url": "https://news.ycombinator.com/item?id=49291268",
@@ -148,22 +157,13 @@
       "author": "theanonymousone"
     },
     {
-      "rank": 17,
+      "rank": 18,
       "title": "Blog about things you don't understand yet",
       "url": "https://www.seangoedecke.com/blog-about-things-you-dont-understand-yet/",
       "hn_url": "https://news.ycombinator.com/item?id=49293087",
-      "score": 88,
+      "score": 89,
       "comments": 31,
       "author": "gfysfm"
-    },
-    {
-      "rank": 18,
-      "title": "Ruby 4.0 Universal RCE Deserialization Gadget Chain",
-      "url": "https://www.elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain",
-      "hn_url": "https://news.ycombinator.com/item?id=49295238",
-      "score": 10,
-      "comments": 0,
-      "author": "pentestercrab"
     },
     {
       "rank": 19,
@@ -176,21 +176,21 @@
     },
     {
       "rank": 20,
+      "title": "Where did the old web go? We followed 657,607 links to find out",
+      "url": "https://0.mk/blog/link-rot",
+      "hn_url": "https://news.ycombinator.com/item?id=49289532",
+      "score": 173,
+      "comments": 157,
+      "author": "tdx"
+    },
+    {
+      "rank": 21,
       "title": "Credibility is the barrier to entry in silicon",
       "url": "https://www.siliconimist.com/p/credibility-is-the-barrier-to-entry",
       "hn_url": "https://news.ycombinator.com/item?id=49242287",
       "score": 19,
       "comments": 7,
       "author": "johncole"
-    },
-    {
-      "rank": 21,
-      "title": "Where did the old web go? We followed 657,607 links to find out",
-      "url": "https://0.mk/blog/link-rot",
-      "hn_url": "https://news.ycombinator.com/item?id=49289532",
-      "score": 173,
-      "comments": 158,
-      "author": "tdx"
     },
     {
       "rank": 22,
@@ -225,7 +225,7 @@
       "url": "https://www.youtube.com/watch?v=nNXzQ7V1S_k",
       "hn_url": "https://news.ycombinator.com/item?id=49232753",
       "score": 41,
-      "comments": 12,
+      "comments": 13,
       "author": "voxadam"
     }
   ]
