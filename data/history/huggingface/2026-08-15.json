@@ -1,7 +1,7 @@
 {
   "source": "huggingface",
   "label": "Hugging Face — trending models",
-  "fetched_at": "2026-08-15T08:09:26.949Z",
+  "fetched_at": "2026-08-15T08:10:34.112Z",
   "items": [
     {
       "rank": 1,
@@ -9,8 +9,8 @@
       "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
       "author": "Qwen",
       "downloads": 2,
-      "likes": 9342,
-      "trending_score": 9016,
+      "likes": 9346,
+      "trending_score": 9020,
       "pipeline_tag": "image-text-to-text",
       "last_modified": "2026-08-14T15:00:01.000Z"
     },
@@ -42,8 +42,8 @@
       "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
       "author": "Qwen",
       "downloads": 3832,
-      "likes": 932,
-      "trending_score": 900,
+      "likes": 933,
+      "trending_score": 901,
       "pipeline_tag": "text-generation",
       "last_modified": "2026-08-12T10:24:04.000Z"
     },
@@ -274,7 +274,7 @@
       "author": "SexGod1979",
       "downloads": 473,
       "likes": 314,
-      "trending_score": 162,
+      "trending_score": 161,
       "pipeline_tag": "text-to-video",
       "last_modified": "2026-08-14T11:05:53.000Z"
     }

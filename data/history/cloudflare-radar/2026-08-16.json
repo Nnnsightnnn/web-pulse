@@ -1,7 +1,7 @@
 {
   "source": "cloudflare-radar",
   "label": "Cloudflare Radar — top domains",
-  "fetched_at": "2026-08-15T08:10:34.408Z",
+  "fetched_at": "2026-08-16T08:10:32.799Z",
   "configured": true,
   "items": [
     {
@@ -24,20 +24,20 @@
     },
     {
       "rank": 3,
-      "title": "gstatic.com",
-      "url": "https://gstatic.com",
-      "category": "Content Servers",
-      "rank_delta_7d": 1,
-      "prev_rank_7d": 4,
+      "title": "cloudflare.com",
+      "url": "https://cloudflare.com",
+      "category": "Technology",
+      "rank_delta_7d": 0,
+      "prev_rank_7d": 3,
       "is_new_to_top": false
     },
     {
       "rank": 4,
-      "title": "cloudflare.com",
-      "url": "https://cloudflare.com",
-      "category": "Technology",
-      "rank_delta_7d": -1,
-      "prev_rank_7d": 3,
+      "title": "gstatic.com",
+      "url": "https://gstatic.com",
+      "category": "Content Servers",
+      "rank_delta_7d": 0,
+      "prev_rank_7d": 4,
       "is_new_to_top": false
     },
     {
@@ -96,20 +96,20 @@
     },
     {
       "rank": 11,
-      "title": "whatsapp.net",
-      "url": "https://whatsapp.net",
-      "category": "Instant Messengers",
-      "rank_delta_7d": 0,
-      "prev_rank_7d": 11,
+      "title": "amazon.com",
+      "url": "https://amazon.com",
+      "category": "Ecommerce",
+      "rank_delta_7d": 1,
+      "prev_rank_7d": 12,
       "is_new_to_top": false
     },
     {
       "rank": 12,
-      "title": "amazon.com",
-      "url": "https://amazon.com",
-      "category": "Ecommerce",
-      "rank_delta_7d": 0,
-      "prev_rank_7d": 12,
+      "title": "whatsapp.net",
+      "url": "https://whatsapp.net",
+      "category": "Instant Messengers",
+      "rank_delta_7d": -1,
+      "prev_rank_7d": 11,
       "is_new_to_top": false
     },
     {
@@ -144,8 +144,8 @@
       "title": "doubleclick.net",
       "url": "https://doubleclick.net",
       "category": "Trackers/Analytics",
-      "rank_delta_7d": 0,
-      "prev_rank_7d": 16,
+      "rank_delta_7d": 2,
+      "prev_rank_7d": 18,
       "is_new_to_top": false
     },
     {
@@ -153,23 +153,23 @@
       "title": "apple-dns.net",
       "url": "https://apple-dns.net",
       "category": "Content Servers",
-      "rank_delta_7d": 0,
-      "prev_rank_7d": 17,
+      "rank_delta_7d": -1,
+      "prev_rank_7d": 16,
       "is_new_to_top": false
     },
     {
       "rank": 18,
-      "title": "googleusercontent.com",
-      "url": "https://googleusercontent.com",
-      "category": "Content Servers",
-      "rank_delta_7d": 0,
-      "prev_rank_7d": 18,
+      "title": "netflix.com",
+      "url": "https://netflix.com",
+      "category": "Movies",
+      "rank_delta_7d": -1,
+      "prev_rank_7d": 17,
       "is_new_to_top": false
     },
     {
       "rank": 19,
-      "title": "akadns.net",
-      "url": "https://akadns.net",
+      "title": "googleusercontent.com",
+      "url": "https://googleusercontent.com",
       "category": "Content Servers",
       "rank_delta_7d": 0,
       "prev_rank_7d": 19,
@@ -177,29 +177,29 @@
     },
     {
       "rank": 20,
-      "title": "icloud.com",
-      "url": "https://icloud.com",
-      "category": "File Sharing",
-      "rank_delta_7d": 1,
-      "prev_rank_7d": 21,
-      "is_new_to_top": false
-    },
-    {
-      "rank": 21,
-      "title": "netflix.com",
-      "url": "https://netflix.com",
-      "category": "Movies",
-      "rank_delta_7d": -1,
+      "title": "ntp.org",
+      "url": "https://ntp.org",
+      "category": "Technology",
+      "rank_delta_7d": 0,
       "prev_rank_7d": 20,
       "is_new_to_top": false
     },
     {
+      "rank": 21,
+      "title": "akadns.net",
+      "url": "https://akadns.net",
+      "category": "Content Servers",
+      "rank_delta_7d": 0,
+      "prev_rank_7d": 21,
+      "is_new_to_top": false
+    },
+    {
       "rank": 22,
-      "title": "ntp.org",
-      "url": "https://ntp.org",
-      "category": "Technology",
-      "rank_delta_7d": 1,
-      "prev_rank_7d": 23,
+      "title": "icloud.com",
+      "url": "https://icloud.com",
+      "category": "File Sharing",
+      "rank_delta_7d": 0,
+      "prev_rank_7d": 22,
       "is_new_to_top": false
     },
     {
@@ -207,8 +207,8 @@
       "title": "aaplimg.com",
       "url": "https://aaplimg.com",
       "category": "Information Technology",
-      "rank_delta_7d": -1,
-      "prev_rank_7d": 22,
+      "rank_delta_7d": 0,
+      "prev_rank_7d": 23,
       "is_new_to_top": false
     },
     {
@@ -216,17 +216,17 @@
       "title": "cloudflare-dns.com",
       "url": "https://cloudflare-dns.com",
       "category": "Content Servers",
-      "rank_delta_7d": 3,
-      "prev_rank_7d": 27,
+      "rank_delta_7d": 2,
+      "prev_rank_7d": 26,
       "is_new_to_top": false
     },
     {
       "rank": 25,
-      "title": "googlesyndication.com",
-      "url": "https://googlesyndication.com",
-      "category": "Trackers/Analytics",
-      "rank_delta_7d": 0,
-      "prev_rank_7d": 25,
+      "title": "cdninstagram.com",
+      "url": "https://cdninstagram.com",
+      "category": "Content Servers",
+      "rank_delta_7d": -1,
+      "prev_rank_7d": 24,
       "is_new_to_top": false
     }
   ]

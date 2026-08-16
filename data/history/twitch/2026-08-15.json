@@ -1,7 +1,7 @@
 {
   "source": "twitch",
   "label": "Twitch — top streams (live)",
-  "fetched_at": "2026-08-15T08:09:27.661Z",
+  "fetched_at": "2026-08-15T08:10:34.753Z",
   "configured": true,
   "items": [
     {
@@ -29,7 +29,7 @@
       "title": "dota2ti_ru",
       "stream_title": "[RU-A] Team Spirit vs. TEAM VISION - The International 2026 - Групповой Этап - Раунд 4 | (3-0)",
       "url": "https://twitch.tv/dota2ti_ru",
-      "viewers": 49805,
+      "viewers": 50981,
       "game": "Dota 2",
       "language": "ru",
       "started_at": "2026-08-15T01:25:46Z"
@@ -96,6 +96,16 @@
     },
     {
       "rank": 10,
+      "title": "leva2k",
+      "stream_title": "Переход на 6100, потом штурм 7134 @rostislav_999 | !tg !donate !winline !ggsel",
+      "url": "https://twitch.tv/leva2k",
+      "viewers": 15177,
+      "game": "IRL",
+      "language": "ru",
+      "started_at": "2026-08-15T03:35:45Z"
+    },
+    {
+      "rank": 11,
       "title": "Lazvell",
       "stream_title": "日本応援！ZETA vs KRX / DFM vs SP - PLAY IN Day3 - VCT Pacific 2026 Stage2 #VCTWatchParty",
       "url": "https://twitch.tv/lazvell",
@@ -105,17 +115,17 @@
       "started_at": "2026-08-15T07:24:40Z"
     },
     {
-      "rank": 11,
-      "title": "leva2k",
-      "stream_title": "Переход на 6100, потом штурм 7134 @rostislav_999 | !tg !donate !winline !ggsel",
-      "url": "https://twitch.tv/leva2k",
-      "viewers": 14741,
-      "game": "IRL",
-      "language": "ru",
-      "started_at": "2026-08-15T03:35:45Z"
+      "rank": 12,
+      "title": "Bijusan",
+      "stream_title": "日本のZETAと日本のDFMの試合をみるビザイユを見る VCT Pacific 2026 : STAGE 2 - Play-Ins - DAY 3",
+      "url": "https://twitch.tv/bijusan",
+      "viewers": 13992,
+      "game": "VALORANT",
+      "language": "ja",
+      "started_at": "2026-08-15T07:37:58Z"
     },
     {
-      "rank": 12,
+      "rank": 13,
       "title": "TheBurntPeanut_247",
       "stream_title": "24/7 @TheBurntPeanut VODS/YT | TARKOV | ARC RAIDERS | SILLY GAMES | BUNGULATORS ONLY CHAT",
       "url": "https://twitch.tv/theburntpeanut_247",
@@ -125,7 +135,7 @@
       "started_at": "2026-08-14T03:51:53Z"
     },
     {
-      "rank": 13,
+      "rank": 14,
       "title": "dota2ti_2",
       "stream_title": "[EN-B] Iron Wing vs. Team Liquid - The International 2026 - Group Stage - Round 4 | (2-1)",
       "url": "https://twitch.tv/dota2ti_2",
@@ -133,16 +143,6 @@
       "game": "Dota 2",
       "language": "en",
       "started_at": "2026-08-15T01:22:15Z"
-    },
-    {
-      "rank": 14,
-      "title": "Bijusan",
-      "stream_title": "日本のZETAと日本のDFMの試合をみるビザイユを見る VCT Pacific 2026 : STAGE 2 - Play-Ins - DAY 3",
-      "url": "https://twitch.tv/bijusan",
-      "viewers": 11979,
-      "game": "VALORANT",
-      "language": "ja",
-      "started_at": "2026-08-15T07:37:58Z"
     },
     {
       "rank": 15,
@@ -226,16 +226,26 @@
     },
     {
       "rank": 23,
+      "title": "funnymike",
+      "stream_title": "⭐️W STREAMER PROM⭐️SLEEPOVER STREAM TONIGHT @Suburbbaby ⭐️",
+      "url": "https://twitch.tv/funnymike",
+      "viewers": 6954,
+      "game": "IRL",
+      "language": "en",
+      "started_at": "2026-08-14T23:37:19Z"
+    },
+    {
+      "rank": 24,
       "title": "Koma",
       "stream_title": "Team VISION [1:0] Team Spirit w/ @rostikfacekid @mary_day | The International 2026: Group Stage | !tg !betboom !vtb",
       "url": "https://twitch.tv/koma",
-      "viewers": 6768,
+      "viewers": 6696,
       "game": "Dota 2",
       "language": "ru",
       "started_at": "2026-08-14T22:10:08Z"
     },
     {
-      "rank": 24,
+      "rank": 25,
       "title": "Sp00nerism",
       "stream_title": "!DROPS ENABLED TEAM ECOLA",
       "url": "https://twitch.tv/sp00nerism",
@@ -243,16 +253,6 @@
       "game": "Grand Theft Auto V",
       "language": "en",
       "started_at": "2026-08-14T23:24:50Z"
-    },
-    {
-      "rank": 25,
-      "title": "funnymike",
-      "stream_title": "⭐️W STREAMER PROM⭐️SLEEPOVER STREAM TONIGHT @Suburbbaby ⭐️",
-      "url": "https://twitch.tv/funnymike",
-      "viewers": 6348,
-      "game": "IRL",
-      "language": "en",
-      "started_at": "2026-08-14T23:37:19Z"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "source": "stackoverflow",
   "label": "Stack Overflow — hot questions",
-  "fetched_at": "2026-08-15T08:09:27.034Z",
+  "fetched_at": "2026-08-15T08:10:34.183Z",
   "items": [
     {
       "rank": 1,
@@ -18,6 +18,20 @@
     },
     {
       "rank": 2,
+      "title": "How can I prevent duplicate JSON-LD schema output in WordPress?",
+      "url": "https://stackoverflow.com/questions/79995290/how-can-i-prevent-duplicate-json-ld-schema-output-in-wordpress",
+      "score": 0,
+      "answers": 0,
+      "views": 12,
+      "tags": [
+        "php",
+        "wordpress",
+        "json-ld",
+        "structured-data"
+      ]
+    },
+    {
+      "rank": 3,
       "title": "Unable to get azure compute quota in Visual studio enterprise subscription",
       "url": "https://stackoverflow.com/questions/79995283/unable-to-get-azure-compute-quota-in-visual-studio-enterprise-subscription",
       "score": -1,
@@ -30,7 +44,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "Does ML Kit On-device Translation require written permission if the translation code cannot run on Android TV or Automotive devices?",
       "url": "https://stackoverflow.com/questions/79995281/does-ml-kit-on-device-translation-require-written-permission-if-the-translation",
       "score": -3,
@@ -42,7 +56,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "In Python under Unix, ask for interactive terminal input but avoid stdout",
       "url": "https://stackoverflow.com/questions/79995261/in-python-under-unix-ask-for-interactive-terminal-input-but-avoid-stdout",
       "score": 3,
@@ -55,7 +69,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "Why/how do items appear in cache when working offline?",
       "url": "https://stackoverflow.com/questions/79995265/why-how-do-items-appear-in-cache-when-working-offline",
       "score": 0,
@@ -67,7 +81,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "Get the return type of a method based on fully qualified class name, method name, and method parameter types",
       "url": "https://stackoverflow.com/questions/79995275/get-the-return-type-of-a-method-based-on-fully-qualified-class-name-method-name",
       "score": 0,
@@ -82,7 +96,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "Whats the difference in variable definitions",
       "url": "https://stackoverflow.com/questions/79995259/whats-the-difference-in-variable-definitions",
       "score": -1,
@@ -93,7 +107,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "Content block builder",
       "url": "https://stackoverflow.com/questions/79995268/content-block-builder",
       "score": -2,
@@ -107,7 +121,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "How do I fix this error and create my ADO.NET Entity Data Model from a local .mdf database with the EF designer?",
       "url": "https://stackoverflow.com/questions/79995258/how-do-i-fix-this-error-and-create-my-ado-net-entity-data-model-from-a-local-md",
       "score": 0,
@@ -122,7 +136,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 11,
       "title": "Why does `stride_view<V>::iterator` have a `missing_` member even if the underlying view `V` is *not* bidirectional?",
       "url": "https://stackoverflow.com/questions/79995251/why-does-stride-viewviterator-have-a-missing-member-even-if-the-underly",
       "score": 1,
@@ -136,7 +150,7 @@
       ]
     },
     {
-      "rank": 11,
+      "rank": 12,
       "title": "why is LL(1) contained within LL(k)?",
       "url": "https://stackoverflow.com/questions/79995270/why-is-ll1-contained-within-llk",
       "score": 0,
@@ -148,12 +162,12 @@
       ]
     },
     {
-      "rank": 12,
+      "rank": 13,
       "title": "Create a new column in pandas conditionally based on two other columns that may have overlapping values",
       "url": "https://stackoverflow.com/questions/79995253/create-a-new-column-in-pandas-conditionally-based-on-two-other-columns-that-may",
       "score": 0,
       "answers": 0,
-      "views": 37,
+      "views": 38,
       "tags": [
         "python",
         "pandas",
@@ -161,7 +175,7 @@
       ]
     },
     {
-      "rank": 13,
+      "rank": 14,
       "title": "Why is std::move necessary when forwarding values through std::tuple?",
       "url": "https://stackoverflow.com/questions/79995238/why-is-stdmove-necessary-when-forwarding-values-through-stdtuple",
       "score": 0,
@@ -176,7 +190,7 @@
       ]
     },
     {
-      "rank": 14,
+      "rank": 15,
       "title": "Striped lines are not following the entire series in TMS FNC Charts",
       "url": "https://stackoverflow.com/questions/79995230/striped-lines-are-not-following-the-entire-series-in-tms-fnc-charts",
       "score": 0,
@@ -191,7 +205,7 @@
       ]
     },
     {
-      "rank": 15,
+      "rank": 16,
       "title": "How to fix image importation problem in PhaserJs",
       "url": "https://stackoverflow.com/questions/79995236/how-to-fix-image-importation-problem-in-phaserjs",
       "score": -3,
@@ -205,7 +219,7 @@
       ]
     },
     {
-      "rank": 16,
+      "rank": 17,
       "title": "C++17: Check if constructor is ill-formed",
       "url": "https://stackoverflow.com/questions/79995211/c17-check-if-constructor-is-ill-formed",
       "score": 3,
@@ -218,7 +232,7 @@
       ]
     },
     {
-      "rank": 17,
+      "rank": 18,
       "title": "Why is the Foreground field being ignored in my WPF Button style?",
       "url": "https://stackoverflow.com/questions/79995241/why-is-the-foreground-field-being-ignored-in-my-wpf-button-style",
       "score": 2,
@@ -232,7 +246,7 @@
       ]
     },
     {
-      "rank": 18,
+      "rank": 19,
       "title": "In C# what is the best way to detect that an optional parameter wasn't specified?",
       "url": "https://stackoverflow.com/questions/79995184/in-c-what-is-the-best-way-to-detect-that-an-optional-parameter-wasnt-specified",
       "score": -3,
@@ -246,7 +260,7 @@
       ]
     },
     {
-      "rank": 19,
+      "rank": 20,
       "title": "Is the Merge Sort Merely an Improved Insertion Sort?",
       "url": "https://stackoverflow.com/questions/79995224/is-the-merge-sort-merely-an-improved-insertion-sort",
       "score": -4,
@@ -261,7 +275,7 @@
       ]
     },
     {
-      "rank": 20,
+      "rank": 21,
       "title": "How to combine csv files in Batch at Windows command prompt?",
       "url": "https://stackoverflow.com/questions/79995223/how-to-combine-csv-files-in-batch-at-windows-command-prompt",
       "score": -4,
@@ -272,7 +286,7 @@
       ]
     },
     {
-      "rank": 21,
+      "rank": 22,
       "title": "Display Files and Directories in TreeView Avalonia",
       "url": "https://stackoverflow.com/questions/79995246/display-files-and-directories-in-treeview-avalonia",
       "score": 0,
@@ -286,19 +300,19 @@
       ]
     },
     {
-      "rank": 22,
+      "rank": 23,
       "title": "Why does gcc fail to compile sqlite3.c with -Wall flag",
       "url": "https://stackoverflow.com/questions/79995243/why-does-gcc-fail-to-compile-sqlite3-c-with-wall-flag",
       "score": -3,
       "answers": 0,
-      "views": 46,
+      "views": 47,
       "tags": [
         "sqlite",
         "gcc"
       ]
     },
     {
-      "rank": 23,
+      "rank": 24,
       "title": "Write multiple values to file in mounted local folder",
       "url": "https://stackoverflow.com/questions/79995205/write-multiple-values-to-file-in-mounted-local-folder",
       "score": 0,
@@ -310,7 +324,7 @@
       ]
     },
     {
-      "rank": 24,
+      "rank": 25,
       "title": "Yocto recipe that depends on a local file",
       "url": "https://stackoverflow.com/questions/79995206/yocto-recipe-that-depends-on-a-local-file",
       "score": 1,
@@ -320,20 +334,6 @@
         "python",
         "dependencies",
         "yocto-recipe"
-      ]
-    },
-    {
-      "rank": 25,
-      "title": "Has a lazy-initialization vocabulary type been proposed for C++?",
-      "url": "https://stackoverflow.com/questions/79995192/has-a-lazy-initialization-vocabulary-type-been-proposed-for-c",
-      "score": 3,
-      "answers": 0,
-      "views": 112,
-      "tags": [
-        "c++",
-        "std",
-        "lazy-initialization",
-        "standardization"
       ]
     }
   ]

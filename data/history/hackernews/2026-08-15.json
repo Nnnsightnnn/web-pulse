@@ -1,7 +1,7 @@
 {
   "source": "hackernews",
   "label": "Hacker News — top stories",
-  "fetched_at": "2026-08-15T08:09:27.388Z",
+  "fetched_at": "2026-08-15T08:10:34.302Z",
   "items": [
     {
       "rank": 1,
@@ -9,7 +9,7 @@
       "url": "https://conic.al/writing/the-other-sean-byrne-doesnt-exist/",
       "hn_url": "https://news.ycombinator.com/item?id=49307592",
       "score": 93,
-      "comments": 26,
+      "comments": 27,
       "author": "rdl"
     },
     {
@@ -62,7 +62,7 @@
       "title": "Google is making private AI practical with homomorphic encryption",
       "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
       "hn_url": "https://news.ycombinator.com/item?id=49300314",
-      "score": 370,
+      "score": 371,
       "comments": 215,
       "author": "u1hcw9nx"
     },
@@ -81,7 +81,7 @@
       "url": "https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html",
       "hn_url": "https://news.ycombinator.com/item?id=49303202",
       "score": 886,
-      "comments": 331,
+      "comments": 332,
       "author": "DemiGuru"
     },
     {
@@ -125,7 +125,7 @@
       "title": "AI by Hand",
       "url": "https://www.byhand.ai/",
       "hn_url": "https://news.ycombinator.com/item?id=49300568",
-      "score": 286,
+      "score": 287,
       "comments": 21,
       "author": "sans_souse"
     },
@@ -188,21 +188,12 @@
       "title": "Introducing Toast 1",
       "url": "https://www.mixedbread.com/blog/toast-1",
       "hn_url": "https://news.ycombinator.com/item?id=49299746",
-      "score": 197,
+      "score": 198,
       "comments": 61,
       "author": "mplappert"
     },
     {
       "rank": 22,
-      "title": "Ultraviolet Bird Photography",
-      "url": "https://uvbirds.com/",
-      "hn_url": "https://news.ycombinator.com/item?id=49211375",
-      "score": 140,
-      "comments": 23,
-      "author": "EndXA"
-    },
-    {
-      "rank": 23,
       "title": "Racket v9.3",
       "url": "https://blog.racket-lang.org/2026/08/racket-v9-3.html",
       "hn_url": "https://news.ycombinator.com/item?id=49302562",
@@ -211,7 +202,7 @@
       "author": "privong"
     },
     {
-      "rank": 24,
+      "rank": 23,
       "title": "GLM-5.3: Frontier coding with emergent cyber capabilities",
       "url": "https://z.ai/blog/glm-5.3",
       "hn_url": "https://news.ycombinator.com/item?id=49294997",
@@ -220,13 +211,22 @@
       "author": "pella"
     },
     {
-      "rank": 25,
+      "rank": 24,
       "title": "Show HN: Deltix – AI Driven Testing",
       "url": "https://app.deltix.ai",
       "hn_url": "https://news.ycombinator.com/item?id=49307099",
       "score": 26,
       "comments": 9,
       "author": "oneounceman"
+    },
+    {
+      "rank": 25,
+      "title": "Show HN: A website for exploring historical photographs of my city",
+      "url": "https://yesterdays.maprva.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=49273346",
+      "score": 21,
+      "comments": 8,
+      "author": "uneekname"
     }
   ]
 }
