@@ -1,35 +1,19 @@
 {
   "source": "product-hunt",
   "label": "Product Hunt — top products",
-  "fetched_at": "2026-08-19T08:11:20.348Z",
+  "fetched_at": "2026-08-20T08:10:51.256Z",
   "configured": true,
   "items": [
     {
       "rank": 1,
-      "title": "Fuzzy AI",
-      "url": "https://www.producthunt.com/products/fuzzy-ai-2/launches/fuzzy-ai-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+web-pulse+%28ID%3A+282925%29",
-      "tagline": "We warm your prospects before reaching out",
-      "votes_count": 648,
-      "comments_count": 108
-    },
-    {
-      "rank": 2,
       "title": "Prelint",
       "url": "https://www.producthunt.com/products/prelint/launches/prelint?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+web-pulse+%28ID%3A+282925%29",
       "tagline": "Prevent product drift in AI-written code",
-      "votes_count": 627,
+      "votes_count": 626,
       "comments_count": 135
     },
     {
-      "rank": 3,
-      "title": "SKI",
-      "url": "https://www.producthunt.com/products/ski/launches/ski?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+web-pulse+%28ID%3A+282925%29",
-      "tagline": "Free voice coding for Claude Code, Codex and more",
-      "votes_count": 610,
-      "comments_count": 317
-    },
-    {
-      "rank": 4,
+      "rank": 2,
       "title": "AdAnt AI",
       "url": "https://www.producthunt.com/products/adant-ai/launches/adant-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+web-pulse+%28ID%3A+282925%29",
       "tagline": "Claude for viral, high-converting social ads",
@@ -37,23 +21,31 @@
       "comments_count": 88
     },
     {
-      "rank": 5,
+      "rank": 3,
+      "title": "SKI",
+      "url": "https://www.producthunt.com/products/ski/launches/ski?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+web-pulse+%28ID%3A+282925%29",
+      "tagline": "Free voice coding for Claude Code, Codex and more",
+      "votes_count": 608,
+      "comments_count": 317
+    },
+    {
+      "rank": 4,
       "title": "Prefactor",
       "url": "https://www.producthunt.com/products/prefactor/launches/prefactor?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+web-pulse+%28ID%3A+282925%29",
       "tagline": "Evaluate your AI Agents in real-time",
-      "votes_count": 608,
+      "votes_count": 607,
       "comments_count": 195
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "Hey Noah",
       "url": "https://www.producthunt.com/products/hey-noah/launches/hey-noah?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+web-pulse+%28ID%3A+282925%29",
       "tagline": "A proactive AI executive assistant for founders",
-      "votes_count": 605,
+      "votes_count": 601,
       "comments_count": 101
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "Wispr Flow Notetaker",
       "url": "https://www.producthunt.com/products/wisprflow/launches/wispr-flow-notetaker?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+web-pulse+%28ID%3A+282925%29",
       "tagline": "Meeting notes that get the details right.",
@@ -61,7 +53,7 @@
       "comments_count": 73
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "Lev8",
       "url": "https://www.producthunt.com/products/lev8/launches/lev8?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+web-pulse+%28ID%3A+282925%29",
       "tagline": "Find, research, and reach the right people",
@@ -69,47 +61,47 @@
       "comments_count": 138
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "Dograh",
       "url": "https://www.producthunt.com/products/dograh?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+web-pulse+%28ID%3A+282925%29",
       "tagline": "The open source VAPI alternative",
-      "votes_count": 552,
+      "votes_count": 557,
       "comments_count": 162
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "Memmy Agent",
       "url": "https://www.producthunt.com/products/memmy/launches/memmy-agent?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+web-pulse+%28ID%3A+282925%29",
       "tagline": "Let every AI remember the same you.",
-      "votes_count": 548,
+      "votes_count": 547,
       "comments_count": 214
     },
     {
-      "rank": 11,
+      "rank": 10,
       "title": "Adomate",
       "url": "https://www.producthunt.com/products/adomate/launches/adomate?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+web-pulse+%28ID%3A+282925%29",
       "tagline": "Turn data into winning ads. At scale.",
-      "votes_count": 540,
+      "votes_count": 537,
       "comments_count": 109
+    },
+    {
+      "rank": 11,
+      "title": "Grok Bot",
+      "url": "https://www.producthunt.com/products/grok?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+web-pulse+%28ID%3A+282925%29",
+      "tagline": "AI teammates that you can give real work to",
+      "votes_count": 523,
+      "comments_count": 23
     },
     {
       "rank": 12,
       "title": "Coldtea.ai",
       "url": "https://www.producthunt.com/products/coldtea?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+web-pulse+%28ID%3A+282925%29",
       "tagline": "Make your software self-driving",
-      "votes_count": 520,
+      "votes_count": 521,
       "comments_count": 70
     },
     {
       "rank": 13,
-      "title": "Grok Bot",
-      "url": "https://www.producthunt.com/products/grok?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+web-pulse+%28ID%3A+282925%29",
-      "tagline": "AI teammates that you can give real work to",
-      "votes_count": 518,
-      "comments_count": 23
-    },
-    {
-      "rank": 14,
       "title": "AI Search Console",
       "url": "https://www.producthunt.com/products/ai-search-console/launches/ai-search-console?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+web-pulse+%28ID%3A+282925%29",
       "tagline": "Prompt analytics and citation mapping for AI search",
@@ -117,33 +109,41 @@
       "comments_count": 278
     },
     {
-      "rank": 15,
-      "title": "Humalike x Hermes",
-      "url": "https://www.producthunt.com/products/humalike-2/launches/humalike-x-hermes?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+web-pulse+%28ID%3A+282925%29",
-      "tagline": "Social intelligence plugin for Hermes Agent",
-      "votes_count": 483,
-      "comments_count": 93
+      "rank": 14,
+      "title": "Astute",
+      "url": "https://www.producthunt.com/products/astute-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+web-pulse+%28ID%3A+282925%29",
+      "tagline": "Automate your B2B brand going viral, with new media creators",
+      "votes_count": 496,
+      "comments_count": 160
     },
     {
-      "rank": 16,
+      "rank": 15,
       "title": "Soloop",
       "url": "https://www.producthunt.com/products/soloop?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+web-pulse+%28ID%3A+282925%29",
       "tagline": "Approval-first Agent OS for solo founders",
-      "votes_count": 480,
+      "votes_count": 484,
       "comments_count": 67
+    },
+    {
+      "rank": 16,
+      "title": "Humalike x Hermes",
+      "url": "https://www.producthunt.com/products/humalike-2/launches/humalike-x-hermes?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+web-pulse+%28ID%3A+282925%29",
+      "tagline": "Social intelligence plugin for Hermes Agent",
+      "votes_count": 482,
+      "comments_count": 93
     },
     {
       "rank": 17,
       "title": "Migma AI",
       "url": "https://www.producthunt.com/products/migma-ai/launches/migma-ai-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+web-pulse+%28ID%3A+282925%29",
       "tagline": "AI runs your email marketing. Better with every send.",
-      "votes_count": 479,
+      "votes_count": 475,
       "comments_count": 110
     },
     {
       "rank": 18,
       "title": "Cloudflare OS",
-      "url": "https://www.producthunt.com/products/cloudflare?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+web-pulse+%28ID%3A+282925%29",
+      "url": "https://www.producthunt.com/products/cloudflare/launches/cloudflare-os-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+web-pulse+%28ID%3A+282925%29",
       "tagline": "Build the AI operating system for your company",
       "votes_count": 468,
       "comments_count": 3
@@ -153,7 +153,7 @@
       "title": "NextDoor.Company",
       "url": "https://www.producthunt.com/products/nextdoor-company/launches/nextdoor-company?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+web-pulse+%28ID%3A+282925%29",
       "tagline": "Discover startups hiring near you, on a map",
-      "votes_count": 464,
+      "votes_count": 462,
       "comments_count": 56
     },
     {
@@ -161,7 +161,7 @@
       "title": "Kane CLI",
       "url": "https://www.producthunt.com/products/lambdatest?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+web-pulse+%28ID%3A+282925%29",
       "tagline": "Natural language browser & mobile app tests from terminal",
-      "votes_count": 458,
+      "votes_count": 461,
       "comments_count": 56
     }
   ]

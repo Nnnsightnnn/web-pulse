@@ -1,0 +1,331 @@
+{
+  "source": "stackoverflow",
+  "label": "Stack Overflow — hot questions",
+  "fetched_at": "2026-08-20T08:10:40.429Z",
+  "items": [
+    {
+      "rank": 1,
+      "title": "How to install Rust standard library source code to /usr/local/lib/rustlib/src/rust offline from its rust-lang/rust GitHub sources?",
+      "url": "https://stackoverflow.com/questions/79996720/how-to-install-rust-standard-library-source-code-to-usr-local-lib-rustlib-src-r",
+      "score": 1,
+      "answers": 1,
+      "views": 33,
+      "tags": [
+        "rust",
+        "rustrover"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Tailwind CSS responsive layout behaves incorrectly between 1024px and 1600px despite using lg breakpoints",
+      "url": "https://stackoverflow.com/questions/79996723/tailwind-css-responsive-layout-behaves-incorrectly-between-1024px-and-1600px-des",
+      "score": 0,
+      "answers": 0,
+      "views": 28,
+      "tags": [
+        "advice",
+        "reactjs",
+        "tailwind-css"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Android stripping geo-location from photos before upload in browsers",
+      "url": "https://stackoverflow.com/questions/79996722/android-stripping-geo-location-from-photos-before-upload-in-browsers",
+      "score": 0,
+      "answers": 0,
+      "views": 13,
+      "tags": [
+        "android",
+        "html"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Is there any code to calculate space and time complexity using Python?",
+      "url": "https://stackoverflow.com/questions/79996709/is-there-any-code-to-calculate-space-and-time-complexity-using-python",
+      "score": -3,
+      "answers": 0,
+      "views": 50,
+      "tags": [
+        "advice",
+        "python",
+        "algorithm",
+        "machine-learning"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Firebase auth/invalid-credential \"Invalid OAuth response from apple.com\" with valid identityToken",
+      "url": "https://stackoverflow.com/questions/79996713/firebase-auth-invalid-credential-invalid-oauth-response-from-apple-com-with-va",
+      "score": 0,
+      "answers": 0,
+      "views": 30,
+      "tags": [
+        "flutter",
+        "firebase",
+        "firebase-authentication",
+        "sign-in-with-apple"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "An error during using my FastAPI app. ValueError: [TypeError('object is not iterable'), TypeError('vars() argument must have __dict__ attribute')]",
+      "url": "https://stackoverflow.com/questions/79996706/an-error-during-using-my-fastapi-app-valueerror-typeerrorobject-is-not-iter",
+      "score": -4,
+      "answers": 0,
+      "views": 43,
+      "tags": [
+        "python",
+        "fastapi",
+        "pydantic"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Bind DataGridColumn property to ViewModel property",
+      "url": "https://stackoverflow.com/questions/79996690/bind-datagridcolumn-property-to-viewmodel-property",
+      "score": 0,
+      "answers": 0,
+      "views": 42,
+      "tags": [
+        "c#",
+        "mvvm",
+        "binding",
+        "datagrid"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Golang indentation in VS Code",
+      "url": "https://stackoverflow.com/questions/79996702/golang-indentation-in-vs-code",
+      "score": -3,
+      "answers": 1,
+      "views": 38,
+      "tags": [
+        "tooling-recommendation",
+        "go"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Pyspark code to group the data by name and item calculate the total weight for duplicate items",
+      "url": "https://stackoverflow.com/questions/79996688/pyspark-code-to-group-the-data-by-name-and-item-calculate-the-total-weight-for-d",
+      "score": -2,
+      "answers": 0,
+      "views": 28,
+      "tags": [
+        "best-practices",
+        "pyspark"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "How to resolve the validation error which has come while running the code involving Docling which has been configured",
+      "url": "https://stackoverflow.com/questions/79996703/how-to-resolve-the-validation-error-which-has-come-while-running-the-code-involv",
+      "score": 1,
+      "answers": 0,
+      "views": 17,
+      "tags": [
+        "python",
+        "langchain"
+      ]
+    },
+    {
+      "rank": 11,
+      "title": "Android AccountManager addAccountExplicitly method returns false only for one user",
+      "url": "https://stackoverflow.com/questions/79996680/android-accountmanager-addaccountexplicitly-method-returns-false-only-for-one-us",
+      "score": 0,
+      "answers": 0,
+      "views": 44,
+      "tags": [
+        "android",
+        "accountmanager"
+      ]
+    },
+    {
+      "rank": 12,
+      "title": "Can't deploy to GitHub Pages after next-intl: Couldn't find next-intl config file",
+      "url": "https://stackoverflow.com/questions/79996679/cant-deploy-to-github-pages-after-next-intl-couldnt-find-next-intl-config-fil",
+      "score": 0,
+      "answers": 0,
+      "views": 33,
+      "tags": [
+        "next.js",
+        "github-actions",
+        "github-pages",
+        "next-intl"
+      ]
+    },
+    {
+      "rank": 13,
+      "title": "Can a PolarDB-PG sql_drop event trigger safely veto an indirect CSI index drop caused by DROP ... CASCADE?",
+      "url": "https://stackoverflow.com/questions/79996675/can-a-polardb-pg-sql-drop-event-trigger-safely-veto-an-indirect-csi-index-drop-c",
+      "score": 0,
+      "answers": 1,
+      "views": 41,
+      "tags": [
+        "triggers",
+        "plpgsql",
+        "polardb"
+      ]
+    },
+    {
+      "rank": 14,
+      "title": "WebView2 GetContentAsync returning null",
+      "url": "https://stackoverflow.com/questions/79996678/webview2-getcontentasync-returning-null",
+      "score": -1,
+      "answers": 0,
+      "views": 39,
+      "tags": [
+        "c#",
+        "webview2"
+      ]
+    },
+    {
+      "rank": 15,
+      "title": "Using a UserAnnotation() under a segmented Picker() loses first click",
+      "url": "https://stackoverflow.com/questions/79996669/using-a-userannotation-under-a-segmented-picker-loses-first-click",
+      "score": 0,
+      "answers": 1,
+      "views": 36,
+      "tags": [
+        "ios",
+        "swift",
+        "swiftui",
+        "picker"
+      ]
+    },
+    {
+      "rank": 16,
+      "title": "Update column in table 1 with data from table 2",
+      "url": "https://stackoverflow.com/questions/79996671/update-column-in-table-1-with-data-from-table-2",
+      "score": -3,
+      "answers": 1,
+      "views": 58,
+      "tags": [
+        "sql",
+        "mariadb",
+        "inner-join"
+      ]
+    },
+    {
+      "rank": 17,
+      "title": "Europe/Warsaw shifts an offset-less winter timestamp back one hour in Apache IoTDB",
+      "url": "https://stackoverflow.com/questions/79996672/europe-warsaw-shifts-an-offset-less-winter-timestamp-back-one-hour-in-apache-iot",
+      "score": 1,
+      "answers": 0,
+      "views": 43,
+      "tags": [
+        "timestamp",
+        "timezone",
+        "apache-iotdb"
+      ]
+    },
+    {
+      "rank": 18,
+      "title": "Unable to create a USB drive that boots (or displays) U-Boot",
+      "url": "https://stackoverflow.com/questions/79996650/unable-to-create-a-usb-drive-that-boots-or-displays-u-boot",
+      "score": 0,
+      "answers": 0,
+      "views": 36,
+      "tags": [
+        "embedded",
+        "sd-card",
+        "u-boot",
+        "beagleboard"
+      ]
+    },
+    {
+      "rank": 19,
+      "title": "Polars chaining programatic expression functions failing in with_columns",
+      "url": "https://stackoverflow.com/questions/79996667/polars-chaining-programatic-expression-functions-failing-in-with-columns",
+      "score": 0,
+      "answers": 1,
+      "views": 39,
+      "tags": [
+        "python-3.x",
+        "dataframe",
+        "python-polars",
+        "polars"
+      ]
+    },
+    {
+      "rank": 20,
+      "title": "Diesel query returning first row empty",
+      "url": "https://stackoverflow.com/questions/79996635/diesel-query-returning-first-row-empty",
+      "score": 0,
+      "answers": 0,
+      "views": 56,
+      "tags": [
+        "rust",
+        "mariadb",
+        "rust-diesel",
+        "rust-proc-macros"
+      ]
+    },
+    {
+      "rank": 21,
+      "title": "Why does my dialog box pop up again when I click NEXT?",
+      "url": "https://stackoverflow.com/questions/79996607/why-does-my-dialog-box-pop-up-again-when-i-click-next",
+      "score": 1,
+      "answers": 1,
+      "views": 67,
+      "tags": [
+        "python",
+        "pyqt5"
+      ]
+    },
+    {
+      "rank": 22,
+      "title": "Stripe Connect onboarding works in test mode but redirects to login in live mode",
+      "url": "https://stackoverflow.com/questions/79996644/stripe-connect-onboarding-works-in-test-mode-but-redirects-to-login-in-live-mode",
+      "score": 0,
+      "answers": 1,
+      "views": 74,
+      "tags": [
+        "advice",
+        "stripe-payments"
+      ]
+    },
+    {
+      "rank": 23,
+      "title": "Need some advice on how to build a robust threadpool in C",
+      "url": "https://stackoverflow.com/questions/79996656/need-some-advice-on-how-to-build-a-robust-threadpool-in-c",
+      "score": -1,
+      "answers": 0,
+      "views": 75,
+      "tags": [
+        "advice",
+        "c",
+        "multithreading"
+      ]
+    },
+    {
+      "rank": 24,
+      "title": "How can I use contentChildren on a directive on ng-template?",
+      "url": "https://stackoverflow.com/questions/79996663/how-can-i-use-contentchildren-on-a-directive-on-ng-template",
+      "score": 1,
+      "answers": 0,
+      "views": 29,
+      "tags": [
+        "angular"
+      ]
+    },
+    {
+      "rank": 25,
+      "title": "Can users pretend they have a different location with navigator.geolocation or is it save?",
+      "url": "https://stackoverflow.com/questions/79996634/can-users-pretend-they-have-a-different-location-with-navigator-geolocation-or-i",
+      "score": -5,
+      "answers": 1,
+      "views": 90,
+      "tags": [
+        "advice",
+        "javascript",
+        "html",
+        "geolocation",
+        "navigator"
+      ]
+    }
+  ]
+}

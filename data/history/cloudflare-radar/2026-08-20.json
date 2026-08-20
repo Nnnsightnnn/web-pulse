@@ -1,7 +1,7 @@
 {
   "source": "cloudflare-radar",
   "label": "Cloudflare Radar — top domains",
-  "fetched_at": "2026-08-19T08:11:20.586Z",
+  "fetched_at": "2026-08-20T08:10:42.158Z",
   "configured": true,
   "items": [
     {
@@ -162,8 +162,8 @@
       "title": "googleusercontent.com",
       "url": "https://googleusercontent.com",
       "category": "Content Servers",
-      "rank_delta_7d": 0,
-      "prev_rank_7d": 18,
+      "rank_delta_7d": 1,
+      "prev_rank_7d": 19,
       "is_new_to_top": false
     },
     {
@@ -180,44 +180,44 @@
       "title": "icloud.com",
       "url": "https://icloud.com",
       "category": "File Sharing",
-      "rank_delta_7d": -1,
-      "prev_rank_7d": 19,
+      "rank_delta_7d": -2,
+      "prev_rank_7d": 18,
       "is_new_to_top": false
     },
     {
       "rank": 21,
-      "title": "netflix.com",
-      "url": "https://netflix.com",
-      "category": "Movies",
-      "rank_delta_7d": 0,
-      "prev_rank_7d": 21,
+      "title": "live.com",
+      "url": "https://live.com",
+      "category": "Technology",
+      "rank_delta_7d": 3,
+      "prev_rank_7d": 24,
       "is_new_to_top": false
     },
     {
       "rank": 22,
-      "title": "live.com",
-      "url": "https://live.com",
-      "category": "Technology",
-      "rank_delta_7d": 1,
-      "prev_rank_7d": 23,
+      "title": "netflix.com",
+      "url": "https://netflix.com",
+      "category": "Movies",
+      "rank_delta_7d": -1,
+      "prev_rank_7d": 21,
       "is_new_to_top": false
     },
     {
       "rank": 23,
-      "title": "cloudflare-dns.com",
-      "url": "https://cloudflare-dns.com",
-      "category": "Content Servers",
-      "rank_delta_7d": 4,
-      "prev_rank_7d": 27,
-      "is_new_to_top": false
-    },
-    {
-      "rank": 24,
       "title": "ntp.org",
       "url": "https://ntp.org",
       "category": "Technology",
       "rank_delta_7d": 0,
-      "prev_rank_7d": 24,
+      "prev_rank_7d": 23,
+      "is_new_to_top": false
+    },
+    {
+      "rank": 24,
+      "title": "cloudflare-dns.com",
+      "url": "https://cloudflare-dns.com",
+      "category": "Content Servers",
+      "rank_delta_7d": 3,
+      "prev_rank_7d": 27,
       "is_new_to_top": false
     },
     {
