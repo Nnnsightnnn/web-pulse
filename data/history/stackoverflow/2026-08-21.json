@@ -1,0 +1,340 @@
+{
+  "source": "stackoverflow",
+  "label": "Stack Overflow — hot questions",
+  "fetched_at": "2026-08-21T08:09:22.577Z",
+  "items": [
+    {
+      "rank": 1,
+      "title": "How should I handle video hosting + piracy",
+      "url": "https://stackoverflow.com/questions/79996984/how-should-i-handle-video-hosting-piracy",
+      "score": -5,
+      "answers": 0,
+      "views": 42,
+      "tags": [
+        "best-practices",
+        "video-streaming"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Requires clause falsely parsed as declarator-id by -pedantic flag",
+      "url": "https://stackoverflow.com/questions/79996999/requires-clause-falsely-parsed-as-declarator-id-by-pedantic-flag",
+      "score": 0,
+      "answers": 1,
+      "views": 36,
+      "tags": [
+        "c++",
+        "templates",
+        "require",
+        "gcc-pedantic"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "How can I generate human-friendly numeric scale values between two float64 values in Go?",
+      "url": "https://stackoverflow.com/questions/79997009/how-can-i-generate-human-friendly-numeric-scale-values-between-two-float64-value",
+      "score": 0,
+      "answers": 1,
+      "views": 13,
+      "tags": [
+        "algorithm",
+        "go",
+        "axis"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "How does the javascript css div viewport know which html center is being displayed?",
+      "url": "https://stackoverflow.com/questions/79996994/how-does-the-javascript-css-div-viewport-know-which-html-center-is-being-display",
+      "score": -4,
+      "answers": 0,
+      "views": 49,
+      "tags": [
+        "html",
+        "css"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Can C++ \"happens-before\" order contradict physical wall-clock execution time?",
+      "url": "https://stackoverflow.com/questions/79996983/can-c-happens-before-order-contradict-physical-wall-clock-execution-time",
+      "score": 0,
+      "answers": 1,
+      "views": 43,
+      "tags": [
+        "c++",
+        "language-lawyer",
+        "atomic"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "How to restrict users from accessing one API endpoint if they are on a cheaper usage plan?",
+      "url": "https://stackoverflow.com/questions/79996993/how-to-restrict-users-from-accessing-one-api-endpoint-if-they-are-on-a-cheaper-u",
+      "score": 0,
+      "answers": 1,
+      "views": 36,
+      "tags": [
+        "best-practices",
+        "amazon-web-services",
+        "aws-api-gateway",
+        "api-gateway"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "How do I proxy upstream to Burp?",
+      "url": "https://stackoverflow.com/questions/79996988/how-do-i-proxy-upstream-to-burp",
+      "score": -3,
+      "answers": 1,
+      "views": 24,
+      "tags": [
+        "http-toolkit"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "How to fetch and launch installed apps from Android TV in an iOS TV Remote app (Swift / Network.framework)?",
+      "url": "https://stackoverflow.com/questions/79996989/how-to-fetch-and-launch-installed-apps-from-android-tv-in-an-ios-tv-remote-app",
+      "score": 0,
+      "answers": 0,
+      "views": 20,
+      "tags": [
+        "ios",
+        "swift",
+        "network-programming",
+        "android-tv",
+        "google-tv"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Lightweight state management patterns for multi-agent workflows without heavy frameworks",
+      "url": "https://stackoverflow.com/questions/79996973/lightweight-state-management-patterns-for-multi-agent-workflows-without-heavy-fr",
+      "score": -2,
+      "answers": 0,
+      "views": 37,
+      "tags": [
+        "best-practices",
+        "python",
+        "artificial-intelligence",
+        "agent"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Cargo build profile in the environment variable PROFILE is getting shown incorrectly",
+      "url": "https://stackoverflow.com/questions/79996976/cargo-build-profile-in-the-environment-variable-profile-is-getting-shown-incorre",
+      "score": 0,
+      "answers": 0,
+      "views": 36,
+      "tags": [
+        "rust",
+        "rust-cargo"
+      ]
+    },
+    {
+      "rank": 11,
+      "title": "Does a slow TX/RX rate on one device slow the entire network to that rate?",
+      "url": "https://stackoverflow.com/questions/79996970/does-a-slow-tx-rx-rate-on-one-device-slow-the-entire-network-to-that-rate",
+      "score": -2,
+      "answers": 0,
+      "views": 46,
+      "tags": [
+        "best-practices",
+        "wifi"
+      ]
+    },
+    {
+      "rank": 12,
+      "title": "What’s safer when deleting all records for one company from a shared table: filtering by company ID or using the full composite primary key?",
+      "url": "https://stackoverflow.com/questions/79996968/what-s-safer-when-deleting-all-records-for-one-company-from-a-shared-table-filt",
+      "score": 0,
+      "answers": 0,
+      "views": 36,
+      "tags": [
+        "best-practices",
+        "sql",
+        "transactions"
+      ]
+    },
+    {
+      "rank": 13,
+      "title": "Elementor Free: JavaScript changes tab-specific background image, but disables the default background when page is opened from the main menu",
+      "url": "https://stackoverflow.com/questions/79996959/elementor-free-javascript-changes-tab-specific-background-image-but-disables-t",
+      "score": 0,
+      "answers": 0,
+      "views": 49,
+      "tags": [
+        "javascript",
+        "css",
+        "background-image",
+        "pseudo-element",
+        "elementor"
+      ]
+    },
+    {
+      "rank": 14,
+      "title": "How do I get a random element from an array in a JSON file?",
+      "url": "https://stackoverflow.com/questions/79996936/how-do-i-get-a-random-element-from-an-array-in-a-json-file",
+      "score": 0,
+      "answers": 1,
+      "views": 68,
+      "tags": [
+        "javascript",
+        "arrays",
+        "json"
+      ]
+    },
+    {
+      "rank": 15,
+      "title": "Repeating groups and multi valued attributes",
+      "url": "https://stackoverflow.com/questions/79996943/repeating-groups-and-multi-valued-attributes",
+      "score": 2,
+      "answers": 1,
+      "views": 46,
+      "tags": [
+        "advice",
+        "database-design",
+        "database-normalization",
+        "first-normal-form"
+      ]
+    },
+    {
+      "rank": 16,
+      "title": "Should (double)(std::float16_t(1024) + std::float16_t(1025)) be 2048.0 or 2049.0?",
+      "url": "https://stackoverflow.com/questions/79996927/should-doublestdfloat16-t1024-stdfloat16-t1025-be-2048-0-or-2049-0",
+      "score": 4,
+      "answers": 2,
+      "views": 114,
+      "tags": [
+        "c++",
+        "floating-point",
+        "precision",
+        "floating-point-conversion",
+        "bfloat16"
+      ]
+    },
+    {
+      "rank": 17,
+      "title": "JUnit Test cases failing after upgrading to Gradle 9, Springboot 4 and Java 25",
+      "url": "https://stackoverflow.com/questions/79996939/junit-test-cases-failing-after-upgrading-to-gradle-9-springboot-4-and-java-25",
+      "score": 0,
+      "answers": 1,
+      "views": 41,
+      "tags": [
+        "java",
+        "spring-boot",
+        "gradle"
+      ]
+    },
+    {
+      "rank": 18,
+      "title": "Best practice for setter in a bidirectional self-referencing relationship",
+      "url": "https://stackoverflow.com/questions/79996928/best-practice-for-setter-in-a-bidirectional-self-referencing-relationship",
+      "score": -2,
+      "answers": 1,
+      "views": 39,
+      "tags": [
+        "best-practices",
+        "java",
+        "oop",
+        "jpa",
+        "design-patterns"
+      ]
+    },
+    {
+      "rank": 19,
+      "title": "@revolist/revogrid: Warning \"Defining revo-dropdown element...\" persists despite importing @revolist/revo-dropdown in vue",
+      "url": "https://stackoverflow.com/questions/79996958/revolist-revogrid-warning-defining-revo-dropdown-element-persists-despite",
+      "score": 0,
+      "answers": 0,
+      "views": 17,
+      "tags": [
+        "typescript",
+        "vue.js"
+      ]
+    },
+    {
+      "rank": 20,
+      "title": "Oracle 12c - Connection Problem With Service Name",
+      "url": "https://stackoverflow.com/questions/79996933/oracle-12c-connection-problem-with-service-name",
+      "score": 0,
+      "answers": 0,
+      "views": 34,
+      "tags": [
+        "php",
+        "oracle-database",
+        "oracle12c"
+      ]
+    },
+    {
+      "rank": 21,
+      "title": "Releveling factors vs post hoc tests",
+      "url": "https://stackoverflow.com/questions/79996950/releveling-factors-vs-post-hoc-tests",
+      "score": -3,
+      "answers": 0,
+      "views": 64,
+      "tags": [
+        "best-practices",
+        "r",
+        "lm"
+      ]
+    },
+    {
+      "rank": 22,
+      "title": "Pylance type error when using classic `attrs` library with type comments in py 3.5",
+      "url": "https://stackoverflow.com/questions/79996935/pylance-type-error-when-using-classic-attrs-library-with-type-comments-in-py-3",
+      "score": 4,
+      "answers": 1,
+      "views": 66,
+      "tags": [
+        "python",
+        "python-3.x",
+        "python-typing",
+        "pylance",
+        "python-attrs"
+      ]
+    },
+    {
+      "rank": 23,
+      "title": "How do I move the turtle sprite in python",
+      "url": "https://stackoverflow.com/questions/79996914/how-do-i-move-the-turtle-sprite-in-python",
+      "score": -7,
+      "answers": 0,
+      "views": 111,
+      "tags": [
+        "python",
+        "turtle-graphics",
+        "python-turtle"
+      ]
+    },
+    {
+      "rank": 24,
+      "title": "Why can't `terra` project a raster when I change the extent's xmin?",
+      "url": "https://stackoverflow.com/questions/79996850/why-cant-terra-project-a-raster-when-i-change-the-extents-xmin",
+      "score": 0,
+      "answers": 2,
+      "views": 85,
+      "tags": [
+        "r",
+        "terra",
+        "map-projections"
+      ]
+    },
+    {
+      "rank": 25,
+      "title": "Get Pandas to accept an arbitrary string of spaces as 'NaN'",
+      "url": "https://stackoverflow.com/questions/79996919/get-pandas-to-accept-an-arbitrary-string-of-spaces-as-nan",
+      "score": 1,
+      "answers": 2,
+      "views": 103,
+      "tags": [
+        "python",
+        "pandas",
+        "nan",
+        "read-csv"
+      ]
+    }
+  ]
+}
