@@ -1,14 +1,14 @@
 {
   "source": "hackernews",
   "label": "Hacker News — top stories",
-  "fetched_at": "2026-08-21T08:09:22.746Z",
+  "fetched_at": "2026-08-21T08:10:29.729Z",
   "items": [
     {
       "rank": 1,
       "title": "The Lost Treasure of Sid Meier's Pirates",
       "url": "https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/",
       "hn_url": "https://news.ycombinator.com/item?id=49384896",
-      "score": 14,
+      "score": 15,
       "comments": 2,
       "author": "spankibalt"
     },
@@ -26,7 +26,7 @@
       "title": "The August 17 outage",
       "url": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
       "hn_url": "https://news.ycombinator.com/item?id=49378957",
-      "score": 485,
+      "score": 486,
       "comments": 553,
       "author": "0xedb"
     },
@@ -44,12 +44,21 @@
       "title": "HTML Can Do That",
       "url": "https://chrisburnell.com/html-can-do-that/",
       "hn_url": "https://news.ycombinator.com/item?id=49362689",
-      "score": 761,
+      "score": 762,
       "comments": 184,
       "author": "encyclopedism"
     },
     {
       "rank": 6,
+      "title": "Malicious Rust crate Arrayref runs a build-time payload",
+      "url": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
+      "hn_url": "https://news.ycombinator.com/item?id=49374269",
+      "score": 480,
+      "comments": 409,
+      "author": "abhisek"
+    },
+    {
+      "rank": 7,
       "title": "The Religious Experience of Philip K. Dick by R. Crumb (1986)",
       "url": "https://philipdick.com/resources/miscellaneous/the-religious-experience-of-philip-k-dick-by-r-crumb-from-weirdo-17/",
       "hn_url": "https://news.ycombinator.com/item?id=49384224",
@@ -58,21 +67,12 @@
       "author": "wise_blood"
     },
     {
-      "rank": 7,
-      "title": "Malicious Rust crate Arrayref runs a build-time payload",
-      "url": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
-      "hn_url": "https://news.ycombinator.com/item?id=49374269",
-      "score": 478,
-      "comments": 409,
-      "author": "abhisek"
-    },
-    {
       "rank": 8,
       "title": "Version Control for Everything",
       "url": "https://tyoverby.com/posts/version-control-for-everything-else/",
       "hn_url": "https://news.ycombinator.com/item?id=49336358",
       "score": 23,
-      "comments": 11,
+      "comments": 12,
       "author": "evakhoury"
     },
     {
@@ -89,8 +89,8 @@
       "title": "I should have loved biology (2020)",
       "url": "https://jsomers.net/i-should-have-loved-biology/",
       "hn_url": "https://news.ycombinator.com/item?id=49377853",
-      "score": 264,
-      "comments": 102,
+      "score": 265,
+      "comments": 103,
       "author": "tyre"
     },
     {
@@ -98,8 +98,8 @@
       "title": "Japan tried to build an operating system for the world, the US intervened",
       "url": "https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/",
       "hn_url": "https://news.ycombinator.com/item?id=49384180",
-      "score": 80,
-      "comments": 38,
+      "score": 81,
+      "comments": 40,
       "author": "rdmuser"
     },
     {
@@ -113,21 +113,21 @@
     },
     {
       "rank": 13,
-      "title": "Show HN: Huzzah – a novel approach to coding with AI",
-      "url": "https://www.danielvaughn.dev/posts/huzzah/",
-      "hn_url": "https://news.ycombinator.com/item?id=49378768",
-      "score": 291,
-      "comments": 154,
-      "author": "danielvaughn"
-    },
-    {
-      "rank": 14,
       "title": "CIA funding helped keep NeXT afloat in the 80s",
       "url": "https://www.wsj.com/tech/steve-jobs-apple-next-cia-161b65f9?st=NWWds1&reflink=desktopwebshare_permalink",
       "hn_url": "https://news.ycombinator.com/item?id=49368886",
       "score": 392,
       "comments": 239,
       "author": "EwanG"
+    },
+    {
+      "rank": 14,
+      "title": "Show HN: Huzzah – a novel approach to coding with AI",
+      "url": "https://www.danielvaughn.dev/posts/huzzah/",
+      "hn_url": "https://news.ycombinator.com/item?id=49378768",
+      "score": 291,
+      "comments": 154,
+      "author": "danielvaughn"
     },
     {
       "rank": 15,
@@ -171,7 +171,7 @@
       "url": "https://github.com/zachahn/vomit",
       "hn_url": "https://news.ycombinator.com/item?id=49375996",
       "score": 243,
-      "comments": 241,
+      "comments": 242,
       "author": "Bluestein"
     },
     {
@@ -194,21 +194,21 @@
     },
     {
       "rank": 22,
-      "title": "Show HN: Argentic – An L402 Lightning toll booth for AI scraping agents",
-      "url": "https://Argentic.network",
-      "hn_url": "https://news.ycombinator.com/item?id=49384477",
-      "score": 5,
-      "comments": 2,
-      "author": "Ag0146"
-    },
-    {
-      "rank": 23,
       "title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
       "url": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
       "hn_url": "https://news.ycombinator.com/item?id=49372583",
       "score": 954,
       "comments": 298,
       "author": "emctech"
+    },
+    {
+      "rank": 23,
+      "title": "Show HN: Argentic – An L402 Lightning toll booth for AI scraping agents",
+      "url": "https://Argentic.network",
+      "hn_url": "https://news.ycombinator.com/item?id=49384477",
+      "score": 5,
+      "comments": 2,
+      "author": "Ag0146"
     },
     {
       "rank": 24,

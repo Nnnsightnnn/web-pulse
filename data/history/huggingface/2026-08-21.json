@@ -1,7 +1,7 @@
 {
   "source": "huggingface",
   "label": "Hugging Face — trending models",
-  "fetched_at": "2026-08-21T08:09:22.807Z",
+  "fetched_at": "2026-08-21T08:10:29.514Z",
   "items": [
     {
       "rank": 1,
@@ -9,8 +9,8 @@
       "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
       "author": "Qwen",
       "downloads": 1373584,
-      "likes": 11820,
-      "trending_score": 6672,
+      "likes": 11821,
+      "trending_score": 6628,
       "pipeline_tag": "image-text-to-text",
       "last_modified": "2026-08-14T15:00:01.000Z"
     },
@@ -27,17 +27,6 @@
     },
     {
       "rank": 3,
-      "title": "MiniMaxAI/MiniMax-Music3",
-      "url": "https://huggingface.co/MiniMaxAI/MiniMax-Music3",
-      "author": "MiniMaxAI",
-      "downloads": 14471,
-      "likes": 1135,
-      "trending_score": 620,
-      "pipeline_tag": "text-to-audio",
-      "last_modified": "2026-08-14T10:51:40.000Z"
-    },
-    {
-      "rank": 4,
       "title": "orcarouter/Qwen3.8-27B-Uncensored-MLX",
       "url": "https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-MLX",
       "author": "orcarouter",
@@ -46,6 +35,17 @@
       "trending_score": 619,
       "pipeline_tag": "image-text-to-text",
       "last_modified": "2026-08-20T08:36:23.000Z"
+    },
+    {
+      "rank": 4,
+      "title": "MiniMaxAI/MiniMax-Music3",
+      "url": "https://huggingface.co/MiniMaxAI/MiniMax-Music3",
+      "author": "MiniMaxAI",
+      "downloads": 14471,
+      "likes": 1135,
+      "trending_score": 618,
+      "pipeline_tag": "text-to-audio",
+      "last_modified": "2026-08-14T10:51:40.000Z"
     },
     {
       "rank": 5,
@@ -119,8 +119,8 @@
       "url": "https://huggingface.co/OBLITERATUS/Qwen3.8-27B-OBLITERATED",
       "author": "OBLITERATUS",
       "downloads": 4415,
-      "likes": 332,
-      "trending_score": 306,
+      "likes": 334,
+      "trending_score": 308,
       "pipeline_tag": "text-generation",
       "last_modified": "2026-08-21T00:35:23.000Z"
     },
@@ -219,7 +219,7 @@
       "author": "moonshotai",
       "downloads": 2349853,
       "likes": 10894,
-      "trending_score": 194,
+      "trending_score": 193,
       "pipeline_tag": "image-text-to-text",
       "last_modified": "2026-08-20T04:57:37.000Z"
     },
