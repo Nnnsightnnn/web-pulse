@@ -1,7 +1,7 @@
 {
   "source": "huggingface",
   "label": "Hugging Face — trending models",
-  "fetched_at": "2026-08-24T10:34:02.717Z",
+  "fetched_at": "2026-08-24T10:35:07.524Z",
   "items": [
     {
       "rank": 1,
@@ -21,7 +21,7 @@
       "author": "unsloth",
       "downloads": 7009063,
       "likes": 2768,
-      "trending_score": 1097,
+      "trending_score": 1095,
       "pipeline_tag": null,
       "last_modified": "2026-08-20T12:04:25.000Z"
     },
@@ -31,7 +31,7 @@
       "url": "https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-MLX",
       "author": "orcarouter",
       "downloads": 57947,
-      "likes": 991,
+      "likes": 992,
       "trending_score": 809,
       "pipeline_tag": "image-text-to-text",
       "last_modified": "2026-08-24T09:44:01.000Z"
@@ -76,7 +76,7 @@
       "author": "Lightricks",
       "downloads": 790378,
       "likes": 1670,
-      "trending_score": 398,
+      "trending_score": 397,
       "pipeline_tag": "image-to-video",
       "last_modified": "2026-08-17T13:54:21.000Z"
     },
@@ -181,17 +181,6 @@
     },
     {
       "rank": 17,
-      "title": "DavidAU/Qwen3.8-27B-Cold-Fusion-GAIN-V1.1-NM-DAU-NEO-MAX-MTP-GGUF",
-      "url": "https://huggingface.co/DavidAU/Qwen3.8-27B-Cold-Fusion-GAIN-V1.1-NM-DAU-NEO-MAX-MTP-GGUF",
-      "author": "DavidAU",
-      "downloads": 209017,
-      "likes": 216,
-      "trending_score": 208,
-      "pipeline_tag": "image-text-to-text",
-      "last_modified": "2026-08-23T01:21:45.000Z"
-    },
-    {
-      "rank": 18,
       "title": "z-lab/Qwen3.8-27B-DFlash2",
       "url": "https://huggingface.co/z-lab/Qwen3.8-27B-DFlash2",
       "author": "z-lab",
@@ -200,6 +189,17 @@
       "trending_score": 207,
       "pipeline_tag": "text-generation",
       "last_modified": "2026-08-19T02:52:37.000Z"
+    },
+    {
+      "rank": 18,
+      "title": "DavidAU/Qwen3.8-27B-Cold-Fusion-GAIN-V1.1-NM-DAU-NEO-MAX-MTP-GGUF",
+      "url": "https://huggingface.co/DavidAU/Qwen3.8-27B-Cold-Fusion-GAIN-V1.1-NM-DAU-NEO-MAX-MTP-GGUF",
+      "author": "DavidAU",
+      "downloads": 209017,
+      "likes": 216,
+      "trending_score": 207,
+      "pipeline_tag": "image-text-to-text",
+      "last_modified": "2026-08-23T01:21:45.000Z"
     },
     {
       "rank": 19,
