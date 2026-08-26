@@ -1,0 +1,232 @@
+{
+  "source": "hackernews",
+  "label": "Hacker News — top stories",
+  "fetched_at": "2026-08-26T08:08:32.582Z",
+  "items": [
+    {
+      "rank": 1,
+      "title": "Apple introduces M6 and M5 Ultra",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
+      "hn_url": "https://news.ycombinator.com/item?id=49433292",
+      "score": 1108,
+      "comments": 1061,
+      "author": "interpol_p"
+    },
+    {
+      "rank": 2,
+      "title": "Stalking the Wily Hacker: 40 years later – Cliff Stoll [video]",
+      "url": "https://www.youtube.com/watch?v=656058JxTM0",
+      "hn_url": "https://news.ycombinator.com/item?id=49395802",
+      "score": 66,
+      "comments": 19,
+      "author": "zoenolan"
+    },
+    {
+      "rank": 3,
+      "title": "Harvest (IBM 7950): Supercomputer for cryptanalysis at the NSA in the Cold War",
+      "url": "https://spectrum.ieee.org/cold-war-codebreaker-nsa-ibm",
+      "hn_url": "https://news.ycombinator.com/item?id=49444232",
+      "score": 27,
+      "comments": 6,
+      "author": "jnord"
+    },
+    {
+      "rank": 4,
+      "title": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
+      "url": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
+      "hn_url": "https://news.ycombinator.com/item?id=49439017",
+      "score": 373,
+      "comments": 185,
+      "author": "sunnynagra"
+    },
+    {
+      "rank": 5,
+      "title": "Queryable Executables",
+      "url": "https://fzakaria.com/2026/08/24/actually-queryable-executables",
+      "hn_url": "https://news.ycombinator.com/item?id=49442589",
+      "score": 150,
+      "comments": 27,
+      "author": "rguiscard"
+    },
+    {
+      "rank": 6,
+      "title": "OpenAI Jalapeño: Better than Nvidia Blackwell",
+      "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
+      "hn_url": "https://news.ycombinator.com/item?id=49434378",
+      "score": 457,
+      "comments": 292,
+      "author": "bmulholland"
+    },
+    {
+      "rank": 7,
+      "title": "New Mac Studio with M5 Max and M5 Ultra",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
+      "hn_url": "https://news.ycombinator.com/item?id=49433316",
+      "score": 759,
+      "comments": 501,
+      "author": "interpol_p"
+    },
+    {
+      "rank": 8,
+      "title": "Black hole singularity is a surface not a point",
+      "url": "https://arxiv.org/abs/2608.21590",
+      "hn_url": "https://news.ycombinator.com/item?id=49437210",
+      "score": 232,
+      "comments": 172,
+      "author": "raattgift"
+    },
+    {
+      "rank": 9,
+      "title": "New Mac mini, featuring M6 and M5 Pro",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/",
+      "hn_url": "https://news.ycombinator.com/item?id=49433450",
+      "score": 487,
+      "comments": 299,
+      "author": "runako"
+    },
+    {
+      "rank": 10,
+      "title": "Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others",
+      "url": "https://github.com/runetes/maiao",
+      "hn_url": "https://news.ycombinator.com/item?id=49441666",
+      "score": 73,
+      "comments": 40,
+      "author": "zdw"
+    },
+    {
+      "rank": 11,
+      "title": "Agentic Context Management: Memory and Cost as Architecture Problems",
+      "url": "https://arxiv.org/abs/2607.21503",
+      "hn_url": "https://news.ycombinator.com/item?id=49443523",
+      "score": 47,
+      "comments": 15,
+      "author": "gdad"
+    },
+    {
+      "rank": 12,
+      "title": "When str.lower() is a security vulnerability in Python",
+      "url": "https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability",
+      "hn_url": "https://news.ycombinator.com/item?id=49440410",
+      "score": 112,
+      "comments": 46,
+      "author": "rbanffy"
+    },
+    {
+      "rank": 13,
+      "title": "C2PA Cameras Do Not Survive Contact with Reality",
+      "url": "https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html",
+      "hn_url": "https://news.ycombinator.com/item?id=49439499",
+      "score": 142,
+      "comments": 81,
+      "author": "Retr0id"
+    },
+    {
+      "rank": 14,
+      "title": "More than half of adults in U.S. say they lack basic statistical understanding",
+      "url": "https://www.psu.edu/news/research/story/more-half-adults-us-say-they-lack-basic-statistical-understanding",
+      "hn_url": "https://news.ycombinator.com/item?id=49444514",
+      "score": 72,
+      "comments": 100,
+      "author": "giuliomagnifico"
+    },
+    {
+      "rank": 15,
+      "title": "Nitter and XCancel receive cease and desist notices",
+      "url": "https://github.com/zedeus/nitter/issues/1442",
+      "hn_url": "https://news.ycombinator.com/item?id=49437283",
+      "score": 871,
+      "comments": 713,
+      "author": "Banditoz"
+    },
+    {
+      "rank": 16,
+      "title": "Building a backyard office, the build and cost breakdown",
+      "url": "https://www.imkylelambert.com/articles/building-a-backyard-office-the-build-and-cost-breakdown",
+      "hn_url": "https://news.ycombinator.com/item?id=49434645",
+      "score": 333,
+      "comments": 211,
+      "author": "surprisetalk"
+    },
+    {
+      "rank": 17,
+      "title": "Tooltips need a delay, and then they need to skip it",
+      "url": "https://blog.master.dev/tooltips-need-a-delay-and-then-they-need-to-skip-it/",
+      "hn_url": "https://news.ycombinator.com/item?id=49436786",
+      "score": 168,
+      "comments": 44,
+      "author": "ibobev"
+    },
+    {
+      "rank": 18,
+      "title": "Run OpenBSD on DigitalOcean for $4/month",
+      "url": "https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/",
+      "hn_url": "https://news.ycombinator.com/item?id=49437483",
+      "score": 159,
+      "comments": 72,
+      "author": "speckx"
+    },
+    {
+      "rank": 19,
+      "title": "Bomb fishing is wreaking havoc on Indonesia's coral reefs",
+      "url": "https://e360.yale.edu/digest/bomb-fishing-coral-reefs",
+      "hn_url": "https://news.ycombinator.com/item?id=49434820",
+      "score": 308,
+      "comments": 160,
+      "author": "speckx"
+    },
+    {
+      "rank": 20,
+      "title": "Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM",
+      "url": "https://github.com/swimmingbrain/texbrain",
+      "hn_url": "https://news.ycombinator.com/item?id=49441375",
+      "score": 89,
+      "comments": 19,
+      "author": "swimmingbrain"
+    },
+    {
+      "rank": 21,
+      "title": "Don't Wordle",
+      "url": "https://dontwordle.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=49432319",
+      "score": 344,
+      "comments": 121,
+      "author": "Hbruz0"
+    },
+    {
+      "rank": 22,
+      "title": "Show HN: I made a Raspberry with Qwen my local car AI",
+      "url": "https://github.com/ThinkOffApp/CarWatch",
+      "hn_url": "https://news.ycombinator.com/item?id=49435675",
+      "score": 132,
+      "comments": 37,
+      "author": "petruspennanen"
+    },
+    {
+      "rank": 23,
+      "title": "Show HN: LatticeDB – Like SQLite but for graph databases",
+      "url": "https://github.com/jeffhajewski/latticedb",
+      "hn_url": "https://news.ycombinator.com/item?id=49437049",
+      "score": 149,
+      "comments": 38,
+      "author": "smiths1999"
+    },
+    {
+      "rank": 24,
+      "title": "Dolly Parton has died",
+      "url": "https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead",
+      "hn_url": "https://news.ycombinator.com/item?id=49438052",
+      "score": 1429,
+      "comments": 217,
+      "author": "helsinkiandrew"
+    },
+    {
+      "rank": 25,
+      "title": "How credit card rewards became a $9.2B wealth transfer",
+      "url": "https://www.library.hbs.edu/working-knowledge/how-credit-card-rewards-became-multibillion-dollar-wealth-transfer",
+      "hn_url": "https://news.ycombinator.com/item?id=49432201",
+      "score": 165,
+      "comments": 300,
+      "author": "conbrian"
+    }
+  ]
+}
