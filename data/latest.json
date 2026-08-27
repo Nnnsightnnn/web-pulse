@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-26T08:09:10.806Z",
+  "generated_at": "2026-08-26T08:10:26.460Z",
   "sources": {
     "wikipedia": {
       "source": "wikipedia",
       "label": "Wikipedia — most read yesterday",
-      "fetched_at": "2026-08-26T08:08:32.224Z",
+      "fetched_at": "2026-08-26T08:09:45.526Z",
       "data_date": "2026-08-25",
       "items": [
         {
@@ -162,7 +162,7 @@
     "hackernews": {
       "source": "hackernews",
       "label": "Hacker News — top stories",
-      "fetched_at": "2026-08-26T08:08:32.582Z",
+      "fetched_at": "2026-08-26T08:09:45.701Z",
       "items": [
         {
           "rank": 1,
@@ -223,7 +223,7 @@
           "title": "New Mac Studio with M5 Max and M5 Ultra",
           "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
           "hn_url": "https://news.ycombinator.com/item?id=49433316",
-          "score": 759,
+          "score": 760,
           "comments": 501,
           "author": "interpol_p"
         },
@@ -274,29 +274,29 @@
         },
         {
           "rank": 13,
-          "title": "C2PA Cameras Do Not Survive Contact with Reality",
-          "url": "https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html",
-          "hn_url": "https://news.ycombinator.com/item?id=49439499",
-          "score": 142,
-          "comments": 81,
-          "author": "Retr0id"
-        },
-        {
-          "rank": 14,
           "title": "More than half of adults in U.S. say they lack basic statistical understanding",
           "url": "https://www.psu.edu/news/research/story/more-half-adults-us-say-they-lack-basic-statistical-understanding",
           "hn_url": "https://news.ycombinator.com/item?id=49444514",
-          "score": 72,
-          "comments": 100,
+          "score": 73,
+          "comments": 101,
           "author": "giuliomagnifico"
+        },
+        {
+          "rank": 14,
+          "title": "C2PA Cameras Do Not Survive Contact with Reality",
+          "url": "https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html",
+          "hn_url": "https://news.ycombinator.com/item?id=49439499",
+          "score": 143,
+          "comments": 81,
+          "author": "Retr0id"
         },
         {
           "rank": 15,
           "title": "Nitter and XCancel receive cease and desist notices",
           "url": "https://github.com/zedeus/nitter/issues/1442",
           "hn_url": "https://news.ycombinator.com/item?id=49437283",
-          "score": 871,
-          "comments": 713,
+          "score": 872,
+          "comments": 715,
           "author": "Banditoz"
         },
         {
@@ -337,6 +337,15 @@
         },
         {
           "rank": 20,
+          "title": "Don't Wordle",
+          "url": "https://dontwordle.com/",
+          "hn_url": "https://news.ycombinator.com/item?id=49432319",
+          "score": 346,
+          "comments": 121,
+          "author": "Hbruz0"
+        },
+        {
+          "rank": 21,
           "title": "Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM",
           "url": "https://github.com/swimmingbrain/texbrain",
           "hn_url": "https://news.ycombinator.com/item?id=49441375",
@@ -345,16 +354,16 @@
           "author": "swimmingbrain"
         },
         {
-          "rank": 21,
-          "title": "Don't Wordle",
-          "url": "https://dontwordle.com/",
-          "hn_url": "https://news.ycombinator.com/item?id=49432319",
-          "score": 344,
-          "comments": 121,
-          "author": "Hbruz0"
+          "rank": 22,
+          "title": "Disrupting a new covert influence campaign from Russia",
+          "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia/",
+          "hn_url": "https://news.ycombinator.com/item?id=49445252",
+          "score": 8,
+          "comments": 1,
+          "author": "sam_lowry_"
         },
         {
-          "rank": 22,
+          "rank": 23,
           "title": "Show HN: I made a Raspberry with Qwen my local car AI",
           "url": "https://github.com/ThinkOffApp/CarWatch",
           "hn_url": "https://news.ycombinator.com/item?id=49435675",
@@ -363,7 +372,7 @@
           "author": "petruspennanen"
         },
         {
-          "rank": 23,
+          "rank": 24,
           "title": "Show HN: LatticeDB – Like SQLite but for graph databases",
           "url": "https://github.com/jeffhajewski/latticedb",
           "hn_url": "https://news.ycombinator.com/item?id=49437049",
@@ -372,29 +381,20 @@
           "author": "smiths1999"
         },
         {
-          "rank": 24,
+          "rank": 25,
           "title": "Dolly Parton has died",
           "url": "https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead",
           "hn_url": "https://news.ycombinator.com/item?id=49438052",
-          "score": 1429,
+          "score": 1430,
           "comments": 217,
           "author": "helsinkiandrew"
-        },
-        {
-          "rank": 25,
-          "title": "How credit card rewards became a $9.2B wealth transfer",
-          "url": "https://www.library.hbs.edu/working-knowledge/how-credit-card-rewards-became-multibillion-dollar-wealth-transfer",
-          "hn_url": "https://news.ycombinator.com/item?id=49432201",
-          "score": 165,
-          "comments": 300,
-          "author": "conbrian"
         }
       ]
     },
     "github": {
       "source": "github",
       "label": "GitHub — trending today",
-      "fetched_at": "2026-08-26T08:08:33.275Z",
+      "fetched_at": "2026-08-26T08:09:45.588Z",
       "items": [
         {
           "rank": 1,
@@ -403,7 +403,7 @@
           "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
           "language": "JavaScript",
           "stars_today": 1698,
-          "stars": 19682,
+          "stars": 19684,
           "forks": 2001
         },
         {
@@ -413,7 +413,7 @@
           "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
           "language": "Python",
           "stars_today": 351,
-          "stars": 1926,
+          "stars": 1927,
           "forks": 182
         },
         {
@@ -423,7 +423,7 @@
           "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
           "language": "Python",
           "stars_today": 1265,
-          "stars": 35717,
+          "stars": 35718,
           "forks": 12214
         },
         {
@@ -443,7 +443,7 @@
           "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
           "language": "Python",
           "stars_today": 218,
-          "stars": 100525,
+          "stars": 100526,
           "forks": 19389
         },
         {
@@ -463,7 +463,7 @@
           "description": "Learn it. Build it. Ship it for others.",
           "language": "Python",
           "stars_today": 569,
-          "stars": 49291,
+          "stars": 49292,
           "forks": 8598
         },
         {
@@ -483,7 +483,7 @@
           "description": "Beautiful, Modern & Opinionated Linux",
           "language": "Shell",
           "stars_today": 1083,
-          "stars": 31556,
+          "stars": 31557,
           "forks": 3206
         },
         {
@@ -493,7 +493,7 @@
           "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
           "language": "Python",
           "stars_today": 161,
-          "stars": 134409,
+          "stars": 134410,
           "forks": 19760
         },
         {
@@ -503,7 +503,7 @@
           "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
           "language": null,
           "stars_today": 830,
-          "stars": 207414,
+          "stars": 207415,
           "forks": 21152
         },
         {
@@ -513,7 +513,7 @@
           "description": "Lightweight coding agent that runs in your terminal",
           "language": "Rust",
           "stars_today": 1181,
-          "stars": 118471,
+          "stars": 118472,
           "forks": 18055
         },
         {
@@ -561,7 +561,7 @@
     "google-trends": {
       "source": "google-trends",
       "label": "Google Trends — trending searches",
-      "fetched_at": "2026-08-26T08:08:32.443Z",
+      "fetched_at": "2026-08-26T08:09:46.029Z",
       "countries": [
         "US",
         "GB",
@@ -584,17 +584,6 @@
         },
         {
           "rank": 2,
-          "title": "福岡天気",
-          "geos": [
-            "JP"
-          ],
-          "traffic_estimate": 20000,
-          "news_title": "【速報】福岡市で初の酷暑日 博多区で40.4℃を観測 熱中症警戒アラート発表中 対策を呼びかけ",
-          "news_url": "https://news.yahoo.co.jp/pickup/6593134",
-          "news_source": "Yahoo!ニュース"
-        },
-        {
-          "rank": 3,
           "title": "lunar eclipses",
           "geos": [
             "US"
@@ -605,7 +594,7 @@
           "news_source": "BBC"
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "பயிற்சியாளர்",
           "geos": [
             "IN"
@@ -616,7 +605,7 @@
           "news_source": "DinaMani"
         },
         {
-          "rank": 5,
+          "rank": 4,
           "title": "mg hector tomahawk",
           "geos": [
             "IN"
@@ -625,6 +614,17 @@
           "news_title": "MG Hector Tomahawk electric SUV launched at Rs 19.49 lakh",
           "news_url": "https://www.team-bhp.com/news/mg-hector-tomahawk-electric-suv-launched-rs-1949-lakh",
           "news_source": "Team-BHP"
+        },
+        {
+          "rank": 5,
+          "title": "雨",
+          "geos": [
+            "JP"
+          ],
+          "traffic_estimate": 2000,
+          "news_title": "我市启动市防汛三级应急响应",
+          "news_url": "https://epaper.tianjinwe.com/tjrb/html/2026-08/26/content_143086_3774395.htm",
+          "news_source": "天津日报"
         },
         {
           "rank": 6,
@@ -683,6 +683,17 @@
         },
         {
           "rank": 11,
+          "title": "天皇杯",
+          "geos": [
+            "JP"
+          ],
+          "traffic_estimate": 1000,
+          "news_title": "",
+          "news_url": "",
+          "news_source": ""
+        },
+        {
+          "rank": 12,
           "title": "binance exchange",
           "geos": [
             "BR"
@@ -693,7 +704,7 @@
           "news_source": "SpaceMoney"
         },
         {
-          "rank": 12,
+          "rank": 13,
           "title": "wirtschaft russlands",
           "geos": [
             "DE"
@@ -704,7 +715,7 @@
           "news_source": "tagesschau.de"
         },
         {
-          "rank": 13,
+          "rank": 14,
           "title": "hospital",
           "geos": [
             "US"
@@ -715,7 +726,7 @@
           "news_source": "NPR"
         },
         {
-          "rank": 14,
+          "rank": 15,
           "title": "లేడీ సూపర్ స్టార్ నయనతార",
           "geos": [
             "IN"
@@ -726,7 +737,7 @@
           "news_source": "Eenadu"
         },
         {
-          "rank": 15,
+          "rank": 16,
           "title": "nepal",
           "geos": [
             "IN"
@@ -737,25 +748,14 @@
           "news_source": "NDTV"
         },
         {
-          "rank": 16,
-          "title": "校長",
-          "geos": [
-            "JP"
-          ],
-          "traffic_estimate": 500,
-          "news_title": "辺野古転覆事故の遺族がコメント「検証結果の責任はこれからも」 同志社理事長ら辞任受け",
-          "news_url": "https://news.yahoo.co.jp/pickup/6593129",
-          "news_source": "Yahoo!ニュース"
-        },
-        {
           "rank": 17,
-          "title": "皆藤 愛子",
+          "title": "竜巻注意情報",
           "geos": [
             "JP"
           ],
           "traffic_estimate": 500,
-          "news_title": "42歳・皆藤愛子、体のラインくっきりニットワンピース姿 「惚れてまう」「世界一美人」と称賛の声（ENCOUNT）",
-          "news_url": "https://news.yahoo.co.jp/articles/626cd0346d8109804bbec69e96012c73604af9dd",
+          "news_title": "【気象防災速報】群馬県全域に竜巻注意情報 気象庁 空の様子に注意 積乱雲が近づく兆しある場合は頑丈な建物内に移動などを",
+          "news_url": "https://news.yahoo.co.jp/articles/490dd1a6cb405438b5891a79184bcd69a53954ae",
           "news_source": "Yahoo!ニュース"
         },
         {
@@ -851,7 +851,7 @@
     "cloudflare-radar": {
       "source": "cloudflare-radar",
       "label": "Cloudflare Radar — top domains",
-      "fetched_at": "2026-08-26T08:08:32.830Z",
+      "fetched_at": "2026-08-26T08:09:45.923Z",
       "configured": true,
       "items": [
         {
@@ -1084,7 +1084,7 @@
     "lemmy": {
       "source": "lemmy",
       "label": "Lemmy — top of the day",
-      "fetched_at": "2026-08-26T08:08:32.487Z",
+      "fetched_at": "2026-08-26T08:09:45.824Z",
       "items": [
         {
           "rank": 1,
@@ -1112,7 +1112,7 @@
           "url": "https://lemmy.world/post/51114462",
           "external_url": "https://discuss.online/pictrs/image/513f2a16-3588-4728-8d9d-481653b55041.jpeg",
           "community": "microblogmemes",
-          "score": 1070,
+          "score": 1072,
           "comments": 54,
           "author": "VetOfTheSeas"
         },
@@ -1142,7 +1142,7 @@
           "url": "https://lemmy.world/post/51112959",
           "external_url": "https://discuss.online/pictrs/image/03b6bb47-c34b-4159-bfcd-9767d3a0f9c4.jpeg",
           "community": "workreform",
-          "score": 911,
+          "score": 913,
           "comments": 90,
           "author": "VetOfTheSeas"
         },
@@ -1152,7 +1152,7 @@
           "url": "https://lemmy.world/post/51090002",
           "external_url": "https://lemmy.ml/pictrs/image/b0ae1165-9a51-4ea3-a14c-159834cd879e.jpeg",
           "community": "politicalmemes",
-          "score": 810,
+          "score": 811,
           "comments": 23,
           "author": "InterestingUsername"
         },
@@ -1182,7 +1182,7 @@
           "url": "https://lemmy.world/post/51107039",
           "external_url": "https://lemmy.world/pictrs/image/73b5552c-537a-4de4-9f7d-d274fedf5714.jpeg",
           "community": "lemmyshitpost",
-          "score": 720,
+          "score": 722,
           "comments": 99,
           "author": "WanderWisley"
         },
@@ -1252,7 +1252,7 @@
           "url": "https://lemmy.world/post/51110413",
           "external_url": "https://lemmy.blahaj.zone/pictrs/image/0750972a-4a6a-4a1f-8d38-72c90fadb027.webp",
           "community": "memes",
-          "score": 579,
+          "score": 582,
           "comments": 17,
           "author": "not_IO"
         },
@@ -1282,7 +1282,7 @@
           "url": "https://lemmy.world/post/51096134",
           "external_url": "https://lemmy.ml/pictrs/image/1dc91cc2-d44b-4c0a-a7fa-21f2a3a2611d.webp",
           "community": "whitepeopletwitter",
-          "score": 555,
+          "score": 556,
           "comments": 23,
           "author": "cm0002"
         },
@@ -1332,7 +1332,7 @@
           "url": "https://lemmy.world/post/51112776",
           "external_url": "https://discuss.online/pictrs/image/147f3bea-839a-479e-b27d-e5ca3ab8d6ce.jpeg",
           "community": "DeFlock",
-          "score": 489,
+          "score": 490,
           "comments": 23,
           "author": "VetOfTheSeas"
         }
@@ -1341,7 +1341,7 @@
     "stackoverflow": {
       "source": "stackoverflow",
       "label": "Stack Overflow — hot questions",
-      "fetched_at": "2026-08-26T08:08:32.432Z",
+      "fetched_at": "2026-08-26T08:09:45.632Z",
       "items": [
         {
           "rank": 1,
@@ -1362,7 +1362,7 @@
           "url": "https://stackoverflow.com/questions/79998284/paginated-report-render-issue",
           "score": 0,
           "answers": 0,
-          "views": 13,
+          "views": 14,
           "tags": [
             "azure-application-gateway",
             "powerbi-paginated-reports"
@@ -1478,7 +1478,7 @@
           "url": "https://stackoverflow.com/questions/79998224/how-to-merge-specific-rows-in-a-pandas-dataframe",
           "score": 0,
           "answers": 2,
-          "views": 84,
+          "views": 85,
           "tags": [
             "python",
             "pandas",
@@ -1670,7 +1670,7 @@
     "steam": {
       "source": "steam",
       "label": "Steam — top games (24h peak)",
-      "fetched_at": "2026-08-26T08:08:32.756Z",
+      "fetched_at": "2026-08-26T08:09:45.935Z",
       "items": [
         {
           "rank": 1,
@@ -1952,7 +1952,7 @@
     "youtube": {
       "source": "youtube",
       "label": "YouTube — trending videos",
-      "fetched_at": "2026-08-26T08:08:32.298Z",
+      "fetched_at": "2026-08-26T08:09:45.547Z",
       "configured": true,
       "items": [
         {
@@ -1961,15 +1961,15 @@
           "url": "https://www.youtube.com/watch?v=_9jaJtmraXA",
           "channel": "Taylor Swift",
           "views": 2331109,
-          "likes": 200069
+          "likes": 200090
         },
         {
           "rank": 2,
           "title": "Avengers Endgame: Encore | Official Trailer | In Theaters Sep 25",
           "url": "https://www.youtube.com/watch?v=L2NAh3CIdig",
           "channel": "Marvel Entertainment",
-          "views": 5648644,
-          "likes": 234309
+          "views": 5659852,
+          "likes": 234455
         },
         {
           "rank": 3,
@@ -1977,7 +1977,7 @@
           "url": "https://www.youtube.com/watch?v=AY-CIeDo34M",
           "channel": "Kai Cenat Live",
           "views": 1308127,
-          "likes": 34458
+          "likes": 34459
         },
         {
           "rank": 4,
@@ -1985,15 +1985,15 @@
           "url": "https://www.youtube.com/watch?v=cR4EQ_dI1BM",
           "channel": "Cover Nation",
           "views": 210576,
-          "likes": 8422
+          "likes": 8432
         },
         {
           "rank": 5,
           "title": "The Witcher 3: Wild Hunt — Remastered | Official Announcement Trailer",
           "url": "https://www.youtube.com/watch?v=IGk17XQ7IrQ",
           "channel": "The Witcher",
-          "views": 1361307,
-          "likes": 123329
+          "views": 1365780,
+          "likes": 123420
         },
         {
           "rank": 6,
@@ -2001,7 +2001,7 @@
           "url": "https://www.youtube.com/watch?v=Zzvzt3IjNik",
           "channel": "gamescom",
           "views": 815925,
-          "likes": 20998
+          "likes": 21001
         },
         {
           "rank": 7,
@@ -2009,7 +2009,7 @@
           "url": "https://www.youtube.com/watch?v=EqNPLPQ8530",
           "channel": "BIG30VEVO",
           "views": 131348,
-          "likes": 9896
+          "likes": 9898
         },
         {
           "rank": 8,
@@ -2017,7 +2017,7 @@
           "url": "https://www.youtube.com/watch?v=87TNASkXOWQ",
           "channel": "FINAL FANTASY",
           "views": 188696,
-          "likes": 13433
+          "likes": 13440
         },
         {
           "rank": 9,
@@ -2025,7 +2025,7 @@
           "url": "https://www.youtube.com/watch?v=D1rzb5J-YDk",
           "channel": "Markiplier",
           "views": 452596,
-          "likes": 38277
+          "likes": 38288
         },
         {
           "rank": 10,
@@ -2041,15 +2041,15 @@
           "url": "https://www.youtube.com/watch?v=oQwzYdMEPvI",
           "channel": "videogamedunkey",
           "views": 549858,
-          "likes": 40366
+          "likes": 40389
         },
         {
           "rank": 12,
           "title": "This Backrooms Game Was Insane…",
           "url": "https://www.youtube.com/watch?v=OXCCrO7TbnA",
           "channel": "CaseOh",
-          "views": 321617,
-          "likes": 14398
+          "views": 322827,
+          "likes": 14405
         },
         {
           "rank": 13,
@@ -2057,7 +2057,7 @@
           "url": "https://www.youtube.com/watch?v=GnLITwQf8s8",
           "channel": "Country Paradise",
           "views": 40858,
-          "likes": 1227
+          "likes": 1228
         },
         {
           "rank": 14,
@@ -2065,7 +2065,7 @@
           "url": "https://www.youtube.com/watch?v=-TW2SnAipsE",
           "channel": "Gears of War",
           "views": 205174,
-          "likes": 19982
+          "likes": 19984
         },
         {
           "rank": 15,
@@ -2073,7 +2073,7 @@
           "url": "https://www.youtube.com/watch?v=eFxvsyUoFi0",
           "channel": "Brawl Stars",
           "views": 1641532,
-          "likes": 79900
+          "likes": 80011
         },
         {
           "rank": 16,
@@ -2081,7 +2081,7 @@
           "url": "https://www.youtube.com/watch?v=Exyb5USEjjU",
           "channel": "Olivia Rodrigo - Topic",
           "views": 577728,
-          "likes": 26574
+          "likes": 26575
         },
         {
           "rank": 17,
@@ -2089,7 +2089,7 @@
           "url": "https://www.youtube.com/watch?v=6t7C4qaHihE",
           "channel": "Amazon MGM Studios",
           "views": 2156274,
-          "likes": 11111
+          "likes": 11118
         },
         {
           "rank": 18,
@@ -2097,7 +2097,7 @@
           "url": "https://www.youtube.com/watch?v=2mNCKDXA1O4",
           "channel": "IShowSpeed",
           "views": 2270562,
-          "likes": 54362
+          "likes": 54370
         },
         {
           "rank": 19,
@@ -2105,7 +2105,7 @@
           "url": "https://www.youtube.com/watch?v=QRgAjMrd-Ho",
           "channel": "Adam Calhoun",
           "views": 63366,
-          "likes": 10466
+          "likes": 10468
         },
         {
           "rank": 20,
@@ -2113,23 +2113,23 @@
           "url": "https://www.youtube.com/watch?v=9bwFovw18C0",
           "channel": "IGN",
           "views": 124414,
-          "likes": 5214
+          "likes": 5218
         },
         {
           "rank": 21,
           "title": "We Played EVERY Rank In Rainbow 6 Siege..",
           "url": "https://www.youtube.com/watch?v=DD6vmZWCuh4",
           "channel": "Joe Bart Games",
-          "views": 276086,
-          "likes": 9670
+          "views": 276829,
+          "likes": 9673
         },
         {
           "rank": 22,
           "title": "Dile a Tu Gato (Slowed)",
           "url": "https://www.youtube.com/watch?v=x3VaHm6yJB4",
           "channel": "Nobdy - Topic",
-          "views": 320268,
-          "likes": 5365
+          "views": 320780,
+          "likes": 5368
         },
         {
           "rank": 23,
@@ -2137,7 +2137,7 @@
           "url": "https://www.youtube.com/watch?v=9i2aZwtQyqk",
           "channel": "GameSpot",
           "views": 186078,
-          "likes": 3242
+          "likes": 3245
         },
         {
           "rank": 24,
@@ -2145,22 +2145,22 @@
           "url": "https://www.youtube.com/watch?v=R1_AVfrexH4",
           "channel": "Asmongold TV  ",
           "views": 502586,
-          "likes": 35190
+          "likes": 35203
         },
         {
           "rank": 25,
           "title": "Queens of the Stone Age - Insignificant Other (Lyric Video)",
           "url": "https://www.youtube.com/watch?v=1jGT1UvmBi0",
           "channel": "Queens Of The Stone Age",
-          "views": 122761,
-          "likes": 10298
+          "views": 122903,
+          "likes": 10302
         }
       ]
     },
     "bluesky": {
       "source": "bluesky",
       "label": "Bluesky — what's hot",
-      "fetched_at": "2026-08-26T08:08:32.394Z",
+      "fetched_at": "2026-08-26T08:09:45.693Z",
       "items": [
         {
           "rank": 1,
@@ -2168,11 +2168,20 @@
           "url": "https://bsky.app/profile/john-in-chicago.bsky.social/post/3mtx32i5krk2l",
           "author": "john-in-chicago.bsky.social",
           "display_name": "john.in.chicago",
-          "likes": 4711,
-          "reposts": 751
+          "likes": 4719,
+          "reposts": 752
         },
         {
           "rank": 2,
+          "title": "good morning",
+          "url": "https://bsky.app/profile/weskrantz.bsky.social/post/3mtwumcsi5s2s",
+          "author": "weskrantz.bsky.social",
+          "display_name": "Dave Krantz",
+          "likes": 340,
+          "reposts": 15
+        },
+        {
+          "rank": 3,
           "title": "Ukrainian French artist Sonia Delaunay's 1920s - 1930s dress designs #WomensArt",
           "url": "https://bsky.app/profile/womensartbluesky.bsky.social/post/3mtxlya6jis2b",
           "author": "womensartbluesky.bsky.social",
@@ -2181,31 +2190,22 @@
           "reposts": 63
         },
         {
-          "rank": 3,
-          "title": "WALK-OFF W 🙌",
-          "url": "https://bsky.app/profile/mets.com/post/3mtxb2vu4z22a",
-          "author": "mets.com",
-          "display_name": "New York Mets",
-          "likes": 171,
-          "reposts": 15
-        },
-        {
           "rank": 4,
-          "title": "Art by Pat Bagley",
-          "url": "https://bsky.app/profile/readerofbannedbook.bsky.social/post/3mtwsfzaalk2f",
-          "author": "readerofbannedbook.bsky.social",
-          "display_name": "Reader of Banned Books",
-          "likes": 7382,
-          "reposts": 1118
+          "title": "The Santa Monica Pier is lit for Dolly. And I'm sobbing once again.",
+          "url": "https://bsky.app/profile/reneepatrice.bsky.social/post/3mtxmt6jbq222",
+          "author": "reneepatrice.bsky.social",
+          "display_name": "Renée in L.A. 🐦‍⬛",
+          "likes": 546,
+          "reposts": 91
         },
         {
           "rank": 5,
-          "title": "good morning",
-          "url": "https://bsky.app/profile/weskrantz.bsky.social/post/3mtwumcsi5s2s",
-          "author": "weskrantz.bsky.social",
-          "display_name": "Dave Krantz",
-          "likes": 340,
-          "reposts": 15
+          "title": "Reunion Tower in downtown Dallas lit up pink tonight for Dolly.",
+          "url": "https://bsky.app/profile/theclearcider.bsky.social/post/3mtxc5kik4s25",
+          "author": "theclearcider.bsky.social",
+          "display_name": "The Clear Cider",
+          "likes": 1918,
+          "reposts": 289
         },
         {
           "rank": 6,
@@ -2218,105 +2218,96 @@
         },
         {
           "rank": 7,
-          "title": "I just changed Baby Moon's name to Dolly...the kitty won't know the difference. She's barely aware of things...and I thi",
-          "url": "https://bsky.app/profile/amandabf.bsky.social/post/3mtx5jgcouc2d",
-          "author": "amandabf.bsky.social",
-          "display_name": "Just Call Me Amanda🐈‍⬛🐈‍⬛",
-          "likes": 5571,
-          "reposts": 308
-        },
-        {
-          "rank": 8,
-          "title": "The Hunter Goodman effect! #Rockies are back in the win column in his first game off the IL.",
-          "url": "https://bsky.app/profile/purplerow.bsky.social/post/3mtx6yyihqs2p",
-          "author": "purplerow.bsky.social",
-          "display_name": "Purple Row",
-          "likes": 15,
-          "reposts": 1
-        },
-        {
-          "rank": 9,
-          "title": "nba players are some bitches for not saying anything about the extreme harassment the wnba is dealing with right now",
-          "url": "https://bsky.app/profile/arbazkakkar5.bsky.social/post/3mtwu73vaok2y",
-          "author": "arbazkakkar5.bsky.social",
-          "display_name": "Arbaz Kakkar5",
-          "likes": 1602,
-          "reposts": 215
-        },
-        {
-          "rank": 10,
           "title": "Breaking News: Dolly Parton, the country singer, songwriter, entertainer and entrepreneur known for her outsize persona ",
           "url": "https://bsky.app/profile/nytimes.com/post/3mtwgtgvh3k2e",
           "author": "nytimes.com",
           "display_name": "The New York Times",
-          "likes": 5237,
+          "likes": 5238,
           "reposts": 977
         },
         {
-          "rank": 11,
-          "title": "Enes Kanter has now been banned from the Chicago Sky's arena.",
-          "url": "https://bsky.app/profile/justinbaragona.bsky.social/post/3mtwvnv6o6c2i",
-          "author": "justinbaragona.bsky.social",
-          "display_name": "Justin Baragona",
-          "likes": 2724,
-          "reposts": 293
+          "rank": 8,
+          "title": "I just changed Baby Moon's name to Dolly...the kitty won't know the difference. She's barely aware of things...and I thi",
+          "url": "https://bsky.app/profile/amandabf.bsky.social/post/3mtx5jgcouc2d",
+          "author": "amandabf.bsky.social",
+          "display_name": "Just Call Me Amanda🐈‍⬛🐈‍⬛",
+          "likes": 5578,
+          "reposts": 308
         },
         {
-          "rank": 12,
-          "title": "This is obviously for Dolly 💁‍♀️",
-          "url": "https://bsky.app/profile/patrickworld.bsky.social/post/3mtwyvb5j7a2m",
-          "author": "patrickworld.bsky.social",
-          "display_name": "Patrickworld 🌎👋🏾🎸",
-          "likes": 5582,
-          "reposts": 511
-        },
-        {
-          "rank": 13,
-          "title": "Tennessee is in mourning. Our First Lady has moved on. ",
-          "url": "https://bsky.app/profile/jimstewart.bsky.social/post/3mtx4y3zaa22b",
-          "author": "jimstewart.bsky.social",
-          "display_name": "Jim",
-          "likes": 2486,
-          "reposts": 299
-        },
-        {
-          "rank": 14,
-          "title": "Dolly Parton did all the good she could, for all the people she could, for as long as ever she could. ",
-          "url": "https://bsky.app/profile/hillaryclinton.bsky.social/post/3mtwk7r4cfs2g",
-          "author": "hillaryclinton.bsky.social",
-          "display_name": "Hillary Rodham Clinton",
-          "likes": 24727,
-          "reposts": 4335
-        },
-        {
-          "rank": 15,
+          "rank": 9,
           "title": "A couple returned to their home lost in the wildfires and find their dog there waiting for them ❤️",
           "url": "https://bsky.app/profile/funnyvia.com/post/3mtx7dchmdc2o",
           "author": "funnyvia.com",
           "display_name": "FunnyVia",
-          "likes": 1971,
-          "reposts": 239
+          "likes": 1973,
+          "reposts": 240
+        },
+        {
+          "rank": 10,
+          "title": "This is obviously for Dolly 💁‍♀️",
+          "url": "https://bsky.app/profile/patrickworld.bsky.social/post/3mtwyvb5j7a2m",
+          "author": "patrickworld.bsky.social",
+          "display_name": "Patrickworld 🌎👋🏾🎸",
+          "likes": 5585,
+          "reposts": 511
+        },
+        {
+          "rank": 11,
+          "title": "Dolly Parton, one of the greatest singer-songwriters in country music who was also much cherished for her philanthropy, ",
+          "url": "https://bsky.app/profile/us.theguardian.com/post/3mtwh3q3ons2p",
+          "author": "us.theguardian.com",
+          "display_name": "Guardian US",
+          "likes": 4147,
+          "reposts": 689
+        },
+        {
+          "rank": 12,
+          "title": "That “I don’t pay rent” nap is heavenly",
+          "url": "https://bsky.app/profile/lucagalletti.bsky.social/post/3mtxbmts4wc2s",
+          "author": "lucagalletti.bsky.social",
+          "display_name": "Luca",
+          "likes": 2483,
+          "reposts": 254
+        },
+        {
+          "rank": 13,
+          "title": "Maxwell’s petition for a new trial was “meritless” and often “frivolous,” the judge wrote, and the evidence she provided",
+          "url": "https://bsky.app/profile/forbes.com/post/3mtvw5zr3uv2b",
+          "author": "forbes.com",
+          "display_name": "Forbes",
+          "likes": 6550,
+          "reposts": 2016
+        },
+        {
+          "rank": 14,
+          "title": "I went to a shelter to get a cat, but I left with a pair of best friends.",
+          "url": "https://bsky.app/profile/funnyvia.com/post/3mtwrfig5o22p",
+          "author": "funnyvia.com",
+          "display_name": "FunnyVia",
+          "likes": 6913,
+          "reposts": 687
+        },
+        {
+          "rank": 15,
+          "title": "Art by Pat Bagley",
+          "url": "https://bsky.app/profile/readerofbannedbook.bsky.social/post/3mtwsfzaalk2f",
+          "author": "readerofbannedbook.bsky.social",
+          "display_name": "Reader of Banned Books",
+          "likes": 7388,
+          "reposts": 1119
         },
         {
           "rank": 16,
-          "title": "Mariners playing Dolly at the ballpark tonight 💙",
-          "url": "https://bsky.app/profile/caseyworks.bsky.social/post/3mtxa72efcs2r",
-          "author": "caseyworks.bsky.social",
-          "display_name": "Casey Martin",
-          "likes": 886,
-          "reposts": 52
+          "title": "Milwaukee lit the Hoan bridge pink tonight for Dolly 🫶",
+          "url": "https://bsky.app/profile/mikewildspeaker.bsky.social/post/3mtxelpakok2i",
+          "author": "mikewildspeaker.bsky.social",
+          "display_name": "MikeWildspeaker",
+          "likes": 1790,
+          "reposts": 299
         },
         {
           "rank": 17,
-          "title": "How about those Boys in Blue! 🔥",
-          "url": "https://bsky.app/profile/royals.com/post/3mtxbajllv22y",
-          "author": "royals.com",
-          "display_name": "Kansas City Royals",
-          "likes": 58,
-          "reposts": 10
-        },
-        {
-          "rank": 18,
           "title": "by Zygmunt Zaradkiewicz",
           "url": "https://bsky.app/profile/pmamtraveller.bsky.social/post/3mtwxsx33xc23",
           "author": "pmamtraveller.bsky.social",
@@ -2325,74 +2316,83 @@
           "reposts": 35
         },
         {
+          "rank": 18,
+          "title": "Tennessee is in mourning. Our First Lady has moved on. ",
+          "url": "https://bsky.app/profile/jimstewart.bsky.social/post/3mtx4y3zaa22b",
+          "author": "jimstewart.bsky.social",
+          "display_name": "Jim",
+          "likes": 2493,
+          "reposts": 299
+        },
+        {
           "rank": 19,
-          "title": "WHO IS THE BEST QUARTERBACK IN THE #NFL RIGHT NOW…? DRAKE MAYE OR JOSH ALLEN 🤔🤔🤔",
-          "url": "https://bsky.app/profile/aipropx.bsky.social/post/3mtx3hk56252h",
-          "author": "aipropx.bsky.social",
-          "display_name": "Aipropx",
-          "likes": 1,
-          "reposts": 0
+          "title": "The late singer, actor and philanthropist leaves behind a life and career full of wisdom",
+          "url": "https://bsky.app/profile/us.theguardian.com/post/3mtwrrsorji2m",
+          "author": "us.theguardian.com",
+          "display_name": "Guardian US",
+          "likes": 146,
+          "reposts": 47
         },
         {
           "rank": 20,
-          "title": "That “I don’t pay rent” nap is heavenly",
-          "url": "https://bsky.app/profile/lucagalletti.bsky.social/post/3mtxbmts4wc2s",
-          "author": "lucagalletti.bsky.social",
-          "display_name": "Luca",
-          "likes": 2478,
-          "reposts": 254
+          "title": "A watercolor that I made #art #watercolor #painting #illustration",
+          "url": "https://bsky.app/profile/patricbates.bsky.social/post/3mtwxzxvnk224",
+          "author": "patricbates.bsky.social",
+          "display_name": "Patric Bates",
+          "likes": 111,
+          "reposts": 13
         },
         {
           "rank": 21,
-          "title": "I went to a shelter to get a cat, but I left with a pair of best friends.",
-          "url": "https://bsky.app/profile/funnyvia.com/post/3mtwrfig5o22p",
-          "author": "funnyvia.com",
-          "display_name": "FunnyVia",
-          "likes": 6909,
-          "reposts": 686
-        },
-        {
-          "rank": 22,
-          "title": "The Santa Monica Pier is lit for Dolly. And I'm sobbing once again.",
-          "url": "https://bsky.app/profile/reneepatrice.bsky.social/post/3mtxmt6jbq222",
-          "author": "reneepatrice.bsky.social",
-          "display_name": "Renée in L.A. 🐦‍⬛",
-          "likes": 536,
-          "reposts": 90
-        },
-        {
-          "rank": 23,
-          "title": "Dolly Parton, one of the greatest singer-songwriters in country music who was also much cherished for her philanthropy, ",
-          "url": "https://bsky.app/profile/us.theguardian.com/post/3mtwh3q3ons2p",
-          "author": "us.theguardian.com",
-          "display_name": "Guardian US",
-          "likes": 4144,
-          "reposts": 688
-        },
-        {
-          "rank": 24,
           "title": "\"Wildflowers don't care where they grow.\" 💔",
           "url": "https://bsky.app/profile/franklinhabit.bsky.social/post/3mtwob6zgss23",
           "author": "franklinhabit.bsky.social",
           "display_name": "Franklin Habit",
-          "likes": 4349,
+          "likes": 4351,
           "reposts": 495
         },
         {
+          "rank": 22,
+          "title": "WALK-OFF W 🙌",
+          "url": "https://bsky.app/profile/mets.com/post/3mtxb2vu4z22a",
+          "author": "mets.com",
+          "display_name": "New York Mets",
+          "likes": 171,
+          "reposts": 15
+        },
+        {
+          "rank": 23,
+          "title": "Dolly Parton did all the good she could, for all the people she could, for as long as ever she could. ",
+          "url": "https://bsky.app/profile/hillaryclinton.bsky.social/post/3mtwk7r4cfs2g",
+          "author": "hillaryclinton.bsky.social",
+          "display_name": "Hillary Rodham Clinton",
+          "likes": 24734,
+          "reposts": 4337
+        },
+        {
+          "rank": 24,
+          "title": "“The way I see it, if you want the rainbow, you gotta put up with the rain.”",
+          "url": "https://bsky.app/profile/lululeigh.bsky.social/post/3mtwujbhgjc2v",
+          "author": "lululeigh.bsky.social",
+          "display_name": "Lu",
+          "likes": 2792,
+          "reposts": 447
+        },
+        {
           "rank": 25,
-          "title": "We’re going to hear about how everyone loved Dolly, and that feels true. But it’s good to remember, and to her credit, t",
-          "url": "https://bsky.app/profile/rosserford.bsky.social/post/3mtx6waxgws2y",
-          "author": "rosserford.bsky.social",
-          "display_name": "Ross Johnson",
-          "likes": 11192,
-          "reposts": 2508
+          "title": "US painter Anne Estelle Rice (1877–1959), Fauvist-influenced artist known for her vibrant still lifes, figures, and land",
+          "url": "https://bsky.app/profile/womensartbluesky.bsky.social/post/3mtxlmsjdys2b",
+          "author": "womensartbluesky.bsky.social",
+          "display_name": "",
+          "likes": 152,
+          "reposts": 19
         }
       ]
     },
     "mastodon-trending": {
       "source": "mastodon-trending",
       "label": "Mastodon — trending posts",
-      "fetched_at": "2026-08-26T08:08:32.688Z",
+      "fetched_at": "2026-08-26T08:09:46.031Z",
       "items": [
         {
           "rank": 1,
@@ -2415,16 +2415,16 @@
           "title": "People of Earth, your attention, please. This is Prostetnic Vogon Jeltz of the Galactic Hyperspace Planning Council. …",
           "url": "https://mastodon.social/@HitchhikersGuideQuoteBot2/117159867432361576",
           "author": "Hitchhiker's Guide Quote Bot",
-          "likes": 88,
-          "boosts": 106
+          "likes": 89,
+          "boosts": 107
         },
         {
           "rank": 4,
           "title": "While Europe is at war with Russia, Trump flies an American C-17 aircraft to Moscow containing a large convoy of dipl…",
           "url": "https://mastodon.social/@randahl/117160245279235603",
           "author": "Randahl Fink",
-          "likes": 46,
-          "boosts": 54
+          "likes": 47,
+          "boosts": 55
         },
         {
           "rank": 5,
@@ -2440,7 +2440,7 @@
           "url": "https://mastodon.social/@e_mydata/117160634443744995",
           "author": "/e/OS - deGoogled mobile OS",
           "likes": 29,
-          "boosts": 24
+          "boosts": 25
         },
         {
           "rank": 7,
@@ -2448,7 +2448,7 @@
           "url": "https://mastodon.social/@Sheril/117159012858058489",
           "author": "Sheril Kirshenbaum",
           "likes": 296,
-          "boosts": 186
+          "boosts": 187
         },
         {
           "rank": 8,
@@ -2471,7 +2471,7 @@
           "title": "Another lovely morning. Loch Shieldaig: 06:00",
           "url": "https://mastodonapp.uk/@GetCarter/117160075748473995",
           "author": "Steve Carter",
-          "likes": 108,
+          "likes": 109,
           "boosts": 57
         },
         {
@@ -2496,14 +2496,14 @@
           "url": "https://hachyderm.io/@inthehands/117159377944291671",
           "author": "Paul Cantrell",
           "likes": 181,
-          "boosts": 159
+          "boosts": 160
         },
         {
           "rank": 14,
           "title": "The United States is taking aim at Canada once again, with a crushing new set of tariffs.Ultimately, government will …",
           "url": "https://mastodon.online/@parismarx/117159247921628565",
           "author": "Paris Marx",
-          "likes": 174,
+          "likes": 175,
           "boosts": 221
         },
         {
@@ -2512,7 +2512,7 @@
           "url": "https://infosec.exchange/@reverseics/117159314502690280",
           "author": "K. Reid Wightman :verified: 🌻 :donor: :clippy:",
           "likes": 242,
-          "boosts": 178
+          "boosts": 179
         },
         {
           "rank": 16,
@@ -2528,7 +2528,7 @@
           "url": "https://wandering.shop/@ericgjovaag/117159735841096190",
           "author": "Eric Gjovaag",
           "likes": 79,
-          "boosts": 99
+          "boosts": 100
         },
         {
           "rank": 18,
@@ -2592,14 +2592,14 @@
           "url": "https://aus.social/@dgar/117160274999197749",
           "author": "Dgar",
           "likes": 41,
-          "boosts": 39
+          "boosts": 40
         }
       ]
     },
     "product-hunt": {
       "source": "product-hunt",
       "label": "Product Hunt — top products",
-      "fetched_at": "2026-08-26T08:08:32.299Z",
+      "fetched_at": "2026-08-26T08:09:45.613Z",
       "configured": true,
       "items": [
         {
@@ -2767,7 +2767,7 @@
     "huggingface": {
       "source": "huggingface",
       "label": "Hugging Face — trending models",
-      "fetched_at": "2026-08-26T08:08:32.209Z",
+      "fetched_at": "2026-08-26T08:09:45.545Z",
       "items": [
         {
           "rank": 1,
@@ -3049,7 +3049,7 @@
     "polymarket": {
       "source": "polymarket",
       "label": "Polymarket — top 24h volume",
-      "fetched_at": "2026-08-26T08:08:32.482Z",
+      "fetched_at": "2026-08-26T08:09:45.529Z",
       "items": [
         {
           "rank": 1,
@@ -3506,7 +3506,7 @@
     "usgs": {
       "source": "usgs",
       "label": "USGS — earthquakes (24h, M2.5+)",
-      "fetched_at": "2026-08-26T08:08:32.189Z",
+      "fetched_at": "2026-08-26T08:09:45.525Z",
       "items": [
         {
           "rank": 1,
@@ -3863,7 +3863,7 @@
     "twitch": {
       "source": "twitch",
       "label": "Twitch — top streams (live)",
-      "fetched_at": "2026-08-26T08:08:32.677Z",
+      "fetched_at": "2026-08-26T08:09:45.905Z",
       "configured": true,
       "items": [
         {
@@ -3881,13 +3881,23 @@
           "title": "Echo_Esports",
           "stream_title": "Day 8 - The Race to World First: The Venomous Abyss",
           "url": "https://twitch.tv/echo_esports",
-          "viewers": 9727,
+          "viewers": 11451,
           "game": "World of Warcraft",
           "language": "en",
           "started_at": "2026-08-26T03:02:02Z"
         },
         {
           "rank": 3,
+          "title": "GOFNS",
+          "stream_title": "EG FNS | PRX vs NS - VCT Pacific Stage 2 Playoffs Upper Round 1 #VCTWatchparty | !socials !vote",
+          "url": "https://twitch.tv/gofns",
+          "viewers": 9621,
+          "game": "VALORANT",
+          "language": "en",
+          "started_at": "2026-08-26T07:48:28Z"
+        },
+        {
+          "rank": 4,
           "title": "Silky",
           "stream_title": "🌮SILKY X DDG🌮TACO TUESDAY RUINED 🌮RAGE IS IN LA🌮ALWAYS UNORGANIZED 🌮GREAT VIBES🌮90 DAYS TO CREATE A LIFESTYLE🌮 !core !patreon",
           "url": "https://twitch.tv/silky",
@@ -3897,7 +3907,7 @@
           "started_at": "2026-08-26T02:29:19Z"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "sasatikk",
           "stream_title": "対エイリアン部隊出動！！Aliens:Fireteam Elite 2",
           "url": "https://twitch.tv/sasatikk",
@@ -3907,7 +3917,7 @@
           "started_at": "2026-08-26T04:12:18Z"
         },
         {
-          "rank": 5,
+          "rank": 6,
           "title": "TheBurntPeanut_247",
           "stream_title": "24/7 @TheBurntPeanut VODS/YT | TARKOV | ARC RAIDERS | SILLY GAMES | BUNGULATORS ONLY CHAT",
           "url": "https://twitch.tv/theburntpeanut_247",
@@ -3917,21 +3927,11 @@
           "started_at": "2026-08-26T03:52:08Z"
         },
         {
-          "rank": 6,
-          "title": "GOFNS",
-          "stream_title": "EG FNS | PRX vs NS - VCT Pacific Stage 2 Playoffs Upper Round 1 #VCTWatchparty | !socials !vote",
-          "url": "https://twitch.tv/gofns",
-          "viewers": 7324,
-          "game": "VALORANT",
-          "language": "en",
-          "started_at": "2026-08-26T07:48:28Z"
-        },
-        {
           "rank": 7,
           "title": "Topson",
           "stream_title": "Dota 2 enjoyer",
           "url": "https://twitch.tv/topson",
-          "viewers": 7225,
+          "viewers": 7526,
           "game": "Dota 2",
           "language": "en",
           "started_at": "2026-08-26T06:13:18Z"
@@ -3941,7 +3941,7 @@
           "title": "Maximilian_DOOD",
           "stream_title": "ALIENS FIRETEAM 2 w/YOVG & Onimusha Demo Updated?!",
           "url": "https://twitch.tv/maximilian_dood",
-          "viewers": 6772,
+          "viewers": 6696,
           "game": "Aliens: Fireteam Elite 2",
           "language": "en",
           "started_at": "2026-08-26T03:51:34Z"
@@ -3998,26 +3998,46 @@
         },
         {
           "rank": 14,
+          "title": "つわはす_ちゃんねる",
+          "stream_title": "【withかんせる・ゆゆうた・おえちゃん】チームつわはす秋田旅行！！！",
+          "url": "https://twitch.tv/twt_tsuwahasu",
+          "viewers": 5170,
+          "game": "Just Chatting",
+          "language": "ja",
+          "started_at": "2026-08-26T05:20:11Z"
+        },
+        {
+          "rank": 15,
+          "title": "Lazvell",
+          "stream_title": "見よう PRX vs NS / GE vs KRX - Playoffs day1 - VCT Pacific 2026 Stage2 #VCTWatchParty",
+          "url": "https://twitch.tv/lazvell",
+          "viewers": 5058,
+          "game": "VALORANT",
+          "language": "ja",
+          "started_at": "2026-08-26T07:40:04Z"
+        },
+        {
+          "rank": 16,
           "title": "Adapt",
           "stream_title": "🏔️ ALASKA MARATHON 🐻 NOT GEO 2 w/ @Maya 🫎 DAY 3  🐺 ELECTRIC CONTENT 🏔️",
           "url": "https://twitch.tv/adapt",
-          "viewers": 5222,
+          "viewers": 5058,
           "game": "Just Chatting",
           "language": "en",
           "started_at": "2026-08-24T22:13:10Z"
         },
         {
-          "rank": 15,
+          "rank": 17,
           "title": "Maya",
           "stream_title": "ALASKA DAY 4! NOT GEO pt. 2 with @Adapt 🫎",
           "url": "https://twitch.tv/maya",
-          "viewers": 4990,
+          "viewers": 4933,
           "game": "Just Chatting",
           "language": "en",
           "started_at": "2026-08-24T22:12:45Z"
         },
         {
-          "rank": 16,
+          "rank": 18,
           "title": "Gingy",
           "stream_title": "🌸Voting When Peanut will die🌸 New !Discord",
           "url": "https://twitch.tv/gingy",
@@ -4027,7 +4047,7 @@
           "started_at": "2026-08-26T02:41:39Z"
         },
         {
-          "rank": 17,
+          "rank": 19,
           "title": "aceu",
           "stream_title": "BACK AT IT",
           "url": "https://twitch.tv/aceu",
@@ -4037,7 +4057,7 @@
           "started_at": "2026-08-26T04:10:22Z"
         },
         {
-          "rank": 18,
+          "rank": 20,
           "title": "すももですよ",
           "stream_title": "ポ ゴ の 時 間 だ",
           "url": "https://twitch.tv/sumomo_x",
@@ -4047,7 +4067,7 @@
           "started_at": "2026-08-26T05:00:08Z"
         },
         {
-          "rank": 19,
+          "rank": 21,
           "title": "SilverName",
           "stream_title": "AURA FARMING + MEWING // !видос !tg !wow",
           "url": "https://twitch.tv/silvername",
@@ -4057,17 +4077,7 @@
           "started_at": "2026-08-25T16:34:53Z"
         },
         {
-          "rank": 20,
-          "title": "Lazvell",
-          "stream_title": "見よう PRX vs NS / GE vs KRX - Playoffs day1 - VCT Pacific 2026 Stage2 #VCTWatchParty",
-          "url": "https://twitch.tv/lazvell",
-          "viewers": 4687,
-          "game": "VALORANT",
-          "language": "ja",
-          "started_at": "2026-08-26T07:40:04Z"
-        },
-        {
-          "rank": 21,
+          "rank": 22,
           "title": "VALORANT_Pacific",
           "stream_title": "PRX vs NS / GE vs KRX - VCT Pacific - Stage 2 - Playoffs - Day 1",
           "url": "https://twitch.tv/valorant_pacific",
@@ -4077,21 +4087,11 @@
           "started_at": "2026-08-26T07:11:58Z"
         },
         {
-          "rank": 22,
-          "title": "つわはす_ちゃんねる",
-          "stream_title": "【withかんせる・ゆゆうた・おえちゃん】チームつわはす秋田旅行！！！",
-          "url": "https://twitch.tv/twt_tsuwahasu",
-          "viewers": 4321,
-          "game": "Just Chatting",
-          "language": "ja",
-          "started_at": "2026-08-26T05:20:11Z"
-        },
-        {
           "rank": 23,
           "title": "Cinna",
           "stream_title": "⭐ CINNATHON DAY 25 ⭐",
           "url": "https://twitch.tv/cinna",
-          "viewers": 4144,
+          "viewers": 4080,
           "game": "I'm Only Sleeping",
           "language": "en",
           "started_at": "2026-08-25T20:36:19Z"
@@ -4121,7 +4121,7 @@
     "gdelt-ai": {
       "source": "gdelt-ai",
       "label": "GDELT — AI & tech news (stale: 2026-08-24)",
-      "fetched_at": "2026-08-26T08:09:10.794Z",
+      "fetched_at": "2026-08-26T08:10:26.447Z",
       "data_date": "2026-08-24",
       "stale": true,
       "stale_reason": "GDELT failed after 2 attempts — network: fetch failed",
@@ -4193,7 +4193,7 @@
           "source": "hackernews",
           "title": "Dolly Parton has died",
           "url": "https://news.ycombinator.com/item?id=49438052",
-          "rank": 24
+          "rank": 25
         },
         {
           "source": "youtube",
@@ -4205,10 +4205,10 @@
           "source": "bluesky",
           "title": "Dolly Parton did all the good she could, for all the people she could, for as long as ever she could. ",
           "url": "https://bsky.app/profile/hillaryclinton.bsky.social/post/3mtwk7r4cfs2g",
-          "rank": 14
+          "rank": 23
         }
       ],
-      "score": 1.2376373626373627
+      "score": 1.2080203854116898
     },
     {
       "id": "1rpmcg",
@@ -4228,10 +4228,10 @@
           "source": "bluesky",
           "title": "Dolly Parton, one of the greatest singer-songwriters in country music who was also much cherished for her philanthropy, ",
           "url": "https://bsky.app/profile/us.theguardian.com/post/3mtwh3q3ons2p",
-          "rank": 23
+          "rank": 11
         }
       ],
-      "score": 0.2934782608695652
+      "score": 0.34090909090909094
     },
     {
       "id": "1v16c2",

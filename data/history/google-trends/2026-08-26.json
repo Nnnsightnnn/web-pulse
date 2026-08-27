@@ -1,7 +1,7 @@
 {
   "source": "google-trends",
   "label": "Google Trends — trending searches",
-  "fetched_at": "2026-08-26T08:08:32.443Z",
+  "fetched_at": "2026-08-26T08:09:46.029Z",
   "countries": [
     "US",
     "GB",
@@ -24,17 +24,6 @@
     },
     {
       "rank": 2,
-      "title": "福岡天気",
-      "geos": [
-        "JP"
-      ],
-      "traffic_estimate": 20000,
-      "news_title": "【速報】福岡市で初の酷暑日 博多区で40.4℃を観測 熱中症警戒アラート発表中 対策を呼びかけ",
-      "news_url": "https://news.yahoo.co.jp/pickup/6593134",
-      "news_source": "Yahoo!ニュース"
-    },
-    {
-      "rank": 3,
       "title": "lunar eclipses",
       "geos": [
         "US"
@@ -45,7 +34,7 @@
       "news_source": "BBC"
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "பயிற்சியாளர்",
       "geos": [
         "IN"
@@ -56,7 +45,7 @@
       "news_source": "DinaMani"
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "mg hector tomahawk",
       "geos": [
         "IN"
@@ -65,6 +54,17 @@
       "news_title": "MG Hector Tomahawk electric SUV launched at Rs 19.49 lakh",
       "news_url": "https://www.team-bhp.com/news/mg-hector-tomahawk-electric-suv-launched-rs-1949-lakh",
       "news_source": "Team-BHP"
+    },
+    {
+      "rank": 5,
+      "title": "雨",
+      "geos": [
+        "JP"
+      ],
+      "traffic_estimate": 2000,
+      "news_title": "我市启动市防汛三级应急响应",
+      "news_url": "https://epaper.tianjinwe.com/tjrb/html/2026-08/26/content_143086_3774395.htm",
+      "news_source": "天津日报"
     },
     {
       "rank": 6,
@@ -123,6 +123,17 @@
     },
     {
       "rank": 11,
+      "title": "天皇杯",
+      "geos": [
+        "JP"
+      ],
+      "traffic_estimate": 1000,
+      "news_title": "",
+      "news_url": "",
+      "news_source": ""
+    },
+    {
+      "rank": 12,
       "title": "binance exchange",
       "geos": [
         "BR"
@@ -133,7 +144,7 @@
       "news_source": "SpaceMoney"
     },
     {
-      "rank": 12,
+      "rank": 13,
       "title": "wirtschaft russlands",
       "geos": [
         "DE"
@@ -144,7 +155,7 @@
       "news_source": "tagesschau.de"
     },
     {
-      "rank": 13,
+      "rank": 14,
       "title": "hospital",
       "geos": [
         "US"
@@ -155,7 +166,7 @@
       "news_source": "NPR"
     },
     {
-      "rank": 14,
+      "rank": 15,
       "title": "లేడీ సూపర్ స్టార్ నయనతార",
       "geos": [
         "IN"
@@ -166,7 +177,7 @@
       "news_source": "Eenadu"
     },
     {
-      "rank": 15,
+      "rank": 16,
       "title": "nepal",
       "geos": [
         "IN"
@@ -177,25 +188,14 @@
       "news_source": "NDTV"
     },
     {
-      "rank": 16,
-      "title": "校長",
-      "geos": [
-        "JP"
-      ],
-      "traffic_estimate": 500,
-      "news_title": "辺野古転覆事故の遺族がコメント「検証結果の責任はこれからも」 同志社理事長ら辞任受け",
-      "news_url": "https://news.yahoo.co.jp/pickup/6593129",
-      "news_source": "Yahoo!ニュース"
-    },
-    {
       "rank": 17,
-      "title": "皆藤 愛子",
+      "title": "竜巻注意情報",
       "geos": [
         "JP"
       ],
       "traffic_estimate": 500,
-      "news_title": "42歳・皆藤愛子、体のラインくっきりニットワンピース姿 「惚れてまう」「世界一美人」と称賛の声（ENCOUNT）",
-      "news_url": "https://news.yahoo.co.jp/articles/626cd0346d8109804bbec69e96012c73604af9dd",
+      "news_title": "【気象防災速報】群馬県全域に竜巻注意情報 気象庁 空の様子に注意 積乱雲が近づく兆しある場合は頑丈な建物内に移動などを",
+      "news_url": "https://news.yahoo.co.jp/articles/490dd1a6cb405438b5891a79184bcd69a53954ae",
       "news_source": "Yahoo!ニュース"
     },
     {

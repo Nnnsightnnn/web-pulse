@@ -1,7 +1,7 @@
 {
   "source": "hackernews",
   "label": "Hacker News — top stories",
-  "fetched_at": "2026-08-26T08:08:32.582Z",
+  "fetched_at": "2026-08-26T08:09:45.701Z",
   "items": [
     {
       "rank": 1,
@@ -62,7 +62,7 @@
       "title": "New Mac Studio with M5 Max and M5 Ultra",
       "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
       "hn_url": "https://news.ycombinator.com/item?id=49433316",
-      "score": 759,
+      "score": 760,
       "comments": 501,
       "author": "interpol_p"
     },
@@ -113,29 +113,29 @@
     },
     {
       "rank": 13,
-      "title": "C2PA Cameras Do Not Survive Contact with Reality",
-      "url": "https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html",
-      "hn_url": "https://news.ycombinator.com/item?id=49439499",
-      "score": 142,
-      "comments": 81,
-      "author": "Retr0id"
-    },
-    {
-      "rank": 14,
       "title": "More than half of adults in U.S. say they lack basic statistical understanding",
       "url": "https://www.psu.edu/news/research/story/more-half-adults-us-say-they-lack-basic-statistical-understanding",
       "hn_url": "https://news.ycombinator.com/item?id=49444514",
-      "score": 72,
-      "comments": 100,
+      "score": 73,
+      "comments": 101,
       "author": "giuliomagnifico"
+    },
+    {
+      "rank": 14,
+      "title": "C2PA Cameras Do Not Survive Contact with Reality",
+      "url": "https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html",
+      "hn_url": "https://news.ycombinator.com/item?id=49439499",
+      "score": 143,
+      "comments": 81,
+      "author": "Retr0id"
     },
     {
       "rank": 15,
       "title": "Nitter and XCancel receive cease and desist notices",
       "url": "https://github.com/zedeus/nitter/issues/1442",
       "hn_url": "https://news.ycombinator.com/item?id=49437283",
-      "score": 871,
-      "comments": 713,
+      "score": 872,
+      "comments": 715,
       "author": "Banditoz"
     },
     {
@@ -176,6 +176,15 @@
     },
     {
       "rank": 20,
+      "title": "Don't Wordle",
+      "url": "https://dontwordle.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=49432319",
+      "score": 346,
+      "comments": 121,
+      "author": "Hbruz0"
+    },
+    {
+      "rank": 21,
       "title": "Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM",
       "url": "https://github.com/swimmingbrain/texbrain",
       "hn_url": "https://news.ycombinator.com/item?id=49441375",
@@ -184,16 +193,16 @@
       "author": "swimmingbrain"
     },
     {
-      "rank": 21,
-      "title": "Don't Wordle",
-      "url": "https://dontwordle.com/",
-      "hn_url": "https://news.ycombinator.com/item?id=49432319",
-      "score": 344,
-      "comments": 121,
-      "author": "Hbruz0"
+      "rank": 22,
+      "title": "Disrupting a new covert influence campaign from Russia",
+      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia/",
+      "hn_url": "https://news.ycombinator.com/item?id=49445252",
+      "score": 8,
+      "comments": 1,
+      "author": "sam_lowry_"
     },
     {
-      "rank": 22,
+      "rank": 23,
       "title": "Show HN: I made a Raspberry with Qwen my local car AI",
       "url": "https://github.com/ThinkOffApp/CarWatch",
       "hn_url": "https://news.ycombinator.com/item?id=49435675",
@@ -202,7 +211,7 @@
       "author": "petruspennanen"
     },
     {
-      "rank": 23,
+      "rank": 24,
       "title": "Show HN: LatticeDB – Like SQLite but for graph databases",
       "url": "https://github.com/jeffhajewski/latticedb",
       "hn_url": "https://news.ycombinator.com/item?id=49437049",
@@ -211,22 +220,13 @@
       "author": "smiths1999"
     },
     {
-      "rank": 24,
+      "rank": 25,
       "title": "Dolly Parton has died",
       "url": "https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead",
       "hn_url": "https://news.ycombinator.com/item?id=49438052",
-      "score": 1429,
+      "score": 1430,
       "comments": 217,
       "author": "helsinkiandrew"
-    },
-    {
-      "rank": 25,
-      "title": "How credit card rewards became a $9.2B wealth transfer",
-      "url": "https://www.library.hbs.edu/working-knowledge/how-credit-card-rewards-became-multibillion-dollar-wealth-transfer",
-      "hn_url": "https://news.ycombinator.com/item?id=49432201",
-      "score": 165,
-      "comments": 300,
-      "author": "conbrian"
     }
   ]
 }
