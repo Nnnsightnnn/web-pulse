@@ -1,0 +1,223 @@
+{
+  "source": "hackernews",
+  "label": "Hacker News — top stories",
+  "fetched_at": "2026-08-28T08:10:56.899Z",
+  "items": [
+    {
+      "rank": 1,
+      "title": "Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache",
+      "url": "https://blog.cloudflare.com/dns-cache-memory-optimization-1111/",
+      "hn_url": "https://news.ycombinator.com/item?id=49468083",
+      "score": 707,
+      "comments": 212,
+      "author": "TangerineDream"
+    },
+    {
+      "rank": 2,
+      "title": "Small Models Have Arrived",
+      "url": "https://calv.info/small-models-have-arrived",
+      "hn_url": "https://news.ycombinator.com/item?id=49466917",
+      "score": 609,
+      "comments": 279,
+      "author": "tosh"
+    },
+    {
+      "rank": 3,
+      "title": "Sovereign Tech Agency invests €500k in Flatpak",
+      "url": "https://modal.cx/blog/announcing-flatpak-sta/",
+      "hn_url": "https://news.ycombinator.com/item?id=49474786",
+      "score": 67,
+      "comments": 28,
+      "author": "eigenspace"
+    },
+    {
+      "rank": 4,
+      "title": "Show HN: OpenTIE and OpenXWA, Modern Ports of Tie Fighter and X-Wing Alliance",
+      "url": "https://github.com/elyosh/OpenTIE/",
+      "hn_url": "https://news.ycombinator.com/item?id=49471965",
+      "score": 151,
+      "comments": 37,
+      "author": "elyosh"
+    },
+    {
+      "rank": 5,
+      "title": "507 Mechanical Movements",
+      "url": "https://507movements.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=49465169",
+      "score": 562,
+      "comments": 72,
+      "author": "helloplanets"
+    },
+    {
+      "rank": 6,
+      "title": "Gemini-3.5-Transcribe",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/",
+      "hn_url": "https://news.ycombinator.com/item?id=49468818",
+      "score": 258,
+      "comments": 82,
+      "author": "k9294"
+    },
+    {
+      "rank": 7,
+      "title": "Microduck",
+      "url": "https://pollen-robotics.com/microduck/",
+      "hn_url": "https://news.ycombinator.com/item?id=49462763",
+      "score": 629,
+      "comments": 209,
+      "author": "robotswantdata"
+    },
+    {
+      "rank": 8,
+      "title": "We found a division by zero bug in FFmpeg with a vibecoded fuzzer",
+      "url": "https://code.ffmpeg.org/FFmpeg/FFmpeg/issues/24290",
+      "hn_url": "https://news.ycombinator.com/item?id=49468642",
+      "score": 228,
+      "comments": 173,
+      "author": "dclavijo"
+    },
+    {
+      "rank": 9,
+      "title": "Doctors are finally learning to manage antidepressant withdrawal",
+      "url": "https://www.newscientist.com/article/2584861-antidepressant-withdrawal-symptoms-are-prompting-a-radical-rethink-of-how-we-treat-depression/",
+      "hn_url": "https://news.ycombinator.com/item?id=49472090",
+      "score": 100,
+      "comments": 92,
+      "author": "eutropheon"
+    },
+    {
+      "rank": 10,
+      "title": "Terminal-Bench-Science: Evaluating AI agents on scientific research workflows",
+      "url": "https://www.terminal-bench-science.ai/announcement",
+      "hn_url": "https://news.ycombinator.com/item?id=49472820",
+      "score": 73,
+      "comments": 23,
+      "author": "matt_d"
+    },
+    {
+      "rank": 11,
+      "title": "Gemini Omni 1.1 Flash",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/",
+      "hn_url": "https://news.ycombinator.com/item?id=49467922",
+      "score": 237,
+      "comments": 163,
+      "author": "saretup"
+    },
+    {
+      "rank": 12,
+      "title": "Show HN: We built open OpenRouter that turns usage into a better model",
+      "url": "https://github.com/experientiallabs/experiential",
+      "hn_url": "https://news.ycombinator.com/item?id=49471407",
+      "score": 167,
+      "comments": 31,
+      "author": "SilenN"
+    },
+    {
+      "rank": 13,
+      "title": "AI Engineer Notebooks – free, framework-free RAG/agents/evals on Colab",
+      "url": "https://github.com/calmrocks/ai-engineer-notebooks",
+      "hn_url": "https://news.ycombinator.com/item?id=49471714",
+      "score": 97,
+      "comments": 9,
+      "author": "calmrocks"
+    },
+    {
+      "rank": 14,
+      "title": "Show HN: The load-bearing vocabulary of Claude",
+      "url": "https://louisabraham.github.io/load-bearing/",
+      "hn_url": "https://news.ycombinator.com/item?id=49461817",
+      "score": 473,
+      "comments": 230,
+      "author": "Labo333"
+    },
+    {
+      "rank": 15,
+      "title": "The turbulent AI era is here",
+      "url": "https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make",
+      "hn_url": "https://news.ycombinator.com/item?id=49447057",
+      "score": 281,
+      "comments": 528,
+      "author": "nanna"
+    },
+    {
+      "rank": 16,
+      "title": "Bootstrappable Builds: How and Why",
+      "url": "https://lwn.net/Articles/1088279/",
+      "hn_url": "https://news.ycombinator.com/item?id=49473868",
+      "score": 35,
+      "comments": 14,
+      "author": "signa11"
+    },
+    {
+      "rank": 17,
+      "title": "Select * from Internet.blogposts",
+      "url": "https://pfrazee.leaflet.pub/3mu3p2smmis22",
+      "hn_url": "https://news.ycombinator.com/item?id=49472161",
+      "score": 80,
+      "comments": 36,
+      "author": "mmattbtw"
+    },
+    {
+      "rank": 18,
+      "title": "Decompiling a Nintendo 64 game in 84 days",
+      "url": "https://blog.chrislewis.au/decompiling-a-nintendo-64-game-in-84-days/",
+      "hn_url": "https://news.ycombinator.com/item?id=49466006",
+      "score": 228,
+      "comments": 134,
+      "author": "knackers"
+    },
+    {
+      "rank": 19,
+      "title": "Afterglow: Run classic After Dark screen savers on modern macOS",
+      "url": "https://morphing.cloud/afterglow/",
+      "hn_url": "https://news.ycombinator.com/item?id=49457722",
+      "score": 143,
+      "comments": 42,
+      "author": "NaOH"
+    },
+    {
+      "rank": 20,
+      "title": "Stripe said to abandon $50B pursuit of PayPal",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-28/advent-stripe-consortium-is-said-to-drop-pursuit-of-paypal",
+      "hn_url": "https://news.ycombinator.com/item?id=49473483",
+      "score": 126,
+      "comments": 144,
+      "author": "1986"
+    },
+    {
+      "rank": 21,
+      "title": "Nvidia agrees to acquire Hugging Face for $13B",
+      "url": "https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8",
+      "hn_url": "https://news.ycombinator.com/item?id=49458161",
+      "score": 1884,
+      "comments": 870,
+      "author": "mfiguiere"
+    },
+    {
+      "rank": 22,
+      "title": "Emacs 31: An unofficial guide to Markdown-ts-mode",
+      "url": "https://rahuljuliato.com/posts/markdown-ts-mode-emacs-31",
+      "hn_url": "https://news.ycombinator.com/item?id=49464543",
+      "score": 174,
+      "comments": 70,
+      "author": "RahulMJ"
+    },
+    {
+      "rank": 23,
+      "title": "Previewing the Model Hardware Standard",
+      "url": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
+      "hn_url": "https://news.ycombinator.com/item?id=49468834",
+      "score": 111,
+      "comments": 42,
+      "author": "surprisetalk"
+    },
+    {
+      "rank": 24,
+      "title": "Suica, Japan's First IC Transit Card",
+      "url": "https://www.tokyodev.com/articles/the-story-of-suica",
+      "hn_url": "https://news.ycombinator.com/item?id=49466894",
+      "score": 233,
+      "comments": 200,
+      "author": "zdw"
+    }
+  ]
+}

@@ -1,0 +1,282 @@
+{
+  "source": "huggingface",
+  "label": "Hugging Face — trending models",
+  "fetched_at": "2026-08-27T08:10:57.417Z",
+  "items": [
+    {
+      "rank": 1,
+      "title": "Qwen/Qwen3.8-Flash-Next",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-Flash-Next",
+      "author": "Qwen",
+      "downloads": 2551,
+      "likes": 3771,
+      "trending_score": 3704,
+      "pipeline_tag": "image-text-to-text",
+      "last_modified": "2026-08-27T05:03:36.000Z"
+    },
+    {
+      "rank": 2,
+      "title": "zai-org/GLM-5.3-Flash",
+      "url": "https://huggingface.co/zai-org/GLM-5.3-Flash",
+      "author": "zai-org",
+      "downloads": 0,
+      "likes": 1110,
+      "trending_score": 1076,
+      "pipeline_tag": "text-generation",
+      "last_modified": "2026-08-26T16:31:15.000Z"
+    },
+    {
+      "rank": 3,
+      "title": "Qwen/Qwen3.8-27B",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+      "author": "Qwen",
+      "downloads": 3298569,
+      "likes": 12946,
+      "trending_score": 1039,
+      "pipeline_tag": "image-text-to-text",
+      "last_modified": "2026-08-14T15:00:01.000Z"
+    },
+    {
+      "rank": 4,
+      "title": "unsloth/Qwen3.8-27B-GGUF",
+      "url": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
+      "author": "unsloth",
+      "downloads": 7638591,
+      "likes": 3020,
+      "trending_score": 714,
+      "pipeline_tag": null,
+      "last_modified": "2026-08-20T12:04:25.000Z"
+    },
+    {
+      "rank": 5,
+      "title": "OBLITERATUS/Qwen3.8-27B-OBLITERATED",
+      "url": "https://huggingface.co/OBLITERATUS/Qwen3.8-27B-OBLITERATED",
+      "author": "OBLITERATUS",
+      "downloads": 468746,
+      "likes": 821,
+      "trending_score": 626,
+      "pipeline_tag": "text-generation",
+      "last_modified": "2026-08-24T17:47:52.000Z"
+    },
+    {
+      "rank": 6,
+      "title": "orcarouter/Qwen3.8-27B-Uncensored-FP8",
+      "url": "https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-FP8",
+      "author": "orcarouter",
+      "downloads": 269805,
+      "likes": 1187,
+      "trending_score": 403,
+      "pipeline_tag": "image-text-to-text",
+      "last_modified": "2026-08-20T08:41:29.000Z"
+    },
+    {
+      "rank": 7,
+      "title": "orcarouter/Qwen3.8-27B-Uncensored-MLX",
+      "url": "https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-MLX",
+      "author": "orcarouter",
+      "downloads": 79395,
+      "likes": 1146,
+      "trending_score": 398,
+      "pipeline_tag": "image-text-to-text",
+      "last_modified": "2026-08-24T09:44:01.000Z"
+    },
+    {
+      "rank": 8,
+      "title": "unsloth/Qwen3.8-Flash-Next-GGUF",
+      "url": "https://huggingface.co/unsloth/Qwen3.8-Flash-Next-GGUF",
+      "author": "unsloth",
+      "downloads": 0,
+      "likes": 390,
+      "trending_score": 387,
+      "pipeline_tag": "image-text-to-text",
+      "last_modified": "2026-08-27T05:48:42.000Z"
+    },
+    {
+      "rank": 9,
+      "title": "Lightricks/LTX-2.5",
+      "url": "https://huggingface.co/Lightricks/LTX-2.5",
+      "author": "Lightricks",
+      "downloads": 894094,
+      "likes": 1883,
+      "trending_score": 328,
+      "pipeline_tag": "image-to-video",
+      "last_modified": "2026-08-17T13:54:21.000Z"
+    },
+    {
+      "rank": 10,
+      "title": "HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
+      "url": "https://huggingface.co/HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
+      "author": "HauhauCS",
+      "downloads": 911795,
+      "likes": 670,
+      "trending_score": 308,
+      "pipeline_tag": "image-text-to-text",
+      "last_modified": "2026-08-17T22:02:10.000Z"
+    },
+    {
+      "rank": 11,
+      "title": "ornith-ai/Ornith-1.5-35B-A3B",
+      "url": "https://huggingface.co/ornith-ai/Ornith-1.5-35B-A3B",
+      "author": "ornith-ai",
+      "downloads": 83342,
+      "likes": 459,
+      "trending_score": 302,
+      "pipeline_tag": "text-generation",
+      "last_modified": "2026-08-23T03:17:39.000Z"
+    },
+    {
+      "rank": 12,
+      "title": "MiniMaxAI/MiniMax-H3",
+      "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3",
+      "author": "MiniMaxAI",
+      "downloads": 4793098,
+      "likes": 4509,
+      "trending_score": 237,
+      "pipeline_tag": "image-text-to-video",
+      "last_modified": "2026-08-13T01:46:29.000Z"
+    },
+    {
+      "rank": 13,
+      "title": "JonathanColetti/Qwen3.8-27B-Uncensored-GGUF",
+      "url": "https://huggingface.co/JonathanColetti/Qwen3.8-27B-Uncensored-GGUF",
+      "author": "JonathanColetti",
+      "downloads": 1620754,
+      "likes": 762,
+      "trending_score": 225,
+      "pipeline_tag": "text-generation",
+      "last_modified": "2026-08-26T00:38:44.000Z"
+    },
+    {
+      "rank": 14,
+      "title": "orcarouter/Qwen3.8-27B-Uncensored-GGUF",
+      "url": "https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-GGUF",
+      "author": "orcarouter",
+      "downloads": 183871,
+      "likes": 479,
+      "trending_score": 194,
+      "pipeline_tag": "image-text-to-text",
+      "last_modified": "2026-08-20T13:18:03.000Z"
+    },
+    {
+      "rank": 15,
+      "title": "ornith-ai/Ornith-1.5-35B-A3B-GGUF",
+      "url": "https://huggingface.co/ornith-ai/Ornith-1.5-35B-A3B-GGUF",
+      "author": "ornith-ai",
+      "downloads": 1391218,
+      "likes": 318,
+      "trending_score": 193,
+      "pipeline_tag": "text-generation",
+      "last_modified": "2026-08-24T03:43:47.000Z"
+    },
+    {
+      "rank": 16,
+      "title": "MiniMaxAI/MiniMax-Music3",
+      "url": "https://huggingface.co/MiniMaxAI/MiniMax-Music3",
+      "author": "MiniMaxAI",
+      "downloads": 19501,
+      "likes": 1266,
+      "trending_score": 181,
+      "pipeline_tag": "text-to-audio",
+      "last_modified": "2026-08-14T10:51:40.000Z"
+    },
+    {
+      "rank": 17,
+      "title": "froggeric/Qwen-Fixed-Chat-Templates",
+      "url": "https://huggingface.co/froggeric/Qwen-Fixed-Chat-Templates",
+      "author": "froggeric",
+      "downloads": 0,
+      "likes": 1490,
+      "trending_score": 179,
+      "pipeline_tag": null,
+      "last_modified": "2026-08-24T21:35:17.000Z"
+    },
+    {
+      "rank": 18,
+      "title": "sensenova/SenseNova-U1.5-8B-MoT",
+      "url": "https://huggingface.co/sensenova/SenseNova-U1.5-8B-MoT",
+      "author": "sensenova",
+      "downloads": 3264,
+      "likes": 174,
+      "trending_score": 174,
+      "pipeline_tag": "any-to-any",
+      "last_modified": "2026-08-24T02:53:12.000Z"
+    },
+    {
+      "rank": 19,
+      "title": "huihui-ai/Huihui-Qwen3.8-27B-abliterated-GGUF",
+      "url": "https://huggingface.co/huihui-ai/Huihui-Qwen3.8-27B-abliterated-GGUF",
+      "author": "huihui-ai",
+      "downloads": 1318749,
+      "likes": 385,
+      "trending_score": 165,
+      "pipeline_tag": "image-text-to-text",
+      "last_modified": "2026-08-27T06:05:52.000Z"
+    },
+    {
+      "rank": 20,
+      "title": "deepseek-ai/DeepSeek-V4-Flash-0731",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731",
+      "author": "deepseek-ai",
+      "downloads": 3857140,
+      "likes": 3746,
+      "trending_score": 148,
+      "pipeline_tag": "text-generation",
+      "last_modified": "2026-08-01T03:07:41.000Z"
+    },
+    {
+      "rank": 21,
+      "title": "superwhisper/s1-mini",
+      "url": "https://huggingface.co/superwhisper/s1-mini",
+      "author": "superwhisper",
+      "downloads": 3921,
+      "likes": 254,
+      "trending_score": 145,
+      "pipeline_tag": "text-generation",
+      "last_modified": "2026-08-21T17:16:30.000Z"
+    },
+    {
+      "rank": 22,
+      "title": "alibaba-pai/MiniMax-H3-Fun-Controlnet-Union",
+      "url": "https://huggingface.co/alibaba-pai/MiniMax-H3-Fun-Controlnet-Union",
+      "author": "alibaba-pai",
+      "downloads": 3148,
+      "likes": 142,
+      "trending_score": 142,
+      "pipeline_tag": "text-to-video",
+      "last_modified": "2026-08-24T09:10:10.000Z"
+    },
+    {
+      "rank": 23,
+      "title": "unsloth/GLM-5.3-Flash-GGUF",
+      "url": "https://huggingface.co/unsloth/GLM-5.3-Flash-GGUF",
+      "author": "unsloth",
+      "downloads": 0,
+      "likes": 143,
+      "trending_score": 142,
+      "pipeline_tag": "text-generation",
+      "last_modified": "2026-08-26T15:34:28.000Z"
+    },
+    {
+      "rank": 24,
+      "title": "ornith-ai/Ornith-1.5-9B-GGUF",
+      "url": "https://huggingface.co/ornith-ai/Ornith-1.5-9B-GGUF",
+      "author": "ornith-ai",
+      "downloads": 1389641,
+      "likes": 224,
+      "trending_score": 141,
+      "pipeline_tag": "text-generation",
+      "last_modified": "2026-08-24T02:45:24.000Z"
+    },
+    {
+      "rank": 25,
+      "title": "ornith-ai/Ornith-1.5-9B",
+      "url": "https://huggingface.co/ornith-ai/Ornith-1.5-9B",
+      "author": "ornith-ai",
+      "downloads": 119053,
+      "likes": 231,
+      "trending_score": 140,
+      "pipeline_tag": "text-generation",
+      "last_modified": "2026-08-23T06:24:01.000Z"
+    }
+  ]
+}
