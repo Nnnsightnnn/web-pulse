@@ -1,11 +1,21 @@
 {
   "source": "twitch",
   "label": "Twitch — top streams (live)",
-  "fetched_at": "2026-08-28T08:10:57.125Z",
+  "fetched_at": "2026-08-28T08:12:05.602Z",
   "configured": true,
   "items": [
     {
       "rank": 1,
+      "title": "TheBurntPeanut",
+      "stream_title": "LEBRON OF THE BUNGUS | Gimmick X Hutch | EFT x Hunger Games Tournament Tomorrow | GTA NEWS | #BUNGULATE",
+      "url": "https://twitch.tv/theburntpeanut",
+      "viewers": 32786,
+      "game": "Escape from Tarkov",
+      "language": "en",
+      "started_at": "2026-08-28T00:10:51Z"
+    },
+    {
+      "rank": 2,
       "title": "Caedrel",
       "stream_title": "🔴LCK BRO VS FEARX FINAL PLAYOFFS SPOT🔴",
       "url": "https://twitch.tv/caedrel",
@@ -15,21 +25,11 @@
       "started_at": "2026-08-28T07:27:44Z"
     },
     {
-      "rank": 2,
-      "title": "TheBurntPeanut",
-      "stream_title": "LEBRON OF THE BUNGUS | Gimmick X Hutch | EFT x Hunger Games Tournament Tomorrow | GTA NEWS | #BUNGULATE",
-      "url": "https://twitch.tv/theburntpeanut",
-      "viewers": 25315,
-      "game": "Escape from Tarkov",
-      "language": "en",
-      "started_at": "2026-08-28T00:10:51Z"
-    },
-    {
       "rank": 3,
       "title": "Echo_Esports",
       "stream_title": "Day 10 - The Race to World First: The Venomous Abyss",
       "url": "https://twitch.tv/echo_esports",
-      "viewers": 13985,
+      "viewers": 14388,
       "game": "World of Warcraft",
       "language": "en",
       "started_at": "2026-08-28T03:02:03Z"
@@ -37,10 +37,10 @@
     {
       "rank": 4,
       "title": "布団ちゃんと申します",
-      "stream_title": "禁煙マリオメーカー２【５日目】寝起きたらまず雑だよナ！？？放送！",
+      "stream_title": "雑談してからFF←禁煙マリオメーカー２【５日目】寝起きたらまず雑だよナ！？？放送！",
       "url": "https://twitch.tv/indegnasen0706",
-      "viewers": 12420,
-      "game": "Super Mario Maker 2",
+      "viewers": 12758,
+      "game": "Just Chatting",
       "language": "ja",
       "started_at": "2026-08-28T04:08:19Z"
     },
@@ -56,13 +56,13 @@
     },
     {
       "rank": 6,
-      "title": "柊ツルギ",
-      "stream_title": "ガチPVPRUST   練習サーバー w/あかりん、らっしゃー",
-      "url": "https://twitch.tv/hiiragitsurugi",
-      "viewers": 8244,
-      "game": "Rust",
-      "language": "ja",
-      "started_at": "2026-08-28T06:59:14Z"
+      "title": "GOFNS",
+      "stream_title": "EG SUDOWOODO | PRX vs ONG - VCT Pacific Stage 2 Playoffs #VCTWatchparty | !socials !vote",
+      "url": "https://twitch.tv/gofns",
+      "viewers": 8265,
+      "game": "VALORANT",
+      "language": "en",
+      "started_at": "2026-08-28T07:58:45Z"
     },
     {
       "rank": 7,
@@ -76,6 +76,16 @@
     },
     {
       "rank": 8,
+      "title": "柊ツルギ",
+      "stream_title": "ガチPVPRUST   練習サーバー w/あかりん、らっしゃー",
+      "url": "https://twitch.tv/hiiragitsurugi",
+      "viewers": 7699,
+      "game": "Rust",
+      "language": "ja",
+      "started_at": "2026-08-28T06:59:14Z"
+    },
+    {
+      "rank": 9,
       "title": "TheRealKnossi",
       "stream_title": "JETSKI WM TRAINING",
       "url": "https://twitch.tv/therealknossi",
@@ -85,37 +95,37 @@
       "started_at": "2026-08-28T06:49:46Z"
     },
     {
-      "rank": 9,
-      "title": "michaelreeves",
-      "stream_title": "MINECRAFT AMAZON FULFILLMENT CENTER #1️⃣ WORST ENGINEER",
-      "url": "https://twitch.tv/michaelreeves",
-      "viewers": 7216,
-      "game": "Minecraft",
-      "language": "en",
-      "started_at": "2026-08-28T03:59:01Z"
-    },
-    {
       "rank": 10,
-      "title": "mellstroy",
-      "stream_title": "ИГРОВАЯ ВОЗНЯ",
-      "url": "https://twitch.tv/mellstroy",
-      "viewers": 6685,
-      "game": "Dota 2",
-      "language": "ru",
-      "started_at": "2026-08-27T22:54:44Z"
-    },
-    {
-      "rank": 11,
       "title": "LCK",
       "stream_title": "BRO vs BFX | 2026 LCK PLAY-INS",
       "url": "https://twitch.tv/lck",
-      "viewers": 6582,
+      "viewers": 7280,
       "game": "League of Legends",
       "language": "en",
       "started_at": "2026-08-28T07:14:57Z"
     },
     {
+      "rank": 11,
+      "title": "michaelreeves",
+      "stream_title": "MINECRAFT AMAZON FULFILLMENT CENTER #1️⃣ WORST ENGINEER",
+      "url": "https://twitch.tv/michaelreeves",
+      "viewers": 7127,
+      "game": "Minecraft",
+      "language": "en",
+      "started_at": "2026-08-28T03:59:01Z"
+    },
+    {
       "rank": 12,
+      "title": "mellstroy",
+      "stream_title": "ИГРОВАЯ ВОЗНЯ",
+      "url": "https://twitch.tv/mellstroy",
+      "viewers": 6845,
+      "game": "Dota 2",
+      "language": "ru",
+      "started_at": "2026-08-27T22:54:44Z"
+    },
+    {
+      "rank": 13,
       "title": "Silky",
       "stream_title": "🪂LATE NIGHT REACTIONS🪂EARLIER STREAMS INCOMING FOR EAST COAST🪂PLAYING NBA2K UNTIL I GO ON A 25 STREAK🪂!core !patreon",
       "url": "https://twitch.tv/silky",
@@ -125,21 +135,11 @@
       "started_at": "2026-08-28T03:59:11Z"
     },
     {
-      "rank": 13,
-      "title": "GOFNS",
-      "stream_title": "EG SUDOWOODO | PRX vs ONG - VCT Pacific Stage 2 Playoffs #VCTWatchparty | !socials !vote",
-      "url": "https://twitch.tv/gofns",
-      "viewers": 6271,
-      "game": "VALORANT",
-      "language": "en",
-      "started_at": "2026-08-28T07:58:45Z"
-    },
-    {
       "rank": 14,
       "title": "Meiy_vl",
       "stream_title": "VCT ウオッチパしてみます熱血解説 #VCTWatchParty",
       "url": "https://twitch.tv/meiy_vl",
-      "viewers": 5870,
+      "viewers": 6252,
       "game": "VALORANT",
       "language": "ja",
       "started_at": "2026-08-28T07:02:49Z"
@@ -149,7 +149,7 @@
       "title": "esports_rage",
       "stream_title": "Apex Legends Global Series Year 6：Split 2 【APAC North Pro League Day 4】",
       "url": "https://twitch.tv/esports_rage",
-      "viewers": 5448,
+      "viewers": 5756,
       "game": "Apex Legends",
       "language": "ja",
       "started_at": "2026-08-28T07:30:03Z"
@@ -159,7 +159,7 @@
       "title": "Maximilian_DOOD",
       "stream_title": "Checking out GTAVI stuff & RESONANCE: A Plague Tale Legacy #ad & more!",
       "url": "https://twitch.tv/maximilian_dood",
-      "viewers": 5229,
+      "viewers": 5481,
       "game": "Resonance: A Plague Tale Legacy",
       "language": "en",
       "started_at": "2026-08-28T02:49:31Z"
@@ -169,23 +169,13 @@
       "title": "バトラ",
       "stream_title": "この俺がプラチナ4でスタックするわけがない",
       "url": "https://twitch.tv/batora324",
-      "viewers": 4844,
+      "viewers": 4993,
       "game": "Apex Legends",
       "language": "ja",
       "started_at": "2026-08-28T03:39:49Z"
     },
     {
       "rank": 18,
-      "title": "GingiTV",
-      "stream_title": "<Echo> RWF Day 10 Mythic Coiled Alter !UI !gains !atw #ad",
-      "url": "https://twitch.tv/gingitv",
-      "viewers": 4772,
-      "game": "World of Warcraft",
-      "language": "en",
-      "started_at": "2026-08-28T05:14:22Z"
-    },
-    {
-      "rank": 19,
       "title": "lplenglish",
       "stream_title": "2026 LPL Split 3 Play-Ins | EDG vs. NIP | TT vs. iG | !casters !production !playins",
       "url": "https://twitch.tv/lplenglish",
@@ -195,7 +185,27 @@
       "started_at": "2026-08-28T05:31:35Z"
     },
     {
+      "rank": 19,
+      "title": "GingiTV",
+      "stream_title": "<Echo> RWF Day 10 Mythic Coiled Alter !UI !gains !atw #ad",
+      "url": "https://twitch.tv/gingitv",
+      "viewers": 4714,
+      "game": "World of Warcraft",
+      "language": "en",
+      "started_at": "2026-08-28T05:14:22Z"
+    },
+    {
       "rank": 20,
+      "title": "VALORANT_Pacific",
+      "stream_title": "ONG vs PRX / T1 vs KRX - VCT Pacific - Stage 2 - Playoffs - Day 3",
+      "url": "https://twitch.tv/valorant_pacific",
+      "viewers": 4676,
+      "game": "VALORANT",
+      "language": "en",
+      "started_at": "2026-08-28T07:00:31Z"
+    },
+    {
+      "rank": 21,
       "title": "ゆゆうた押忍",
       "stream_title": "帰宅！！！！！",
       "url": "https://twitch.tv/yuyuta0702",
@@ -203,16 +213,6 @@
       "game": "Just Chatting",
       "language": "ja",
       "started_at": "2026-08-28T07:54:47Z"
-    },
-    {
-      "rank": 21,
-      "title": "VALORANT_Pacific",
-      "stream_title": "ONG vs PRX / T1 vs KRX - VCT Pacific - Stage 2 - Playoffs - Day 3",
-      "url": "https://twitch.tv/valorant_pacific",
-      "viewers": 4399,
-      "game": "VALORANT",
-      "language": "en",
-      "started_at": "2026-08-28T07:00:31Z"
     },
     {
       "rank": 22,

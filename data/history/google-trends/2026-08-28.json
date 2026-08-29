@@ -1,7 +1,7 @@
 {
   "source": "google-trends",
   "label": "Google Trends — trending searches",
-  "fetched_at": "2026-08-28T08:10:56.990Z",
+  "fetched_at": "2026-08-28T08:12:05.521Z",
   "countries": [
     "US",
     "GB",
@@ -90,6 +90,17 @@
     },
     {
       "rank": 8,
+      "title": "weißer hai",
+      "geos": [
+        "DE"
+      ],
+      "traffic_estimate": 2000,
+      "news_title": "Weißer Hai: Dem „Monster” ins Auge gesehen und überlebt – Junge Mutter schildert Angriff",
+      "news_url": "https://www.focus.de/panorama/welt/weisser-hai-dem-monster-ins-auge-gesehen-und-ueberlebt-junge-mutter-schildert-angriff_270b66e1-2d8a-45c9-b374-13751354e0cd.html",
+      "news_source": "FOCUS online"
+    },
+    {
+      "rank": 9,
       "title": "kronprinz haakon",
       "geos": [
         "DE"
@@ -100,7 +111,7 @@
       "news_source": "ARD Mediathek"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "285a",
       "geos": [
         "JP"
@@ -111,7 +122,7 @@
       "news_source": "Yahoo!ニュース"
     },
     {
-      "rank": 10,
+      "rank": 11,
       "title": "airbus a380",
       "geos": [
         "DE"
@@ -120,17 +131,6 @@
       "news_title": "Überraschendes Aus für A380: Rekordflugzeug drängt Airbus-Riesen aus der Flotte",
       "news_url": "https://www.abendblatt.de/hamburg/wirtschaft/article412977929/airbus-a380-bei-qantas-vor-dem-aus-rekordflugzeug-a350-1000ulr-als-ersatz.html",
       "news_source": "Hamburger Abendblatt"
-    },
-    {
-      "rank": 11,
-      "title": "weißer hai",
-      "geos": [
-        "DE"
-      ],
-      "traffic_estimate": 1000,
-      "news_title": "Weißer Hai: Dem „Monster” ins Auge gesehen und überlebt – Junge Mutter schildert Angriff",
-      "news_url": "https://www.focus.de/panorama/welt/weisser-hai-dem-monster-ins-auge-gesehen-und-ueberlebt-junge-mutter-schildert-angriff_270b66e1-2d8a-45c9-b374-13751354e0cd.html",
-      "news_source": "FOCUS online"
     },
     {
       "rank": 12,
@@ -255,17 +255,6 @@
     },
     {
       "rank": 23,
-      "title": "stabhochsprung",
-      "geos": [
-        "DE"
-      ],
-      "traffic_estimate": 500,
-      "news_title": "\"Wahnsinn\": Duplantis gewinnt \"historischen Wettkampf\"",
-      "news_url": "https://www.sport.de/news/ne17097093/leichtathletik-stabhochsprung--wahnsinn-armand-duplantis-gewinnt-historischen-wettkampf/",
-      "news_source": "sport.de"
-    },
-    {
-      "rank": 24,
       "title": "world record",
       "geos": [
         "US"
@@ -276,7 +265,7 @@
       "news_source": "The Guardian"
     },
     {
-      "rank": 25,
+      "rank": 24,
       "title": "cycling",
       "geos": [
         "US"
@@ -285,6 +274,17 @@
       "news_title": "Tadej Pogacar battles back from scare on descent to win stage six of Vuelta a España",
       "news_url": "https://www.theguardian.com/sport/2026/aug/27/tadej-pogacar-stage-six-vuelta-a-espana-enric-mas",
       "news_source": "The Guardian"
+    },
+    {
+      "rank": 25,
+      "title": "fanduel free bet",
+      "geos": [
+        "US"
+      ],
+      "traffic_estimate": 200,
+      "news_title": "FanDuel Promo Code: Get up to $350 Bonus Bets for Rams vs. Chargers",
+      "news_url": "https://www.si.com/betting-promo/fanduel-promo-code-get-up-to-350-bonus-bets-for-rams-vs-chargers-01m11xygr309",
+      "news_source": "Sports Illustrated"
     }
   ]
 }
