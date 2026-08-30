@@ -1,0 +1,232 @@
+{
+  "source": "hackernews",
+  "label": "Hacker News — top stories",
+  "fetched_at": "2026-08-30T08:11:13.616Z",
+  "items": [
+    {
+      "rank": 1,
+      "title": "Bug Blindness",
+      "url": "https://danluu.com/bug-blind/",
+      "hn_url": "https://news.ycombinator.com/item?id=49494520",
+      "score": 223,
+      "comments": 110,
+      "author": "davidmckenna"
+    },
+    {
+      "rank": 2,
+      "title": "RISC-V is now officially supported by CPython",
+      "url": "https://blog.python.org/2026/08/riscv-now-officially-supported/",
+      "hn_url": "https://news.ycombinator.com/item?id=49425252",
+      "score": 124,
+      "comments": 25,
+      "author": "lumpa"
+    },
+    {
+      "rank": 3,
+      "title": "Hy4 preview",
+      "url": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/",
+      "hn_url": "https://news.ycombinator.com/item?id=49492632",
+      "score": 272,
+      "comments": 176,
+      "author": "shenli3514"
+    },
+    {
+      "rank": 4,
+      "title": "California lawmakers unanimously pass Linux exemption from age-verification law",
+      "url": "https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt",
+      "hn_url": "https://news.ycombinator.com/item?id=49495372",
+      "score": 211,
+      "comments": 65,
+      "author": "shscs911"
+    },
+    {
+      "rank": 5,
+      "title": "FreeCORE TrueNAS Core – Continued",
+      "url": "https://freecore.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=49494856",
+      "score": 82,
+      "comments": 51,
+      "author": "sashk"
+    },
+    {
+      "rank": 6,
+      "title": "Benjamin Franklin's Alter Egos Gave Him the Most Freedom",
+      "url": "https://www.smithsonianmag.com/history/among-all-great-things-benjamin-franklin-invented-discovered-alter-egos-gave-him-most-freedom-180988824/",
+      "hn_url": "https://news.ycombinator.com/item?id=49494751",
+      "score": 53,
+      "comments": 17,
+      "author": "cisc"
+    },
+    {
+      "rank": 7,
+      "title": "Tether: iMessage, SMS, etc. on Linux",
+      "url": "https://zackbartel.com/blog/2026/08/tether/",
+      "hn_url": "https://news.ycombinator.com/item?id=49415386",
+      "score": 444,
+      "comments": 177,
+      "author": "zackb"
+    },
+    {
+      "rank": 8,
+      "title": "Benchmarking Pocket-Scale Inference",
+      "url": "https://artificialanalysis.ai/hardware-inference-stack/mobile-phones",
+      "hn_url": "https://news.ycombinator.com/item?id=49469786",
+      "score": 39,
+      "comments": 3,
+      "author": "sys42590"
+    },
+    {
+      "rank": 9,
+      "title": "Creating Teensy ELF Executables for Linux (Or, \"Size Is Everything\")",
+      "url": "https://www.muppetlabs.com/~breadbox/software/tiny/teensy.html",
+      "hn_url": "https://news.ycombinator.com/item?id=49433554",
+      "score": 35,
+      "comments": 9,
+      "author": "Bluestein"
+    },
+    {
+      "rank": 10,
+      "title": "Nancy Grace Roman Space Telescope",
+      "url": "https://science.nasa.gov/mission/roman-space-telescope/",
+      "hn_url": "https://news.ycombinator.com/item?id=49490870",
+      "score": 183,
+      "comments": 75,
+      "author": "JumpCrisscross"
+    },
+    {
+      "rank": 11,
+      "title": "The Rise and Fall of Agent Civilizations",
+      "url": "https://www.dwarkesh.com/p/openai-huggingface",
+      "hn_url": "https://news.ycombinator.com/item?id=49494301",
+      "score": 78,
+      "comments": 37,
+      "author": "consumer451"
+    },
+    {
+      "rank": 12,
+      "title": "Lawmakers added $1 to car insurance policies. That money paid for Flock cameras",
+      "url": "https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/",
+      "hn_url": "https://news.ycombinator.com/item?id=49494182",
+      "score": 274,
+      "comments": 148,
+      "author": "DeepLogin"
+    },
+    {
+      "rank": 13,
+      "title": "SQLite as a Document Database (2020)",
+      "url": "https://dgl.cx/2020/06/sqlite-json-support",
+      "hn_url": "https://news.ycombinator.com/item?id=49426995",
+      "score": 201,
+      "comments": 48,
+      "author": "lioeters"
+    },
+    {
+      "rank": 14,
+      "title": "Open Oscar Server: open-source server compatible with AIM and ICQ clients",
+      "url": "https://github.com/mk6i/open-oscar-server",
+      "hn_url": "https://news.ycombinator.com/item?id=49494571",
+      "score": 31,
+      "comments": 9,
+      "author": "gregsadetsky"
+    },
+    {
+      "rank": 15,
+      "title": "Is it safe to call print in a Python signal handler?",
+      "url": "https://iafisher.com/2026/08/sigprint",
+      "hn_url": "https://news.ycombinator.com/item?id=49450248",
+      "score": 42,
+      "comments": 21,
+      "author": "hellerve"
+    },
+    {
+      "rank": 16,
+      "title": "Functional State Machines in Rust: Typestate and Newtype Patterns",
+      "url": "https://dl.acm.org/doi/10.1145/3830438.3830958",
+      "hn_url": "https://news.ycombinator.com/item?id=49492368",
+      "score": 80,
+      "comments": 34,
+      "author": "matt_d"
+    },
+    {
+      "rank": 17,
+      "title": "EVE Online moves to Python 3",
+      "url": "https://www.eveonline.com/news/view/the-move-to-python-3-begins",
+      "hn_url": "https://news.ycombinator.com/item?id=49433328",
+      "score": 342,
+      "comments": 187,
+      "author": "TylerJaacks"
+    },
+    {
+      "rank": 18,
+      "title": "Glacier Mice",
+      "url": "https://en.wikipedia.org/wiki/Glacier_mice",
+      "hn_url": "https://news.ycombinator.com/item?id=49424320",
+      "score": 287,
+      "comments": 58,
+      "author": "ostacke"
+    },
+    {
+      "rank": 19,
+      "title": "Calibrate Before You Accelerate: Bias Toward Action in a New Role",
+      "url": "https://tucker.wales/writing/bias-towards-action/",
+      "hn_url": "https://news.ycombinator.com/item?id=49491714",
+      "score": 152,
+      "comments": 56,
+      "author": "tuckerwales"
+    },
+    {
+      "rank": 20,
+      "title": "Algorithmic rent-pricing litigation expands under new state and local laws",
+      "url": "https://www.morganlewis.com/pubs/2026/08/algorithmic-rent-pricing-litigation-expands-under-new-state-and-local-laws",
+      "hn_url": "https://news.ycombinator.com/item?id=49495127",
+      "score": 71,
+      "comments": 40,
+      "author": "toomuchtodo"
+    },
+    {
+      "rank": 21,
+      "title": "A few feral cats in an ALGOL trenchcoat.",
+      "url": "https://wiki.xxiivv.com/site/pop2.html",
+      "hn_url": "https://news.ycombinator.com/item?id=49484520",
+      "score": 13,
+      "comments": 2,
+      "author": "bmacho"
+    },
+    {
+      "rank": 22,
+      "title": "Pop-2000, a lingua-franca POP-2 dialect",
+      "url": "https://hitogata.neocities.org/POP-2000",
+      "hn_url": "https://news.ycombinator.com/item?id=49447719",
+      "score": 8,
+      "comments": 0,
+      "author": "surprisetalk"
+    },
+    {
+      "rank": 23,
+      "title": "Samsung's Processing-in-Memory (PIM)",
+      "url": "https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing",
+      "hn_url": "https://news.ycombinator.com/item?id=49487341",
+      "score": 260,
+      "comments": 102,
+      "author": "ingve"
+    },
+    {
+      "rank": 24,
+      "title": "Daycare Pseudoscience",
+      "url": "https://worksinprogress.co/issue/daycare-pseudoscience/",
+      "hn_url": "https://news.ycombinator.com/item?id=49477697",
+      "score": 33,
+      "comments": 6,
+      "author": "surprisetalk"
+    },
+    {
+      "rank": 25,
+      "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
+      "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
+      "hn_url": "https://news.ycombinator.com/item?id=49491568",
+      "score": 369,
+      "comments": 83,
+      "author": "gpi"
+    }
+  ]
+}

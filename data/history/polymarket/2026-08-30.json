@@ -1,0 +1,457 @@
+{
+  "source": "polymarket",
+  "label": "Polymarket — top 24h volume",
+  "fetched_at": "2026-08-30T08:11:13.464Z",
+  "items": [
+    {
+      "rank": 1,
+      "title": "Will there be no change in Fed interest rates after the September 2026 meeting?",
+      "url": "https://polymarket.com/event/fed-decision-in-september-762",
+      "volume_24h": 779399.3644269994,
+      "volume_total": 15270735.394132014,
+      "liquidity": 527571.895,
+      "yes_price": 0.505,
+      "leader": {
+        "name": "Yes",
+        "price": 0.505
+      },
+      "end_date": "2026-09-16T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Will Colorado Rapids SC win on 2026-08-29?",
+      "url": "https://polymarket.com/event/mls-col-rsl-2026-08-29",
+      "volume_24h": 615371.0429970002,
+      "volume_total": 627426.3220040001,
+      "liquidity": 182528.22067,
+      "yes_price": 0.9995,
+      "leader": {
+        "name": "Yes",
+        "price": 0.9995
+      },
+      "end_date": "2026-08-30T01:30:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Will CF América win on 2026-08-29?",
+      "url": "https://polymarket.com/event/mex-ame-pue-2026-08-29",
+      "volume_24h": 537406.6515500002,
+      "volume_total": 541150.831397,
+      "liquidity": 101621.82136,
+      "yes_price": 0.9995,
+      "leader": {
+        "name": "Yes",
+        "price": 0.9995
+      },
+      "end_date": "2026-08-30T01:05:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Strait of Hormuz traffic returns to normal by August 31?",
+      "url": "https://polymarket.com/event/strait-of-hormuz-traffic-returns-to-normal-by-august-31-20260702154212320",
+      "volume_24h": 502553.8461030001,
+      "volume_total": 17771577.440287013,
+      "liquidity": 427873.60542,
+      "yes_price": 0.0015,
+      "leader": {
+        "name": "No",
+        "price": 0.9985
+      },
+      "end_date": "2026-09-01T03:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Will Chelsea FC win on 2026-08-30?",
+      "url": "https://polymarket.com/event/epl-che-bri-2026-08-30",
+      "volume_24h": 459594.547578,
+      "volume_total": 497281.04432400013,
+      "liquidity": 1051606.6102,
+      "yes_price": 0.495,
+      "leader": {
+        "name": "No",
+        "price": 0.505
+      },
+      "end_date": "2026-08-30T13:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?",
+      "url": "https://polymarket.com/event/uefa-champions-league-2027-champion-20260701202025549",
+      "volume_24h": 408329.643,
+      "volume_total": 11379218.051,
+      "liquidity": 292391.53259,
+      "yes_price": 0.0015,
+      "leader": {
+        "name": "No",
+        "price": 0.9985
+      },
+      "end_date": "2027-05-30T23:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Will Bitcoin reach $100,000 in August?",
+      "url": "https://polymarket.com/event/what-price-will-bitcoin-hit-in-august-2026",
+      "volume_24h": 366775.7888269998,
+      "volume_total": 2745363.7041180003,
+      "liquidity": 267618.78406,
+      "yes_price": 0.0005,
+      "leader": {
+        "name": "No",
+        "price": 0.9995
+      },
+      "end_date": "2026-09-01T04:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Counter-Strike: G2 vs Natus Vincere (BO3) - BLAST Open Porto Group A",
+      "url": "https://polymarket.com/event/cs2-g2-navi-2026-08-30",
+      "volume_24h": 291126.3750270001,
+      "volume_total": 291493.2258220004,
+      "liquidity": 461683.0767,
+      "yes_price": 0.485,
+      "leader": {
+        "name": "Natus Vincere",
+        "price": 0.515
+      },
+      "end_date": "2026-08-30T15:00:00Z",
+      "outcomes": [
+        "G2",
+        "Natus Vincere"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Will CR Vasco da Gama win on 2026-08-29?",
+      "url": "https://polymarket.com/event/bra-vas-cru-2026-08-29",
+      "volume_24h": 281324.0080170001,
+      "volume_total": 312474.44317400025,
+      "liquidity": 178714.50738,
+      "yes_price": 0.9995,
+      "leader": {
+        "name": "Yes",
+        "price": 0.9995
+      },
+      "end_date": "2026-08-30T00:20:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Will Ted Cruz win the 2028 Republican presidential nomination?",
+      "url": "https://polymarket.com/event/republican-presidential-nominee-2028",
+      "volume_24h": 260995.041882,
+      "volume_total": 19184307.67064297,
+      "liquidity": 694499.76936,
+      "yes_price": 0.0095,
+      "leader": {
+        "name": "No",
+        "price": 0.9905
+      },
+      "end_date": "2028-11-07T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 11,
+      "title": "Will Málaga CF win on 2026-08-30?",
+      "url": "https://polymarket.com/event/lal-rea-mala-2026-08-30",
+      "volume_24h": 253097.61196900034,
+      "volume_total": 266126.66964300006,
+      "liquidity": 162658.68851,
+      "yes_price": 0.0275,
+      "leader": {
+        "name": "No",
+        "price": 0.9725
+      },
+      "end_date": "2026-08-30T15:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 12,
+      "title": "Will Augusto Cury win the 2026 Brazilian presidential election?",
+      "url": "https://polymarket.com/event/brazil-presidential-election",
+      "volume_24h": 224878.721179,
+      "volume_total": 2686754.6833729995,
+      "liquidity": 351235.34064,
+      "yes_price": 0.0195,
+      "leader": {
+        "name": "No",
+        "price": 0.9805
+      },
+      "end_date": "2026-10-04T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 13,
+      "title": "Will Querétaro FC win on 2026-08-29?",
+      "url": "https://polymarket.com/event/mex-atl-que-2026-08-29",
+      "volume_24h": 223029.722293,
+      "volume_total": 223082.30024600003,
+      "liquidity": 70624.25569,
+      "yes_price": 0.9995,
+      "leader": {
+        "name": "Yes",
+        "price": 0.9995
+      },
+      "end_date": "2026-08-29T23:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 14,
+      "title": "Will Tottenham win the 2026-27 English Premier League (EPL) Championship?",
+      "url": "https://polymarket.com/event/epl-2027-champion-20260701200428749",
+      "volume_24h": 212635.98999799998,
+      "volume_total": 873098.1064949997,
+      "liquidity": 387956.21456,
+      "yes_price": 0.0075,
+      "leader": {
+        "name": "No",
+        "price": 0.9925
+      },
+      "end_date": "2027-05-30T23:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 15,
+      "title": "Zhangjiagang: Dominik Palan vs JiSung Nam",
+      "url": "https://polymarket.com/event/atp-palan-nam-2026-08-29",
+      "volume_24h": 203775.5440410002,
+      "volume_total": 203775.5440410001,
+      "liquidity": 38497.3573,
+      "yes_price": 0.9995,
+      "leader": {
+        "name": "Dominik Palan",
+        "price": 0.9995
+      },
+      "end_date": "2026-09-06T03:00:00Z",
+      "outcomes": [
+        "Dominik Palan",
+        "JiSung Nam"
+      ]
+    },
+    {
+      "rank": 16,
+      "title": "Will Demeke Mekonnen be the next Prime Minister of Ethiopia?",
+      "url": "https://polymarket.com/event/next-prime-minister-of-ethiopia",
+      "volume_24h": 200830,
+      "volume_total": 29097744.064476002,
+      "liquidity": 29422.87261,
+      "yes_price": 0.003,
+      "leader": {
+        "name": "No",
+        "price": 0.997
+      },
+      "end_date": "2026-06-01T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 17,
+      "title": "Will SSC Napoli win on 2026-08-30?",
+      "url": "https://polymarket.com/event/sea-nap-com-2026-08-30",
+      "volume_24h": 183317.520428,
+      "volume_total": 186471.35610499993,
+      "liquidity": 210104.008,
+      "yes_price": 0.365,
+      "leader": {
+        "name": "No",
+        "price": 0.635
+      },
+      "end_date": "2026-08-30T16:30:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 18,
+      "title": "Will Ethereum dip to $2,400 in August?",
+      "url": "https://polymarket.com/event/what-price-will-ethereum-hit-in-august-2026",
+      "volume_24h": 175846.62123500003,
+      "volume_total": 303018.35806500004,
+      "liquidity": 33121.4627,
+      "yes_price": 0.29,
+      "leader": {
+        "name": "No",
+        "price": 0.71
+      },
+      "end_date": "2026-09-01T04:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 19,
+      "title": "Will Bytedance have the best AI model at the end of August 2026?",
+      "url": "https://polymarket.com/event/which-company-has-best-ai-model-end-of-august-20260717015626546",
+      "volume_24h": 172949.83000000002,
+      "volume_total": 675513.9105000001,
+      "liquidity": 22609.57292,
+      "yes_price": 0.0005,
+      "leader": {
+        "name": "No",
+        "price": 0.9995
+      },
+      "end_date": "2026-09-01T03:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 20,
+      "title": "Will FC Augsburg win on 2026-08-30?",
+      "url": "https://polymarket.com/event/bun-aug-s04-2026-08-30",
+      "volume_24h": 170480.783708,
+      "volume_total": 175891.85178399997,
+      "liquidity": 177263.3245,
+      "yes_price": 0.425,
+      "leader": {
+        "name": "No",
+        "price": 0.575
+      },
+      "end_date": "2026-08-30T15:30:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 21,
+      "title": "Bab el-Mandeb Strait effectively closed by September 15?",
+      "url": "https://polymarket.com/event/bab-el-mandeb-strait-effectively-closed-by",
+      "volume_24h": 161337.144073,
+      "volume_total": 242097.064073,
+      "liquidity": 138289.33187,
+      "yes_price": 0.0165,
+      "leader": {
+        "name": "No",
+        "price": 0.9835
+      },
+      "end_date": "2026-09-16T03:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 22,
+      "title": "LoL: Dplus KIA vs KT Rolster (BO5) - LCK Playoffs",
+      "url": "https://polymarket.com/event/lol-dk-kt-2026-08-30",
+      "volume_24h": 156490.05625000008,
+      "volume_total": 170028.46979999996,
+      "liquidity": 282413.8563,
+      "yes_price": 0.755,
+      "leader": {
+        "name": "Dplus KIA",
+        "price": 0.755
+      },
+      "end_date": "2026-08-30T14:00:00Z",
+      "outcomes": [
+        "Dplus KIA",
+        "KT Rolster"
+      ]
+    },
+    {
+      "rank": 23,
+      "title": "Kharg Island no longer under Iranian control by August 31?",
+      "url": "https://polymarket.com/event/kharg-island-no-longer-under-iranian-control-by-march-31",
+      "volume_24h": 138592.453681,
+      "volume_total": 5602210.527777,
+      "liquidity": 204885.15267,
+      "yes_price": 0.0005,
+      "leader": {
+        "name": "No",
+        "price": 0.9995
+      },
+      "end_date": "2026-09-01T03:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 24,
+      "title": "Will Brentford FC win on 2026-08-30?",
+      "url": "https://polymarket.com/event/epl-lee-bre-2026-08-30",
+      "volume_24h": 132666.84500899998,
+      "volume_total": 327470.240045,
+      "liquidity": 701412.5493,
+      "yes_price": 0.355,
+      "leader": {
+        "name": "No",
+        "price": 0.645
+      },
+      "end_date": "2026-08-30T13:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 25,
+      "title": "US announces end of Iranian blockade by August 31, 2026?",
+      "url": "https://polymarket.com/event/us-announces-end-of-iranian-blockade-byptptpt-20260713152715080",
+      "volume_24h": 127650.620646,
+      "volume_total": 4701044.277617998,
+      "liquidity": 112875.58632,
+      "yes_price": 0.007,
+      "leader": {
+        "name": "No",
+        "price": 0.993
+      },
+      "end_date": "2026-09-01T03:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    }
+  ]
+}
