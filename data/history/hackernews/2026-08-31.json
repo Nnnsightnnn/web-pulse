@@ -1,14 +1,14 @@
 {
   "source": "hackernews",
   "label": "Hacker News — top stories",
-  "fetched_at": "2026-08-31T08:13:22.000Z",
+  "fetched_at": "2026-08-31T08:14:28.226Z",
   "items": [
     {
       "rank": 1,
       "title": "“I just chose words carefully”",
       "url": "https://unsung.aresluna.org/i-just-chose-words-carefully/",
       "hn_url": "https://news.ycombinator.com/item?id=49503601",
-      "score": 685,
+      "score": 686,
       "comments": 168,
       "author": "zdw"
     },
@@ -17,7 +17,7 @@
       "title": "P99 0 ms* autocomplete for 240M domain names",
       "url": "https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names",
       "hn_url": "https://news.ycombinator.com/item?id=49505219",
-      "score": 83,
+      "score": 85,
       "comments": 36,
       "author": "dbalatero"
     },
@@ -45,7 +45,7 @@
       "url": "https://hank.bond/posts/highlighting-my-code-based-on-how-much-i-care/",
       "hn_url": "https://news.ycombinator.com/item?id=49485020",
       "score": 27,
-      "comments": 5,
+      "comments": 6,
       "author": "hankbond"
     },
     {
@@ -59,6 +59,15 @@
     },
     {
       "rank": 7,
+      "title": "Understanding ChatGPT Work",
+      "url": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/",
+      "hn_url": "https://news.ycombinator.com/item?id=49504625",
+      "score": 159,
+      "comments": 56,
+      "author": "gmays"
+    },
+    {
+      "rank": 8,
       "title": "Transfer files over an Ethernet patch cable",
       "url": "https://maurycyz.com/misc/etherfiles/",
       "hn_url": "https://news.ycombinator.com/item?id=49505217",
@@ -67,22 +76,13 @@
       "author": "jllyhill"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "A 12TB Steam \"teraleak\" spills more than a decade of lost PC gaming history",
       "url": "https://arstechnica.com/gaming/2026/08/a-12tb-steam-teraleak-spills-more-than-a-decade-of-lost-pc-gaming-history/",
       "hn_url": "https://news.ycombinator.com/item?id=49506182",
       "score": 54,
-      "comments": 6,
+      "comments": 7,
       "author": "WithinReason"
-    },
-    {
-      "rank": 9,
-      "title": "Understanding ChatGPT Work",
-      "url": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/",
-      "hn_url": "https://news.ycombinator.com/item?id=49504625",
-      "score": 158,
-      "comments": 55,
-      "author": "gmays"
     },
     {
       "rank": 10,
@@ -90,7 +90,7 @@
       "url": "https://blog.vghaisas.com/rube-goldberg-doorbell/",
       "hn_url": "https://news.ycombinator.com/item?id=49480091",
       "score": 133,
-      "comments": 116,
+      "comments": 117,
       "author": "vghaisas"
     },
     {
@@ -107,7 +107,7 @@
       "title": "How to build a diffusion language model",
       "url": "https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model/",
       "hn_url": "https://news.ycombinator.com/item?id=49503956",
-      "score": 67,
+      "score": 68,
       "comments": 6,
       "author": "volodia"
     },
@@ -116,7 +116,7 @@
       "title": "Show HN: NFC Energy-Harvesting PCB Business Card with an MCU",
       "url": "https://wilsonharper.net/projects/businesscard/",
       "hn_url": "https://news.ycombinator.com/item?id=49478426",
-      "score": 162,
+      "score": 163,
       "comments": 17,
       "author": "WilsonHarper"
     },
@@ -126,7 +126,7 @@
       "url": "https://openclaw.ai/blog/openclaw-2-accidentally",
       "hn_url": "https://news.ycombinator.com/item?id=49505310",
       "score": 75,
-      "comments": 73,
+      "comments": 74,
       "author": "doppp"
     },
     {
@@ -170,7 +170,7 @@
       "title": "Continuous Diffusion Language Models (CDLM's)",
       "url": "https://sander.ai/2026/08/24/continuous-dlms.html",
       "hn_url": "https://news.ycombinator.com/item?id=49502611",
-      "score": 90,
+      "score": 91,
       "comments": 34,
       "author": "peter_d_sherman"
     },
