@@ -1,7 +1,7 @@
 {
   "source": "google-trends",
   "label": "Google Trends — trending searches",
-  "fetched_at": "2026-09-01T08:09:46.126Z",
+  "fetched_at": "2026-09-01T08:10:51.687Z",
   "countries": [
     "US",
     "GB",
@@ -57,17 +57,6 @@
     },
     {
       "rank": 5,
-      "title": "大山加奈",
-      "geos": [
-        "JP"
-      ],
-      "traffic_estimate": 2000,
-      "news_title": "「本当に？！」バレー界に飛び込んだ衝撃ニュース 代表OG大物が新天地へ「絶対何かを起こしてくれる」（THE ANSWER）",
-      "news_url": "https://news.yahoo.co.jp/articles/bccc9f7b45354b42099eb9babf3ad6cb8cc634fc",
-      "news_source": "Yahoo!ニュース"
-    },
-    {
-      "rank": 6,
       "title": "tempo",
       "geos": [
         "BR"
@@ -78,7 +67,7 @@
       "news_source": "G1"
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "dina asher smith",
       "geos": [
         "GB"
@@ -89,7 +78,7 @@
       "news_source": ""
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "地方競馬",
       "geos": [
         "JP"
@@ -100,7 +89,7 @@
       "news_source": "Yahoo!ニュース"
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "日本製鉄",
       "geos": [
         "JP"
@@ -109,6 +98,17 @@
       "news_title": "日本製鉄---大幅反発、メタルスプレッド転換期待で欧州系証券が目標株価上げ",
       "news_url": "https://kabutan.jp/news/marketnews/?b=n202609010732",
       "news_source": "株探"
+    },
+    {
+      "rank": 9,
+      "title": "大山加奈",
+      "geos": [
+        "JP"
+      ],
+      "traffic_estimate": 1000,
+      "news_title": "",
+      "news_url": "",
+      "news_source": ""
     },
     {
       "rank": 10,
@@ -161,9 +161,9 @@
         "DE"
       ],
       "traffic_estimate": 1000,
-      "news_title": "Ukraine-Krieg: Schuljahr beginnt – Putin lässt massive Angriffe fliegen",
-      "news_url": "https://www.t-online.de/nachrichten/ukraine/id_101413502/ukraine-krieg-aktuell-putin-laesst-massive-angriffe-auf-kiew-fliegen.html",
-      "news_source": "T-Online"
+      "news_title": "Ukraine-Krieg - Mehrere Tote bei russischen Luftangriffen auf Kiew",
+      "news_url": "https://www.deutschlandfunk.de/mehrere-tote-bei-russischen-luftangriffen-auf-kiew-106.html",
+      "news_source": "Deutschlandfunk"
     },
     {
       "rank": 15,

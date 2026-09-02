@@ -1,7 +1,7 @@
 {
   "source": "product-hunt",
   "label": "Product Hunt — top products",
-  "fetched_at": "2026-09-01T08:10:51.295Z",
+  "fetched_at": "2026-09-02T08:10:35.867Z",
   "configured": true,
   "items": [
     {
@@ -9,15 +9,15 @@
       "title": "Hey Noah",
       "url": "https://www.producthunt.com/products/hey-noah/launches/hey-noah?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+web-pulse+%28ID%3A+282925%29",
       "tagline": "A proactive AI executive assistant for founders",
-      "votes_count": 636,
+      "votes_count": 642,
       "comments_count": 103
     },
     {
       "rank": 2,
       "title": "Clipto MCP",
-      "url": "https://www.producthunt.com/products/clipto-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+web-pulse+%28ID%3A+282925%29",
+      "url": "https://www.producthunt.com/products/clipto-ai/launches/clipto-mcp?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+web-pulse+%28ID%3A+282925%29",
       "tagline": "Let agents source clips from terabytes of your local video",
-      "votes_count": 636,
+      "votes_count": 639,
       "comments_count": 165
     },
     {
@@ -25,7 +25,7 @@
       "title": "AdAnt AI",
       "url": "https://www.producthunt.com/products/adant-ai/launches/adant-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+web-pulse+%28ID%3A+282925%29",
       "tagline": "Claude for viral, high-converting social ads",
-      "votes_count": 601,
+      "votes_count": 604,
       "comments_count": 91
     },
     {
@@ -33,13 +33,13 @@
       "title": "Dograh",
       "url": "https://www.producthunt.com/products/dograh/launches/dograh-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+web-pulse+%28ID%3A+282925%29",
       "tagline": "The open source VAPI alternative",
-      "votes_count": 588,
-      "comments_count": 202
+      "votes_count": 590,
+      "comments_count": 203
     },
     {
       "rank": 5,
       "title": "Astute",
-      "url": "https://www.producthunt.com/products/astute-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+web-pulse+%28ID%3A+282925%29",
+      "url": "https://www.producthunt.com/products/astute-2/launches/astute-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+web-pulse+%28ID%3A+282925%29",
       "tagline": "Automate your B2B brand going viral, with new media creators",
       "votes_count": 581,
       "comments_count": 179
@@ -49,7 +49,7 @@
       "title": "Wispr Flow Notetaker",
       "url": "https://www.producthunt.com/products/wisprflow/launches/wispr-flow-notetaker?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+web-pulse+%28ID%3A+282925%29",
       "tagline": "Meeting notes that get the details right.",
-      "votes_count": 573,
+      "votes_count": 574,
       "comments_count": 74
     },
     {
@@ -65,7 +65,7 @@
       "title": "Meridian",
       "url": "https://www.producthunt.com/products/meridian-16/launches/meridian-19?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+web-pulse+%28ID%3A+282925%29",
       "tagline": "Don't let your work go unnoticed. Get promoted!",
-      "votes_count": 525,
+      "votes_count": 529,
       "comments_count": 93
     },
     {
@@ -73,7 +73,7 @@
       "title": "x1",
       "url": "https://www.producthunt.com/products/x1-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+web-pulse+%28ID%3A+282925%29",
       "tagline": "Lovable for iPhone apps go from idea to App Store",
-      "votes_count": 512,
+      "votes_count": 514,
       "comments_count": 77
     },
     {
@@ -81,27 +81,43 @@
       "title": "Coldtea.ai",
       "url": "https://www.producthunt.com/products/coldtea/launches/coldtea?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+web-pulse+%28ID%3A+282925%29",
       "tagline": "Make your software self-driving",
-      "votes_count": 512,
+      "votes_count": 511,
       "comments_count": 69
     },
     {
       "rank": 11,
-      "title": "Soloop",
-      "url": "https://www.producthunt.com/products/soloop/launches/soloop-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+web-pulse+%28ID%3A+282925%29",
-      "tagline": "Approval-first Agent OS for solo founders",
-      "votes_count": 473,
-      "comments_count": 72
+      "title": "Kilo Code for JetBrains",
+      "url": "https://www.producthunt.com/products/kilocode?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+web-pulse+%28ID%3A+282925%29",
+      "tagline": "Fully native, open-source coding agent built for JetBrains",
+      "votes_count": 481,
+      "comments_count": 84
     },
     {
       "rank": 12,
-      "title": "PaymentKit",
-      "url": "https://www.producthunt.com/products/paymentkit?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+web-pulse+%28ID%3A+282925%29",
-      "tagline": "Billing that survives a processor shutdown",
-      "votes_count": 462,
-      "comments_count": 106
+      "title": "Soloop",
+      "url": "https://www.producthunt.com/products/soloop/launches/soloop-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+web-pulse+%28ID%3A+282925%29",
+      "tagline": "Approval-first Agent OS for solo founders",
+      "votes_count": 472,
+      "comments_count": 72
     },
     {
       "rank": 13,
+      "title": "PaymentKit",
+      "url": "https://www.producthunt.com/products/paymentkit?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+web-pulse+%28ID%3A+282925%29",
+      "tagline": "Billing that survives a processor shutdown",
+      "votes_count": 466,
+      "comments_count": 106
+    },
+    {
+      "rank": 14,
+      "title": "Clara AI SDR",
+      "url": "https://www.producthunt.com/products/clara-ai-sdr/launches/clara-ai-sdr?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+web-pulse+%28ID%3A+282925%29",
+      "tagline": "Turn website visitors into qualified pipeline",
+      "votes_count": 458,
+      "comments_count": 44
+    },
+    {
+      "rank": 15,
       "title": "Cloudflare OS",
       "url": "https://www.producthunt.com/products/cloudflare/launches/cloudflare-os-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+web-pulse+%28ID%3A+282925%29",
       "tagline": "Build the AI operating system for your company",
@@ -109,23 +125,15 @@
       "comments_count": 3
     },
     {
-      "rank": 14,
-      "title": "Clara AI SDR",
-      "url": "https://www.producthunt.com/products/clara-ai-sdr/launches/clara-ai-sdr?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+web-pulse+%28ID%3A+282925%29",
-      "tagline": "Turn website visitors into qualified pipeline",
-      "votes_count": 457,
-      "comments_count": 44
-    },
-    {
-      "rank": 15,
+      "rank": 16,
       "title": "NextDoor.Company",
       "url": "https://www.producthunt.com/products/nextdoor-company/launches/nextdoor-company?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+web-pulse+%28ID%3A+282925%29",
       "tagline": "Discover startups hiring near you, on a map",
-      "votes_count": 454,
+      "votes_count": 455,
       "comments_count": 56
     },
     {
-      "rank": 16,
+      "rank": 17,
       "title": "Kane CLI",
       "url": "https://www.producthunt.com/products/lambdatest/launches/kane-cli-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+web-pulse+%28ID%3A+282925%29",
       "tagline": "Natural language browser & mobile app tests from terminal",
@@ -133,7 +141,7 @@
       "comments_count": 56
     },
     {
-      "rank": 17,
+      "rank": 18,
       "title": "Ito",
       "url": "https://www.producthunt.com/products/ito-ai-code-review-that-runs-code/launches/ito-6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+web-pulse+%28ID%3A+282925%29",
       "tagline": "AI code review that runs your code",
@@ -141,27 +149,19 @@
       "comments_count": 47
     },
     {
-      "rank": 18,
+      "rank": 19,
       "title": "Skydive",
       "url": "https://www.producthunt.com/products/skydive?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+web-pulse+%28ID%3A+282925%29",
       "tagline": "Build cloud agents that work across your tools",
-      "votes_count": 431,
-      "comments_count": 119
-    },
-    {
-      "rank": 19,
-      "title": "akta.pro",
-      "url": "https://www.producthunt.com/products/akta-pro?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+web-pulse+%28ID%3A+282925%29",
-      "tagline": "Private company data and signals API for the agent economy",
-      "votes_count": 430,
-      "comments_count": 83
+      "votes_count": 435,
+      "comments_count": 120
     },
     {
       "rank": 20,
       "title": "AgentSky",
       "url": "https://www.producthunt.com/products/agentsky/launches/agentsky?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+web-pulse+%28ID%3A+282925%29",
       "tagline": "Any harness, any LLM — cloud-hosted agents on demand.",
-      "votes_count": 429,
+      "votes_count": 430,
       "comments_count": 59
     }
   ]
