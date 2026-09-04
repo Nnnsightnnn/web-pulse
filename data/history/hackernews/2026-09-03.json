@@ -1,34 +1,34 @@
 {
   "source": "hackernews",
   "label": "Hacker News — top stories",
-  "fetched_at": "2026-09-03T08:09:20.142Z",
+  "fetched_at": "2026-09-03T08:10:25.069Z",
   "items": [
     {
       "rank": 1,
+      "title": "Pre-Release of Polars 2.0",
+      "url": "https://pola.rs/posts/announcing-polars-2/",
+      "hn_url": "https://news.ycombinator.com/item?id=49546753",
+      "score": 22,
+      "comments": 0,
+      "author": "komape"
+    },
+    {
+      "rank": 2,
       "title": "Muse Spark 1.3",
       "url": "https://developer.meta.com/ai/models/muse-spark/",
       "hn_url": "https://news.ycombinator.com/item?id=49541256",
       "score": 543,
-      "comments": 366,
+      "comments": 367,
       "author": "bvaldivielso"
     },
     {
-      "rank": 2,
+      "rank": 3,
       "title": "Gemini 3.8 Flash and 3.8 Flash Cyber",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
       "hn_url": "https://news.ycombinator.com/item?id=49537553",
       "score": 986,
       "comments": 563,
       "author": "bratao"
-    },
-    {
-      "rank": 3,
-      "title": "Pre-Release of Polars 2.0",
-      "url": "https://pola.rs/posts/announcing-polars-2/",
-      "hn_url": "https://news.ycombinator.com/item?id=49546753",
-      "score": 16,
-      "comments": 0,
-      "author": "komape"
     },
     {
       "rank": 4,
@@ -77,24 +77,15 @@
     },
     {
       "rank": 9,
-      "title": "Creating Backup Storage Sucks",
-      "url": "https://smarmelling.com/posts/creating-backup-storage-sucks.html",
-      "hn_url": "https://news.ycombinator.com/item?id=49509606",
-      "score": 43,
-      "comments": 39,
-      "author": "smarmelling"
-    },
-    {
-      "rank": 10,
       "title": "Can I opt out of my input or output data being used for training?",
       "url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
       "hn_url": "https://news.ycombinator.com/item?id=49535284",
       "score": 428,
-      "comments": 188,
+      "comments": 189,
       "author": "teekert"
     },
     {
-      "rank": 11,
+      "rank": 10,
       "title": "Reverse Engineering Unknown File Formats with ImHex",
       "url": "https://werwolv.net/posts/file_format_reverse_engineering/",
       "hn_url": "https://news.ycombinator.com/item?id=49508608",
@@ -103,7 +94,7 @@
       "author": "carlos-menezes"
     },
     {
-      "rank": 12,
+      "rank": 11,
       "title": "Higher Multipoles of the Cow",
       "url": "https://arxiv.org/abs/2504.00506",
       "hn_url": "https://news.ycombinator.com/item?id=49519792",
@@ -112,7 +103,7 @@
       "author": "MrOrelliOReilly"
     },
     {
-      "rank": 13,
+      "rank": 12,
       "title": "Launch HN: RonanRX (YC S26) – Personalized Peptides and GLP-1s",
       "url": "https://news.ycombinator.com/item?id=49543530",
       "hn_url": "https://news.ycombinator.com/item?id=49543530",
@@ -121,16 +112,16 @@
       "author": "lloydarmbrust"
     },
     {
-      "rank": 14,
+      "rank": 13,
       "title": "Fable 5.1 World Modeling",
       "url": "https://github.com/PhiloLabs/fable51-worlds",
       "hn_url": "https://news.ycombinator.com/item?id=49541458",
-      "score": 223,
+      "score": 224,
       "comments": 65,
       "author": "surreal_"
     },
     {
-      "rank": 15,
+      "rank": 14,
       "title": "Show HN: OwnTime – a chess clock for your day's priorities",
       "url": "https://owntime.app/",
       "hn_url": "https://news.ycombinator.com/item?id=49528506",
@@ -139,16 +130,16 @@
       "author": "fmos"
     },
     {
-      "rank": 16,
+      "rank": 15,
       "title": "Biggest dark matter detector spots a single weird particle",
       "url": "https://www.science.org/content/article/world-s-biggest-dark-matter-detector-spots-single-weird-particle",
       "hn_url": "https://news.ycombinator.com/item?id=49536079",
-      "score": 281,
+      "score": 283,
       "comments": 95,
       "author": "randycupertino"
     },
     {
-      "rank": 17,
+      "rank": 16,
       "title": "Wendell Berry has died",
       "url": "https://www.nytimes.com/2026/08/31/us/wendell-berry-dead.html",
       "hn_url": "https://news.ycombinator.com/item?id=49517018",
@@ -157,7 +148,7 @@
       "author": "Curiositry"
     },
     {
-      "rank": 18,
+      "rank": 17,
       "title": "Aging brains blend memories together instead of just forgetting them",
       "url": "https://studyfinds.com/aging-brains-blend-memories-together-instead-of-forgetting-them-study-finds/",
       "hn_url": "https://news.ycombinator.com/item?id=49535548",
@@ -166,7 +157,7 @@
       "author": "mdp2021"
     },
     {
-      "rank": 19,
+      "rank": 18,
       "title": "Qantas Airbus A380 engine failure in 2010 (2023)",
       "url": "https://admiralcloudberg.medium.com/a-matter-of-millimeters-the-story-of-qantas-flight-32-bdaa62dc98e7",
       "hn_url": "https://news.ycombinator.com/item?id=49540565",
@@ -175,7 +166,7 @@
       "author": "gumby"
     },
     {
-      "rank": 20,
+      "rank": 19,
       "title": "Engineering of the fastest WebAssembly interpreters",
       "url": "https://wasmi-labs.github.io/blog/posts/wasmi-v2.0/",
       "hn_url": "https://news.ycombinator.com/item?id=49521031",
@@ -184,7 +175,7 @@
       "author": "herobird"
     },
     {
-      "rank": 21,
+      "rank": 20,
       "title": "Exit the Cave",
       "url": "https://turtlespace.blog/p/exit-the-cave",
       "hn_url": "https://news.ycombinator.com/item?id=49536606",
@@ -193,7 +184,7 @@
       "author": "akkartik"
     },
     {
-      "rank": 22,
+      "rank": 21,
       "title": "Altair Basic Interpreter Source Code (1975) [pdf]",
       "url": "https://images.gatesnotes.com/12514eb8-7b51-008e-41a9-512542cf683b/34d561c8-cf5c-4e69-af47-3782ea11482e/Original-Microsoft-Source-Code.pdf",
       "hn_url": "https://news.ycombinator.com/item?id=49541754",
@@ -202,7 +193,7 @@
       "author": "Eridanus2"
     },
     {
-      "rank": 23,
+      "rank": 22,
       "title": "The shrinking landscape of linguistic diversity in the age of LLMs",
       "url": "https://www.nature.com/articles/s41562-026-02550-0",
       "hn_url": "https://news.ycombinator.com/item?id=49497996",
@@ -211,7 +202,7 @@
       "author": "Anon84"
     },
     {
-      "rank": 24,
+      "rank": 23,
       "title": "A Selection of Los Alamos Rolodex Business Cards",
       "url": "https://clui.org/collections/los-alamos-business-cards/selection-cards",
       "hn_url": "https://news.ycombinator.com/item?id=49513856",
@@ -220,7 +211,7 @@
       "author": "1970-01-01"
     },
     {
-      "rank": 25,
+      "rank": 24,
       "title": "Async Rust vs RTOS showdown (2022)",
       "url": "https://tweedegolf.nl/en/blog/65/async-rust-vs-rtos-showdown/",
       "hn_url": "https://news.ycombinator.com/item?id=49540415",

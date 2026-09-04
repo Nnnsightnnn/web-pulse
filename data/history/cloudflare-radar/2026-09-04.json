@@ -1,7 +1,7 @@
 {
   "source": "cloudflare-radar",
   "label": "Cloudflare Radar — top domains",
-  "fetched_at": "2026-09-03T08:10:25.417Z",
+  "fetched_at": "2026-09-04T08:10:05.164Z",
   "configured": true,
   "items": [
     {
@@ -189,8 +189,8 @@
       "title": "live.com",
       "url": "https://live.com",
       "category": "Technology",
-      "rank_delta_7d": 0,
-      "prev_rank_7d": 21,
+      "rank_delta_7d": 1,
+      "prev_rank_7d": 22,
       "is_new_to_top": false
     },
     {
@@ -198,26 +198,26 @@
       "title": "netflix.com",
       "url": "https://netflix.com",
       "category": "Movies",
-      "rank_delta_7d": 0,
-      "prev_rank_7d": 22,
+      "rank_delta_7d": -1,
+      "prev_rank_7d": 21,
       "is_new_to_top": false
     },
     {
       "rank": 23,
-      "title": "aaplimg.com",
-      "url": "https://aaplimg.com",
-      "category": "Information Technology",
-      "rank_delta_7d": 2,
-      "prev_rank_7d": 25,
+      "title": "cloudflare-dns.com",
+      "url": "https://cloudflare-dns.com",
+      "category": "Content Servers",
+      "rank_delta_7d": 1,
+      "prev_rank_7d": 24,
       "is_new_to_top": false
     },
     {
       "rank": 24,
-      "title": "cloudflare-dns.com",
-      "url": "https://cloudflare-dns.com",
-      "category": "Content Servers",
-      "rank_delta_7d": -1,
-      "prev_rank_7d": 23,
+      "title": "aaplimg.com",
+      "url": "https://aaplimg.com",
+      "category": "Information Technology",
+      "rank_delta_7d": 1,
+      "prev_rank_7d": 25,
       "is_new_to_top": false
     },
     {
@@ -225,8 +225,8 @@
       "title": "ntp.org",
       "url": "https://ntp.org",
       "category": "Technology",
-      "rank_delta_7d": -1,
-      "prev_rank_7d": 24,
+      "rank_delta_7d": -2,
+      "prev_rank_7d": 23,
       "is_new_to_top": false
     }
   ]

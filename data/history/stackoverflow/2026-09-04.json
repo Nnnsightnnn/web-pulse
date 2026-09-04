@@ -1,0 +1,330 @@
+{
+  "source": "stackoverflow",
+  "label": "Stack Overflow — hot questions",
+  "fetched_at": "2026-09-04T08:10:04.390Z",
+  "items": [
+    {
+      "rank": 1,
+      "title": "How can I work with multiple variables in one Function in Javascript",
+      "url": "https://stackoverflow.com/questions/80000714/how-can-i-work-with-multiple-variables-in-one-function-in-javascript",
+      "score": -3,
+      "answers": 1,
+      "views": 42,
+      "tags": [
+        "javascript",
+        "function"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Why is elapsed time inacurate?",
+      "url": "https://stackoverflow.com/questions/80000712/why-is-elapsed-time-inacurate",
+      "score": 0,
+      "answers": 0,
+      "views": 25,
+      "tags": [
+        "c++",
+        "linux",
+        "glfw"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "VS Code: Unable to launch browser",
+      "url": "https://stackoverflow.com/questions/80000708/vs-code-unable-to-launch-browser",
+      "score": 0,
+      "answers": 0,
+      "views": 21,
+      "tags": [
+        "vs-code",
+        "firefox",
+        "blazor"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Why do we need static data members and member functions explain with example",
+      "url": "https://stackoverflow.com/questions/80000713/why-do-we-need-static-data-members-and-member-functions-explain-with-example",
+      "score": -3,
+      "answers": 0,
+      "views": 20,
+      "tags": [
+        "c++",
+        "static"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "How to create a smooth sliding overlay sidebar in CSS without layout jitter and unwanted horizontal scrollbar?",
+      "url": "https://stackoverflow.com/questions/80000723/how-to-create-a-smooth-sliding-overlay-sidebar-in-css-without-layout-jitter-and",
+      "score": 0,
+      "answers": 0,
+      "views": 18,
+      "tags": [
+        "html",
+        "css",
+        "ruby-on-rails",
+        "view-components"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Twilio 21220 - Call is not in-progress. Cannot redirect intermittently when moving <Dial><Number> legs into a Conference via REST API",
+      "url": "https://stackoverflow.com/questions/80000711/twilio-21220-call-is-not-in-progress-cannot-redirect-intermittently-when-movi",
+      "score": -1,
+      "answers": 0,
+      "views": 12,
+      "tags": [
+        "php",
+        "twilio",
+        "twilio-twiml"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "PowerShell script with `-WhatIf` support",
+      "url": "https://stackoverflow.com/questions/80000698/powershell-script-with-whatif-support",
+      "score": -1,
+      "answers": 2,
+      "views": 51,
+      "tags": [
+        "powershell"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "When modifying (\"modding\") a game I get Error CS1061 in reference to code from \"From The Depths Try 2\"",
+      "url": "https://stackoverflow.com/questions/80000693/when-modifying-modding-a-game-i-get-error-cs1061-in-reference-to-code-from",
+      "score": 0,
+      "answers": 1,
+      "views": 51,
+      "tags": [
+        "c#",
+        ".net-standard-2.1"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Why isn't the line being output?",
+      "url": "https://stackoverflow.com/questions/80000697/why-isnt-the-line-being-output",
+      "score": -4,
+      "answers": 1,
+      "views": 47,
+      "tags": [
+        "shell"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Is git sparse checkout compatible with submodules?",
+      "url": "https://stackoverflow.com/questions/80000705/is-git-sparse-checkout-compatible-with-submodules",
+      "score": 0,
+      "answers": 0,
+      "views": 31,
+      "tags": [
+        "git",
+        "git-submodules",
+        "git-sparse-checkout"
+      ]
+    },
+    {
+      "rank": 11,
+      "title": "How to fix \"model is not available in your country\" error when using Muse Spark in OpenCode?",
+      "url": "https://stackoverflow.com/questions/80000688/how-to-fix-model-is-not-available-in-your-country-error-when-using-muse-spark",
+      "score": -3,
+      "answers": 0,
+      "views": 41,
+      "tags": [
+        "opencode"
+      ]
+    },
+    {
+      "rank": 12,
+      "title": "Do I need to use Sheet..ListObjects in VBA in Excel",
+      "url": "https://stackoverflow.com/questions/80000652/do-i-need-to-use-sheet-listobjects-in-vba-in-excel",
+      "score": -3,
+      "answers": 1,
+      "views": 86,
+      "tags": [
+        "best-practices",
+        "excel",
+        "vba",
+        "range"
+      ]
+    },
+    {
+      "rank": 13,
+      "title": "Advice on learning C?",
+      "url": "https://stackoverflow.com/questions/80000670/advice-on-learning-c",
+      "score": -10,
+      "answers": 0,
+      "views": 121,
+      "tags": [
+        "advice",
+        "c"
+      ]
+    },
+    {
+      "rank": 14,
+      "title": "Why can moving an await change whether a Python object remains reachable, even when the object has no explicit strong reference?",
+      "url": "https://stackoverflow.com/questions/80000634/why-can-moving-an-await-change-whether-a-python-object-remains-reachable-even-w",
+      "score": 4,
+      "answers": 1,
+      "views": 97,
+      "tags": [
+        "python",
+        "garbage-collection",
+        "python-asyncio",
+        "weak-references"
+      ]
+    },
+    {
+      "rank": 15,
+      "title": "PySide6 Custom widget with Enum property",
+      "url": "https://stackoverflow.com/questions/80000657/pyside6-custom-widget-with-enum-property",
+      "score": 0,
+      "answers": 0,
+      "views": 36,
+      "tags": [
+        "python",
+        "qt-designer",
+        "pyside6"
+      ]
+    },
+    {
+      "rank": 16,
+      "title": "${fileDirname}//**.cpp is not reconized : Linking error: VS Code c++ will not compile all project files",
+      "url": "https://stackoverflow.com/questions/80000604/filedirname-cpp-is-not-reconized-linking-error-vs-code-c-will-not-co",
+      "score": 3,
+      "answers": 1,
+      "views": 109,
+      "tags": [
+        "c++",
+        "windows",
+        "vs-code",
+        "code-splitting"
+      ]
+    },
+    {
+      "rank": 17,
+      "title": "pipewire-jack seems to be causing a memory leak",
+      "url": "https://stackoverflow.com/questions/80000650/pipewire-jack-seems-to-be-causing-a-memory-leak",
+      "score": -2,
+      "answers": 0,
+      "views": 49,
+      "tags": [
+        "c",
+        "memory-leaks",
+        "jack",
+        "pipewire"
+      ]
+    },
+    {
+      "rank": 18,
+      "title": "Opened .txt file seems to be empty after a for in function",
+      "url": "https://stackoverflow.com/questions/80000505/opened-txt-file-seems-to-be-empty-after-a-for-in-function",
+      "score": -5,
+      "answers": 1,
+      "views": 152,
+      "tags": [
+        "python",
+        "string",
+        "for-loop",
+        "empty-list"
+      ]
+    },
+    {
+      "rank": 19,
+      "title": "Best practice for relation between products and min stocks",
+      "url": "https://stackoverflow.com/questions/80000563/best-practice-for-relation-between-products-and-min-stocks",
+      "score": -5,
+      "answers": 0,
+      "views": 104,
+      "tags": [
+        "best-practices",
+        "database-design",
+        "relational-database",
+        "e-commerce"
+      ]
+    },
+    {
+      "rank": 20,
+      "title": "Polarion Java extension (servlet) which is calling from Velocity script (form extension)",
+      "url": "https://stackoverflow.com/questions/80000515/polarion-java-extension-servlet-which-is-calling-from-velocity-script-form-ex",
+      "score": -4,
+      "answers": 0,
+      "views": 55,
+      "tags": [
+        "java",
+        "servlets",
+        "polarion"
+      ]
+    },
+    {
+      "rank": 21,
+      "title": "jqueryvalidation.org cert errors",
+      "url": "https://stackoverflow.com/questions/80000639/jqueryvalidation-org-cert-errors",
+      "score": -4,
+      "answers": 0,
+      "views": 84,
+      "tags": [
+        "advice",
+        "jquery-validate"
+      ]
+    },
+    {
+      "rank": 22,
+      "title": "Observed cycle/iter greater than what's expected in simple x86 loop kernel",
+      "url": "https://stackoverflow.com/questions/80000370/observed-cycle-iter-greater-than-whats-expected-in-simple-x86-loop-kernel",
+      "score": 4,
+      "answers": 3,
+      "views": 170,
+      "tags": [
+        "assembly",
+        "x86",
+        "cpu-architecture",
+        "intel"
+      ]
+    },
+    {
+      "rank": 23,
+      "title": "Running Tomcat on port 443 through non-root user",
+      "url": "https://stackoverflow.com/questions/80000488/running-tomcat-on-port-443-through-non-root-user",
+      "score": -4,
+      "answers": 0,
+      "views": 72,
+      "tags": [
+        "java",
+        "tomcat",
+        "configuration"
+      ]
+    },
+    {
+      "rank": 24,
+      "title": "How would you replace Azure Application Insights for application logging?",
+      "url": "https://stackoverflow.com/questions/80000489/how-would-you-replace-azure-application-insights-for-application-logging",
+      "score": -3,
+      "answers": 0,
+      "views": 69,
+      "tags": [
+        "tooling-recommendation",
+        "azure",
+        "logging",
+        ".net-10.0"
+      ]
+    },
+    {
+      "rank": 25,
+      "title": "How should a React app handle API data when the user navigates away before the request finishes?",
+      "url": "https://stackoverflow.com/questions/80000605/how-should-a-react-app-handle-api-data-when-the-user-navigates-away-before-the-r",
+      "score": 1,
+      "answers": 1,
+      "views": 78,
+      "tags": [
+        "best-practices",
+        "javascript",
+        "reactjs"
+      ]
+    }
+  ]
+}
