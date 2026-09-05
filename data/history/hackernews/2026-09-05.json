@@ -1,0 +1,232 @@
+{
+  "source": "hackernews",
+  "label": "Hacker News — top stories",
+  "fetched_at": "2026-09-05T08:04:20.780Z",
+  "items": [
+    {
+      "rank": 1,
+      "title": "Actively exploited sandbox RCE in all Chromium versions",
+      "url": "https://nvd.nist.gov/vuln/detail/cve-2026-85046",
+      "hn_url": "https://news.ycombinator.com/item?id=49570669",
+      "score": 458,
+      "comments": 249,
+      "author": "negura"
+    },
+    {
+      "rank": 2,
+      "title": "Discovery of a new OpenAI agent message board",
+      "url": "https://collusion.wiki/",
+      "hn_url": "https://news.ycombinator.com/item?id=49563355",
+      "score": 1668,
+      "comments": 1299,
+      "author": "moultano"
+    },
+    {
+      "rank": 3,
+      "title": "I Want a Wife (1971) [pdf]",
+      "url": "https://www.sevanoland.com/uploads/1/1/8/0/118081022/_brady_i_want_a_wife.pdf",
+      "hn_url": "https://news.ycombinator.com/item?id=49529179",
+      "score": 57,
+      "comments": 30,
+      "author": "NaOH"
+    },
+    {
+      "rank": 4,
+      "title": "Formalizing Fermat's Last Theorem",
+      "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+      "hn_url": "https://news.ycombinator.com/item?id=49568506",
+      "score": 590,
+      "comments": 367,
+      "author": "jlebar"
+    },
+    {
+      "rank": 5,
+      "title": "Nitter has more working instances than before the takedowns",
+      "url": "https://codeberg.org/mv12star/shitter/wiki/Instances",
+      "hn_url": "https://news.ycombinator.com/item?id=49571634",
+      "score": 156,
+      "comments": 49,
+      "author": "Cider9986"
+    },
+    {
+      "rank": 6,
+      "title": "Statichost.eu – European static site hosting",
+      "url": "https://www.statichost.eu/",
+      "hn_url": "https://news.ycombinator.com/item?id=49569896",
+      "score": 255,
+      "comments": 83,
+      "author": "p4bl0"
+    },
+    {
+      "rank": 7,
+      "title": "GPT-6 Astra on OpenRouter",
+      "url": "https://openrouter.ai/openai/gpt-6-astra",
+      "hn_url": "https://news.ycombinator.com/item?id=49570545",
+      "score": 203,
+      "comments": 118,
+      "author": "Topfi"
+    },
+    {
+      "rank": 8,
+      "title": "GPT-6 Astra in code review: Gains, privacy, and cost",
+      "url": "https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation",
+      "hn_url": "https://news.ycombinator.com/item?id=49572875",
+      "score": 28,
+      "comments": 11,
+      "author": "cebert"
+    },
+    {
+      "rank": 9,
+      "title": "Can AI design circuit boards yet?",
+      "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
+      "hn_url": "https://news.ycombinator.com/item?id=49569366",
+      "score": 243,
+      "comments": 147,
+      "author": "iopapa"
+    },
+    {
+      "rank": 10,
+      "title": "Git Submodules as a Package Manager",
+      "url": "https://nesbitt.io/2026/09/01/git-submodules-as-a-package-manager.html",
+      "hn_url": "https://news.ycombinator.com/item?id=49519850",
+      "score": 51,
+      "comments": 6,
+      "author": "ErenayDev"
+    },
+    {
+      "rank": 11,
+      "title": "The Highest Point in the Netherlands",
+      "url": "https://ipv6.hanazo.no/posts/anniversary-personal/",
+      "hn_url": "https://news.ycombinator.com/item?id=49537340",
+      "score": 37,
+      "comments": 25,
+      "author": "haasted"
+    },
+    {
+      "rank": 12,
+      "title": "Shutting down our public encrypted DNS",
+      "url": "https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead",
+      "hn_url": "https://news.ycombinator.com/item?id=49568579",
+      "score": 325,
+      "comments": 148,
+      "author": "mywacaday"
+    },
+    {
+      "rank": 13,
+      "title": "Artificial Analysis Intelligence Index v4.2",
+      "url": "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2",
+      "hn_url": "https://news.ycombinator.com/item?id=49571632",
+      "score": 110,
+      "comments": 38,
+      "author": "nojs"
+    },
+    {
+      "rank": 14,
+      "title": "Portal by Spotify cut my Claude Code token usage by 90%",
+      "url": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90",
+      "hn_url": "https://news.ycombinator.com/item?id=49571465",
+      "score": 105,
+      "comments": 51,
+      "author": "cebert"
+    },
+    {
+      "rank": 15,
+      "title": "Pointing at the error: compiler-style diagnostics in uutils coreutils",
+      "url": "https://uutils.org/blog/2026-08-error-diagnostics/",
+      "hn_url": "https://news.ycombinator.com/item?id=49535024",
+      "score": 6,
+      "comments": 1,
+      "author": "ingve"
+    },
+    {
+      "rank": 16,
+      "title": "Show HN: Open-Source eInk Bike Computer",
+      "url": "https://opentrailpaper.com",
+      "hn_url": "https://news.ycombinator.com/item?id=49567437",
+      "score": 278,
+      "comments": 99,
+      "author": "stingrae"
+    },
+    {
+      "rank": 17,
+      "title": "Can guitar frets perform multiplication?",
+      "url": "https://www.charlespetzold.com/blog/2026/09/Can-Guitar-Frets-Perform-Multiplication.html",
+      "hn_url": "https://news.ycombinator.com/item?id=49571047",
+      "score": 69,
+      "comments": 17,
+      "author": "wibbily"
+    },
+    {
+      "rank": 18,
+      "title": "RSA-260 Factorized",
+      "url": "https://twitter.com/penlume/status/2095372672356212876",
+      "hn_url": "https://news.ycombinator.com/item?id=49546284",
+      "score": 109,
+      "comments": 48,
+      "author": "samyok"
+    },
+    {
+      "rank": 19,
+      "title": "Ask HN: Resources to get good at soldering?",
+      "url": "https://news.ycombinator.com/item?id=49533840",
+      "hn_url": "https://news.ycombinator.com/item?id=49533840",
+      "score": 113,
+      "comments": 73,
+      "author": "tosmatos"
+    },
+    {
+      "rank": 20,
+      "title": "Git hosting that never leaves Europe",
+      "url": "https://pushin.eu",
+      "hn_url": "https://news.ycombinator.com/item?id=49573680",
+      "score": 7,
+      "comments": 4,
+      "author": "sevenseacat"
+    },
+    {
+      "rank": 21,
+      "title": "Fermat's Last Theorem in Lean 4",
+      "url": "https://github.com/anthropics/fermats-last-theorem",
+      "hn_url": "https://news.ycombinator.com/item?id=49568697",
+      "score": 100,
+      "comments": 19,
+      "author": "aaraujo002"
+    },
+    {
+      "rank": 22,
+      "title": "An open DNS recursive service for free security and high privacy",
+      "url": "https://quad9.net/",
+      "hn_url": "https://news.ycombinator.com/item?id=49569663",
+      "score": 87,
+      "comments": 24,
+      "author": "mooreds"
+    },
+    {
+      "rank": 23,
+      "title": "IBM Bob",
+      "url": "https://bob.ibm.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=49563851",
+      "score": 261,
+      "comments": 285,
+      "author": "artpar"
+    },
+    {
+      "rank": 24,
+      "title": "Decompiler Explorer",
+      "url": "https://dogbolt.org",
+      "hn_url": "https://news.ycombinator.com/item?id=49529161",
+      "score": 79,
+      "comments": 2,
+      "author": "tripdout"
+    },
+    {
+      "rank": 25,
+      "title": "Record-High 89% in U.S. Say Government Corruption Widespread",
+      "url": "https://news.gallup.com/poll/713933/record-high-say-government-corruption-widespread.aspx",
+      "hn_url": "https://news.ycombinator.com/item?id=49570772",
+      "score": 389,
+      "comments": 286,
+      "author": "karakoram"
+    }
+  ]
+}

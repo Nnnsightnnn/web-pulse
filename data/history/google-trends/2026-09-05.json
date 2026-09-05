@@ -1,0 +1,292 @@
+{
+  "source": "google-trends",
+  "label": "Google Trends — trending searches",
+  "fetched_at": "2026-09-05T08:04:20.871Z",
+  "countries": [
+    "US",
+    "GB",
+    "IN",
+    "JP",
+    "BR",
+    "DE"
+  ],
+  "items": [
+    {
+      "rank": 1,
+      "title": "world's tallest buildings",
+      "geos": [
+        "BR",
+        "US"
+      ],
+      "traffic_estimate": 300,
+      "news_title": "World’s Tallest Skyscraper Hits Major New Construction Milestone",
+      "news_url": "https://www.newsweek.com/jeddah-tower-worlds-tallest-skyscraper-construction-milestone-12401838",
+      "news_source": "Newsweek"
+    },
+    {
+      "rank": 2,
+      "title": "netflix top movies right now",
+      "geos": [
+        "BR",
+        "US"
+      ],
+      "traffic_estimate": 300,
+      "news_title": "3 best new to Netflix shows you should binge-watch this weekend (Sept. 4-6)",
+      "news_url": "https://www.yahoo.com/entertainment/tv/articles/3-best-netflix-shows-binge-160000797.html",
+      "news_source": "Yahoo"
+    },
+    {
+      "rank": 3,
+      "title": "प्रधानमंत्री किसान सम्मान निधि",
+      "geos": [
+        "IN"
+      ],
+      "traffic_estimate": 5000,
+      "news_title": "PM Kisan Yojana की 24वीं किस्त आने से पहले उड़ी अफवाह, खाते में आए 4-4 हजार? फैक्ट चेक में सामने आया सच",
+      "news_url": "https://www.jagran.com/business/biz-pm-kisan-24th-installment-fact-check-on-rs-4000-credited-into-farmers-account-rumors-40362231.html",
+      "news_source": "Jagran"
+    },
+    {
+      "rank": 4,
+      "title": "地方競馬",
+      "geos": [
+        "JP"
+      ],
+      "traffic_estimate": 5000,
+      "news_title": "京成杯オータムハンデキャップ",
+      "news_url": "https://www.jra.go.jp/keiba/race/079/horse.html",
+      "news_source": "JRA日本中央競馬会"
+    },
+    {
+      "rank": 5,
+      "title": "johnny brownlee",
+      "geos": [
+        "GB"
+      ],
+      "traffic_estimate": 2000,
+      "news_title": "Jonny Brownlee retires from triathlon at 36",
+      "news_url": "https://www.bbc.co.uk/sport/athletics/articles/cwyzqejdvgko",
+      "news_source": "BBC"
+    },
+    {
+      "rank": 6,
+      "title": "सेवानिवृत्ति",
+      "geos": [
+        "IN"
+      ],
+      "traffic_estimate": 2000,
+      "news_title": "25 साल की सर्विस के बाद फर्जी पाया गया ST सर्टिफिकेट, सुप्रीम कोर्ट ने दी रिटायरमेंट के फायदे देने को...",
+      "news_url": "https://hindi.livelaw.in/supreme-court/supreme-court-allows-retiral-benefits-to-employee-whose-st-certificate-was-found-invalid-after-25-years-service-548675",
+      "news_source": "Live Law Hindi"
+    },
+    {
+      "rank": 7,
+      "title": "chip",
+      "geos": [
+        "DE"
+      ],
+      "traffic_estimate": 2000,
+      "news_title": "Ältere Menschen laufen oft so: Das sagen Experten über den Grund",
+      "news_url": "https://www.chip.de/news/gesundheit-fitness/aeltere-menschen-laufen-oft-so-das-sagen-experten-ueber-den-grund_c4239db4-dea2-43d9-b0c4-deb8b56a97ea.html",
+      "news_source": "CHIP"
+    },
+    {
+      "rank": 8,
+      "title": "sven schulze",
+      "geos": [
+        "DE"
+      ],
+      "traffic_estimate": 2000,
+      "news_title": "Probleme in Sachsen-Anhalt: Vor Schulze braut sich der perfekte Sturm zusammen",
+      "news_url": "https://www.n-tv.de/politik/Vor-Schulze-braut-sich-der-perfekte-Sturm-zusammen-id31267090.html",
+      "news_source": "n-tv.de"
+    },
+    {
+      "rank": 9,
+      "title": "djia",
+      "geos": [
+        "GB"
+      ],
+      "traffic_estimate": 1000,
+      "news_title": "US jobs report smashes forecasts; shares in Falklands oil explorers plunge as Argentina threatens sanctions – as it happened",
+      "news_url": "https://www.theguardian.com/business/live/2026/sep/04/uk-car-sales-rise-food-prices-bank-of-england-us-jobs-repost-latest-news-updates",
+      "news_source": "The Guardian"
+    },
+    {
+      "rank": 10,
+      "title": "rwa binance",
+      "geos": [
+        "IN"
+      ],
+      "traffic_estimate": 1000,
+      "news_title": "Most tokenized-stock investors also trade futures or equities, Binance data shows",
+      "news_url": "https://finbold.com/most-tokenized-stock-investors-also-trade-futures-or-equities-binance-data-shows/",
+      "news_source": "Finbold"
+    },
+    {
+      "rank": 11,
+      "title": "സ്വര്ണം",
+      "geos": [
+        "IN"
+      ],
+      "traffic_estimate": 1000,
+      "news_title": "സ്വർണവിലയിൽ‌ വൻ‌ തിരിച്ചിറക്കം; കേരളത്തിലും ഇടിഞ്ഞു, ട്രംപ്-ഫെഡ് ഏറ്റുമുട്ടൽ? സ്വർണം കൂടുതൽ ഇടിവിലേക്ക്?",
+      "news_url": "https://www.manoramaonline.com/business/commodity/2026/09/05/gold-price-drop-kerala-trump-us-fed-jobs-data-impact-aks.html",
+      "news_source": "Manorama Online"
+    },
+    {
+      "rank": 12,
+      "title": "baleno facelift",
+      "geos": [
+        "IN"
+      ],
+      "traffic_estimate": 1000,
+      "news_title": "2026 Maruti Baleno Facelift Launch Tomorrow! What To Expect?",
+      "news_url": "https://www.cardekho.com/india-car-news/2026-maruti-baleno-facelift-launch-tomorrow-what-to-expect-36597.htm",
+      "news_source": "CarDekho"
+    },
+    {
+      "rank": 13,
+      "title": "toronto flooding today",
+      "geos": [
+        "IN"
+      ],
+      "traffic_estimate": 1000,
+      "news_title": "Toronto begins recovery after ‘100-year storm’ leaves behind massive flooding",
+      "news_url": "https://globalnews.ca/news/12046334/toronto-storm-recovery/",
+      "news_source": "Global News"
+    },
+    {
+      "rank": 14,
+      "title": "apartments",
+      "geos": [
+        "US"
+      ],
+      "traffic_estimate": 500,
+      "news_title": "Family identifies great-grandmother as 1 of 2 people killed inside apartment leasing office in west Houston",
+      "news_url": "https://abc13.com/post/family-identifies-great-grandmother-1-2-people-killed-inside-apartment-leasing-office-west-houston/19791835/",
+      "news_source": "ABC13 Houston"
+    },
+    {
+      "rank": 15,
+      "title": "dover",
+      "geos": [
+        "GB"
+      ],
+      "traffic_estimate": 500,
+      "news_title": "'Dark and dingy' mental health hub gets £680k refurb",
+      "news_url": "https://www.bbc.co.uk/news/articles/c89jgxek2wlo",
+      "news_source": "BBC"
+    },
+    {
+      "rank": 16,
+      "title": "दैनिक जागरण",
+      "geos": [
+        "IN"
+      ],
+      "traffic_estimate": 500,
+      "news_title": "दैनिक हिंदुस्तान से इस पद पर दैनिक जागरण पहुंचे प्रवीण राय!",
+      "news_url": "https://www.bhadas4media.com/praveen-rai-join-dainik-jagran/",
+      "news_source": "Bhadas4Media"
+    },
+    {
+      "rank": 17,
+      "title": "ಭಾರತ ಹವಾಮಾನ ಇಲಾಖೆ",
+      "geos": [
+        "IN"
+      ],
+      "traffic_estimate": 500,
+      "news_title": "IMD: ಆಗಸ್ಟ್‌ನಲ್ಲಿ 16% ಮಳೆ ಅಭಾವ! ಆದರೆ ಅಲ್ಲಿಂದ ಹರಿದುಬರುತ್ತಿರುವ ಆ ಗಾಳಿ ರೈತರಿಗೆ ಇನ್ಮುಂದೆ ಸಿಹಿಯೋ, ಕಹಿಯೋ?",
+      "news_url": "https://kannada.asianetnews.com/gallery/karnataka-districts/el-nino-india-monsoon-rainfall-deficit-wheat-crop-farmers-weather-forecast-bmk-x4xbux5",
+      "news_source": "Asianet News Kannada"
+    },
+    {
+      "rank": 18,
+      "title": "有働由美子",
+      "geos": [
+        "JP"
+      ],
+      "traffic_estimate": 500,
+      "news_title": "15秒できないと赤信号！立っているとふらつく人が“筋肉”より鍛えるべき部分【有働由美子の健康案内人！】",
+      "news_url": "https://news.tv-asahi.co.jp/news_geinou/articles/900198902.html",
+      "news_source": "テレ朝NEWS"
+    },
+    {
+      "rank": 19,
+      "title": "7order",
+      "geos": [
+        "JP"
+      ],
+      "traffic_estimate": 500,
+      "news_title": "「妻子持ちを隠してアイドル活動は…」元“旧ジャニ”アイドル（29）結婚＆第1子誕生報道にファン動揺…WEST.重岡よりも影響大か（女性自身）",
+      "news_url": "https://news.yahoo.co.jp/articles/42895629d579f5d7b6875f8daa2bfb5ba307e917",
+      "news_source": "Yahoo!ニュース"
+    },
+    {
+      "rank": 20,
+      "title": "桃田賢斗",
+      "geos": [
+        "JP"
+      ],
+      "traffic_estimate": 500,
+      "news_title": "各界の虎党集結、阪神優勝を“前祝い”「マジック一桁とかじゃなくてもうやるのね」 MBS『阪神ファンと集う～有働由美子の猛虎食堂』5日放送（オリコン）",
+      "news_url": "https://news.yahoo.co.jp/articles/fd2e2049199b30f3e0113688e5126c45a9fd347a",
+      "news_source": "Yahoo!ニュース"
+    },
+    {
+      "rank": 21,
+      "title": "堤真一",
+      "geos": [
+        "JP"
+      ],
+      "traffic_estimate": 500,
+      "news_title": "",
+      "news_url": "",
+      "news_source": ""
+    },
+    {
+      "rank": 22,
+      "title": "adam sandler",
+      "geos": [
+        "BR"
+      ],
+      "traffic_estimate": 500,
+      "news_title": "Marido de Taylor Swift revela a única coisa que ele gostaria que fosse diferente em seu casamento",
+      "news_url": "https://gshow.globo.com/cultura-pop/famosos/noticia/marido-de-taylor-swift-revela-a-unica-coisa-que-ele-gostaria-que-fosse-diferente-em-seu-casamento.ghtml",
+      "news_source": "Gshow"
+    },
+    {
+      "rank": 23,
+      "title": "gta vi",
+      "geos": [
+        "BR"
+      ],
+      "traffic_estimate": 500,
+      "news_title": "A Grand Theft Auto marketing deal with Miami-Dade has a real-life foe: the sheriff",
+      "news_url": "https://www.miamiherald.com/news/local/community/miami-dade/article317115782.html",
+      "news_source": "Miami Herald"
+    },
+    {
+      "rank": 24,
+      "title": "tetris",
+      "geos": [
+        "DE"
+      ],
+      "traffic_estimate": 500,
+      "news_title": "White House puts Trump-style classic video games on website ahead of midterms",
+      "news_url": "https://thehill.com/homenews/6070969-white-house-unveils-trump-policy-arcade/",
+      "news_source": "The Hill"
+    },
+    {
+      "rank": 25,
+      "title": "golf course",
+      "geos": [
+        "US"
+      ],
+      "traffic_estimate": 200,
+      "news_title": "Pool cleaner takes himself to hospital after chemical inhalation at San Francisco golf course",
+      "news_url": "https://www.ktvu.com/news/1-person-taken-hospital-chemical-inhalation-san-francisco-golf-course",
+      "news_source": "KTVU"
+    }
+  ]
+}

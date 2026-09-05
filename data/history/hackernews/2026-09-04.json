@@ -1,15 +1,15 @@
 {
   "source": "hackernews",
   "label": "Hacker News — top stories",
-  "fetched_at": "2026-09-04T08:10:04.446Z",
+  "fetched_at": "2026-09-04T08:11:09.883Z",
   "items": [
     {
       "rank": 1,
       "title": "GPT-6 Astra",
       "url": "https://openai.com/index/gpt-6-astra/",
       "hn_url": "https://news.ycombinator.com/item?id=49554643",
-      "score": 1709,
-      "comments": 1508,
+      "score": 1710,
+      "comments": 1510,
       "author": "kibae"
     },
     {
@@ -17,8 +17,8 @@
       "title": ".name Termination",
       "url": "https://neil.fraser.name/news/2026/09/03/",
       "hn_url": "https://news.ycombinator.com/item?id=49550772",
-      "score": 1726,
-      "comments": 429,
+      "score": 1729,
+      "comments": 431,
       "author": "pavel_lishin"
     },
     {
@@ -54,7 +54,7 @@
       "url": "https://gwern.net/xanadu",
       "hn_url": "https://news.ycombinator.com/item?id=49559522",
       "score": 74,
-      "comments": 10,
+      "comments": 11,
       "author": "andsoitis"
     },
     {
@@ -104,21 +104,21 @@
     },
     {
       "rank": 12,
+      "title": "Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out",
+      "url": "https://armature.tech/blog/which-tools-coding-agents-install",
+      "hn_url": "https://news.ycombinator.com/item?id=49557206",
+      "score": 198,
+      "comments": 87,
+      "author": "screm"
+    },
+    {
+      "rank": 13,
       "title": "K2 Horizon: A connected fleet of six open models",
       "url": "https://ifm.ai/blog/k2/",
       "hn_url": "https://news.ycombinator.com/item?id=49551760",
       "score": 291,
       "comments": 96,
       "author": "karimf"
-    },
-    {
-      "rank": 13,
-      "title": "Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out",
-      "url": "https://armature.tech/blog/which-tools-coding-agents-install",
-      "hn_url": "https://news.ycombinator.com/item?id=49557206",
-      "score": 197,
-      "comments": 87,
-      "author": "screm"
     },
     {
       "rank": 14,
@@ -140,15 +140,6 @@
     },
     {
       "rank": 16,
-      "title": "Show HN: Reactor Atlas",
-      "url": "https://reactoratlas.com",
-      "hn_url": "https://news.ycombinator.com/item?id=49549148",
-      "score": 23,
-      "comments": 12,
-      "author": "fedecaccia"
-    },
-    {
-      "rank": 17,
       "title": "Ask HN: Who is using MCP in production?",
       "url": "https://news.ycombinator.com/item?id=49548600",
       "hn_url": "https://news.ycombinator.com/item?id=49548600",
@@ -157,7 +148,7 @@
       "author": "sukit"
     },
     {
-      "rank": 18,
+      "rank": 17,
       "title": "Xanadu was waiting for agents",
       "url": "https://zed.dev/blog/agentic-xanadu",
       "hn_url": "https://news.ycombinator.com/item?id=49526298",
@@ -166,13 +157,22 @@
       "author": "nsm"
     },
     {
-      "rank": 19,
+      "rank": 18,
       "title": "The phrase that ruins every eCommerce project: \"Just connect it to our ERP.\"",
       "url": "https://shiftmag.dev/the-phrase-that-ruins-every-ecommerce-project-just-connect-it-to-our-erp-11689/",
       "hn_url": "https://news.ycombinator.com/item?id=49561670",
       "score": 8,
       "comments": 2,
       "author": "taubek"
+    },
+    {
+      "rank": 19,
+      "title": "Show HN: Reactor Atlas",
+      "url": "https://reactoratlas.com",
+      "hn_url": "https://news.ycombinator.com/item?id=49549148",
+      "score": 22,
+      "comments": 12,
+      "author": "fedecaccia"
     },
     {
       "rank": 20,
@@ -197,7 +197,7 @@
       "title": "Any Human Ever – One life, drawn at random from all who have ever lived",
       "url": "https://anyhumanever.com/",
       "hn_url": "https://news.ycombinator.com/item?id=49550698",
-      "score": 566,
+      "score": 567,
       "comments": 270,
       "author": "thinkingemote"
     },

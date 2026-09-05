@@ -1,7 +1,7 @@
 {
   "source": "twitch",
   "label": "Twitch — top streams (live)",
-  "fetched_at": "2026-09-04T08:10:04.626Z",
+  "fetched_at": "2026-09-04T08:11:10.352Z",
   "configured": true,
   "items": [
     {
@@ -9,7 +9,7 @@
       "title": "Caedrel",
       "stream_title": "🔴LCK DK VS KT PLAYOFFS ELIMINATION🔴",
       "url": "https://twitch.tv/caedrel",
-      "viewers": 49537,
+      "viewers": 58504,
       "game": "League of Legends",
       "language": "en",
       "started_at": "2026-09-04T07:14:46Z"
@@ -19,7 +19,7 @@
       "title": "布団ちゃんと申します",
       "stream_title": "禁煙マリオメーカー２ A帯からS帯へーーーーー←スーパーマリオ３Dを好きになるまでやってみる←禁煙マリオメーカー２ A帯からS帯へーーーーー",
       "url": "https://twitch.tv/indegnasen0706",
-      "viewers": 15990,
+      "viewers": 16231,
       "game": "Super Mario Maker 2",
       "language": "ja",
       "started_at": "2026-09-04T04:26:44Z"
@@ -86,16 +86,6 @@
     },
     {
       "rank": 9,
-      "title": "GOFNS",
-      "stream_title": "EG FNS | NS vs GE - VCT Pacific Stage 2 Playoffs Upper Final  #VCTWatchparty | !vote !inzone !celinaVlog",
-      "url": "https://twitch.tv/gofns",
-      "viewers": 8641,
-      "game": "VALORANT",
-      "language": "en",
-      "started_at": "2026-09-04T07:40:20Z"
-    },
-    {
-      "rank": 10,
       "title": "MontanaBlack88",
       "stream_title": "TAG 2 der RENTNER TOUR 2.0 • 4 TAGE LIVE aus FRANKREICH! • !gönrgy !jackpot !prepmymeal !teilnehmer",
       "url": "https://twitch.tv/montanablack88",
@@ -105,7 +95,7 @@
       "started_at": "2026-09-03T08:54:19Z"
     },
     {
-      "rank": 11,
+      "rank": 10,
       "title": "sasatikk",
       "stream_title": "リアルマジ公式Rust w/ ゆうた3 ceros3 mh3 ringo3(友人)",
       "url": "https://twitch.tv/sasatikk",
@@ -113,6 +103,16 @@
       "game": "Rust",
       "language": "ja",
       "started_at": "2026-09-04T05:56:05Z"
+    },
+    {
+      "rank": 11,
+      "title": "GOFNS",
+      "stream_title": "EG FNS | NS vs GE - VCT Pacific Stage 2 Playoffs Upper Final  #VCTWatchparty | !vote !inzone !celinaVlog",
+      "url": "https://twitch.tv/gofns",
+      "viewers": 7700,
+      "game": "VALORANT",
+      "language": "en",
+      "started_at": "2026-09-04T07:40:20Z"
     },
     {
       "rank": 12,
@@ -179,7 +179,7 @@
       "title": "esports_rage",
       "stream_title": "Apex Legends Global Series Year 6：Split 2 【APAC North Pro League Day 7】",
       "url": "https://twitch.tv/esports_rage",
-      "viewers": 4840,
+      "viewers": 5006,
       "game": "Apex Legends",
       "language": "ja",
       "started_at": "2026-09-04T07:30:02Z"
