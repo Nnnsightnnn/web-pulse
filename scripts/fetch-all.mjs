@@ -12,6 +12,7 @@ import "./env.mjs";
 import { clusterItems } from "./cluster.mjs";
 import { generateBrief } from "./brief.mjs";
 import { generateEditorial } from "./editorial.mjs";
+import { generateSpreader } from "./spreader.mjs";
 import { writeFile, mkdir, readdir } from "node:fs/promises";
 import { dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";
@@ -135,6 +136,17 @@ async function run() {
 
   await mkdir(DATA_DIR, { recursive: true });
   await writeFile(join(DATA_DIR, "latest.json"), JSON.stringify(latest, null, 2));
+
+  // Launch-pad briefing — the compact glance the Daily Spreader pulls at build
+  // time. Deterministic floor; the web-pulse-refresh task's Claude pass then
+  // rewrites lede + gists with cited synthesis. Never blocks the run.
+  try {
+    const spreader = generateSpreader(latest);
+    await writeFile(join(DATA_DIR, "spreader.json"), JSON.stringify(spreader, null, 2) + "\n");
+    console.log(`  ◆ spreader.json — ${spreader.throughlines.length} throughlines, strength ${spreader.strength}`);
+  } catch (err) {
+    console.warn("  ⊘ spreader generation failed:", err.message);
+  }
 
   // Per-source daily history snapshots.
   const stamp = dateStamp();
