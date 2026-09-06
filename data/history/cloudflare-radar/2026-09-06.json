@@ -1,7 +1,7 @@
 {
   "source": "cloudflare-radar",
   "label": "Cloudflare Radar — top domains",
-  "fetched_at": "2026-09-05T08:05:28.311Z",
+  "fetched_at": "2026-09-06T08:09:01.476Z",
   "configured": true,
   "items": [
     {
@@ -36,8 +36,8 @@
       "title": "gstatic.com",
       "url": "https://gstatic.com",
       "category": "Content Servers",
-      "rank_delta_7d": 0,
-      "prev_rank_7d": 4,
+      "rank_delta_7d": 1,
+      "prev_rank_7d": 5,
       "is_new_to_top": false
     },
     {
@@ -45,8 +45,8 @@
       "title": "apple.com",
       "url": "https://apple.com",
       "category": "Information Technology",
-      "rank_delta_7d": 0,
-      "prev_rank_7d": 5,
+      "rank_delta_7d": -1,
+      "prev_rank_7d": 4,
       "is_new_to_top": false
     },
     {
@@ -63,8 +63,8 @@
       "title": "facebook.com",
       "url": "https://facebook.com",
       "category": "Social Networks",
-      "rank_delta_7d": 0,
-      "prev_rank_7d": 7,
+      "rank_delta_7d": 1,
+      "prev_rank_7d": 8,
       "is_new_to_top": false
     },
     {
@@ -72,8 +72,8 @@
       "title": "amazonaws.com",
       "url": "https://amazonaws.com",
       "category": "Technology",
-      "rank_delta_7d": 0,
-      "prev_rank_7d": 8,
+      "rank_delta_7d": -1,
+      "prev_rank_7d": 7,
       "is_new_to_top": false
     },
     {
@@ -99,8 +99,8 @@
       "title": "whatsapp.net",
       "url": "https://whatsapp.net",
       "category": "Instant Messengers",
-      "rank_delta_7d": 0,
-      "prev_rank_7d": 11,
+      "rank_delta_7d": 1,
+      "prev_rank_7d": 12,
       "is_new_to_top": false
     },
     {
@@ -108,8 +108,8 @@
       "title": "amazon.com",
       "url": "https://amazon.com",
       "category": "Ecommerce",
-      "rank_delta_7d": 0,
-      "prev_rank_7d": 12,
+      "rank_delta_7d": -1,
+      "prev_rank_7d": 11,
       "is_new_to_top": false
     },
     {
@@ -132,36 +132,36 @@
     },
     {
       "rank": 15,
-      "title": "doubleclick.net",
-      "url": "https://doubleclick.net",
-      "category": "Trackers/Analytics",
-      "rank_delta_7d": 1,
-      "prev_rank_7d": 16,
-      "is_new_to_top": false
-    },
-    {
-      "rank": 16,
-      "title": "bing.com",
-      "url": "https://bing.com",
-      "category": "Search Engines",
-      "rank_delta_7d": -1,
-      "prev_rank_7d": 15,
-      "is_new_to_top": false
-    },
-    {
-      "rank": 17,
       "title": "apple-dns.net",
       "url": "https://apple-dns.net",
       "category": "Content Servers",
       "rank_delta_7d": 0,
+      "prev_rank_7d": 15,
+      "is_new_to_top": false
+    },
+    {
+      "rank": 16,
+      "title": "doubleclick.net",
+      "url": "https://doubleclick.net",
+      "category": "Trackers/Analytics",
+      "rank_delta_7d": 1,
       "prev_rank_7d": 17,
       "is_new_to_top": false
     },
     {
+      "rank": 17,
+      "title": "bing.com",
+      "url": "https://bing.com",
+      "category": "Search Engines",
+      "rank_delta_7d": -1,
+      "prev_rank_7d": 16,
+      "is_new_to_top": false
+    },
+    {
       "rank": 18,
-      "title": "googleusercontent.com",
-      "url": "https://googleusercontent.com",
-      "category": "Content Servers",
+      "title": "netflix.com",
+      "url": "https://netflix.com",
+      "category": "Movies",
       "rank_delta_7d": 0,
       "prev_rank_7d": 18,
       "is_new_to_top": false
@@ -171,8 +171,8 @@
       "title": "icloud.com",
       "url": "https://icloud.com",
       "category": "File Sharing",
-      "rank_delta_7d": 1,
-      "prev_rank_7d": 20,
+      "rank_delta_7d": 0,
+      "prev_rank_7d": 19,
       "is_new_to_top": false
     },
     {
@@ -180,51 +180,51 @@
       "title": "akadns.net",
       "url": "https://akadns.net",
       "category": "Content Servers",
-      "rank_delta_7d": -1,
-      "prev_rank_7d": 19,
-      "is_new_to_top": false
-    },
-    {
-      "rank": 21,
-      "title": "live.com",
-      "url": "https://live.com",
-      "category": "Technology",
       "rank_delta_7d": 1,
-      "prev_rank_7d": 22,
-      "is_new_to_top": false
-    },
-    {
-      "rank": 22,
-      "title": "netflix.com",
-      "url": "https://netflix.com",
-      "category": "Movies",
-      "rank_delta_7d": -1,
       "prev_rank_7d": 21,
       "is_new_to_top": false
     },
     {
-      "rank": 23,
-      "title": "cloudflare-dns.com",
-      "url": "https://cloudflare-dns.com",
+      "rank": 21,
+      "title": "ntp.org",
+      "url": "https://ntp.org",
+      "category": "Technology",
+      "rank_delta_7d": -1,
+      "prev_rank_7d": 20,
+      "is_new_to_top": false
+    },
+    {
+      "rank": 22,
+      "title": "googleusercontent.com",
+      "url": "https://googleusercontent.com",
       "category": "Content Servers",
+      "rank_delta_7d": 0,
+      "prev_rank_7d": 22,
+      "is_new_to_top": false
+    },
+    {
+      "rank": 23,
+      "title": "live.com",
+      "url": "https://live.com",
+      "category": "Technology",
       "rank_delta_7d": 2,
       "prev_rank_7d": 25,
       "is_new_to_top": false
     },
     {
       "rank": 24,
-      "title": "aaplimg.com",
-      "url": "https://aaplimg.com",
-      "category": "Information Technology",
+      "title": "cloudflare-dns.com",
+      "url": "https://cloudflare-dns.com",
+      "category": "Content Servers",
       "rank_delta_7d": 0,
       "prev_rank_7d": 24,
       "is_new_to_top": false
     },
     {
       "rank": 25,
-      "title": "ntp.org",
-      "url": "https://ntp.org",
-      "category": "Technology",
+      "title": "aaplimg.com",
+      "url": "https://aaplimg.com",
+      "category": "Information Technology",
       "rank_delta_7d": -2,
       "prev_rank_7d": 23,
       "is_new_to_top": false

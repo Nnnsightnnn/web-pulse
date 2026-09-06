@@ -1,7 +1,7 @@
 {
   "source": "huggingface",
   "label": "Hugging Face — trending models",
-  "fetched_at": "2026-09-05T08:04:20.521Z",
+  "fetched_at": "2026-09-05T08:05:28.000Z",
   "items": [
     {
       "rank": 1,
@@ -21,7 +21,7 @@
       "author": "Qwen",
       "downloads": 5739341,
       "likes": 13974,
-      "trending_score": 547,
+      "trending_score": 546,
       "pipeline_tag": "image-text-to-text",
       "last_modified": "2026-08-14T15:00:01.000Z"
     },
@@ -32,7 +32,7 @@
       "author": "Qwen",
       "downloads": 351374,
       "likes": 4884,
-      "trending_score": 527,
+      "trending_score": 526,
       "pipeline_tag": "image-text-to-text",
       "last_modified": "2026-08-27T05:03:36.000Z"
     },
@@ -75,7 +75,7 @@
       "url": "https://huggingface.co/google/timesfm-3.0-pytorch",
       "author": "google",
       "downloads": 105304,
-      "likes": 436,
+      "likes": 437,
       "trending_score": 390,
       "pipeline_tag": "time-series-forecasting",
       "last_modified": "2026-09-02T15:44:59.000Z"
@@ -109,7 +109,7 @@
       "author": "unsloth",
       "downloads": 9951693,
       "likes": 3515,
-      "trending_score": 282,
+      "trending_score": 281,
       "pipeline_tag": null,
       "last_modified": "2026-08-20T12:04:25.000Z"
     },
@@ -225,17 +225,6 @@
     },
     {
       "rank": 21,
-      "title": "tencent/Hy4-preview",
-      "url": "https://huggingface.co/tencent/Hy4-preview",
-      "author": "tencent",
-      "downloads": 5684,
-      "likes": 438,
-      "trending_score": 175,
-      "pipeline_tag": "text-generation",
-      "last_modified": "2026-08-28T14:58:32.000Z"
-    },
-    {
-      "rank": 22,
       "title": "FastVideo/FastVideo-FastH3-4-step-Preview-v1-VSA-DataFree",
       "url": "https://huggingface.co/FastVideo/FastVideo-FastH3-4-step-Preview-v1-VSA-DataFree",
       "author": "FastVideo",
@@ -244,6 +233,17 @@
       "trending_score": 174,
       "pipeline_tag": "text-to-video",
       "last_modified": "2026-09-04T23:59:07.000Z"
+    },
+    {
+      "rank": 22,
+      "title": "tencent/Hy4-preview",
+      "url": "https://huggingface.co/tencent/Hy4-preview",
+      "author": "tencent",
+      "downloads": 5684,
+      "likes": 438,
+      "trending_score": 174,
+      "pipeline_tag": "text-generation",
+      "last_modified": "2026-08-28T14:58:32.000Z"
     },
     {
       "rank": 23,
@@ -263,7 +263,7 @@
       "author": "openai",
       "downloads": 20755211,
       "likes": 1186,
-      "trending_score": 170,
+      "trending_score": 169,
       "pipeline_tag": "zero-shot-image-classification",
       "last_modified": "2024-02-29T09:45:55.000Z"
     },

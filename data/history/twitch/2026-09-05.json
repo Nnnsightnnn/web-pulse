@@ -1,7 +1,7 @@
 {
   "source": "twitch",
   "label": "Twitch — top streams (live)",
-  "fetched_at": "2026-09-05T08:04:20.967Z",
+  "fetched_at": "2026-09-05T08:05:28.418Z",
   "configured": true,
   "items": [
     {
@@ -19,7 +19,7 @@
       "title": "Caedrel",
       "stream_title": "🔴LCK HLE VS GENG🔴",
       "url": "https://twitch.tv/caedrel",
-      "viewers": 40517,
+      "viewers": 47640,
       "game": "League of Legends",
       "language": "en",
       "started_at": "2026-09-05T07:25:25Z"
@@ -96,6 +96,16 @@
     },
     {
       "rank": 10,
+      "title": "Topson",
+      "stream_title": "Dota 2 enjoyer",
+      "url": "https://twitch.tv/topson",
+      "viewers": 10570,
+      "game": "Dota 2",
+      "language": "en",
+      "started_at": "2026-09-05T05:45:10Z"
+    },
+    {
+      "rank": 11,
       "title": "ironmouse",
       "stream_title": "!MOUSEATHON DAY 4 AHHHH 50% TO IMMUNE DEF |  !9th | !apari | !omocat | !fox | !cheeky | !ht | !starforge | !tts | !merch | !razer",
       "url": "https://twitch.tv/ironmouse",
@@ -105,21 +115,11 @@
       "started_at": "2026-09-03T16:44:26Z"
     },
     {
-      "rank": 11,
-      "title": "Topson",
-      "stream_title": "Dota 2 enjoyer",
-      "url": "https://twitch.tv/topson",
-      "viewers": 10103,
-      "game": "Dota 2",
-      "language": "en",
-      "started_at": "2026-09-05T05:45:10Z"
-    },
-    {
       "rank": 12,
       "title": "fubgun",
       "stream_title": "[Drops] 0.5.5 Launch, Flameblast Gemling - !guide !filter - !discord",
       "url": "https://twitch.tv/fubgun",
-      "viewers": 10018,
+      "viewers": 9612,
       "game": "Path of Exile 2",
       "language": "en",
       "started_at": "2026-09-04T18:23:53Z"
@@ -176,6 +176,16 @@
     },
     {
       "rank": 18,
+      "title": "TraYtoNlol",
+      "stream_title": "GENG VS HLE EN DIRECT DU Z EVENT DANS LE BON #LCKWatchParty !don !Zevent",
+      "url": "https://twitch.tv/traytonlol",
+      "viewers": 7486,
+      "game": "ZEVENT",
+      "language": "fr",
+      "started_at": "2026-09-05T06:40:16Z"
+    },
+    {
+      "rank": 19,
       "title": "samueletienne",
       "stream_title": "LE DERNIER ZEVENT, JOUR 2, on commence avec ANTOINE, de l'INSTITUT PASTEUR !don",
       "url": "https://twitch.tv/samueletienne",
@@ -185,7 +195,7 @@
       "started_at": "2026-09-05T06:54:36Z"
     },
     {
-      "rank": 19,
+      "rank": 20,
       "title": "SCHRADIN",
       "stream_title": "Schradin's Rentner-Tour 2.0 - Tag 3 | !rentnertour !revolut",
       "url": "https://twitch.tv/schradin",
@@ -195,7 +205,7 @@
       "started_at": "2026-09-05T07:33:48Z"
     },
     {
-      "rank": 20,
+      "rank": 21,
       "title": "FefeGG",
       "stream_title": "🟢 MATINALE DU ZEVENT SUR PLACE !!!! JOUR 2 - ON REGARDE DES CLASSIQUE  #AuxDons !don !zevent !goals",
       "url": "https://twitch.tv/fefegg",
@@ -203,16 +213,6 @@
       "game": "ZEVENT",
       "language": "fr",
       "started_at": "2026-09-05T05:00:44Z"
-    },
-    {
-      "rank": 21,
-      "title": "TraYtoNlol",
-      "stream_title": "GENG VS HLE EN DIRECT DU Z EVENT DANS LE BON #LCKWatchParty !don !Zevent",
-      "url": "https://twitch.tv/traytonlol",
-      "viewers": 6534,
-      "game": "ZEVENT",
-      "language": "fr",
-      "started_at": "2026-09-05T06:40:16Z"
     },
     {
       "rank": 22,
@@ -226,33 +226,33 @@
     },
     {
       "rank": 23,
-      "title": "MontanaBlack88",
-      "stream_title": "TAG 3 der RENTNER TOUR 2.0 • 4 TAGE LIVE aus FRANKREICH! • !gönrgy !jackpot !prepmymeal !teilnehmer",
-      "url": "https://twitch.tv/montanablack88",
-      "viewers": 6002,
-      "game": "IRL",
-      "language": "de",
-      "started_at": "2026-09-05T07:32:09Z"
-    },
-    {
-      "rank": 24,
       "title": "zarbex",
       "stream_title": "🤏 RENTNER TOUR 2.0 🤏 FIRMA AN WAND FAHREN 🤏 TAG 3 🤏  !socials !merch !esn !pmm",
       "url": "https://twitch.tv/zarbex",
-      "viewers": 5778,
+      "viewers": 5929,
       "game": "I'm Only Sleeping",
       "language": "de",
       "started_at": "2026-09-05T07:32:08Z"
     },
     {
+      "rank": 24,
+      "title": "MontanaBlack88",
+      "stream_title": "TAG 3 der RENTNER TOUR 2.0 • 4 TAGE LIVE aus FRANKREICH! • !gönrgy !jackpot !prepmymeal !teilnehmer",
+      "url": "https://twitch.tv/montanablack88",
+      "viewers": 5919,
+      "game": "IRL",
+      "language": "de",
+      "started_at": "2026-09-05T07:32:09Z"
+    },
+    {
       "rank": 25,
-      "title": "LCK_Carry",
-      "stream_title": "[中文] GEN vs HLE | 2026 Wooribank LCK Playoffs Upper Bracket R3",
-      "url": "https://twitch.tv/lck_carry",
-      "viewers": 5311,
+      "title": "NeVeR_LosEs",
+      "stream_title": "9/5 《三國：謀定天下》 問鼎賽季開荒  🐻🐻 等等看超威成神 0...0  | Co-stream | #WatchPartyLCK",
+      "url": "https://twitch.tv/never_loses",
+      "viewers": 5448,
       "game": "League of Legends",
       "language": "zh",
-      "started_at": "2026-09-05T07:21:34Z"
+      "started_at": "2026-09-05T03:49:46Z"
     }
   ]
 }

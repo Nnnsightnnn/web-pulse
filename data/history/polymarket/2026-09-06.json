@@ -1,0 +1,457 @@
+{
+  "source": "polymarket",
+  "label": "Polymarket — top 24h volume",
+  "fetched_at": "2026-09-06T08:09:01.061Z",
+  "items": [
+    {
+      "rank": 1,
+      "title": "Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?",
+      "url": "https://polymarket.com/event/fed-decision-in-september-762",
+      "volume_24h": 1372135.894995,
+      "volume_total": 30670054.02498699,
+      "liquidity": 3186057.51549,
+      "yes_price": 0.0035,
+      "leader": {
+        "name": "No",
+        "price": 0.9965
+      },
+      "end_date": "2026-09-16T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "LoL: Invictus Gaming vs Team WE - Game 2 Winner",
+      "url": "https://polymarket.com/event/lol-ig1-we-2026-09-06",
+      "volume_24h": 1159921.8752499998,
+      "volume_total": 1159921.8752499982,
+      "liquidity": 1223051.41551,
+      "yes_price": 0.0005,
+      "leader": {
+        "name": "Team WE",
+        "price": 0.9995
+      },
+      "end_date": "2026-09-06T10:00:00Z",
+      "outcomes": [
+        "Invictus Gaming",
+        "Team WE"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Counter-Strike: Spirit vs MOUZ (BO5) - BLAST Open Porto Playoffs",
+      "url": "https://polymarket.com/event/cs2-ts7-mouz-2026-09-06",
+      "volume_24h": 717466.2327110003,
+      "volume_total": 716596.6673059998,
+      "liquidity": 414087.4061,
+      "yes_price": 0.635,
+      "leader": {
+        "name": "Spirit",
+        "price": 0.635
+      },
+      "end_date": "2026-09-06T20:00:00Z",
+      "outcomes": [
+        "Spirit",
+        "MOUZ"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "LoL: T1 vs Dplus KIA (BO5) - LCK Playoffs",
+      "url": "https://polymarket.com/event/lol-t1-dk-2026-09-06",
+      "volume_24h": 712266.3352790001,
+      "volume_total": 753469.5757479996,
+      "liquidity": 83670.7502,
+      "yes_price": 0.555,
+      "leader": {
+        "name": "T1",
+        "price": 0.555
+      },
+      "end_date": "2026-09-06T14:00:00Z",
+      "outcomes": [
+        "T1",
+        "Dplus KIA"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Will FC Barcelona win on 2026-09-06?",
+      "url": "https://polymarket.com/event/lal-val-bar-2026-09-06",
+      "volume_24h": 507328.28055400023,
+      "volume_total": 599447.7901830004,
+      "liquidity": 404113.9443,
+      "yes_price": 0.765,
+      "leader": {
+        "name": "Yes",
+        "price": 0.765
+      },
+      "end_date": "2026-09-06T14:15:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?",
+      "url": "https://polymarket.com/event/uefa-champions-league-2027-champion-20260701202025549",
+      "volume_24h": 396357.742,
+      "volume_total": 14007405.957000002,
+      "liquidity": 333589.52733,
+      "yes_price": 0.0015,
+      "leader": {
+        "name": "No",
+        "price": 0.9985
+      },
+      "end_date": "2027-05-30T23:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Israel closes its airspace by September 30?",
+      "url": "https://polymarket.com/event/israel-closes-its-airspace-by",
+      "volume_24h": 295292.11022999993,
+      "volume_total": 1201940.6331700003,
+      "liquidity": 117865.7391,
+      "yes_price": 0.675,
+      "leader": {
+        "name": "Yes",
+        "price": 0.675
+      },
+      "end_date": "2026-10-01T03:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "US Open ATP: Tommy Paul vs Carlos Alcaraz",
+      "url": "https://polymarket.com/event/atp-paul-alcaraz-2026-09-06",
+      "volume_24h": 294310.75075699994,
+      "volume_total": 307762.433857,
+      "liquidity": 77638.1823,
+      "yes_price": 0.185,
+      "leader": {
+        "name": "Carlos Alcaraz",
+        "price": 0.815
+      },
+      "end_date": "2026-09-13T15:00:00Z",
+      "outcomes": [
+        "Tommy Paul",
+        "Carlos Alcaraz"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Iran leadership change by September 30?",
+      "url": "https://polymarket.com/event/iran-leadership-change-by",
+      "volume_24h": 269430.057499,
+      "volume_total": 1002445.9124430002,
+      "liquidity": 197048.00348,
+      "yes_price": 0.0275,
+      "leader": {
+        "name": "No",
+        "price": 0.9725
+      },
+      "end_date": "2026-10-01T03:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "US announces end of Iranian blockade by September 14, 2026?",
+      "url": "https://polymarket.com/event/us-announces-end-of-iranian-blockade-byptptpt-20260713152715080",
+      "volume_24h": 246030.9263899999,
+      "volume_total": 1059635.7004240002,
+      "liquidity": 147621.5794,
+      "yes_price": 0.0305,
+      "leader": {
+        "name": "No",
+        "price": 0.9695
+      },
+      "end_date": "2026-09-15T03:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 11,
+      "title": "Will Manchester United FC win on 2026-09-06?",
+      "url": "https://polymarket.com/event/epl-eve-mun-2026-09-06",
+      "volume_24h": 243289.74171700003,
+      "volume_total": 386962.9598919999,
+      "liquidity": 813176.1101,
+      "yes_price": 0.475,
+      "leader": {
+        "name": "No",
+        "price": 0.525
+      },
+      "end_date": "2026-09-06T13:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 12,
+      "title": "Istanbul 3: Samir Hamza Reguig vs Maxim Zhukov",
+      "url": "https://polymarket.com/event/atp-reguig-zhukov-2026-09-06",
+      "volume_24h": 235601.40275599982,
+      "volume_total": 235601.40275600005,
+      "liquidity": 54684.6944,
+      "yes_price": 0.655,
+      "leader": {
+        "name": "Samir Hamza Reguig",
+        "price": 0.655
+      },
+      "end_date": "2026-09-13T07:00:00Z",
+      "outcomes": [
+        "Samir Hamza Reguig",
+        "Maxim Zhukov"
+      ]
+    },
+    {
+      "rank": 13,
+      "title": "Will Rick Scott win the 2028 Republican presidential nomination?",
+      "url": "https://polymarket.com/event/republican-presidential-nominee-2028",
+      "volume_24h": 232060.415,
+      "volume_total": 749721.1708330001,
+      "liquidity": 1243563.02492,
+      "yes_price": 0.0015,
+      "leader": {
+        "name": "No",
+        "price": 0.9985
+      },
+      "end_date": "2028-11-07T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 14,
+      "title": "Will MOUZ Win the BLAST Open Porto 2026?",
+      "url": "https://polymarket.com/event/blast-open-porto-2026-winner-20260806201117422",
+      "volume_24h": 188740.040717,
+      "volume_total": 214067.914559,
+      "liquidity": 172726.3007,
+      "yes_price": 0.355,
+      "leader": {
+        "name": "No",
+        "price": 0.645
+      },
+      "end_date": null,
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 15,
+      "title": "Russia x Ukraine ceasefire agreement by October 31, 2026?",
+      "url": "https://polymarket.com/event/russia-x-ukraine-ceasefire-agreement-by",
+      "volume_24h": 184873.17345700017,
+      "volume_total": 1525612.8945719996,
+      "liquidity": 57927.6234,
+      "yes_price": 0.115,
+      "leader": {
+        "name": "No",
+        "price": 0.885
+      },
+      "end_date": "2026-11-01T03:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 16,
+      "title": "LoL: G2 Esports vs Karmine Corp (BO5) - LEC Playoffs",
+      "url": "https://polymarket.com/event/lol-g2-kc-2026-09-06",
+      "volume_24h": 142487.43677,
+      "volume_total": 142487.43677000003,
+      "liquidity": 167087.5903,
+      "yes_price": 0.505,
+      "leader": {
+        "name": "G2 Esports",
+        "price": 0.505
+      },
+      "end_date": "2026-09-06T21:00:00Z",
+      "outcomes": [
+        "G2 Esports",
+        "Karmine Corp"
+      ]
+    },
+    {
+      "rank": 17,
+      "title": "US x Iran Effective Ceasefire by September 4?",
+      "url": "https://polymarket.com/event/us-x-iran-effective-ceasefire-begins-byptptpt-2-week-pause",
+      "volume_24h": 141429.401286,
+      "volume_total": 363242.7195119997,
+      "liquidity": 51979.88,
+      "yes_price": 0.325,
+      "leader": {
+        "name": "No",
+        "price": 0.675
+      },
+      "end_date": "2026-09-04T23:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 18,
+      "title": "Putin out as President of Russia by September 30, 2026?",
+      "url": "https://polymarket.com/event/putin-out-before-2027",
+      "volume_24h": 130503.638366,
+      "volume_total": 968481.3859060002,
+      "liquidity": 102209.36066,
+      "yes_price": 0.0105,
+      "leader": {
+        "name": "No",
+        "price": 0.9895
+      },
+      "end_date": "2026-10-01T03:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 19,
+      "title": "Will Carlos Alcaraz win the 2026 Men's US Open?",
+      "url": "https://polymarket.com/event/2026-mens-us-open-winner-tennis",
+      "volume_24h": 126585.71984900002,
+      "volume_total": 1826545.6391019986,
+      "liquidity": 75554.4623,
+      "yes_price": 0.475,
+      "leader": {
+        "name": "No",
+        "price": 0.525
+      },
+      "end_date": "2026-09-13T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 20,
+      "title": "Will Abigail Spanberger win the 2028 Democratic presidential nomination?",
+      "url": "https://polymarket.com/event/democratic-presidential-nominee-2028",
+      "volume_24h": 126411.129,
+      "volume_total": 1429393.337166,
+      "liquidity": 2043600.10874,
+      "yes_price": 0.0015,
+      "leader": {
+        "name": "No",
+        "price": 0.9985
+      },
+      "end_date": "2028-11-07T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 21,
+      "title": "Will Chelsea FC win on 2026-09-06?",
+      "url": "https://polymarket.com/event/epl-ars-che-2026-09-06",
+      "volume_24h": 121813.13020900002,
+      "volume_total": 240440.8008130001,
+      "liquidity": 587949.1842,
+      "yes_price": 0.185,
+      "leader": {
+        "name": "No",
+        "price": 0.815
+      },
+      "end_date": "2026-09-06T15:30:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 22,
+      "title": "LoL: Ninjas in Pyjamas vs LGD Gaming (BO5) - LPL Playoffs",
+      "url": "https://polymarket.com/event/lol-nip-lgd-2026-09-06",
+      "volume_24h": 112299.43855600001,
+      "volume_total": 108939.68167199998,
+      "liquidity": 224926.7252,
+      "yes_price": 0.645,
+      "leader": {
+        "name": "Ninjas in Pyjamas",
+        "price": 0.645
+      },
+      "end_date": "2026-09-06T15:00:00Z",
+      "outcomes": [
+        "Ninjas in Pyjamas",
+        "LGD Gaming"
+      ]
+    },
+    {
+      "rank": 23,
+      "title": "Will Gamba Ōsaka win on 2026-09-06?",
+      "url": "https://polymarket.com/event/jap-jef-gam-2026-09-06",
+      "volume_24h": 111657.52073199998,
+      "volume_total": 111657.52073199996,
+      "liquidity": 110260.7667,
+      "yes_price": 0.505,
+      "leader": {
+        "name": "Yes",
+        "price": 0.505
+      },
+      "end_date": "2026-09-06T09:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 24,
+      "title": "Will Meta have the best AI model at the end of September 2026?",
+      "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-end-of-september-20260717143435868",
+      "volume_24h": 104611.32784500002,
+      "volume_total": 274391.78956400004,
+      "liquidity": 54111.51056,
+      "yes_price": 0.0035,
+      "leader": {
+        "name": "No",
+        "price": 0.9965
+      },
+      "end_date": "2026-10-01T03:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 25,
+      "title": "Spread: Valencia CF (-1.5)",
+      "url": "https://polymarket.com/event/lal-val-bar-2026-09-06-more-markets",
+      "volume_24h": 102109.05635200003,
+      "volume_total": 104415.69799100001,
+      "liquidity": 33835.58976,
+      "yes_price": 0.022,
+      "leader": {
+        "name": "FC Barcelona",
+        "price": 0.978
+      },
+      "end_date": "2026-09-06T14:15:00Z",
+      "outcomes": [
+        "Valencia CF",
+        "FC Barcelona"
+      ]
+    }
+  ]
+}
