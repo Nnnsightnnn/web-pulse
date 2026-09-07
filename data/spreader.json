@@ -1,39 +1,38 @@
 {
-  "date": "2026-09-06",
-  "generated_at": "2026-09-06T08:10:11.709Z",
-  "lede": "A quiet Sunday on the web with one real throughline. The story that actually crossed feeds was a gentle one: a one-minute clip of Charlotte Wainwright restoring old books, trending on Bluesky and Mastodon at the same hour and pitched openly as the opposite of grinding books up to feed AI. Underneath it the AI beat kept its steady drum, with a 'GPT-6 Astra on robot arms' demo working Hacker News and Product Hunt together, while the day's heaviest readership went somewhere much darker.",
+  "date": "2026-09-07",
+  "generated_at": "2026-09-07T05:22:27.714Z",
+  "lede": "Grand Theft Auto V surfaced on two feeds at once today, holding a Steam charts spot alongside a widely watched send-off video on YouTube that drew 448,090 views. The heaviest live crowd sat elsewhere: Counter-Strike 2 pulled 1,337,437 concurrent players on Steam, the day's single largest gathering. On Wikipedia, the most-read article was the killing of the Clancy children, at 466,193 views.",
   "throughlines": [
     {
-      "title": "Charlotte Wainwright, restoring old books",
-      "gist": "The day's one genuine cross-feed moment: a book-restoration clip framed as the anti-AI gesture, trending on Bluesky and Mastodon the same hour.",
+      "title": "Grand Theft Auto V Legacy",
+      "gist": "One game turning up across two feeds at once: a Steam charts placement and a heavily viewed farewell video on YouTube.",
       "sources": [
-        "bluesky",
-        "mastodon-trending"
+        "steam",
+        "youtube"
       ],
-      "url": "https://bsky.app/profile/arepublic86.bsky.social/post/3murzrilmqs2j",
-      "kind": "cluster"
-    },
-    {
-      "title": "GPT-6 Astra on robot arms",
-      "gist": "The AI beat's steady drumbeat: a robot-arm demo working Hacker News and Product Hunt at once.",
-      "sources": [
-        "hackernews",
-        "product-hunt"
-      ],
-      "url": "https://news.ycombinator.com/item?id=49582582",
+      "url": "https://store.steampowered.com/app/271590",
       "kind": "cluster"
     },
     {
       "title": "Killing of the Clancy children",
-      "gist": "A grim news story pulled the day's biggest audience: 988k Wikipedia views, far past anything else on the list.",
+      "gist": "The day's most-read Wikipedia article, at 466,193 views.",
       "sources": [
         "wikipedia"
       ],
       "url": "https://en.wikipedia.org/wiki/Killing_of_the_Clancy_children",
       "kind": "single"
+    },
+    {
+      "title": "affaan-m/ECC",
+      "gist": "Top of GitHub trending today, adding 1,485 stars, an agent-tooling project for Claude Code and similar assistants.",
+      "sources": [
+        "github"
+      ],
+      "url": "https://github.com/affaan-m/ECC",
+      "kind": "single"
     }
   ],
-  "strength": 82,
+  "strength": 34,
   "live_sources": 17,
   "total_sources": 17,
   "dashboard_url": "https://nnnsightnnn.github.io/web-pulse/",

@@ -1,7 +1,7 @@
 {
   "source": "google-trends",
   "label": "Google Trends — trending searches",
-  "fetched_at": "2026-09-06T08:09:01.329Z",
+  "fetched_at": "2026-09-06T08:10:10.799Z",
   "countries": [
     "US",
     "GB",
@@ -63,9 +63,9 @@
         "JP"
       ],
       "traffic_estimate": 2000,
-      "news_title": "【続報】頭部死球のカープ久保修外野手、球団が診断結果を説明",
-      "news_url": "https://www.chugoku-np.co.jp/articles/-/890771",
-      "news_source": "中国新聞デジタル"
+      "news_title": "「東備広域観光推進協議会」わがまち魅力発信隊 来場！！",
+      "news_url": "https://www.carp.co.jp/news/20260905_01",
+      "news_source": "広島東洋カープ公式サイト"
     },
     {
       "rank": 6,
@@ -157,28 +157,6 @@
     },
     {
       "rank": 14,
-      "title": "松本山雅fc",
-      "geos": [
-        "JP"
-      ],
-      "traffic_estimate": 1000,
-      "news_title": "【松本山雅】ホームでFC大阪と対戦 開幕から勝ちなし 初勝利をかけ（ＳＢＣ信越放送）",
-      "news_url": "https://news.yahoo.co.jp/articles/9719c0b8c80c43f10682f3b8b57f1131d68f7521",
-      "news_source": "Yahoo!ニュース"
-    },
-    {
-      "rank": 15,
-      "title": "鈴木奈々",
-      "geos": [
-        "JP"
-      ],
-      "traffic_estimate": 1000,
-      "news_title": "鈴木奈々、父親の顔出しショット公開「ダンディで素敵」「白パンツが似合うのカッコいい」と反響（モデルプレス）",
-      "news_url": "https://news.yahoo.co.jp/articles/ea34b4b08e9be08129e36d6c735f33cfd13564fc",
-      "news_source": "Yahoo!ニュース"
-    },
-    {
-      "rank": 16,
       "title": "a estranha na cama",
       "geos": [
         "BR"
@@ -189,7 +167,7 @@
       "news_source": "UOL"
     },
     {
-      "rank": 17,
+      "rank": 15,
       "title": "indonesien",
       "geos": [
         "DE"
@@ -200,7 +178,7 @@
       "news_source": "n-tv.de"
     },
     {
-      "rank": 18,
+      "rank": 16,
       "title": "nevaeh akira",
       "geos": [
         "US"
@@ -211,7 +189,7 @@
       "news_source": "Yahoo"
     },
     {
-      "rank": 19,
+      "rank": 17,
       "title": "draymond green",
       "geos": [
         "US"
@@ -222,7 +200,7 @@
       "news_source": "ESPN"
     },
     {
-      "rank": 20,
+      "rank": 18,
       "title": "curtis jones performance inter milan",
       "geos": [
         "GB"
@@ -233,7 +211,7 @@
       "news_source": "LiveScore"
     },
     {
-      "rank": 21,
+      "rank": 19,
       "title": "मायावती",
       "geos": [
         "IN"
@@ -244,7 +222,7 @@
       "news_source": "Dainik Bhaskar"
     },
     {
-      "rank": 22,
+      "rank": 20,
       "title": "ब्रिक्स",
       "geos": [
         "IN"
@@ -255,18 +233,18 @@
       "news_source": "AajTak"
     },
     {
-      "rank": 23,
-      "title": "柳沢慎吾",
+      "rank": 21,
+      "title": "明日天気",
       "geos": [
         "JP"
       ],
       "traffic_estimate": 500,
-      "news_title": "",
-      "news_url": "",
-      "news_source": ""
+      "news_title": "週間天気予報 秋雨前線が停滞 長雨による災害発生に警戒を",
+      "news_url": "https://weathernews.jp/news/202609/060161/",
+      "news_source": "ウェザーニュース"
     },
     {
-      "rank": 24,
+      "rank": 22,
       "title": "recent earthquakes",
       "geos": [
         "US"
@@ -277,7 +255,7 @@
       "news_source": "Morristown Green"
     },
     {
-      "rank": 25,
+      "rank": 23,
       "title": "earthquakes",
       "geos": [
         "US"
@@ -286,6 +264,28 @@
       "news_title": "3 offshore earthquakes recorded off the Oregon Coast Friday",
       "news_url": "https://www.koin.com/weather/3-offshore-earthquakes-recorded-off-the-oregon-coast-friday/",
       "news_source": "KOIN.com"
+    },
+    {
+      "rank": 24,
+      "title": "russian",
+      "geos": [
+        "GB"
+      ],
+      "traffic_estimate": 200,
+      "news_title": "Russia hits Ukrainian security headquarters in drone attack, Zelensky says",
+      "news_url": "https://www.bbc.co.uk/news/articles/c5yep7y48x2o",
+      "news_source": "BBC"
+    },
+    {
+      "rank": 25,
+      "title": "முட்டை",
+      "geos": [
+        "IN"
+      ],
+      "traffic_estimate": 200,
+      "news_title": "அமெரிக்க முட்டைகள் 20 ஆண்டுகளுக்குப் பிறகு மீண்டும் சிங்கப்பூரில் விற்பனை",
+      "news_url": "https://www.tamilmurasu.com.sg/singapore/american-eggs-back-sale-singapore-after-20-years",
+      "news_source": "Tamil Murasu"
     }
   ]
 }

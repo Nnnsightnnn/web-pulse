@@ -1,7 +1,7 @@
 {
   "source": "cloudflare-radar",
   "label": "Cloudflare Radar — top domains",
-  "fetched_at": "2026-09-06T08:10:10.779Z",
+  "fetched_at": "2026-09-07T05:22:50.831Z",
   "configured": true,
   "items": [
     {
@@ -96,20 +96,20 @@
     },
     {
       "rank": 11,
-      "title": "whatsapp.net",
-      "url": "https://whatsapp.net",
-      "category": "Instant Messengers",
-      "rank_delta_7d": 1,
-      "prev_rank_7d": 12,
+      "title": "amazon.com",
+      "url": "https://amazon.com",
+      "category": "Ecommerce",
+      "rank_delta_7d": 0,
+      "prev_rank_7d": 11,
       "is_new_to_top": false
     },
     {
       "rank": 12,
-      "title": "amazon.com",
-      "url": "https://amazon.com",
-      "category": "Ecommerce",
-      "rank_delta_7d": -1,
-      "prev_rank_7d": 11,
+      "title": "whatsapp.net",
+      "url": "https://whatsapp.net",
+      "category": "Instant Messengers",
+      "rank_delta_7d": 0,
+      "prev_rank_7d": 12,
       "is_new_to_top": false
     },
     {
@@ -144,8 +144,8 @@
       "title": "doubleclick.net",
       "url": "https://doubleclick.net",
       "category": "Trackers/Analytics",
-      "rank_delta_7d": 1,
-      "prev_rank_7d": 17,
+      "rank_delta_7d": 0,
+      "prev_rank_7d": 16,
       "is_new_to_top": false
     },
     {
@@ -153,8 +153,8 @@
       "title": "bing.com",
       "url": "https://bing.com",
       "category": "Search Engines",
-      "rank_delta_7d": -1,
-      "prev_rank_7d": 16,
+      "rank_delta_7d": 0,
+      "prev_rank_7d": 17,
       "is_new_to_top": false
     },
     {
@@ -168,18 +168,18 @@
     },
     {
       "rank": 19,
-      "title": "icloud.com",
-      "url": "https://icloud.com",
-      "category": "File Sharing",
-      "rank_delta_7d": 0,
-      "prev_rank_7d": 19,
+      "title": "akadns.net",
+      "url": "https://akadns.net",
+      "category": "Content Servers",
+      "rank_delta_7d": 1,
+      "prev_rank_7d": 20,
       "is_new_to_top": false
     },
     {
       "rank": 20,
-      "title": "akadns.net",
-      "url": "https://akadns.net",
-      "category": "Content Servers",
+      "title": "icloud.com",
+      "url": "https://icloud.com",
+      "category": "File Sharing",
       "rank_delta_7d": 1,
       "prev_rank_7d": 21,
       "is_new_to_top": false
@@ -189,8 +189,8 @@
       "title": "ntp.org",
       "url": "https://ntp.org",
       "category": "Technology",
-      "rank_delta_7d": -1,
-      "prev_rank_7d": 20,
+      "rank_delta_7d": -2,
+      "prev_rank_7d": 19,
       "is_new_to_top": false
     },
     {
@@ -204,11 +204,11 @@
     },
     {
       "rank": 23,
-      "title": "live.com",
-      "url": "https://live.com",
-      "category": "Technology",
-      "rank_delta_7d": 2,
-      "prev_rank_7d": 25,
+      "title": "aaplimg.com",
+      "url": "https://aaplimg.com",
+      "category": "Information Technology",
+      "rank_delta_7d": 0,
+      "prev_rank_7d": 23,
       "is_new_to_top": false
     },
     {
@@ -216,17 +216,17 @@
       "title": "cloudflare-dns.com",
       "url": "https://cloudflare-dns.com",
       "category": "Content Servers",
-      "rank_delta_7d": 0,
-      "prev_rank_7d": 24,
+      "rank_delta_7d": 1,
+      "prev_rank_7d": 25,
       "is_new_to_top": false
     },
     {
       "rank": 25,
-      "title": "aaplimg.com",
-      "url": "https://aaplimg.com",
-      "category": "Information Technology",
-      "rank_delta_7d": -2,
-      "prev_rank_7d": 23,
+      "title": "live.com",
+      "url": "https://live.com",
+      "category": "Technology",
+      "rank_delta_7d": -1,
+      "prev_rank_7d": 24,
       "is_new_to_top": false
     }
   ]

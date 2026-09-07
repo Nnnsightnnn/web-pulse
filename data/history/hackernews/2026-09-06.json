@@ -1,15 +1,15 @@
 {
   "source": "hackernews",
   "label": "Hacker News — top stories",
-  "fetched_at": "2026-09-06T08:09:01.323Z",
+  "fetched_at": "2026-09-06T08:10:10.661Z",
   "items": [
     {
       "rank": 1,
       "title": "Cloud in a Bottle: making self-hosting accessible to everyone",
       "url": "https://cloudinabottle.org/blog/launch-post",
       "hn_url": "https://news.ycombinator.com/item?id=49582000",
-      "score": 353,
-      "comments": 160,
+      "score": 354,
+      "comments": 161,
       "author": "zplizzi"
     },
     {
@@ -26,7 +26,7 @@
       "title": "Music Theory for Programmers",
       "url": "https://runjs.app/blog/music-theory-for-programmers",
       "hn_url": "https://news.ycombinator.com/item?id=49541888",
-      "score": 83,
+      "score": 85,
       "comments": 31,
       "author": "birdculture"
     },
@@ -44,21 +44,12 @@
       "title": "OpenBSD Stories: Strange Medieval Devices",
       "url": "http://miod.online.fr/software/openbsd/stories/smd.html",
       "hn_url": "https://news.ycombinator.com/item?id=49539759",
-      "score": 53,
+      "score": 54,
       "comments": 10,
       "author": "zdw"
     },
     {
       "rank": 6,
-      "title": "Site Is Closed on Sundays",
-      "url": "https://v7.robweychert.com/",
-      "hn_url": "https://news.ycombinator.com/item?id=49583842",
-      "score": 58,
-      "comments": 47,
-      "author": "edent"
-    },
-    {
-      "rank": 7,
       "title": "Watch the 'Eclipse of the Century' Next Year When Spain, Egypt and More Go Dark",
       "url": "https://www.nytimes.com/2026/08/13/travel/solar-eclipse-2027-morocco-egypt.html",
       "hn_url": "https://news.ycombinator.com/item?id=49535634",
@@ -67,13 +58,22 @@
       "author": "bookofjoe"
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "AMD Based FreeBSD Desktop Reloaded",
       "url": "https://vermaden.wordpress.com/2026/09/06/amd-based-freebsd-desktop-reloaded/",
       "hn_url": "https://news.ycombinator.com/item?id=49582719",
-      "score": 38,
+      "score": 39,
       "comments": 0,
       "author": "vermaden"
+    },
+    {
+      "rank": 8,
+      "title": "Site Is Closed on Sundays",
+      "url": "https://v7.robweychert.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=49583842",
+      "score": 58,
+      "comments": 49,
+      "author": "edent"
     },
     {
       "rank": 9,
@@ -89,36 +89,36 @@
       "title": "Chrome again exempts Google from user site data settings",
       "url": "https://lapcatsoftware.com/articles/2026/9/1.html",
       "hn_url": "https://news.ycombinator.com/item?id=49581870",
-      "score": 343,
+      "score": 345,
       "comments": 48,
       "author": "ExMachina73"
     },
     {
       "rank": 11,
-      "title": "GPT-6 Astra on robot arms",
-      "url": "https://openai.robocurve.org/gpt-6-astra/",
-      "hn_url": "https://news.ycombinator.com/item?id=49582582",
-      "score": 165,
-      "comments": 116,
-      "author": "Anon84"
-    },
-    {
-      "rank": 12,
       "title": "Learn Programming with OCaml",
       "url": "https://usr.lmf.cnrs.fr/lpo/",
       "hn_url": "https://news.ycombinator.com/item?id=49578280",
-      "score": 243,
+      "score": 244,
       "comments": 91,
       "author": "elvis70"
     },
     {
-      "rank": 13,
+      "rank": 12,
       "title": "Discovery of a new OpenAI agent message board",
       "url": "https://collusion.wiki/",
       "hn_url": "https://news.ycombinator.com/item?id=49563355",
       "score": 2175,
-      "comments": 1538,
+      "comments": 1539,
       "author": "moultano"
+    },
+    {
+      "rank": 13,
+      "title": "GPT-6 Astra on robot arms",
+      "url": "https://openai.robocurve.org/gpt-6-astra/",
+      "hn_url": "https://news.ycombinator.com/item?id=49582582",
+      "score": 165,
+      "comments": 119,
+      "author": "Anon84"
     },
     {
       "rank": 14,
@@ -152,7 +152,7 @@
       "title": "Nitter has more working instances than before the takedowns",
       "url": "https://codeberg.org/mv12star/shitter/wiki/Instances",
       "hn_url": "https://news.ycombinator.com/item?id=49571634",
-      "score": 674,
+      "score": 675,
       "comments": 332,
       "author": "Cider9986"
     },
