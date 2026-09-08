@@ -1,38 +1,38 @@
 {
-  "date": "2026-09-07",
-  "generated_at": "2026-09-07T05:22:27.714Z",
-  "lede": "Grand Theft Auto V surfaced on two feeds at once today, holding a Steam charts spot alongside a widely watched send-off video on YouTube that drew 448,090 views. The heaviest live crowd sat elsewhere: Counter-Strike 2 pulled 1,337,437 concurrent players on Steam, the day's single largest gathering. On Wikipedia, the most-read article was the killing of the Clancy children, at 466,193 views.",
+  "date": "2026-09-08",
+  "generated_at": "2026-09-08T05:24:27.779Z",
+  "lede": "The clearest signal Tuesday is a name resurfacing across two unrelated feeds: Elizabeth Holmes drew 642,791 Wikipedia views and climbed YouTube at the same time, both pulled up by the teaser for 'You Can See Everything,' a Nathan Fielder project. Away from that, the web kept its usual rhythm. Counter-Strike 2 held the top of Steam with 1,226,877 players, and a small GitHub repo, hyperframes, which turns HTML into video for AI agents, gathered 474 stars in a day.",
   "throughlines": [
     {
-      "title": "Grand Theft Auto V Legacy",
-      "gist": "One game turning up across two feeds at once: a Steam charts placement and a heavily viewed farewell video on YouTube.",
+      "title": "Elizabeth Holmes",
+      "gist": "The Theranos figure is back in circulation, lifted across Wikipedia and YouTube by the teaser for the Nathan Fielder film 'You Can See Everything.'",
       "sources": [
-        "steam",
+        "wikipedia",
         "youtube"
       ],
-      "url": "https://store.steampowered.com/app/271590",
+      "url": "https://en.wikipedia.org/wiki/Elizabeth_Holmes",
       "kind": "cluster"
     },
     {
-      "title": "Killing of the Clancy children",
-      "gist": "The day's most-read Wikipedia article, at 466,193 views.",
-      "sources": [
-        "wikipedia"
-      ],
-      "url": "https://en.wikipedia.org/wiki/Killing_of_the_Clancy_children",
-      "kind": "single"
-    },
-    {
-      "title": "affaan-m/ECC",
-      "gist": "Top of GitHub trending today, adding 1,485 stars, an agent-tooling project for Claude Code and similar assistants.",
+      "title": "heygen-com/hyperframes",
+      "gist": "A tool that writes HTML and renders it to video, built for AI agents, topped GitHub trending with 474 stars today.",
       "sources": [
         "github"
       ],
-      "url": "https://github.com/affaan-m/ECC",
+      "url": "https://github.com/heygen-com/hyperframes",
+      "kind": "single"
+    },
+    {
+      "title": "I've factored the RSA keys of a Certificate Authority from the 90s",
+      "gist": "A researcher factored the RSA keys of a 1990s certificate authority, a reminder of how much old cryptography is quietly still in play; 210 points and 38 comments on Hacker News.",
+      "sources": [
+        "hackernews"
+      ],
+      "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
       "kind": "single"
     }
   ],
-  "strength": 34,
+  "strength": 82,
   "live_sources": 17,
   "total_sources": 17,
   "dashboard_url": "https://nnnsightnnn.github.io/web-pulse/",

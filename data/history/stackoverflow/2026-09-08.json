@@ -1,0 +1,330 @@
+{
+  "source": "stackoverflow",
+  "label": "Stack Overflow — hot questions",
+  "fetched_at": "2026-09-08T05:23:50.589Z",
+  "items": [
+    {
+      "rank": 1,
+      "title": "go 1.27 might modify go.work.sum on start?",
+      "url": "https://stackoverflow.com/questions/80001538/go-1-27-might-modify-go-work-sum-on-start",
+      "score": 0,
+      "answers": 0,
+      "views": 17,
+      "tags": [
+        "go",
+        "go-work"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Why does TypeScript lose the correlation between a discriminant and a generic payload?",
+      "url": "https://stackoverflow.com/questions/80001525/why-does-typescript-lose-the-correlation-between-a-discriminant-and-a-generic-pa",
+      "score": 0,
+      "answers": 1,
+      "views": 34,
+      "tags": [
+        "typescript",
+        "generics",
+        "api-design",
+        "type-safety",
+        "discriminated-union"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Apple App Review Would this anonymous social app rejected Guideline 1.2?",
+      "url": "https://stackoverflow.com/questions/80001527/apple-app-review-would-this-anonymous-social-app-rejected-guideline-1-2",
+      "score": 0,
+      "answers": 0,
+      "views": 28,
+      "tags": [
+        "app-store"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Designing a Future Message System with Flutter and Firebase Firestore",
+      "url": "https://stackoverflow.com/questions/80001523/designing-a-future-message-system-with-flutter-and-firebase-firestore",
+      "score": -3,
+      "answers": 0,
+      "views": 45,
+      "tags": [
+        "tooling-recommendation"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "QUIC protocoal - qvis is not loading qlog files generated from pcap2qlog",
+      "url": "https://stackoverflow.com/questions/80001516/quic-protocoal-qvis-is-not-loading-qlog-files-generated-from-pcap2qlog",
+      "score": -2,
+      "answers": 0,
+      "views": 35,
+      "tags": [
+        "quic"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Isolcores being run at min_freq and not respecting the cpupower config?",
+      "url": "https://stackoverflow.com/questions/80001522/isolcores-being-run-at-min-freq-and-not-respecting-the-cpupower-config",
+      "score": -3,
+      "answers": 0,
+      "views": 28,
+      "tags": [
+        "linux-kernel",
+        "driver",
+        "cpu",
+        "intel"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "How to achieve absolute positioning in Angular",
+      "url": "https://stackoverflow.com/questions/80001497/how-to-achieve-absolute-positioning-in-angular",
+      "score": -4,
+      "answers": 1,
+      "views": 78,
+      "tags": [
+        "html",
+        "css",
+        "angular"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Recommended approach for configurable HTTP traffic logging in Spring WebFlux?",
+      "url": "https://stackoverflow.com/questions/80001514/recommended-approach-for-configurable-http-traffic-logging-in-spring-webflux",
+      "score": -2,
+      "answers": 0,
+      "views": 43,
+      "tags": [
+        "best-practices",
+        "java",
+        "spring",
+        "logging",
+        "spring-webflux"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Accessing struct members via pointer is not constant expression?",
+      "url": "https://stackoverflow.com/questions/80001443/accessing-struct-members-via-pointer-is-not-constant-expression",
+      "score": 1,
+      "answers": 2,
+      "views": 149,
+      "tags": [
+        "c++",
+        "constexpr",
+        "c++26"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "When i build my dockerfile, I have a problem like this, It is called Docker problem",
+      "url": "https://stackoverflow.com/questions/80001500/when-i-build-my-dockerfile-i-have-a-problem-like-this-it-is-called-docker-prob",
+      "score": -5,
+      "answers": 0,
+      "views": 71,
+      "tags": [
+        "c#",
+        ".net",
+        "docker",
+        "asp.net-core",
+        "command-line-interface"
+      ]
+    },
+    {
+      "rank": 11,
+      "title": "Documentation of pandas DataFrame.replace with series as input",
+      "url": "https://stackoverflow.com/questions/80001493/documentation-of-pandas-dataframe-replace-with-series-as-input",
+      "score": 0,
+      "answers": 0,
+      "views": 37,
+      "tags": [
+        "python",
+        "pandas",
+        "dataframe"
+      ]
+    },
+    {
+      "rank": 12,
+      "title": "Why does clang use fsub.4s for a single scalar subtraction? How can I prevent this?",
+      "url": "https://stackoverflow.com/questions/80001502/why-does-clang-use-fsub-4s-for-a-single-scalar-subtraction-how-can-i-prevent-th",
+      "score": 1,
+      "answers": 0,
+      "views": 83,
+      "tags": [
+        "c",
+        "arm",
+        "clang",
+        "simd",
+        "neon"
+      ]
+    },
+    {
+      "rank": 13,
+      "title": "Can <a> and <input> cooperate without JS?",
+      "url": "https://stackoverflow.com/questions/80001472/can-a-and-input-cooperate-without-js",
+      "score": -1,
+      "answers": 2,
+      "views": 78,
+      "tags": [
+        "html"
+      ]
+    },
+    {
+      "rank": 14,
+      "title": "Is :customer_id really all I need to securely isolate client data in CustomerDashboard.io?",
+      "url": "https://stackoverflow.com/questions/80001480/is-customer-id-really-all-i-need-to-securely-isolate-client-data-in-customerdas",
+      "score": 1,
+      "answers": 3,
+      "views": 55,
+      "tags": [
+        "best-practices",
+        "sql",
+        "analytics",
+        "dashboard",
+        "saas"
+      ]
+    },
+    {
+      "rank": 15,
+      "title": "C17 vs C23: () function pointer error - Is this the correct fix?",
+      "url": "https://stackoverflow.com/questions/80001459/c17-vs-c23-function-pointer-error-is-this-the-correct-fix",
+      "score": 1,
+      "answers": 1,
+      "views": 123,
+      "tags": [
+        "c",
+        "c23",
+        "c17"
+      ]
+    },
+    {
+      "rank": 16,
+      "title": "How to display the time of a stopwatch in GODOT 4.7",
+      "url": "https://stackoverflow.com/questions/80001501/how-to-display-the-time-of-a-stopwatch-in-godot-4-7",
+      "score": 0,
+      "answers": 0,
+      "views": 45,
+      "tags": [
+        "game-development",
+        "godot",
+        "godot4"
+      ]
+    },
+    {
+      "rank": 17,
+      "title": "How to make a cursorRight keybinding work in VS Code quick open?",
+      "url": "https://stackoverflow.com/questions/80001489/how-to-make-a-cursorright-keybinding-work-in-vs-code-quick-open",
+      "score": 0,
+      "answers": 0,
+      "views": 37,
+      "tags": [
+        "vs-code",
+        "key-bindings",
+        "vscode-keybinding"
+      ]
+    },
+    {
+      "rank": 18,
+      "title": "What does “normal random sampling” mean in LLM text generation?",
+      "url": "https://stackoverflow.com/questions/80001483/what-does-normal-random-sampling-mean-in-llm-text-generation",
+      "score": -3,
+      "answers": 0,
+      "views": 49,
+      "tags": [
+        "random",
+        "sampling",
+        "large-language-model"
+      ]
+    },
+    {
+      "rank": 19,
+      "title": "Word VBA project loads very slowly",
+      "url": "https://stackoverflow.com/questions/80001490/word-vba-project-loads-very-slowly",
+      "score": -4,
+      "answers": 0,
+      "views": 47,
+      "tags": [
+        "vba",
+        "performance",
+        "ms-word",
+        "load"
+      ]
+    },
+    {
+      "rank": 20,
+      "title": "How do I make my compiler not auto-close in CodeBlocks?",
+      "url": "https://stackoverflow.com/questions/80001455/how-do-i-make-my-compiler-not-auto-close-in-codeblocks",
+      "score": -4,
+      "answers": 0,
+      "views": 74,
+      "tags": [
+        "codeblocks"
+      ]
+    },
+    {
+      "rank": 21,
+      "title": "Type hint a default return type used unless more specific overload exists",
+      "url": "https://stackoverflow.com/questions/80001437/type-hint-a-default-return-type-used-unless-more-specific-overload-exists",
+      "score": 3,
+      "answers": 1,
+      "views": 98,
+      "tags": [
+        "python",
+        "python-typing"
+      ]
+    },
+    {
+      "rank": 22,
+      "title": "Is there a way to make scipy.optimize.minimize(method='trust-constr') accurate?",
+      "url": "https://stackoverflow.com/questions/80001416/is-there-a-way-to-make-scipy-optimize-minimizemethod-trust-constr-accurate",
+      "score": 1,
+      "answers": 1,
+      "views": 63,
+      "tags": [
+        "scipy",
+        "scipy-optimize",
+        "scipy-optimize-minimize"
+      ]
+    },
+    {
+      "rank": 23,
+      "title": "Google Cloud Console: \"Your app's configuration is incomplete\" warning on OAuth Audience page",
+      "url": "https://stackoverflow.com/questions/80001491/google-cloud-console-your-apps-configuration-is-incomplete-warning-on-oauth",
+      "score": -3,
+      "answers": 0,
+      "views": 30,
+      "tags": [
+        "google-cloud-platform",
+        "oauth-2.0"
+      ]
+    },
+    {
+      "rank": 24,
+      "title": "beforeinstallprompt never fires on Chrome Android and Samsung Internet although PWA setup appears valid",
+      "url": "https://stackoverflow.com/questions/80001492/beforeinstallprompt-never-fires-on-chrome-android-and-samsung-internet-although",
+      "score": 1,
+      "answers": 0,
+      "views": 21,
+      "tags": [
+        "progressive-web-apps",
+        "service-worker",
+        "beforeinstallprompt",
+        "google-chrome-android"
+      ]
+    },
+    {
+      "rank": 25,
+      "title": "How count different breeds per run in Behavior Space",
+      "url": "https://stackoverflow.com/questions/80001463/how-count-different-breeds-per-run-in-behavior-space",
+      "score": -2,
+      "answers": 0,
+      "views": 46,
+      "tags": [
+        "netlogo"
+      ]
+    }
+  ]
+}
