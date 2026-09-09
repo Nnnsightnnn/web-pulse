@@ -1,38 +1,40 @@
 {
-  "date": "2026-09-08",
-  "generated_at": "2026-09-08T05:24:27.779Z",
-  "lede": "The clearest signal Tuesday is a name resurfacing across two unrelated feeds: Elizabeth Holmes drew 642,791 Wikipedia views and climbed YouTube at the same time, both pulled up by the teaser for 'You Can See Everything,' a Nathan Fielder project. Away from that, the web kept its usual rhythm. Counter-Strike 2 held the top of Steam with 1,226,877 players, and a small GitHub repo, hyperframes, which turns HTML into video for AI agents, gathered 474 stars in a day.",
+  "date": "2026-09-09",
+  "generated_at": "2026-09-09T05:23:37.961Z",
+  "lede": "One story pulled two different feeds the same way this Wednesday, September 9: Ben Shelton's US Open match against Carlos Alcaraz spiked on Google Trends and opened as a live market on Polymarket in the same window. In AI, Meta's launch of a personal agent called Muse carried from the news wires into a 409-point thread on Hacker News. Gamers stayed put, with Counter-Strike 2 holding the largest live crowd on Steam at just over 1.24 million concurrent players.",
   "throughlines": [
     {
-      "title": "Elizabeth Holmes",
-      "gist": "The Theranos figure is back in circulation, lifted across Wikipedia and YouTube by the teaser for the Nathan Fielder film 'You Can See Everything.'",
+      "title": "ben shelton",
+      "gist": "A US Open match between Ben Shelton and Carlos Alcaraz drove a search spike and a live betting market in the same window, the day's clearest cross-feed signal.",
       "sources": [
-        "wikipedia",
-        "youtube"
+        "google-trends",
+        "polymarket"
       ],
-      "url": "https://en.wikipedia.org/wiki/Elizabeth_Holmes",
+      "url": "https://www.bbc.co.uk/sport/tennis/articles/c86xgxenyz9o",
       "kind": "cluster"
     },
     {
-      "title": "heygen-com/hyperframes",
-      "gist": "A tool that writes HTML and renders it to video, built for AI agents, topped GitHub trending with 474 stars today.",
+      "title": "Muse – Meta’s personal AI agent",
+      "gist": "Meta's new personal AI agent, Muse, pitched around safety and privacy, moved from news coverage into a 409-point discussion on Hacker News.",
       "sources": [
-        "github"
-      ],
-      "url": "https://github.com/heygen-com/hyperframes",
-      "kind": "single"
-    },
-    {
-      "title": "I've factored the RSA keys of a Certificate Authority from the 90s",
-      "gist": "A researcher factored the RSA keys of a 1990s certificate authority, a reminder of how much old cryptography is quietly still in play; 210 points and 38 comments on Hacker News.",
-      "sources": [
+        "gdelt-ai",
         "hackernews"
       ],
-      "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
-      "kind": "single"
+      "url": "https://news.ycombinator.com/item?id=49615537",
+      "kind": "cluster"
+    },
+    {
+      "title": "Not a comic [Jim K Benton]",
+      "gist": "A single Jim K Benton webcomic surfaced on both Lemmy and Mastodon's trending lists at the same time.",
+      "sources": [
+        "lemmy",
+        "mastodon-trending"
+      ],
+      "url": "https://lemmy.world/post/51676403",
+      "kind": "cluster"
     }
   ],
-  "strength": 82,
+  "strength": 100,
   "live_sources": 17,
   "total_sources": 17,
   "dashboard_url": "https://nnnsightnnn.github.io/web-pulse/",

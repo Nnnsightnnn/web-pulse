@@ -1,0 +1,330 @@
+{
+  "source": "stackoverflow",
+  "label": "Stack Overflow — hot questions",
+  "fetched_at": "2026-09-09T05:23:36.789Z",
+  "items": [
+    {
+      "rank": 1,
+      "title": "Why does unity de-allocate the reference to my sprite image on play",
+      "url": "https://stackoverflow.com/questions/80001819/why-does-unity-de-allocate-the-reference-to-my-sprite-image-on-play",
+      "score": 0,
+      "answers": 0,
+      "views": 23,
+      "tags": [
+        "c#",
+        "unity-game-engine"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Unable to log in to npm account — 2FA security key required but I don't have one",
+      "url": "https://stackoverflow.com/questions/80001812/unable-to-log-in-to-npm-account-2fa-security-key-required-but-i-dont-have-one",
+      "score": -3,
+      "answers": 0,
+      "views": 32,
+      "tags": [
+        "npm"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "MongoDB <-> Postgresql two-way CDC with schema mapping",
+      "url": "https://stackoverflow.com/questions/80001809/mongodb-postgresql-two-way-cdc-with-schema-mapping",
+      "score": -1,
+      "answers": 0,
+      "views": 32,
+      "tags": [
+        "best-practices",
+        "database",
+        "postgresql",
+        "mongodb",
+        "apache-kafka-connect"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Why doesn't setting \"justMyCode\": false allow my breakpoint to work?",
+      "url": "https://stackoverflow.com/questions/80001810/why-doesnt-setting-justmycode-false-allow-my-breakpoint-to-work",
+      "score": 0,
+      "answers": 0,
+      "views": 26,
+      "tags": [
+        "python",
+        "debugpy"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Compiler complaining about non-copy-assignable type despite a condition ensuring it is",
+      "url": "https://stackoverflow.com/questions/80001781/compiler-complaining-about-non-copy-assignable-type-despite-a-condition-ensuring",
+      "score": 1,
+      "answers": 1,
+      "views": 56,
+      "tags": [
+        "c++",
+        "c++11",
+        "gcc",
+        "compiler-warnings",
+        "memmove"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "How to Rename an Intellij Project?",
+      "url": "https://stackoverflow.com/questions/80001800/how-to-rename-an-intellij-project",
+      "score": 1,
+      "answers": 2,
+      "views": 44,
+      "tags": [
+        "java",
+        "intellij-idea"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Best messaging pattern for server that spawns multiple workers",
+      "url": "https://stackoverflow.com/questions/80001801/best-messaging-pattern-for-server-that-spawns-multiple-workers",
+      "score": 0,
+      "answers": 0,
+      "views": 58,
+      "tags": [
+        "tooling-recommendation",
+        "c++",
+        "windows",
+        "ipc",
+        "zeromq"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Use CSS to hide/show arbitrary elements via data attributes?",
+      "url": "https://stackoverflow.com/questions/80001772/use-css-to-hide-show-arbitrary-elements-via-data-attributes",
+      "score": 3,
+      "answers": 2,
+      "views": 68,
+      "tags": [
+        "css",
+        "css-selectors"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Having trouble setting up a dockerfile",
+      "url": "https://stackoverflow.com/questions/80001784/having-trouble-setting-up-a-dockerfile",
+      "score": -3,
+      "answers": 0,
+      "views": 80,
+      "tags": [
+        "docker",
+        "turborepo"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Restoring citus cluster backup with pgbackrest hangs indefinitely",
+      "url": "https://stackoverflow.com/questions/80001799/restoring-citus-cluster-backup-with-pgbackrest-hangs-indefinitely",
+      "score": 0,
+      "answers": 0,
+      "views": 12,
+      "tags": [
+        "postgresql",
+        "citus",
+        "pgbackrest"
+      ]
+    },
+    {
+      "rank": 11,
+      "title": "How to handle invalid non-integer input in C using scanf return value and input buffer cleanup?",
+      "url": "https://stackoverflow.com/questions/80001693/how-to-handle-invalid-non-integer-input-in-c-using-scanf-return-value-and-input",
+      "score": 0,
+      "answers": 1,
+      "views": 117,
+      "tags": [
+        "c",
+        "validation",
+        "input",
+        "scanf",
+        "buffer"
+      ]
+    },
+    {
+      "rank": 12,
+      "title": "How to crop 100 photos simultaneously",
+      "url": "https://stackoverflow.com/questions/80001778/how-to-crop-100-photos-simultaneously",
+      "score": -5,
+      "answers": 0,
+      "views": 73,
+      "tags": [
+        "crop",
+        "photo",
+        "bulk"
+      ]
+    },
+    {
+      "rank": 13,
+      "title": "Add a named element conditionally in a list",
+      "url": "https://stackoverflow.com/questions/80001748/add-a-named-element-conditionally-in-a-list",
+      "score": 5,
+      "answers": 2,
+      "views": 103,
+      "tags": [
+        "r",
+        "list",
+        "if-statement"
+      ]
+    },
+    {
+      "rank": 14,
+      "title": "WebViewer2 won't show web reports to simultaneous users",
+      "url": "https://stackoverflow.com/questions/80001777/webviewer2-wont-show-web-reports-to-simultaneous-users",
+      "score": -2,
+      "answers": 0,
+      "views": 35,
+      "tags": [
+        "webview2"
+      ]
+    },
+    {
+      "rank": 15,
+      "title": "An unexpected error with number 1000 has occurred: Not authenticated: NotSignedIn",
+      "url": "https://stackoverflow.com/questions/80001775/an-unexpected-error-with-number-1000-has-occurred-not-authenticated-notsignedi",
+      "score": -1,
+      "answers": 0,
+      "views": 34,
+      "tags": [
+        "delphi",
+        "rad-studio",
+        "delphi-13-florence"
+      ]
+    },
+    {
+      "rank": 16,
+      "title": "Why is Python able to perform a bitwise and on LSB of 16 bit value instead of the 8MSBs?",
+      "url": "https://stackoverflow.com/questions/80001733/why-is-python-able-to-perform-a-bitwise-and-on-lsb-of-16-bit-value-instead-of-th",
+      "score": -3,
+      "answers": 1,
+      "views": 83,
+      "tags": [
+        "python",
+        "bitwise-operators"
+      ]
+    },
+    {
+      "rank": 17,
+      "title": "SQL Queries for CRUD Operations",
+      "url": "https://stackoverflow.com/questions/80001757/sql-queries-for-crud-operations",
+      "score": -4,
+      "answers": 0,
+      "views": 65,
+      "tags": [
+        "php",
+        "sql"
+      ]
+    },
+    {
+      "rank": 18,
+      "title": "Lenovo is no longer getting Wi-Fi",
+      "url": "https://stackoverflow.com/questions/80001758/lenovo-is-no-longer-getting-wi-fi",
+      "score": -4,
+      "answers": 0,
+      "views": 56,
+      "tags": [
+        "advice",
+        "wifi"
+      ]
+    },
+    {
+      "rank": 19,
+      "title": "Full documentation for the 'PS1' syntax used in 'adb shell'",
+      "url": "https://stackoverflow.com/questions/80001761/full-documentation-for-the-ps1-syntax-used-in-adb-shell",
+      "score": 2,
+      "answers": 0,
+      "views": 49,
+      "tags": [
+        "android",
+        "shell",
+        "adb",
+        "ps1"
+      ]
+    },
+    {
+      "rank": 20,
+      "title": "How do I automatically approve \"low risk\" Github Copilot commands in VS Code?",
+      "url": "https://stackoverflow.com/questions/80001736/how-do-i-automatically-approve-low-risk-github-copilot-commands-in-vs-code",
+      "score": 2,
+      "answers": 1,
+      "views": 75,
+      "tags": [
+        "vs-code",
+        "github-copilot",
+        "vscode-copilot"
+      ]
+    },
+    {
+      "rank": 21,
+      "title": "If statement evaluates to false unexpectedly",
+      "url": "https://stackoverflow.com/questions/80001721/if-statement-evaluates-to-false-unexpectedly",
+      "score": -2,
+      "answers": 1,
+      "views": 106,
+      "tags": [
+        "c#",
+        "asp.net",
+        "linq",
+        "if-statement",
+        "debugging"
+      ]
+    },
+    {
+      "rank": 22,
+      "title": "Textures mismatched after exporting model from Prisma3D → Blender → LibGDX",
+      "url": "https://stackoverflow.com/questions/80001709/textures-mismatched-after-exporting-model-from-prisma3d-%e2%86%92-blender-%e2%86%92-libgdx",
+      "score": -3,
+      "answers": 0,
+      "views": 32,
+      "tags": [
+        "libgdx",
+        "textures",
+        "blender"
+      ]
+    },
+    {
+      "rank": 23,
+      "title": "I have two elements with JavaScript: one is inside of another and they are layering",
+      "url": "https://stackoverflow.com/questions/80001730/i-have-two-elements-with-javascript-one-is-inside-of-another-and-they-are-layer",
+      "score": -5,
+      "answers": 0,
+      "views": 93,
+      "tags": [
+        "javascript",
+        "html"
+      ]
+    },
+    {
+      "rank": 24,
+      "title": "How to update a SwiftUI View generated from a subclass",
+      "url": "https://stackoverflow.com/questions/80001738/how-to-update-a-swiftui-view-generated-from-a-subclass",
+      "score": 2,
+      "answers": 1,
+      "views": 54,
+      "tags": [
+        "best-practices",
+        "swift",
+        "swiftui"
+      ]
+    },
+    {
+      "rank": 25,
+      "title": "Roblox Luau Script Suddenly Stops Working After an Update",
+      "url": "https://stackoverflow.com/questions/80001742/roblox-luau-script-suddenly-stops-working-after-an-update",
+      "score": -4,
+      "answers": 0,
+      "views": 46,
+      "tags": [
+        "scripting",
+        "roblox",
+        "malware-detection"
+      ]
+    }
+  ]
+}
