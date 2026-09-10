@@ -1,36 +1,36 @@
 {
-  "date": "2026-09-09",
-  "generated_at": "2026-09-09T05:23:37.961Z",
-  "lede": "One story pulled two different feeds the same way this Wednesday, September 9: Ben Shelton's US Open match against Carlos Alcaraz spiked on Google Trends and opened as a live market on Polymarket in the same window. In AI, Meta's launch of a personal agent called Muse carried from the news wires into a 409-point thread on Hacker News. Gamers stayed put, with Counter-Strike 2 holding the largest live crowd on Steam at just over 1.24 million concurrent players.",
+  "date": "2026-09-10",
+  "generated_at": "2026-09-10T05:23:19.680Z",
+  "lede": "Counter-Strike 2 was the day's clearest signal, holding first on Steam with 1,330,410 players online at once while its pro matches drew betting on Polymarket. Two other stories bridged separate feeds: No Man's Sky shipped its Cosmos update, turning up on both Hacker News and YouTube, and talk of GPT-6 Astra ran across Hacker News and Product Hunt. Quieter but telling, Apple's iPhone Duo topped Hacker News with 1,882 comments, and a small Python repo, ayghri/i-have-adhd, led GitHub trending with 4,650 new stars.",
   "throughlines": [
     {
-      "title": "ben shelton",
-      "gist": "A US Open match between Ben Shelton and Carlos Alcaraz drove a search spike and a live betting market in the same window, the day's clearest cross-feed signal.",
+      "title": "Counter-Strike 2",
+      "gist": "Valve's shooter held the top of Steam's live charts with over 1.3 million concurrent players while its competitive matches drew money on Polymarket, the same game showing up as both play and wager.",
       "sources": [
-        "google-trends",
-        "polymarket"
+        "polymarket",
+        "steam"
       ],
-      "url": "https://www.bbc.co.uk/sport/tennis/articles/c86xgxenyz9o",
+      "url": "https://store.steampowered.com/app/730",
       "kind": "cluster"
     },
     {
-      "title": "Muse – Meta’s personal AI agent",
-      "gist": "Meta's new personal AI agent, Muse, pitched around safety and privacy, moved from news coverage into a 409-point discussion on Hacker News.",
+      "title": "No Man's Sky Cosmos",
+      "gist": "The game's Cosmos update landed the same day across a Hacker News thread and a YouTube trailer, a sign a years-old title still pulls a crowd with each major patch.",
       "sources": [
-        "gdelt-ai",
-        "hackernews"
+        "hackernews",
+        "youtube"
       ],
-      "url": "https://news.ycombinator.com/item?id=49615537",
+      "url": "https://news.ycombinator.com/item?id=49628493",
       "kind": "cluster"
     },
     {
-      "title": "Not a comic [Jim K Benton]",
-      "gist": "A single Jim K Benton webcomic surfaced on both Lemmy and Mastodon's trending lists at the same time.",
+      "title": "GPT-6 Astra",
+      "gist": "Chatter about OpenAI's GPT-6 Astra, with its looped-transformer and hidden-reasoning claims, surfaced on Hacker News and Product Hunt at once, the dual appearance that tends to mark a model launch gaining traction.",
       "sources": [
-        "lemmy",
-        "mastodon-trending"
+        "hackernews",
+        "product-hunt"
       ],
-      "url": "https://lemmy.world/post/51676403",
+      "url": "https://news.ycombinator.com/item?id=49627370",
       "kind": "cluster"
     }
   ],
