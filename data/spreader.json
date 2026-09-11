@@ -1,40 +1,37 @@
 {
-  "date": "2026-09-10",
-  "generated_at": "2026-09-10T05:23:19.680Z",
-  "lede": "Counter-Strike 2 was the day's clearest signal, holding first on Steam with 1,330,410 players online at once while its pro matches drew betting on Polymarket. Two other stories bridged separate feeds: No Man's Sky shipped its Cosmos update, turning up on both Hacker News and YouTube, and talk of GPT-6 Astra ran across Hacker News and Product Hunt. Quieter but telling, Apple's iPhone Duo topped Hacker News with 1,882 comments, and a small Python repo, ayghri/i-have-adhd, led GitHub trending with 4,650 new stars.",
+  "date": "2026-09-11",
+  "generated_at": "2026-09-11T05:23:22.936Z",
+  "lede": "The web didn't converge today. Across 17 sources there were 17 separate conversations, and not one topic crossed feeds. The single loudest signal sat on Wikipedia, where Barry Melrose drew 238,858 views, just ahead of Drew Lock. GitHub's fastest riser was a coding-agent tool called i-have-adhd, up 3,882 stars in a day, and on Steam the crowd went where it usually does, to Counter-Strike 2.",
   "throughlines": [
     {
-      "title": "Counter-Strike 2",
-      "gist": "Valve's shooter held the top of Steam's live charts with over 1.3 million concurrent players while its competitive matches drew money on Polymarket, the same game showing up as both play and wager.",
+      "title": "Barry Melrose",
+      "gist": "The most-viewed Wikipedia article of the day at 238,858 views, narrowly ahead of Drew Lock.",
       "sources": [
-        "polymarket",
-        "steam"
+        "wikipedia"
       ],
-      "url": "https://store.steampowered.com/app/730",
-      "kind": "cluster"
+      "url": "https://en.wikipedia.org/wiki/Barry_Melrose",
+      "kind": "single"
     },
     {
-      "title": "No Man's Sky Cosmos",
-      "gist": "The game's Cosmos update landed the same day across a Hacker News thread and a YouTube trailer, a sign a years-old title still pulls a crowd with each major patch.",
+      "title": "ayghri/i-have-adhd",
+      "gist": "GitHub's top trending repo, a coding-agent tool that gained 3,882 stars in a single day.",
       "sources": [
-        "hackernews",
-        "youtube"
+        "github"
       ],
-      "url": "https://news.ycombinator.com/item?id=49628493",
-      "kind": "cluster"
+      "url": "https://github.com/ayghri/i-have-adhd",
+      "kind": "single"
     },
     {
-      "title": "GPT-6 Astra",
-      "gist": "Chatter about OpenAI's GPT-6 Astra, with its looped-transformer and hidden-reasoning claims, surfaced on Hacker News and Product Hunt at once, the dual appearance that tends to mark a model launch gaining traction.",
+      "title": "Exercise intensity is associated with cardiometabolic health",
+      "gist": "Leading Hacker News with 37 points and 14 comments, a study tying exercise intensity to metabolic health.",
       "sources": [
-        "hackernews",
-        "product-hunt"
+        "hackernews"
       ],
-      "url": "https://news.ycombinator.com/item?id=49627370",
-      "kind": "cluster"
+      "url": "https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(26)00405-2",
+      "kind": "single"
     }
   ],
-  "strength": 100,
+  "strength": 15,
   "live_sources": 17,
   "total_sources": 17,
   "dashboard_url": "https://nnnsightnnn.github.io/web-pulse/",
