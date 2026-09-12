@@ -1,20 +1,20 @@
 {
-  "date": "2026-09-11",
-  "generated_at": "2026-09-11T05:23:22.936Z",
-  "lede": "The web didn't converge today. Across 17 sources there were 17 separate conversations, and not one topic crossed feeds. The single loudest signal sat on Wikipedia, where Barry Melrose drew 238,858 views, just ahead of Drew Lock. GitHub's fastest riser was a coding-agent tool called i-have-adhd, up 3,882 stars in a day, and on Steam the crowd went where it usually does, to Counter-Strike 2.",
+  "date": "2026-09-12",
+  "generated_at": "2026-09-12T05:39:19.922Z",
+  "lede": "The day the web looked backward. No single story crossed the feeds, but Wikipedia needed no help: the September 11 attacks drew 665,793 readers, roughly 2.6 times its nearest rival, and three of the five most-read pages returned to that morning. Everything else ran on its own track, from earthquakes off Indonesia to Counter-Strike 2 holding more than 1.3 million players at once on Steam.",
   "throughlines": [
     {
-      "title": "Barry Melrose",
-      "gist": "The most-viewed Wikipedia article of the day at 238,858 views, narrowly ahead of Drew Lock.",
+      "title": "September 11 attacks",
+      "gist": "The anniversary sent 665,793 readers to Wikipedia's account of the attacks, the day's most-read article by a wide margin.",
       "sources": [
         "wikipedia"
       ],
-      "url": "https://en.wikipedia.org/wiki/Barry_Melrose",
+      "url": "https://en.wikipedia.org/wiki/September_11_attacks",
       "kind": "single"
     },
     {
       "title": "ayghri/i-have-adhd",
-      "gist": "GitHub's top trending repo, a coding-agent tool that gained 3,882 stars in a single day.",
+      "gist": "A tool meant to stop coding agents from burying the answer picked up 3,463 stars today to top GitHub's trending list.",
       "sources": [
         "github"
       ],
@@ -22,12 +22,12 @@
       "kind": "single"
     },
     {
-      "title": "Exercise intensity is associated with cardiometabolic health",
-      "gist": "Leading Hacker News with 37 points and 14 comments, a study tying exercise intensity to metabolic health.",
+      "title": "Google no longer provides direct URLs in search results",
+      "gist": "A post arguing that Google now routes result links through itself led Hacker News with 198 points and 103 comments.",
       "sources": [
         "hackernews"
       ],
-      "url": "https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(26)00405-2",
+      "url": "https://www.autom.dev/blog/google-search-goto-links",
       "kind": "single"
     }
   ],

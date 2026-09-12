@@ -1,15 +1,15 @@
 {
   "source": "polymarket",
   "label": "Polymarket — top 24h volume",
-  "fetched_at": "2026-09-11T05:22:39.354Z",
+  "fetched_at": "2026-09-11T05:23:47.526Z",
   "items": [
     {
       "rank": 1,
       "title": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
       "url": "https://polymarket.com/event/fed-decision-in-september-762",
-      "volume_24h": 1907067.7250830005,
-      "volume_total": 22117626.429511055,
-      "liquidity": 745566.4264,
+      "volume_24h": 1907390.8711130004,
+      "volume_total": 22117949.57554101,
+      "liquidity": 755051.8251,
       "yes_price": 0.615,
       "leader": {
         "name": "Yes",
@@ -26,8 +26,8 @@
       "title": "Will Abigail Spanberger win the 2028 Democratic presidential nomination?",
       "url": "https://polymarket.com/event/democratic-presidential-nominee-2028",
       "volume_24h": 1646408.73,
-      "volume_total": 3080913.5431660004,
-      "liquidity": 411394.3787,
+      "volume_total": 3080913.543166001,
+      "liquidity": 410710.3137,
       "yes_price": 0.0015,
       "leader": {
         "name": "No",
@@ -43,8 +43,8 @@
       "rank": 3,
       "title": "Spread: Rams (-3.5)",
       "url": "https://polymarket.com/event/nfl-sf-la-2026-09-11",
-      "volume_24h": 701501.1404850002,
-      "volume_total": 936414.424122,
+      "volume_24h": 702493.8004850002,
+      "volume_total": 937414.4241220001,
       "liquidity": 401669.21558,
       "yes_price": 0.0005,
       "leader": {
@@ -62,8 +62,8 @@
       "title": "Will Karim Bouamrane win the 2027 French presidential election?",
       "url": "https://polymarket.com/event/next-french-presidential-election",
       "volume_24h": 516165.36,
-      "volume_total": 848413.7552830001,
-      "liquidity": 605418.57846,
+      "volume_total": 848413.7552830002,
+      "liquidity": 606819.13246,
       "yes_price": 0.0015,
       "leader": {
         "name": "No",
@@ -81,7 +81,7 @@
       "url": "https://polymarket.com/event/republican-presidential-nominee-2028",
       "volume_24h": 496000,
       "volume_total": 1571288.144666,
-      "liquidity": 118480.69902,
+      "liquidity": 117067.37302,
       "yes_price": 0.001,
       "leader": {
         "name": "No",
@@ -97,9 +97,9 @@
       "rank": 6,
       "title": "Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?",
       "url": "https://polymarket.com/event/uefa-champions-league-2027-champion-20260701202025549",
-      "volume_24h": 432592.737,
-      "volume_total": 16044055.690000005,
-      "liquidity": 401891.7413,
+      "volume_24h": 432667.737,
+      "volume_total": 16048430.69,
+      "liquidity": 400563.9895,
       "yes_price": 0.0015,
       "leader": {
         "name": "No",
@@ -113,29 +113,11 @@
     },
     {
       "rank": 7,
-      "title": "Counter-Strike: MIBR vs Alliance (BO3) - FISSURE PLAYGROUND Playoffs",
-      "url": "https://polymarket.com/event/cs2-mibr-all-2026-09-11",
-      "volume_24h": 306446.8222059999,
-      "volume_total": 306389.96658300044,
-      "liquidity": 239874.7926,
-      "yes_price": 0.585,
-      "leader": {
-        "name": "MIBR",
-        "price": 0.585
-      },
-      "end_date": "2026-09-11T12:00:00Z",
-      "outcomes": [
-        "MIBR",
-        "Alliance"
-      ]
-    },
-    {
-      "rank": 8,
       "title": "Will the U.S. invade Iran before 2027?",
       "url": "https://polymarket.com/event/will-the-us-invade-iran-before-2027",
-      "volume_24h": 302102.062661,
-      "volume_total": 65407224.30435,
-      "liquidity": 740572.4854,
+      "volume_24h": 308738.28546499996,
+      "volume_total": 65413860.52715398,
+      "liquidity": 755719.1288,
       "yes_price": 0.165,
       "leader": {
         "name": "No",
@@ -148,30 +130,30 @@
       ]
     },
     {
-      "rank": 9,
-      "title": "Strait of Hormuz traffic returns to normal by December 31?",
-      "url": "https://polymarket.com/event/strait-of-hormuz-traffic-returns-to-normal-by-december-31",
-      "volume_24h": 295313.30849900004,
-      "volume_total": 11249428.522543002,
-      "liquidity": 431176.5903,
-      "yes_price": 0.165,
+      "rank": 8,
+      "title": "Counter-Strike: MIBR vs Alliance (BO3) - FISSURE PLAYGROUND Playoffs",
+      "url": "https://polymarket.com/event/cs2-mibr-all-2026-09-11",
+      "volume_24h": 308124.610344,
+      "volume_total": 308067.754721,
+      "liquidity": 239177.1101,
+      "yes_price": 0.585,
       "leader": {
-        "name": "No",
-        "price": 0.835
+        "name": "MIBR",
+        "price": 0.585
       },
-      "end_date": "2026-12-31T00:00:00Z",
+      "end_date": "2026-09-11T12:00:00Z",
       "outcomes": [
-        "Yes",
-        "No"
+        "MIBR",
+        "Alliance"
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?",
       "url": "https://polymarket.com/event/brazil-presidential-election",
-      "volume_24h": 295069.97860000003,
-      "volume_total": 10555554.985465996,
-      "liquidity": 219768.9224,
+      "volume_24h": 295835.3828560001,
+      "volume_total": 10556320.389721999,
+      "liquidity": 219625.9519,
       "yes_price": 0.465,
       "leader": {
         "name": "No",
@@ -184,30 +166,30 @@
       ]
     },
     {
-      "rank": 11,
-      "title": "Will Pumas de la UNAM win on 2026-09-06?",
-      "url": "https://polymarket.com/event/mex-pum-leo-2026-09-06",
-      "volume_24h": 286843.1358420005,
-      "volume_total": 287618.983943,
-      "liquidity": 275357.31287,
-      "yes_price": 0.9995,
+      "rank": 10,
+      "title": "Strait of Hormuz traffic returns to normal by December 31?",
+      "url": "https://polymarket.com/event/strait-of-hormuz-traffic-returns-to-normal-by-december-31",
+      "volume_24h": 295534.138499,
+      "volume_total": 11249649.352542998,
+      "liquidity": 407487.3151,
+      "yes_price": 0.165,
       "leader": {
-        "name": "Yes",
-        "price": 0.9995
+        "name": "No",
+        "price": 0.835
       },
-      "end_date": "2026-09-11T03:05:00Z",
+      "end_date": "2026-12-31T00:00:00Z",
       "outcomes": [
         "Yes",
         "No"
       ]
     },
     {
-      "rank": 12,
+      "rank": 11,
       "title": "Counter-Strike: FURIA vs G2 (BO3) - FISSURE PLAYGROUND Playoffs",
       "url": "https://polymarket.com/event/cs2-furia-g2-2026-09-11",
-      "volume_24h": 283317.9783550003,
-      "volume_total": 283268.2515800002,
-      "liquidity": 427704.8253,
+      "volume_24h": 295219.22770700016,
+      "volume_total": 294169.50093200005,
+      "liquidity": 459033.5628,
       "yes_price": 0.555,
       "leader": {
         "name": "FURIA",
@@ -220,11 +202,29 @@
       ]
     },
     {
+      "rank": 12,
+      "title": "Will Pumas de la UNAM win on 2026-09-06?",
+      "url": "https://polymarket.com/event/mex-pum-leo-2026-09-06",
+      "volume_24h": 287262.41584200045,
+      "volume_total": 288038.26394300006,
+      "liquidity": 274777.79297,
+      "yes_price": 0.9995,
+      "leader": {
+        "name": "Yes",
+        "price": 0.9995
+      },
+      "end_date": "2026-09-11T03:05:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
       "rank": 13,
       "title": "Will Bitcoin dip to $45,000 by December 31, 2026?",
       "url": "https://polymarket.com/event/what-price-will-bitcoin-hit-before-2027",
       "volume_24h": 243227.861766,
-      "volume_total": 6798307.403266,
+      "volume_total": 6798307.403266003,
       "liquidity": 382532.6148,
       "yes_price": 0.095,
       "leader": {
@@ -241,9 +241,9 @@
       "rank": 14,
       "title": "Clarity Act (H.R.3633) signed into law in 2026?",
       "url": "https://polymarket.com/event/clarity-act-signed-into-law-in-2026",
-      "volume_24h": 235569.50173000002,
-      "volume_total": 14778733.499302993,
-      "liquidity": 272513.0194,
+      "volume_24h": 235587.34172999996,
+      "volume_total": 14778751.339303,
+      "liquidity": 272621.1494,
       "yes_price": 0.175,
       "leader": {
         "name": "No",
@@ -260,8 +260,8 @@
       "title": "Putin out as President of Russia by December 31, 2026?",
       "url": "https://polymarket.com/event/putin-out-before-2027",
       "volume_24h": 227595.10509199998,
-      "volume_total": 20497600.118818987,
-      "liquidity": 730396.2511,
+      "volume_total": 20497600.118818972,
+      "liquidity": 730186.2761,
       "yes_price": 0.065,
       "leader": {
         "name": "No",
@@ -275,11 +275,29 @@
     },
     {
       "rank": 16,
+      "title": "Phan Thiet 3: Hiroki Moriya vs Yuta Shimizu",
+      "url": "https://polymarket.com/event/atp-moriya-shimizu-2026-09-10",
+      "volume_24h": 220033.21048899996,
+      "volume_total": 220002.61048899998,
+      "liquidity": 103137.2766,
+      "yes_price": 0.585,
+      "leader": {
+        "name": "Hiroki Moriya",
+        "price": 0.585
+      },
+      "end_date": "2026-09-18T03:00:00Z",
+      "outcomes": [
+        "Hiroki Moriya",
+        "Yuta Shimizu"
+      ]
+    },
+    {
+      "rank": 17,
       "title": "Counter-Strike: Chicken Coop Esports vs Marsborne (BO3) - PGL Masters Bucharest: North American Qualifier Playoffs",
       "url": "https://polymarket.com/event/cs2-cce-mars-2026-09-09",
-      "volume_24h": 219491.186705,
-      "volume_total": 277608.53381299996,
-      "liquidity": 129347.5235,
+      "volume_24h": 218825.8157489998,
+      "volume_total": 277637.77381299995,
+      "liquidity": 129333.1959,
       "yes_price": 0.495,
       "leader": {
         "name": "Marsborne",
@@ -292,12 +310,12 @@
       ]
     },
     {
-      "rank": 17,
+      "rank": 18,
       "title": "Strait of Hormuz traffic returns to normal by September 15?",
       "url": "https://polymarket.com/event/strait-of-hormuz-traffic-returns-to-normal-by-september-15-20260810150912478",
       "volume_24h": 209204.3619489999,
-      "volume_total": 2055563.5991449999,
-      "liquidity": 403852.67868,
+      "volume_total": 2055563.5991449996,
+      "liquidity": 402052.67868,
       "yes_price": 0.0025,
       "leader": {
         "name": "No",
@@ -310,12 +328,30 @@
       ]
     },
     {
-      "rank": 18,
+      "rank": 19,
+      "title": "Will Elon Musk post 140-159 tweets from September 4 to September 11, 2026?",
+      "url": "https://polymarket.com/event/elon-musk-of-tweets-september-4-september-11-2026",
+      "volume_24h": 207565.50260500007,
+      "volume_total": 361670.047589,
+      "liquidity": 10446.93838,
+      "yes_price": 0.0145,
+      "leader": {
+        "name": "No",
+        "price": 0.9855
+      },
+      "end_date": "2026-09-11T16:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 20,
       "title": "Will Brighton & Hove Albion FC win on 2026-09-13?",
       "url": "https://polymarket.com/event/epl-cov-bri-2026-09-13",
-      "volume_24h": 206968.14606000012,
-      "volume_total": 262262.585398,
-      "liquidity": 125457.305,
+      "volume_24h": 206985.83836800017,
+      "volume_total": 262280.2777060001,
+      "liquidity": 125929.4158,
       "yes_price": 0.515,
       "leader": {
         "name": "Yes",
@@ -328,48 +364,12 @@
       ]
     },
     {
-      "rank": 19,
-      "title": "Phan Thiet 3: Hiroki Moriya vs Yuta Shimizu",
-      "url": "https://polymarket.com/event/atp-moriya-shimizu-2026-09-10",
-      "volume_24h": 205762.164488,
-      "volume_total": 205762.16448799998,
-      "liquidity": 69882.0942,
-      "yes_price": 0.33,
-      "leader": {
-        "name": "Yuta Shimizu",
-        "price": 0.67
-      },
-      "end_date": "2026-09-18T03:00:00Z",
-      "outcomes": [
-        "Hiroki Moriya",
-        "Yuta Shimizu"
-      ]
-    },
-    {
-      "rank": 20,
-      "title": "Will Elon Musk post 140-159 tweets from September 4 to September 11, 2026?",
-      "url": "https://polymarket.com/event/elon-musk-of-tweets-september-4-september-11-2026",
-      "volume_24h": 204191.56886799997,
-      "volume_total": 361171.921674,
-      "liquidity": 10313.37572,
-      "yes_price": 0.1235,
-      "leader": {
-        "name": "No",
-        "price": 0.8765
-      },
-      "end_date": "2026-09-11T16:00:00Z",
-      "outcomes": [
-        "Yes",
-        "No"
-      ]
-    },
-    {
       "rank": 21,
       "title": "Israel x Iran ceasefire continues through September 30?",
       "url": "https://polymarket.com/event/israel-x-iran-ceasefire-continues-throughptptpt-20260716224448963",
-      "volume_24h": 197036.61130599995,
-      "volume_total": 1825435.6167000008,
-      "liquidity": 91880.7473,
+      "volume_24h": 197038.62130599993,
+      "volume_total": 1825437.6267000008,
+      "liquidity": 91906.5388,
       "yes_price": 0.845,
       "leader": {
         "name": "Yes",
@@ -385,9 +385,9 @@
       "rank": 22,
       "title": "Will Stade Rennais FC 1901 win on 2026-09-11?",
       "url": "https://polymarket.com/event/fl1-ren-olm-2026-09-11",
-      "volume_24h": 196296.45484499997,
-      "volume_total": 204018.58693199995,
-      "liquidity": 203549.2967,
+      "volume_24h": 196667.824171,
+      "volume_total": 204389.956258,
+      "liquidity": 206502.1038,
       "yes_price": 0.485,
       "leader": {
         "name": "No",
@@ -403,9 +403,9 @@
       "rank": 23,
       "title": "Will the price of Bitcoin be above $70,000 on September 11?",
       "url": "https://polymarket.com/event/bitcoin-above-on-september-11-2026",
-      "volume_24h": 188166.799087,
-      "volume_total": 255825.72591100002,
-      "liquidity": 38590.36352,
+      "volume_24h": 188325.115587,
+      "volume_total": 255984.04241100003,
+      "liquidity": 38615.048,
       "yes_price": 0.9975,
       "leader": {
         "name": "Yes",
@@ -422,8 +422,8 @@
       "title": "Strait of Hormuz traffic returns to normal by September 30?",
       "url": "https://polymarket.com/event/strait-of-hormuz-traffic-returns-to-normal-by-september-30-20260702154339440",
       "volume_24h": 174044.25275299995,
-      "volume_total": 8351158.282235,
-      "liquidity": 298430.55211,
+      "volume_total": 8351158.282235002,
+      "liquidity": 298646.35211,
       "yes_price": 0.0155,
       "leader": {
         "name": "No",
@@ -440,8 +440,8 @@
       "title": "Will 7 Fed rate cuts happen in 2026?",
       "url": "https://polymarket.com/event/how-many-fed-rate-cuts-in-2026",
       "volume_24h": 171371.8,
-      "volume_total": 3519561.795167,
-      "liquidity": 163315.62844,
+      "volume_total": 3519561.795167001,
+      "liquidity": 162792.43419,
       "yes_price": 0.0005,
       "leader": {
         "name": "No",

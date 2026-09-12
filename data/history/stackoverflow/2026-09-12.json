@@ -1,0 +1,331 @@
+{
+  "source": "stackoverflow",
+  "label": "Stack Overflow — hot questions",
+  "fetched_at": "2026-09-12T05:39:18.708Z",
+  "items": [
+    {
+      "rank": 1,
+      "title": "How can I get input from terminal without blocking Tk mainloop?",
+      "url": "https://stackoverflow.com/questions/80002531/how-can-i-get-input-from-terminal-without-blocking-tk-mainloop",
+      "score": 0,
+      "answers": 0,
+      "views": 27,
+      "tags": [
+        "tcl",
+        "tk-toolkit",
+        "tclsh"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "What do these errors mean",
+      "url": "https://stackoverflow.com/questions/80002523/what-do-these-errors-mean",
+      "score": 0,
+      "answers": 1,
+      "views": 46,
+      "tags": [
+        "c++",
+        "multithreading"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "django bug, please help me to fix this",
+      "url": "https://stackoverflow.com/questions/80002525/django-bug-please-help-me-to-fix-this",
+      "score": -2,
+      "answers": 0,
+      "views": 34,
+      "tags": [
+        "django"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Format for date",
+      "url": "https://stackoverflow.com/questions/80002516/format-for-date",
+      "score": -8,
+      "answers": 0,
+      "views": 53,
+      "tags": [
+        "format"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "ReactJS (19.2) Server \"LEFT JOIN\" get all Results from 2. Table in first Query?",
+      "url": "https://stackoverflow.com/questions/80002481/reactjs-19-2-server-left-join-get-all-results-from-2-table-in-first-query",
+      "score": -1,
+      "answers": 2,
+      "views": 75,
+      "tags": [
+        "javascript"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "How do I make my website change layouts depending on screen size?",
+      "url": "https://stackoverflow.com/questions/80002451/how-do-i-make-my-website-change-layouts-depending-on-screen-size",
+      "score": 2,
+      "answers": 3,
+      "views": 108,
+      "tags": [
+        "html",
+        "css",
+        "bootstrap-5"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Downloading Apple-hosted asset packs in a SwiftUI macOS app",
+      "url": "https://stackoverflow.com/questions/80002501/downloading-apple-hosted-asset-packs-in-a-swiftui-macos-app",
+      "score": -2,
+      "answers": 1,
+      "views": 58,
+      "tags": [
+        "swift",
+        "xcode",
+        "macos",
+        "swiftui",
+        "background-assets-framework"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "NumPy neural network from scratch for regression: is my implementation correct, and what hyperparameters or feature engineering should I try next?",
+      "url": "https://stackoverflow.com/questions/80002496/numpy-neural-network-from-scratch-for-regression-is-my-implementation-correct",
+      "score": -3,
+      "answers": 0,
+      "views": 77,
+      "tags": [
+        "python",
+        "numpy",
+        "machine-learning",
+        "deep-learning",
+        "neural-network"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Expanding class members following open/closed principles",
+      "url": "https://stackoverflow.com/questions/80002473/expanding-class-members-following-open-closed-principles",
+      "score": 1,
+      "answers": 2,
+      "views": 89,
+      "tags": [
+        "best-practices",
+        "c++",
+        "templates",
+        "template-instantiation"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Updating Git for Windows unattended with PowerShell returns an error when run against remote servers",
+      "url": "https://stackoverflow.com/questions/80002487/updating-git-for-windows-unattended-with-powershell-returns-an-error-when-run-ag",
+      "score": 1,
+      "answers": 0,
+      "views": 70,
+      "tags": [
+        "powershell",
+        "powershell-core",
+        "git-for-windows"
+      ]
+    },
+    {
+      "rank": 11,
+      "title": "Why does subprocess.run(cmd, shell=True) with shlex.quote() break on Windows?",
+      "url": "https://stackoverflow.com/questions/80002375/why-does-subprocess-runcmd-shell-true-with-shlex-quote-break-on-windows",
+      "score": 2,
+      "answers": 2,
+      "views": 97,
+      "tags": [
+        "python",
+        "windows",
+        "shell",
+        "subprocess",
+        "cross-platform"
+      ]
+    },
+    {
+      "rank": 12,
+      "title": "Does @NullMarked package imply non-nullablity on a field level?",
+      "url": "https://stackoverflow.com/questions/80002412/does-nullmarked-package-imply-non-nullablity-on-a-field-level",
+      "score": 2,
+      "answers": 3,
+      "views": 74,
+      "tags": [
+        "java",
+        "jspecify"
+      ]
+    },
+    {
+      "rank": 13,
+      "title": "GCC compilation fails or succeeds depending on the current directory",
+      "url": "https://stackoverflow.com/questions/80002452/gcc-compilation-fails-or-succeeds-depending-on-the-current-directory",
+      "score": -2,
+      "answers": 0,
+      "views": 108,
+      "tags": [
+        "c",
+        "linux",
+        "gcc"
+      ]
+    },
+    {
+      "rank": 14,
+      "title": "What is a good design for custom extensions to a Java class?",
+      "url": "https://stackoverflow.com/questions/80002427/what-is-a-good-design-for-custom-extensions-to-a-java-class",
+      "score": 0,
+      "answers": 1,
+      "views": 116,
+      "tags": [
+        "best-practices",
+        "java",
+        "class"
+      ]
+    },
+    {
+      "rank": 15,
+      "title": "Read and write a LocalDateTime in a JSON object using a custom date/time format",
+      "url": "https://stackoverflow.com/questions/80002471/read-and-write-a-localdatetime-in-a-json-object-using-a-custom-date-time-format",
+      "score": 0,
+      "answers": 1,
+      "views": 51,
+      "tags": [
+        "scala",
+        "play-json"
+      ]
+    },
+    {
+      "rank": 16,
+      "title": "Xml Source with Enum type",
+      "url": "https://stackoverflow.com/questions/80002482/xml-source-with-enum-type",
+      "score": -3,
+      "answers": 0,
+      "views": 47,
+      "tags": [
+        "enums",
+        "rule-engine",
+        "codeeffects"
+      ]
+    },
+    {
+      "rank": 17,
+      "title": "Avoid empty directories in Filelist",
+      "url": "https://stackoverflow.com/questions/80002479/avoid-empty-directories-in-filelist",
+      "score": 0,
+      "answers": 0,
+      "views": 40,
+      "tags": [
+        "directory",
+        "doxygen"
+      ]
+    },
+    {
+      "rank": 18,
+      "title": "SHAppBarMessage: my own window gets pushed out of the AppBar space it just registered, before my own function call even returns",
+      "url": "https://stackoverflow.com/questions/80002486/shappbarmessage-my-own-window-gets-pushed-out-of-the-appbar-space-it-just-regis",
+      "score": 0,
+      "answers": 0,
+      "views": 23,
+      "tags": [
+        "winapi",
+        "electron",
+        "taskbar"
+      ]
+    },
+    {
+      "rank": 19,
+      "title": "Shall I use a link or an input field for a hamburger menu",
+      "url": "https://stackoverflow.com/questions/80002416/shall-i-use-a-link-or-an-input-field-for-a-hamburger-menu",
+      "score": -5,
+      "answers": 1,
+      "views": 103,
+      "tags": [
+        "best-practices",
+        "html",
+        "navigation",
+        "hamburger-menu"
+      ]
+    },
+    {
+      "rank": 20,
+      "title": "How to automatically detect no internet connection and show an offline screen in React Native (Expo)?",
+      "url": "https://stackoverflow.com/questions/80002468/how-to-automatically-detect-no-internet-connection-and-show-an-offline-screen-in",
+      "score": -2,
+      "answers": 0,
+      "views": 55,
+      "tags": [
+        "react-native",
+        "expo",
+        "offline-caching",
+        "react-native-community-netinfo"
+      ]
+    },
+    {
+      "rank": 21,
+      "title": "Why does my Py-Shiny web app download an empty file?",
+      "url": "https://stackoverflow.com/questions/80002466/why-does-my-py-shiny-web-app-download-an-empty-file",
+      "score": 0,
+      "answers": 0,
+      "views": 48,
+      "tags": [
+        "python",
+        "py-shiny"
+      ]
+    },
+    {
+      "rank": 22,
+      "title": "Anylogic 'PedChangeLevel' pedestrian going downstairs animation moving in reverse",
+      "url": "https://stackoverflow.com/questions/80002389/anylogic-pedchangelevel-pedestrian-going-downstairs-animation-moving-in-revers",
+      "score": -3,
+      "answers": 1,
+      "views": 56,
+      "tags": [
+        "anylogic"
+      ]
+    },
+    {
+      "rank": 23,
+      "title": "Concurrency and Parallelism in Go and C++",
+      "url": "https://stackoverflow.com/questions/80002325/concurrency-and-parallelism-in-go-and-c",
+      "score": -4,
+      "answers": 0,
+      "views": 124,
+      "tags": [
+        "c++",
+        "go",
+        "concurrency",
+        "goroutine",
+        "stdthread"
+      ]
+    },
+    {
+      "rank": 24,
+      "title": "Fetch and count all records in M2M join table",
+      "url": "https://stackoverflow.com/questions/80002474/fetch-and-count-all-records-in-m2m-join-table",
+      "score": 0,
+      "answers": 0,
+      "views": 29,
+      "tags": [
+        "django",
+        "django-models",
+        "many-to-many"
+      ]
+    },
+    {
+      "rank": 25,
+      "title": "Wireshark shows PING responses but PING in terminal shows lost packets",
+      "url": "https://stackoverflow.com/questions/80002455/wireshark-shows-ping-responses-but-ping-in-terminal-shows-lost-packets",
+      "score": -3,
+      "answers": 0,
+      "views": 62,
+      "tags": [
+        "ubuntu",
+        "network-programming",
+        "wireshark",
+        "icmp"
+      ]
+    }
+  ]
+}

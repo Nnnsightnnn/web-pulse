@@ -1,7 +1,7 @@
 {
   "source": "google-trends",
   "label": "Google Trends — trending searches",
-  "fetched_at": "2026-09-11T05:22:39.621Z",
+  "fetched_at": "2026-09-11T05:23:48.198Z",
   "countries": [
     "US",
     "GB",
@@ -46,28 +46,6 @@
     },
     {
       "rank": 4,
-      "title": "rams vs 49ers",
-      "geos": [
-        "GB"
-      ],
-      "traffic_estimate": 5000,
-      "news_title": "Crowd of 100,000 laps up relentless sensory experience as NFL woos Melbourne | Jack Snape",
-      "news_url": "https://www.theguardian.com/sport/2026/sep/11/nfl-melbourne-mcg-fans-crowds-score-rams-49ers",
-      "news_source": "The Guardian"
-    },
-    {
-      "rank": 5,
-      "title": "vaccinations",
-      "geos": [
-        "US"
-      ],
-      "traffic_estimate": 2000,
-      "news_title": "Medical Groups Issue Guidance on Covid, Flu and R.S.V. Shots",
-      "news_url": "https://www.nytimes.com/2026/09/02/well/covid-flu-vaccines-rsv.html",
-      "news_source": "The New York Times"
-    },
-    {
-      "rank": 6,
       "title": "gal gadot",
       "geos": [
         "US"
@@ -78,7 +56,7 @@
       "news_source": "IMDb"
     },
     {
-      "rank": 7,
+      "rank": 5,
       "title": "elena rybakina",
       "geos": [
         "GB"
@@ -89,7 +67,7 @@
       "news_source": "BBC"
     },
     {
-      "rank": 8,
+      "rank": 6,
       "title": "山田邦子",
       "geos": [
         "JP"
@@ -100,7 +78,7 @@
       "news_source": ""
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "都営バス",
       "geos": [
         "JP"
@@ -111,29 +89,40 @@
       "news_source": "Yahoo!ニュース"
     },
     {
-      "rank": 10,
-      "title": "joe digenova",
+      "rank": 8,
+      "title": "vaccines",
       "geos": [
         "US"
       ],
       "traffic_estimate": 1000,
-      "news_title": "Trump Loyalist Joseph diGenova Quits ‘Grand Conspiracy’ Case",
-      "news_url": "https://www.nytimes.com/2026/09/10/us/digenova-steps-down-grand-conspiracy-case.html",
+      "news_title": "Maryland health officials issue new vaccine guidance",
+      "news_url": "https://www.wbaltv.com/article/maryland-2026-2027-vaccine-guidelines-children-adults/73667875",
+      "news_source": "WBAL-TV"
+    },
+    {
+      "rank": 9,
+      "title": "vaccinations",
+      "geos": [
+        "US"
+      ],
+      "traffic_estimate": 1000,
+      "news_title": "Suspected measles cases kill nearly 1,000 as Bangladesh struggles to contain outbreak",
+      "news_url": "https://www.nbcnews.com/world/asia/bangladesh-measles-outbreak-kills-nearly-1000-rcna596960",
+      "news_source": "NBC News"
+    },
+    {
+      "rank": 10,
+      "title": "flu shots",
+      "geos": [
+        "US"
+      ],
+      "traffic_estimate": 1000,
+      "news_title": "Medical Groups Issue Guidance on Covid, Flu and R.S.V. Shots",
+      "news_url": "https://www.nytimes.com/2026/09/02/well/covid-flu-vaccines-rsv.html",
       "news_source": "The New York Times"
     },
     {
       "rank": 11,
-      "title": "drawn together",
-      "geos": [
-        "US"
-      ],
-      "traffic_estimate": 1000,
-      "news_title": "‘Drawn Together’ Review: Girl Meets Bodyguard on Prime Video",
-      "news_url": "https://www.wsj.com/arts-culture/television/drawn-together-review-girl-meets-bodyguard-on-prime-video-b9fcc584",
-      "news_source": "WSJ"
-    },
-    {
-      "rank": 12,
       "title": "infosys share price",
       "geos": [
         "IN"
@@ -144,7 +133,7 @@
       "news_source": "BusinessLine"
     },
     {
-      "rank": 13,
+      "rank": 12,
       "title": "hindustan copper share price",
       "geos": [
         "IN"
@@ -155,7 +144,7 @@
       "news_source": "Reuters"
     },
     {
-      "rank": 14,
+      "rank": 13,
       "title": "井本貴史",
       "geos": [
         "JP"
@@ -166,7 +155,7 @@
       "news_source": "Yahoo!ニュース"
     },
     {
-      "rank": 15,
+      "rank": 14,
       "title": "boletim",
       "geos": [
         "BR"
@@ -177,7 +166,7 @@
       "news_source": "Senado"
     },
     {
-      "rank": 16,
+      "rank": 15,
       "title": "내일 날씨",
       "geos": [
         "US"
@@ -188,19 +177,8 @@
       "news_source": "미주중앙일보"
     },
     {
-      "rank": 17,
-      "title": "jhene aiko new album",
-      "geos": [
-        "US"
-      ],
-      "traffic_estimate": 500,
-      "news_title": "Kendrick Lamar Joins Jhené Aiko on New Song “So Good”",
-      "news_url": "https://pitchfork.com/story/kendrick-lamar-joins-jhene-aiko-on-new-song-so-good/",
-      "news_source": "Pitchfork"
-    },
-    {
-      "rank": 18,
-      "title": "joey king",
+      "rank": 16,
+      "title": "maisie williams",
       "geos": [
         "GB"
       ],
@@ -210,7 +188,7 @@
       "news_source": "BBC"
     },
     {
-      "rank": 19,
+      "rank": 17,
       "title": "पंजाब प्रदेश कांग्रेस समिति",
       "geos": [
         "IN"
@@ -221,7 +199,7 @@
       "news_source": ""
     },
     {
-      "rank": 20,
+      "rank": 18,
       "title": "icici bank share price",
       "geos": [
         "IN"
@@ -232,7 +210,7 @@
       "news_source": "The Economic Times"
     },
     {
-      "rank": 21,
+      "rank": 19,
       "title": "ather energy share price",
       "geos": [
         "IN"
@@ -243,7 +221,7 @@
       "news_source": "Autopunditz"
     },
     {
-      "rank": 22,
+      "rank": 20,
       "title": "楠木ともり",
       "geos": [
         "JP"
@@ -254,7 +232,7 @@
       "news_source": "Yahoo!ニュース"
     },
     {
-      "rank": 23,
+      "rank": 21,
       "title": "ki-boom",
       "geos": [
         "DE"
@@ -265,7 +243,7 @@
       "news_source": "BILD"
     },
     {
-      "rank": 24,
+      "rank": 22,
       "title": "donald tusk",
       "geos": [
         "DE"
@@ -276,7 +254,18 @@
       "news_source": "WP Wiadomości"
     },
     {
-      "rank": 25,
+      "rank": 23,
+      "title": "josh hartnett",
+      "geos": [
+        "US"
+      ],
+      "traffic_estimate": 200,
+      "news_title": "'Below': Josh Harnett Vs Sea Creature In Trailer For Netflix Series",
+      "news_url": "https://deadline.com/2026/09/below-trailer-netflix-josh-hartnett-charlie-heaton-1237004620/",
+      "news_source": "Deadline"
+    },
+    {
+      "rank": 24,
       "title": "ted cruz",
       "geos": [
         "US"
@@ -285,6 +274,17 @@
       "news_title": "Shouts of ‘he should be shot’ heard during GOP midterm convention speech criticizing Democratic candidates",
       "news_url": "https://www.cnn.com/2026/09/10/politics/shouts-of-he-should-be-shot-heard-during-gop-midterm-convention-speech",
       "news_source": "CNN"
+    },
+    {
+      "rank": 25,
+      "title": "cable tv",
+      "geos": [
+        "US"
+      ],
+      "traffic_estimate": 200,
+      "news_title": "Nielsen: Streaming Took Record 49% of July Household TV Market Share, Driven by World Cup, 'Love Island,' YouTube",
+      "news_url": "https://www.mediaplaynews.com/nielsen-streaming-took-record-49-percent-of-july-household-tv-market-share-driven-by-world-cup-love-island-youtube/",
+      "news_source": "Media Play News"
     }
   ]
 }
