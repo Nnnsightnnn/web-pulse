@@ -1,37 +1,38 @@
 {
-  "date": "2026-09-12",
-  "generated_at": "2026-09-12T05:39:19.922Z",
-  "lede": "The day the web looked backward. No single story crossed the feeds, but Wikipedia needed no help: the September 11 attacks drew 665,793 readers, roughly 2.6 times its nearest rival, and three of the five most-read pages returned to that morning. Everything else ran on its own track, from earthquakes off Indonesia to Counter-Strike 2 holding more than 1.3 million players at once on Steam.",
+  "date": "2026-09-13",
+  "generated_at": "2026-09-13T05:23:54.555Z",
+  "lede": "One name surfaced in two very different corners of the web today: Ben Shelton topped Wikipedia with about 434,000 views, while bettors on Polymarket priced his US Open match against Alexander Zverev, with Zverev the slight favorite. Builders, meanwhile, poured onto bilawalsidhu/gods-eye-view, which pulled in more than 2,200 GitHub stars in a single day. On Steam, Counter-Strike 2 held the largest live crowd, with over 1.35 million players in game at once.",
   "throughlines": [
     {
-      "title": "September 11 attacks",
-      "gist": "The anniversary sent 665,793 readers to Wikipedia's account of the attacks, the day's most-read article by a wide margin.",
+      "title": "Ben Shelton",
+      "gist": "A tennis story reaching past the court: he led Wikipedia's most-read list while Polymarket ran an active market on his US Open match with Alexander Zverev.",
       "sources": [
+        "polymarket",
         "wikipedia"
       ],
-      "url": "https://en.wikipedia.org/wiki/September_11_attacks",
-      "kind": "single"
+      "url": "https://en.wikipedia.org/wiki/Ben_Shelton",
+      "kind": "cluster"
     },
     {
-      "title": "ayghri/i-have-adhd",
-      "gist": "A tool meant to stop coding agents from burying the answer picked up 3,463 stars today to top GitHub's trending list.",
+      "title": "bilawalsidhu/gods-eye-view",
+      "gist": "A fast-rising open-source project that took the top of GitHub trending, adding roughly 2,300 stars in a single day.",
       "sources": [
         "github"
       ],
-      "url": "https://github.com/ayghri/i-have-adhd",
+      "url": "https://github.com/bilawalsidhu/gods-eye-view",
       "kind": "single"
     },
     {
-      "title": "Google no longer provides direct URLs in search results",
-      "gist": "A post arguing that Google now routes result links through itself led Hacker News with 198 points and 103 comments.",
+      "title": "The Interim Computer Museum",
+      "gist": "A quiet passion project holding the front of Hacker News with 58 points and an early handful of comments.",
       "sources": [
         "hackernews"
       ],
-      "url": "https://www.autom.dev/blog/google-search-goto-links",
+      "url": "https://icm.museum/",
       "kind": "single"
     }
   ],
-  "strength": 15,
+  "strength": 70,
   "live_sources": 17,
   "total_sources": 17,
   "dashboard_url": "https://nnnsightnnn.github.io/web-pulse/",
