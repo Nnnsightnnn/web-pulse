@@ -1,38 +1,38 @@
 {
-  "date": "2026-09-13",
-  "generated_at": "2026-09-13T05:23:54.555Z",
-  "lede": "One name surfaced in two very different corners of the web today: Ben Shelton topped Wikipedia with about 434,000 views, while bettors on Polymarket priced his US Open match against Alexander Zverev, with Zverev the slight favorite. Builders, meanwhile, poured onto bilawalsidhu/gods-eye-view, which pulled in more than 2,200 GitHub stars in a single day. On Steam, Counter-Strike 2 held the largest live crowd, with over 1.35 million players in game at once.",
+  "date": "2026-09-14",
+  "generated_at": "2026-09-14T05:23:11.724Z",
+  "lede": "Only one story crossed feeds on Monday, September 14: Hanuman Ansh, the devotional drama pulling Indian search traffic, surfaced on Google Trends and Wikipedia at the same time. Everywhere else the web split into its usual lanes. On GitHub, a tiny C project called colibri gathered 868 stars in a single day to lead trending, and on Hacker News a claim that Fable 5.1 cracked a 370-year-old cipher drew 673 points and 291 comments. A quiet, scattered day, pulse reading 37 out of 100.",
   "throughlines": [
     {
-      "title": "Ben Shelton",
-      "gist": "A tennis story reaching past the court: he led Wikipedia's most-read list while Polymarket ran an active market on his US Open match with Alexander Zverev.",
+      "title": "hanuman ansh box office",
+      "gist": "A devotional drama dominating Indian search and Wikipedia readership at once, the day's only story to land on two feeds.",
       "sources": [
-        "polymarket",
+        "google-trends",
         "wikipedia"
       ],
-      "url": "https://en.wikipedia.org/wiki/Ben_Shelton",
+      "url": "https://en.wikipedia.org/wiki/Hanuman_Ansh",
       "kind": "cluster"
     },
     {
-      "title": "bilawalsidhu/gods-eye-view",
-      "gist": "A fast-rising open-source project that took the top of GitHub trending, adding roughly 2,300 stars in a single day.",
+      "title": "JustVugg/colibri",
+      "gist": "A pure-C engine for running large mixture-of-experts models on hardware you already own, up 868 stars in a day to top GitHub trending.",
       "sources": [
         "github"
       ],
-      "url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "url": "https://github.com/JustVugg/colibri",
       "kind": "single"
     },
     {
-      "title": "The Interim Computer Museum",
-      "gist": "A quiet passion project holding the front of Hacker News with 58 points and an early handful of comments.",
+      "title": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
+      "gist": "A report that an AI model solved the Cyphral Distich, a 370-year-old cipher, leading Hacker News with 673 points and 291 comments.",
       "sources": [
         "hackernews"
       ],
-      "url": "https://icm.museum/",
+      "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
       "kind": "single"
     }
   ],
-  "strength": 70,
+  "strength": 37,
   "live_sources": 17,
   "total_sources": 17,
   "dashboard_url": "https://nnnsightnnn.github.io/web-pulse/",
