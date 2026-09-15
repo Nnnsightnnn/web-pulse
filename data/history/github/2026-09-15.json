@@ -1,0 +1,207 @@
+{
+  "source": "github",
+  "label": "GitHub — trending today",
+  "fetched_at": "2026-09-15T05:29:43.945Z",
+  "items": [
+    {
+      "rank": 1,
+      "title": "JustVugg/colibri",
+      "url": "https://github.com/JustVugg/colibri",
+      "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+      "language": "C",
+      "stars_today": 2173,
+      "stars": 32434,
+      "forks": 3412
+    },
+    {
+      "rank": 2,
+      "title": "alibaba/open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "language": "Go",
+      "stars_today": 1571,
+      "stars": 26281,
+      "forks": 1896
+    },
+    {
+      "rank": 3,
+      "title": "multimodal-art-projection/YuE",
+      "url": "https://github.com/multimodal-art-projection/YuE",
+      "description": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
+      "language": "Python",
+      "stars_today": 559,
+      "stars": 8570,
+      "forks": 919
+    },
+    {
+      "rank": 4,
+      "title": "debpalash/VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "language": "Python",
+      "stars_today": 2776,
+      "stars": 29667,
+      "forks": 3592
+    },
+    {
+      "rank": 5,
+      "title": "666ghj/MiroFish",
+      "url": "https://github.com/666ghj/MiroFish",
+      "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+      "language": "Python",
+      "stars_today": 560,
+      "stars": 73373,
+      "forks": 11296
+    },
+    {
+      "rank": 6,
+      "title": "Panniantong/Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "language": "Python",
+      "stars_today": 651,
+      "stars": 81551,
+      "forks": 7095
+    },
+    {
+      "rank": 7,
+      "title": "asgeirtj/system_prompts_leaks",
+      "url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "description": "Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.",
+      "language": "JavaScript",
+      "stars_today": 764,
+      "stars": 66939,
+      "forks": 10881
+    },
+    {
+      "rank": 8,
+      "title": "rlaope/oh-my-hermes",
+      "url": "https://github.com/rlaope/oh-my-hermes",
+      "description": "All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages",
+      "language": "Python",
+      "stars_today": 77,
+      "stars": 2190,
+      "forks": 168
+    },
+    {
+      "rank": 9,
+      "title": "localsend/localsend",
+      "url": "https://github.com/localsend/localsend",
+      "description": "An open-source cross-platform alternative to AirDrop",
+      "language": "Dart",
+      "stars_today": 251,
+      "stars": 91446,
+      "forks": 5102
+    },
+    {
+      "rank": 10,
+      "title": "dani-garcia/vaultwarden",
+      "url": "https://github.com/dani-garcia/vaultwarden",
+      "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
+      "language": "Rust",
+      "stars_today": 115,
+      "stars": 67589,
+      "forks": 3213
+    },
+    {
+      "rank": 11,
+      "title": "TauricResearch/TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "language": "Python",
+      "stars_today": 745,
+      "stars": 106306,
+      "forks": 20326
+    },
+    {
+      "rank": 12,
+      "title": "ruvnet/RuView",
+      "url": "https://github.com/ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "language": "Rust",
+      "stars_today": 383,
+      "stars": 93959,
+      "forks": 12437
+    },
+    {
+      "rank": 13,
+      "title": "tech-leads-club/agent-skills",
+      "url": "https://github.com/tech-leads-club/agent-skills",
+      "description": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.",
+      "language": "TypeScript",
+      "stars_today": 512,
+      "stars": 6157,
+      "forks": 520
+    },
+    {
+      "rank": 14,
+      "title": "OpenBMB/VoxCPM",
+      "url": "https://github.com/OpenBMB/VoxCPM",
+      "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+      "language": "Python",
+      "stars_today": 216,
+      "stars": 37459,
+      "forks": 4253
+    },
+    {
+      "rank": 15,
+      "title": "huggingface/transformers",
+      "url": "https://github.com/huggingface/transformers",
+      "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
+      "language": "Python",
+      "stars_today": 536,
+      "stars": 166080,
+      "forks": 34580
+    },
+    {
+      "rank": 16,
+      "title": "ever-co/ever-gauzy",
+      "url": "https://github.com/ever-co/ever-gauzy",
+      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
+      "language": "TypeScript",
+      "stars_today": 1130,
+      "stars": 6118,
+      "forks": 992
+    },
+    {
+      "rank": 17,
+      "title": "Crosstalk-Solutions/project-nomad",
+      "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+      "description": "Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.",
+      "language": "TypeScript",
+      "stars_today": 40,
+      "stars": 37007,
+      "forks": 3691
+    },
+    {
+      "rank": 18,
+      "title": "reconurge/flowsint",
+      "url": "https://github.com/reconurge/flowsint",
+      "description": "A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.",
+      "language": "TypeScript",
+      "stars_today": 280,
+      "stars": 8434,
+      "forks": 1031
+    },
+    {
+      "rank": 19,
+      "title": "peetzweg/opendisplay",
+      "url": "https://github.com/peetzweg/opendisplay",
+      "description": "Free, open-source Sidecar/Duet alternative — use your iPhone or iPad as a true second monitor for your Mac over USB or WiFi. Low latency H.264, Retina HiDPI, touch input.",
+      "language": "Swift",
+      "stars_today": 229,
+      "stars": 3687,
+      "forks": 252
+    },
+    {
+      "rank": 20,
+      "title": "SnailSploit/Claude-Red",
+      "url": "https://github.com/SnailSploit/Claude-Red",
+      "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+      "language": "Python",
+      "stars_today": 579,
+      "stars": 4902,
+      "forks": 639
+    }
+  ]
+}

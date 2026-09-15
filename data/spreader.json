@@ -1,38 +1,39 @@
 {
-  "date": "2026-09-14",
-  "generated_at": "2026-09-14T05:23:11.724Z",
-  "lede": "Only one story crossed feeds on Monday, September 14: Hanuman Ansh, the devotional drama pulling Indian search traffic, surfaced on Google Trends and Wikipedia at the same time. Everywhere else the web split into its usual lanes. On GitHub, a tiny C project called colibri gathered 868 stars in a single day to lead trending, and on Hacker News a claim that Fable 5.1 cracked a 370-year-old cipher drew 673 points and 291 comments. A quiet, scattered day, pulse reading 37 out of 100.",
+  "date": "2026-09-15",
+  "generated_at": "2026-09-15T05:28:37.792Z",
+  "lede": "Valve's Steam Frame headset was the day's one story to cross feeds, landing on Hacker News and YouTube at once: word that it starts at $1,059 met its first big review within hours. Underneath that, the web sorted itself by crowd size, the way it usually does on a Tuesday. Counter-Strike 2 pulled nearly 1.2 million concurrent players on Steam, and a small coding tool called colibri gathered more than 2,100 GitHub stars in a single day. The quietest thread was a farewell: costume designer Bob Mackie surfaced across Bluesky and Wikipedia after news of his death.",
   "throughlines": [
     {
-      "title": "hanuman ansh box office",
-      "gist": "A devotional drama dominating Indian search and Wikipedia readership at once, the day's only story to land on two feeds.",
+      "title": "Steam Frame Review - This Changes Everything",
+      "gist": "Valve's new headset starts at $1,059, and its first review hit YouTube the same day the price landed on Hacker News.",
       "sources": [
-        "google-trends",
+        "hackernews",
+        "youtube"
+      ],
+      "url": "https://news.ycombinator.com/item?id=49700661",
+      "kind": "cluster"
+    },
+    {
+      "title": "Bob Mackie",
+      "gist": "The costume designer's Wikipedia page climbed alongside a Bluesky tribute following news of his death.",
+      "sources": [
+        "bluesky",
         "wikipedia"
       ],
-      "url": "https://en.wikipedia.org/wiki/Hanuman_Ansh",
+      "url": "https://en.wikipedia.org/wiki/Bob_Mackie",
       "kind": "cluster"
     },
     {
       "title": "JustVugg/colibri",
-      "gist": "A pure-C engine for running large mixture-of-experts models on hardware you already own, up 868 stars in a day to top GitHub trending.",
+      "gist": "A small open-source project topped GitHub's trending list, gaining more than 2,100 stars in a single day.",
       "sources": [
         "github"
       ],
       "url": "https://github.com/JustVugg/colibri",
       "kind": "single"
-    },
-    {
-      "title": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
-      "gist": "A report that an AI model solved the Cyphral Distich, a 370-year-old cipher, leading Hacker News with 673 points and 291 comments.",
-      "sources": [
-        "hackernews"
-      ],
-      "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
-      "kind": "single"
     }
   ],
-  "strength": 37,
+  "strength": 62,
   "live_sources": 17,
   "total_sources": 17,
   "dashboard_url": "https://nnnsightnnn.github.io/web-pulse/",
