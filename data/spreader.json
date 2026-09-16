@@ -1,35 +1,35 @@
 {
-  "date": "2026-09-15",
-  "generated_at": "2026-09-15T05:28:37.792Z",
-  "lede": "Valve's Steam Frame headset was the day's one story to cross feeds, landing on Hacker News and YouTube at once: word that it starts at $1,059 met its first big review within hours. Underneath that, the web sorted itself by crowd size, the way it usually does on a Tuesday. Counter-Strike 2 pulled nearly 1.2 million concurrent players on Steam, and a small coding tool called colibri gathered more than 2,100 GitHub stars in a single day. The quietest thread was a farewell: costume designer Bob Mackie surfaced across Bluesky and Wikipedia after news of his death.",
+  "date": "2026-09-16",
+  "generated_at": "2026-09-16T05:23:27.506Z",
+  "lede": "Wednesday's web had one story jumping feeds at once: three supporting acts quit Ed Sheeran's tour after Macklemore was dropped over comments on Palestine, a fight that surfaced on both Bluesky and Lemmy the same day. The same saga pulled Robert Kraft into frame and sent his Wikipedia page to 156,382 views. Away from the noise, Alibaba's open-code-review topped GitHub trending with 2,756 stars in a day, and Monster Hunter Wilds held the evening on Steam with 42,617 concurrent players.",
   "throughlines": [
     {
-      "title": "Steam Frame Review - This Changes Everything",
-      "gist": "Valve's new headset starts at $1,059, and its first review hit YouTube the same day the price landed on Hacker News.",
+      "title": "Three supporting acts quit Ed Sheeran’s tour after Macklemore is dropped over Palestine comments",
+      "gist": "A tour lineup comes apart over politics, and the story broke across Bluesky and Lemmy on the same day, a sign it has real reach.",
       "sources": [
-        "hackernews",
-        "youtube"
+        "bluesky",
+        "lemmy"
       ],
-      "url": "https://news.ycombinator.com/item?id=49700661",
+      "url": "https://lemmy.world/post/51955590",
       "kind": "cluster"
     },
     {
-      "title": "Bob Mackie",
-      "gist": "The costume designer's Wikipedia page climbed alongside a Bluesky tribute following news of his death.",
+      "title": "Robert Kraft",
+      "gist": "Kraft's name rode the same Ed Sheeran controversy from Bluesky posts into a Wikipedia spike of 156,382 views.",
       "sources": [
         "bluesky",
         "wikipedia"
       ],
-      "url": "https://en.wikipedia.org/wiki/Bob_Mackie",
+      "url": "https://en.wikipedia.org/wiki/Robert_Kraft",
       "kind": "cluster"
     },
     {
-      "title": "JustVugg/colibri",
-      "gist": "A small open-source project topped GitHub's trending list, gaining more than 2,100 stars in a single day.",
+      "title": "alibaba/open-code-review",
+      "gist": "An LLM-plus-rules code review tool from Alibaba topped GitHub trending with 2,756 stars in a day, a marker of where developer attention is heading.",
       "sources": [
         "github"
       ],
-      "url": "https://github.com/JustVugg/colibri",
+      "url": "https://github.com/alibaba/open-code-review",
       "kind": "single"
     }
   ],
