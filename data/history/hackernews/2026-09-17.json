@@ -1,0 +1,232 @@
+{
+  "source": "hackernews",
+  "label": "Hacker News — top stories",
+  "fetched_at": "2026-09-17T12:36:34.771Z",
+  "items": [
+    {
+      "rank": 1,
+      "title": "One Year of Sponsored Servo Development",
+      "url": "https://servo.org/blog/2026/09/15/one-year-of-sponsorship/",
+      "hn_url": "https://news.ycombinator.com/item?id=49737849",
+      "score": 162,
+      "comments": 68,
+      "author": "AshleysBrain"
+    },
+    {
+      "rank": 2,
+      "title": "Neovim have a ~$800k Bitcoin donation sitting untouched since 2023",
+      "url": "https://news.ycombinator.com/item?id=49738879",
+      "hn_url": "https://news.ycombinator.com/item?id=49738879",
+      "score": 146,
+      "comments": 42,
+      "author": "jakemanger"
+    },
+    {
+      "rank": 3,
+      "title": "Nvidia announces native GPU programming in Rust",
+      "url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
+      "hn_url": "https://news.ycombinator.com/item?id=49724881",
+      "score": 761,
+      "comments": 307,
+      "author": "nonmaskable"
+    },
+    {
+      "rank": 4,
+      "title": "Better Vector Search for Long Documents: Chunking Inside Manticore Search",
+      "url": "https://manticoresearch.com/blog/auto-chunking/",
+      "hn_url": "https://news.ycombinator.com/item?id=49738766",
+      "score": 27,
+      "comments": 1,
+      "author": "GloriaVinogrado"
+    },
+    {
+      "rank": 5,
+      "title": "My temporary PHP fix from 2014 has nearly 20M installs. Today I'm deprecating it",
+      "url": "https://jakeasmith.com/blog/http-build-url/",
+      "hn_url": "https://news.ycombinator.com/item?id=49718773",
+      "score": 168,
+      "comments": 42,
+      "author": "jakeasmith"
+    },
+    {
+      "rank": 6,
+      "title": "Keys Not Included: recovering the signing keys for US driver's license barcodes",
+      "url": "https://ryan.science/blog/keys-not-included",
+      "hn_url": "https://news.ycombinator.com/item?id=49735930",
+      "score": 208,
+      "comments": 74,
+      "author": "Ryan5453"
+    },
+    {
+      "rank": 7,
+      "title": "The Relation Between Mathematics and Physics by Paul Dirac",
+      "url": "https://www.damtp.cam.ac.uk/events/strings02/dirac/speach.html",
+      "hn_url": "https://news.ycombinator.com/item?id=49685835",
+      "score": 89,
+      "comments": 26,
+      "author": "rramadass"
+    },
+    {
+      "rank": 8,
+      "title": "Training a 4B model to produce 81% faster query plans than Postgres",
+      "url": "https://rohanbansal.com/qorl",
+      "hn_url": "https://news.ycombinator.com/item?id=49731285",
+      "score": 585,
+      "comments": 121,
+      "author": "polyphilz"
+    },
+    {
+      "rank": 9,
+      "title": "GLM Built Its Own Inference Infrastructure",
+      "url": "https://z.ai/blog/glm-built-its-inference-infrastructure",
+      "hn_url": "https://news.ycombinator.com/item?id=49737922",
+      "score": 129,
+      "comments": 94,
+      "author": "whiteros_e"
+    },
+    {
+      "rank": 10,
+      "title": "Online Z3 Guide",
+      "url": "https://microsoft.github.io/z3guide/",
+      "hn_url": "https://news.ycombinator.com/item?id=49713347",
+      "score": 25,
+      "comments": 6,
+      "author": "Bluestein"
+    },
+    {
+      "rank": 11,
+      "title": "Xiaomi Mimo 2.6 live post-training dashboard",
+      "url": "https://mimo.xiaomi.com/rl/",
+      "hn_url": "https://news.ycombinator.com/item?id=49732270",
+      "score": 467,
+      "comments": 134,
+      "author": "krackers"
+    },
+    {
+      "rank": 12,
+      "title": "Lucasart's Afterlife",
+      "url": "https://togameforlife.wordpress.com/2023/12/09/on-lucasarts-afterlife/",
+      "hn_url": "https://news.ycombinator.com/item?id=49719751",
+      "score": 44,
+      "comments": 18,
+      "author": "Bondi_Blue"
+    },
+    {
+      "rank": 13,
+      "title": "Small programming tricks",
+      "url": "https://will-keleher.com/posts/small-programming-tricks-matter/",
+      "hn_url": "https://news.ycombinator.com/item?id=49729000",
+      "score": 565,
+      "comments": 251,
+      "author": "signa11"
+    },
+    {
+      "rank": 14,
+      "title": "CCC invites all model citizens to 40C3",
+      "url": "https://events.ccc.de/en/2026/09/12/40c3-model-citizens/",
+      "hn_url": "https://news.ycombinator.com/item?id=49737787",
+      "score": 25,
+      "comments": 0,
+      "author": "antonly"
+    },
+    {
+      "rank": 15,
+      "title": "Comparison of Malloc() Algorithms",
+      "url": "https://egbert.net/blog/articles/comparison-of-arena-architecture-in-malloc.html",
+      "hn_url": "https://news.ycombinator.com/item?id=49715318",
+      "score": 87,
+      "comments": 21,
+      "author": "egberts1"
+    },
+    {
+      "rank": 16,
+      "title": "Developing provably correct Rust code with Verus",
+      "url": "https://www.amazon.science/blog/developing-provably-correct-rust-code-with-verus",
+      "hn_url": "https://news.ycombinator.com/item?id=49700153",
+      "score": 128,
+      "comments": 24,
+      "author": "Betelbuddy"
+    },
+    {
+      "rank": 17,
+      "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
+      "url": "https://arxiv.org/abs/2609.16338",
+      "hn_url": "https://news.ycombinator.com/item?id=49732931",
+      "score": 216,
+      "comments": 34,
+      "author": "matt_d"
+    },
+    {
+      "rank": 18,
+      "title": "Cloudflare/Security-Audit-Skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "hn_url": "https://news.ycombinator.com/item?id=49736466",
+      "score": 96,
+      "comments": 17,
+      "author": "donk8r"
+    },
+    {
+      "rank": 19,
+      "title": "An Archive of Colour Gradients",
+      "url": "https://phillips.shef.ac.uk/pub/cpt-city/",
+      "hn_url": "https://news.ycombinator.com/item?id=49694444",
+      "score": 14,
+      "comments": 2,
+      "author": "ashitlerferad"
+    },
+    {
+      "rank": 20,
+      "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
+      "url": "https://github.com/arnegiacomo/fugleramme",
+      "hn_url": "https://news.ycombinator.com/item?id=49711544",
+      "score": 2194,
+      "comments": 245,
+      "author": "arnemunthekaas"
+    },
+    {
+      "rank": 21,
+      "title": "Backups Aren't Simple",
+      "url": "https://filipovski.net/2026/09/16/backups-arent-simple.html",
+      "hn_url": "https://news.ycombinator.com/item?id=49732513",
+      "score": 268,
+      "comments": 169,
+      "author": "afilipovski"
+    },
+    {
+      "rank": 22,
+      "title": "A 32-year-old bug walks into a Telnet server",
+      "url": "https://labs.watchtowr.com/a-32-year-old-bug-walks-into-a-telnet-server-gnu-inetutils-telnetd-cve-2026-32746/",
+      "hn_url": "https://news.ycombinator.com/item?id=49721291",
+      "score": 70,
+      "comments": 30,
+      "author": "paimapi"
+    },
+    {
+      "rank": 23,
+      "title": "PCB is brought to you by Fable 5",
+      "url": "https://a6mzero.com/posts/this-pcb-is-brought-to-you-by-fable-5/",
+      "hn_url": "https://news.ycombinator.com/item?id=49695689",
+      "score": 129,
+      "comments": 59,
+      "author": "jasonpeacock"
+    },
+    {
+      "rank": 24,
+      "title": "The engineering behind the US Strategic Petroleum Reserve",
+      "url": "https://johnjwang.com/post/2026/09/15/engineering-behind-us-strategic-petroleum-reserve",
+      "hn_url": "https://news.ycombinator.com/item?id=49719596",
+      "score": 224,
+      "comments": 90,
+      "author": "johnjwang"
+    },
+    {
+      "rank": 25,
+      "title": "HarnessTax: How Much Does the Harness Matter for Coding Agents?",
+      "url": "https://harnesstax.github.io/",
+      "hn_url": "https://news.ycombinator.com/item?id=49733726",
+      "score": 150,
+      "comments": 58,
+      "author": "matt_d"
+    }
+  ]
+}

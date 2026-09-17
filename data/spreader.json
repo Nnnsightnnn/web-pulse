@@ -1,40 +1,42 @@
 {
-  "date": "2026-09-16",
-  "generated_at": "2026-09-16T05:23:27.506Z",
-  "lede": "Wednesday's web had one story jumping feeds at once: three supporting acts quit Ed Sheeran's tour after Macklemore was dropped over comments on Palestine, a fight that surfaced on both Bluesky and Lemmy the same day. The same saga pulled Robert Kraft into frame and sent his Wikipedia page to 156,382 views. Away from the noise, Alibaba's open-code-review topped GitHub trending with 2,756 stars in a day, and Monster Hunter Wilds held the evening on Steam with 42,617 concurrent players.",
+  "date": "2026-09-17",
+  "generated_at": "2026-09-17T12:38:21.974Z",
+  "lede": "Robert Kraft is the name the feeds keep landing on today, surfacing on Google Trends, Wikipedia and Lemmy inside the same window. A viral Fesshole confession made a quieter crossover run between Bluesky and Mastodon, and Marvel's Wolverine drew a parallel bump on YouTube and Wikipedia. On the builder side, alibaba/open-code-review topped GitHub Trending while Clipto MCP led the day's Product Hunt launches. Twelve of seventeen sources came back live.",
   "throughlines": [
     {
-      "title": "Three supporting acts quit Ed Sheeran’s tour after Macklemore is dropped over Palestine comments",
-      "gist": "A tour lineup comes apart over politics, and the story broke across Bluesky and Lemmy on the same day, a sign it has real reach.",
+      "title": "ed sheeran robert kraft",
+      "gist": "Robert Kraft is trending across search and forums at once, live on Google Trends, Wikipedia and Lemmy, the day's clearest cross-feed signal.",
       "sources": [
-        "bluesky",
-        "lemmy"
-      ],
-      "url": "https://lemmy.world/post/51955590",
-      "kind": "cluster"
-    },
-    {
-      "title": "Robert Kraft",
-      "gist": "Kraft's name rode the same Ed Sheeran controversy from Bluesky posts into a Wikipedia spike of 156,382 views.",
-      "sources": [
-        "bluesky",
+        "google-trends",
+        "lemmy",
         "wikipedia"
       ],
       "url": "https://en.wikipedia.org/wiki/Robert_Kraft",
       "kind": "cluster"
     },
     {
-      "title": "alibaba/open-code-review",
-      "gist": "An LLM-plus-rules code review tool from Alibaba topped GitHub trending with 2,756 stars in a day, a marker of where developer attention is heading.",
+      "title": "My mate got divorced last year and went full midlife crisis, formed a band and self funded an album. It's bloody awfu…",
+      "gist": "A viral Fesshole confession post crossed from Bluesky to Mastodon, the day's strongest social-only throughline.",
       "sources": [
-        "github"
+        "bluesky",
+        "mastodon-trending"
       ],
-      "url": "https://github.com/alibaba/open-code-review",
-      "kind": "single"
+      "url": "https://bsky.app/profile/fesshole.bsky.social/post/3mvpk6l63vr2t",
+      "kind": "cluster"
+    },
+    {
+      "title": "So I tried Marvel’s Wolverine..",
+      "gist": "Marvel's Wolverine pulled parallel attention on YouTube and its Wikipedia page, gaming's entry in today's crossovers.",
+      "sources": [
+        "wikipedia",
+        "youtube"
+      ],
+      "url": "https://en.wikipedia.org/wiki/Marvel's_Wolverine",
+      "kind": "cluster"
     }
   ],
-  "strength": 62,
-  "live_sources": 17,
+  "strength": 82,
+  "live_sources": 12,
   "total_sources": 17,
   "dashboard_url": "https://nnnsightnnn.github.io/web-pulse/",
   "engine": "ai"
