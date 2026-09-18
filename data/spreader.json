@@ -1,42 +1,41 @@
 {
-  "date": "2026-09-17",
-  "generated_at": "2026-09-17T12:38:21.974Z",
-  "lede": "Robert Kraft is the name the feeds keep landing on today, surfacing on Google Trends, Wikipedia and Lemmy inside the same window. A viral Fesshole confession made a quieter crossover run between Bluesky and Mastodon, and Marvel's Wolverine drew a parallel bump on YouTube and Wikipedia. On the builder side, alibaba/open-code-review topped GitHub Trending while Clipto MCP led the day's Product Hunt launches. Twelve of seventeen sources came back live.",
+  "date": "2026-09-18",
+  "generated_at": "2026-09-18T05:20:51.971Z",
+  "lede": "The web's loudest signal this Friday, September 18, was a quiet one: a photograph of the Andromeda Galaxy, shared by an astrophotographer's partner, surfaced at the same moment on both Bluesky and Mastodon, the day's strongest cross-feed story. The developer channels told a tighter tale, with Alibaba's Qwen 3.8 model family appearing twice across Hacker News and Hugging Face on the same afternoon. On GitHub, an AI code-review tool from Alibaba led the trending board, while Counter-Strike 2 held the top of Steam through the evening. Sixteen of seventeen sources reported in.",
   "throughlines": [
     {
-      "title": "ed sheeran robert kraft",
-      "gist": "Robert Kraft is trending across search and forums at once, live on Google Trends, Wikipedia and Lemmy, the day's clearest cross-feed signal.",
-      "sources": [
-        "google-trends",
-        "lemmy",
-        "wikipedia"
-      ],
-      "url": "https://en.wikipedia.org/wiki/Robert_Kraft",
-      "kind": "cluster"
-    },
-    {
-      "title": "My mate got divorced last year and went full midlife crisis, formed a band and self funded an album. It's bloody awfu…",
-      "gist": "A viral Fesshole confession post crossed from Bluesky to Mastodon, the day's strongest social-only throughline.",
+      "title": "My husband's into astrophotography, and this is his photo of the Andromeda Galaxy! #astronomy #galaxy #photography",
+      "gist": "An amateur image of the Andromeda Galaxy, our nearest large galactic neighbor, surfaced on Bluesky and Mastodon at the same time, a rare case of one human moment trending across two independent networks.",
       "sources": [
         "bluesky",
         "mastodon-trending"
       ],
-      "url": "https://bsky.app/profile/fesshole.bsky.social/post/3mvpk6l63vr2t",
+      "url": "https://bsky.app/profile/joyousjoyness.com/post/3mvr337doix2n",
       "kind": "cluster"
     },
     {
-      "title": "So I tried Marvel’s Wolverine..",
-      "gist": "Marvel's Wolverine pulled parallel attention on YouTube and its Wikipedia page, gaming's entry in today's crossovers.",
+      "title": "Qwen/Qwen3.8-27B",
+      "gist": "Alibaba's newest open-weight Qwen model drew notice on Hacker News and Hugging Face at once, a sign the release is landing with builders and readers together.",
       "sources": [
-        "wikipedia",
-        "youtube"
+        "hackernews",
+        "huggingface"
       ],
-      "url": "https://en.wikipedia.org/wiki/Marvel's_Wolverine",
+      "url": "https://news.ycombinator.com/item?id=49749393",
+      "kind": "cluster"
+    },
+    {
+      "title": "Qwen 3.8 Omni Flash",
+      "gist": "A second variant in the same Qwen 3.8 line, the multimodal Omni Flash, crossed the same two feeds, pointing to the family's breadth rather than a single headline model.",
+      "sources": [
+        "hackernews",
+        "huggingface"
+      ],
+      "url": "https://news.ycombinator.com/item?id=49747925",
       "kind": "cluster"
     }
   ],
-  "strength": 82,
-  "live_sources": 12,
+  "strength": 100,
+  "live_sources": 16,
   "total_sources": 17,
   "dashboard_url": "https://nnnsightnnn.github.io/web-pulse/",
   "engine": "ai"
