@@ -1,41 +1,39 @@
 {
-  "date": "2026-09-18",
-  "generated_at": "2026-09-18T05:20:51.971Z",
-  "lede": "The web's loudest signal this Friday, September 18, was a quiet one: a photograph of the Andromeda Galaxy, shared by an astrophotographer's partner, surfaced at the same moment on both Bluesky and Mastodon, the day's strongest cross-feed story. The developer channels told a tighter tale, with Alibaba's Qwen 3.8 model family appearing twice across Hacker News and Hugging Face on the same afternoon. On GitHub, an AI code-review tool from Alibaba led the trending board, while Counter-Strike 2 held the top of Steam through the evening. Sixteen of seventeen sources reported in.",
+  "date": "2026-09-19",
+  "generated_at": "2026-09-19T05:22:39.213Z",
+  "lede": "The one story that crossed feeds today was Claude Code: it sat near the top of GitHub's trending repos while Hacker News picked up the news that the tool now reads AGENTS.md when no Claude.md is present. The day's single largest number came from elsewhere, a Wikipedia page: Lizzie Borden drew 896,572 views, the most-read article of the day. On Steam, Counter-Strike 2 held the largest live crowd.",
   "throughlines": [
     {
-      "title": "My husband's into astrophotography, and this is his photo of the Andromeda Galaxy! #astronomy #galaxy #photography",
-      "gist": "An amateur image of the Andromeda Galaxy, our nearest large galactic neighbor, surfaced on Bluesky and Mastodon at the same time, a rare case of one human moment trending across two independent networks.",
+      "title": "anthropics/claude-code",
+      "gist": "Claude Code turned up on both GitHub trending and Hacker News, where the draw was its new habit of reading AGENTS.md when no Claude.md exists.",
       "sources": [
-        "bluesky",
-        "mastodon-trending"
+        "github",
+        "hackernews"
       ],
-      "url": "https://bsky.app/profile/joyousjoyness.com/post/3mvr337doix2n",
+      "url": "https://news.ycombinator.com/item?id=49760187",
       "kind": "cluster"
     },
     {
-      "title": "Qwen/Qwen3.8-27B",
-      "gist": "Alibaba's newest open-weight Qwen model drew notice on Hacker News and Hugging Face at once, a sign the release is landing with builders and readers together.",
+      "title": "Lizzie Borden",
+      "gist": "The 19th-century murder case drew 896,572 Wikipedia views, the day's most-read article.",
       "sources": [
-        "hackernews",
-        "huggingface"
+        "wikipedia"
       ],
-      "url": "https://news.ycombinator.com/item?id=49749393",
-      "kind": "cluster"
+      "url": "https://en.wikipedia.org/wiki/Lizzie_Borden",
+      "kind": "single"
     },
     {
-      "title": "Qwen 3.8 Omni Flash",
-      "gist": "A second variant in the same Qwen 3.8 line, the multimodal Omni Flash, crossed the same two feeds, pointing to the family's breadth rather than a single headline model.",
+      "title": "Clipto MCP",
+      "gist": "Clipto MCP took the top launch spot on Product Hunt today.",
       "sources": [
-        "hackernews",
-        "huggingface"
+        "product-hunt"
       ],
-      "url": "https://news.ycombinator.com/item?id=49747925",
-      "kind": "cluster"
+      "url": "https://www.producthunt.com/products/clipto-ai/launches/clipto-mcp?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+web-pulse+%28ID%3A+282925%29",
+      "kind": "single"
     }
   ],
-  "strength": 100,
-  "live_sources": 16,
+  "strength": 47,
+  "live_sources": 17,
   "total_sources": 17,
   "dashboard_url": "https://nnnsightnnn.github.io/web-pulse/",
   "engine": "ai"
