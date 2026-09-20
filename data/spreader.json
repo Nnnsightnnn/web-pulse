@@ -1,38 +1,40 @@
 {
-  "date": "2026-09-19",
-  "generated_at": "2026-09-19T05:22:39.213Z",
-  "lede": "The one story that crossed feeds today was Claude Code: it sat near the top of GitHub's trending repos while Hacker News picked up the news that the tool now reads AGENTS.md when no Claude.md is present. The day's single largest number came from elsewhere, a Wikipedia page: Lizzie Borden drew 896,572 views, the most-read article of the day. On Steam, Counter-Strike 2 held the largest live crowd.",
+  "date": "2026-09-20",
+  "generated_at": "2026-09-20T05:22:34.893Z",
+  "lede": "The web's feeds mostly agreed on sport this Sunday: são paulo x internacional surfaced on both Google Trends and Polymarket at once, the strongest of three cross-feed clusters, with UFC 331 and the 2026 Asian Games close behind. Away from the pitch, a true-crime wave carried Lizzie Borden to the top of Wikipedia at 973,878 views, pulled along by the new series Monster: The Lizzie Borden Story. On GitHub, cloudflare/security-audit-skill led trending with 3,155 stars in a day, while Counter-Strike 2 held Steam with 1,317,931 concurrent players.",
   "throughlines": [
     {
-      "title": "anthropics/claude-code",
-      "gist": "Claude Code turned up on both GitHub trending and Hacker News, where the draw was its new habit of reading AGENTS.md when no Claude.md exists.",
+      "title": "são paulo x internacional",
+      "gist": "A Brasileirão match between São Paulo and Internacional, live enough to register on both Google's search spikes and Polymarket's betting at the same minute.",
       "sources": [
-        "github",
-        "hackernews"
+        "google-trends",
+        "polymarket"
       ],
-      "url": "https://news.ycombinator.com/item?id=49760187",
+      "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/09/19/sao-paulo-x-internacional-como-foi-o-jogo-pelo-brasileirao-2026.ghtm",
       "kind": "cluster"
     },
     {
-      "title": "Lizzie Borden",
-      "gist": "The 19th-century murder case drew 896,572 Wikipedia views, the day's most-read article.",
+      "title": "UFC 331: Patricio Pitbull vs. Dooho Choi (Featherweight, Main Card)",
+      "gist": "A UFC 331 featherweight bout drawing both a Wikipedia audience and Polymarket money as the card played out.",
       "sources": [
+        "polymarket",
         "wikipedia"
       ],
-      "url": "https://en.wikipedia.org/wiki/Lizzie_Borden",
-      "kind": "single"
+      "url": "https://en.wikipedia.org/wiki/UFC_331",
+      "kind": "cluster"
     },
     {
-      "title": "Clipto MCP",
-      "gist": "Clipto MCP took the top launch spot on Product Hunt today.",
+      "title": "asian games japan 2026",
+      "gist": "The 2026 Asian Games in Japan, showing up on both Wikipedia and Google Trends as the event's coverage ramps up.",
       "sources": [
-        "product-hunt"
+        "google-trends",
+        "wikipedia"
       ],
-      "url": "https://www.producthunt.com/products/clipto-ai/launches/clipto-mcp?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+web-pulse+%28ID%3A+282925%29",
-      "kind": "single"
+      "url": "https://en.wikipedia.org/wiki/2026_Asian_Games",
+      "kind": "cluster"
     }
   ],
-  "strength": 47,
+  "strength": 73,
   "live_sources": 17,
   "total_sources": 17,
   "dashboard_url": "https://nnnsightnnn.github.io/web-pulse/",

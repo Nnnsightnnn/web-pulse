@@ -1,0 +1,457 @@
+{
+  "source": "polymarket",
+  "label": "Polymarket — top 24h volume",
+  "fetched_at": "2026-09-20T05:22:33.987Z",
+  "items": [
+    {
+      "rank": 1,
+      "title": "Will United Russia (ER) gain the most seats in the next Russian parliamentary election?",
+      "url": "https://polymarket.com/event/which-party-will-gain-most-seats-in-russian-parliamentary-election",
+      "volume_24h": 1601129.416535003,
+      "volume_total": 16144126.593740994,
+      "liquidity": 495790.2656,
+      "yes_price": 0.815,
+      "leader": {
+        "name": "Yes",
+        "price": 0.815
+      },
+      "end_date": "2026-09-30T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Miami Marlins vs. San Diego Padres",
+      "url": "https://polymarket.com/event/mlb-mia-sd-2026-09-19",
+      "volume_24h": 812235.8928090008,
+      "volume_total": 812474.2240959997,
+      "liquidity": 828219.60688,
+      "yes_price": 0.0005,
+      "leader": {
+        "name": "San Diego Padres",
+        "price": 0.9995
+      },
+      "end_date": "2026-09-27T00:40:00Z",
+      "outcomes": [
+        "Miami Marlins",
+        "San Diego Padres"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Fresno State vs. San Jose State",
+      "url": "https://polymarket.com/event/cfb-frest-sjst-2026-09-19",
+      "volume_24h": 768270.8891720001,
+      "volume_total": 771428.6491720001,
+      "liquidity": 141076.5149,
+      "yes_price": 0.875,
+      "leader": {
+        "name": "Fresno State",
+        "price": 0.875
+      },
+      "end_date": "2026-09-20T03:00:00Z",
+      "outcomes": [
+        "Fresno State",
+        "San Jose State"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Minnesota Twins vs. Los Angeles Angels",
+      "url": "https://polymarket.com/event/mlb-min-laa-2026-09-19",
+      "volume_24h": 621496.404558001,
+      "volume_total": 621624.3945579999,
+      "liquidity": 58132.3345,
+      "yes_price": 0.005,
+      "leader": {
+        "name": "Los Angeles Angels",
+        "price": 0.995
+      },
+      "end_date": "2026-09-27T01:38:00Z",
+      "outcomes": [
+        "Minnesota Twins",
+        "Los Angeles Angels"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Will Greg Abbott win the 2028 Republican presidential nomination?",
+      "url": "https://polymarket.com/event/republican-presidential-nominee-2028",
+      "volume_24h": 611519.466,
+      "volume_total": 21329335.819705997,
+      "liquidity": 1106963.93791,
+      "yes_price": 0.0015,
+      "leader": {
+        "name": "No",
+        "price": 0.9985
+      },
+      "end_date": "2028-11-07T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Spread: Auburn (-4.5)",
+      "url": "https://polymarket.com/event/cfb-fl-aubrn-2026-09-19",
+      "volume_24h": 600030.03,
+      "volume_total": 600030.03,
+      "liquidity": 505.4691,
+      "yes_price": 0.0045,
+      "leader": {
+        "name": "Florida",
+        "price": 0.9955
+      },
+      "end_date": "2026-09-19T23:00:00Z",
+      "outcomes": [
+        "Auburn",
+        "Florida"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "James Madison vs. San Diego State",
+      "url": "https://polymarket.com/event/cfb-jmad-sdst-2026-09-19",
+      "volume_24h": 562442.702947,
+      "volume_total": 562861.2140040003,
+      "liquidity": 59416.90625,
+      "yes_price": 0.925,
+      "leader": {
+        "name": "James Madison",
+        "price": 0.925
+      },
+      "end_date": "2026-09-20T02:00:00Z",
+      "outcomes": [
+        "James Madison",
+        "San Diego State"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Clarity Act (H.R.3633) signed into law in 2026?",
+      "url": "https://polymarket.com/event/clarity-act-signed-into-law-in-2026",
+      "volume_24h": 554353.8220410001,
+      "volume_total": 22486703.721542004,
+      "liquidity": 371878.82671,
+      "yes_price": 0.0755,
+      "leader": {
+        "name": "No",
+        "price": 0.9245
+      },
+      "end_date": "2027-01-01T05:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Bengals vs. Texans",
+      "url": "https://polymarket.com/event/nfl-cin-hou-2026-09-20",
+      "volume_24h": 480884.43260500004,
+      "volume_total": 732663.9736730001,
+      "liquidity": 2330523.9857,
+      "yes_price": 0.415,
+      "leader": {
+        "name": "Texans",
+        "price": 0.585
+      },
+      "end_date": "2026-09-20T17:00:00Z",
+      "outcomes": [
+        "Bengals",
+        "Texans"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Spread: KC (-5.5)",
+      "url": "https://polymarket.com/event/nfl-ind-kc-2026-09-21",
+      "volume_24h": 459881.2209489999,
+      "volume_total": 460083.77448200015,
+      "liquidity": 151650.0734,
+      "yes_price": 0.495,
+      "leader": {
+        "name": "IND",
+        "price": 0.505
+      },
+      "end_date": "2026-09-21T00:20:00Z",
+      "outcomes": [
+        "KC",
+        "IND"
+      ]
+    },
+    {
+      "rank": 11,
+      "title": "Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?",
+      "url": "https://polymarket.com/event/uefa-champions-league-2027-champion-20260701202025549",
+      "volume_24h": 377304.7,
+      "volume_total": 19849154.912,
+      "liquidity": 433128.60788,
+      "yes_price": 0.0015,
+      "leader": {
+        "name": "No",
+        "price": 0.9985
+      },
+      "end_date": "2027-05-30T23:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 12,
+      "title": "Will Real Madrid CF win on 2026-09-20?",
+      "url": "https://polymarket.com/event/lal-mad-rea-2026-09-20",
+      "volume_24h": 376469.44395299995,
+      "volume_total": 437009.44145099993,
+      "liquidity": 419353.2505,
+      "yes_price": 0.475,
+      "leader": {
+        "name": "No",
+        "price": 0.525
+      },
+      "end_date": "2026-09-20T14:15:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 13,
+      "title": "Will CF América win on 2026-09-19?",
+      "url": "https://polymarket.com/event/mex-ame-gua-2026-09-19",
+      "volume_24h": 327718.7297289996,
+      "volume_total": 342296.33879500005,
+      "liquidity": 24964.06046,
+      "yes_price": 0.0895,
+      "leader": {
+        "name": "No",
+        "price": 0.9105
+      },
+      "end_date": "2026-09-20T03:15:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 14,
+      "title": "Will Elissa Slotkin win the 2028 Democratic presidential nomination?",
+      "url": "https://polymarket.com/event/democratic-presidential-nominee-2028",
+      "volume_24h": 315042.09,
+      "volume_total": 1612570.036781,
+      "liquidity": 1127280.37441,
+      "yes_price": 0.0015,
+      "leader": {
+        "name": "No",
+        "price": 0.9985
+      },
+      "end_date": "2028-11-07T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 15,
+      "title": "Will the U.S. invade Iran before 2027?",
+      "url": "https://polymarket.com/event/will-the-us-invade-iran-before-2027",
+      "volume_24h": 301983.34384199994,
+      "volume_total": 67325002.45903698,
+      "liquidity": 673422.7845,
+      "yes_price": 0.165,
+      "leader": {
+        "name": "No",
+        "price": 0.835
+      },
+      "end_date": "2027-01-01T04:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 16,
+      "title": "Will Brentford win the 2026-27 English Premier League (EPL) Championship?",
+      "url": "https://polymarket.com/event/epl-2027-champion-20260701200428749",
+      "volume_24h": 285960.726834,
+      "volume_total": 1363195.8855659997,
+      "liquidity": 305805.52507,
+      "yes_price": 0.0045,
+      "leader": {
+        "name": "No",
+        "price": 0.9955
+      },
+      "end_date": "2027-05-30T23:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 17,
+      "title": "San Francisco Giants vs. Los Angeles Dodgers: O/U 7.5",
+      "url": "https://polymarket.com/event/mlb-sf-lad-2026-09-19",
+      "volume_24h": 240508.739505,
+      "volume_total": 240508.739505,
+      "liquidity": 28687.59996,
+      "yes_price": 0.9995,
+      "leader": {
+        "name": "Over",
+        "price": 0.9995
+      },
+      "end_date": "2026-09-20T01:10:00Z",
+      "outcomes": [
+        "Over",
+        "Under"
+      ]
+    },
+    {
+      "rank": 18,
+      "title": "Vikings vs. Bears",
+      "url": "https://polymarket.com/event/nfl-min-chi-2026-09-20",
+      "volume_24h": 236875.92132199998,
+      "volume_total": 273166.57616900007,
+      "liquidity": 1268663.0338,
+      "yes_price": 0.335,
+      "leader": {
+        "name": "Bears",
+        "price": 0.665
+      },
+      "end_date": "2026-09-20T17:00:00Z",
+      "outcomes": [
+        "Vikings",
+        "Bears"
+      ]
+    },
+    {
+      "rank": 19,
+      "title": "UFC 331: Patricio Pitbull vs. Dooho Choi (Featherweight, Main Card)",
+      "url": "https://polymarket.com/event/ufc-pat3-dchoi-2026-09-19",
+      "volume_24h": 216725.10740099996,
+      "volume_total": 245689.4293890002,
+      "liquidity": 394683.64505,
+      "yes_price": 0.9995,
+      "leader": {
+        "name": "Patricio Pitbull",
+        "price": 0.9995
+      },
+      "end_date": "2026-09-20T03:59:59.999Z",
+      "outcomes": [
+        "Patricio Pitbull",
+        "Dooho Choi"
+      ]
+    },
+    {
+      "rank": 20,
+      "title": "US x Iran ceasefire continues through September 20?",
+      "url": "https://polymarket.com/event/us-iran-ceasefire-continues-throughptptpt",
+      "volume_24h": 208816.28202199994,
+      "volume_total": 262338.94313299994,
+      "liquidity": 50655.13507,
+      "yes_price": 0.9555,
+      "leader": {
+        "name": "Yes",
+        "price": 0.9555
+      },
+      "end_date": "2026-09-20T23:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 21,
+      "title": "Phan Thiet 4: Rodrigo Pacheco vs Ilia Simakin",
+      "url": "https://polymarket.com/event/atp-pacheco-simakin-2026-09-19",
+      "volume_24h": 191345.730934,
+      "volume_total": 191345.73093400002,
+      "liquidity": 92579.2671,
+      "yes_price": 0.06,
+      "leader": {
+        "name": "Ilia Simakin",
+        "price": 0.94
+      },
+      "end_date": "2026-09-27T03:00:00Z",
+      "outcomes": [
+        "Rodrigo Pacheco",
+        "Ilia Simakin"
+      ]
+    },
+    {
+      "rank": 22,
+      "title": "Will Philadelphia Union win on 2026-09-19?",
+      "url": "https://polymarket.com/event/mls-skc-phi-2026-09-19",
+      "volume_24h": 176342.84461200002,
+      "volume_total": 176796.065357,
+      "liquidity": 132622.5481,
+      "yes_price": 0.9995,
+      "leader": {
+        "name": "Yes",
+        "price": 0.9995
+      },
+      "end_date": "2026-09-20T00:30:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 23,
+      "title": "Spread: Manchester City FC (-1.5)",
+      "url": "https://polymarket.com/event/epl-mac-sun-2026-09-20-more-markets",
+      "volume_24h": 175553.460701,
+      "volume_total": 180106.42191799995,
+      "liquidity": 388591.0784,
+      "yes_price": 0.485,
+      "leader": {
+        "name": "Sunderland AFC",
+        "price": 0.515
+      },
+      "end_date": "2026-09-20T13:00:00Z",
+      "outcomes": [
+        "Manchester City FC",
+        "Sunderland AFC"
+      ]
+    },
+    {
+      "rank": 24,
+      "title": "Purdue vs. UCLA",
+      "url": "https://polymarket.com/event/cfb-pur-ucla-2026-09-19",
+      "volume_24h": 161161.54536700004,
+      "volume_total": 162630.7622340001,
+      "liquidity": 51243.8059,
+      "yes_price": 0.25,
+      "leader": {
+        "name": "UCLA",
+        "price": 0.75
+      },
+      "end_date": "2026-09-20T03:00:00Z",
+      "outcomes": [
+        "Purdue",
+        "UCLA"
+      ]
+    },
+    {
+      "rank": 25,
+      "title": "São Paulo FC vs. SC Internacional: O/U 2.5",
+      "url": "https://polymarket.com/event/bra-sao-int-2026-09-19-more-markets",
+      "volume_24h": 159107.446413,
+      "volume_total": 159197.57163,
+      "liquidity": 36857.39335,
+      "yes_price": 0.0005,
+      "leader": {
+        "name": "Under",
+        "price": 0.9995
+      },
+      "end_date": "2026-09-20T00:00:00Z",
+      "outcomes": [
+        "Over",
+        "Under"
+      ]
+    }
+  ]
+}

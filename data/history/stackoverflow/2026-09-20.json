@@ -1,0 +1,336 @@
+{
+  "source": "stackoverflow",
+  "label": "Stack Overflow — hot questions",
+  "fetched_at": "2026-09-20T05:22:34.213Z",
+  "items": [
+    {
+      "rank": 1,
+      "title": "Android WebView OffscreenCanvas renders correctly in Web Worker but is not composited / shows blank after Activity resume",
+      "url": "https://stackoverflow.com/questions/80004387/android-webview-offscreencanvas-renders-correctly-in-web-worker-but-is-not-compo",
+      "score": 0,
+      "answers": 0,
+      "views": 22,
+      "tags": [
+        "android",
+        "canvas",
+        "webview",
+        "offscreen-canvas"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "\"Inbound Anomaly Score Exceeded\" blocks legitimate multipart file uploads",
+      "url": "https://stackoverflow.com/questions/80004391/inbound-anomaly-score-exceeded-blocks-legitimate-multipart-file-uploads",
+      "score": -1,
+      "answers": 0,
+      "views": 16,
+      "tags": [
+        "cloudflare",
+        "owasp",
+        "mod-security"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Why does DbContext prohibit concurrent read operations if reads don't modify entity state?",
+      "url": "https://stackoverflow.com/questions/80004368/why-does-dbcontext-prohibit-concurrent-read-operations-if-reads-dont-modify-ent",
+      "score": 6,
+      "answers": 1,
+      "views": 79,
+      "tags": [
+        "asp.net-mvc",
+        "asynchronous",
+        "entity-framework-core",
+        "dbcontext",
+        "race-condition"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "printf - char values are not printed as expected",
+      "url": "https://stackoverflow.com/questions/80004322/printf-char-values-are-not-printed-as-expected",
+      "score": 4,
+      "answers": 3,
+      "views": 148,
+      "tags": [
+        "c",
+        "integer",
+        "char",
+        "printf"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "onclick=\"showContent('x')\" only works once",
+      "url": "https://stackoverflow.com/questions/80004333/onclick-showcontentx-only-works-once",
+      "score": 3,
+      "answers": 4,
+      "views": 110,
+      "tags": [
+        "javascript",
+        "html",
+        "css"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Why does std::vector not compile when provided a class with no move/copy constructor and reserve/emplace is called?",
+      "url": "https://stackoverflow.com/questions/80004343/why-does-stdvector-not-compile-when-provided-a-class-with-no-move-copy-constru",
+      "score": 3,
+      "answers": 1,
+      "views": 98,
+      "tags": [
+        "c++",
+        "vector",
+        "c++20"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Console.ReadKey recording excess keypresses when used more frequently than a loop can finish running",
+      "url": "https://stackoverflow.com/questions/80004358/console-readkey-recording-excess-keypresses-when-used-more-frequently-than-a-loo",
+      "score": 2,
+      "answers": 1,
+      "views": 45,
+      "tags": [
+        "c#",
+        "console-application",
+        "game-development",
+        "console.readkey"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Replace a printed line when it overflows to the next line",
+      "url": "https://stackoverflow.com/questions/80004341/replace-a-printed-line-when-it-overflows-to-the-next-line",
+      "score": 5,
+      "answers": 1,
+      "views": 81,
+      "tags": [
+        "python"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Swift template matching algorithm",
+      "url": "https://stackoverflow.com/questions/80004357/swift-template-matching-algorithm",
+      "score": -3,
+      "answers": 0,
+      "views": 39,
+      "tags": [
+        "swift",
+        "template-matching"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Adding columns in matplotlib graph breaks row layout",
+      "url": "https://stackoverflow.com/questions/80004336/adding-columns-in-matplotlib-graph-breaks-row-layout",
+      "score": 2,
+      "answers": 1,
+      "views": 49,
+      "tags": [
+        "python",
+        "matplotlib"
+      ]
+    },
+    {
+      "rank": 11,
+      "title": "Does the payload need to be `volatile`, or only the doorbell, when publishing data to a PCIe device through a mapped BAR?",
+      "url": "https://stackoverflow.com/questions/80004287/does-the-payload-need-to-be-volatile-or-only-the-doorbell-when-publishing-da",
+      "score": 5,
+      "answers": 1,
+      "views": 87,
+      "tags": [
+        "c++",
+        "volatile",
+        "memory-barriers",
+        "pci-e",
+        "memory-mapped-io"
+      ]
+    },
+    {
+      "rank": 12,
+      "title": "Launching an SSIS project on tables or views",
+      "url": "https://stackoverflow.com/questions/80004354/launching-an-ssis-project-on-tables-or-views",
+      "score": -1,
+      "answers": 0,
+      "views": 28,
+      "tags": [
+        "best-practices",
+        "ssis",
+        "data-warehouse"
+      ]
+    },
+    {
+      "rank": 13,
+      "title": "Why am I getting an invalid, but non-null, default OpenCL device queue?",
+      "url": "https://stackoverflow.com/questions/80004329/why-am-i-getting-an-invalid-but-non-null-default-opencl-device-queue",
+      "score": -1,
+      "answers": 0,
+      "views": 53,
+      "tags": [
+        "queue",
+        "opencl",
+        "default"
+      ]
+    },
+    {
+      "rank": 14,
+      "title": "How should I learn PostgreSQL internals such as WAL and DISTINCT execution?",
+      "url": "https://stackoverflow.com/questions/80004306/how-should-i-learn-postgresql-internals-such-as-wal-and-distinct-execution",
+      "score": -1,
+      "answers": 1,
+      "views": 51,
+      "tags": [
+        "advice",
+        "postgresql"
+      ]
+    },
+    {
+      "rank": 15,
+      "title": "How should i remove the extra space in the code using antigravity ide",
+      "url": "https://stackoverflow.com/questions/80004286/how-should-i-remove-the-extra-space-in-the-code-using-antigravity-ide",
+      "score": -4,
+      "answers": 1,
+      "views": 81,
+      "tags": [
+        "javascript",
+        "typescript",
+        "vs-code",
+        "ide",
+        "antigravity"
+      ]
+    },
+    {
+      "rank": 16,
+      "title": "Media Foundation function \"MFCreateSourceReaderFromMediaSource()\" is giving me an error",
+      "url": "https://stackoverflow.com/questions/80004313/media-foundation-function-mfcreatesourcereaderfrommediasource-is-giving-me-a",
+      "score": -3,
+      "answers": 0,
+      "views": 77,
+      "tags": [
+        "c++",
+        "debugging",
+        "error-handling",
+        "ms-media-foundation"
+      ]
+    },
+    {
+      "rank": 17,
+      "title": "Installing pyenv on Ubuntu 26.04 running WSL1",
+      "url": "https://stackoverflow.com/questions/80004308/installing-pyenv-on-ubuntu-26-04-running-wsl1",
+      "score": 0,
+      "answers": 1,
+      "views": 40,
+      "tags": [
+        "ubuntu",
+        "windows-subsystem-for-linux",
+        "pyenv"
+      ]
+    },
+    {
+      "rank": 18,
+      "title": "NeoForge 1.21.1 Minecraft Modded | General Advice, Where do I go? | Mobs driving SuperbWarfare Vehicles, Vehicle AI",
+      "url": "https://stackoverflow.com/questions/80004311/neoforge-1-21-1-minecraft-modded-general-advice-where-do-i-go-mobs-driving",
+      "score": -4,
+      "answers": 0,
+      "views": 58,
+      "tags": [
+        "advice",
+        "javascript",
+        "java",
+        "artificial-intelligence",
+        "minecraft"
+      ]
+    },
+    {
+      "rank": 19,
+      "title": "Implementing e-einvoices for Spain",
+      "url": "https://stackoverflow.com/questions/80004312/implementing-e-einvoices-for-spain",
+      "score": -5,
+      "answers": 0,
+      "views": 60,
+      "tags": [
+        "best-practices",
+        ".net",
+        "invoice"
+      ]
+    },
+    {
+      "rank": 20,
+      "title": "Why does .apk works but not .aab?",
+      "url": "https://stackoverflow.com/questions/80004297/why-does-apk-works-but-not-aab",
+      "score": -2,
+      "answers": 0,
+      "views": 67,
+      "tags": [
+        "android",
+        "authentication",
+        "configuration",
+        "apk",
+        "android-app-bundle"
+      ]
+    },
+    {
+      "rank": 21,
+      "title": "Google Apps Script Web App gives \"Sorry, unable to open the file\" error for other users despite \"Execute as: Me\" and openById()",
+      "url": "https://stackoverflow.com/questions/80004304/google-apps-script-web-app-gives-sorry-unable-to-open-the-file-error-for-othe",
+      "score": 1,
+      "answers": 1,
+      "views": 34,
+      "tags": [
+        "google-apps-script"
+      ]
+    },
+    {
+      "rank": 22,
+      "title": "Why groups are not populated upon `auth_permission`?",
+      "url": "https://stackoverflow.com/questions/80004310/why-groups-are-not-populated-upon-auth-permission",
+      "score": -1,
+      "answers": 0,
+      "views": 39,
+      "tags": [
+        "python",
+        "django",
+        "django-models"
+      ]
+    },
+    {
+      "rank": 23,
+      "title": "MathML renders incorrectly in Firefox/Safari",
+      "url": "https://stackoverflow.com/questions/80004197/mathml-renders-incorrectly-in-firefox-safari",
+      "score": 4,
+      "answers": 1,
+      "views": 134,
+      "tags": [
+        "mathml"
+      ]
+    },
+    {
+      "rank": 24,
+      "title": "How can I use the Afghan Solar Hijri (Shamsi) calendar in a WinUI 3 CalendarDatePicker?",
+      "url": "https://stackoverflow.com/questions/80004220/how-can-i-use-the-afghan-solar-hijri-shamsi-calendar-in-a-winui-3-calendardate",
+      "score": 0,
+      "answers": 0,
+      "views": 102,
+      "tags": [
+        "c#",
+        "datepicker",
+        "winui-3",
+        "winui"
+      ]
+    },
+    {
+      "rank": 25,
+      "title": "1 month and Search Console still says “Processing data, check again in a day.” Is this normal? External links are still not showing",
+      "url": "https://stackoverflow.com/questions/80004283/1-month-and-search-console-still-says-processing-data-check-again-in-a-day-i",
+      "score": -5,
+      "answers": 0,
+      "views": 51,
+      "tags": [
+        "google-search-console"
+      ]
+    }
+  ]
+}
