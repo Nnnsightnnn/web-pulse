@@ -1,40 +1,38 @@
 {
-  "date": "2026-09-20",
-  "generated_at": "2026-09-20T05:22:34.893Z",
-  "lede": "The web's feeds mostly agreed on sport this Sunday: são paulo x internacional surfaced on both Google Trends and Polymarket at once, the strongest of three cross-feed clusters, with UFC 331 and the 2026 Asian Games close behind. Away from the pitch, a true-crime wave carried Lizzie Borden to the top of Wikipedia at 973,878 views, pulled along by the new series Monster: The Lizzie Borden Story. On GitHub, cloudflare/security-audit-skill led trending with 3,155 stars in a day, while Counter-Strike 2 held Steam with 1,317,931 concurrent players.",
+  "date": "2026-09-21",
+  "generated_at": "2026-09-21T05:22:51.668Z",
+  "lede": "The clearest signal today is a topic that refused to stay on one feed: Qwen Image 2.1 surfaced on both Hacker News and Hugging Face at once, though its 183 downloads on Hugging Face read more like people kicking the tires than a rush to adopt. The loudest number came from an older story. Lizzie Borden pulled 1,022,634 Wikipedia views, 3.8 times the next article on the chart, with a new dramatization of her case, Monster: The Lizzie Borden Story, sitting two rows below her. Beyond that the web looked like a quiet Monday: an earthquake off Papua New Guinea, a near-lock prediction on Russia's next parliament, and a coding project topping GitHub with 826 stars in a day.",
   "throughlines": [
     {
-      "title": "são paulo x internacional",
-      "gist": "A Brasileirão match between São Paulo and Internacional, live enough to register on both Google's search spikes and Polymarket's betting at the same minute.",
+      "title": "Qwen Image 2.1",
+      "gist": "The day's only cross-feed story, live on both Hacker News and Hugging Face, though 183 downloads mark it as early curiosity rather than a breakout.",
       "sources": [
-        "google-trends",
-        "polymarket"
+        "hackernews",
+        "huggingface"
       ],
-      "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/09/19/sao-paulo-x-internacional-como-foi-o-jogo-pelo-brasileirao-2026.ghtm",
+      "url": "https://news.ycombinator.com/item?id=49775499",
       "kind": "cluster"
     },
     {
-      "title": "UFC 331: Patricio Pitbull vs. Dooho Choi (Featherweight, Main Card)",
-      "gist": "A UFC 331 featherweight bout drawing both a Wikipedia audience and Polymarket money as the card played out.",
+      "title": "Lizzie Borden",
+      "gist": "The most-read article on Wikipedia at 1,022,634 views, 3.8 times its nearest rival, lifted by a new dramatization climbing the same chart.",
       "sources": [
-        "polymarket",
         "wikipedia"
       ],
-      "url": "https://en.wikipedia.org/wiki/UFC_331",
-      "kind": "cluster"
+      "url": "https://en.wikipedia.org/wiki/Lizzie_Borden",
+      "kind": "single"
     },
     {
-      "title": "asian games japan 2026",
-      "gist": "The 2026 Asian Games in Japan, showing up on both Wikipedia and Google Trends as the event's coverage ramps up.",
+      "title": "affaan-m/ECC",
+      "gist": "Top of GitHub trending with 826 stars in a day, a harness for tuning coding agents like Claude Code and Cursor.",
       "sources": [
-        "google-trends",
-        "wikipedia"
+        "github"
       ],
-      "url": "https://en.wikipedia.org/wiki/2026_Asian_Games",
-      "kind": "cluster"
+      "url": "https://github.com/affaan-m/ECC",
+      "kind": "single"
     }
   ],
-  "strength": 73,
+  "strength": 55,
   "live_sources": 17,
   "total_sources": 17,
   "dashboard_url": "https://nnnsightnnn.github.io/web-pulse/",
