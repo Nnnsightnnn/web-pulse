@@ -1,21 +1,11 @@
 {
-  "date": "2026-09-21",
-  "generated_at": "2026-09-21T05:22:51.668Z",
-  "lede": "The clearest signal today is a topic that refused to stay on one feed: Qwen Image 2.1 surfaced on both Hacker News and Hugging Face at once, though its 183 downloads on Hugging Face read more like people kicking the tires than a rush to adopt. The loudest number came from an older story. Lizzie Borden pulled 1,022,634 Wikipedia views, 3.8 times the next article on the chart, with a new dramatization of her case, Monster: The Lizzie Borden Story, sitting two rows below her. Beyond that the web looked like a quiet Monday: an earthquake off Papua New Guinea, a near-lock prediction on Russia's next parliament, and a coding project topping GitHub with 826 stars in a day.",
+  "date": "2026-09-22",
+  "generated_at": "2026-09-22T05:23:18.558Z",
+  "lede": "A scattered Tuesday, September 22: no single story crossed the feeds, so the day is best read one number at a time. The largest was on Steam, where Counter-Strike 2 held 1,218,401 players at once. On Wikipedia, Lizzie Borden drew just over a million views, lifted by a dramatized retelling of her case that also ranked among the day's most-read articles. On Hacker News, Xiaomi's MiMo v2.6 model release led the conversation.",
   "throughlines": [
     {
-      "title": "Qwen Image 2.1",
-      "gist": "The day's only cross-feed story, live on both Hacker News and Hugging Face, though 183 downloads mark it as early curiosity rather than a breakout.",
-      "sources": [
-        "hackernews",
-        "huggingface"
-      ],
-      "url": "https://news.ycombinator.com/item?id=49775499",
-      "kind": "cluster"
-    },
-    {
       "title": "Lizzie Borden",
-      "gist": "The most-read article on Wikipedia at 1,022,634 views, 3.8 times its nearest rival, lifted by a new dramatization climbing the same chart.",
+      "gist": "The day's most-read Wikipedia article at just over a million views, riding renewed interest in a dramatized retelling of the 1892 case.",
       "sources": [
         "wikipedia"
       ],
@@ -23,16 +13,25 @@
       "kind": "single"
     },
     {
-      "title": "affaan-m/ECC",
-      "gist": "Top of GitHub trending with 826 stars in a day, a harness for tuning coding agents like Claude Code and Cursor.",
+      "title": "BuilderIO/agent-native",
+      "gist": "A TypeScript framework for building agentic apps that topped GitHub trending with 607 new stars today, another marker of how much builder attention is flowing to agent tooling.",
       "sources": [
         "github"
       ],
-      "url": "https://github.com/affaan-m/ECC",
+      "url": "https://github.com/BuilderIO/agent-native",
+      "kind": "single"
+    },
+    {
+      "title": "MiMo v2.6",
+      "gist": "Xiaomi's MiMo v2.6 model release led Hacker News with 705 points and 330 comments, a sign of steady appetite for new open model launches.",
+      "sources": [
+        "hackernews"
+      ],
+      "url": "https://mimo.xiaomi.com/mimo-v2-6",
       "kind": "single"
     }
   ],
-  "strength": 55,
+  "strength": 15,
   "live_sources": 17,
   "total_sources": 17,
   "dashboard_url": "https://nnnsightnnn.github.io/web-pulse/",

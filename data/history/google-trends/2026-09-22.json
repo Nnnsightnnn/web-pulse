@@ -1,0 +1,291 @@
+{
+  "source": "google-trends",
+  "label": "Google Trends — trending searches",
+  "fetched_at": "2026-09-22T05:24:33.711Z",
+  "countries": [
+    "US",
+    "GB",
+    "IN",
+    "JP",
+    "BR",
+    "DE"
+  ],
+  "items": [
+    {
+      "rank": 1,
+      "title": "gate",
+      "geos": [
+        "BR",
+        "DE"
+      ],
+      "traffic_estimate": 200,
+      "news_title": "Man killed in Golden Gate Bridge boat accident identified as Apple engineer, father of 3",
+      "news_url": "https://www.kron4.com/news/bay-area/man-killed-in-golden-gate-bridge-boat-accident-identified-as-apple-engineer-father-of-3/",
+      "news_source": "KRON4"
+    },
+    {
+      "rank": 2,
+      "title": "マクドナルド メニュー",
+      "geos": [
+        "JP"
+      ],
+      "traffic_estimate": 2000,
+      "news_title": "マクドナルドの新メニュー全11種類まとめ また注文したくなるおいしさ（進撃のグルメ） - エキスパート",
+      "news_url": "https://news.yahoo.co.jp/expert/articles/d50f22d6a691bcfd0c1d4019ea4649b4211e6ae9",
+      "news_source": "Yahoo!ニュース"
+    },
+    {
+      "rank": 3,
+      "title": "powerball",
+      "geos": [
+        "US"
+      ],
+      "traffic_estimate": 1000,
+      "news_title": "$313M Powerball winning numbers for Monday, Sept. 21",
+      "news_url": "https://www.usatoday.com/story/money/lottery/2026/09/21/powerball-jackpot-sept-21-2026/91880323007/",
+      "news_source": "USA Today"
+    },
+    {
+      "rank": 4,
+      "title": "time",
+      "geos": [
+        "GB"
+      ],
+      "traffic_estimate": 1000,
+      "news_title": "Celtic can't sack manager O'Neill, says Lambert",
+      "news_url": "https://www.bbc.co.uk/sport/football/articles/c3j4jpzy08p5o",
+      "news_source": "BBC"
+    },
+    {
+      "rank": 5,
+      "title": "espncricinfo",
+      "geos": [
+        "IN"
+      ],
+      "traffic_estimate": 1000,
+      "news_title": "Final, Nisshin, September 22, 2026, Asian Games Women's Cricket Competition",
+      "news_url": "https://www.cricinfo.com/series/asian-games-women-s-cricket-competition-2026-1550472/india-women-vs-sri-lanka-women-final-1550481/live-cricket-score",
+      "news_source": "Cricinfo"
+    },
+    {
+      "rank": 6,
+      "title": "unfall oktoberfest",
+      "geos": [
+        "DE"
+      ],
+      "traffic_estimate": 1000,
+      "news_title": "Oktoberfest: Security-Mitarbeiter auf der Wiesn totgequetscht",
+      "news_url": "https://www.bild.de/news/inland/oktoberfest-security-mitarbeiter-auf-der-wiesn-fast-totgequetscht-6ab1a053b1857e86757aa16e",
+      "news_source": "BILD"
+    },
+    {
+      "rank": 7,
+      "title": "nachrichten",
+      "geos": [
+        "DE"
+      ],
+      "traffic_estimate": 1000,
+      "news_title": "Jena am Dienstag: Das sind die Nachrichten am Morgen",
+      "news_url": "https://www.otz.de/lokales/jena/article413212484/jena-am-dienstag-das-sind-die-nachrichten-am-morgen.html",
+      "news_source": "Ostthüringer Zeitung"
+    },
+    {
+      "rank": 8,
+      "title": "strand",
+      "geos": [
+        "DE"
+      ],
+      "traffic_estimate": 1000,
+      "news_title": "Rentner stirbt nach Prügelei um Sonnenliege",
+      "news_url": "https://web.de/magazine/panorama/unfaelle-ungluecke/rentner-stirbt-pruegelei-sonnenliege-42748392",
+      "news_source": "WEB.DE"
+    },
+    {
+      "rank": 9,
+      "title": "woody harrelson",
+      "geos": [
+        "US"
+      ],
+      "traffic_estimate": 500,
+      "news_title": "They’re Bros. But Are They Brothers?",
+      "news_url": "https://www.nytimes.com/2026/09/19/style/matthew-mcconaughey-woody-harrelson-brothers.html",
+      "news_source": "The New York Times"
+    },
+    {
+      "rank": 10,
+      "title": "ari emanuel",
+      "geos": [
+        "US"
+      ],
+      "traffic_estimate": 500,
+      "news_title": "5 Takeaways From Ari Emanuel’s Memoir",
+      "news_url": "https://www.nytimes.com/2026/09/20/business/media/ari-emanuel-memoir-hollywood.html",
+      "news_source": "The New York Times"
+    },
+    {
+      "rank": 11,
+      "title": "hurricane polo",
+      "geos": [
+        "US"
+      ],
+      "traffic_estimate": 500,
+      "news_title": "Polo now a Category 1 hurricane, expected to strengthen and fuel Southwest flood threat amid active Pacific",
+      "news_url": "https://www.foxweather.com/weather-news/polo-odalys-pacific-tropics-southwest-flood",
+      "news_source": "FOX Weather"
+    },
+    {
+      "rank": 12,
+      "title": "concerts",
+      "geos": [
+        "GB"
+      ],
+      "traffic_estimate": 500,
+      "news_title": "Opinion | Ed Sheeran, Macklemore and Why Politics Is So Hard for Celebrities",
+      "news_url": "https://www.nytimes.com/2026/09/21/opinion/ed-sheeran-macklemore-politics.html",
+      "news_source": "The New York Times"
+    },
+    {
+      "rank": 13,
+      "title": "fishing",
+      "geos": [
+        "GB"
+      ],
+      "traffic_estimate": 500,
+      "news_title": "Eglin AFB recovers drone pulled from Gulf waters off Pensacola Beach during charter trip",
+      "news_url": "https://weartv.com/news/local/pensacola-fishing-charter-finds-large-drone-floating-in-gulf",
+      "news_source": "WEAR-TV"
+    },
+    {
+      "rank": 14,
+      "title": "python",
+      "geos": [
+        "IN"
+      ],
+      "traffic_estimate": 500,
+      "news_title": "Python rescued from dance troupe during Ganesh procession in Hyderabad",
+      "news_url": "https://www.thehindu.com/news/cities/Hyderabad/python-rescued-from-dance-troupe-during-ganesh-procession-in-hyderabad/article71491210.ece",
+      "news_source": "The Hindu"
+    },
+    {
+      "rank": 15,
+      "title": "ind vs japan t20",
+      "geos": [
+        "IN"
+      ],
+      "traffic_estimate": 500,
+      "news_title": "PAKW vs BANW, Bronze Medal Match, Women's Asian Games 2026 - Commentary",
+      "news_url": "https://www.cricbuzz.com/live-cricket-scores/170960/pakw-vs-banw-bronze-medal-match-womens-asian-games-2026",
+      "news_source": "Cricbuzz"
+    },
+    {
+      "rank": 16,
+      "title": "nse ipo allotment status",
+      "geos": [
+        "IN"
+      ],
+      "traffic_estimate": 500,
+      "news_title": "NSE IPO Allotment Status: MUFG Intime, BSE, NSE",
+      "news_url": "https://www.indmoney.com/blog/ipo/nse-ipo-allotment-status",
+      "news_source": "INDmoney"
+    },
+    {
+      "rank": 17,
+      "title": "琉球ゴールデンキングス",
+      "geos": [
+        "JP"
+      ],
+      "traffic_estimate": 500,
+      "news_title": "バスケBリーグプレミア開幕戦 アルバルク東京 VS 琉球ゴールデンキングス",
+      "news_url": "https://www.tv-asahi.co.jp/basketball/bleague260922/",
+      "news_source": "テレビ朝日"
+    },
+    {
+      "rank": 18,
+      "title": "不二家",
+      "geos": [
+        "JP"
+      ],
+      "traffic_estimate": 500,
+      "news_title": "",
+      "news_url": "",
+      "news_source": ""
+    },
+    {
+      "rank": 19,
+      "title": "国民クイズ",
+      "geos": [
+        "JP"
+      ],
+      "traffic_estimate": 500,
+      "news_title": "山田孝之主演Netflix「国民クイズ」配信日決定 16名の追加キャスト発表、狂乱のティーザー予告公開（シネマトゥデイ）",
+      "news_url": "https://news.yahoo.co.jp/articles/677738c53352d75a0c4a90fe184181bf2b0db70f",
+      "news_source": "Yahoo!ニュース"
+    },
+    {
+      "rank": 20,
+      "title": "estadao",
+      "geos": [
+        "BR"
+      ],
+      "traffic_estimate": 500,
+      "news_title": "Tarcísio falta a debate com Haddad, e Record exibe púlpito vazio",
+      "news_url": "https://noticias.uol.com.br/eleicoes/2026/09/21/tarcisio-debate-record.ghtm",
+      "news_source": "UOL Notícias"
+    },
+    {
+      "rank": 21,
+      "title": "corinthians feminino",
+      "geos": [
+        "BR"
+      ],
+      "traffic_estimate": 500,
+      "news_title": "Brasileirão Feminino: Jhonson volta a decidir, Corinthians vence Bahia e fará final com São Paulo",
+      "news_url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/09/21/brasileirao-feminino-corinthians-x-bahia.ghtm",
+      "news_source": "UOL"
+    },
+    {
+      "rank": 22,
+      "title": "lanus",
+      "geos": [
+        "BR"
+      ],
+      "traffic_estimate": 500,
+      "news_title": "Estudiantes, con errores en las dos áreas, perdió ante Lanús 2 a 1",
+      "news_url": "https://www.eldia.com/deportes/con-el-envion-copero-estudiantes-visita-a-lanus-deportes_1789976749",
+      "news_source": "Diario El Día de La Plata"
+    },
+    {
+      "rank": 23,
+      "title": "videos",
+      "geos": [
+        "BR"
+      ],
+      "traffic_estimate": 500,
+      "news_title": "What videos show about the ICE shooting of a Venezuelan man",
+      "news_url": "https://www.cnn.com/2026/09/21/us/video/ice-shooting-texas-venezuelan-wilber-perez-digvid-invs",
+      "news_source": "CNN"
+    },
+    {
+      "rank": 24,
+      "title": "villa der versuchung",
+      "geos": [
+        "DE"
+      ],
+      "traffic_estimate": 500,
+      "news_title": "\"Drecksack\" auf Ego-Trip: In Folge 8 fliegt ein Star einstimmig raus bei \"Villa der Versuchung\"!",
+      "news_url": "https://www.joyn.de/bts/serien/villa-der-versuchung/nach-ego-trip-wer-ist-raus-in-folge8-einer-ist-opfer-einer-der-drecksack-186229",
+      "news_source": "Joyn"
+    },
+    {
+      "rank": 25,
+      "title": "sam richardson",
+      "geos": [
+        "US"
+      ],
+      "traffic_estimate": 200,
+      "news_title": "Sci-fi comedic thriller “Into the Sky” has you looking upward and inward in equal measure. [Fantastic Fest]",
+      "news_url": "https://elementsofmadness.com/2026/09/19/its/",
+      "news_source": "Elements of Madness"
+    }
+  ]
+}
