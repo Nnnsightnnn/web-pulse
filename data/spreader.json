@@ -1,11 +1,21 @@
 {
-  "date": "2026-09-22",
-  "generated_at": "2026-09-22T05:23:18.558Z",
-  "lede": "A scattered Tuesday, September 22: no single story crossed the feeds, so the day is best read one number at a time. The largest was on Steam, where Counter-Strike 2 held 1,218,401 players at once. On Wikipedia, Lizzie Borden drew just over a million views, lifted by a dramatized retelling of her case that also ranked among the day's most-read articles. On Hacker News, Xiaomi's MiMo v2.6 model release led the conversation.",
+  "date": "2026-09-23",
+  "generated_at": "2026-09-23T05:21:53.255Z",
+  "lede": "The day's one point of agreement across feeds was a breach: hackers claiming they hold data on every FBI employee, live on both Hacker News and Lemmy at the same time. Hacker News itself read like a model-launch board, with Claude Opus 5.5 near the top at 1,368 points and OpenAI's GPT-6 close behind. Wikipedia's crowd went the other way, pushing Lizzie Borden to 679,382 views, the day's most-read article, on the back of Netflix's new Monster season.",
   "throughlines": [
     {
+      "title": "'We hacked the FBI:' Hackers say they have data on all FBI employees",
+      "gist": "The only story to surface on two feeds at once, ranking on both Hacker News and Lemmy, a claimed breach of data on every FBI employee.",
+      "sources": [
+        "hackernews",
+        "lemmy"
+      ],
+      "url": "https://news.ycombinator.com/item?id=49805278",
+      "kind": "cluster"
+    },
+    {
       "title": "Lizzie Borden",
-      "gist": "The day's most-read Wikipedia article at just over a million views, riding renewed interest in a dramatized retelling of the 1892 case.",
+      "gist": "The day's most-read Wikipedia article at 679,382 views, pulled up by Netflix's new Monster season retelling the 1892 case.",
       "sources": [
         "wikipedia"
       ],
@@ -13,25 +23,16 @@
       "kind": "single"
     },
     {
-      "title": "BuilderIO/agent-native",
-      "gist": "A TypeScript framework for building agentic apps that topped GitHub trending with 607 new stars today, another marker of how much builder attention is flowing to agent tooling.",
+      "title": "anthropics/financial-services",
+      "gist": "Anthropic's finance toolkit topped GitHub trending with 438 stars in a single day, a marker of where builders were pointed.",
       "sources": [
         "github"
       ],
-      "url": "https://github.com/BuilderIO/agent-native",
-      "kind": "single"
-    },
-    {
-      "title": "MiMo v2.6",
-      "gist": "Xiaomi's MiMo v2.6 model release led Hacker News with 705 points and 330 comments, a sign of steady appetite for new open model launches.",
-      "sources": [
-        "hackernews"
-      ],
-      "url": "https://mimo.xiaomi.com/mimo-v2-6",
+      "url": "https://github.com/anthropics/financial-services",
       "kind": "single"
     }
   ],
-  "strength": 15,
+  "strength": 32,
   "live_sources": 17,
   "total_sources": 17,
   "dashboard_url": "https://nnnsightnnn.github.io/web-pulse/",
