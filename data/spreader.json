@@ -1,30 +1,31 @@
 {
-  "date": "2026-09-23",
-  "generated_at": "2026-09-23T05:21:53.255Z",
-  "lede": "The day's one point of agreement across feeds was a breach: hackers claiming they hold data on every FBI employee, live on both Hacker News and Lemmy at the same time. Hacker News itself read like a model-launch board, with Claude Opus 5.5 near the top at 1,368 points and OpenAI's GPT-6 close behind. Wikipedia's crowd went the other way, pushing Lizzie Borden to 679,382 views, the day's most-read article, on the back of Netflix's new Monster season.",
+  "date": "2026-09-24",
+  "generated_at": "2026-09-24T05:23:03.746Z",
+  "lede": "The day's loudest signal was a true-crime revival, told without a dash of hype. Lizzie Borden drew 586,575 Wikipedia views, more than triple the next name on the list, and she had company: a dramatization, Monster: The Lizzie Borden Story, trended right beside her, while Aileen Wuornos and Elizabeth Holmes filled out a page dominated by infamous women. The one story that truly jumped feeds was political, ProPublica's report that the FBI had been circling Senator Collins over a defense contractor's donations, live on Bluesky and Mastodon at the same moment.",
   "throughlines": [
     {
-      "title": "'We hacked the FBI:' Hackers say they have data on all FBI employees",
-      "gist": "The only story to surface on two feeds at once, ranking on both Hacker News and Lemmy, a claimed breach of data on every FBI employee.",
+      "title": "NEW: ProPublica revealed that the FBI was circling Sen. Collins over a defense contractor’s donations — until Trump gutt",
+      "gist": "ProPublica reported the FBI was examining Senator Collins over a defense contractor's donations, and the piece surfaced on Bluesky and Mastodon at once, the day's clearest cross-feed signal.",
       "sources": [
-        "hackernews",
-        "lemmy"
+        "bluesky",
+        "mastodon-trending"
       ],
-      "url": "https://news.ycombinator.com/item?id=49805278",
+      "url": "https://bsky.app/profile/propublica.org/post/3mw7sh2qcf22v",
       "kind": "cluster"
     },
     {
-      "title": "Lizzie Borden",
-      "gist": "The day's most-read Wikipedia article at 679,382 views, pulled up by Netflix's new Monster season retelling the 1892 case.",
+      "title": "Elizabeth Holmes",
+      "gist": "The Theranos founder surfaced across both Wikipedia and YouTube the same day, part of the true-crime wave running through the feeds.",
       "sources": [
-        "wikipedia"
+        "wikipedia",
+        "youtube"
       ],
-      "url": "https://en.wikipedia.org/wiki/Lizzie_Borden",
-      "kind": "single"
+      "url": "https://en.wikipedia.org/wiki/Elizabeth_Holmes",
+      "kind": "cluster"
     },
     {
       "title": "anthropics/financial-services",
-      "gist": "Anthropic's finance toolkit topped GitHub trending with 438 stars in a single day, a marker of where builders were pointed.",
+      "gist": "Anthropic's financial-services repo topped GitHub trending with 664 new stars today, a marker of how fast agent tooling is spreading into finance.",
       "sources": [
         "github"
       ],
@@ -32,8 +33,8 @@
       "kind": "single"
     }
   ],
-  "strength": 32,
-  "live_sources": 17,
+  "strength": 91,
+  "live_sources": 16,
   "total_sources": 17,
   "dashboard_url": "https://nnnsightnnn.github.io/web-pulse/",
   "engine": "ai"
