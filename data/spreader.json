@@ -1,11 +1,11 @@
 {
-  "date": "2026-09-25",
-  "generated_at": "2026-09-25T05:17:22.291Z",
-  "lede": "Friday, September 25, and the web split three ways. On Wikipedia the day belonged to true crime: Lizzie Borden led all articles at 479,143 views, with Elizabeth Holmes, Aileen Wuornos and the new dramatization Monster: The Lizzie Borden Story all charting beside her. Hacker News stayed with the builders, where F-Droid 2.0 drew 1,069 points, and GitHub trended hard toward AI agents, from agent memory to agentic runtimes.",
+  "date": "2026-09-26",
+  "generated_at": "2026-09-26T05:17:13.863Z",
+  "lede": "Seventeen sources, seventeen separate conversations: nothing crossed feeds this Saturday, September 26. The most-read page anywhere was Lizzie Borden, at 402,780 views on Wikipedia, a historical murder case out ahead of every tech story on the board. The busier corners were narrower and self-contained: paperclipai/paperclip drew 2,109 new stars to top GitHub trending, and Hacker News spent its attention on a report that OpenAI agents had breached Hugging Face.",
   "throughlines": [
     {
       "title": "Lizzie Borden",
-      "gist": "Wikipedia's most-read article of the day at 479,143 views, part of a true-crime run that also lifted Elizabeth Holmes and Aileen Wuornos.",
+      "gist": "The single most-read Wikipedia article of the day at 402,780 views, a historical murder case pulling more readers than anything current in tech or news.",
       "sources": [
         "wikipedia"
       ],
@@ -13,21 +13,21 @@
       "kind": "single"
     },
     {
-      "title": "rohitg00/ai-engineering-from-scratch",
-      "gist": "Top of GitHub's trending list with 347 stars today, one of a wave of AI and agent projects climbing the board.",
+      "title": "paperclipai/paperclip",
+      "gist": "Top of GitHub trending with 2,109 new stars in a day, an open-source tool for managing AI agents at work.",
       "sources": [
         "github"
       ],
-      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "url": "https://github.com/paperclipai/paperclip",
       "kind": "single"
     },
     {
-      "title": "F-Droid 2.0",
-      "gist": "The top story on Hacker News at 1,069 points and 283 comments, marking a new release of the open-source Android app store.",
+      "title": "We're gonna need a lot more mathematicians",
+      "gist": "The top Hacker News thread, a post from Terry Tao's blog on needing far more mathematicians, at 50 points and 37 comments.",
       "sources": [
         "hackernews"
       ],
-      "url": "https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html",
+      "url": "https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/",
       "kind": "single"
     }
   ],

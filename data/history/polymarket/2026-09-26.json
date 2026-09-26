@@ -1,0 +1,457 @@
+{
+  "source": "polymarket",
+  "label": "Polymarket — top 24h volume",
+  "fetched_at": "2026-09-26T05:16:28.807Z",
+  "items": [
+    {
+      "rank": 1,
+      "title": "Clemson vs. California",
+      "url": "https://polymarket.com/event/cfb-clmsn-cah-2026-09-25",
+      "volume_24h": 2089161.0726609994,
+      "volume_total": 2107880.485398,
+      "liquidity": 170468.2535,
+      "yes_price": 0.805,
+      "leader": {
+        "name": "Clemson",
+        "price": 0.805
+      },
+      "end_date": "2026-09-26T02:30:00Z",
+      "outcomes": [
+        "Clemson",
+        "California"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Strait of Hormuz traffic returns to normal by September 30?",
+      "url": "https://polymarket.com/event/strait-of-hormuz-traffic-returns-to-normal-by-september-30-20260702154339440",
+      "volume_24h": 1332136.0415380003,
+      "volume_total": 10786815.719961995,
+      "liquidity": 472669.61802,
+      "yes_price": 0.005,
+      "leader": {
+        "name": "No",
+        "price": 0.995
+      },
+      "end_date": "2026-10-01T03:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Will the U.S. invade Iran before 2027?",
+      "url": "https://polymarket.com/event/will-the-us-invade-iran-before-2027",
+      "volume_24h": 744843.1639960001,
+      "volume_total": 69524210.93720806,
+      "liquidity": 671883.4067,
+      "yes_price": 0.165,
+      "leader": {
+        "name": "No",
+        "price": 0.835
+      },
+      "end_date": "2027-01-01T04:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Los Angeles Angels vs. Seattle Mariners",
+      "url": "https://polymarket.com/event/mlb-laa-sea-2026-09-25",
+      "volume_24h": 534017.8983240001,
+      "volume_total": 535597.955597,
+      "liquidity": 319500.57072,
+      "yes_price": 0.9995,
+      "leader": {
+        "name": "Los Angeles Angels",
+        "price": 0.9995
+      },
+      "end_date": "2026-10-03T02:10:00Z",
+      "outcomes": [
+        "Los Angeles Angels",
+        "Seattle Mariners"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Will Manchester City win the 2026-27 English Premier League (EPL) Championship?",
+      "url": "https://polymarket.com/event/epl-2027-champion-20260701200428749",
+      "volume_24h": 473187.4361059999,
+      "volume_total": 2716057.6789280004,
+      "liquidity": 347749.9829,
+      "yes_price": 0.225,
+      "leader": {
+        "name": "No",
+        "price": 0.775
+      },
+      "end_date": "2027-05-30T23:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Spread: Lions (-6.5)",
+      "url": "https://polymarket.com/event/nfl-nyj-det-2026-09-27",
+      "volume_24h": 434242.8922159999,
+      "volume_total": 509210.58523900004,
+      "liquidity": 497338.548,
+      "yes_price": 0.505,
+      "leader": {
+        "name": "Lions",
+        "price": 0.505
+      },
+      "end_date": "2026-09-27T17:00:00Z",
+      "outcomes": [
+        "Lions",
+        "Jets"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?",
+      "url": "https://polymarket.com/event/uefa-champions-league-2027-champion-20260701202025549",
+      "volume_24h": 426269.92,
+      "volume_total": 22442227.23199999,
+      "liquidity": 440530.60804,
+      "yes_price": 0.0015,
+      "leader": {
+        "name": "No",
+        "price": 0.9985
+      },
+      "end_date": "2027-05-30T23:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Chiefs vs. Dolphins",
+      "url": "https://polymarket.com/event/nfl-kc-mia-2026-09-27",
+      "volume_24h": 372051.397688,
+      "volume_total": 449457.91383799986,
+      "liquidity": 873323.1821,
+      "yes_price": 0.845,
+      "leader": {
+        "name": "Chiefs",
+        "price": 0.845
+      },
+      "end_date": "2026-09-27T17:00:00Z",
+      "outcomes": [
+        "Chiefs",
+        "Dolphins"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Strait of Hormuz traffic returns to normal by December 31?",
+      "url": "https://polymarket.com/event/strait-of-hormuz-traffic-returns-to-normal-by-december-31",
+      "volume_24h": 311705.7855210001,
+      "volume_total": 13140378.631715992,
+      "liquidity": 274270.0349,
+      "yes_price": 0.225,
+      "leader": {
+        "name": "No",
+        "price": 0.775
+      },
+      "end_date": "2027-01-01T04:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Will there be no change in Fed interest rates after the October 2026 meeting?",
+      "url": "https://polymarket.com/event/fed-decision-in-october-20260617190323537",
+      "volume_24h": 308481.7935950002,
+      "volume_total": 3843928.7907789997,
+      "liquidity": 475354.2477,
+      "yes_price": 0.335,
+      "leader": {
+        "name": "No",
+        "price": 0.665
+      },
+      "end_date": "2026-10-29T03:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 11,
+      "title": "Kharg Island no longer under Iranian control by September 30?",
+      "url": "https://polymarket.com/event/kharg-island-no-longer-under-iranian-control-by-march-31",
+      "volume_24h": 296455.44627600006,
+      "volume_total": 2593120.908063,
+      "liquidity": 153697.47335,
+      "yes_price": 0.0045,
+      "leader": {
+        "name": "No",
+        "price": 0.9955
+      },
+      "end_date": "2026-10-01T03:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 12,
+      "title": "US announces end of Iranian blockade by September 30, 2026?",
+      "url": "https://polymarket.com/event/us-announces-end-of-iranian-blockade-byptptpt-20260713152715080",
+      "volume_24h": 292187.80541,
+      "volume_total": 4693222.321574002,
+      "liquidity": 119292.20037,
+      "yes_price": 0.039,
+      "leader": {
+        "name": "No",
+        "price": 0.961
+      },
+      "end_date": "2026-10-01T03:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 13,
+      "title": "Will Spain win on 2026-09-26?",
+      "url": "https://polymarket.com/event/unl-eng-esp-2026-09-26",
+      "volume_24h": 288913.5642070003,
+      "volume_total": 327042.37801100005,
+      "liquidity": 217061.8575,
+      "yes_price": 0.445,
+      "leader": {
+        "name": "No",
+        "price": 0.555
+      },
+      "end_date": "2026-09-26T18:45:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 14,
+      "title": "Spread: Seahawks (-7.5)",
+      "url": "https://polymarket.com/event/nfl-sea-was-2026-09-27",
+      "volume_24h": 277091.79256199993,
+      "volume_total": 430972.642309,
+      "liquidity": 218114.717,
+      "yes_price": 0.505,
+      "leader": {
+        "name": "Seahawks",
+        "price": 0.505
+      },
+      "end_date": "2026-09-27T17:00:00Z",
+      "outcomes": [
+        "Seahawks",
+        "Commanders"
+      ]
+    },
+    {
+      "rank": 15,
+      "title": "Spread: Bills (-7.5)",
+      "url": "https://polymarket.com/event/nfl-lac-buf-2026-09-27",
+      "volume_24h": 249340.88228799996,
+      "volume_total": 292849.9585699999,
+      "liquidity": 242303.2537,
+      "yes_price": 0.495,
+      "leader": {
+        "name": "Chargers",
+        "price": 0.505
+      },
+      "end_date": "2026-09-27T17:00:00Z",
+      "outcomes": [
+        "Bills",
+        "Chargers"
+      ]
+    },
+    {
+      "rank": 16,
+      "title": "Will Chris Van Hollen win the 2028 Democratic presidential nomination?",
+      "url": "https://polymarket.com/event/democratic-presidential-nominee-2028",
+      "volume_24h": 236322.955,
+      "volume_total": 392386.03500000003,
+      "liquidity": 739547.10097,
+      "yes_price": 0.0015,
+      "leader": {
+        "name": "No",
+        "price": 0.9985
+      },
+      "end_date": "2028-11-07T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 17,
+      "title": "Cardinals vs. 49ers: O/U 48.5",
+      "url": "https://polymarket.com/event/nfl-ari-sf-2026-09-27",
+      "volume_24h": 169587.92108700005,
+      "volume_total": 171191.69467200013,
+      "liquidity": 237135.2928,
+      "yes_price": 0.485,
+      "leader": {
+        "name": "Under",
+        "price": 0.515
+      },
+      "end_date": "2026-09-27T20:05:00Z",
+      "outcomes": [
+        "Over",
+        "Under"
+      ]
+    },
+    {
+      "rank": 18,
+      "title": "Spread: Bengals (-3.5)",
+      "url": "https://polymarket.com/event/nfl-cin-pit-2026-09-27",
+      "volume_24h": 158938.884511,
+      "volume_total": 269035.7724099999,
+      "liquidity": 277964.9185,
+      "yes_price": 0.465,
+      "leader": {
+        "name": "Steelers",
+        "price": 0.535
+      },
+      "end_date": "2026-09-27T17:00:00Z",
+      "outcomes": [
+        "Bengals",
+        "Steelers"
+      ]
+    },
+    {
+      "rank": 19,
+      "title": "Will Ted Cruz win the 2028 US Presidential Election?",
+      "url": "https://polymarket.com/event/presidential-election-winner-2028",
+      "volume_24h": 150000,
+      "volume_total": 269625.71900000004,
+      "liquidity": 277259.39814,
+      "yes_price": 0.0035,
+      "leader": {
+        "name": "No",
+        "price": 0.9965
+      },
+      "end_date": "2028-11-07T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 20,
+      "title": "US x Iran ceasefire continues through September 30?",
+      "url": "https://polymarket.com/event/us-iran-ceasefire-continues-throughptptpt",
+      "volume_24h": 137180.94534600002,
+      "volume_total": 968221.8573680001,
+      "liquidity": 129913.3219,
+      "yes_price": 0.885,
+      "leader": {
+        "name": "Yes",
+        "price": 0.885
+      },
+      "end_date": "2026-09-30T23:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 21,
+      "title": "Spread: Cowboys (-3.5)",
+      "url": "https://polymarket.com/event/nfl-bal-dal-2026-09-27",
+      "volume_24h": 135335.687564,
+      "volume_total": 135335.687564,
+      "liquidity": 180472.7367,
+      "yes_price": 0.255,
+      "leader": {
+        "name": "Ravens",
+        "price": 0.745
+      },
+      "end_date": "2026-09-27T20:25:00Z",
+      "outcomes": [
+        "Cowboys",
+        "Ravens"
+      ]
+    },
+    {
+      "rank": 22,
+      "title": "Ole Miss vs. Florida",
+      "url": "https://polymarket.com/event/cfb-miss-fl-2026-09-26",
+      "volume_24h": 125520.21091100002,
+      "volume_total": 338054.356885,
+      "liquidity": 182670.0065,
+      "yes_price": 0.385,
+      "leader": {
+        "name": "Florida",
+        "price": 0.615
+      },
+      "end_date": "2026-09-26T19:30:00Z",
+      "outcomes": [
+        "Ole Miss",
+        "Florida"
+      ]
+    },
+    {
+      "rank": 23,
+      "title": "Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?",
+      "url": "https://polymarket.com/event/brazil-presidential-election",
+      "volume_24h": 120484.407563,
+      "volume_total": 12300900.137467995,
+      "liquidity": 403067.0396,
+      "yes_price": 0.445,
+      "leader": {
+        "name": "No",
+        "price": 0.555
+      },
+      "end_date": "2026-10-04T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 24,
+      "title": "Will the price of Bitcoin be above $72,000 on September 26?",
+      "url": "https://polymarket.com/event/bitcoin-above-on-september-26-2026",
+      "volume_24h": 115460.032,
+      "volume_total": 125299.377177,
+      "liquidity": 130160.57525,
+      "yes_price": 0.9995,
+      "leader": {
+        "name": "Yes",
+        "price": 0.9995
+      },
+      "end_date": "2026-09-26T16:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 25,
+      "title": "US-Iran Final Nuclear Deal by December 31, 2026?",
+      "url": "https://polymarket.com/event/us-iran-final-nuclear-deal-by-20260621201254412",
+      "volume_24h": 113440.618383,
+      "volume_total": 3110982.3501819996,
+      "liquidity": 199371.7983,
+      "yes_price": 0.095,
+      "leader": {
+        "name": "No",
+        "price": 0.905
+      },
+      "end_date": "2026-06-15T03:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    }
+  ]
+}
