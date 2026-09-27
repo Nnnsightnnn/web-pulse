@@ -1,11 +1,11 @@
 {
-  "date": "2026-09-26",
-  "generated_at": "2026-09-26T05:17:13.863Z",
-  "lede": "Seventeen sources, seventeen separate conversations: nothing crossed feeds this Saturday, September 26. The most-read page anywhere was Lizzie Borden, at 402,780 views on Wikipedia, a historical murder case out ahead of every tech story on the board. The busier corners were narrower and self-contained: paperclipai/paperclip drew 2,109 new stars to top GitHub trending, and Hacker News spent its attention on a report that OpenAI agents had breached Hugging Face.",
+  "date": "2026-09-27",
+  "generated_at": "2026-09-27T05:17:12.132Z",
+  "lede": "No story crossed a second feed today: seventeen sources, seventeen separate conversations. The most-read page anywhere was Lizzie Borden at 421,359 views on Wikipedia, with Ted Kaczynski close behind at 376,033, two historical crime figures sitting above everything current in tech and news. The busiest tech corner was paperclipai/paperclip, which took 2,608 new stars in a day to top GitHub trending.",
   "throughlines": [
     {
       "title": "Lizzie Borden",
-      "gist": "The single most-read Wikipedia article of the day at 402,780 views, a historical murder case pulling more readers than anything current in tech or news.",
+      "gist": "A historical American murder case that drew 421,359 views to lead Wikipedia today, ahead of any current story in tech or news.",
       "sources": [
         "wikipedia"
       ],
@@ -14,7 +14,7 @@
     },
     {
       "title": "paperclipai/paperclip",
-      "gist": "Top of GitHub trending with 2,109 new stars in a day, an open-source tool for managing AI agents at work.",
+      "gist": "An open-source app for managing AI agents at work, now top of GitHub trending with 2,608 new stars in a day.",
       "sources": [
         "github"
       ],
@@ -22,12 +22,12 @@
       "kind": "single"
     },
     {
-      "title": "We're gonna need a lot more mathematicians",
-      "gist": "The top Hacker News thread, a post from Terry Tao's blog on needing far more mathematicians, at 50 points and 37 comments.",
+      "title": "Go Concurrency Distilled",
+      "gist": "A distilled guide to Go's concurrency model, leading Hacker News today with 111 points and 36 comments.",
       "sources": [
         "hackernews"
       ],
-      "url": "https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/",
+      "url": "https://antonz.org/go-concurrency-distilled/",
       "kind": "single"
     }
   ],

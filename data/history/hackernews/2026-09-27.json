@@ -1,0 +1,232 @@
+{
+  "source": "hackernews",
+  "label": "Hacker News — top stories",
+  "fetched_at": "2026-09-27T05:16:22.899Z",
+  "items": [
+    {
+      "rank": 1,
+      "title": "Go Concurrency Distilled",
+      "url": "https://antonz.org/go-concurrency-distilled/",
+      "hn_url": "https://news.ycombinator.com/item?id=49856988",
+      "score": 111,
+      "comments": 36,
+      "author": "chmaynard"
+    },
+    {
+      "rank": 2,
+      "title": "PipePipe: NewPipe hard fork implementing SponsorBlock",
+      "url": "https://github.com/InfinityLoop1308/PipePipe",
+      "hn_url": "https://news.ycombinator.com/item?id=49842764",
+      "score": 360,
+      "comments": 200,
+      "author": "Qision"
+    },
+    {
+      "rank": 3,
+      "title": "DeepSeek Elastic Compute (DSec)",
+      "url": "https://arxiv.org/abs/2609.22978",
+      "hn_url": "https://news.ycombinator.com/item?id=49859112",
+      "score": 204,
+      "comments": 62,
+      "author": "shenli3514"
+    },
+    {
+      "rank": 4,
+      "title": "Show HN: Reladraw – A diagram language where you decide where to place things",
+      "url": "https://github.com/reladraw/reladraw",
+      "hn_url": "https://news.ycombinator.com/item?id=49858513",
+      "score": 234,
+      "comments": 68,
+      "author": "jpwalsh234"
+    },
+    {
+      "rank": 5,
+      "title": "If we do not stop to help each other, what do we become?",
+      "url": "https://blog.codinghorror.com/if-we-do-not-stop-to-help-each-other-what-do-we-become/",
+      "hn_url": "https://news.ycombinator.com/item?id=49863062",
+      "score": 90,
+      "comments": 22,
+      "author": "signa11"
+    },
+    {
+      "rank": 6,
+      "title": "OpenAI agents tried to bruteforce a UN website's API fields",
+      "url": "https://swarmcha.se/posts/openai-unctad",
+      "hn_url": "https://news.ycombinator.com/item?id=49862299",
+      "score": 22,
+      "comments": 8,
+      "author": "intunderflow"
+    },
+    {
+      "rank": 7,
+      "title": "Evolving programming languages in the AI era",
+      "url": "https://dashbit.co/blog/evolving-ai-era",
+      "hn_url": "https://news.ycombinator.com/item?id=49839567",
+      "score": 67,
+      "comments": 41,
+      "author": "pjm331"
+    },
+    {
+      "rank": 8,
+      "title": "What is the size of Yemen? (2024)",
+      "url": "https://theborys.substack.com/p/what-is-the-size-of-yemen",
+      "hn_url": "https://news.ycombinator.com/item?id=49862809",
+      "score": 66,
+      "comments": 11,
+      "author": "kspacewalk2"
+    },
+    {
+      "rank": 9,
+      "title": "An agent used DNS to reach an external chatbot",
+      "url": "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot/",
+      "hn_url": "https://news.ycombinator.com/item?id=49853137",
+      "score": 55,
+      "comments": 61,
+      "author": "apsec112"
+    },
+    {
+      "rank": 10,
+      "title": "Does Georgism work? Five years later",
+      "url": "https://www.astralcodexten.com/p/does-georgism-work-five-years-later",
+      "hn_url": "https://news.ycombinator.com/item?id=49844657",
+      "score": 223,
+      "comments": 149,
+      "author": "silveraxe93"
+    },
+    {
+      "rank": 11,
+      "title": "Snap Wants to be a State Actor??–Kansas v. Snap",
+      "url": "https://blog.ericgoldman.org/archives/2026/09/snap-wants-to-be-a-state-actor-kansas-v-snap.htm",
+      "hn_url": "https://news.ycombinator.com/item?id=49847247",
+      "score": 37,
+      "comments": 7,
+      "author": "hn_acker"
+    },
+    {
+      "rank": 12,
+      "title": "Exploding variance of means of exponentials: least-squares to the rescue",
+      "url": "https://francisbach.com/spectral_log_density_estimation/",
+      "hn_url": "https://news.ycombinator.com/item?id=49850991",
+      "score": 13,
+      "comments": 0,
+      "author": "matt_d"
+    },
+    {
+      "rank": 13,
+      "title": "Reverse-engineering the Intel 8087's tangent algorithm: more than CORDIC",
+      "url": "https://www.righto.com/2026/09/8087-tangent-cordic.html",
+      "hn_url": "https://news.ycombinator.com/item?id=49858676",
+      "score": 56,
+      "comments": 7,
+      "author": "pwg"
+    },
+    {
+      "rank": 14,
+      "title": "A searchable library of forgotten public-domain film clips from 1915 onward",
+      "url": "https://www.movingimagearchive.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=49832768",
+      "score": 140,
+      "comments": 26,
+      "author": "momentmaker"
+    },
+    {
+      "rank": 15,
+      "title": "We Should Be Able to Change Our Languages",
+      "url": "http://jimmyhmiller.com/change-our-languages",
+      "hn_url": "https://news.ycombinator.com/item?id=49844037",
+      "score": 28,
+      "comments": 10,
+      "author": "surprisetalk"
+    },
+    {
+      "rank": 16,
+      "title": "Drawgent: Coding agent on a live Excalidraw canvas",
+      "url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
+      "hn_url": "https://news.ycombinator.com/item?id=49857729",
+      "score": 134,
+      "comments": 36,
+      "author": "parasitid"
+    },
+    {
+      "rank": 17,
+      "title": "Turning GLM-5.3-Flash into a Jev-like decision model",
+      "url": "https://www.privatemode.ai/blog/system-one-from-glm-flash",
+      "hn_url": "https://news.ycombinator.com/item?id=49857656",
+      "score": 69,
+      "comments": 27,
+      "author": "flxflx"
+    },
+    {
+      "rank": 18,
+      "title": "Biology might not be quantum, but its math is quantumlike",
+      "url": "https://www.quantamagazine.org/biology-might-not-be-quantum-but-its-math-is-quantumlike-20260923/",
+      "hn_url": "https://news.ycombinator.com/item?id=49839438",
+      "score": 45,
+      "comments": 14,
+      "author": "pseudolus"
+    },
+    {
+      "rank": 19,
+      "title": "Improving site performance by shipping more CSS",
+      "url": "https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css/",
+      "hn_url": "https://news.ycombinator.com/item?id=49856193",
+      "score": 3,
+      "comments": 0,
+      "author": "torutofu"
+    },
+    {
+      "rank": 20,
+      "title": "Fifteen years later, the Apple Cards origin story",
+      "url": "https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story",
+      "hn_url": "https://news.ycombinator.com/item?id=49854693",
+      "score": 372,
+      "comments": 93,
+      "author": "ksec"
+    },
+    {
+      "rank": 21,
+      "title": "ASML says it sold 'absolutely nothing' in Europe in 2026",
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/asml-says-its-sells-absolutely-nothing-in-europe-calls-on-eu-to-help-create-demand",
+      "hn_url": "https://news.ycombinator.com/item?id=49844663",
+      "score": 207,
+      "comments": 519,
+      "author": "MC995"
+    },
+    {
+      "rank": 22,
+      "title": "Promising discoveries about the potential for life on one of Saturn’s icy moons",
+      "url": "https://www.fu-berlin.de/en/presse/informationen/fup/2026/fup_26_116-enceladus-cassini-mikroben-science-postberg/index.html",
+      "hn_url": "https://news.ycombinator.com/item?id=49852905",
+      "score": 42,
+      "comments": 23,
+      "author": "geox"
+    },
+    {
+      "rank": 23,
+      "title": "How I changed teaching after AI managed to do all my homework assignments",
+      "url": "https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed",
+      "hn_url": "https://news.ycombinator.com/item?id=49836579",
+      "score": 164,
+      "comments": 154,
+      "author": "azhenley"
+    },
+    {
+      "rank": 24,
+      "title": "Modern Object Pascal Introduction for Programmers",
+      "url": "https://castle-engine.io/modern_pascal",
+      "hn_url": "https://news.ycombinator.com/item?id=49829202",
+      "score": 157,
+      "comments": 64,
+      "author": "birdculture"
+    },
+    {
+      "rank": 25,
+      "title": "Welcome to the Medical Clinic at the Interplanetary Relay Station",
+      "url": "https://www.lightspeedmagazine.com/fiction/welcome-to-the-medical-clinic-at-the-interplanetary-relay-station/",
+      "hn_url": "https://news.ycombinator.com/item?id=49860074",
+      "score": 62,
+      "comments": 12,
+      "author": "bucket2015"
+    }
+  ]
+}
