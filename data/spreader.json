@@ -1,37 +1,41 @@
 {
-  "date": "2026-09-27",
-  "generated_at": "2026-09-27T05:17:12.132Z",
-  "lede": "No story crossed a second feed today: seventeen sources, seventeen separate conversations. The most-read page anywhere was Lizzie Borden at 421,359 views on Wikipedia, with Ted Kaczynski close behind at 376,033, two historical crime figures sitting above everything current in tech and news. The busiest tech corner was paperclipai/paperclip, which took 2,608 new stars in a day to top GitHub trending.",
+  "date": "2026-09-28",
+  "generated_at": "2026-09-28T05:17:07.119Z",
+  "lede": "One story landed on three separate feeds at once: India versus Afghanistan in the Asian Games men's cricket quarter-final, live on Google Trends, Polymarket, and Wikipedia together. In India the match drew an estimated 1,000,000 searches after a washout sent India through to the semi-finals. Elsewhere the evening ran on habit: Counter-Strike 2 held the top of Steam with 1,346,533 players, and paperclipai/paperclip led GitHub trending with 2,401 stars on the day.",
   "throughlines": [
     {
-      "title": "Lizzie Borden",
-      "gist": "A historical American murder case that drew 421,359 views to lead Wikipedia today, ahead of any current story in tech or news.",
+      "title": "india vs afghanistan",
+      "gist": "An Asian Games men's cricket quarter-final that a rain washout turned decisive, sending India to the semi-finals and pulling search, betting, and encyclopedia traffic on the same day.",
       "sources": [
+        "google-trends",
+        "polymarket",
         "wikipedia"
       ],
-      "url": "https://en.wikipedia.org/wiki/Lizzie_Borden",
-      "kind": "single"
+      "url": "https://en.wikipedia.org/wiki/India_at_the_2026_Asian_Games",
+      "kind": "cluster"
     },
     {
-      "title": "paperclipai/paperclip",
-      "gist": "An open-source app for managing AI agents at work, now top of GitHub trending with 2,608 new stars in a day.",
+      "title": "Eagles vs. Bears",
+      "gist": "Monday Night Football's Week 3 matchup, live on Google Trends and priced on Polymarket with the Eagles favored at 0.655.",
       "sources": [
-        "github"
+        "google-trends",
+        "polymarket"
       ],
-      "url": "https://github.com/paperclipai/paperclip",
-      "kind": "single"
+      "url": "https://www.chicagobears.com/news/how-to-watch-chicago-bears-philadelphia-eagles-monday-night-football-2026-week-3-listen-stream-tv-radio-online-nfl",
+      "kind": "cluster"
     },
     {
-      "title": "Go Concurrency Distilled",
-      "gist": "A distilled guide to Go's concurrency model, leading Hacker News today with 111 points and 36 comments.",
+      "title": "Taylor Swift - Cleveland! (Official Lyric Video)",
+      "gist": "A Taylor Swift lyric video and steady search interest in her name, crossing YouTube and Google Trends together.",
       "sources": [
-        "hackernews"
+        "google-trends",
+        "youtube"
       ],
-      "url": "https://antonz.org/go-concurrency-distilled/",
-      "kind": "single"
+      "url": "https://www.hollywoodreporter.com/lists/mtv-vmas-2026-winners-list/",
+      "kind": "cluster"
     }
   ],
-  "strength": 15,
+  "strength": 100,
   "live_sources": 17,
   "total_sources": 17,
   "dashboard_url": "https://nnnsightnnn.github.io/web-pulse/",
