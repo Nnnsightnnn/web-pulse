@@ -1,41 +1,37 @@
 {
-  "date": "2026-09-28",
-  "generated_at": "2026-09-28T05:17:07.119Z",
-  "lede": "One story landed on three separate feeds at once: India versus Afghanistan in the Asian Games men's cricket quarter-final, live on Google Trends, Polymarket, and Wikipedia together. In India the match drew an estimated 1,000,000 searches after a washout sent India through to the semi-finals. Elsewhere the evening ran on habit: Counter-Strike 2 held the top of Steam with 1,346,533 players, and paperclipai/paperclip led GitHub trending with 2,401 stars on the day.",
+  "date": "2026-09-29",
+  "generated_at": "2026-09-29T05:17:54.637Z",
+  "lede": "Nothing crossed all seventeen feeds today, so the loudest signal came from one source standing alone. On Wikipedia, the wrestler Pac pulled 806,988 reads, roughly two and a half times the runner-up, Lizzie Borden, who has been dead for nearly a century. Underneath that the web went quiet and technical: a fully local ElevenLabs alternative topping GitHub, a home-trained 0.8B model leading Hacker News, and a scatter of magnitude-5 earthquakes with no throughline tying them together.",
   "throughlines": [
     {
-      "title": "india vs afghanistan",
-      "gist": "An Asian Games men's cricket quarter-final that a rain washout turned decisive, sending India to the semi-finals and pulling search, betting, and encyclopedia traffic on the same day.",
+      "title": "Pac (wrestler)",
+      "gist": "The day's most-read article anywhere at 806,988 views, more than double any other topic on Wikipedia.",
       "sources": [
-        "google-trends",
-        "polymarket",
         "wikipedia"
       ],
-      "url": "https://en.wikipedia.org/wiki/India_at_the_2026_Asian_Games",
-      "kind": "cluster"
+      "url": "https://en.wikipedia.org/wiki/Pac_(wrestler)",
+      "kind": "single"
     },
     {
-      "title": "Eagles vs. Bears",
-      "gist": "Monday Night Football's Week 3 matchup, live on Google Trends and priced on Polymarket with the Eagles favored at 0.655.",
+      "title": "debpalash/VoiceStudio",
+      "gist": "A fully local, open-source ElevenLabs alternative that took the top of GitHub trending with 3,221 stars in a day.",
       "sources": [
-        "google-trends",
-        "polymarket"
+        "github"
       ],
-      "url": "https://www.chicagobears.com/news/how-to-watch-chicago-bears-philadelphia-eagles-monday-night-football-2026-week-3-listen-stream-tv-radio-online-nfl",
-      "kind": "cluster"
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "kind": "single"
     },
     {
-      "title": "Taylor Swift - Cleveland! (Official Lyric Video)",
-      "gist": "A Taylor Swift lyric video and steady search interest in her name, crossing YouTube and Google Trends together.",
+      "title": "Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms",
+      "gist": "A Jev-compatible 0.8B decision model trained at home at roughly 30 ms, leading Hacker News with 405 points and 154 comments.",
       "sources": [
-        "google-trends",
-        "youtube"
+        "hackernews"
       ],
-      "url": "https://www.hollywoodreporter.com/lists/mtv-vmas-2026-winners-list/",
-      "kind": "cluster"
+      "url": "https://github.com/firelex/jeff",
+      "kind": "single"
     }
   ],
-  "strength": 100,
+  "strength": 15,
   "live_sources": 17,
   "total_sources": 17,
   "dashboard_url": "https://nnnsightnnn.github.io/web-pulse/",

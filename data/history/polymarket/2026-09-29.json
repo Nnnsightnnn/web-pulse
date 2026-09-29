@@ -1,0 +1,457 @@
+{
+  "source": "polymarket",
+  "label": "Polymarket — top 24h volume",
+  "fetched_at": "2026-09-29T05:17:07.545Z",
+  "items": [
+    {
+      "rank": 1,
+      "title": "Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?",
+      "url": "https://polymarket.com/event/uefa-champions-league-2027-champion-20260701202025549",
+      "volume_24h": 427450.01,
+      "volume_total": 23722378.632,
+      "liquidity": 423496.92511,
+      "yes_price": 0.0015,
+      "leader": {
+        "name": "No",
+        "price": 0.9985
+      },
+      "end_date": "2027-05-30T23:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "China Open, Qualification: Jiaqi Wang vs Zhuoxuan Bai",
+      "url": "https://polymarket.com/event/wta-jiaqiwa-bai-2026-09-28",
+      "volume_24h": 371581.4057319999,
+      "volume_total": 371581.4057319999,
+      "liquidity": 77394.79694,
+      "yes_price": 0.349,
+      "leader": {
+        "name": "Zhuoxuan Bai",
+        "price": 0.651
+      },
+      "end_date": "2026-10-06T03:00:00Z",
+      "outcomes": [
+        "Jiaqi Wang",
+        "Zhuoxuan Bai"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Will New York Red Bulls win the 2026 MLS Cup?",
+      "url": "https://polymarket.com/event/mls-cup-winner-2026",
+      "volume_24h": 320887.58,
+      "volume_total": 1067346.451646,
+      "liquidity": 38272.91345,
+      "yes_price": 0.0025,
+      "leader": {
+        "name": "No",
+        "price": 0.9975
+      },
+      "end_date": "2027-01-01T04:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Jingshan: Kristina Mladenovic vs Sofia Costoulas",
+      "url": "https://polymarket.com/event/wta-mladeno-costoul-2026-09-28",
+      "volume_24h": 289415.243026,
+      "volume_total": 289450.3771700001,
+      "liquidity": 123651.87606,
+      "yes_price": 0.0005,
+      "leader": {
+        "name": "Sofia Costoulas",
+        "price": 0.9995
+      },
+      "end_date": "2026-10-06T03:00:00Z",
+      "outcomes": [
+        "Kristina Mladenovic",
+        "Sofia Costoulas"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Jingshan: Alexandra Shubladze vs Rina Saigo",
+      "url": "https://polymarket.com/event/wta-shublad-saigo-2026-09-28",
+      "volume_24h": 284433.3278989999,
+      "volume_total": 284058.2278989998,
+      "liquidity": 33155.73997,
+      "yes_price": 0.915,
+      "leader": {
+        "name": "Alexandra Shubladze",
+        "price": 0.915
+      },
+      "end_date": "2026-10-06T03:00:00Z",
+      "outcomes": [
+        "Alexandra Shubladze",
+        "Rina Saigo"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "China Open, Qualification: Marco Trungelliti vs Alex Molcan",
+      "url": "https://polymarket.com/event/atp-trungel-molcan-2026-09-28",
+      "volume_24h": 253398.723844,
+      "volume_total": 252294.22763099993,
+      "liquidity": 274947.3263,
+      "yes_price": 0.235,
+      "leader": {
+        "name": "Alex Molcan",
+        "price": 0.765
+      },
+      "end_date": "2026-10-06T03:00:00Z",
+      "outcomes": [
+        "Marco Trungelliti",
+        "Alex Molcan"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "US announces end of Iranian blockade by September 30, 2026?",
+      "url": "https://polymarket.com/event/us-announces-end-of-iranian-blockade-byptptpt-20260713152715080",
+      "volume_24h": 243671.19208900005,
+      "volume_total": 5193088.767780003,
+      "liquidity": 101328.64821,
+      "yes_price": 0.0285,
+      "leader": {
+        "name": "No",
+        "price": 0.9715
+      },
+      "end_date": "2026-10-01T03:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Will the Fed increase interest rates by 25 bps after the October 2026 meeting?",
+      "url": "https://polymarket.com/event/fed-decision-in-october-20260617190323537",
+      "volume_24h": 213472.7874580001,
+      "volume_total": 3992744.4822339998,
+      "liquidity": 675716.0481,
+      "yes_price": 0.685,
+      "leader": {
+        "name": "Yes",
+        "price": 0.685
+      },
+      "end_date": "2026-10-29T03:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Putin out as President of Russia by December 31, 2026?",
+      "url": "https://polymarket.com/event/putin-out-before-2027",
+      "volume_24h": 211011.746209,
+      "volume_total": 22426914.43528902,
+      "liquidity": 806860.27945,
+      "yes_price": 0.0285,
+      "leader": {
+        "name": "No",
+        "price": 0.9715
+      },
+      "end_date": "2027-01-01T04:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "US x Iran ceasefire continues through September 30?",
+      "url": "https://polymarket.com/event/us-iran-ceasefire-continues-throughptptpt",
+      "volume_24h": 204386.73949000007,
+      "volume_total": 2071099.718475998,
+      "liquidity": 166786.54317,
+      "yes_price": 0.9645,
+      "leader": {
+        "name": "Yes",
+        "price": 0.9645
+      },
+      "end_date": "2026-09-30T23:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 11,
+      "title": "Trump renames AI by September 30?",
+      "url": "https://polymarket.com/event/trump-renames-ai-by-september-30",
+      "volume_24h": 193868.483395,
+      "volume_total": 601298.3855280031,
+      "liquidity": 48976.0523,
+      "yes_price": 0.535,
+      "leader": {
+        "name": "Yes",
+        "price": 0.535
+      },
+      "end_date": "2026-10-01T03:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 12,
+      "title": "Kharg Island no longer under Iranian control by September 30?",
+      "url": "https://polymarket.com/event/kharg-island-no-longer-under-iranian-control-by-march-31",
+      "volume_24h": 185693.21099999998,
+      "volume_total": 2896877.1526710005,
+      "liquidity": 190167.16907,
+      "yes_price": 0.0015,
+      "leader": {
+        "name": "No",
+        "price": 0.9985
+      },
+      "end_date": "2026-10-01T03:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 13,
+      "title": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
+      "url": "https://polymarket.com/event/brazil-presidential-election",
+      "volume_24h": 185036.90696899986,
+      "volume_total": 12173022.114788005,
+      "liquidity": 548328.29212,
+      "yes_price": 0.5795,
+      "leader": {
+        "name": "Yes",
+        "price": 0.5795
+      },
+      "end_date": "2026-10-04T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 14,
+      "title": "LoL: KaBuM! Ilha das Lendas vs Golden Lions - Game 3 Winner",
+      "url": "https://polymarket.com/event/lol-kbm-gl-2026-09-28",
+      "volume_24h": 182283.31870199996,
+      "volume_total": 184534.77285000007,
+      "liquidity": 14840.90785,
+      "yes_price": 0.6755,
+      "leader": {
+        "name": "KaBuM! Ilha das Lendas",
+        "price": 0.6755
+      },
+      "end_date": "2026-09-29T03:00:00Z",
+      "outcomes": [
+        "KaBuM! Ilha das Lendas",
+        "Golden Lions"
+      ]
+    },
+    {
+      "rank": 15,
+      "title": "Will the U.S. invade Iran before 2027?",
+      "url": "https://polymarket.com/event/will-the-us-invade-iran-before-2027",
+      "volume_24h": 180442.03491800002,
+      "volume_total": 69951461.41057703,
+      "liquidity": 957063.8775,
+      "yes_price": 0.145,
+      "leader": {
+        "name": "No",
+        "price": 0.855
+      },
+      "end_date": "2027-01-01T04:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 16,
+      "title": "Will the Fed increase interest rates by 25 bps after the December 2026 meeting?",
+      "url": "https://polymarket.com/event/fed-decision-in-december-20260729232808632",
+      "volume_24h": 178400.97314,
+      "volume_total": 548458.6140390001,
+      "liquidity": 122029.2581,
+      "yes_price": 0.77,
+      "leader": {
+        "name": "Yes",
+        "price": 0.77
+      },
+      "end_date": "2026-12-09T23:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 17,
+      "title": "Strait of Hormuz traffic returns to normal by October 31?",
+      "url": "https://polymarket.com/event/strait-of-hormuz-traffic-returns-to-normal-by-october-31-20260810151043583",
+      "volume_24h": 174914.66696100004,
+      "volume_total": 1303872.766544,
+      "liquidity": 134051.81569,
+      "yes_price": 0.0375,
+      "leader": {
+        "name": "No",
+        "price": 0.9625
+      },
+      "end_date": "2026-11-01T03:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 18,
+      "title": "Will Bitcoin dip to $82,500 in September?",
+      "url": "https://polymarket.com/event/what-price-will-bitcoin-hit-in-september-2026",
+      "volume_24h": 169920.843179,
+      "volume_total": 451467.121361,
+      "liquidity": 55595.3305,
+      "yes_price": 0.675,
+      "leader": {
+        "name": "Yes",
+        "price": 0.675
+      },
+      "end_date": "2026-10-01T04:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 19,
+      "title": "Will Christine Lagarde win the 2027 French presidential election?",
+      "url": "https://polymarket.com/event/next-french-presidential-election",
+      "volume_24h": 167746.29,
+      "volume_total": 497739.2286689999,
+      "liquidity": 215047.35225,
+      "yes_price": 0.004,
+      "leader": {
+        "name": "No",
+        "price": 0.996
+      },
+      "end_date": "2027-04-19T03:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 20,
+      "title": "Clarity Act (H.R.3633) signed into law in 2026?",
+      "url": "https://polymarket.com/event/clarity-act-signed-into-law-in-2026",
+      "volume_24h": 164771.88844800004,
+      "volume_total": 23246149.940965023,
+      "liquidity": 494273.26759,
+      "yes_price": 0.0515,
+      "leader": {
+        "name": "No",
+        "price": 0.9485
+      },
+      "end_date": "2027-01-01T05:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 21,
+      "title": "Valorant: G2 Esports vs Paper Rex (BO3) - VCT Champions Group C",
+      "url": "https://polymarket.com/event/val-g21-pr1-2026-09-29",
+      "volume_24h": 149734.607977,
+      "volume_total": 246369.1945000001,
+      "liquidity": 241965.6844,
+      "yes_price": 0.425,
+      "leader": {
+        "name": "Paper Rex",
+        "price": 0.575
+      },
+      "end_date": "2026-09-29T15:00:00Z",
+      "outcomes": [
+        "G2 Esports",
+        "Paper Rex"
+      ]
+    },
+    {
+      "rank": 22,
+      "title": "Will Simona Mohamsson be the next Prime Minister of Sweden?",
+      "url": "https://polymarket.com/event/next-prime-minister-of-sweden",
+      "volume_24h": 146108.76,
+      "volume_total": 342575.603242,
+      "liquidity": 180166.49812,
+      "yes_price": 0.0005,
+      "leader": {
+        "name": "No",
+        "price": 0.9995
+      },
+      "end_date": "2027-07-01T03:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 23,
+      "title": "Will Lamine Yamal win the 2026 Ballon d'Or?",
+      "url": "https://polymarket.com/event/ballon-dor-winner-2026",
+      "volume_24h": 139480.60729300007,
+      "volume_total": 2931098.2812999994,
+      "liquidity": 85977.8788,
+      "yes_price": 0.428,
+      "leader": {
+        "name": "No",
+        "price": 0.572
+      },
+      "end_date": "2027-01-01T04:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 24,
+      "title": "Will El Salvador win on 2026-09-28?",
+      "url": "https://polymarket.com/event/conl-gua-slv-2026-09-28",
+      "volume_24h": 135595.93165500002,
+      "volume_total": 137429.632422,
+      "liquidity": 143221.57313,
+      "yes_price": 0.0005,
+      "leader": {
+        "name": "No",
+        "price": 0.9995
+      },
+      "end_date": "2026-09-29T02:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 25,
+      "title": "US-Iran Final Nuclear Deal by September 30, 2026?",
+      "url": "https://polymarket.com/event/us-iran-final-nuclear-deal-by-20260621201254412",
+      "volume_24h": 134243.695099,
+      "volume_total": 2168275.2338190004,
+      "liquidity": 127145.34507,
+      "yes_price": 0.0035,
+      "leader": {
+        "name": "No",
+        "price": 0.9965
+      },
+      "end_date": "2026-10-01T03:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    }
+  ]
+}
