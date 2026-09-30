@@ -1,37 +1,40 @@
 {
-  "date": "2026-09-29",
-  "generated_at": "2026-09-29T05:17:54.637Z",
-  "lede": "Nothing crossed all seventeen feeds today, so the loudest signal came from one source standing alone. On Wikipedia, the wrestler Pac pulled 806,988 reads, roughly two and a half times the runner-up, Lizzie Borden, who has been dead for nearly a century. Underneath that the web went quiet and technical: a fully local ElevenLabs alternative topping GitHub, a home-trained 0.8B model leading Hacker News, and a scatter of magnitude-5 earthquakes with no throughline tying them together.",
+  "date": "2026-09-30",
+  "generated_at": "2026-09-30T05:17:32.409Z",
+  "lede": "The 2026 Asian Games medal table is the day's strongest cross-feed story, live on both Google Trends and Wikipedia at once, where it drew 293,009 views with India's results driving much of the search. The largest single number anywhere on the feeds sits apart from it: Case Keenum pulled 893,057 Wikipedia views, roughly 1.8 times the next article and unexplained by any other source. Two smaller stories also cross feeds today, the launch of The Witcher 3: Wild Hunt Remastered on Steam and YouTube, and the explorer Ranulph Fiennes climbing on both search and Wikipedia.",
   "throughlines": [
     {
-      "title": "Pac (wrestler)",
-      "gist": "The day's most-read article anywhere at 806,988 views, more than double any other topic on Wikipedia.",
+      "title": "2026 Asian Games medal table",
+      "gist": "Live on Google Trends and Wikipedia at once, the day's strongest crossover, with India's medal results driving the search.",
       "sources": [
+        "google-trends",
         "wikipedia"
       ],
-      "url": "https://en.wikipedia.org/wiki/Pac_(wrestler)",
-      "kind": "single"
+      "url": "https://en.wikipedia.org/wiki/2026_Asian_Games_medal_table",
+      "kind": "cluster"
     },
     {
-      "title": "debpalash/VoiceStudio",
-      "gist": "A fully local, open-source ElevenLabs alternative that took the top of GitHub trending with 3,221 stars in a day.",
+      "title": "The Witcher 3: Wild Hunt — Remastered",
+      "gist": "The remaster's launch lands on Steam and in an official YouTube trailer the same day.",
       "sources": [
-        "github"
+        "steam",
+        "youtube"
       ],
-      "url": "https://github.com/debpalash/VoiceStudio",
-      "kind": "single"
+      "url": "https://store.steampowered.com/app/292030",
+      "kind": "cluster"
     },
     {
-      "title": "Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms",
-      "gist": "A Jev-compatible 0.8B decision model trained at home at roughly 30 ms, leading Hacker News with 405 points and 154 comments.",
+      "title": "sir ranulph fiennes",
+      "gist": "The British explorer is climbing on both search and Wikipedia, tied to a BBC news story.",
       "sources": [
-        "hackernews"
+        "google-trends",
+        "wikipedia"
       ],
-      "url": "https://github.com/firelex/jeff",
-      "kind": "single"
+      "url": "https://en.wikipedia.org/wiki/Ranulph_Fiennes",
+      "kind": "cluster"
     }
   ],
-  "strength": 15,
+  "strength": 98,
   "live_sources": 17,
   "total_sources": 17,
   "dashboard_url": "https://nnnsightnnn.github.io/web-pulse/",
