@@ -4,7 +4,9 @@
 
 export default async function fetchProductHunt() {
   const token = process.env.PH_API_TOKEN
-  if (!token) {
+  // In cloud runs (WEB_PULSE_PROXY_AUTH=1) the agent proxy adds the Authorization header.
+  const proxyAuth = process.env.WEB_PULSE_PROXY_AUTH === "1"
+  if (!token && !proxyAuth) {
     return {
       source: "product-hunt",
       label: "Product Hunt \u2014 top products",
@@ -34,7 +36,7 @@ export default async function fetchProductHunt() {
   const res = await fetch("https://api.producthunt.com/v2/api/graphql", {
     method: "POST",
     headers: {
-      "Authorization": `Bearer ${token}`,
+      ...(token ? { "Authorization": `Bearer ${token}` } : {}),
       "Content-Type": "application/json",
       "User-Agent": "web-pulse/0.1",
     },

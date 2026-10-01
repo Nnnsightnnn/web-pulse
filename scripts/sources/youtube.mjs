@@ -14,8 +14,11 @@ function decodeHtml(s) {
 
 export default async function fetchYouTube() {
   const KEY = process.env.YT_API_KEY
+  // In cloud runs (WEB_PULSE_PROXY_AUTH=1) the key is not in the environment:
+  // the Claude cloud agent proxy adds an x-goog-api-key header on the way out.
+  const proxyAuth = process.env.WEB_PULSE_PROXY_AUTH === "1"
 
-  if (!KEY) {
+  if (!KEY && !proxyAuth) {
     return {
       source: "youtube",
       label: "YouTube — trending videos",
@@ -26,7 +29,7 @@ export default async function fetchYouTube() {
     }
   }
 
-  const url = `https://www.googleapis.com/youtube/v3/videos?part=snippet,statistics&chart=mostPopular&regionCode=US&maxResults=25&key=${KEY}`
+  const url = `https://www.googleapis.com/youtube/v3/videos?part=snippet,statistics&chart=mostPopular&regionCode=US&maxResults=25${KEY ? `&key=${KEY}` : ""}`
 
   const res = await fetch(url, {
     headers: { "User-Agent": "web-pulse/0.1" },

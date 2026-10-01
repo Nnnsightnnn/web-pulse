@@ -21,7 +21,8 @@ function isoDaysAgo(n) {
 async function fetchRanking(token, params) {
   const qs = new URLSearchParams(params)
   const res = await fetch(`${ENDPOINT}?${qs}`, {
-    headers: { Authorization: `Bearer ${token}` },
+    // No token in cloud runs: the agent proxy adds the Authorization header.
+    headers: token ? { Authorization: `Bearer ${token}` } : {},
   })
   if (!res.ok) {
     const body = await res.text().catch(() => "")
@@ -33,8 +34,9 @@ async function fetchRanking(token, params) {
 
 export default async function fetchCloudflareRadar() {
   const TOKEN = process.env.CF_RADAR_TOKEN
+  const proxyAuth = process.env.WEB_PULSE_PROXY_AUTH === "1"
 
-  if (!TOKEN) {
+  if (!TOKEN && !proxyAuth) {
     return {
       source: "cloudflare-radar",
       label: "Cloudflare Radar — trending domains",
