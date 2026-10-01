@@ -1,0 +1,457 @@
+{
+  "source": "polymarket",
+  "label": "Polymarket — top 24h volume",
+  "fetched_at": "2026-10-01T05:16:25.411Z",
+  "items": [
+    {
+      "rank": 1,
+      "title": "Chicago Cubs vs. San Diego Padres",
+      "url": "https://polymarket.com/event/mlb-chc-sd-2026-09-30",
+      "volume_24h": 1125323.521752,
+      "volume_total": 1162883.0762809983,
+      "liquidity": 207744.28648,
+      "yes_price": 0.0005,
+      "leader": {
+        "name": "San Diego Padres",
+        "price": 0.9995
+      },
+      "end_date": "2026-10-08T02:00:00Z",
+      "outcomes": [
+        "Chicago Cubs",
+        "San Diego Padres"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Japan Open Tennis Championships: Taylor Fritz vs Jaume Munar",
+      "url": "https://polymarket.com/event/atp-fritz-munar-2026-09-30",
+      "volume_24h": 1011465.4951250005,
+      "volume_total": 1011727.6618930004,
+      "liquidity": 144407.1255,
+      "yes_price": 0.005,
+      "leader": {
+        "name": "Jaume Munar",
+        "price": 0.995
+      },
+      "end_date": "2026-10-08T01:00:00Z",
+      "outcomes": [
+        "Taylor Fritz",
+        "Jaume Munar"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Will the Fed increase interest rates by 25 bps after the October 2026 meeting?",
+      "url": "https://polymarket.com/event/fed-decision-in-october-20260617190323537",
+      "volume_24h": 682886.1685690004,
+      "volume_total": 5071098.221257997,
+      "liquidity": 413496.4928,
+      "yes_price": 0.335,
+      "leader": {
+        "name": "No",
+        "price": 0.665
+      },
+      "end_date": "2026-10-29T03:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?",
+      "url": "https://polymarket.com/event/uefa-champions-league-2027-champion-20260701202025549",
+      "volume_24h": 460452.32,
+      "volume_total": 24618260.671999995,
+      "liquidity": 411801.7937,
+      "yes_price": 0.0015,
+      "leader": {
+        "name": "No",
+        "price": 0.9985
+      },
+      "end_date": "2027-05-30T23:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Will Norway win on 2026-10-01?",
+      "url": "https://polymarket.com/event/unl-wal-nor-2026-10-01",
+      "volume_24h": 384485.80908800004,
+      "volume_total": 421546.4877300001,
+      "liquidity": 165423.3832,
+      "yes_price": 0.685,
+      "leader": {
+        "name": "Yes",
+        "price": 0.685
+      },
+      "end_date": "2026-10-01T18:45:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Will Geraldo Alckmin win the 2026 Brazilian presidential election?",
+      "url": "https://polymarket.com/event/brazil-presidential-election",
+      "volume_24h": 367143.5040000001,
+      "volume_total": 7515322.905184001,
+      "liquidity": 310197.54177,
+      "yes_price": 0.0015,
+      "leader": {
+        "name": "No",
+        "price": 0.9985
+      },
+      "end_date": "2026-10-05T03:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "China Open: Qinwen Zheng vs Han Shi",
+      "url": "https://polymarket.com/event/wta-zhen-shi-2026-09-30",
+      "volume_24h": 312475.507503,
+      "volume_total": 312475.507503,
+      "liquidity": 134114.3081,
+      "yes_price": 0.785,
+      "leader": {
+        "name": "Qinwen Zheng",
+        "price": 0.785
+      },
+      "end_date": "2026-10-08T02:00:00Z",
+      "outcomes": [
+        "Qinwen Zheng",
+        "Han Shi"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Curitiba: Joao Lucas Da Silva vs Matheus Pucinelli de Almeida",
+      "url": "https://polymarket.com/event/atp-silv-almeida-2026-09-30",
+      "volume_24h": 273357.9934690001,
+      "volume_total": 273359.63281199976,
+      "liquidity": 12139.01437,
+      "yes_price": 0.0055,
+      "leader": {
+        "name": "Matheus Pucinelli de Almeida",
+        "price": 0.9945
+      },
+      "end_date": "2026-10-07T13:00:00Z",
+      "outcomes": [
+        "Joao Lucas Da Silva",
+        "Matheus Pucinelli de Almeida"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Japan Open Tennis Championships: Tomas Etcheverry vs Stefanos Tsitsipas",
+      "url": "https://polymarket.com/event/atp-etcheve-tsitsip-2026-09-29",
+      "volume_24h": 269885.36563699995,
+      "volume_total": 298749.631881,
+      "liquidity": 236982.2033,
+      "yes_price": 0.3,
+      "leader": {
+        "name": "Stefanos Tsitsipas",
+        "price": 0.7
+      },
+      "end_date": "2026-10-07T03:30:00Z",
+      "outcomes": [
+        "Tomas Etcheverry",
+        "Stefanos Tsitsipas"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Australia Tour of South Africa ODIs: South Africa vs Australia",
+      "url": "https://polymarket.com/event/crint-zaf-aus-2026-09-30",
+      "volume_24h": 258602.87236199994,
+      "volume_total": 266908.23542300006,
+      "liquidity": 26844.89128,
+      "yes_price": 0.0005,
+      "leader": {
+        "name": "Australia",
+        "price": 0.9995
+      },
+      "end_date": "2026-10-07T11:30:00Z",
+      "outcomes": [
+        "South Africa",
+        "Australia"
+      ]
+    },
+    {
+      "rank": 11,
+      "title": "China Open: Alex Molcan vs Arthur Rinderknech",
+      "url": "https://polymarket.com/event/atp-molcan-rinderk-2026-09-30",
+      "volume_24h": 232356.06870399995,
+      "volume_total": 232592.24980199995,
+      "liquidity": 63438.2132,
+      "yes_price": 0.495,
+      "leader": {
+        "name": "Arthur Rinderknech",
+        "price": 0.505
+      },
+      "end_date": "2026-10-08T03:00:00Z",
+      "outcomes": [
+        "Alex Molcan",
+        "Arthur Rinderknech"
+      ]
+    },
+    {
+      "rank": 12,
+      "title": "Will Benjamin Netanyahu be the next Prime Minister of Israel?",
+      "url": "https://polymarket.com/event/who-will-be-the-next-prime-minister-of-israel-after-the-next-election",
+      "volume_24h": 220709.76911500006,
+      "volume_total": 5468706.334633001,
+      "liquidity": 854600.873,
+      "yes_price": 0.325,
+      "leader": {
+        "name": "No",
+        "price": 0.675
+      },
+      "end_date": "2026-10-28T03:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 13,
+      "title": "Valorant: TYLOO vs Team Liquid (BO3) - VCT Champions Group C",
+      "url": "https://polymarket.com/event/val-tyloo-tl1-2026-10-01",
+      "volume_24h": 217180.940535,
+      "volume_total": 220826.62043000007,
+      "liquidity": 202834.9377,
+      "yes_price": 0.205,
+      "leader": {
+        "name": "Team Liquid",
+        "price": 0.795
+      },
+      "end_date": "2026-10-01T15:00:00Z",
+      "outcomes": [
+        "TYLOO",
+        "Team Liquid"
+      ]
+    },
+    {
+      "rank": 14,
+      "title": "Gemini 4.0 released by September 30, 2026?",
+      "url": "https://polymarket.com/event/gemini-4pt0-released-by-june-30-2026",
+      "volume_24h": 210780.82694100004,
+      "volume_total": 621996.447054,
+      "liquidity": 26900.26797,
+      "yes_price": 0.0035,
+      "leader": {
+        "name": "No",
+        "price": 0.9965
+      },
+      "end_date": "2026-10-01T03:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 15,
+      "title": "China Open: Yulia Starodubtseva vs Alina Charaeva",
+      "url": "https://polymarket.com/event/wta-starodu-charaev-2026-09-29",
+      "volume_24h": 202798.21394999998,
+      "volume_total": 204621.69377699992,
+      "liquidity": 178857.8718,
+      "yes_price": 0.705,
+      "leader": {
+        "name": "Yulia Starodubtseva",
+        "price": 0.705
+      },
+      "end_date": "2026-10-07T03:00:00Z",
+      "outcomes": [
+        "Yulia Starodubtseva",
+        "Alina Charaeva"
+      ]
+    },
+    {
+      "rank": 16,
+      "title": "Will Netherlands win on 2026-10-01?",
+      "url": "https://polymarket.com/event/unl-grc-nld-2026-10-01",
+      "volume_24h": 201399.87238499994,
+      "volume_total": 249913.83129099995,
+      "liquidity": 247217.2175,
+      "yes_price": 0.475,
+      "leader": {
+        "name": "No",
+        "price": 0.525
+      },
+      "end_date": "2026-10-01T18:45:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 17,
+      "title": "Will David Lisnard win the 2027 French presidential election?",
+      "url": "https://polymarket.com/event/next-french-presidential-election",
+      "volume_24h": 177657.823229,
+      "volume_total": 2793205.4861819996,
+      "liquidity": 375378.42543,
+      "yes_price": 0.075,
+      "leader": {
+        "name": "No",
+        "price": 0.925
+      },
+      "end_date": "2027-04-19T03:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 18,
+      "title": "Spread: Browns (-3.5)",
+      "url": "https://polymarket.com/event/nfl-pit-cle-2026-10-02",
+      "volume_24h": 175641.49773400003,
+      "volume_total": 176223.53998499998,
+      "liquidity": 177018.1294,
+      "yes_price": 0.295,
+      "leader": {
+        "name": "Steelers",
+        "price": 0.705
+      },
+      "end_date": "2026-10-02T00:15:00Z",
+      "outcomes": [
+        "Browns",
+        "Steelers"
+      ]
+    },
+    {
+      "rank": 19,
+      "title": "US announces end of Iranian blockade by September 30, 2026?",
+      "url": "https://polymarket.com/event/us-announces-end-of-iranian-blockade-byptptpt-20260713152715080",
+      "volume_24h": 170867.18894000002,
+      "volume_total": 5580102.105869004,
+      "liquidity": 65459.44723,
+      "yes_price": 0.0005,
+      "leader": {
+        "name": "No",
+        "price": 0.9995
+      },
+      "end_date": "2026-10-01T03:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 20,
+      "title": "China Open: Alex de Minaur vs Mariano Navone",
+      "url": "https://polymarket.com/event/atp-minaur-navone-2026-09-29",
+      "volume_24h": 167615.139874,
+      "volume_total": 179511.427313,
+      "liquidity": 157732.26196,
+      "yes_price": 0.9995,
+      "leader": {
+        "name": "Alex de Minaur",
+        "price": 0.9995
+      },
+      "end_date": "2026-10-07T02:00:00Z",
+      "outcomes": [
+        "Alex de Minaur",
+        "Mariano Navone"
+      ]
+    },
+    {
+      "rank": 21,
+      "title": "Will Google have the best AI model at the end of October 2026?",
+      "url": "https://polymarket.com/event/which-company-has-the-best-ai-model-end-of-october",
+      "volume_24h": 152144.749303,
+      "volume_total": 215393.49717,
+      "liquidity": 39933.88616,
+      "yes_price": 0.7395,
+      "leader": {
+        "name": "Yes",
+        "price": 0.7395
+      },
+      "end_date": "2026-10-31T16:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 22,
+      "title": "Will China PR vs. Turkmenistan end in a draw?",
+      "url": "https://polymarket.com/event/fif-chn-tkm-2026-10-02",
+      "volume_24h": 144114.24361500004,
+      "volume_total": 348277.20125800004,
+      "liquidity": 71346.74518,
+      "yes_price": 0.998,
+      "leader": {
+        "name": "Yes",
+        "price": 0.998
+      },
+      "end_date": "2026-10-02T11:35:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 23,
+      "title": "Will Elon Musk post 160-179 tweets from September 25 to October 2, 2026?",
+      "url": "https://polymarket.com/event/elon-musk-of-tweets-september-25-october-2-2026",
+      "volume_24h": 130351.06452100001,
+      "volume_total": 246822.3874440001,
+      "liquidity": 44230.58908,
+      "yes_price": 0.049,
+      "leader": {
+        "name": "No",
+        "price": 0.951
+      },
+      "end_date": "2026-10-02T16:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 24,
+      "title": "Will Brentford win the 2026-27 English Premier League (EPL) Championship?",
+      "url": "https://polymarket.com/event/epl-2027-champion-20260701200428749",
+      "volume_24h": 127921.714301,
+      "volume_total": 1600396.137867,
+      "liquidity": 225872.56943,
+      "yes_price": 0.008,
+      "leader": {
+        "name": "No",
+        "price": 0.992
+      },
+      "end_date": "2027-05-30T23:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 25,
+      "title": "Pakistan military action against Afghanistan by October 31, 2026?",
+      "url": "https://polymarket.com/event/pakistan-military-action-against-afghanistan-by-20260925",
+      "volume_24h": 127249.780482,
+      "volume_total": 144962.14052100002,
+      "liquidity": 7618.72938,
+      "yes_price": 0.9895,
+      "leader": {
+        "name": "Yes",
+        "price": 0.9895
+      },
+      "end_date": "2026-11-01T03:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    }
+  ]
+}

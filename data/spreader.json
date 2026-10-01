@@ -1,40 +1,37 @@
 {
-  "date": "2026-09-30",
-  "generated_at": "2026-09-30T05:17:32.409Z",
-  "lede": "The 2026 Asian Games medal table is the day's strongest cross-feed story, live on both Google Trends and Wikipedia at once, where it drew 293,009 views with India's results driving much of the search. The largest single number anywhere on the feeds sits apart from it: Case Keenum pulled 893,057 Wikipedia views, roughly 1.8 times the next article and unexplained by any other source. Two smaller stories also cross feeds today, the launch of The Witcher 3: Wild Hunt Remastered on Steam and YouTube, and the explorer Ranulph Fiennes climbing on both search and Wikipedia.",
+  "date": "2026-10-01",
+  "generated_at": "2026-10-01T05:17:02.826Z",
+  "lede": "The clearest signal today is a single Wikipedia article: Christa Pike drew 1,334,670 views, roughly 3.7 times the next entry on the list. Sport carries most of the rest of the public's attention, with the 2026 Asian Games taking three of Wikipedia's top five slots and searches for India against Sri Lanka filling three of Google's five trending queries. On Hacker News, Google's Gemini 4 Argon leads with 1,166 points and 769 comments.",
   "throughlines": [
     {
-      "title": "2026 Asian Games medal table",
-      "gist": "Live on Google Trends and Wikipedia at once, the day's strongest crossover, with India's medal results driving the search.",
+      "title": "Christa Pike",
+      "gist": "The most-read Wikipedia article of the day at 1,334,670 views, more than three times the next entry on the list.",
       "sources": [
-        "google-trends",
         "wikipedia"
       ],
-      "url": "https://en.wikipedia.org/wiki/2026_Asian_Games_medal_table",
-      "kind": "cluster"
+      "url": "https://en.wikipedia.org/wiki/Christa_Pike",
+      "kind": "single"
     },
     {
-      "title": "The Witcher 3: Wild Hunt — Remastered",
-      "gist": "The remaster's launch lands on Steam and in an official YouTube trailer the same day.",
+      "title": "NVIDIA/OpenShell",
+      "gist": "NVIDIA's self-described safe runtime for autonomous AI agents topped GitHub trending with 1,281 new stars in a day.",
       "sources": [
-        "steam",
-        "youtube"
+        "github"
       ],
-      "url": "https://store.steampowered.com/app/292030",
-      "kind": "cluster"
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "kind": "single"
     },
     {
-      "title": "sir ranulph fiennes",
-      "gist": "The British explorer is climbing on both search and Wikipedia, tied to a BBC news story.",
+      "title": "Gemini 4 Argon",
+      "gist": "Google's new Gemini 4 Argon model is the top story on Hacker News with 1,166 points and 769 comments.",
       "sources": [
-        "google-trends",
-        "wikipedia"
+        "hackernews"
       ],
-      "url": "https://en.wikipedia.org/wiki/Ranulph_Fiennes",
-      "kind": "cluster"
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
+      "kind": "single"
     }
   ],
-  "strength": 98,
+  "strength": 15,
   "live_sources": 17,
   "total_sources": 17,
   "dashboard_url": "https://nnnsightnnn.github.io/web-pulse/",
