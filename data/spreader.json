@@ -1,37 +1,40 @@
 {
-  "date": "2026-10-01",
-  "generated_at": "2026-10-01T05:17:02.826Z",
-  "lede": "The clearest signal today is a single Wikipedia article: Christa Pike drew 1,334,670 views, roughly 3.7 times the next entry on the list. Sport carries most of the rest of the public's attention, with the 2026 Asian Games taking three of Wikipedia's top five slots and searches for India against Sri Lanka filling three of Google's five trending queries. On Hacker News, Google's Gemini 4 Argon leads with 1,166 points and 769 comments.",
+  "date": "2026-10-02",
+  "generated_at": "2026-10-02T05:17:32.868Z",
+  "lede": "One Wikipedia article ran away with the day: Christa Pike drew 4,309,025 views, about 8.7 times the runner-up, and not one of the other sixteen feeds offers a reason why. Beneath that spike the real crossover stories are quieter. The 2026 Asian Games medal table is climbing on both Wikipedia and Google Trends, and a lawsuit over the death of Renee Good is being shared on both Bluesky and Lemmy.",
   "throughlines": [
     {
-      "title": "Christa Pike",
-      "gist": "The most-read Wikipedia article of the day at 1,334,670 views, more than three times the next entry on the list.",
+      "title": "2026 Asian Games medal table",
+      "gist": "The 2026 Asian Games medal table, and India's slide down it, is drawing readers on Wikipedia and searchers on Google at the same time, the strongest shared thread in today's snapshot.",
       "sources": [
+        "google-trends",
         "wikipedia"
       ],
-      "url": "https://en.wikipedia.org/wiki/Christa_Pike",
-      "kind": "single"
+      "url": "https://en.wikipedia.org/wiki/2026_Asian_Games_medal_table",
+      "kind": "cluster"
     },
     {
-      "title": "NVIDIA/OpenShell",
-      "gist": "NVIDIA's self-described safe runtime for autonomous AI agents topped GitHub trending with 1,281 new stars in a day.",
+      "title": "Family of Renee Good sues US government and Trump officials over her death | CNN",
+      "gist": "A CNN report that Renee Good's family is suing the US government and Trump officials over her death is circulating on both Bluesky and Lemmy, a story living almost entirely in the social feeds.",
       "sources": [
-        "github"
+        "bluesky",
+        "lemmy"
       ],
-      "url": "https://github.com/NVIDIA/OpenShell",
-      "kind": "single"
+      "url": "https://lemmy.world/post/52593777",
+      "kind": "cluster"
     },
     {
-      "title": "Gemini 4 Argon",
-      "gist": "Google's new Gemini 4 Argon model is the top story on Hacker News with 1,166 points and 769 comments.",
+      "title": "China Open: Yue Yuan vs Mirra Andreeva",
+      "gist": "A China Open match between Yue Yuan and Mirra Andreeva is both a Google search spike and an active Polymarket contract, the day's one crossover between search and betting.",
       "sources": [
-        "hackernews"
+        "google-trends",
+        "polymarket"
       ],
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
-      "kind": "single"
+      "url": "https://lastwordonsports.com/tennis/2026/10/01/wta-beijing-day-3-predictions-yuan-andreeva/",
+      "kind": "cluster"
     }
   ],
-  "strength": 15,
+  "strength": 100,
   "live_sources": 17,
   "total_sources": 17,
   "dashboard_url": "https://nnnsightnnn.github.io/web-pulse/",

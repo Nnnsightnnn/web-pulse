@@ -1,0 +1,336 @@
+{
+  "source": "stackoverflow",
+  "label": "Stack Overflow — hot questions",
+  "fetched_at": "2026-10-02T05:16:54.045Z",
+  "items": [
+    {
+      "rank": 1,
+      "title": "Why and how does Python treat __new__ differently when called from an instance?",
+      "url": "https://stackoverflow.com/questions/80007399/why-and-how-does-python-treat-new-differently-when-called-from-an-instance",
+      "score": -1,
+      "answers": 1,
+      "views": 50,
+      "tags": [
+        "python"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "How AttachedToVisualTree in Avalonia UI works",
+      "url": "https://stackoverflow.com/questions/80007397/how-attachedtovisualtree-in-avalonia-ui-works",
+      "score": 0,
+      "answers": 0,
+      "views": 24,
+      "tags": [
+        "c#",
+        ".net-8.0",
+        "avaloniaui",
+        "avalonia"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "JsonArray.Where() throws exception 'The node already has a parent.'",
+      "url": "https://stackoverflow.com/questions/80007392/jsonarray-where-throws-exception-the-node-already-has-a-parent",
+      "score": 0,
+      "answers": 0,
+      "views": 49,
+      "tags": [
+        "c#",
+        "arrays",
+        "json",
+        ".net"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "In C++ will floating point operations between literals be performed by the pre-processor?",
+      "url": "https://stackoverflow.com/questions/80007331/in-c-will-floating-point-operations-between-literals-be-performed-by-the-pre-p",
+      "score": 0,
+      "answers": 2,
+      "views": 169,
+      "tags": [
+        "c++",
+        "compilation",
+        "stm32"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Error when building Maven project that runs fine",
+      "url": "https://stackoverflow.com/questions/80007387/error-when-building-maven-project-that-runs-fine",
+      "score": 0,
+      "answers": 0,
+      "views": 50,
+      "tags": [
+        "java",
+        "maven",
+        "maven-plugin"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Why is returning with a value allowed in synchronous generators, but not in asynchronous ones?",
+      "url": "https://stackoverflow.com/questions/80007336/why-is-returning-with-a-value-allowed-in-synchronous-generators-but-not-in-asyn",
+      "score": 0,
+      "answers": 2,
+      "views": 131,
+      "tags": [
+        "python",
+        "async-await",
+        "return",
+        "generator"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "npm can't find package.json on Azure DevOps",
+      "url": "https://stackoverflow.com/questions/80007366/npm-cant-find-package-json-on-azure-devops",
+      "score": -3,
+      "answers": 0,
+      "views": 119,
+      "tags": [
+        "azure",
+        "npm",
+        "playwright"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Why does Oracle return rows with EXISTS AND NOT EXISTS contradiction",
+      "url": "https://stackoverflow.com/questions/80007355/why-does-oracle-return-rows-with-exists-and-not-exists-contradiction",
+      "score": 3,
+      "answers": 1,
+      "views": 80,
+      "tags": [
+        "sql",
+        "oracle-database",
+        "oracle19c",
+        "oracle21c"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "PowerShell version 7.6.3 (on Windows 11 Pro) Error 'Argument types do not match'",
+      "url": "https://stackoverflow.com/questions/80007357/powershell-version-7-6-3-on-windows-11-pro-error-argument-types-do-not-match",
+      "score": 1,
+      "answers": 1,
+      "views": 58,
+      "tags": [
+        "windows",
+        "powershell",
+        "runtime-error"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Python Raylib MeasureTextEx keeps throwing errors about GetFontDefault() saying it's a string",
+      "url": "https://stackoverflow.com/questions/80007351/python-raylib-measuretextex-keeps-throwing-errors-about-getfontdefault-saying",
+      "score": 1,
+      "answers": 1,
+      "views": 42,
+      "tags": [
+        "python",
+        "raylib"
+      ]
+    },
+    {
+      "rank": 11,
+      "title": "How to import and run a GitHub repository (scenred) in Google Colab? (ModuleNotFoundError)",
+      "url": "https://stackoverflow.com/questions/80007329/how-to-import-and-run-a-github-repository-scenred-in-google-colab-modulenotf",
+      "score": 0,
+      "answers": 1,
+      "views": 26,
+      "tags": [
+        "github",
+        "google-colaboratory",
+        "cython",
+        "modulenotfounderror",
+        "stochastic"
+      ]
+    },
+    {
+      "rank": 12,
+      "title": "Why does my pandas groupby suddenly use 12GB RAM and crash after 1M rows? It worked fine with 100k",
+      "url": "https://stackoverflow.com/questions/80007239/why-does-my-pandas-groupby-suddenly-use-12gb-ram-and-crash-after-1m-rows-it-wor",
+      "score": -3,
+      "answers": 1,
+      "views": 106,
+      "tags": [
+        "python",
+        "pandas",
+        "memory-management"
+      ]
+    },
+    {
+      "rank": 13,
+      "title": "How to fail on compiler warnings when compiling normally, but not when auto-reloading in development mode",
+      "url": "https://stackoverflow.com/questions/80007349/how-to-fail-on-compiler-warnings-when-compiling-normally-but-not-when-auto-relo",
+      "score": 0,
+      "answers": 0,
+      "views": 45,
+      "tags": [
+        "scala",
+        "playframework",
+        "sbt",
+        "scalac",
+        "scala-2.13"
+      ]
+    },
+    {
+      "rank": 14,
+      "title": "How to properly update ScrollAreaWidget contents via signals in PySide6?",
+      "url": "https://stackoverflow.com/questions/80007352/how-to-properly-update-scrollareawidget-contents-via-signals-in-pyside6",
+      "score": 0,
+      "answers": 0,
+      "views": 42,
+      "tags": [
+        "python",
+        "python-3.x",
+        "pyside6"
+      ]
+    },
+    {
+      "rank": 15,
+      "title": "How can I reproduce C# MultipartFormDataContent with Java BodyPublishers?",
+      "url": "https://stackoverflow.com/questions/80007315/how-can-i-reproduce-c-multipartformdatacontent-with-java-bodypublishers",
+      "score": 2,
+      "answers": 1,
+      "views": 75,
+      "tags": [
+        "java",
+        "c#",
+        "http-post",
+        "httpclient"
+      ]
+    },
+    {
+      "rank": 16,
+      "title": "How can I extract the track ID from a Spotify URL using JavaScript?",
+      "url": "https://stackoverflow.com/questions/80007240/how-can-i-extract-the-track-id-from-a-spotify-url-using-javascript",
+      "score": -9,
+      "answers": 2,
+      "views": 151,
+      "tags": [
+        "javascript",
+        "regex",
+        "url",
+        "spotify"
+      ]
+    },
+    {
+      "rank": 17,
+      "title": "What happens when you std::bit_cast a std::meta::info?",
+      "url": "https://stackoverflow.com/questions/80007218/what-happens-when-you-stdbit-cast-a-stdmetainfo",
+      "score": 4,
+      "answers": 1,
+      "views": 130,
+      "tags": [
+        "c++",
+        "reflection",
+        "language-lawyer",
+        "bit-cast",
+        "c++29"
+      ]
+    },
+    {
+      "rank": 18,
+      "title": "How can I satisfy a type which is the union of two types with mutually exclusive conditions?",
+      "url": "https://stackoverflow.com/questions/80007321/how-can-i-satisfy-a-type-which-is-the-union-of-two-types-with-mutually-exclusive",
+      "score": 2,
+      "answers": 1,
+      "views": 57,
+      "tags": [
+        "typescript"
+      ]
+    },
+    {
+      "rank": 19,
+      "title": "Get company details in Pine Script",
+      "url": "https://stackoverflow.com/questions/80007356/get-company-details-in-pine-script",
+      "score": -4,
+      "answers": 0,
+      "views": 28,
+      "tags": [
+        "pine-script"
+      ]
+    },
+    {
+      "rank": 20,
+      "title": "Is deleting both non-const and const copy constructor, or copy assignment operator, redundant?",
+      "url": "https://stackoverflow.com/questions/80007262/is-deleting-both-non-const-and-const-copy-constructor-or-copy-assignment-operat",
+      "score": 5,
+      "answers": 1,
+      "views": 146,
+      "tags": [
+        "c++",
+        "copy-constructor",
+        "copy-assignment",
+        "deleted-functions"
+      ]
+    },
+    {
+      "rank": 21,
+      "title": "Service Account on slurm?",
+      "url": "https://stackoverflow.com/questions/80007345/service-account-on-slurm",
+      "score": -3,
+      "answers": 0,
+      "views": 34,
+      "tags": [
+        "best-practices",
+        "slurm"
+      ]
+    },
+    {
+      "rank": 22,
+      "title": "Getting an error (\"no instance of overloaded function ...\") when calling `push_back` on a `std::vector`",
+      "url": "https://stackoverflow.com/questions/80007260/getting-an-error-no-instance-of-overloaded-function-when-calling-push-b",
+      "score": 2,
+      "answers": 2,
+      "views": 147,
+      "tags": [
+        "c++"
+      ]
+    },
+    {
+      "rank": 23,
+      "title": "Elastic Security webhook connector fails to push a case when `{{{case.id}}}` is used",
+      "url": "https://stackoverflow.com/questions/80007243/elastic-security-webhook-connector-fails-to-push-a-case-when-case-id-is",
+      "score": 1,
+      "answers": 1,
+      "views": 36,
+      "tags": [
+        "json",
+        "elasticsearch",
+        "case",
+        "integration",
+        "connector"
+      ]
+    },
+    {
+      "rank": 24,
+      "title": "How to implement Spring Authorization Server Google Social login with BFF",
+      "url": "https://stackoverflow.com/questions/80007344/how-to-implement-spring-authorization-server-google-social-login-with-bff",
+      "score": 0,
+      "answers": 0,
+      "views": 25,
+      "tags": [
+        "spring-oauth2",
+        "spring-authorization-server"
+      ]
+    },
+    {
+      "rank": 25,
+      "title": "Google Identity Platform",
+      "url": "https://stackoverflow.com/questions/80007330/google-identity-platform",
+      "score": -6,
+      "answers": 0,
+      "views": 44,
+      "tags": [
+        "advice",
+        "openid-connect",
+        "google-identity"
+      ]
+    }
+  ]
+}

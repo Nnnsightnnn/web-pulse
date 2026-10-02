@@ -1,0 +1,457 @@
+{
+  "source": "polymarket",
+  "label": "Polymarket — top 24h volume",
+  "fetched_at": "2026-10-02T05:16:54.196Z",
+  "items": [
+    {
+      "rank": 1,
+      "title": "North Texas vs. Tulsa",
+      "url": "https://polymarket.com/event/cfb-ntx-tulsa-2026-10-01",
+      "volume_24h": 1075703.5403090003,
+      "volume_total": 1077335.9742069999,
+      "liquidity": 157952.019,
+      "yes_price": 0.995,
+      "leader": {
+        "name": "North Texas",
+        "price": 0.995
+      },
+      "end_date": "2026-10-02T01:00:00Z",
+      "outcomes": [
+        "North Texas",
+        "Tulsa"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Will there be no change in Fed interest rates after the October 2026 meeting?",
+      "url": "https://polymarket.com/event/fed-decision-in-october-20260617190323537",
+      "volume_24h": 804996.616946,
+      "volume_total": 6203433.926817002,
+      "liquidity": 1023514.7148,
+      "yes_price": 0.745,
+      "leader": {
+        "name": "Yes",
+        "price": 0.745
+      },
+      "end_date": "2026-10-29T03:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Spread: Steelers (-2.5)",
+      "url": "https://polymarket.com/event/nfl-pit-cle-2026-10-02",
+      "volume_24h": 638045.6209869996,
+      "volume_total": 661386.0104939996,
+      "liquidity": 811320.47023,
+      "yes_price": 0.0005,
+      "leader": {
+        "name": "Browns",
+        "price": 0.9995
+      },
+      "end_date": "2026-10-02T00:15:00Z",
+      "outcomes": [
+        "Steelers",
+        "Browns"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Will Renan Santos win the 2026 Brazilian presidential election?",
+      "url": "https://polymarket.com/event/brazil-presidential-election",
+      "volume_24h": 573098.9139040001,
+      "volume_total": 15539995.078371,
+      "liquidity": 671496.17837,
+      "yes_price": 0.0015,
+      "leader": {
+        "name": "No",
+        "price": 0.9985
+      },
+      "end_date": "2026-10-05T03:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Will the U.S. invade Iran before 2027?",
+      "url": "https://polymarket.com/event/will-the-us-invade-iran-before-2027",
+      "volume_24h": 529703.0093420001,
+      "volume_total": 70844675.339492,
+      "liquidity": 993572.8551,
+      "yes_price": 0.145,
+      "leader": {
+        "name": "No",
+        "price": 0.855
+      },
+      "end_date": "2027-01-01T04:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?",
+      "url": "https://polymarket.com/event/uefa-champions-league-2027-champion-20260701202025549",
+      "volume_24h": 431421.38,
+      "volume_total": 25049877.05199999,
+      "liquidity": 439697.84418,
+      "yes_price": 0.0015,
+      "leader": {
+        "name": "No",
+        "price": 0.9985
+      },
+      "end_date": "2027-05-30T23:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Panthers vs. Sharks",
+      "url": "https://polymarket.com/event/nhl-fla-sj-2026-10-01",
+      "volume_24h": 393189.99719,
+      "volume_total": 405846.21689800004,
+      "liquidity": 323501.9458,
+      "yes_price": 0.0005,
+      "leader": {
+        "name": "Sharks",
+        "price": 0.9995
+      },
+      "end_date": "2026-10-02T02:00:00Z",
+      "outcomes": [
+        "Panthers",
+        "Sharks"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "2026 Balance of Power: R Senate, R House",
+      "url": "https://polymarket.com/event/balance-of-power-2026-midterms",
+      "volume_24h": 355645.316483,
+      "volume_total": 4667454.246173999,
+      "liquidity": 2081801.8356,
+      "yes_price": 0.075,
+      "leader": {
+        "name": "No",
+        "price": 0.925
+      },
+      "end_date": "2026-11-04T04:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Valorant: Global Esports vs EDward Gaming (BO3) - VCT Champions Group B",
+      "url": "https://polymarket.com/event/val-ge1-edg1-2026-10-02",
+      "volume_24h": 320707.1203809999,
+      "volume_total": 327273.15548600006,
+      "liquidity": 480365.8454,
+      "yes_price": 0.715,
+      "leader": {
+        "name": "Global Esports",
+        "price": 0.715
+      },
+      "end_date": "2026-10-02T15:00:00Z",
+      "outcomes": [
+        "Global Esports",
+        "EDward Gaming"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "China Open: Viktorija Golubic vs Peyton Stearns",
+      "url": "https://polymarket.com/event/wta-golubic-stearns-2026-10-01",
+      "volume_24h": 306819.2051519999,
+      "volume_total": 306595.7251520001,
+      "liquidity": 46235.6506,
+      "yes_price": 0.525,
+      "leader": {
+        "name": "Viktorija Golubic",
+        "price": 0.525
+      },
+      "end_date": "2026-10-09T03:00:00Z",
+      "outcomes": [
+        "Viktorija Golubic",
+        "Peyton Stearns"
+      ]
+    },
+    {
+      "rank": 11,
+      "title": "China Open: Yue Yuan vs Mirra Andreeva",
+      "url": "https://polymarket.com/event/wta-yuan-andreev-2026-10-01",
+      "volume_24h": 281293.0600649999,
+      "volume_total": 281323.30108899984,
+      "liquidity": 199378.79863,
+      "yes_price": 0.0005,
+      "leader": {
+        "name": "Mirra Andreeva",
+        "price": 0.9995
+      },
+      "end_date": "2026-10-09T03:00:00Z",
+      "outcomes": [
+        "Yue Yuan",
+        "Mirra Andreeva"
+      ]
+    },
+    {
+      "rank": 12,
+      "title": "Japan Open Tennis Championships: Valentin Vacherot vs Stefanos Tsitsipas",
+      "url": "https://polymarket.com/event/atp-vachero-tsitsip-2026-10-01",
+      "volume_24h": 267049.2139780001,
+      "volume_total": 260465.21397800016,
+      "liquidity": 84182.84371,
+      "yes_price": 0.457,
+      "leader": {
+        "name": "Stefanos Tsitsipas",
+        "price": 0.543
+      },
+      "end_date": "2026-10-09T03:30:00Z",
+      "outcomes": [
+        "Valentin Vacherot",
+        "Stefanos Tsitsipas"
+      ]
+    },
+    {
+      "rank": 13,
+      "title": "Will Sarah Huckabee Sanders win the 2028 Republican presidential nomination?",
+      "url": "https://polymarket.com/event/republican-presidential-nominee-2028",
+      "volume_24h": 229000,
+      "volume_total": 35767149.85397502,
+      "liquidity": 884424.21296,
+      "yes_price": 0.0005,
+      "leader": {
+        "name": "No",
+        "price": 0.9995
+      },
+      "end_date": "2028-11-08T04:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 14,
+      "title": "Will the price of Bitcoin be above $74,000 on October 2?",
+      "url": "https://polymarket.com/event/bitcoin-above-on-october-2-2026",
+      "volume_24h": 223989.092234,
+      "volume_total": 231762.17610699998,
+      "liquidity": 53124.6955,
+      "yes_price": 0.9995,
+      "leader": {
+        "name": "Yes",
+        "price": 0.9995
+      },
+      "end_date": "2026-10-02T16:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 15,
+      "title": "US announces end of Iranian blockade by October 31, 2026?",
+      "url": "https://polymarket.com/event/us-announces-end-of-iranian-blockade-byptptpt-20260713152715080",
+      "volume_24h": 215795.57424400002,
+      "volume_total": 3054356.0848700004,
+      "liquidity": 131520.3909,
+      "yes_price": 0.245,
+      "leader": {
+        "name": "No",
+        "price": 0.755
+      },
+      "end_date": "2026-11-01T03:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 16,
+      "title": "Will Lamine Yamal win the 2026 Ballon d'Or?",
+      "url": "https://polymarket.com/event/ballon-dor-winner-2026",
+      "volume_24h": 213434.542324,
+      "volume_total": 3273302.0600129976,
+      "liquidity": 94029.56383,
+      "yes_price": 0.5345,
+      "leader": {
+        "name": "Yes",
+        "price": 0.5345
+      },
+      "end_date": "2027-01-01T04:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 17,
+      "title": "Will Anthropic have the highest IPO Market Cap 2026?",
+      "url": "https://polymarket.com/event/largest-ipo-by-market-cap-in-2026-287",
+      "volume_24h": 197875.519951,
+      "volume_total": 1342457.9597030005,
+      "liquidity": 21712.01268,
+      "yes_price": 0.5445,
+      "leader": {
+        "name": "Yes",
+        "price": 0.5445
+      },
+      "end_date": "2027-01-02T04:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 18,
+      "title": "Rams vs. Eagles",
+      "url": "https://polymarket.com/event/nfl-la-phi-2026-10-04",
+      "volume_24h": 187755.149677,
+      "volume_total": 194093.58221199995,
+      "liquidity": 280708.9431,
+      "yes_price": 0.635,
+      "leader": {
+        "name": "Rams",
+        "price": 0.635
+      },
+      "end_date": "2026-10-04T17:00:00Z",
+      "outcomes": [
+        "Rams",
+        "Eagles"
+      ]
+    },
+    {
+      "rank": 19,
+      "title": "Oilers vs. Canucks",
+      "url": "https://polymarket.com/event/nhl-edm-van-2026-10-01",
+      "volume_24h": 184379.48488100004,
+      "volume_total": 189521.2547560001,
+      "liquidity": 86454.10992,
+      "yes_price": 0.9995,
+      "leader": {
+        "name": "Oilers",
+        "price": 0.9995
+      },
+      "end_date": "2026-10-02T02:00:00Z",
+      "outcomes": [
+        "Oilers",
+        "Canucks"
+      ]
+    },
+    {
+      "rank": 20,
+      "title": "Will the Cleveland Browns win the 2027 NFL league championship?",
+      "url": "https://polymarket.com/event/pro-football-2027-champion-20260729185915366",
+      "volume_24h": 179886.2,
+      "volume_total": 1741713.0012759997,
+      "liquidity": 379774.54465,
+      "yes_price": 0.0065,
+      "leader": {
+        "name": "No",
+        "price": 0.9935
+      },
+      "end_date": "2027-04-01T03:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 21,
+      "title": "Israel accuses Iran/proxies of plane stabbing incident by Oct 31?",
+      "url": "https://polymarket.com/event/israel-accuses-iranproxies-of-plane-stabbing-incident-by-oct-31",
+      "volume_24h": 158615.29712600002,
+      "volume_total": 163333.42733500001,
+      "liquidity": 41739.9989,
+      "yes_price": 0.165,
+      "leader": {
+        "name": "No",
+        "price": 0.835
+      },
+      "end_date": "2026-11-01T03:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 22,
+      "title": "Bari: Completed Match: Gianluca Cadenasso vs Vitaliy Sachko",
+      "url": "https://polymarket.com/event/atp-cadenas-sachko-2026-10-02",
+      "volume_24h": 144221.18089,
+      "volume_total": 157307.78504,
+      "liquidity": 12.6164,
+      "yes_price": 0.67,
+      "leader": {
+        "name": "Yes",
+        "price": 0.67
+      },
+      "end_date": "2026-10-09T08:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 23,
+      "title": "Will Toronto Raptors win the 2027 NBA Finals?",
+      "url": "https://polymarket.com/event/nba-2027-champion",
+      "volume_24h": 141817.369355,
+      "volume_total": 849219.6166610001,
+      "liquidity": 164436.27718,
+      "yes_price": 0.0335,
+      "leader": {
+        "name": "No",
+        "price": 0.9665
+      },
+      "end_date": "2027-07-01T03:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 24,
+      "title": "LoL: Chinese Taipei vs South Korea (BO5) - Asian Games Playoffs",
+      "url": "https://polymarket.com/event/lol-tpe-kor-2026-10-01",
+      "volume_24h": 134868.03061999998,
+      "volume_total": 132753.03062000003,
+      "liquidity": 50936.66505,
+      "yes_price": 0.0255,
+      "leader": {
+        "name": "South Korea",
+        "price": 0.9745
+      },
+      "end_date": "2026-10-02T09:50:00Z",
+      "outcomes": [
+        "Chinese Taipei",
+        "South Korea"
+      ]
+    },
+    {
+      "rank": 25,
+      "title": "Will Mercedes be the 2026 F1 Constructors' Champion?",
+      "url": "https://polymarket.com/event/f1-constructors-champion",
+      "volume_24h": 134235.094443,
+      "volume_total": 1265273.6887349999,
+      "liquidity": 92175.91781,
+      "yes_price": 0.9755,
+      "leader": {
+        "name": "Yes",
+        "price": 0.9755
+      },
+      "end_date": "2027-04-01T03:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    }
+  ]
+}

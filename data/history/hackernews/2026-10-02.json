@@ -1,0 +1,232 @@
+{
+  "source": "hackernews",
+  "label": "Hacker News — top stories",
+  "fetched_at": "2026-10-02T05:16:54.200Z",
+  "items": [
+    {
+      "rank": 1,
+      "title": "Pi 1.0",
+      "url": "https://earendil.com/posts/pi-1-0/",
+      "hn_url": "https://news.ycombinator.com/item?id=49926069",
+      "score": 965,
+      "comments": 314,
+      "author": "sergiotapia"
+    },
+    {
+      "rank": 2,
+      "title": "DeepSeek Harness",
+      "url": "https://www.deepseek.com/en/harness/",
+      "hn_url": "https://news.ycombinator.com/item?id=49929489",
+      "score": 58,
+      "comments": 22,
+      "author": "Kuyawa"
+    },
+    {
+      "rank": 3,
+      "title": "How Singapore's government-run dating service works",
+      "url": "https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works",
+      "hn_url": "https://news.ycombinator.com/item?id=49929113",
+      "score": 55,
+      "comments": 22,
+      "author": "danielfoster"
+    },
+    {
+      "rank": 4,
+      "title": "Clef: Open-weight decision models, and new RL fine-tuning platform",
+      "url": "https://blog.cloudflare.com/clef-decision-models/",
+      "hn_url": "https://news.ycombinator.com/item?id=49923692",
+      "score": 467,
+      "comments": 170,
+      "author": "jasondavies"
+    },
+    {
+      "rank": 5,
+      "title": "Several vulnerabilities have been discovered in the Linux kernel",
+      "url": "https://lwn.net/Articles/1097401/",
+      "hn_url": "https://news.ycombinator.com/item?id=49928121",
+      "score": 201,
+      "comments": 133,
+      "author": "luispa"
+    },
+    {
+      "rank": 6,
+      "title": "Automatic Transmission – a data-privacy study of connected vehicles",
+      "url": "https://automatictransmission.khoury.northeastern.edu/index.html",
+      "hn_url": "https://news.ycombinator.com/item?id=49926628",
+      "score": 160,
+      "comments": 152,
+      "author": "rafaelc"
+    },
+    {
+      "rank": 7,
+      "title": "SvelteKit 3",
+      "url": "https://svelte.dev/blog/sveltekit-3-is-here",
+      "hn_url": "https://news.ycombinator.com/item?id=49926536",
+      "score": 184,
+      "comments": 62,
+      "author": "sampsn"
+    },
+    {
+      "rank": 8,
+      "title": "Pi Durable",
+      "url": "https://earendil.com/posts/pi-durable/",
+      "hn_url": "https://news.ycombinator.com/item?id=49925969",
+      "score": 294,
+      "comments": 36,
+      "author": "paulsmith"
+    },
+    {
+      "rank": 9,
+      "title": "Ask HN: Who is hiring? (October 2026)",
+      "url": "https://news.ycombinator.com/item?id=49922569",
+      "hn_url": "https://news.ycombinator.com/item?id=49922569",
+      "score": 169,
+      "comments": 176,
+      "author": "whoishiring"
+    },
+    {
+      "rank": 10,
+      "title": "StreetComplete on iOS is now in public beta",
+      "url": "https://github.com/streetcomplete/StreetComplete/issues/5421",
+      "hn_url": "https://news.ycombinator.com/item?id=49920160",
+      "score": 541,
+      "comments": 143,
+      "author": "Snowly"
+    },
+    {
+      "rank": 11,
+      "title": "Using Opus 5.5 to discover a new eyewitness record of the dodo",
+      "url": "https://resobscura.substack.com/p/using-opus-55-to-discover-a-new-eyewitness",
+      "hn_url": "https://news.ycombinator.com/item?id=49926917",
+      "score": 105,
+      "comments": 20,
+      "author": "benbreen"
+    },
+    {
+      "rank": 12,
+      "title": "Git 3.0's upcoming SHA-256 default will be a costly mistake",
+      "url": "https://blog.gitbutler.com/git-3-sha-256",
+      "hn_url": "https://news.ycombinator.com/item?id=49924179",
+      "score": 285,
+      "comments": 280,
+      "author": "chmaynard"
+    },
+    {
+      "rank": 13,
+      "title": "CSS Bed: Classless CSS themes to use as starting points in web development",
+      "url": "https://www.cssbed.com",
+      "hn_url": "https://news.ycombinator.com/item?id=49927212",
+      "score": 84,
+      "comments": 21,
+      "author": "sea-gold"
+    },
+    {
+      "rank": 14,
+      "title": "Frog and Toad and the Increasingly Capable Machines",
+      "url": "https://www.frogandtoad.ai/",
+      "hn_url": "https://news.ycombinator.com/item?id=49927760",
+      "score": 93,
+      "comments": 16,
+      "author": "supermdguy"
+    },
+    {
+      "rank": 15,
+      "title": "RIP, vector database",
+      "url": "https://turbopuffer.com/blog/rip-vector-database",
+      "hn_url": "https://news.ycombinator.com/item?id=49923466",
+      "score": 298,
+      "comments": 79,
+      "author": "razin"
+    },
+    {
+      "rank": 16,
+      "title": "ArXiv's Updated Rate Limit Policy",
+      "url": "https://blog.arxiv.org/2026/10/01/updated-rate-limit-policy/",
+      "hn_url": "https://news.ycombinator.com/item?id=49926512",
+      "score": 93,
+      "comments": 39,
+      "author": "50kIters"
+    },
+    {
+      "rank": 17,
+      "title": "Show HN: Janus – Go binary that runs GGUF models via Vulkan on AMD/Intel/Nvidia",
+      "url": "https://github.com/Vibra-Ingenn/Janus",
+      "hn_url": "https://news.ycombinator.com/item?id=49926773",
+      "score": 60,
+      "comments": 9,
+      "author": "Maverick617"
+    },
+    {
+      "rank": 18,
+      "title": "Vote on which of Hacker News' challenges for AI have been met",
+      "url": "https://stoppels.ch/goalposts/",
+      "hn_url": "https://news.ycombinator.com/item?id=49924618",
+      "score": 118,
+      "comments": 122,
+      "author": "stabbles"
+    },
+    {
+      "rank": 19,
+      "title": "Various Projects Find Hidden SDR Capabilities in ESP32 Microcontrollers",
+      "url": "https://www.rtl-sdr.com/various-projects-independently-find-hidden-sdr-capabilities-in-esp32-microcontrollers/",
+      "hn_url": "https://news.ycombinator.com/item?id=49922674",
+      "score": 193,
+      "comments": 30,
+      "author": "nkw"
+    },
+    {
+      "rank": 20,
+      "title": "Oxygen-deprived underwater zones may not be “dead zones” but clue to early life",
+      "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026AV002570",
+      "hn_url": "https://news.ycombinator.com/item?id=49925742",
+      "score": 89,
+      "comments": 6,
+      "author": "gumby"
+    },
+    {
+      "rank": 21,
+      "title": "Cloudflare K2: serverless event streams",
+      "url": "https://blog.cloudflare.com/cloudflare-k2-streams/",
+      "hn_url": "https://news.ycombinator.com/item?id=49921923",
+      "score": 219,
+      "comments": 89,
+      "author": "elffjs"
+    },
+    {
+      "rank": 22,
+      "title": "Context Language Models",
+      "url": "https://arxiv.org/abs/2609.37725",
+      "hn_url": "https://news.ycombinator.com/item?id=49922437",
+      "score": 132,
+      "comments": 28,
+      "author": "emersonmacro"
+    },
+    {
+      "rank": 23,
+      "title": "Bez: Generating a browser engine from specs and tests",
+      "url": "https://tangled.org/burrito.space/bez",
+      "hn_url": "https://news.ycombinator.com/item?id=49925036",
+      "score": 101,
+      "comments": 43,
+      "author": "nerdypepper"
+    },
+    {
+      "rank": 24,
+      "title": "RacketCon Is Saturday",
+      "url": "https://con.racket-lang.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=49922515",
+      "score": 132,
+      "comments": 36,
+      "author": "spdegabrielle"
+    },
+    {
+      "rank": 25,
+      "title": "How to speed up the Rust compiler in September 2026",
+      "url": "https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026.html",
+      "hn_url": "https://news.ycombinator.com/item?id=49920896",
+      "score": 238,
+      "comments": 123,
+      "author": "trickypr"
+    }
+  ]
+}
