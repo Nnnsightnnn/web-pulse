@@ -1,40 +1,39 @@
 {
-  "date": "2026-10-02",
-  "generated_at": "2026-10-02T05:17:32.868Z",
-  "lede": "One Wikipedia article ran away with the day: Christa Pike drew 4,309,025 views, about 8.7 times the runner-up, and not one of the other sixteen feeds offers a reason why. Beneath that spike the real crossover stories are quieter. The 2026 Asian Games medal table is climbing on both Wikipedia and Google Trends, and a lawsuit over the death of Renee Good is being shared on both Bluesky and Lemmy.",
+  "date": "2026-10-03",
+  "generated_at": "2026-10-03T05:16:50.038Z",
+  "lede": "The most-read thing on the web today comes with no story attached. Wikipedia's top article, Christa Pike, drew 1,708,406 views, 3.1 times the day's runner-up, and no other feed carried a headline, search or post to explain the surge. The rest of the snapshot was quieter: Kid Rock's new single led YouTube at 685,788 views while his name also surfaced on Bluesky, and a China Open match between Alex de Minaur and Quentin Halys appeared on both Google Trends and Polymarket.",
   "throughlines": [
     {
-      "title": "2026 Asian Games medal table",
-      "gist": "The 2026 Asian Games medal table, and India's slide down it, is drawing readers on Wikipedia and searchers on Google at the same time, the strongest shared thread in today's snapshot.",
-      "sources": [
-        "google-trends",
-        "wikipedia"
-      ],
-      "url": "https://en.wikipedia.org/wiki/2026_Asian_Games_medal_table",
-      "kind": "cluster"
-    },
-    {
-      "title": "Family of Renee Good sues US government and Trump officials over her death | CNN",
-      "gist": "A CNN report that Renee Good's family is suing the US government and Trump officials over her death is circulating on both Bluesky and Lemmy, a story living almost entirely in the social feeds.",
+      "title": "James 1:17 (Jesus Is King) - Kid Rock [Official Music Video}",
+      "gist": "The new single is YouTube's most-viewed video at 685,788 views and Kid Rock surfaces on Bluesky the same day, the snapshot's tightest cross-feed match.",
       "sources": [
         "bluesky",
-        "lemmy"
+        "youtube"
       ],
-      "url": "https://lemmy.world/post/52593777",
+      "url": "https://www.youtube.com/watch?v=JdXdQsP2_9M",
       "kind": "cluster"
     },
     {
-      "title": "China Open: Yue Yuan vs Mirra Andreeva",
-      "gist": "A China Open match between Yue Yuan and Mirra Andreeva is both a Google search spike and an active Polymarket contract, the day's one crossover between search and betting.",
+      "title": "China Open: Alex de Minaur vs Quentin Halys",
+      "gist": "Polymarket has Alex de Minaur favored at 58.5 percent over Quentin Halys while his name climbs Google Trends, the same match landing on two unrelated feeds.",
       "sources": [
         "google-trends",
         "polymarket"
       ],
-      "url": "https://lastwordonsports.com/tennis/2026/10/01/wta-beijing-day-3-predictions-yuan-andreeva/",
+      "url": "https://sports.yahoo.com/articles/alex-minaur-reveals-wants-happen-230000411.html",
       "kind": "cluster"
+    },
+    {
+      "title": "Christa Pike",
+      "gist": "The day's most-read Wikipedia article at 1,708,406 views, leading every other page with no matching story anywhere else in the snapshot.",
+      "sources": [
+        "wikipedia"
+      ],
+      "url": "https://en.wikipedia.org/wiki/Christa_Pike",
+      "kind": "single"
     }
   ],
-  "strength": 100,
+  "strength": 92,
   "live_sources": 17,
   "total_sources": 17,
   "dashboard_url": "https://nnnsightnnn.github.io/web-pulse/",
