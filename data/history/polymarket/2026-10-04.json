@@ -1,0 +1,457 @@
+{
+  "source": "polymarket",
+  "label": "Polymarket — top 24h volume",
+  "fetched_at": "2026-10-04T05:16:16.848Z",
+  "items": [
+    {
+      "rank": 1,
+      "title": "Will Renan Santos win the 2026 Brazilian presidential election?",
+      "url": "https://polymarket.com/event/brazil-presidential-election",
+      "volume_24h": 855604.5360000001,
+      "volume_total": 16714752.924303994,
+      "liquidity": 563785.85254,
+      "yes_price": 0.0035,
+      "leader": {
+        "name": "No",
+        "price": 0.9965
+      },
+      "end_date": "2026-10-05T03:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Colts vs. Commanders",
+      "url": "https://polymarket.com/event/nfl-ind-was-2026-10-04",
+      "volume_24h": 536433.8492389998,
+      "volume_total": 814785.31076,
+      "liquidity": 1732312.5231,
+      "yes_price": 0.665,
+      "leader": {
+        "name": "Colts",
+        "price": 0.665
+      },
+      "end_date": "2026-10-04T13:30:00Z",
+      "outcomes": [
+        "Colts",
+        "Commanders"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "San Jose State vs. Hawai'i",
+      "url": "https://polymarket.com/event/cfb-sjst-hawaii-2026-10-04",
+      "volume_24h": 534079.0467469998,
+      "volume_total": 534148.6250509997,
+      "liquidity": 54194.8168,
+      "yes_price": 0.745,
+      "leader": {
+        "name": "San Jose State",
+        "price": 0.745
+      },
+      "end_date": "2026-10-04T04:00:00Z",
+      "outcomes": [
+        "San Jose State",
+        "Hawai'i"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Packers vs. Buccaneers",
+      "url": "https://polymarket.com/event/nfl-gb-tb-2026-10-04",
+      "volume_24h": 509747.29640600004,
+      "volume_total": 540004.8975710003,
+      "liquidity": 1071954.8663,
+      "yes_price": 0.605,
+      "leader": {
+        "name": "Packers",
+        "price": 0.605
+      },
+      "end_date": "2026-10-04T17:00:00Z",
+      "outcomes": [
+        "Packers",
+        "Buccaneers"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Texas State vs. San Diego State",
+      "url": "https://polymarket.com/event/cfb-txst-sdst-2026-10-03",
+      "volume_24h": 472876.733919,
+      "volume_total": 478818.82498399995,
+      "liquidity": 127222.16516,
+      "yes_price": 0.4065,
+      "leader": {
+        "name": "San Diego State",
+        "price": 0.5935
+      },
+      "end_date": "2026-10-04T02:30:00Z",
+      "outcomes": [
+        "Texas State",
+        "San Diego State"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?",
+      "url": "https://polymarket.com/event/uefa-champions-league-2027-champion-20260701202025549",
+      "volume_24h": 424700.056,
+      "volume_total": 25903146.82800001,
+      "liquidity": 412813.25485,
+      "yes_price": 0.0015,
+      "leader": {
+        "name": "No",
+        "price": 0.9985
+      },
+      "end_date": "2027-05-30T23:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Patriots vs. Bills",
+      "url": "https://polymarket.com/event/nfl-ne-buf-2026-10-04",
+      "volume_24h": 409429.338624,
+      "volume_total": 453038.02846500033,
+      "liquidity": 1444547.5272,
+      "yes_price": 0.265,
+      "leader": {
+        "name": "Bills",
+        "price": 0.735
+      },
+      "end_date": "2026-10-04T17:00:00Z",
+      "outcomes": [
+        "Patriots",
+        "Bills"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "China Open: Nikola Bartunkova vs Aryna Sabalenka",
+      "url": "https://polymarket.com/event/wta-bartunk-sabalen-2026-10-03",
+      "volume_24h": 375193.04215299996,
+      "volume_total": 375611.41013900004,
+      "liquidity": 856722.05329,
+      "yes_price": 0.9995,
+      "leader": {
+        "name": "Nikola Bartunkova",
+        "price": 0.9995
+      },
+      "end_date": "2026-10-11T03:00:00Z",
+      "outcomes": [
+        "Nikola Bartunkova",
+        "Aryna Sabalenka"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Japan Open Tennis Championships: Carlos Alcaraz vs Denis Shapovalov",
+      "url": "https://polymarket.com/event/atp-alcaraz-shapova-2026-10-04",
+      "volume_24h": 371041.294573,
+      "volume_total": 370583.706803,
+      "liquidity": 159063.4824,
+      "yes_price": 0.915,
+      "leader": {
+        "name": "Carlos Alcaraz",
+        "price": 0.915
+      },
+      "end_date": "2026-10-11T04:00:00Z",
+      "outcomes": [
+        "Carlos Alcaraz",
+        "Denis Shapovalov"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Kings vs. Sharks",
+      "url": "https://polymarket.com/event/nhl-lak-sj-2026-10-03",
+      "volume_24h": 351118.712722,
+      "volume_total": 355850.85021999985,
+      "liquidity": 316714.22097,
+      "yes_price": 0.0005,
+      "leader": {
+        "name": "Sharks",
+        "price": 0.9995
+      },
+      "end_date": "2026-10-04T02:00:00Z",
+      "outcomes": [
+        "Kings",
+        "Sharks"
+      ]
+    },
+    {
+      "rank": 11,
+      "title": "Baylor vs. Arizona State",
+      "url": "https://polymarket.com/event/cfb-bayl-arzst-2026-10-03",
+      "volume_24h": 344412.1035090001,
+      "volume_total": 345015.82002499985,
+      "liquidity": 54272.30821,
+      "yes_price": 0.989,
+      "leader": {
+        "name": "Baylor",
+        "price": 0.989
+      },
+      "end_date": "2026-10-04T02:30:00Z",
+      "outcomes": [
+        "Baylor",
+        "Arizona State"
+      ]
+    },
+    {
+      "rank": 12,
+      "title": "2026 Balance of Power: D Senate, R House",
+      "url": "https://polymarket.com/event/balance-of-power-2026-midterms",
+      "volume_24h": 320693.7200019999,
+      "volume_total": 2519902.921243999,
+      "liquidity": 660135.39062,
+      "yes_price": 0.0055,
+      "leader": {
+        "name": "No",
+        "price": 0.9945
+      },
+      "end_date": "2026-11-04T04:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 13,
+      "title": "Will Anthropic announce bankruptcy by December 31, 2027?",
+      "url": "https://polymarket.com/event/anthropic-announces-bankruptcy-by",
+      "volume_24h": 297911.9970890001,
+      "volume_total": 1148188.333607,
+      "liquidity": 697588.8913,
+      "yes_price": 0.095,
+      "leader": {
+        "name": "No",
+        "price": 0.905
+      },
+      "end_date": "2028-01-01T04:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 14,
+      "title": "Will the price of Bitcoin be above $74,000 on October 4?",
+      "url": "https://polymarket.com/event/bitcoin-above-on-october-4-2026",
+      "volume_24h": 295215.578,
+      "volume_total": 319756.648684,
+      "liquidity": 116868.15829,
+      "yes_price": 0.9995,
+      "leader": {
+        "name": "Yes",
+        "price": 0.9995
+      },
+      "end_date": "2026-10-04T16:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 15,
+      "title": "Putin out as President of Russia by December 31, 2026?",
+      "url": "https://polymarket.com/event/putin-out-before-2027",
+      "volume_24h": 276901.89272099995,
+      "volume_total": 23296930.546946,
+      "liquidity": 876263.02812,
+      "yes_price": 0.0255,
+      "leader": {
+        "name": "No",
+        "price": 0.9745
+      },
+      "end_date": "2027-01-01T04:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 16,
+      "title": "Spread: Cardinals (-2.5)",
+      "url": "https://polymarket.com/event/nfl-ari-nyg-2026-10-04",
+      "volume_24h": 265201.463726,
+      "volume_total": 302424.785379,
+      "liquidity": 616905.4417,
+      "yes_price": 0.495,
+      "leader": {
+        "name": "Giants",
+        "price": 0.505
+      },
+      "end_date": "2026-10-04T17:00:00Z",
+      "outcomes": [
+        "Cardinals",
+        "Giants"
+      ]
+    },
+    {
+      "rank": 17,
+      "title": "Will Flávio Bolsonaro finish in second place in the first round of the 2026 Brazilian presidential election?",
+      "url": "https://polymarket.com/event/brazil-presidential-election-first-round-2nd-place",
+      "volume_24h": 264147.1097330001,
+      "volume_total": 1872662.1958280003,
+      "liquidity": 152240.0073,
+      "yes_price": 0.61,
+      "leader": {
+        "name": "Yes",
+        "price": 0.61
+      },
+      "end_date": "2026-10-05T03:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 18,
+      "title": "Will the Fed decrease interest rates by 25 bps after the October 2026 meeting?",
+      "url": "https://polymarket.com/event/fed-decision-in-october-20260617190323537",
+      "volume_24h": 254910.69800000003,
+      "volume_total": 4121604.3194669997,
+      "liquidity": 433087.76929,
+      "yes_price": 0.0045,
+      "leader": {
+        "name": "No",
+        "price": 0.9955
+      },
+      "end_date": "2026-10-29T03:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 19,
+      "title": "Will David Lisnard win the 2027 French presidential election?",
+      "url": "https://polymarket.com/event/next-french-presidential-election",
+      "volume_24h": 245002.7542260001,
+      "volume_total": 3293454.430691,
+      "liquidity": 209950.09834,
+      "yes_price": 0.096,
+      "leader": {
+        "name": "No",
+        "price": 0.904
+      },
+      "end_date": "2027-04-19T03:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 20,
+      "title": "Will the U.S. invade Iran before 2027?",
+      "url": "https://polymarket.com/event/will-the-us-invade-iran-before-2027",
+      "volume_24h": 223753.474972,
+      "volume_total": 71471789.84441502,
+      "liquidity": 1014101.8414,
+      "yes_price": 0.155,
+      "leader": {
+        "name": "No",
+        "price": 0.845
+      },
+      "end_date": "2027-01-01T04:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 21,
+      "title": "Fresno State vs. Washington State",
+      "url": "https://polymarket.com/event/cfb-frest-washst-2026-10-03",
+      "volume_24h": 218996.04490400007,
+      "volume_total": 220188.69647200019,
+      "liquidity": 205817.2396,
+      "yes_price": 0.9995,
+      "leader": {
+        "name": "Fresno State",
+        "price": 0.9995
+      },
+      "end_date": "2026-10-04T01:30:00Z",
+      "outcomes": [
+        "Fresno State",
+        "Washington State"
+      ]
+    },
+    {
+      "rank": 22,
+      "title": "Will Donald Trump win the Nobel Peace Prize in 2026?",
+      "url": "https://polymarket.com/event/nobel-peace-prize-winner-2026-139",
+      "volume_24h": 193186.517663,
+      "volume_total": 5861990.162953997,
+      "liquidity": 652601.52547,
+      "yes_price": 0.006,
+      "leader": {
+        "name": "No",
+        "price": 0.994
+      },
+      "end_date": "2027-04-01T03:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 23,
+      "title": "Will China invade Taiwan by end of 2026?",
+      "url": "https://polymarket.com/event/will-china-invade-taiwan-before-2027",
+      "volume_24h": 189949.210368,
+      "volume_total": 43461690.74920288,
+      "liquidity": 724625.06632,
+      "yes_price": 0.0225,
+      "leader": {
+        "name": "No",
+        "price": 0.9775
+      },
+      "end_date": "2027-01-01T04:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 24,
+      "title": "Will Benjamin Netanyahu be the next Prime Minister of Israel?",
+      "url": "https://polymarket.com/event/who-will-be-the-next-prime-minister-of-israel-after-the-next-election",
+      "volume_24h": 186896.95752399997,
+      "volume_total": 5776216.4190540025,
+      "liquidity": 403121.381,
+      "yes_price": 0.365,
+      "leader": {
+        "name": "No",
+        "price": 0.635
+      },
+      "end_date": "2026-10-28T03:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 25,
+      "title": "US announces end of Iranian blockade by October 31, 2026?",
+      "url": "https://polymarket.com/event/us-announces-end-of-iranian-blockade-byptptpt-20260713152715080",
+      "volume_24h": 178652.67253799998,
+      "volume_total": 3290359.89668,
+      "liquidity": 131503.0143,
+      "yes_price": 0.195,
+      "leader": {
+        "name": "No",
+        "price": 0.805
+      },
+      "end_date": "2026-11-01T03:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    }
+  ]
+}

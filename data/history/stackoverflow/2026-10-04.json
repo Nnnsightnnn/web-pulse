@@ -1,0 +1,328 @@
+{
+  "source": "stackoverflow",
+  "label": "Stack Overflow — hot questions",
+  "fetched_at": "2026-10-04T05:16:16.798Z",
+  "items": [
+    {
+      "rank": 1,
+      "title": "How to take inputs on multiple lines?",
+      "url": "https://stackoverflow.com/questions/80007739/how-to-take-inputs-on-multiple-lines",
+      "score": 1,
+      "answers": 3,
+      "views": 79,
+      "tags": [
+        "python",
+        "input"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Resizing objects inside the image through Nano Banana 2 Lite",
+      "url": "https://stackoverflow.com/questions/80007742/resizing-objects-inside-the-image-through-nano-banana-2-lite",
+      "score": -3,
+      "answers": 0,
+      "views": 72,
+      "tags": [
+        "image",
+        "google-gemini"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "What should I do when a REST request times out but the operation may still be running?",
+      "url": "https://stackoverflow.com/questions/80007732/what-should-i-do-when-a-rest-request-times-out-but-the-operation-may-still-be-ru",
+      "score": 1,
+      "answers": 2,
+      "views": 83,
+      "tags": [
+        "advice",
+        "java",
+        "spring-boot",
+        "rest",
+        "distributed-system"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "How do y'all handle texting your clients and opportunity prospects and have them auto tracked in HubSpot?",
+      "url": "https://stackoverflow.com/questions/80007738/how-do-yall-handle-texting-your-clients-and-opportunity-prospects-and-have-them",
+      "score": -3,
+      "answers": 0,
+      "views": 42,
+      "tags": [
+        "hubspot"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "GCC 6.5.0 C++11 compilation of concurrence.h: error: braces around scalar initializer for type ‘unsigned int’",
+      "url": "https://stackoverflow.com/questions/80007729/gcc-6-5-0-c11-compilation-of-concurrence-h-error-braces-around-scalar-initia",
+      "score": 0,
+      "answers": 0,
+      "views": 73,
+      "tags": [
+        "c++",
+        "compiler-errors",
+        "initialization",
+        "g++"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "how to pass execution graph directly to HANA engine without SQL",
+      "url": "https://stackoverflow.com/questions/80007727/how-to-pass-execution-graph-directly-to-hana-engine-without-sql",
+      "score": 1,
+      "answers": 0,
+      "views": 25,
+      "tags": [
+        "hana"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Make clutter actor draggable in gnome shell",
+      "url": "https://stackoverflow.com/questions/80007728/make-clutter-actor-draggable-in-gnome-shell",
+      "score": -3,
+      "answers": 0,
+      "views": 42,
+      "tags": [
+        "gnome-shell",
+        "gnome-shell-extensions",
+        "gjs"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Using CSS with XML to align table header cells with table body cells",
+      "url": "https://stackoverflow.com/questions/80007724/using-css-with-xml-to-align-table-header-cells-with-table-body-cells",
+      "score": 1,
+      "answers": 1,
+      "views": 62,
+      "tags": [
+        "css",
+        "xml"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "pip failes with ModuleNotFoundError: No module named '_posixsubprocess'",
+      "url": "https://stackoverflow.com/questions/80007719/pip-failes-with-modulenotfounderror-no-module-named-posixsubprocess",
+      "score": 0,
+      "answers": 0,
+      "views": 38,
+      "tags": [
+        "python-3.x",
+        "linux",
+        "pip"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "How to move the responsibility of executing some logic to the SQL Server instead of executing that logic inside the application?",
+      "url": "https://stackoverflow.com/questions/80007698/how-to-move-the-responsibility-of-executing-some-logic-to-the-sql-server-instead",
+      "score": 2,
+      "answers": 0,
+      "views": 90,
+      "tags": [
+        "c#",
+        "sql-server",
+        "excel",
+        "asp.net-core",
+        "sqlbulkcopy"
+      ]
+    },
+    {
+      "rank": 11,
+      "title": "PDF viewer auto refresh on Android",
+      "url": "https://stackoverflow.com/questions/80007721/pdf-viewer-auto-refresh-on-android",
+      "score": -3,
+      "answers": 0,
+      "views": 25,
+      "tags": [
+        "tooling-recommendation",
+        "android"
+      ]
+    },
+    {
+      "rank": 12,
+      "title": "How to mutate multiply imputed data for estimateNetwork() in R? (mice, bootnet)",
+      "url": "https://stackoverflow.com/questions/80007722/how-to-mutate-multiply-imputed-data-for-estimatenetwork-in-r-mice-bootnet",
+      "score": 0,
+      "answers": 0,
+      "views": 24,
+      "tags": [
+        "r",
+        "r-mice",
+        "network-analysis"
+      ]
+    },
+    {
+      "rank": 13,
+      "title": "Confusing sequence of IntelliJ inspection after Kotlin conversion",
+      "url": "https://stackoverflow.com/questions/80007707/confusing-sequence-of-intellij-inspection-after-kotlin-conversion",
+      "score": 0,
+      "answers": 0,
+      "views": 32,
+      "tags": [
+        "tooling-recommendation",
+        "kotlin",
+        "intellij-idea"
+      ]
+    },
+    {
+      "rank": 14,
+      "title": "How to solve `Error CS0246: The type or namespace name 'Sylvan' could not be found`",
+      "url": "https://stackoverflow.com/questions/80007679/how-to-solve-error-cs0246-the-type-or-namespace-name-sylvan-could-not-be-fou",
+      "score": 0,
+      "answers": 1,
+      "views": 63,
+      "tags": [
+        ".net",
+        "visual-studio",
+        "solution",
+        "exceldatareader"
+      ]
+    },
+    {
+      "rank": 15,
+      "title": "Kubernetes Horizontal Pod Autoscaler (HPA) fails to scale down after CPU load drops",
+      "url": "https://stackoverflow.com/questions/80007695/kubernetes-horizontal-pod-autoscaler-hpa-fails-to-scale-down-after-cpu-load-dr",
+      "score": -5,
+      "answers": 0,
+      "views": 37,
+      "tags": [
+        "kubernetes",
+        "devops",
+        "autoscaling",
+        "metrics-server",
+        "kubernetes-hpa"
+      ]
+    },
+    {
+      "rank": 16,
+      "title": "Declaring a С++ operator function that is friend to a class",
+      "url": "https://stackoverflow.com/questions/80007542/declaring-a-%d0%a1-operator-function-that-is-friend-to-a-class",
+      "score": -1,
+      "answers": 5,
+      "views": 192,
+      "tags": [
+        "c++"
+      ]
+    },
+    {
+      "rank": 17,
+      "title": "Design DB for a model with multiple data sources",
+      "url": "https://stackoverflow.com/questions/80007706/design-db-for-a-model-with-multiple-data-sources",
+      "score": -5,
+      "answers": 2,
+      "views": 75,
+      "tags": [
+        "advice",
+        "laravel",
+        "database"
+      ]
+    },
+    {
+      "rank": 18,
+      "title": "How to get result(text) from NamedOnnxValue?",
+      "url": "https://stackoverflow.com/questions/80007632/how-to-get-resulttext-from-namedonnxvalue",
+      "score": -1,
+      "answers": 0,
+      "views": 64,
+      "tags": [
+        "c#",
+        "onnx",
+        "onnx-coreml"
+      ]
+    },
+    {
+      "rank": 19,
+      "title": "How to create movable and resizable native text in flutter?",
+      "url": "https://stackoverflow.com/questions/80007687/how-to-create-movable-and-resizable-native-text-in-flutter",
+      "score": 1,
+      "answers": 1,
+      "views": 46,
+      "tags": [
+        "flutter",
+        "dart"
+      ]
+    },
+    {
+      "rank": 20,
+      "title": "When using pygame events, I can't detect when a KEY_UP event happens for some reason",
+      "url": "https://stackoverflow.com/questions/80007692/when-using-pygame-events-i-cant-detect-when-a-key-up-event-happens-for-some-re",
+      "score": -2,
+      "answers": 2,
+      "views": 74,
+      "tags": [
+        "python",
+        "pygame"
+      ]
+    },
+    {
+      "rank": 21,
+      "title": "How to remove row of empty line on terminal caused by \"\\x1b[2J\" in C?",
+      "url": "https://stackoverflow.com/questions/80007635/how-to-remove-row-of-empty-line-on-terminal-caused-by-x1b2j-in-c",
+      "score": 4,
+      "answers": 1,
+      "views": 127,
+      "tags": [
+        "c"
+      ]
+    },
+    {
+      "rank": 22,
+      "title": "How do I connect my webapp to Google, Facebook, Apple, etc., so users can log in with those accounts?",
+      "url": "https://stackoverflow.com/questions/80007708/how-do-i-connect-my-webapp-to-google-facebook-apple-etc-so-users-can-log-in",
+      "score": -5,
+      "answers": 0,
+      "views": 92,
+      "tags": [
+        "javascript",
+        "html",
+        "css"
+      ]
+    },
+    {
+      "rank": 23,
+      "title": "For SQL, how to use CONCAT",
+      "url": "https://stackoverflow.com/questions/80007675/for-sql-how-to-use-concat",
+      "score": -9,
+      "answers": 2,
+      "views": 107,
+      "tags": [
+        "advice",
+        "sql"
+      ]
+    },
+    {
+      "rank": 24,
+      "title": "How can I implement email tracking and reduce the chance of transactional emails going to spam?",
+      "url": "https://stackoverflow.com/questions/80007676/how-can-i-implement-email-tracking-and-reduce-the-chance-of-transactional-emails",
+      "score": -5,
+      "answers": 0,
+      "views": 53,
+      "tags": [
+        "email",
+        "webhooks",
+        "amazon-ses",
+        "email-delivery"
+      ]
+    },
+    {
+      "rank": 25,
+      "title": "How to Make RichEditBox Scrollable While Highlighting Text",
+      "url": "https://stackoverflow.com/questions/80007636/how-to-make-richeditbox-scrollable-while-highlighting-text",
+      "score": -1,
+      "answers": 1,
+      "views": 83,
+      "tags": [
+        "c#",
+        "windows",
+        "xaml",
+        "winui-3",
+        "winui"
+      ]
+    }
+  ]
+}

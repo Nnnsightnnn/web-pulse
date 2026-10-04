@@ -1,39 +1,40 @@
 {
-  "date": "2026-10-03",
-  "generated_at": "2026-10-03T05:16:50.038Z",
-  "lede": "The most-read thing on the web today comes with no story attached. Wikipedia's top article, Christa Pike, drew 1,708,406 views, 3.1 times the day's runner-up, and no other feed carried a headline, search or post to explain the surge. The rest of the snapshot was quieter: Kid Rock's new single led YouTube at 685,788 views while his name also surfaced on Bluesky, and a China Open match between Alex de Minaur and Quentin Halys appeared on both Google Trends and Polymarket.",
+  "date": "2026-10-04",
+  "generated_at": "2026-10-04T05:16:57.530Z",
+  "lede": "Tennis ran through Sunday's web. Aryna Sabalenka surfaced on both Google Trends and Polymarket at once, driven by her China Open match against Nikola Bartunkova, while Carlos Alcaraz sat at the very top of Google's trending searches. The day's single largest number came off Steam, where Counter-Strike 2 held more than 1.18 million players at once. A new RuneScape MMO teaser crossed from YouTube into Hacker News, and a magnitude 5.9 earthquake struck west of Tambolaka, Indonesia.",
   "throughlines": [
     {
-      "title": "James 1:17 (Jesus Is King) - Kid Rock [Official Music Video}",
-      "gist": "The new single is YouTube's most-viewed video at 685,788 views and Kid Rock surfaces on Bluesky the same day, the snapshot's tightest cross-feed match.",
-      "sources": [
-        "bluesky",
-        "youtube"
-      ],
-      "url": "https://www.youtube.com/watch?v=JdXdQsP2_9M",
-      "kind": "cluster"
-    },
-    {
-      "title": "China Open: Alex de Minaur vs Quentin Halys",
-      "gist": "Polymarket has Alex de Minaur favored at 58.5 percent over Quentin Halys while his name climbs Google Trends, the same match landing on two unrelated feeds.",
+      "title": "aryna sabalenka",
+      "gist": "A tennis story that read as both a search spike and a betting market at once: Sabalenka drew Google Trends interest while her China Open match against Nikola Bartunkova moved on Polymarket.",
       "sources": [
         "google-trends",
         "polymarket"
       ],
-      "url": "https://sports.yahoo.com/articles/alex-minaur-reveals-wants-happen-230000411.html",
+      "url": "https://www.bbc.co.uk/sport/tennis/articles/c52e9dkmm7ylo",
       "kind": "cluster"
     },
     {
-      "title": "Christa Pike",
-      "gist": "The day's most-read Wikipedia article at 1,708,406 views, leading every other page with no matching story anywhere else in the snapshot.",
+      "title": "RuneScape - Official 4th MMO Teaser Trailer",
+      "gist": "A new RuneScape MMO reveal: the teaser trailer trended on YouTube while the development announcement drew discussion on Hacker News.",
       "sources": [
-        "wikipedia"
+        "hackernews",
+        "youtube"
       ],
-      "url": "https://en.wikipedia.org/wiki/Christa_Pike",
-      "kind": "single"
+      "url": "https://news.ycombinator.com/item?id=49949588",
+      "kind": "cluster"
+    },
+    {
+      "title": "Writing on the back of this reads “Daddy and our Baby”. 🥰 Photo from my collection, no date.",
+      "gist": "A single vintage photo, captioned from a handwritten note on its back, spread across the open social web and trended on both Bluesky and Mastodon.",
+      "sources": [
+        "bluesky",
+        "mastodon-trending"
+      ],
+      "url": "https://bsky.app/profile/catsofyore.bsky.social/post/3mwz7apd7hc2v",
+      "kind": "cluster"
     }
   ],
-  "strength": 92,
+  "strength": 94,
   "live_sources": 17,
   "total_sources": 17,
   "dashboard_url": "https://nnnsightnnn.github.io/web-pulse/",
