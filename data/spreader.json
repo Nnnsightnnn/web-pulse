@@ -1,40 +1,38 @@
 {
-  "date": "2026-10-04",
-  "generated_at": "2026-10-04T05:16:57.530Z",
-  "lede": "Tennis ran through Sunday's web. Aryna Sabalenka surfaced on both Google Trends and Polymarket at once, driven by her China Open match against Nikola Bartunkova, while Carlos Alcaraz sat at the very top of Google's trending searches. The day's single largest number came off Steam, where Counter-Strike 2 held more than 1.18 million players at once. A new RuneScape MMO teaser crossed from YouTube into Hacker News, and a magnitude 5.9 earthquake struck west of Tambolaka, Indonesia.",
+  "date": "2026-10-05",
+  "generated_at": "2026-10-05T05:17:16.695Z",
+  "lede": "One topic, and only one, surfaced on two feeds at once: Iga Swiatek's China Open match against Donna Vekic, trending on Google and trading on Polymarket, where the market gives Vekic roughly an 18 percent chance against a heavily favored Swiatek on about $847K in volume. Everywhere else the day pulled apart. Wikipedia's most-read article was Christa Pike at 461,568 views, about 1.2 times the runner-up, and nothing in the snapshot tied the feeds together.",
   "throughlines": [
     {
-      "title": "aryna sabalenka",
-      "gist": "A tennis story that read as both a search spike and a betting market at once: Sabalenka drew Google Trends interest while her China Open match against Nikola Bartunkova moved on Polymarket.",
+      "title": "China Open: Donna Vekic vs Iga Swiatek",
+      "gist": "The day's only cross-feed story: trending on Google and priced on Polymarket, where Vekic sits near 18 percent against a favored Swiatek.",
       "sources": [
         "google-trends",
         "polymarket"
       ],
-      "url": "https://www.bbc.co.uk/sport/tennis/articles/c52e9dkmm7ylo",
+      "url": "https://lastwordonsports.com/tennis/2026/10/04/wta-beijing-day-6-predictions-swiatek-vekic/",
       "kind": "cluster"
     },
     {
-      "title": "RuneScape - Official 4th MMO Teaser Trailer",
-      "gist": "A new RuneScape MMO reveal: the teaser trailer trended on YouTube while the development announcement drew discussion on Hacker News.",
+      "title": "Christa Pike",
+      "gist": "At 461,568 views it was Wikipedia's most-read article, about 1.2 times the runner-up, with nothing in the snapshot to explain the surge.",
       "sources": [
-        "hackernews",
-        "youtube"
+        "wikipedia"
       ],
-      "url": "https://news.ycombinator.com/item?id=49949588",
-      "kind": "cluster"
+      "url": "https://en.wikipedia.org/wiki/Christa_Pike",
+      "kind": "single"
     },
     {
-      "title": "Writing on the back of this reads “Daddy and our Baby”. 🥰 Photo from my collection, no date.",
-      "gist": "A single vintage photo, captioned from a handwritten note on its back, spread across the open social web and trended on both Bluesky and Mastodon.",
+      "title": "tester-army/e2e",
+      "gist": "A TypeScript end-to-end testing framework that topped GitHub trending with 345 new stars on the day.",
       "sources": [
-        "bluesky",
-        "mastodon-trending"
+        "github"
       ],
-      "url": "https://bsky.app/profile/catsofyore.bsky.social/post/3mwz7apd7hc2v",
-      "kind": "cluster"
+      "url": "https://github.com/tester-army/e2e",
+      "kind": "single"
     }
   ],
-  "strength": 94,
+  "strength": 49,
   "live_sources": 17,
   "total_sources": 17,
   "dashboard_url": "https://nnnsightnnn.github.io/web-pulse/",

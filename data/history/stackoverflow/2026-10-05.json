@@ -1,0 +1,340 @@
+{
+  "source": "stackoverflow",
+  "label": "Stack Overflow — hot questions",
+  "fetched_at": "2026-10-05T05:16:32.478Z",
+  "items": [
+    {
+      "rank": 1,
+      "title": "ModuleNotFoundError: No module named 'nubra_sdk' after pip install nubra-sdk",
+      "url": "https://stackoverflow.com/questions/80007904/modulenotfounderror-no-module-named-nubra-sdk-after-pip-install-nubra-sdk",
+      "score": 1,
+      "answers": 1,
+      "views": 29,
+      "tags": [
+        "python",
+        "python-3.x",
+        "automation",
+        "python-requests",
+        "sdk"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "AI agent projects",
+      "url": "https://stackoverflow.com/questions/80007902/ai-agent-projects",
+      "score": -3,
+      "answers": 0,
+      "views": 16,
+      "tags": [
+        "advice"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "How to pass dependencies using interfaces while retaining functionality?",
+      "url": "https://stackoverflow.com/questions/80007896/how-to-pass-dependencies-using-interfaces-while-retaining-functionality",
+      "score": 0,
+      "answers": 1,
+      "views": 90,
+      "tags": [
+        "c#",
+        "dependency-injection",
+        "interface"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "GitHub Copilot Agent in VS Code Insiders executes commands without asking for permission (Allow/Deny)",
+      "url": "https://stackoverflow.com/questions/80007892/github-copilot-agent-in-vs-code-insiders-executes-commands-without-asking-for-pe",
+      "score": 0,
+      "answers": 1,
+      "views": 49,
+      "tags": [
+        "github-copilot",
+        "visual-studio-code-insiders"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Drag and Drop list, populated from database, and save the new list in a table",
+      "url": "https://stackoverflow.com/questions/80007885/drag-and-drop-list-populated-from-database-and-save-the-new-list-in-a-table",
+      "score": -2,
+      "answers": 1,
+      "views": 81,
+      "tags": [
+        "c#",
+        "drag-and-drop"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "How does one implement nested LEFT JOIN in \"old style joins\" on SQL Server 4.2",
+      "url": "https://stackoverflow.com/questions/80007870/how-does-one-implement-nested-left-join-in-old-style-joins-on-sql-server-4-2",
+      "score": 2,
+      "answers": 2,
+      "views": 95,
+      "tags": [
+        "sql-server",
+        "left-join"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Day by day tickets and sales per POS",
+      "url": "https://stackoverflow.com/questions/80007878/day-by-day-tickets-and-sales-per-pos",
+      "score": -4,
+      "answers": 0,
+      "views": 97,
+      "tags": [
+        "sql",
+        "pivot-table"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Match the beginning and end of a word that has \"-\"",
+      "url": "https://stackoverflow.com/questions/80007833/match-the-beginning-and-end-of-a-word-that-has",
+      "score": -1,
+      "answers": 2,
+      "views": 94,
+      "tags": [
+        "vim"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "NVCC 9 + GCC 6.5.0 having trouble with __int128 and __s128 - can I circumvent this?",
+      "url": "https://stackoverflow.com/questions/80007868/nvcc-9-gcc-6-5-0-having-trouble-with-int128-and-s128-can-i-circumvent-th",
+      "score": 0,
+      "answers": 0,
+      "views": 49,
+      "tags": [
+        "c++",
+        "gcc",
+        "compiler-errors",
+        "nvcc",
+        "int128"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Is there any useful pattern when coding with erlang?",
+      "url": "https://stackoverflow.com/questions/80007876/is-there-any-useful-pattern-when-coding-with-erlang",
+      "score": -5,
+      "answers": 0,
+      "views": 62,
+      "tags": [
+        "best-practices",
+        "erlang"
+      ]
+    },
+    {
+      "rank": 11,
+      "title": "Why do the pointer-to-member operators have lower precedence than their counterpart?",
+      "url": "https://stackoverflow.com/questions/80007784/why-do-the-pointer-to-member-operators-have-lower-precedence-than-their-counterp",
+      "score": 6,
+      "answers": 1,
+      "views": 193,
+      "tags": [
+        "c++",
+        "syntax",
+        "operator-precedence",
+        "language-design",
+        "pointer-to-member"
+      ]
+    },
+    {
+      "rank": 12,
+      "title": "Why do RMWs require flushing of write buffer in TSO?",
+      "url": "https://stackoverflow.com/questions/80007850/why-do-rmws-require-flushing-of-write-buffer-in-tso",
+      "score": 2,
+      "answers": 1,
+      "views": 56,
+      "tags": [
+        "x86",
+        "cpu-architecture",
+        "atomic",
+        "memory-barriers"
+      ]
+    },
+    {
+      "rank": 13,
+      "title": "Need to integrate ChatGPT business account as an app in my Google for Non Profit account",
+      "url": "https://stackoverflow.com/questions/80007858/need-to-integrate-chatgpt-business-account-as-an-app-in-my-google-for-non-profit",
+      "score": -4,
+      "answers": 1,
+      "views": 109,
+      "tags": [
+        "openai-api",
+        "google-business"
+      ]
+    },
+    {
+      "rank": 14,
+      "title": "How does an MCP client discover tools from an MCP server?",
+      "url": "https://stackoverflow.com/questions/80007857/how-does-an-mcp-client-discover-tools-from-an-mcp-server",
+      "score": -3,
+      "answers": 1,
+      "views": 71,
+      "tags": [
+        "rest",
+        "http",
+        "agent",
+        "model-context-protocol"
+      ]
+    },
+    {
+      "rank": 15,
+      "title": "Avoiding memory aliasing errors in R",
+      "url": "https://stackoverflow.com/questions/80007854/avoiding-memory-aliasing-errors-in-r",
+      "score": -3,
+      "answers": 0,
+      "views": 78,
+      "tags": [
+        "advice",
+        "r",
+        "memory",
+        "alias"
+      ]
+    },
+    {
+      "rank": 16,
+      "title": "Using the index # of one array to call the index # of another array",
+      "url": "https://stackoverflow.com/questions/80007775/using-the-index-of-one-array-to-call-the-index-of-another-array",
+      "score": 3,
+      "answers": 4,
+      "views": 106,
+      "tags": [
+        "c#",
+        "arrays",
+        "indexing",
+        "morse-code"
+      ]
+    },
+    {
+      "rank": 17,
+      "title": "I'm trying to get started with Flutter, but I keep running into errors",
+      "url": "https://stackoverflow.com/questions/80007843/im-trying-to-get-started-with-flutter-but-i-keep-running-into-errors",
+      "score": -3,
+      "answers": 0,
+      "views": 62,
+      "tags": [
+        "flutter"
+      ]
+    },
+    {
+      "rank": 18,
+      "title": "Canonicalising unit names from a flat file in a normalised database structure",
+      "url": "https://stackoverflow.com/questions/80007765/canonicalising-unit-names-from-a-flat-file-in-a-normalised-database-structure",
+      "score": 2,
+      "answers": 3,
+      "views": 140,
+      "tags": [
+        "sql",
+        "postgresql",
+        "database-design",
+        "database-normalization",
+        "surrogate-key"
+      ]
+    },
+    {
+      "rank": 19,
+      "title": "SwiftUI zoom swipe-back briefly hides the large title and leaves the destination toolbar visible",
+      "url": "https://stackoverflow.com/questions/80007851/swiftui-zoom-swipe-back-briefly-hides-the-large-title-and-leaves-the-destination",
+      "score": 1,
+      "answers": 0,
+      "views": 35,
+      "tags": [
+        "ios",
+        "swift",
+        "swiftui",
+        "swiftui-navigationstack"
+      ]
+    },
+    {
+      "rank": 20,
+      "title": "Searching for PDFs with fixed page range on the internet",
+      "url": "https://stackoverflow.com/questions/80007848/searching-for-pdfs-with-fixed-page-range-on-the-internet",
+      "score": -2,
+      "answers": 0,
+      "views": 51,
+      "tags": [
+        "tooling-recommendation",
+        "google-chrome",
+        "pdf",
+        "search"
+      ]
+    },
+    {
+      "rank": 21,
+      "title": "What should I do when a REST request times out but the operation may still be running?",
+      "url": "https://stackoverflow.com/questions/80007732/what-should-i-do-when-a-rest-request-times-out-but-the-operation-may-still-be-ru",
+      "score": 1,
+      "answers": 3,
+      "views": 135,
+      "tags": [
+        "advice",
+        "java",
+        "spring-boot",
+        "rest",
+        "distributed-system"
+      ]
+    },
+    {
+      "rank": 22,
+      "title": "How to name a string variable inside a \\foreach loop using the loop variable",
+      "url": "https://stackoverflow.com/questions/80007839/how-to-name-a-string-variable-inside-a-foreach-loop-using-the-loop-variable",
+      "score": -1,
+      "answers": 0,
+      "views": 50,
+      "tags": [
+        "pdflatex",
+        "pgfplots",
+        "texworks"
+      ]
+    },
+    {
+      "rank": 23,
+      "title": "ASP.NET can't send PATCH request via Visual Studio 2025",
+      "url": "https://stackoverflow.com/questions/80007842/asp-net-cant-send-patch-request-via-visual-studio-2025",
+      "score": 0,
+      "answers": 0,
+      "views": 33,
+      "tags": [
+        "c#",
+        "asp.net",
+        "http-headers",
+        "crud",
+        "webapi"
+      ]
+    },
+    {
+      "rank": 24,
+      "title": "Avoid `zoo:na.fill(x, \"extend\")` error: need at least two non-NA values to interpolate",
+      "url": "https://stackoverflow.com/questions/80007790/avoid-zoona-fillx-extend-error-need-at-least-two-non-na-values-to-inter",
+      "score": 2,
+      "answers": 2,
+      "views": 82,
+      "tags": [
+        "r",
+        "dplyr",
+        "zoo"
+      ]
+    },
+    {
+      "rank": 25,
+      "title": "The exact full URL (Host + Base Path) that the gateway proxy routes for POST refund transactions on UAT merchant M1XXXXXXXX?",
+      "url": "https://stackoverflow.com/questions/80007824/the-exact-full-url-host-base-path-that-the-gateway-proxy-routes-for-post-ref",
+      "score": -1,
+      "answers": 0,
+      "views": 65,
+      "tags": [
+        "asp.net",
+        "angular",
+        "payment-gateway",
+        "payment",
+        "credit-card"
+      ]
+    }
+  ]
+}
