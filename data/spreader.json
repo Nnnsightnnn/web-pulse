@@ -1,30 +1,31 @@
 {
-  "date": "2026-10-05",
-  "generated_at": "2026-10-05T05:17:16.695Z",
-  "lede": "One topic, and only one, surfaced on two feeds at once: Iga Swiatek's China Open match against Donna Vekic, trending on Google and trading on Polymarket, where the market gives Vekic roughly an 18 percent chance against a heavily favored Swiatek on about $847K in volume. Everywhere else the day pulled apart. Wikipedia's most-read article was Christa Pike at 461,568 views, about 1.2 times the runner-up, and nothing in the snapshot tied the feeds together.",
+  "date": "2026-10-06",
+  "generated_at": "2026-10-06T05:18:12.345Z",
+  "lede": "Two stories surfaced across more than one feed today. The death of Jeffrey Archer, the British novelist and former politician, at 86, drove searches in Germany and India and pushed his Wikipedia page onto the most-read list. Separately, a report that Anthropic flagged a Florida woman's Claude diary entry to police, leading to a felony charge, drew attention on both Hacker News and Lemmy. The day's largest single number came from elsewhere: Christa Pike topped Wikipedia's most-read pages with 333,405 views, a spike no other feed accounts for.",
   "throughlines": [
     {
-      "title": "China Open: Donna Vekic vs Iga Swiatek",
-      "gist": "The day's only cross-feed story: trending on Google and priced on Polymarket, where Vekic sits near 18 percent against a favored Swiatek.",
+      "title": "jeffrey archer",
+      "gist": "The British novelist and former politician died at 86, a death that registered on search in Germany and India and on Wikipedia the same day.",
       "sources": [
         "google-trends",
-        "polymarket"
+        "wikipedia"
       ],
-      "url": "https://lastwordonsports.com/tennis/2026/10/04/wta-beijing-day-6-predictions-swiatek-vekic/",
+      "url": "https://en.wikipedia.org/wiki/Jeffrey_Archer",
       "kind": "cluster"
     },
     {
-      "title": "Christa Pike",
-      "gist": "At 461,568 views it was Wikipedia's most-read article, about 1.2 times the runner-up, with nothing in the snapshot to explain the surge.",
+      "title": "Florida woman used Claude as a diary, then Anthropic reported an entry to police",
+      "gist": "A report that Anthropic turned a user's Claude diary entry over to police, resulting in a felony charge, was discussed on both Hacker News and Lemmy.",
       "sources": [
-        "wikipedia"
+        "hackernews",
+        "lemmy"
       ],
-      "url": "https://en.wikipedia.org/wiki/Christa_Pike",
-      "kind": "single"
+      "url": "https://news.ycombinator.com/item?id=49961057",
+      "kind": "cluster"
     },
     {
       "title": "tester-army/e2e",
-      "gist": "A TypeScript end-to-end testing framework that topped GitHub trending with 345 new stars on the day.",
+      "gist": "A new end-to-end testing framework for web and mobile apps took the top of GitHub trending with 1,398 stars in a day.",
       "sources": [
         "github"
       ],
@@ -32,7 +33,7 @@
       "kind": "single"
     }
   ],
-  "strength": 49,
+  "strength": 91,
   "live_sources": 17,
   "total_sources": 17,
   "dashboard_url": "https://nnnsightnnn.github.io/web-pulse/",
