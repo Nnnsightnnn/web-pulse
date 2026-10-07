@@ -1,0 +1,326 @@
+{
+  "source": "stackoverflow",
+  "label": "Stack Overflow — hot questions",
+  "fetched_at": "2026-10-07T05:17:05.983Z",
+  "items": [
+    {
+      "rank": 1,
+      "title": "Building AI in Arduino",
+      "url": "https://stackoverflow.com/questions/80008378/building-ai-in-arduino",
+      "score": -4,
+      "answers": 0,
+      "views": 36,
+      "tags": [
+        "c++",
+        "neural-network",
+        "arduino"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "A trial of a stardard line",
+      "url": "https://stackoverflow.com/questions/80008380/a-trial-of-a-stardard-line",
+      "score": -5,
+      "answers": 0,
+      "views": 23,
+      "tags": [
+        "python"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Take a full-page screenshot using a Chromium-based driver?",
+      "url": "https://stackoverflow.com/questions/80008379/take-a-full-page-screenshot-using-a-chromium-based-driver",
+      "score": 0,
+      "answers": 0,
+      "views": 16,
+      "tags": [
+        "selenium-webdriver"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "What are the differences between CGI and ASP?",
+      "url": "https://stackoverflow.com/questions/80008376/what-are-the-differences-between-cgi-and-asp",
+      "score": -5,
+      "answers": 0,
+      "views": 27,
+      "tags": [
+        "advice"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Secure Code Warrior Server side formula injection via CSV",
+      "url": "https://stackoverflow.com/questions/80008374/secure-code-warrior-server-side-formula-injection-via-csv",
+      "score": -4,
+      "answers": 0,
+      "views": 18,
+      "tags": [
+        "advice"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "How to convert a UUID to an unsigned long?",
+      "url": "https://stackoverflow.com/questions/80008360/how-to-convert-a-uuid-to-an-unsigned-long",
+      "score": 1,
+      "answers": 1,
+      "views": 57,
+      "tags": [
+        "c++",
+        "uuid"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "How to read two elements of an array using operator>> in C++?",
+      "url": "https://stackoverflow.com/questions/80008335/how-to-read-two-elements-of-an-array-using-operator-in-c",
+      "score": 0,
+      "answers": 2,
+      "views": 155,
+      "tags": [
+        "c++",
+        "arrays"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Why is git-filter not permanently deleting files from my repository?",
+      "url": "https://stackoverflow.com/questions/80008362/why-is-git-filter-not-permanently-deleting-files-from-my-repository",
+      "score": -2,
+      "answers": 0,
+      "views": 54,
+      "tags": [
+        "python",
+        "git",
+        "gitignore"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "VBA macro ms word - change photo caption based on reference within file name",
+      "url": "https://stackoverflow.com/questions/80008361/vba-macro-ms-word-change-photo-caption-based-on-reference-within-file-name",
+      "score": 1,
+      "answers": 2,
+      "views": 33,
+      "tags": [
+        "vba",
+        "ms-word",
+        "caption",
+        "fig",
+        "figcaption"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "C++ has pointers, smart pointers and references for indirect access, so what is std::indirect?",
+      "url": "https://stackoverflow.com/questions/80008249/c-has-pointers-smart-pointers-and-references-for-indirect-access-so-what-is",
+      "score": 4,
+      "answers": 3,
+      "views": 216,
+      "tags": [
+        "c++",
+        "smart-pointers",
+        "value-type",
+        "reference-type",
+        "c++26"
+      ]
+    },
+    {
+      "rank": 11,
+      "title": "BAT file doesn't seem to run, but code works on command line",
+      "url": "https://stackoverflow.com/questions/80008290/bat-file-doesnt-seem-to-run-but-code-works-on-command-line",
+      "score": -6,
+      "answers": 1,
+      "views": 112,
+      "tags": [
+        "batch-file",
+        "cmd"
+      ]
+    },
+    {
+      "rank": 12,
+      "title": "MCPJam Playground never renders a tool's _meta.ui.resourceUri widget (MCP Apps / ui:// resource) even though resources/read succeeds",
+      "url": "https://stackoverflow.com/questions/80008341/mcpjam-playground-never-renders-a-tools-meta-ui-resourceuri-widget-mcp-apps",
+      "score": -1,
+      "answers": 0,
+      "views": 43,
+      "tags": [
+        "large-language-model",
+        "model-context-protocol",
+        "mcp-server"
+      ]
+    },
+    {
+      "rank": 13,
+      "title": "Why chmod command is not permitted in WSL Ubuntu on a Windows 11 system?",
+      "url": "https://stackoverflow.com/questions/80008300/why-chmod-command-is-not-permitted-in-wsl-ubuntu-on-a-windows-11-system",
+      "score": -5,
+      "answers": 0,
+      "views": 51,
+      "tags": [
+        "advice",
+        "unix",
+        "windows-subsystem-for-linux",
+        "chmod"
+      ]
+    },
+    {
+      "rank": 14,
+      "title": "Regex replace group reference and Unicode escape conflict",
+      "url": "https://stackoverflow.com/questions/80008271/regex-replace-group-reference-and-unicode-escape-conflict",
+      "score": 1,
+      "answers": 2,
+      "views": 91,
+      "tags": [
+        "python",
+        "regex",
+        "unicode"
+      ]
+    },
+    {
+      "rank": 15,
+      "title": "How do I get all hosts on my Mininet custom topology to respond to ping using pingall?",
+      "url": "https://stackoverflow.com/questions/80008174/how-do-i-get-all-hosts-on-my-mininet-custom-topology-to-respond-to-ping-using-pi",
+      "score": 0,
+      "answers": 1,
+      "views": 93,
+      "tags": [
+        "python",
+        "mininet"
+      ]
+    },
+    {
+      "rank": 16,
+      "title": "\"ng add @angular/material\" command fails with \"Error: ERR_PNPM_ADDING_TO_ROOT\"",
+      "url": "https://stackoverflow.com/questions/80008328/ng-add-angular-material-command-fails-with-error-err-pnpm-adding-to-root",
+      "score": 0,
+      "answers": 1,
+      "views": 25,
+      "tags": [
+        "angular",
+        "npm",
+        "pnpm"
+      ]
+    },
+    {
+      "rank": 17,
+      "title": "How to get SendAs emails from Account in Outlook VSTO C# code?",
+      "url": "https://stackoverflow.com/questions/80008310/how-to-get-sendas-emails-from-account-in-outlook-vsto-c-code",
+      "score": -3,
+      "answers": 0,
+      "views": 56,
+      "tags": [
+        "c#",
+        "email",
+        "outlook",
+        "vsto"
+      ]
+    },
+    {
+      "rank": 18,
+      "title": "Problems with Webview - Kotlin Android development",
+      "url": "https://stackoverflow.com/questions/80008303/problems-with-webview-kotlin-android-development",
+      "score": -2,
+      "answers": 0,
+      "views": 75,
+      "tags": [
+        "android",
+        "kotlin"
+      ]
+    },
+    {
+      "rank": 19,
+      "title": "trying to configure apparmor for mariadb",
+      "url": "https://stackoverflow.com/questions/80008325/trying-to-configure-apparmor-for-mariadb",
+      "score": -3,
+      "answers": 0,
+      "views": 41,
+      "tags": [
+        "ubuntu",
+        "mariadb",
+        "apparmor",
+        "mysqld-multi"
+      ]
+    },
+    {
+      "rank": 20,
+      "title": "Sorting Objects by Numerical Value Not Working For Two Sets?",
+      "url": "https://stackoverflow.com/questions/80008318/sorting-objects-by-numerical-value-not-working-for-two-sets",
+      "score": -4,
+      "answers": 0,
+      "views": 49,
+      "tags": [
+        "javascript",
+        "arrays",
+        "sorting",
+        "integer"
+      ]
+    },
+    {
+      "rank": 21,
+      "title": "Why doesn't Dump() seem to work inside my Linq query?",
+      "url": "https://stackoverflow.com/questions/80008324/why-doesnt-dump-seem-to-work-inside-my-linq-query",
+      "score": 0,
+      "answers": 0,
+      "views": 22,
+      "tags": [
+        "c#",
+        "linqpad"
+      ]
+    },
+    {
+      "rank": 22,
+      "title": "MinGW g++ result of std::source_location is a relative path. Should it be absolute?",
+      "url": "https://stackoverflow.com/questions/80008235/mingw-g-result-of-stdsource-location-is-a-relative-path-should-it-be-absolu",
+      "score": 2,
+      "answers": 1,
+      "views": 114,
+      "tags": [
+        "c++",
+        "mingw"
+      ]
+    },
+    {
+      "rank": 23,
+      "title": "Converting vector<vector<int>> to int",
+      "url": "https://stackoverflow.com/questions/80008150/converting-vectorvectorint-to-int",
+      "score": -1,
+      "answers": 2,
+      "views": 186,
+      "tags": [
+        "c++",
+        "iterator",
+        "stdvector",
+        "dereference"
+      ]
+    },
+    {
+      "rank": 24,
+      "title": "how to enable IPv6 on ONU Huawei HG8010H?",
+      "url": "https://stackoverflow.com/questions/80008296/how-to-enable-ipv6-on-onu-huawei-hg8010h",
+      "score": -4,
+      "answers": 0,
+      "views": 56,
+      "tags": [
+        "huawei-mobile-services"
+      ]
+    },
+    {
+      "rank": 25,
+      "title": "How do I write a function that takes a matrix and a vector as inputs, loops through it column-wise, and outputs a vector?",
+      "url": "https://stackoverflow.com/questions/80008172/how-do-i-write-a-function-that-takes-a-matrix-and-a-vector-as-inputs-loops-thro",
+      "score": 1,
+      "answers": 2,
+      "views": 105,
+      "tags": [
+        "r",
+        "matrix",
+        "vector",
+        "statistics",
+        "apply"
+      ]
+    }
+  ]
+}

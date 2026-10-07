@@ -1,0 +1,232 @@
+{
+  "source": "hackernews",
+  "label": "Hacker News — top stories",
+  "fetched_at": "2026-10-07T05:17:06.296Z",
+  "items": [
+    {
+      "rank": 1,
+      "title": "Sharing AI progress in mathematics",
+      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
+      "hn_url": "https://news.ycombinator.com/item?id=49984923",
+      "score": 651,
+      "comments": 587,
+      "author": "OfficialTurkey"
+    },
+    {
+      "rank": 2,
+      "title": "Strands Decider 2B: a small, open-source, decision model",
+      "url": "https://strandsagents.com/blog/introducing-strands-decider/",
+      "hn_url": "https://news.ycombinator.com/item?id=49987076",
+      "score": 86,
+      "comments": 12,
+      "author": "gmays"
+    },
+    {
+      "rank": 3,
+      "title": "Calling It Quits on ServerFault",
+      "url": "https://sysadmin1138.net/mt/blog/2026/10/calling-it-quits-on-serverfault.shtml",
+      "hn_url": "https://news.ycombinator.com/item?id=49988142",
+      "score": 26,
+      "comments": 7,
+      "author": "zdw"
+    },
+    {
+      "rank": 4,
+      "title": "Decisions API is in public beta",
+      "url": "https://developers.openai.com/api/docs/guides/decisions",
+      "hn_url": "https://news.ycombinator.com/item?id=49984025",
+      "score": 202,
+      "comments": 96,
+      "author": "chiefstorm"
+    },
+    {
+      "rank": 5,
+      "title": "Penguin Mail – open-source Rust email client for Linux with AI",
+      "url": "https://penguin-mail.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=49984716",
+      "score": 123,
+      "comments": 52,
+      "author": "kavourias"
+    },
+    {
+      "rank": 6,
+      "title": "La Cueva BBS in Mexico in 1993 (session replay)",
+      "url": "https://nanochess.org/la_cueva_bbs.html",
+      "hn_url": "https://news.ycombinator.com/item?id=49987675",
+      "score": 20,
+      "comments": 2,
+      "author": "nanochess"
+    },
+    {
+      "rank": 7,
+      "title": "The cost of lies: A Mineserver story",
+      "url": "https://www.jeremyreimer.com/rockets-item.lsp?f=true&p=272",
+      "hn_url": "https://news.ycombinator.com/item?id=49950865",
+      "score": 51,
+      "comments": 14,
+      "author": "luu"
+    },
+    {
+      "rank": 8,
+      "title": "Mistral Large 4",
+      "url": "https://mistral.ai/news/mistral-large-4/\\",
+      "hn_url": "https://news.ycombinator.com/item?id=49977979",
+      "score": 1658,
+      "comments": 989,
+      "author": "Philpax"
+    },
+    {
+      "rank": 9,
+      "title": "EmbeddingGemma 2: An open, lightweight multimodal embedding model",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/",
+      "hn_url": "https://news.ycombinator.com/item?id=49980487",
+      "score": 271,
+      "comments": 31,
+      "author": "ilreb"
+    },
+    {
+      "rank": 10,
+      "title": "What Is Codemode",
+      "url": "https://lucumr.pocoo.org/2026/10/6/codemode/",
+      "hn_url": "https://news.ycombinator.com/item?id=49978333",
+      "score": 39,
+      "comments": 4,
+      "author": "Tomte"
+    },
+    {
+      "rank": 11,
+      "title": "ESP32-C3 Adblock",
+      "url": "https://github.com/M-Abozaid/esp32-c3-adblock",
+      "hn_url": "https://news.ycombinator.com/item?id=49986862",
+      "score": 35,
+      "comments": 7,
+      "author": "jayhoon"
+    },
+    {
+      "rank": 12,
+      "title": "Claude Code’s suggested message feature: I think the real customer is the model",
+      "url": "https://www.zohaib.cc/blog/smartest-claude-code-feature",
+      "hn_url": "https://news.ycombinator.com/item?id=49981905",
+      "score": 151,
+      "comments": 79,
+      "author": "zed_labs_dev"
+    },
+    {
+      "rank": 13,
+      "title": "Utah to let AI examine patients and prescribe medication without human oversight",
+      "url": "https://www.techspot.com/news/114111-utah-become-first-state-ai-examine-patients-prescribe.html",
+      "hn_url": "https://news.ycombinator.com/item?id=49981197",
+      "score": 118,
+      "comments": 115,
+      "author": "healsdata"
+    },
+    {
+      "rank": 14,
+      "title": "AnyPS5: Port PS5 binaries to PC without emulation (87% system libraries mapped)",
+      "url": "https://github.com/boykopovar/AnyPS5",
+      "hn_url": "https://news.ycombinator.com/item?id=49985664",
+      "score": 171,
+      "comments": 129,
+      "author": "Fe2O3"
+    },
+    {
+      "rank": 15,
+      "title": "LLMs may have helped my RSI",
+      "url": "https://vaughanhilts.me/2026/10/05/llms-immensely-helped-my-rsi.html",
+      "hn_url": "https://news.ycombinator.com/item?id=49973644",
+      "score": 70,
+      "comments": 32,
+      "author": "vaughands"
+    },
+    {
+      "rank": 16,
+      "title": "Improving and Stabilizing the Racoon2 IKE Daemon in NetBSD",
+      "url": "https://blog.netbsd.org/tnf/entry/gsoc2026_racoon2",
+      "hn_url": "https://news.ycombinator.com/item?id=49953455",
+      "score": 8,
+      "comments": 1,
+      "author": "jaypatelani"
+    },
+    {
+      "rank": 17,
+      "title": "Jev-Driven SRE Diagnosis: What Worked and What Failed",
+      "url": "https://www.sregym.com/blog/jev-driven-sre-diagnosis",
+      "hn_url": "https://news.ycombinator.com/item?id=49986765",
+      "score": 16,
+      "comments": 4,
+      "author": "matt_d"
+    },
+    {
+      "rank": 18,
+      "title": "OpenTPU – An open-source AI accelerator, developed by AI",
+      "url": "https://github.com/FeSens/openTPU",
+      "hn_url": "https://news.ycombinator.com/item?id=49980715",
+      "score": 255,
+      "comments": 321,
+      "author": "fsbonetto"
+    },
+    {
+      "rank": 19,
+      "title": "The art of defusing a second world war bomb",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/oct/06/it-could-knock-a-whole-street-down-the-art-of-defusing-a-second-world-war-bomb",
+      "hn_url": "https://news.ycombinator.com/item?id=49987858",
+      "score": 9,
+      "comments": 1,
+      "author": "sandebert"
+    },
+    {
+      "rank": 20,
+      "title": "Tell HN: GitHub refuses to remove cracked copies of my software after a month",
+      "url": "https://news.ycombinator.com/item?id=49982498",
+      "hn_url": "https://news.ycombinator.com/item?id=49982498",
+      "score": 86,
+      "comments": 65,
+      "author": "IvanK_net"
+    },
+    {
+      "rank": 21,
+      "title": "Treg (OpenRouter for Tools)",
+      "url": "https://github.com/superdesigndev/treg",
+      "hn_url": "https://news.ycombinator.com/item?id=49980790",
+      "score": 8,
+      "comments": 1,
+      "author": "trollied"
+    },
+    {
+      "rank": 22,
+      "title": "When random is not actually random enough",
+      "url": "https://ersc.io/blog/when-random-isnt-random-enough",
+      "hn_url": "https://news.ycombinator.com/item?id=49983404",
+      "score": 48,
+      "comments": 13,
+      "author": "steveklabnik"
+    },
+    {
+      "rank": 23,
+      "title": "What's Earth's dominant species by mass?",
+      "url": "https://signoregalilei.com/2026/09/27/whats-earths-dominant-species-by-mass/",
+      "hn_url": "https://news.ycombinator.com/item?id=49977531",
+      "score": 189,
+      "comments": 126,
+      "author": "surprisetalk"
+    },
+    {
+      "rank": 24,
+      "title": "State of Devs 2026",
+      "url": "https://2026.stateofdevs.com/en-US/",
+      "hn_url": "https://news.ycombinator.com/item?id=49985643",
+      "score": 107,
+      "comments": 39,
+      "author": "sgdesign"
+    },
+    {
+      "rank": 25,
+      "title": "How Fast is Python 3.15?",
+      "url": "https://blog.miguelgrinberg.com/post/how-fast-is-python-3-15",
+      "hn_url": "https://news.ycombinator.com/item?id=49984652",
+      "score": 49,
+      "comments": 29,
+      "author": "Qem"
+    }
+  ]
+}

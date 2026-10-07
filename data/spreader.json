@@ -1,39 +1,38 @@
 {
-  "date": "2026-10-06",
-  "generated_at": "2026-10-06T05:18:12.345Z",
-  "lede": "Two stories surfaced across more than one feed today. The death of Jeffrey Archer, the British novelist and former politician, at 86, drove searches in Germany and India and pushed his Wikipedia page onto the most-read list. Separately, a report that Anthropic flagged a Florida woman's Claude diary entry to police, leading to a felony charge, drew attention on both Hacker News and Lemmy. The day's largest single number came from elsewhere: Christa Pike topped Wikipedia's most-read pages with 333,405 views, a spike no other feed accounts for.",
+  "date": "2026-10-07",
+  "generated_at": "2026-10-07T05:17:42.988Z",
+  "lede": "One story surfaced on two feeds at once today: Eva Marie Saint, the actress from 'North by Northwest' and 'On the Waterfront,' has died at 102, carried on both Bluesky and Wikipedia. Everywhere else the web was quiet and workmanlike. Developers pushed a brand new end-to-end testing framework to the top of GitHub trending, and on Steam more than 1.1 million people were inside Counter-Strike 2 at the same moment, still the largest live crowd on the platform.",
   "throughlines": [
     {
-      "title": "jeffrey archer",
-      "gist": "The British novelist and former politician died at 86, a death that registered on search in Germany and India and on Wikipedia the same day.",
+      "title": "Eva Marie Saint, star of 'North by Northwest' and 'On the Waterfront,' dies at 102",
+      "gist": "The day's one cross-feed story, surfacing on Bluesky and Wikipedia together as readers marked the death of an Oscar winning star of Hollywood's golden age.",
       "sources": [
-        "google-trends",
+        "bluesky",
         "wikipedia"
       ],
-      "url": "https://en.wikipedia.org/wiki/Jeffrey_Archer",
-      "kind": "cluster"
-    },
-    {
-      "title": "Florida woman used Claude as a diary, then Anthropic reported an entry to police",
-      "gist": "A report that Anthropic turned a user's Claude diary entry over to police, resulting in a felony charge, was discussed on both Hacker News and Lemmy.",
-      "sources": [
-        "hackernews",
-        "lemmy"
-      ],
-      "url": "https://news.ycombinator.com/item?id=49961057",
+      "url": "https://en.wikipedia.org/wiki/Eva_Marie_Saint",
       "kind": "cluster"
     },
     {
       "title": "tester-army/e2e",
-      "gist": "A new end-to-end testing framework for web and mobile apps took the top of GitHub trending with 1,398 stars in a day.",
+      "gist": "A new end-to-end testing framework for web and mobile that gained 1,725 stars in a single day to top GitHub trending, a sign developers are still hunting for a cleaner take on the oldest chore in software.",
       "sources": [
         "github"
       ],
       "url": "https://github.com/tester-army/e2e",
       "kind": "single"
+    },
+    {
+      "title": "Sharing AI progress in mathematics",
+      "gist": "OpenAI's post on AI progress in mathematics led Hacker News with 651 points, and its near equal 587 comments point to a room that is arguing the result, not just applauding it.",
+      "sources": [
+        "hackernews"
+      ],
+      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
+      "kind": "single"
     }
   ],
-  "strength": 91,
+  "strength": 28,
   "live_sources": 17,
   "total_sources": 17,
   "dashboard_url": "https://nnnsightnnn.github.io/web-pulse/",
