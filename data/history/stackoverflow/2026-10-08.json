@@ -1,0 +1,330 @@
+{
+  "source": "stackoverflow",
+  "label": "Stack Overflow — hot questions",
+  "fetched_at": "2026-10-08T05:17:39.142Z",
+  "items": [
+    {
+      "rank": 1,
+      "title": "How to correctly parse a nested JSON list using jsonlite::fromJSON in R without dimension or length replacement errors?",
+      "url": "https://stackoverflow.com/questions/80008601/how-to-correctly-parse-a-nested-json-list-using-jsonlitefromjson-in-r-without",
+      "score": 0,
+      "answers": 0,
+      "views": 19,
+      "tags": [
+        "r",
+        "json",
+        "parsing"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "How to compile Python .py files to .so with Cython in Buildozer/python-for-android and package them correctly?",
+      "url": "https://stackoverflow.com/questions/80008603/how-to-compile-python-py-files-to-so-with-cython-in-buildozer-python-for-andro",
+      "score": 0,
+      "answers": 0,
+      "views": 15,
+      "tags": [
+        "kivy",
+        "cython",
+        "buildozer",
+        "python-for-android",
+        "pygame-ce"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "`typeof` operator may return unpadded structs?",
+      "url": "https://stackoverflow.com/questions/80008596/typeof-operator-may-return-unpadded-structs",
+      "score": 0,
+      "answers": 0,
+      "views": 36,
+      "tags": [
+        "c",
+        "language-lawyer",
+        "abi",
+        "c23"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "How to feed select form links back into CrawlSpider engine for pagination",
+      "url": "https://stackoverflow.com/questions/80008595/how-to-feed-select-form-links-back-into-crawlspider-engine-for-pagination",
+      "score": -1,
+      "answers": 1,
+      "views": 19,
+      "tags": [
+        "scrapy"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "How to declare quorum queues with RabbitAmqpAdmin in Spring AMQP 1.0?",
+      "url": "https://stackoverflow.com/questions/80008597/how-to-declare-quorum-queues-with-rabbitamqpadmin-in-spring-amqp-1-0",
+      "score": 0,
+      "answers": 0,
+      "views": 18,
+      "tags": [
+        "java",
+        "spring-boot",
+        "amqp",
+        "spring-amqp"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Why does the GCC compiler specify its operands and mnemonics using the low-order bytes instead of using the appropriate word size?",
+      "url": "https://stackoverflow.com/questions/80008585/why-does-the-gcc-compiler-specify-its-operands-and-mnemonics-using-the-low-order",
+      "score": 1,
+      "answers": 2,
+      "views": 67,
+      "tags": [
+        "c",
+        "assembly",
+        "gcc",
+        "x86-64",
+        "compiler-construction"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Nested members using std::shared_ptr",
+      "url": "https://stackoverflow.com/questions/80008577/nested-members-using-stdshared-ptr",
+      "score": 2,
+      "answers": 3,
+      "views": 74,
+      "tags": [
+        "c++",
+        "shared-ptr"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Windows and nginx and php, relative html folder outside nginx folder not working?",
+      "url": "https://stackoverflow.com/questions/80008589/windows-and-nginx-and-php-relative-html-folder-outside-nginx-folder-not-working",
+      "score": 0,
+      "answers": 0,
+      "views": 43,
+      "tags": [
+        "php",
+        "nginx"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "What is wrong with this SQL Server procedure?",
+      "url": "https://stackoverflow.com/questions/80008561/what-is-wrong-with-this-sql-server-procedure",
+      "score": -2,
+      "answers": 1,
+      "views": 67,
+      "tags": [
+        "sql-server",
+        "stored-procedures"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "How does dependency injection work at a low level?",
+      "url": "https://stackoverflow.com/questions/80008542/how-does-dependency-injection-work-at-a-low-level",
+      "score": 1,
+      "answers": 1,
+      "views": 77,
+      "tags": [
+        "advice",
+        "c#",
+        ".net-core"
+      ]
+    },
+    {
+      "rank": 11,
+      "title": "How can I make a csv file in C++ containing data from arrays so I can visualize them in Python?",
+      "url": "https://stackoverflow.com/questions/80008564/how-can-i-make-a-csv-file-in-c-containing-data-from-arrays-so-i-can-visualize",
+      "score": -3,
+      "answers": 2,
+      "views": 113,
+      "tags": [
+        "c++",
+        "csv",
+        "export-to-csv"
+      ]
+    },
+    {
+      "rank": 12,
+      "title": "Rust Ownership and Lifetimes in Multi-threaded Matrix Multiplication (No Locks)",
+      "url": "https://stackoverflow.com/questions/80008554/rust-ownership-and-lifetimes-in-multi-threaded-matrix-multiplication-no-locks",
+      "score": 0,
+      "answers": 1,
+      "views": 38,
+      "tags": [
+        "multithreading",
+        "rust",
+        "matrix-multiplication"
+      ]
+    },
+    {
+      "rank": 13,
+      "title": "Why does either.fold(identity, _ -> fail()) trigger the \"dead code\" warning with -Wdead-code?",
+      "url": "https://stackoverflow.com/questions/80008555/why-does-either-foldidentity-fail-trigger-the-dead-code-warning-with",
+      "score": 0,
+      "answers": 1,
+      "views": 56,
+      "tags": [
+        "scala",
+        "scalatest",
+        "dead-code",
+        "scalac",
+        "scala-2.13"
+      ]
+    },
+    {
+      "rank": 14,
+      "title": "combining speaker diarization and speech adaptation causes a code 13 INTERNAL error",
+      "url": "https://stackoverflow.com/questions/80008576/combining-speaker-diarization-and-speech-adaptation-causes-a-code-13-internal-er",
+      "score": 0,
+      "answers": 0,
+      "views": 18,
+      "tags": [
+        "speech-to-text",
+        "chirp"
+      ]
+    },
+    {
+      "rank": 15,
+      "title": "How to backup a Jupyter Notebook?",
+      "url": "https://stackoverflow.com/questions/80008544/how-to-backup-a-jupyter-notebook",
+      "score": -2,
+      "answers": 1,
+      "views": 73,
+      "tags": [
+        "jupyter-notebook"
+      ]
+    },
+    {
+      "rank": 16,
+      "title": "How to split and name Audio Hijack Recordings based on Spotify Metadata",
+      "url": "https://stackoverflow.com/questions/80008550/how-to-split-and-name-audio-hijack-recordings-based-on-spotify-metadata",
+      "score": -7,
+      "answers": 0,
+      "views": 59,
+      "tags": [
+        "javascript",
+        "audio",
+        "applescript",
+        "spotify"
+      ]
+    },
+    {
+      "rank": 17,
+      "title": "How to request JSON data from NYT, BLS, Census, and NewsAPI using Python requests?",
+      "url": "https://stackoverflow.com/questions/80008553/how-to-request-json-data-from-nyt-bls-census-and-newsapi-using-python-request",
+      "score": -5,
+      "answers": 0,
+      "views": 51,
+      "tags": [
+        "python",
+        "json",
+        "testing"
+      ]
+    },
+    {
+      "rank": 18,
+      "title": "CS50s finance - stuck at : buy handles valid purchase",
+      "url": "https://stackoverflow.com/questions/80008526/cs50s-finance-stuck-at-buy-handles-valid-purchase",
+      "score": -7,
+      "answers": 0,
+      "views": 89,
+      "tags": [
+        "python",
+        "cs50"
+      ]
+    },
+    {
+      "rank": 19,
+      "title": "Some redraws are suspended during a drag gesture",
+      "url": "https://stackoverflow.com/questions/80008530/some-redraws-are-suspended-during-a-drag-gesture",
+      "score": 0,
+      "answers": 0,
+      "views": 67,
+      "tags": [
+        "swiftui"
+      ]
+    },
+    {
+      "rank": 20,
+      "title": "How to test NgRx (v22) effects using vitest?",
+      "url": "https://stackoverflow.com/questions/80008543/how-to-test-ngrx-v22-effects-using-vitest",
+      "score": 0,
+      "answers": 0,
+      "views": 30,
+      "tags": [
+        "angular",
+        "ngrx",
+        "vitest"
+      ]
+    },
+    {
+      "rank": 21,
+      "title": "How can I get the Angular component name from a global ErrorHandler in a production build?",
+      "url": "https://stackoverflow.com/questions/80008523/how-can-i-get-the-angular-component-name-from-a-global-errorhandler-in-a-product",
+      "score": 0,
+      "answers": 0,
+      "views": 60,
+      "tags": [
+        "angular"
+      ]
+    },
+    {
+      "rank": 22,
+      "title": "Blazor web app not working when defined as library and loaded by other assembly (upgrade from .NET 8 to .NET 10)",
+      "url": "https://stackoverflow.com/questions/80008522/blazor-web-app-not-working-when-defined-as-library-and-loaded-by-other-assembly",
+      "score": 0,
+      "answers": 0,
+      "views": 42,
+      "tags": [
+        "blazor",
+        ".net-10.0"
+      ]
+    },
+    {
+      "rank": 23,
+      "title": "Do Windows `MachineGuid` and Linux `/etc/machine-id` change when a VM or OS installation is cloned?",
+      "url": "https://stackoverflow.com/questions/80008499/do-windows-machineguid-and-linux-etc-machine-id-change-when-a-vm-or-os-inst",
+      "score": -1,
+      "answers": 0,
+      "views": 63,
+      "tags": [
+        "advice",
+        "c++",
+        "linux",
+        "winapi",
+        "wxwidgets"
+      ]
+    },
+    {
+      "rank": 24,
+      "title": "Parse XML file with namespaces using SimpleXML",
+      "url": "https://stackoverflow.com/questions/80008519/parse-xml-file-with-namespaces-using-simplexml",
+      "score": 1,
+      "answers": 0,
+      "views": 63,
+      "tags": [
+        "php",
+        "xml",
+        "simplexml"
+      ]
+    },
+    {
+      "rank": 25,
+      "title": "How can I isolate multiple license-validation strategies behind one interface in a C++ application?",
+      "url": "https://stackoverflow.com/questions/80008467/how-can-i-isolate-multiple-license-validation-strategies-behind-one-interface-in",
+      "score": 1,
+      "answers": 1,
+      "views": 120,
+      "tags": [
+        "advice",
+        "c++",
+        "wxwidgets",
+        "licensing"
+      ]
+    }
+  ]
+}
