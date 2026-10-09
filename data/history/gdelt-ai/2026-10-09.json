@@ -1,0 +1,54 @@
+{
+  "source": "gdelt-ai",
+  "label": "GDELT — AI & tech news",
+  "fetched_at": "2026-10-09T05:18:40.976Z",
+  "data_date": "2026-10-09",
+  "query": "(\"artificial intelligence\" OR \"machine learning\" OR \"generative AI\" OR OpenAI OR Anthropic OR \"large language model\" OR \"neural network\" OR semiconductor) sourcelang:english",
+  "items": [
+    {
+      "rank": 1,
+      "title": "US to invest over $100 million on STEM programmes amid AI race with China",
+      "url": "https://www.business-standard.com/world-news/us-to-invest-over-100-million-on-stem-programmes-amid-ai-race-with-china-126100800147_1.html",
+      "domain": "business-standard.com",
+      "source_country": "India",
+      "seen_at": "2026-10-08T05:30:00Z",
+      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-10/08/thumb/fitandfill/1200X628/1791429470-0803.jpg"
+    },
+    {
+      "rank": 2,
+      "title": "McDonald Sued For Using AI Pricing | News Radio 96 . 7",
+      "url": "https://newsradio967.iheart.com/content/2026-10-08-mcdonalds-sued-for-using-ai-pricing/",
+      "domain": "newsradio967.iheart.com",
+      "source_country": "United States",
+      "seen_at": "2026-10-08T05:30:00Z",
+      "image": "https://i.iheart.com/v3/re/assets.getty/6ac6f1397d540a262d624c4d?ops=gravity(%22north%22),fit(1200,675),quality(65)"
+    },
+    {
+      "rank": 3,
+      "title": "Rencore Launches New Multi - AI Governance Functionality",
+      "url": "https://bubblear.com/rencore-launches-new-multi-ai-governance-functionality/34210/",
+      "domain": "bubblear.com",
+      "source_country": "Argentina",
+      "seen_at": "2026-10-08T05:30:00Z",
+      "image": "https://bubblear.com/wp-content/uploads/2026/10/rencore-launches-new-multi-ai-governance-functionality.jpg"
+    },
+    {
+      "rank": 4,
+      "title": "Cybersecurity experts share tips to stay safe online while using AI tools",
+      "url": "https://www.kltv.com/2026/10/08/cybersecurity-experts-share-tips-stay-safe-online-while-using-ai-tools/",
+      "domain": "kltv.com",
+      "source_country": "United States",
+      "seen_at": "2026-10-08T05:30:00Z",
+      "image": "https://gray-kltv-prod.gtv-cdn.com/resizer/v2/RNOXAI7R2VD75MQQY64TLKJ6AY.jpg?auth=287f5144505a3b3d3d3971965392c9d97660fccb7065757d125d668eb4e231e2&smart=true"
+    },
+    {
+      "rank": 5,
+      "title": "AI eats into entry - level tech jobs as India graduates seek work",
+      "url": "https://www.business-standard.com/industry/news/ai-eats-into-entry-level-tech-jobs-as-india-s-graduates-seek-work-126100800232_1.html",
+      "domain": "business-standard.com",
+      "source_country": "India",
+      "seen_at": "2026-10-08T05:30:00Z",
+      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-10/08/thumb/fitandfill/1200X628/1791433620-2092.jpg"
+    }
+  ]
+}

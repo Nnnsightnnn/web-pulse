@@ -1,38 +1,38 @@
 {
-  "date": "2026-10-08",
-  "generated_at": "2026-10-08T05:18:17.745Z",
-  "lede": "The web spent Thursday remembering Margaret Hamilton, the engineer who led software development for the Apollo program, dead at 90. Her passing was the one story the feeds shared, surfacing on Hacker News, Lemmy and Mastodon inside the same window. Otherwise the day stayed quiet. Counter-Strike 2 again topped Steam with more than 1.27 million players online, and the most-read page on Wikipedia was Christa Pike, at 643,029 views.",
+  "date": "2026-10-09",
+  "generated_at": "2026-10-09T05:18:40.991Z",
+  "lede": "The web ran quiet this Friday, October 9: just one story surfaced on more than one feed at once, Grand Theft Auto V Legacy landing on both Steam's charts and YouTube's trending videos the same day. Otherwise the day's attention scattered across unrelated corners. The most-read article on Wikipedia was Nana Patekar, close to 1.67 million views, and on GitHub the fastest-rising project was AnyPS5, a tool for porting PS5 executables to Linux and Windows, up 4,669 stars in a single day.",
   "throughlines": [
     {
-      "title": "Oh no, RIP Margaret Hamiltonhttps://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
-      "gist": "Margaret Hamilton, who led the Apollo flight software, has died at 90, and it was the one story live across Lemmy and Mastodon at the same time.",
+      "title": "Grand Theft Auto V Legacy",
+      "gist": "The only story to cross feeds today, turning up on Steam's top sellers and YouTube's trending list at the same time.",
       "sources": [
-        "lemmy",
-        "mastodon-trending"
+        "steam",
+        "youtube"
       ],
-      "url": "https://lemmy.world/post/52854842",
+      "url": "https://store.steampowered.com/app/271590",
       "kind": "cluster"
     },
     {
-      "title": "Christa Pike",
-      "gist": "The most-read article on Wikipedia today, at 643,029 views.",
+      "title": "Nana Patekar",
+      "gist": "The day's most-read Wikipedia article, drawing close to 1.67 million views.",
       "sources": [
         "wikipedia"
       ],
-      "url": "https://en.wikipedia.org/wiki/Christa_Pike",
+      "url": "https://en.wikipedia.org/wiki/Nana_Patekar",
       "kind": "single"
     },
     {
-      "title": "morluto/rea",
-      "gist": "A tool for reverse engineering apps and binaries with agents, up 4,655 stars today at the top of GitHub trending.",
+      "title": "boykopovar/AnyPS5",
+      "gist": "The fastest-rising project on GitHub, a tool for porting PS5 executables to Linux and Windows, up 4,669 stars in a single day.",
       "sources": [
         "github"
       ],
-      "url": "https://github.com/morluto/rea",
+      "url": "https://github.com/boykopovar/AnyPS5",
       "kind": "single"
     }
   ],
-  "strength": 28,
+  "strength": 29,
   "live_sources": 17,
   "total_sources": 17,
   "dashboard_url": "https://nnnsightnnn.github.io/web-pulse/",
