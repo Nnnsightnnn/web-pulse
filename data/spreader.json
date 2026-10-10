@@ -1,38 +1,38 @@
 {
-  "date": "2026-10-09",
-  "generated_at": "2026-10-09T05:18:40.991Z",
-  "lede": "The web ran quiet this Friday, October 9: just one story surfaced on more than one feed at once, Grand Theft Auto V Legacy landing on both Steam's charts and YouTube's trending videos the same day. Otherwise the day's attention scattered across unrelated corners. The most-read article on Wikipedia was Nana Patekar, close to 1.67 million views, and on GitHub the fastest-rising project was AnyPS5, a tool for porting PS5 executables to Linux and Windows, up 4,669 stars in a single day.",
+  "date": "2026-10-10",
+  "generated_at": "2026-10-10T05:17:14.462Z",
+  "lede": "The clearest signal on Saturday was one project showing up in two places at once: morluto/rea, an agent tool that reverse engineers software down to native binaries, topped GitHub trending with 14,927 stars in a day and sat second on Hacker News. The largest raw number of the day belonged to Counter-Strike 2, which held 1,244,028 players at once on Steam. Hacker News gave Cloudflare's acquisition of Deno 1,131 points, and Wikipedia's most-read article was Nidal Hasan at 787,247 views.",
   "throughlines": [
     {
-      "title": "Grand Theft Auto V Legacy",
-      "gist": "The only story to cross feeds today, turning up on Steam's top sellers and YouTube's trending list at the same time.",
+      "title": "Shanghai Rolex Masters: Camilo Ugo Carabelli vs Felix Auger-Aliassime",
+      "gist": "A Shanghai Masters match that turned up on Google Trends and in Polymarket's markets at the same time, the day's only genuine cross-feed cluster.",
       "sources": [
-        "steam",
-        "youtube"
+        "google-trends",
+        "polymarket"
       ],
-      "url": "https://store.steampowered.com/app/271590",
+      "url": "https://www.atptour.com/en/players/atp-head-2-head/ugo-carabelli-ugo-carabelli-vs-auger-aliassime-auger-aliassime/u182/ag37",
       "kind": "cluster"
     },
     {
-      "title": "Nana Patekar",
-      "gist": "The day's most-read Wikipedia article, drawing close to 1.67 million views.",
+      "title": "Nidal Hasan",
+      "gist": "The day's most-read Wikipedia article, with 787,247 views.",
       "sources": [
         "wikipedia"
       ],
-      "url": "https://en.wikipedia.org/wiki/Nana_Patekar",
+      "url": "https://en.wikipedia.org/wiki/Nidal_Hasan",
       "kind": "single"
     },
     {
-      "title": "boykopovar/AnyPS5",
-      "gist": "The fastest-rising project on GitHub, a tool for porting PS5 executables to Linux and Windows, up 4,669 stars in a single day.",
+      "title": "morluto/rea",
+      "gist": "An agent-driven reverse-engineering tool that led GitHub trending with 14,927 stars in a single day.",
       "sources": [
         "github"
       ],
-      "url": "https://github.com/boykopovar/AnyPS5",
+      "url": "https://github.com/morluto/rea",
       "kind": "single"
     }
   ],
-  "strength": 29,
+  "strength": 28,
   "live_sources": 17,
   "total_sources": 17,
   "dashboard_url": "https://nnnsightnnn.github.io/web-pulse/",
