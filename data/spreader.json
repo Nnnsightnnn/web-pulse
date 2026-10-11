@@ -1,38 +1,37 @@
 {
-  "date": "2026-10-10",
-  "generated_at": "2026-10-10T05:17:14.462Z",
-  "lede": "The clearest signal on Saturday was one project showing up in two places at once: morluto/rea, an agent tool that reverse engineers software down to native binaries, topped GitHub trending with 14,927 stars in a day and sat second on Hacker News. The largest raw number of the day belonged to Counter-Strike 2, which held 1,244,028 players at once on Steam. Hacker News gave Cloudflare's acquisition of Deno 1,131 points, and Wikipedia's most-read article was Nidal Hasan at 787,247 views.",
+  "date": "2026-10-11",
+  "generated_at": "2026-10-11T05:17:01.510Z",
+  "lede": "Seventeen feeds, and not one topic crossed between them this Sunday, October 11. The pulse reads 15 out of 100, a genuinely fragmented day where attention pooled narrowly rather than gathering anywhere. On GitHub, a newcomer called morluto/rea topped the trending list by collecting close to 26,000 stars in a single day, and over on Wikipedia the most-read page was, of all things, Mathematics at 420,000 views.",
   "throughlines": [
     {
-      "title": "Shanghai Rolex Masters: Camilo Ugo Carabelli vs Felix Auger-Aliassime",
-      "gist": "A Shanghai Masters match that turned up on Google Trends and in Polymarket's markets at the same time, the day's only genuine cross-feed cluster.",
-      "sources": [
-        "google-trends",
-        "polymarket"
-      ],
-      "url": "https://www.atptour.com/en/players/atp-head-2-head/ugo-carabelli-ugo-carabelli-vs-auger-aliassime-auger-aliassime/u182/ag37",
-      "kind": "cluster"
-    },
-    {
-      "title": "Nidal Hasan",
-      "gist": "The day's most-read Wikipedia article, with 787,247 views.",
+      "title": "Mathematics",
+      "gist": "The most-read article on Wikipedia today at 420,000 views, edging out a companion List of equations page sitting just behind it.",
       "sources": [
         "wikipedia"
       ],
-      "url": "https://en.wikipedia.org/wiki/Nidal_Hasan",
+      "url": "https://en.wikipedia.org/wiki/Mathematics",
       "kind": "single"
     },
     {
       "title": "morluto/rea",
-      "gist": "An agent-driven reverse-engineering tool that led GitHub trending with 14,927 stars in a single day.",
+      "gist": "A repository that topped GitHub's trending board by gathering roughly 25,800 stars in a single day, the fastest climb on the list.",
       "sources": [
         "github"
       ],
       "url": "https://github.com/morluto/rea",
       "kind": "single"
+    },
+    {
+      "title": "WallHop – 12ft.io is gone, so I built a replacement",
+      "gist": "A developer's homegrown replacement for the now-defunct 12ft.io paywall skipper, leading Hacker News with 191 points and 85 comments.",
+      "sources": [
+        "hackernews"
+      ],
+      "url": "https://wallhop.io/",
+      "kind": "single"
     }
   ],
-  "strength": 28,
+  "strength": 15,
   "live_sources": 17,
   "total_sources": 17,
   "dashboard_url": "https://nnnsightnnn.github.io/web-pulse/",
