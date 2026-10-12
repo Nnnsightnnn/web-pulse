@@ -1,37 +1,39 @@
 {
-  "date": "2026-10-11",
-  "generated_at": "2026-10-11T05:17:01.510Z",
-  "lede": "Seventeen feeds, and not one topic crossed between them this Sunday, October 11. The pulse reads 15 out of 100, a genuinely fragmented day where attention pooled narrowly rather than gathering anywhere. On GitHub, a newcomer called morluto/rea topped the trending list by collecting close to 26,000 stars in a single day, and over on Wikipedia the most-read page was, of all things, Mathematics at 420,000 views.",
+  "date": "2026-10-12",
+  "generated_at": "2026-10-12T05:18:22.704Z",
+  "lede": "The web split its attention on Monday, October 12, with no single story taking over. The clearest cross-feed signal was tennis: Felix Auger-Aliassime trended on Google search at the same time Polymarket ran a live market on his Shanghai Rolex Masters match. The biggest raw numbers sat elsewhere, with Counter-Strike 2 holding more than 1.4 million concurrent players on Steam and Wikipedia's most-read page, Money in the Bank (2026), drawing about 249,000 views in a near dead heat with Mathematics just behind it.",
   "throughlines": [
     {
-      "title": "Mathematics",
-      "gist": "The most-read article on Wikipedia today at 420,000 views, edging out a companion List of equations page sitting just behind it.",
+      "title": "felix auger aliassime",
+      "gist": "Auger-Aliassime trended on Google search while Polymarket ran a live betting market on his Shanghai Rolex Masters match against Pablo Carreno Busta.",
+      "sources": [
+        "google-trends",
+        "polymarket"
+      ],
+      "url": "https://sports.yahoo.com/articles/just-crazy-behavior-fans-stunned-002214601.html",
+      "kind": "cluster"
+    },
+    {
+      "title": "san antonio",
+      "gist": "A coincidence of names: a fatal highway crash in San Antonio, Texas trended on Google while USGS logged an earthquake near San Antonio de los Cobres, Argentina.",
+      "sources": [
+        "google-trends",
+        "usgs"
+      ],
+      "url": "https://www.ksat.com/news/local/2026/10/11/22-year-old-passenger-killed-in-1604-crash-driver-found-intoxicated-san-antonio-police-say/",
+      "kind": "cluster"
+    },
+    {
+      "title": "Money in the Bank (2026)",
+      "gist": "The WWE event was Wikipedia's most-read article at about 249,000 views, narrowly ahead of Mathematics and List of equations.",
       "sources": [
         "wikipedia"
       ],
-      "url": "https://en.wikipedia.org/wiki/Mathematics",
-      "kind": "single"
-    },
-    {
-      "title": "morluto/rea",
-      "gist": "A repository that topped GitHub's trending board by gathering roughly 25,800 stars in a single day, the fastest climb on the list.",
-      "sources": [
-        "github"
-      ],
-      "url": "https://github.com/morluto/rea",
-      "kind": "single"
-    },
-    {
-      "title": "WallHop – 12ft.io is gone, so I built a replacement",
-      "gist": "A developer's homegrown replacement for the now-defunct 12ft.io paywall skipper, leading Hacker News with 191 points and 85 comments.",
-      "sources": [
-        "hackernews"
-      ],
-      "url": "https://wallhop.io/",
+      "url": "https://en.wikipedia.org/wiki/Money_in_the_Bank_(2026)",
       "kind": "single"
     }
   ],
-  "strength": 15,
+  "strength": 53,
   "live_sources": 17,
   "total_sources": 17,
   "dashboard_url": "https://nnnsightnnn.github.io/web-pulse/",
