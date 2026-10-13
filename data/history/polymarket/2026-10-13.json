@@ -1,0 +1,457 @@
+{
+  "source": "polymarket",
+  "label": "Polymarket — top 24h volume",
+  "fetched_at": "2026-10-13T05:17:24.627Z",
+  "items": [
+    {
+      "rank": 1,
+      "title": "Will the Fed decrease interest rates by 25 bps after the October 2026 meeting?",
+      "url": "https://polymarket.com/event/fed-decision-in-october-20260617190323537",
+      "volume_24h": 488563.1349499999,
+      "volume_total": 6576122.518283998,
+      "liquidity": 410243.58468,
+      "yes_price": 0.0055,
+      "leader": {
+        "name": "No",
+        "price": 0.9945
+      },
+      "end_date": "2026-10-29T03:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?",
+      "url": "https://polymarket.com/event/uefa-champions-league-2027-champion-20260701202025549",
+      "volume_24h": 425667.284,
+      "volume_total": 29728830.055999994,
+      "liquidity": 459101.07191,
+      "yes_price": 0.0015,
+      "leader": {
+        "name": "No",
+        "price": 0.9985
+      },
+      "end_date": "2027-05-30T23:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Will Club Atlético de Madrid win on 2026-10-13?",
+      "url": "https://polymarket.com/event/ucl-atm-mnu-2026-10-13",
+      "volume_24h": 400450.7106100001,
+      "volume_total": 440325.5058230001,
+      "liquidity": 361967.2222,
+      "yes_price": 0.485,
+      "leader": {
+        "name": "No",
+        "price": 0.515
+      },
+      "end_date": "2026-10-13T19:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Wuhan Tennis Open: Katerina Siniakova vs Liudmila Samsonova",
+      "url": "https://polymarket.com/event/wta-siniako-samsono-2026-10-11",
+      "volume_24h": 338790.81946800015,
+      "volume_total": 338632.2999890003,
+      "liquidity": 42362.46889,
+      "yes_price": 0.06,
+      "leader": {
+        "name": "Liudmila Samsonova",
+        "price": 0.94
+      },
+      "end_date": "2026-10-19T02:00:00Z",
+      "outcomes": [
+        "Katerina Siniakova",
+        "Liudmila Samsonova"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Will the US confirm that aliens exist before 2027?",
+      "url": "https://polymarket.com/event/will-the-us-confirm-that-aliens-exist-before-2027",
+      "volume_24h": 330441.365156,
+      "volume_total": 41341151.94615498,
+      "liquidity": 493249.20959,
+      "yes_price": 0.0465,
+      "leader": {
+        "name": "No",
+        "price": 0.9535
+      },
+      "end_date": "2027-01-01T04:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Will Raphael Warnock win the 2028 Democratic presidential nomination?",
+      "url": "https://polymarket.com/event/democratic-presidential-nominee-2028",
+      "volume_24h": 329408.533014,
+      "volume_total": 34141820.380552,
+      "liquidity": 408464.43271,
+      "yes_price": 0.0175,
+      "leader": {
+        "name": "No",
+        "price": 0.9825
+      },
+      "end_date": "2028-11-08T04:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Will the U.S. invade Iran before 2027?",
+      "url": "https://polymarket.com/event/will-the-us-invade-iran-before-2027",
+      "volume_24h": 317559.820153,
+      "volume_total": 73843811.9083,
+      "liquidity": 728649.9032,
+      "yes_price": 0.175,
+      "leader": {
+        "name": "No",
+        "price": 0.825
+      },
+      "end_date": "2027-01-01T04:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "US x Yemen ceasefire continues through October 15?",
+      "url": "https://polymarket.com/event/us-yemen-ceasefire-continues-throughptptpt",
+      "volume_24h": 313285.85138600005,
+      "volume_total": 461174.08774,
+      "liquidity": 446474.28024,
+      "yes_price": 0.969,
+      "leader": {
+        "name": "Yes",
+        "price": 0.969
+      },
+      "end_date": "2026-10-15T23:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "LoL: HANJIN BRION vs LGD Gaming (BO5) - Demacia Cup Global Invitational Playoffs",
+      "url": "https://polymarket.com/event/lol-bro2-lgd-2026-10-13",
+      "volume_24h": 304083.9902019999,
+      "volume_total": 316734.88666500035,
+      "liquidity": 241841.5868,
+      "yes_price": 0.475,
+      "leader": {
+        "name": "LGD Gaming",
+        "price": 0.525
+      },
+      "end_date": "2026-10-13T15:00:00Z",
+      "outcomes": [
+        "HANJIN BRION",
+        "LGD Gaming"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Will Trump say \"Ammunition\" this week?",
+      "url": "https://polymarket.com/event/what-will-trump-say-this-week-october-5-october-11-20261011",
+      "volume_24h": 299628.53924199997,
+      "volume_total": 300391.58716500003,
+      "liquidity": 16406.86912,
+      "yes_price": 0.0075,
+      "leader": {
+        "name": "No",
+        "price": 0.9925
+      },
+      "end_date": "2026-10-11T23:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 11,
+      "title": "Will there be a Hormuz agreement and the Republicans win the Senate?",
+      "url": "https://polymarket.com/event/who-wins-the-senate-pending-hormuz-agreement",
+      "volume_24h": 294361.8751029999,
+      "volume_total": 555306.6851799999,
+      "liquidity": 482559.76332,
+      "yes_price": 0.0535,
+      "leader": {
+        "name": "No",
+        "price": 0.9465
+      },
+      "end_date": "2026-11-04T04:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 12,
+      "title": "Wuhan Tennis Open: Dayana Yastremska vs Cristina Bucsa",
+      "url": "https://polymarket.com/event/wta-yastrem-bucsa-2026-10-11",
+      "volume_24h": 269980.2210140003,
+      "volume_total": 269678.5468209998,
+      "liquidity": 131556.87718,
+      "yes_price": 0.924,
+      "leader": {
+        "name": "Dayana Yastremska",
+        "price": 0.924
+      },
+      "end_date": "2026-10-19T02:00:00Z",
+      "outcomes": [
+        "Dayana Yastremska",
+        "Cristina Bucsa"
+      ]
+    },
+    {
+      "rank": 13,
+      "title": "US x Iran ceasefire continues through October 15?",
+      "url": "https://polymarket.com/event/us-iran-ceasefire-continues-throughptptpt",
+      "volume_24h": 257387.571099,
+      "volume_total": 1349913.4655370007,
+      "liquidity": 408425.44009,
+      "yes_price": 0.968,
+      "leader": {
+        "name": "Yes",
+        "price": 0.968
+      },
+      "end_date": "2026-10-16T03:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 14,
+      "title": "2026 Balance of Power: D Senate, R House",
+      "url": "https://polymarket.com/event/balance-of-power-2026-midterms",
+      "volume_24h": 251629.73351400005,
+      "volume_total": 3919722.559034,
+      "liquidity": 474409.58493,
+      "yes_price": 0.011,
+      "leader": {
+        "name": "No",
+        "price": 0.989
+      },
+      "end_date": "2026-11-04T04:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 15,
+      "title": "LoL: Team WE vs FlyQuest (BO5) - Demacia Cup Global Invitational Playoffs",
+      "url": "https://polymarket.com/event/lol-we-fly-2026-10-13",
+      "volume_24h": 245042.811305,
+      "volume_total": 254250.65278700003,
+      "liquidity": 190946.5665,
+      "yes_price": 0.795,
+      "leader": {
+        "name": "Team WE",
+        "price": 0.795
+      },
+      "end_date": "2026-10-13T12:00:00Z",
+      "outcomes": [
+        "Team WE",
+        "FlyQuest"
+      ]
+    },
+    {
+      "rank": 16,
+      "title": "Shanghai Rolex Masters: Alex de Minaur vs Karen Khachanov",
+      "url": "https://polymarket.com/event/atp-minaur-khachan-2026-10-13",
+      "volume_24h": 186320.99681500014,
+      "volume_total": 185574.12681499997,
+      "liquidity": 171879.6766,
+      "yes_price": 0.965,
+      "leader": {
+        "name": "Alex de Minaur",
+        "price": 0.965
+      },
+      "end_date": "2026-10-21T02:00:00Z",
+      "outcomes": [
+        "Alex de Minaur",
+        "Karen Khachanov"
+      ]
+    },
+    {
+      "rank": 17,
+      "title": "Wuhan Tennis Open: Kimberly Birrell vs Katie Volynets",
+      "url": "https://polymarket.com/event/wta-birrell-volynet-2026-10-12",
+      "volume_24h": 165103.1454439999,
+      "volume_total": 165157.10637999992,
+      "liquidity": 82470.596,
+      "yes_price": 0.655,
+      "leader": {
+        "name": "Kimberly Birrell",
+        "price": 0.655
+      },
+      "end_date": "2026-10-20T02:00:00Z",
+      "outcomes": [
+        "Kimberly Birrell",
+        "Katie Volynets"
+      ]
+    },
+    {
+      "rank": 18,
+      "title": "Will Jeremiah Smith win the 2026 Heisman Trophy?",
+      "url": "https://polymarket.com/event/ncaa-football-2026-heisman-award-winner-20260731185656435",
+      "volume_24h": 150509.53204599998,
+      "volume_total": 213094.80436499996,
+      "liquidity": 9736.3241,
+      "yes_price": 0.58,
+      "leader": {
+        "name": "Yes",
+        "price": 0.58
+      },
+      "end_date": null,
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 19,
+      "title": "US announces end of Iranian blockade by October 15, 2026?",
+      "url": "https://polymarket.com/event/us-announces-end-of-iranian-blockade-byptptpt-20260713152715080",
+      "volume_24h": 147639.932981,
+      "volume_total": 3129191.506516997,
+      "liquidity": 247283.50173,
+      "yes_price": 0.029,
+      "leader": {
+        "name": "No",
+        "price": 0.971
+      },
+      "end_date": "2026-10-16T03:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 20,
+      "title": "Will the price of Bitcoin be above $82,000 on October 13?",
+      "url": "https://polymarket.com/event/bitcoin-above-on-october-13-2026",
+      "volume_24h": 132000.081304,
+      "volume_total": 161057.91945900008,
+      "liquidity": 44317.8147,
+      "yes_price": 0.925,
+      "leader": {
+        "name": "Yes",
+        "price": 0.925
+      },
+      "end_date": "2026-10-13T16:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 21,
+      "title": "Will Erling Haaland win the 2026 Ballon d'Or?",
+      "url": "https://polymarket.com/event/ballon-dor-winner-2026",
+      "volume_24h": 118228.62800000001,
+      "volume_total": 2752738.376166999,
+      "liquidity": 352409.8103,
+      "yes_price": 0.0015,
+      "leader": {
+        "name": "No",
+        "price": 0.9985
+      },
+      "end_date": "2027-01-01T04:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 22,
+      "title": "Will Villarreal win the 2026-27 LALIGA Championship?",
+      "url": "https://polymarket.com/event/laliga-2027-champion-20260701200737375",
+      "volume_24h": 106273.05149999999,
+      "volume_total": 1032115.3438120001,
+      "liquidity": 262211.78364,
+      "yes_price": 0.0025,
+      "leader": {
+        "name": "No",
+        "price": 0.9975
+      },
+      "end_date": "2027-06-15T03:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 23,
+      "title": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
+      "url": "https://polymarket.com/event/brazil-presidential-election",
+      "volume_24h": 104484.99494399995,
+      "volume_total": 19680563.965480007,
+      "liquidity": 984336.18489,
+      "yes_price": 0.8735,
+      "leader": {
+        "name": "Yes",
+        "price": 0.8735
+      },
+      "end_date": "2026-10-05T03:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 24,
+      "title": "Will Bitcoin reach $150,000 in October?",
+      "url": "https://polymarket.com/event/what-price-will-bitcoin-hit-in-october-2026",
+      "volume_24h": 103080.97600000001,
+      "volume_total": 509353.44354400015,
+      "liquidity": 166726.25466,
+      "yes_price": 0.0015,
+      "leader": {
+        "name": "No",
+        "price": 0.9985
+      },
+      "end_date": "2026-11-01T04:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 25,
+      "title": "NATO x Russia military clash by December 31, 2026?",
+      "url": "https://polymarket.com/event/nato-x-russia-military-clash-in-2025",
+      "volume_24h": 101651.19493599999,
+      "volume_total": 2656727.9072860014,
+      "liquidity": 95680.2683,
+      "yes_price": 0.235,
+      "leader": {
+        "name": "No",
+        "price": 0.765
+      },
+      "end_date": "2027-01-01T04:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    }
+  ]
+}

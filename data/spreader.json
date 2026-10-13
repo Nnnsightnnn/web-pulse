@@ -1,40 +1,39 @@
 {
-  "date": "2026-10-12",
-  "generated_at": "2026-10-12T05:18:22.704Z",
-  "lede": "The web split its attention on Monday, October 12, with no single story taking over. The clearest cross-feed signal was tennis: Felix Auger-Aliassime trended on Google search at the same time Polymarket ran a live market on his Shanghai Rolex Masters match. The biggest raw numbers sat elsewhere, with Counter-Strike 2 holding more than 1.4 million concurrent players on Steam and Wikipedia's most-read page, Money in the Bank (2026), drawing about 249,000 views in a near dead heat with Mathematics just behind it.",
+  "date": "2026-10-13",
+  "generated_at": "2026-10-13T05:18:14.367Z",
+  "lede": "The day's one real cross-feed story is a security one: a cyberattack reached the refrigeration systems of supermarkets across Europe, forcing freezers into automatic defrost cycles and, by the reporting, disrupting deliveries and prices. It surfaced on Hacker News and Lemmy at the same time, the only item today to land on two feeds at once. Elsewhere attention scattered: Wikipedia's most-read article pulled more than 1.4 million views in a day, and on Steam, Counter-Strike 2 held over 1.2 million players at once.",
   "throughlines": [
     {
-      "title": "felix auger aliassime",
-      "gist": "Auger-Aliassime trended on Google search while Polymarket ran a live betting market on his Shanghai Rolex Masters match against Pablo Carreno Busta.",
+      "title": "Hackers activate automatic defrosting in supermarket fridges across Europe",
+      "gist": "A cyberattack hit supermarket refrigeration across Europe, triggering automatic defrost cycles and, per the reports, touching deliveries and prices; it was the only story today to cross two feeds.",
       "sources": [
-        "google-trends",
-        "polymarket"
+        "hackernews",
+        "lemmy"
       ],
-      "url": "https://sports.yahoo.com/articles/just-crazy-behavior-fans-stunned-002214601.html",
+      "url": "https://news.ycombinator.com/item?id=50055304",
       "kind": "cluster"
     },
     {
-      "title": "san antonio",
-      "gist": "A coincidence of names: a fatal highway crash in San Antonio, Texas trended on Google while USGS logged an earthquake near San Antonio de los Cobres, Argentina.",
-      "sources": [
-        "google-trends",
-        "usgs"
-      ],
-      "url": "https://www.ksat.com/news/local/2026/10/11/22-year-old-passenger-killed-in-1604-crash-driver-found-intoxicated-san-antonio-police-say/",
-      "kind": "cluster"
-    },
-    {
-      "title": "Money in the Bank (2026)",
-      "gist": "The WWE event was Wikipedia's most-read article at about 249,000 views, narrowly ahead of Mathematics and List of equations.",
+      "title": "RJ Mitte",
+      "gist": "RJ Mitte was the most-read article on Wikipedia today at just over 1.4 million views, roughly six times the next name on the list.",
       "sources": [
         "wikipedia"
       ],
-      "url": "https://en.wikipedia.org/wiki/Money_in_the_Bank_(2026)",
+      "url": "https://en.wikipedia.org/wiki/RJ_Mitte",
+      "kind": "single"
+    },
+    {
+      "title": "morluto/rea",
+      "gist": "morluto/rea topped GitHub trending with about 45,300 new stars in a day, more than a quarter of its all-time total, a sign of a sharp recent surge.",
+      "sources": [
+        "github"
+      ],
+      "url": "https://github.com/morluto/rea",
       "kind": "single"
     }
   ],
-  "strength": 53,
-  "live_sources": 17,
+  "strength": 31,
+  "live_sources": 16,
   "total_sources": 17,
   "dashboard_url": "https://nnnsightnnn.github.io/web-pulse/",
   "engine": "ai"
