@@ -1,21 +1,21 @@
 {
-  "date": "2026-10-13",
-  "generated_at": "2026-10-13T05:18:14.367Z",
-  "lede": "The day's one real cross-feed story is a security one: a cyberattack reached the refrigeration systems of supermarkets across Europe, forcing freezers into automatic defrost cycles and, by the reporting, disrupting deliveries and prices. It surfaced on Hacker News and Lemmy at the same time, the only item today to land on two feeds at once. Elsewhere attention scattered: Wikipedia's most-read article pulled more than 1.4 million views in a day, and on Steam, Counter-Strike 2 held over 1.2 million players at once.",
+  "date": "2026-10-14",
+  "generated_at": "2026-10-14T05:17:45.576Z",
+  "lede": "The loudest signal on Wednesday came from a single GitHub repository. morluto/rea, a tool for reverse engineering software with AI agents, picked up roughly 54,700 stars in one day, far ahead of anything else on the trending list. The one topic the feeds actually shared was smaller and stranger: a Shanghai Rolex Masters match between Botic van de Zandschulp and Rafael Jodar that surfaced on both Google Trends and Polymarket at once. Elsewhere attention split along familiar lines, with RJ Mitte topping Wikipedia at about 2.1 million views and Counter-Strike 2 holding the top of Steam at over 1.2 million concurrent players.",
   "throughlines": [
     {
-      "title": "Hackers activate automatic defrosting in supermarket fridges across Europe",
-      "gist": "A cyberattack hit supermarket refrigeration across Europe, triggering automatic defrost cycles and, per the reports, touching deliveries and prices; it was the only story today to cross two feeds.",
+      "title": "botic van de zandschulp",
+      "gist": "A Shanghai Rolex Masters match between Botic van de Zandschulp and Rafael Jodar, the rare story that showed up on both Google Trends and a Polymarket market the same day.",
       "sources": [
-        "hackernews",
-        "lemmy"
+        "google-trends",
+        "polymarket"
       ],
-      "url": "https://news.ycombinator.com/item?id=50055304",
+      "url": "https://sports.yahoo.com/articles/andy-roddick-unfiltered-frances-tiafoe-200423404.html",
       "kind": "cluster"
     },
     {
       "title": "RJ Mitte",
-      "gist": "RJ Mitte was the most-read article on Wikipedia today at just over 1.4 million views, roughly six times the next name on the list.",
+      "gist": "The day's most-read Wikipedia article at roughly 2.1 million views, the single clearest spike of attention in the set.",
       "sources": [
         "wikipedia"
       ],
@@ -24,7 +24,7 @@
     },
     {
       "title": "morluto/rea",
-      "gist": "morluto/rea topped GitHub trending with about 45,300 new stars in a day, more than a quarter of its all-time total, a sign of a sharp recent surge.",
+      "gist": "An AI-agent tool for reverse engineering software, from app behavior down to native binaries, that pulled about 54,700 stars in a single day to lead GitHub trending.",
       "sources": [
         "github"
       ],
@@ -32,8 +32,8 @@
       "kind": "single"
     }
   ],
-  "strength": 31,
-  "live_sources": 16,
+  "strength": 47,
+  "live_sources": 15,
   "total_sources": 17,
   "dashboard_url": "https://nnnsightnnn.github.io/web-pulse/",
   "engine": "ai"
