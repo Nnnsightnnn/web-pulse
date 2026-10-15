@@ -1,30 +1,31 @@
 {
-  "date": "2026-10-14",
-  "generated_at": "2026-10-14T05:17:45.576Z",
-  "lede": "The loudest signal on Wednesday came from a single GitHub repository. morluto/rea, a tool for reverse engineering software with AI agents, picked up roughly 54,700 stars in one day, far ahead of anything else on the trending list. The one topic the feeds actually shared was smaller and stranger: a Shanghai Rolex Masters match between Botic van de Zandschulp and Rafael Jodar that surfaced on both Google Trends and Polymarket at once. Elsewhere attention split along familiar lines, with RJ Mitte topping Wikipedia at about 2.1 million views and Counter-Strike 2 holding the top of Steam at over 1.2 million concurrent players.",
+  "date": "2026-10-15",
+  "generated_at": "2026-10-15T05:16:52.728Z",
+  "lede": "Netflix's trailer for Narnia: The Magician's Nephew is the day's strongest cross-feed story, pulling 24,495,690 views on YouTube while the film also drew readers to its Wikipedia page. A quieter thread runs through AI tooling: Liquid's LFM2.5-24B-A2B, a compact model built for fast on-device agents, surfaced on both Hacker News and Hugging Face. On GitHub, a repository called morluto/rea added 41,034 stars in a single day to sit atop the trending list.",
   "throughlines": [
     {
-      "title": "botic van de zandschulp",
-      "gist": "A Shanghai Rolex Masters match between Botic van de Zandschulp and Rafael Jodar, the rare story that showed up on both Google Trends and a Polymarket market the same day.",
+      "title": "NARNIA: THE MAGICIAN’S NEPHEW | Official Trailer | Netflix",
+      "gist": "Netflix's official trailer for the next Narnia film, drawing attention on both YouTube and Wikipedia at once, the day's clearest crossover from a single feed into general interest.",
       "sources": [
-        "google-trends",
-        "polymarket"
+        "wikipedia",
+        "youtube"
       ],
-      "url": "https://sports.yahoo.com/articles/andy-roddick-unfiltered-frances-tiafoe-200423404.html",
+      "url": "https://en.wikipedia.org/wiki/Narnia%3A_The_Magician's_Nephew",
       "kind": "cluster"
     },
     {
-      "title": "RJ Mitte",
-      "gist": "The day's most-read Wikipedia article at roughly 2.1 million views, the single clearest spike of attention in the set.",
+      "title": "LFM2.5-24B-A2B: Built for fast on-device agents",
+      "gist": "A compact 24B model from Liquid AI aimed at fast on-device agents, showing up on both Hacker News and Hugging Face, a sign of where builder attention is pooling right now.",
       "sources": [
-        "wikipedia"
+        "hackernews",
+        "huggingface"
       ],
-      "url": "https://en.wikipedia.org/wiki/RJ_Mitte",
-      "kind": "single"
+      "url": "https://news.ycombinator.com/item?id=50097369",
+      "kind": "cluster"
     },
     {
       "title": "morluto/rea",
-      "gist": "An AI-agent tool for reverse engineering software, from app behavior down to native binaries, that pulled about 54,700 stars in a single day to lead GitHub trending.",
+      "gist": "A repository that gained 41,034 stars in one day to top GitHub trending, the kind of single-day spike that usually marks a tool catching fire.",
       "sources": [
         "github"
       ],
@@ -32,8 +33,8 @@
       "kind": "single"
     }
   ],
-  "strength": 47,
-  "live_sources": 15,
+  "strength": 71,
+  "live_sources": 17,
   "total_sources": 17,
   "dashboard_url": "https://nnnsightnnn.github.io/web-pulse/",
   "engine": "ai"

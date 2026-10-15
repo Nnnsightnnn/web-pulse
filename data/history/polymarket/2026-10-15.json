@@ -1,0 +1,457 @@
+{
+  "source": "polymarket",
+  "label": "Polymarket — top 24h volume",
+  "fetched_at": "2026-10-15T05:16:12.360Z",
+  "items": [
+    {
+      "rank": 1,
+      "title": "Will there be no change in Fed interest rates after the October 2026 meeting?",
+      "url": "https://polymarket.com/event/fed-decision-in-october-20260617190323537",
+      "volume_24h": 2698891.770717996,
+      "volume_total": 12021879.520882996,
+      "liquidity": 190442.8029,
+      "yes_price": 0.745,
+      "leader": {
+        "name": "Yes",
+        "price": 0.745
+      },
+      "end_date": "2026-10-29T03:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Will Indiana enact a data center moratorium by December 31, 2027?",
+      "url": "https://polymarket.com/event/indiana-enacts-data-center-moratorium-by-20260929",
+      "volume_24h": 2132919.12871,
+      "volume_total": 4765144.754669,
+      "liquidity": 460642.9839,
+      "yes_price": 0.135,
+      "leader": {
+        "name": "No",
+        "price": 0.865
+      },
+      "end_date": "2028-01-01T04:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Wuhan Tennis Open: Karolina Muchova vs Diana Shnaider",
+      "url": "https://polymarket.com/event/wta-muchova-shnaide-2026-10-14",
+      "volume_24h": 845560.1642029997,
+      "volume_total": 839776.6042030003,
+      "liquidity": 194970.29844,
+      "yes_price": 0.0005,
+      "leader": {
+        "name": "Diana Shnaider",
+        "price": 0.9995
+      },
+      "end_date": "2026-10-22T02:00:00Z",
+      "outcomes": [
+        "Karolina Muchova",
+        "Diana Shnaider"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Nuggets vs. Clippers",
+      "url": "https://polymarket.com/event/nba-den-lac-2026-10-14",
+      "volume_24h": 586197.0284490001,
+      "volume_total": 586258.8726039997,
+      "liquidity": 440809.94465,
+      "yes_price": 0.0005,
+      "leader": {
+        "name": "Clippers",
+        "price": 0.9995
+      },
+      "end_date": "2026-10-15T02:30:00Z",
+      "outcomes": [
+        "Nuggets",
+        "Clippers"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Will the Democratic Party control the House after the 2026 Midterm elections?",
+      "url": "https://polymarket.com/event/which-party-will-win-the-house-in-2026",
+      "volume_24h": 462978.382458,
+      "volume_total": 9849488.727203999,
+      "liquidity": 2495666.9952,
+      "yes_price": 0.905,
+      "leader": {
+        "name": "Yes",
+        "price": 0.905
+      },
+      "end_date": "2026-11-04T04:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?",
+      "url": "https://polymarket.com/event/uefa-champions-league-2027-champion-20260701202025549",
+      "volume_24h": 421620.96,
+      "volume_total": 30578125.258999996,
+      "liquidity": 478421.28196,
+      "yes_price": 0.0015,
+      "leader": {
+        "name": "No",
+        "price": 0.9985
+      },
+      "end_date": "2027-05-30T23:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Will the Arizona Cardinals win the 2027 NFL league championship?",
+      "url": "https://polymarket.com/event/pro-football-2027-champion-20260729185915366",
+      "volume_24h": 415817.36999999994,
+      "volume_total": 2085139.895150999,
+      "liquidity": 266912.28759,
+      "yes_price": 0.0025,
+      "leader": {
+        "name": "No",
+        "price": 0.9975
+      },
+      "end_date": "2027-04-01T03:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Will Benjamin Netanyahu be the next Prime Minister of Israel?",
+      "url": "https://polymarket.com/event/who-will-be-the-next-prime-minister-of-israel-after-the-next-election",
+      "volume_24h": 377997.333562,
+      "volume_total": 7461160.424522001,
+      "liquidity": 449574.7436,
+      "yes_price": 0.275,
+      "leader": {
+        "name": "No",
+        "price": 0.725
+      },
+      "end_date": "2026-10-28T03:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Will Flávio Bolsonaro win the 2026 Brazilian presidential election?",
+      "url": "https://polymarket.com/event/brazil-presidential-election",
+      "volume_24h": 372411.756632,
+      "volume_total": 20239653.468947005,
+      "liquidity": 692545.18634,
+      "yes_price": 0.8295,
+      "leader": {
+        "name": "Yes",
+        "price": 0.8295
+      },
+      "end_date": "2026-10-05T03:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "US x Iran ceasefire continues through October 31?",
+      "url": "https://polymarket.com/event/us-iran-ceasefire-continues-throughptptpt",
+      "volume_24h": 315249.616387,
+      "volume_total": 2957700.3455479993,
+      "liquidity": 507366.7222,
+      "yes_price": 0.795,
+      "leader": {
+        "name": "Yes",
+        "price": 0.795
+      },
+      "end_date": "2026-10-31T23:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 11,
+      "title": "2026 Balance of Power: D Senate, D House",
+      "url": "https://polymarket.com/event/balance-of-power-2026-midterms",
+      "volume_24h": 252736.54967600002,
+      "volume_total": 5568553.084442001,
+      "liquidity": 3083346.4053,
+      "yes_price": 0.625,
+      "leader": {
+        "name": "Yes",
+        "price": 0.625
+      },
+      "end_date": "2026-11-04T04:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 12,
+      "title": "LoL: Team WE vs HANJIN BRION (BO5) - Demacia Cup Global Invitational Playoffs",
+      "url": "https://polymarket.com/event/lol-we-bro2-2026-10-15",
+      "volume_24h": 249201.99187700005,
+      "volume_total": 283978.78729400004,
+      "liquidity": 327385.8747,
+      "yes_price": 0.435,
+      "leader": {
+        "name": "HANJIN BRION",
+        "price": 0.565
+      },
+      "end_date": "2026-10-15T15:00:00Z",
+      "outcomes": [
+        "Team WE",
+        "HANJIN BRION"
+      ]
+    },
+    {
+      "rank": 13,
+      "title": "Will Glenn Youngkin win the 2028 US Presidential Election?",
+      "url": "https://polymarket.com/event/presidential-election-winner-2028",
+      "volume_24h": 219932.876,
+      "volume_total": 28547832.352643006,
+      "liquidity": 705006.71919,
+      "yes_price": 0.0015,
+      "leader": {
+        "name": "No",
+        "price": 0.9985
+      },
+      "end_date": "2028-11-08T04:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 14,
+      "title": "Will there be no Hormuz agreement?",
+      "url": "https://polymarket.com/event/who-wins-the-senate-pending-hormuz-agreement",
+      "volume_24h": 202720.21863199997,
+      "volume_total": 625529.8731900002,
+      "liquidity": 331758.69798,
+      "yes_price": 0.956,
+      "leader": {
+        "name": "Yes",
+        "price": 0.956
+      },
+      "end_date": "2026-11-04T04:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 15,
+      "title": "Will Villarreal win the 2026-27 LALIGA Championship?",
+      "url": "https://polymarket.com/event/laliga-2027-champion-20260701200737375",
+      "volume_24h": 177745.755,
+      "volume_total": 1314391.1898119997,
+      "liquidity": 219645.77399,
+      "yes_price": 0.0025,
+      "leader": {
+        "name": "No",
+        "price": 0.9975
+      },
+      "end_date": "2027-06-15T03:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 16,
+      "title": "Will Fabian Ruiz win the 2026 Ballon d'Or?",
+      "url": "https://polymarket.com/event/ballon-dor-winner-2026",
+      "volume_24h": 175923.361001,
+      "volume_total": 2661842.120013,
+      "liquidity": 186672.49793,
+      "yes_price": 0.0025,
+      "leader": {
+        "name": "No",
+        "price": 0.9975
+      },
+      "end_date": "2026-10-31T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 17,
+      "title": "Counter-Strike: Aurora Gaming vs NIP (BO3) - Thunderpick World Championship Group A",
+      "url": "https://polymarket.com/event/cs2-aur1-nip-2026-10-15",
+      "volume_24h": 166338.496505,
+      "volume_total": 166338.49650500005,
+      "liquidity": 187001.0006,
+      "yes_price": 0.715,
+      "leader": {
+        "name": "Aurora Gaming",
+        "price": 0.715
+      },
+      "end_date": "2026-10-15T14:30:00Z",
+      "outcomes": [
+        "Aurora Gaming",
+        "NIP"
+      ]
+    },
+    {
+      "rank": 18,
+      "title": "Will Bitcoin dip to $45,000 by December 31, 2026?",
+      "url": "https://polymarket.com/event/what-price-will-bitcoin-hit-before-2027",
+      "volume_24h": 148783.68368700004,
+      "volume_total": 8651100.343829002,
+      "liquidity": 237704.90376,
+      "yes_price": 0.051,
+      "leader": {
+        "name": "No",
+        "price": 0.949
+      },
+      "end_date": "2027-01-01T05:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 19,
+      "title": "Will Elon Musk post 220-239 tweets from October 9 to October 16, 2026?",
+      "url": "https://polymarket.com/event/elon-musk-of-tweets-october-9-october-16-2026",
+      "volume_24h": 135281.189235,
+      "volume_total": 193470.115003,
+      "liquidity": 38423.18605,
+      "yes_price": 0.0005,
+      "leader": {
+        "name": "No",
+        "price": 0.9995
+      },
+      "end_date": "2026-10-16T16:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 20,
+      "title": "Israel x Iran ceasefire continues through October 31?",
+      "url": "https://polymarket.com/event/israel-x-iran-ceasefire-continues-throughptptpt-20260716224448963",
+      "volume_24h": 123657.523866,
+      "volume_total": 2105052.807648999,
+      "liquidity": 56585.616,
+      "yes_price": 0.845,
+      "leader": {
+        "name": "Yes",
+        "price": 0.845
+      },
+      "end_date": "2026-10-31T20:29:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 21,
+      "title": "Another Fed rate hike in 2026?",
+      "url": "https://polymarket.com/event/another-fed-rate-hike-in-2026",
+      "volume_24h": 123378.83612300002,
+      "volume_total": 781035.2991489997,
+      "liquidity": 90404.3028,
+      "yes_price": 0.815,
+      "leader": {
+        "name": "Yes",
+        "price": 0.815
+      },
+      "end_date": "2026-12-10T04:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 22,
+      "title": "US announces end of Iranian blockade by October 15, 2026?",
+      "url": "https://polymarket.com/event/us-announces-end-of-iranian-blockade-byptptpt-20260713152715080",
+      "volume_24h": 119242.622504,
+      "volume_total": 3416811.5990619976,
+      "liquidity": 89713.32267,
+      "yes_price": 0.0045,
+      "leader": {
+        "name": "No",
+        "price": 0.9955
+      },
+      "end_date": "2026-10-16T03:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 23,
+      "title": "Counter-Strike: Heroic vs Envy (BO3) - Stake Pulse Beat III Group D",
+      "url": "https://polymarket.com/event/cs2-hero-envy-2026-10-15",
+      "volume_24h": 116392.393881,
+      "volume_total": 120289.447315,
+      "liquidity": 57756.8755,
+      "yes_price": 0.645,
+      "leader": {
+        "name": "Heroic",
+        "price": 0.645
+      },
+      "end_date": "2026-10-15T16:00:00Z",
+      "outcomes": [
+        "Heroic",
+        "Envy"
+      ]
+    },
+    {
+      "rank": 24,
+      "title": "Will Bayer 04 Leverkusen win on 2026-10-15?",
+      "url": "https://polymarket.com/event/uel-lep-lev-2026-10-15",
+      "volume_24h": 104717.847126,
+      "volume_total": 46805.504209,
+      "liquidity": 126643.3926,
+      "yes_price": 0.595,
+      "leader": {
+        "name": "Yes",
+        "price": 0.595
+      },
+      "end_date": "2026-10-15T16:45:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 25,
+      "title": "Will Trump say \"Ammunition\" this week?",
+      "url": "https://polymarket.com/event/what-will-trump-say-this-week-october-5-october-11-20261011",
+      "volume_24h": 100911.233376,
+      "volume_total": 441531.4911299998,
+      "liquidity": 1027909.22184,
+      "yes_price": 0.0005,
+      "leader": {
+        "name": "No",
+        "price": 0.9995
+      },
+      "end_date": "2026-10-11T23:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    }
+  ]
+}
