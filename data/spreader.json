@@ -1,39 +1,40 @@
 {
-  "date": "2026-10-15",
-  "generated_at": "2026-10-15T05:16:52.728Z",
-  "lede": "Netflix's trailer for Narnia: The Magician's Nephew is the day's strongest cross-feed story, pulling 24,495,690 views on YouTube while the film also drew readers to its Wikipedia page. A quieter thread runs through AI tooling: Liquid's LFM2.5-24B-A2B, a compact model built for fast on-device agents, surfaced on both Hacker News and Hugging Face. On GitHub, a repository called morluto/rea added 41,034 stars in a single day to sit atop the trending list.",
+  "date": "2026-10-16",
+  "generated_at": "2026-10-16T05:16:51.306Z",
+  "lede": "The Grand Theft Auto VI launch trailer is the one story every feed agrees on: 20,902,062 views on YouTube, a top Google Trends query in Britain, and a GTA title climbing Steam, all on the same day. Behind it, a new open model called Muse Spark Open sat at number one on Hacker News with 713 points and surfaced on Hugging Face at the same time. The quietest surprise was on Wikipedia, where the GBU-43/B MOAB drew 453,110 readers and beat the next article by only about 25,000.",
   "throughlines": [
     {
-      "title": "NARNIA: THE MAGICIAN’S NEPHEW | Official Trailer | Netflix",
-      "gist": "Netflix's official trailer for the next Narnia film, drawing attention on both YouTube and Wikipedia at once, the day's clearest crossover from a single feed into general interest.",
+      "title": "gta vi launch trailer",
+      "gist": "The trailer turned up on Google Trends, Steam, and YouTube at once, where its 20,902,062 views made it the day's clear crossover story.",
       "sources": [
-        "wikipedia",
+        "google-trends",
+        "steam",
         "youtube"
       ],
-      "url": "https://en.wikipedia.org/wiki/Narnia%3A_The_Magician's_Nephew",
+      "url": "https://www.rockstargames.com/VI/launch-trailer",
       "kind": "cluster"
     },
     {
-      "title": "LFM2.5-24B-A2B: Built for fast on-device agents",
-      "gist": "A compact 24B model from Liquid AI aimed at fast on-device agents, showing up on both Hacker News and Hugging Face, a sign of where builder attention is pooling right now.",
+      "title": "Muse Spark Open",
+      "gist": "A newly released open model topped Hacker News at 713 points while appearing on Hugging Face, the rare item the tech and model feeds shared.",
       "sources": [
         "hackernews",
         "huggingface"
       ],
-      "url": "https://news.ycombinator.com/item?id=50097369",
+      "url": "https://news.ycombinator.com/item?id=50107379",
       "kind": "cluster"
     },
     {
-      "title": "morluto/rea",
-      "gist": "A repository that gained 41,034 stars in one day to top GitHub trending, the kind of single-day spike that usually marks a tool catching fire.",
+      "title": "GBU-43/B MOAB",
+      "gist": "The munition was Wikipedia's most-read article at 453,110 views, edging the runner-up by only about 25,000 with nothing else in the snapshot to explain the spike.",
       "sources": [
-        "github"
+        "wikipedia"
       ],
-      "url": "https://github.com/morluto/rea",
+      "url": "https://en.wikipedia.org/wiki/GBU-43%2FB_MOAB",
       "kind": "single"
     }
   ],
-  "strength": 71,
+  "strength": 100,
   "live_sources": 17,
   "total_sources": 17,
   "dashboard_url": "https://nnnsightnnn.github.io/web-pulse/",

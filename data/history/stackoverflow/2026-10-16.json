@@ -1,0 +1,329 @@
+{
+  "source": "stackoverflow",
+  "label": "Stack Overflow — hot questions",
+  "fetched_at": "2026-10-16T05:16:12.178Z",
+  "items": [
+    {
+      "rank": 1,
+      "title": "Docker BuildKit cache mount permission denied and lock contention during parallel rootless multi-arch builds",
+      "url": "https://stackoverflow.com/questions/80010458/docker-buildkit-cache-mount-permission-denied-and-lock-contention-during-paralle",
+      "score": 0,
+      "answers": 0,
+      "views": 13,
+      "tags": [
+        "docker",
+        "caching",
+        "cicd",
+        "docker-buildkit",
+        "rootless"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Why does adding ORDER BY time DESC cause the query to return no data?",
+      "url": "https://stackoverflow.com/questions/80010447/why-does-adding-order-by-time-desc-cause-the-query-to-return-no-data",
+      "score": 0,
+      "answers": 0,
+      "views": 60,
+      "tags": [
+        "sql",
+        "apache-iotdb"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Getting a timeout error when trying to make a node web server run a stored proc on SQL Server 2022 Express",
+      "url": "https://stackoverflow.com/questions/80010422/getting-a-timeout-error-when-trying-to-make-a-node-web-server-run-a-stored-proc",
+      "score": 0,
+      "answers": 1,
+      "views": 55,
+      "tags": [
+        "node.js",
+        "sql-server",
+        "typescript",
+        "powershell",
+        "http"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Is there a way to use a library from crates.io using rustc?",
+      "url": "https://stackoverflow.com/questions/80010438/is-there-a-way-to-use-a-library-from-crates-io-using-rustc",
+      "score": 0,
+      "answers": 0,
+      "views": 35,
+      "tags": [
+        "rust",
+        "rust-crates"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "How to use JMESPath to filter results if the key contains a period?",
+      "url": "https://stackoverflow.com/questions/80010428/how-to-use-jmespath-to-filter-results-if-the-key-contains-a-period",
+      "score": 0,
+      "answers": 1,
+      "views": 46,
+      "tags": [
+        "filter",
+        "aws-cli",
+        "aws-secrets-manager",
+        "jmespath"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Make my local qwen 3.8 use tools like use computer?",
+      "url": "https://stackoverflow.com/questions/80010427/make-my-local-qwen-3-8-use-tools-like-use-computer",
+      "score": -4,
+      "answers": 0,
+      "views": 43,
+      "tags": [
+        "tooling-recommendation",
+        "large-language-model",
+        "qwen"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "How to print a list containing my data type?",
+      "url": "https://stackoverflow.com/questions/80010395/how-to-print-a-list-containing-my-data-type",
+      "score": -4,
+      "answers": 1,
+      "views": 82,
+      "tags": [
+        "c#",
+        "list",
+        "oop"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Can I broadcast with numpy character find",
+      "url": "https://stackoverflow.com/questions/80010398/can-i-broadcast-with-numpy-character-find",
+      "score": -4,
+      "answers": 1,
+      "views": 47,
+      "tags": [
+        "python",
+        "numpy",
+        "substring"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "What is the difference between `std::launder(ptr)` and `reinterpret_cast<T*>(reinterpret_cast<uintptr_t>(ptr))` in C++29?",
+      "url": "https://stackoverflow.com/questions/80010258/what-is-the-difference-between-stdlaunderptr-and-reinterpret-casttrei",
+      "score": 11,
+      "answers": 3,
+      "views": 229,
+      "tags": [
+        "c++",
+        "pointers",
+        "c++29"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Any online Excel support VBA UserForms?",
+      "url": "https://stackoverflow.com/questions/80010409/any-online-excel-support-vba-userforms",
+      "score": -7,
+      "answers": 0,
+      "views": 47,
+      "tags": [
+        "tooling-recommendation"
+      ]
+    },
+    {
+      "rank": 11,
+      "title": "PowerShell Get-Help Test-Path displays incorrect syntax diagrams",
+      "url": "https://stackoverflow.com/questions/80010352/powershell-get-help-test-path-displays-incorrect-syntax-diagrams",
+      "score": 1,
+      "answers": 1,
+      "views": 78,
+      "tags": [
+        "powershell",
+        "help-system"
+      ]
+    },
+    {
+      "rank": 12,
+      "title": "VS Code Code Runner takes several seconds to run simple C programs on Windows",
+      "url": "https://stackoverflow.com/questions/80010390/vs-code-code-runner-takes-several-seconds-to-run-simple-c-programs-on-windows",
+      "score": 1,
+      "answers": 0,
+      "views": 62,
+      "tags": [
+        "c",
+        "windows",
+        "vs-code",
+        "vscode-code-runner"
+      ]
+    },
+    {
+      "rank": 13,
+      "title": "Sandbox “See All Plans” lists auto-renewable subscriptions that were deleted from App Store Connect",
+      "url": "https://stackoverflow.com/questions/80010416/sandbox-see-all-plans-lists-auto-renewable-subscriptions-that-were-deleted-fro",
+      "score": 0,
+      "answers": 0,
+      "views": 28,
+      "tags": [
+        "ios",
+        "swift"
+      ]
+    },
+    {
+      "rank": 14,
+      "title": "Require user to interact with UIDatePicker",
+      "url": "https://stackoverflow.com/questions/80010382/require-user-to-interact-with-uidatepicker",
+      "score": 0,
+      "answers": 1,
+      "views": 50,
+      "tags": [
+        "ios",
+        "cocoa-touch"
+      ]
+    },
+    {
+      "rank": 15,
+      "title": "How can a Git pre-receive hook reject pushes that introduce oversized blobs?",
+      "url": "https://stackoverflow.com/questions/80010406/how-can-a-git-pre-receive-hook-reject-pushes-that-introduce-oversized-blobs",
+      "score": -1,
+      "answers": 0,
+      "views": 49,
+      "tags": [
+        "git",
+        "githooks"
+      ]
+    },
+    {
+      "rank": 16,
+      "title": "FCM send to iOS fails with 'Invalid APNs credential' despite valid, verified APNs Auth Key",
+      "url": "https://stackoverflow.com/questions/80010396/fcm-send-to-ios-fails-with-invalid-apns-credential-despite-valid-verified-apn",
+      "score": 0,
+      "answers": 1,
+      "views": 37,
+      "tags": [
+        "ios",
+        "firebase-cloud-messaging",
+        "apple-push-notifications"
+      ]
+    },
+    {
+      "rank": 17,
+      "title": "Replace consequential if statements with for loop & switch in C",
+      "url": "https://stackoverflow.com/questions/80010176/replace-consequential-if-statements-with-for-loop-switch-in-c",
+      "score": 3,
+      "answers": 7,
+      "views": 245,
+      "tags": [
+        "best-practices",
+        "c",
+        "if-statement",
+        "switch-statement",
+        "embedded"
+      ]
+    },
+    {
+      "rank": 18,
+      "title": "Waiting for browser to repaint screen, using requestAnimationFrame. Works for the 1st try",
+      "url": "https://stackoverflow.com/questions/80010387/waiting-for-browser-to-repaint-screen-using-requestanimationframe-works-for-th",
+      "score": -5,
+      "answers": 2,
+      "views": 58,
+      "tags": [
+        "javascript",
+        "async-await",
+        "requestanimationframe"
+      ]
+    },
+    {
+      "rank": 19,
+      "title": "Injecting code into another process and executing `CreateRemoteThread` causes the process to crash",
+      "url": "https://stackoverflow.com/questions/80010314/injecting-code-into-another-process-and-executing-createremotethread-causes-th",
+      "score": 0,
+      "answers": 1,
+      "views": 87,
+      "tags": [
+        "windows",
+        "delphi",
+        "winapi",
+        "createremotethread"
+      ]
+    },
+    {
+      "rank": 20,
+      "title": "How Does AWS Lambda and Layers work with a Project that has Subdirectories?",
+      "url": "https://stackoverflow.com/questions/80010391/how-does-aws-lambda-and-layers-work-with-a-project-that-has-subdirectories",
+      "score": -2,
+      "answers": 0,
+      "views": 47,
+      "tags": [
+        "python",
+        "amazon-web-services",
+        "aws-lambda"
+      ]
+    },
+    {
+      "rank": 21,
+      "title": "Facebook Page Plugin Stopped Working w/o Deploying",
+      "url": "https://stackoverflow.com/questions/80010400/facebook-page-plugin-stopped-working-w-o-deploying",
+      "score": -6,
+      "answers": 1,
+      "views": 48,
+      "tags": [
+        "javascript",
+        "facebook",
+        "facebook-javascript-sdk"
+      ]
+    },
+    {
+      "rank": 22,
+      "title": "How to upload a file using Winscp.com",
+      "url": "https://stackoverflow.com/questions/80010380/how-to-upload-a-file-using-winscp-com",
+      "score": -3,
+      "answers": 1,
+      "views": 47,
+      "tags": [
+        "winscp"
+      ]
+    },
+    {
+      "rank": 23,
+      "title": "How to search fully-qualified dependency names using Intellij Dependency Analyzer search",
+      "url": "https://stackoverflow.com/questions/80010370/how-to-search-fully-qualified-dependency-names-using-intellij-dependency-analyze",
+      "score": 1,
+      "answers": 1,
+      "views": 52,
+      "tags": [
+        "java",
+        "maven",
+        "intellij-idea"
+      ]
+    },
+    {
+      "rank": 24,
+      "title": "CounterFactory Troubleshooting",
+      "url": "https://stackoverflow.com/questions/80010376/counterfactory-troubleshooting",
+      "score": -6,
+      "answers": 0,
+      "views": 61,
+      "tags": [
+        "javascript",
+        "function"
+      ]
+    },
+    {
+      "rank": 25,
+      "title": "EF Core in command line exe handling table locks",
+      "url": "https://stackoverflow.com/questions/80010317/ef-core-in-command-line-exe-handling-table-locks",
+      "score": 0,
+      "answers": 3,
+      "views": 81,
+      "tags": [
+        ".net-core",
+        "entity-framework-core"
+      ]
+    }
+  ]
+}

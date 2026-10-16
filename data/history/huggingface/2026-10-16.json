@@ -1,0 +1,282 @@
+{
+  "source": "huggingface",
+  "label": "Hugging Face — trending models",
+  "fetched_at": "2026-10-16T05:16:12.029Z",
+  "items": [
+    {
+      "rank": 1,
+      "title": "google/embeddinggemma-2",
+      "url": "https://huggingface.co/google/embeddinggemma-2",
+      "author": "google",
+      "downloads": 144280,
+      "likes": 2423,
+      "trending_score": 1000,
+      "pipeline_tag": "feature-extraction",
+      "last_modified": "2026-10-06T15:29:23.000Z"
+    },
+    {
+      "rank": 2,
+      "title": "jialinyyzz/humanizer",
+      "url": "https://huggingface.co/jialinyyzz/humanizer",
+      "author": "jialinyyzz",
+      "downloads": 75253,
+      "likes": 1757,
+      "trending_score": 868,
+      "pipeline_tag": "text-generation",
+      "last_modified": "2026-10-15T02:09:56.000Z"
+    },
+    {
+      "rank": 3,
+      "title": "Qwen/Qwen-Image-2.1-Turbo",
+      "url": "https://huggingface.co/Qwen/Qwen-Image-2.1-Turbo",
+      "author": "Qwen",
+      "downloads": 15315,
+      "likes": 892,
+      "trending_score": 767,
+      "pipeline_tag": "text-to-image",
+      "last_modified": "2026-10-12T09:45:49.000Z"
+    },
+    {
+      "rank": 4,
+      "title": "openbmb/MiniCPM-V-4.7-35B-A3B",
+      "url": "https://huggingface.co/openbmb/MiniCPM-V-4.7-35B-A3B",
+      "author": "openbmb",
+      "downloads": 9278,
+      "likes": 802,
+      "trending_score": 656,
+      "pipeline_tag": "image-text-to-text",
+      "last_modified": "2026-10-15T16:33:30.000Z"
+    },
+    {
+      "rank": 5,
+      "title": "abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
+      "url": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
+      "author": "abenzerps",
+      "downloads": 2415278,
+      "likes": 4397,
+      "trending_score": 491,
+      "pipeline_tag": "text-to-image",
+      "last_modified": "2026-10-12T07:10:55.000Z"
+    },
+    {
+      "rank": 6,
+      "title": "fishaudio/drama-3",
+      "url": "https://huggingface.co/fishaudio/drama-3",
+      "author": "fishaudio",
+      "downloads": 4048,
+      "likes": 494,
+      "trending_score": 479,
+      "pipeline_tag": "text-to-speech",
+      "last_modified": "2026-10-14T06:15:21.000Z"
+    },
+    {
+      "rank": 7,
+      "title": "Lightricks/LTX-2.5",
+      "url": "https://huggingface.co/Lightricks/LTX-2.5",
+      "author": "Lightricks",
+      "downloads": 1866657,
+      "likes": 7972,
+      "trending_score": 445,
+      "pipeline_tag": "image-to-video",
+      "last_modified": "2026-10-11T07:00:53.000Z"
+    },
+    {
+      "rank": 8,
+      "title": "AtomicChat/Qwen-Image-2.1-Turbo-Uncensored-GGUF",
+      "url": "https://huggingface.co/AtomicChat/Qwen-Image-2.1-Turbo-Uncensored-GGUF",
+      "author": "AtomicChat",
+      "downloads": 296253,
+      "likes": 500,
+      "trending_score": 409,
+      "pipeline_tag": "text-to-image",
+      "last_modified": "2026-10-13T20:02:46.000Z"
+    },
+    {
+      "rank": 9,
+      "title": "LiquidAI/LFM2.5-24B-A2B",
+      "url": "https://huggingface.co/LiquidAI/LFM2.5-24B-A2B",
+      "author": "LiquidAI",
+      "downloads": 6286,
+      "likes": 393,
+      "trending_score": 388,
+      "pipeline_tag": "text-generation",
+      "last_modified": "2026-10-13T16:59:33.000Z"
+    },
+    {
+      "rank": 10,
+      "title": "ConwayResearch/Underdog-Saluki-27B-1.0",
+      "url": "https://huggingface.co/ConwayResearch/Underdog-Saluki-27B-1.0",
+      "author": "ConwayResearch",
+      "downloads": 344177,
+      "likes": 501,
+      "trending_score": 337,
+      "pipeline_tag": "text-generation",
+      "last_modified": "2026-10-15T11:43:02.000Z"
+    },
+    {
+      "rank": 11,
+      "title": "Qwen/Qwen3.8-27B",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+      "author": "Qwen",
+      "downloads": 7363968,
+      "likes": 17803,
+      "trending_score": 332,
+      "pipeline_tag": "image-text-to-text",
+      "last_modified": "2026-08-14T15:00:01.000Z"
+    },
+    {
+      "rank": 12,
+      "title": "baidu/Unlimited-OCR",
+      "url": "https://huggingface.co/baidu/Unlimited-OCR",
+      "author": "baidu",
+      "downloads": 1163009,
+      "likes": 4711,
+      "trending_score": 328,
+      "pipeline_tag": "image-text-to-text",
+      "last_modified": "2026-10-14T06:17:59.000Z"
+    },
+    {
+      "rank": 13,
+      "title": "nerkyor/Qwen3.8-27B-Coder390-EfficientThink-Opus5.5-GPT6Astra-Grok4.7-DSV4Pro-K3-SFT-RLOO-MTP-DFlash2",
+      "url": "https://huggingface.co/nerkyor/Qwen3.8-27B-Coder390-EfficientThink-Opus5.5-GPT6Astra-Grok4.7-DSV4Pro-K3-SFT-RLOO-MTP-DFlash2",
+      "author": "nerkyor",
+      "downloads": 148660,
+      "likes": 370,
+      "trending_score": 306,
+      "pipeline_tag": "image-text-to-text",
+      "last_modified": "2026-10-15T11:40:50.000Z"
+    },
+    {
+      "rank": 14,
+      "title": "meta-models/Muse-Spark-Open-816B-A42B",
+      "url": "https://huggingface.co/meta-models/Muse-Spark-Open-816B-A42B",
+      "author": "meta-models",
+      "downloads": 402,
+      "likes": 296,
+      "trending_score": 281,
+      "pipeline_tag": "image-text-to-text",
+      "last_modified": "2026-10-15T15:46:43.000Z"
+    },
+    {
+      "rank": 15,
+      "title": "openbmb/MiniCPM-V-4.7-1B",
+      "url": "https://huggingface.co/openbmb/MiniCPM-V-4.7-1B",
+      "author": "openbmb",
+      "downloads": 5274,
+      "likes": 362,
+      "trending_score": 269,
+      "pipeline_tag": "image-text-to-text",
+      "last_modified": "2026-10-15T16:34:32.000Z"
+    },
+    {
+      "rank": 16,
+      "title": "black-forest-labs/flux-3-image-klein",
+      "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein",
+      "author": "black-forest-labs",
+      "downloads": 3241,
+      "likes": 275,
+      "trending_score": 268,
+      "pipeline_tag": "image-to-image",
+      "last_modified": "2026-10-16T04:58:03.000Z"
+    },
+    {
+      "rank": 17,
+      "title": "speridlabs/iris-3b",
+      "url": "https://huggingface.co/speridlabs/iris-3b",
+      "author": "speridlabs",
+      "downloads": 1257,
+      "likes": 288,
+      "trending_score": 252,
+      "pipeline_tag": "text-to-image",
+      "last_modified": "2026-10-12T18:06:04.000Z"
+    },
+    {
+      "rank": 18,
+      "title": "black-forest-labs/flux-3-image-klein-comfy",
+      "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy",
+      "author": "black-forest-labs",
+      "downloads": 39,
+      "likes": 265,
+      "trending_score": 245,
+      "pipeline_tag": "image-to-image",
+      "last_modified": "2026-10-16T01:16:09.000Z"
+    },
+    {
+      "rank": 19,
+      "title": "facebook/sam3",
+      "url": "https://huggingface.co/facebook/sam3",
+      "author": "facebook",
+      "downloads": 2034602,
+      "likes": 4447,
+      "trending_score": 223,
+      "pipeline_tag": "mask-generation",
+      "last_modified": "2025-11-20T22:05:08.000Z"
+    },
+    {
+      "rank": 20,
+      "title": "Cloudflare/clef",
+      "url": "https://huggingface.co/Cloudflare/clef",
+      "author": "Cloudflare",
+      "downloads": 19314,
+      "likes": 2182,
+      "trending_score": 217,
+      "pipeline_tag": "image-text-to-text",
+      "last_modified": "2026-10-09T18:46:56.000Z"
+    },
+    {
+      "rank": 21,
+      "title": "vllm-sr/d3",
+      "url": "https://huggingface.co/vllm-sr/d3",
+      "author": "vllm-sr",
+      "downloads": 2747,
+      "likes": 201,
+      "trending_score": 196,
+      "pipeline_tag": "zero-shot-classification",
+      "last_modified": "2026-10-15T07:19:31.000Z"
+    },
+    {
+      "rank": 22,
+      "title": "Cactus-Compute/whistle",
+      "url": "https://huggingface.co/Cactus-Compute/whistle",
+      "author": "Cactus-Compute",
+      "downloads": 38794,
+      "likes": 422,
+      "trending_score": 189,
+      "pipeline_tag": "automatic-speech-recognition",
+      "last_modified": "2026-10-10T06:51:58.000Z"
+    },
+    {
+      "rank": 23,
+      "title": "LiquidAI/d1-3B",
+      "url": "https://huggingface.co/LiquidAI/d1-3B",
+      "author": "LiquidAI",
+      "downloads": 16731,
+      "likes": 424,
+      "trending_score": 186,
+      "pipeline_tag": "image-text-to-text",
+      "last_modified": "2026-10-07T20:23:00.000Z"
+    },
+    {
+      "rank": 24,
+      "title": "pablodawson/MiniMax-H3-360-Orbit-LoRA",
+      "url": "https://huggingface.co/pablodawson/MiniMax-H3-360-Orbit-LoRA",
+      "author": "pablodawson",
+      "downloads": 18202,
+      "likes": 475,
+      "trending_score": 184,
+      "pipeline_tag": "image-text-to-video",
+      "last_modified": "2026-09-27T04:06:23.000Z"
+    },
+    {
+      "rank": 25,
+      "title": "convaiinnovations/laya",
+      "url": "https://huggingface.co/convaiinnovations/laya",
+      "author": "convaiinnovations",
+      "downloads": 48894,
+      "likes": 5635,
+      "trending_score": 182,
+      "pipeline_tag": "text-classification",
+      "last_modified": "2026-10-03T18:00:07.000Z"
+    }
+  ]
+}
