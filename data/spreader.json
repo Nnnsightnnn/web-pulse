@@ -1,37 +1,37 @@
 {
-  "date": "2026-10-16",
-  "generated_at": "2026-10-16T05:16:51.306Z",
-  "lede": "The Grand Theft Auto VI launch trailer is the one story every feed agrees on: 20,902,062 views on YouTube, a top Google Trends query in Britain, and a GTA title climbing Steam, all on the same day. Behind it, a new open model called Muse Spark Open sat at number one on Hacker News with 713 points and surfaced on Hugging Face at the same time. The quietest surprise was on Wikipedia, where the GBU-43/B MOAB drew 453,110 readers and beat the next article by only about 25,000.",
+  "date": "2026-10-17",
+  "generated_at": "2026-10-17T05:16:41.406Z",
+  "lede": "The day's clearest signal came from a single bet. A Polymarket contract on whether the Tesla Roadster will reach 60 mph in under a second settled at about 99.95 percent yes on more than $5 million in volume, while the car itself drew 1,308 points on Hacker News. The other large numbers were about spectacle rather than certainty: Rockstar's Grand Theft Auto VI launch trailer passed 31.3 million views on YouTube, and the most-read Wikipedia article was the GBU-43/B MOAB, the munition nicknamed the Mother of All Bombs, at 453,110 views.",
   "throughlines": [
     {
-      "title": "gta vi launch trailer",
-      "gist": "The trailer turned up on Google Trends, Steam, and YouTube at once, where its 20,902,062 views made it the day's clear crossover story.",
+      "title": "Will the Tesla Roadster's 0-60 time be less than 1 second?",
+      "gist": "A prediction market and a Hacker News thread landed on the same car the same day, one pricing the sub-one-second claim at near certainty, the other arguing over whether the spec is real.",
       "sources": [
-        "google-trends",
-        "steam",
-        "youtube"
+        "hackernews",
+        "polymarket"
       ],
-      "url": "https://www.rockstargames.com/VI/launch-trailer",
+      "url": "https://news.ycombinator.com/item?id=50112657",
       "kind": "cluster"
     },
     {
-      "title": "Muse Spark Open",
-      "gist": "A newly released open model topped Hacker News at 713 points while appearing on Hugging Face, the rare item the tech and model feeds shared.",
+      "title": "Grand Theft Auto VI Launch Trailer",
+      "gist": "Rockstar's launch trailer crossed YouTube and Steam at once, a reminder that one trailer can move both a video platform and a storefront well before the game ships.",
+      "sources": [
+        "steam",
+        "youtube"
+      ],
+      "url": "https://store.steampowered.com/app/271590",
+      "kind": "cluster"
+    },
+    {
+      "title": "FLUX 3 Image Klein",
+      "gist": "Black Forest Labs' new FLUX 3 image model surfaced on Hacker News and Hugging Face together, with downloads already in the tens of thousands, a sign an open image-generation release still pulls developers and users in the same beat.",
       "sources": [
         "hackernews",
         "huggingface"
       ],
-      "url": "https://news.ycombinator.com/item?id=50107379",
+      "url": "https://news.ycombinator.com/item?id=50123580",
       "kind": "cluster"
-    },
-    {
-      "title": "GBU-43/B MOAB",
-      "gist": "The munition was Wikipedia's most-read article at 453,110 views, edging the runner-up by only about 25,000 with nothing else in the snapshot to explain the spike.",
-      "sources": [
-        "wikipedia"
-      ],
-      "url": "https://en.wikipedia.org/wiki/GBU-43%2FB_MOAB",
-      "kind": "single"
     }
   ],
   "strength": 100,
