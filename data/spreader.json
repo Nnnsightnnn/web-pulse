@@ -1,41 +1,41 @@
 {
-  "date": "2026-10-17",
-  "generated_at": "2026-10-17T05:16:41.406Z",
-  "lede": "The day's clearest signal came from a single bet. A Polymarket contract on whether the Tesla Roadster will reach 60 mph in under a second settled at about 99.95 percent yes on more than $5 million in volume, while the car itself drew 1,308 points on Hacker News. The other large numbers were about spectacle rather than certainty: Rockstar's Grand Theft Auto VI launch trailer passed 31.3 million views on YouTube, and the most-read Wikipedia article was the GBU-43/B MOAB, the munition nicknamed the Mother of All Bombs, at 453,110 views.",
+  "date": "2026-10-18",
+  "generated_at": "2026-10-18T05:16:47.438Z",
+  "lede": "One model carried the day across two feeds. DeepSeek-V4.1-Flash-1017, listed on October 17, reached number five on Hacker News with 775 points and 617 comments, and at the same time sat atop Hugging Face's trending list with 1,053 likes, all before a single recorded download. Two Lemmy threads found their mirror in prediction markets: one on the new Tesla Roadster, where traders were 99.95 percent sure its 0 to 60 time will beat a second, and one on the next White House press secretary. On Wikipedia, a weapon quietly outdrew everyone, the GBU-43/B MOAB at 453,110 views.",
   "throughlines": [
     {
-      "title": "Will the Tesla Roadster's 0-60 time be less than 1 second?",
-      "gist": "A prediction market and a Hacker News thread landed on the same car the same day, one pricing the sub-one-second claim at near certainty, the other arguing over whether the spec is real.",
-      "sources": [
-        "hackernews",
-        "polymarket"
-      ],
-      "url": "https://news.ycombinator.com/item?id=50112657",
-      "kind": "cluster"
-    },
-    {
-      "title": "Grand Theft Auto VI Launch Trailer",
-      "gist": "Rockstar's launch trailer crossed YouTube and Steam at once, a reminder that one trailer can move both a video platform and a storefront well before the game ships.",
-      "sources": [
-        "steam",
-        "youtube"
-      ],
-      "url": "https://store.steampowered.com/app/271590",
-      "kind": "cluster"
-    },
-    {
-      "title": "FLUX 3 Image Klein",
-      "gist": "Black Forest Labs' new FLUX 3 image model surfaced on Hacker News and Hugging Face together, with downloads already in the tens of thousands, a sign an open image-generation release still pulls developers and users in the same beat.",
+      "title": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "gist": "A new DeepSeek model that reached number five on Hacker News and the top of Hugging Face's trending list on the same day it was listed, with zero downloads recorded so far.",
       "sources": [
         "hackernews",
         "huggingface"
       ],
-      "url": "https://news.ycombinator.com/item?id=50123580",
+      "url": "https://news.ycombinator.com/item?id=50129045",
+      "kind": "cluster"
+    },
+    {
+      "title": "the new white house press secretary",
+      "gist": "A Lemmy thread and a Polymarket contract on the same opening, where the market gave an announcement by October 31 roughly an 18 percent chance.",
+      "sources": [
+        "lemmy",
+        "polymarket"
+      ],
+      "url": "https://lemmy.world/post/53243841",
+      "kind": "cluster"
+    },
+    {
+      "title": "Will the Tesla Roadster's 0-60 time be less than 1 second?",
+      "gist": "A Lemmy post on the new Roadster prototype matched a Polymarket contract that sat at 99.95 percent for a 0 to 60 time under one second.",
+      "sources": [
+        "lemmy",
+        "polymarket"
+      ],
+      "url": "https://lemmy.world/post/53237161",
       "kind": "cluster"
     }
   ],
   "strength": 100,
-  "live_sources": 17,
+  "live_sources": 16,
   "total_sources": 17,
   "dashboard_url": "https://nnnsightnnn.github.io/web-pulse/",
   "engine": "ai"
