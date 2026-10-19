@@ -1,36 +1,36 @@
 {
-  "date": "2026-10-18",
-  "generated_at": "2026-10-18T05:16:47.438Z",
-  "lede": "One model carried the day across two feeds. DeepSeek-V4.1-Flash-1017, listed on October 17, reached number five on Hacker News with 775 points and 617 comments, and at the same time sat atop Hugging Face's trending list with 1,053 likes, all before a single recorded download. Two Lemmy threads found their mirror in prediction markets: one on the new Tesla Roadster, where traders were 99.95 percent sure its 0 to 60 time will beat a second, and one on the next White House press secretary. On Wikipedia, a weapon quietly outdrew everyone, the GBU-43/B MOAB at 453,110 views.",
+  "date": "2026-10-19",
+  "generated_at": "2026-10-19T05:17:03.003Z",
+  "lede": "A new DeepSeek model was the one thing the machine-learning corners of the web agreed on today. DeepSeek-V4.1-Flash-1017 reached the top of both Hacker News and Hugging Face at once, with the Hacker News thread flagging a score of 45 on Artificial Analysis. The rest of the day scattered: an undated photograph crossed Bluesky and Mastodon, and Grand Theft Auto drew a crowd across Steam and YouTube. Sixteen of the seventeen feeds reported in, with only Wikipedia leaving an empty column.",
   "throughlines": [
     {
       "title": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
-      "gist": "A new DeepSeek model that reached number five on Hacker News and the top of Hugging Face's trending list on the same day it was listed, with zero downloads recorded so far.",
+      "gist": "A new DeepSeek release that topped Hacker News and Hugging Face on the same day, the rare case of the developer crowd and the model-download crowd pointing at the same thing.",
       "sources": [
         "hackernews",
         "huggingface"
       ],
-      "url": "https://news.ycombinator.com/item?id=50129045",
+      "url": "https://news.ycombinator.com/item?id=50148452",
       "kind": "cluster"
     },
     {
-      "title": "the new white house press secretary",
-      "gist": "A Lemmy thread and a Polymarket contract on the same opening, where the market gave an announcement by October 31 roughly an 18 percent chance.",
+      "title": "Impeccable form. Photo from my collection, no date/info.",
+      "gist": "An undated photograph that trended on both Bluesky and Mastodon, a sign the open social feeds still move on images as much as on headlines.",
       "sources": [
-        "lemmy",
-        "polymarket"
+        "bluesky",
+        "mastodon-trending"
       ],
-      "url": "https://lemmy.world/post/53243841",
+      "url": "https://bsky.app/profile/catsofyore.bsky.social/post/3my6zj6ar722b",
       "kind": "cluster"
     },
     {
-      "title": "Will the Tesla Roadster's 0-60 time be less than 1 second?",
-      "gist": "A Lemmy post on the new Roadster prototype matched a Polymarket contract that sat at 99.95 percent for a 0 to 60 time under one second.",
+      "title": "Grand Theft Auto V Legacy",
+      "gist": "Grand Theft Auto surfaced across Steam and YouTube at once, the older game still selling while the next installment's launch trailer keeps pulling views.",
       "sources": [
-        "lemmy",
-        "polymarket"
+        "steam",
+        "youtube"
       ],
-      "url": "https://lemmy.world/post/53237161",
+      "url": "https://store.steampowered.com/app/271590",
       "kind": "cluster"
     }
   ],
