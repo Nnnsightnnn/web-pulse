@@ -1,31 +1,32 @@
 {
-  "date": "2026-10-19",
-  "generated_at": "2026-10-19T05:17:03.003Z",
-  "lede": "A new DeepSeek model was the one thing the machine-learning corners of the web agreed on today. DeepSeek-V4.1-Flash-1017 reached the top of both Hacker News and Hugging Face at once, with the Hacker News thread flagging a score of 45 on Artificial Analysis. The rest of the day scattered: an undated photograph crossed Bluesky and Mastodon, and Grand Theft Auto drew a crowd across Steam and YouTube. Sixteen of the seventeen feeds reported in, with only Wikipedia leaving an empty column.",
+  "date": "2026-10-20",
+  "generated_at": "2026-10-20T05:16:40.211Z",
+  "lede": "The one topic Tuesday's feeds agreed on was open-source AI image tooling: Comfy-Org/ComfyUI was trending on GitHub at the same time a Comfy-tuned model, flux-3-image-klein-comfy, climbed Hugging Face's trending list. Everything louder than that was gaming. Counter-Strike 2 peaked at 1,180,247 concurrent players on Steam, and Call of Duty surfaced across Steam, Twitch and Wikipedia on the same morning. The biggest single number on the board belonged to YouTube, where a stunt video titled 'If You Escape, You Win $1,000,000' reached 8,818,909 views.",
   "throughlines": [
     {
-      "title": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
-      "gist": "A new DeepSeek release that topped Hacker News and Hugging Face on the same day, the rare case of the developer crowd and the model-download crowd pointing at the same thing.",
+      "title": "Comfy-Org/ComfyUI",
+      "gist": "The open-source engine for AI image generation turned up on GitHub trending while a Comfy-compatible model trended on Hugging Face, a rare case of a builder tool and its output moving together.",
       "sources": [
-        "hackernews",
+        "github",
         "huggingface"
       ],
-      "url": "https://news.ycombinator.com/item?id=50148452",
+      "url": "https://github.com/Comfy-Org/ComfyUI",
       "kind": "cluster"
     },
     {
-      "title": "Impeccable form. Photo from my collection, no date/info.",
-      "gist": "An undated photograph that trended on both Bluesky and Mastodon, a sign the open social feeds still move on images as much as on headlines.",
+      "title": "Call of Duty",
+      "gist": "The franchise showed up at once on Steam, Twitch and Wikipedia, the kind of three-way overlap that marks a title people are playing, watching and reading about on the same day.",
       "sources": [
-        "bluesky",
-        "mastodon-trending"
+        "steam",
+        "twitch",
+        "wikipedia"
       ],
-      "url": "https://bsky.app/profile/catsofyore.bsky.social/post/3my6zj6ar722b",
+      "url": "https://en.wikipedia.org/wiki/Call_of_Duty%3A_Modern_Warfare_4",
       "kind": "cluster"
     },
     {
       "title": "Grand Theft Auto V Legacy",
-      "gist": "Grand Theft Auto surfaced across Steam and YouTube at once, the older game still selling while the next installment's launch trailer keeps pulling views.",
+      "gist": "More than a decade after release, the game still bridged feeds, holding its place on Steam while resurfacing in YouTube's trending videos.",
       "sources": [
         "steam",
         "youtube"
@@ -34,8 +35,8 @@
       "kind": "cluster"
     }
   ],
-  "strength": 100,
-  "live_sources": 16,
+  "strength": 80,
+  "live_sources": 17,
   "total_sources": 17,
   "dashboard_url": "https://nnnsightnnn.github.io/web-pulse/",
   "engine": "ai"
