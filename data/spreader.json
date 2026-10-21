@@ -1,11 +1,11 @@
 {
-  "date": "2026-10-20",
-  "generated_at": "2026-10-20T05:16:40.211Z",
-  "lede": "The one topic Tuesday's feeds agreed on was open-source AI image tooling: Comfy-Org/ComfyUI was trending on GitHub at the same time a Comfy-tuned model, flux-3-image-klein-comfy, climbed Hugging Face's trending list. Everything louder than that was gaming. Counter-Strike 2 peaked at 1,180,247 concurrent players on Steam, and Call of Duty surfaced across Steam, Twitch and Wikipedia on the same morning. The biggest single number on the board belonged to YouTube, where a stunt video titled 'If You Escape, You Win $1,000,000' reached 8,818,909 views.",
+  "date": "2026-10-21",
+  "generated_at": "2026-10-21T05:17:26.026Z",
+  "lede": "The web ran quiet and local today, with just one story crossing feeds: ComfyUI surfaced on both GitHub trending and Hugging Face, the lone thread tying two sources together. The biggest single number came from Hugging Face, where Black Forest Labs' flux-3-image-klein-comfy pulled 439,528 downloads, far ahead of the next model. On Wikipedia, Kim Jong Un led the day at 321,739 views, narrowly ahead of Jailer 2 at 303,129.",
   "throughlines": [
     {
       "title": "Comfy-Org/ComfyUI",
-      "gist": "The open-source engine for AI image generation turned up on GitHub trending while a Comfy-compatible model trended on Hugging Face, a rare case of a builder tool and its output moving together.",
+      "gist": "The open-source image-generation toolkit was the only topic to land on two feeds at once, trending on GitHub and Hugging Face together.",
       "sources": [
         "github",
         "huggingface"
@@ -14,28 +14,25 @@
       "kind": "cluster"
     },
     {
-      "title": "Call of Duty",
-      "gist": "The franchise showed up at once on Steam, Twitch and Wikipedia, the kind of three-way overlap that marks a title people are playing, watching and reading about on the same day.",
+      "title": "Kim Jong Un",
+      "gist": "The most-read Wikipedia article of the day at 321,739 views, narrowly ahead of Jailer 2.",
       "sources": [
-        "steam",
-        "twitch",
         "wikipedia"
       ],
-      "url": "https://en.wikipedia.org/wiki/Call_of_Duty%3A_Modern_Warfare_4",
-      "kind": "cluster"
+      "url": "https://en.wikipedia.org/wiki/Kim_Jong_Un",
+      "kind": "single"
     },
     {
-      "title": "Grand Theft Auto V Legacy",
-      "gist": "More than a decade after release, the game still bridged feeds, holding its place on Steam while resurfacing in YouTube's trending videos.",
+      "title": "The Future of CSS",
+      "gist": "The top story on Hacker News with 143 points and 47 comments, a developer essay on where CSS is heading.",
       "sources": [
-        "steam",
-        "youtube"
+        "hackernews"
       ],
-      "url": "https://store.steampowered.com/app/271590",
-      "kind": "cluster"
+      "url": "https://www.joshwcomeau.com/css/interop-2027/",
+      "kind": "single"
     }
   ],
-  "strength": 80,
+  "strength": 34,
   "live_sources": 17,
   "total_sources": 17,
   "dashboard_url": "https://nnnsightnnn.github.io/web-pulse/",
