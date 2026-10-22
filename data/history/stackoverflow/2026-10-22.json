@@ -1,0 +1,334 @@
+{
+  "source": "stackoverflow",
+  "label": "Stack Overflow — hot questions",
+  "fetched_at": "2026-10-22T05:16:39.635Z",
+  "items": [
+    {
+      "rank": 1,
+      "title": "Updating linux kernel from 6.18.35-1-lts to 7.x with zfs kernel modules arch linux",
+      "url": "https://stackoverflow.com/questions/80011753/updating-linux-kernel-from-6-18-35-1-lts-to-7-x-with-zfs-kernel-modules-arch-lin",
+      "score": 0,
+      "answers": 0,
+      "views": 12,
+      "tags": [
+        "linux",
+        "kernel",
+        "archlinux",
+        "pacman",
+        "zfs"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "X11 event loop behavior",
+      "url": "https://stackoverflow.com/questions/80011745/x11-event-loop-behavior",
+      "score": 0,
+      "answers": 0,
+      "views": 40,
+      "tags": [
+        "c",
+        "xlib"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Should I Add Foreign Key Constraints Before or After Migrating Data from MySQL to PostgreSQL?",
+      "url": "https://stackoverflow.com/questions/80011738/should-i-add-foreign-key-constraints-before-or-after-migrating-data-from-mysql-t",
+      "score": -3,
+      "answers": 1,
+      "views": 47,
+      "tags": [
+        "best-practices",
+        "mysql",
+        "postgresql",
+        "database-migration"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "How should I lock FEFO inventory batches when reserving stock concurrently with SQLAlchemy and PostgreSQL?",
+      "url": "https://stackoverflow.com/questions/80011735/how-should-i-lock-fefo-inventory-batches-when-reserving-stock-concurrently-with",
+      "score": -2,
+      "answers": 0,
+      "views": 21,
+      "tags": [
+        "python",
+        "postgresql",
+        "sqlalchemy"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "SonarQube is not accessible",
+      "url": "https://stackoverflow.com/questions/80011737/sonarqube-is-not-accessible",
+      "score": -2,
+      "answers": 0,
+      "views": 14,
+      "tags": [
+        "azure",
+        "sonarqube",
+        "azure-container-apps"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "AWS Console Sign-in stuck in a loop: \"Authentication failed\" with Passkey/WebAuthn for Root User",
+      "url": "https://stackoverflow.com/questions/80011729/aws-console-sign-in-stuck-in-a-loop-authentication-failed-with-passkey-webaut",
+      "score": -5,
+      "answers": 0,
+      "views": 39,
+      "tags": [
+        "amazon-web-services",
+        "webauthn",
+        "passkey",
+        "aws-console"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "unserialize/serialize objects in Node.js, similar to PHP",
+      "url": "https://stackoverflow.com/questions/80011706/unserialize-serialize-objects-in-node-js-similar-to-php",
+      "score": 2,
+      "answers": 1,
+      "views": 107,
+      "tags": [
+        "javascript",
+        "node.js"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "How to use one sequence per table in Entity Framework Core to generate new primary keys on INSERT in SQL Server",
+      "url": "https://stackoverflow.com/questions/80011694/how-to-use-one-sequence-per-table-in-entity-framework-core-to-generate-new-prima",
+      "score": 1,
+      "answers": 0,
+      "views": 49,
+      "tags": [
+        "c#",
+        "sql-server",
+        "entity-framework-core"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Why doesn't the for loop go through the whole list in the function using the #define?",
+      "url": "https://stackoverflow.com/questions/80011682/why-doesnt-the-for-loop-go-through-the-whole-list-in-the-function-using-the-de",
+      "score": 1,
+      "answers": 2,
+      "views": 94,
+      "tags": [
+        "c",
+        "sizeof"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Embed .NET 4.8 Installer with Wix",
+      "url": "https://stackoverflow.com/questions/80011693/embed-net-4-8-installer-with-wix",
+      "score": -4,
+      "answers": 0,
+      "views": 32,
+      "tags": [
+        "advice",
+        "wix"
+      ]
+    },
+    {
+      "rank": 11,
+      "title": "Breaking long URLs in comments, still having them selectable/clickable",
+      "url": "https://stackoverflow.com/questions/80011577/breaking-long-urls-in-comments-still-having-them-selectable-clickable",
+      "score": -5,
+      "answers": 7,
+      "views": 236,
+      "tags": [
+        "best-practices",
+        "c++",
+        "c"
+      ]
+    },
+    {
+      "rank": 12,
+      "title": "SELECT SQL query returning no columns",
+      "url": "https://stackoverflow.com/questions/80011702/select-sql-query-returning-no-columns",
+      "score": 1,
+      "answers": 1,
+      "views": 64,
+      "tags": [
+        "sql",
+        "snowflake-cloud-data-platform"
+      ]
+    },
+    {
+      "rank": 13,
+      "title": "How do I make a JSON parser in C without libraries?",
+      "url": "https://stackoverflow.com/questions/80011704/how-do-i-make-a-json-parser-in-c-without-libraries",
+      "score": -6,
+      "answers": 0,
+      "views": 105,
+      "tags": [
+        "c",
+        "json",
+        "parsing",
+        "tokenize"
+      ]
+    },
+    {
+      "rank": 14,
+      "title": "Batch-File Substituting an entire string for one character",
+      "url": "https://stackoverflow.com/questions/80011674/batch-file-substituting-an-entire-string-for-one-character",
+      "score": 0,
+      "answers": 1,
+      "views": 57,
+      "tags": [
+        "batch-file"
+      ]
+    },
+    {
+      "rank": 15,
+      "title": "How can I temporarily mitigate CVE-2026-109618 and CVE-2026-109619 on Bitnami PHP-FPM Wordpress - PHP 5.4 - 8.5?",
+      "url": "https://stackoverflow.com/questions/80011670/how-can-i-temporarily-mitigate-cve-2026-109618-and-cve-2026-109619-on-bitnami-ph",
+      "score": 2,
+      "answers": 1,
+      "views": 286,
+      "tags": [
+        "php",
+        "wordpress",
+        "apache",
+        "nginx",
+        "bitnami"
+      ]
+    },
+    {
+      "rank": 16,
+      "title": "How to use variadic system calls from assembly? (Linux, x86-64)",
+      "url": "https://stackoverflow.com/questions/80011581/how-to-use-variadic-system-calls-from-assembly-linux-x86-64",
+      "score": 2,
+      "answers": 1,
+      "views": 82,
+      "tags": [
+        "linux",
+        "assembly",
+        "x86-64",
+        "system-calls",
+        "variadic-functions"
+      ]
+    },
+    {
+      "rank": 17,
+      "title": "Why does a class property with a non-public setter fail to implement an interface property?",
+      "url": "https://stackoverflow.com/questions/80011658/why-does-a-class-property-with-a-non-public-setter-fail-to-implement-an-interfac",
+      "score": 4,
+      "answers": 1,
+      "views": 97,
+      "tags": [
+        "c#",
+        "inheritance",
+        "interface",
+        "access-modifiers"
+      ]
+    },
+    {
+      "rank": 18,
+      "title": "App Engine Standard PHP runtimes not yet serving patched versions for CVE-2026-109618 / CVE-2026-109619",
+      "url": "https://stackoverflow.com/questions/80011663/app-engine-standard-php-runtimes-not-yet-serving-patched-versions-for-cve-2026-1",
+      "score": 0,
+      "answers": 0,
+      "views": 194,
+      "tags": [
+        "php",
+        "google-app-engine"
+      ]
+    },
+    {
+      "rank": 19,
+      "title": "Can an Internal Google OAuth client under Cloud Identity Free receive the `hwk` AMR claim through Google's Security Bundle?",
+      "url": "https://stackoverflow.com/questions/80011696/can-an-internal-google-oauth-client-under-cloud-identity-free-receive-the-hwk",
+      "score": -2,
+      "answers": 0,
+      "views": 31,
+      "tags": [
+        "google-oauth",
+        "openid-connect",
+        "google-cloud-identity"
+      ]
+    },
+    {
+      "rank": 20,
+      "title": "Designer View doesn't acts the same as the run time",
+      "url": "https://stackoverflow.com/questions/80011685/designer-view-doesnt-acts-the-same-as-the-run-time",
+      "score": 0,
+      "answers": 0,
+      "views": 42,
+      "tags": [
+        "c#",
+        ".net",
+        "winforms",
+        "windows-forms-designer"
+      ]
+    },
+    {
+      "rank": 21,
+      "title": "Plan and ask mode in VScode copilot has dissappeared after my Quota was exhausted",
+      "url": "https://stackoverflow.com/questions/80011681/plan-and-ask-mode-in-vscode-copilot-has-dissappeared-after-my-quota-was-exhauste",
+      "score": -5,
+      "answers": 0,
+      "views": 48,
+      "tags": [
+        "vs-code",
+        "vscode-copilot"
+      ]
+    },
+    {
+      "rank": 22,
+      "title": "Patching CVE-2026-109619 on a Ubuntu PHP 8 installation that was manually patched over PHP 7.4",
+      "url": "https://stackoverflow.com/questions/80011647/patching-cve-2026-109619-on-a-ubuntu-php-8-installation-that-was-manually-patche",
+      "score": -1,
+      "answers": 0,
+      "views": 157,
+      "tags": [
+        "php",
+        "ubuntu"
+      ]
+    },
+    {
+      "rank": 23,
+      "title": "How can I handle all possible PouchDB error messages?",
+      "url": "https://stackoverflow.com/questions/80011661/how-can-i-handle-all-possible-pouchdb-error-messages",
+      "score": -5,
+      "answers": 0,
+      "views": 72,
+      "tags": [
+        "pouchdb"
+      ]
+    },
+    {
+      "rank": 24,
+      "title": "Get sizeof string_views from std::array with variadic template",
+      "url": "https://stackoverflow.com/questions/80011536/get-sizeof-string-views-from-stdarray-with-variadic-template",
+      "score": 3,
+      "answers": 3,
+      "views": 135,
+      "tags": [
+        "c++",
+        "c++20",
+        "variadic-templates",
+        "stdarray"
+      ]
+    },
+    {
+      "rank": 25,
+      "title": "How to turn xml_deadlock_report events from system_health into readable rows on Amazon RDS for SQL Server 2017? wx3000",
+      "url": "https://stackoverflow.com/questions/80011653/how-to-turn-xml-deadlock-report-events-from-system-health-into-readable-rows-on",
+      "score": -2,
+      "answers": 0,
+      "views": 72,
+      "tags": [
+        "sql-server",
+        "xml",
+        "events",
+        "amazon-rds",
+        "amazon-cloudwatch"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,282 @@
+{
+  "source": "huggingface",
+  "label": "Hugging Face — trending models",
+  "fetched_at": "2026-10-22T05:16:39.645Z",
+  "items": [
+    {
+      "rank": 1,
+      "title": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "author": "deepseek-ai",
+      "downloads": 42122,
+      "likes": 2207,
+      "trending_score": 1942,
+      "pipeline_tag": "image-text-to-text",
+      "last_modified": "2026-10-17T05:46:55.000Z"
+    },
+    {
+      "rank": 2,
+      "title": "black-forest-labs/flux-3-image-klein-comfy",
+      "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy",
+      "author": "black-forest-labs",
+      "downloads": 490447,
+      "likes": 1204,
+      "trending_score": 899,
+      "pipeline_tag": "image-to-image",
+      "last_modified": "2026-10-17T07:10:12.000Z"
+    },
+    {
+      "rank": 3,
+      "title": "meta-models/Muse-Spark-Open-816B-A42B",
+      "url": "https://huggingface.co/meta-models/Muse-Spark-Open-816B-A42B",
+      "author": "meta-models",
+      "downloads": 2891,
+      "likes": 641,
+      "trending_score": 580,
+      "pipeline_tag": "image-text-to-text",
+      "last_modified": "2026-10-15T15:46:43.000Z"
+    },
+    {
+      "rank": 4,
+      "title": "black-forest-labs/flux-3-image-klein",
+      "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein",
+      "author": "black-forest-labs",
+      "downloads": 92604,
+      "likes": 607,
+      "trending_score": 537,
+      "pipeline_tag": "image-to-image",
+      "last_modified": "2026-10-16T04:58:03.000Z"
+    },
+    {
+      "rank": 5,
+      "title": "fishaudio/drama-3",
+      "url": "https://huggingface.co/fishaudio/drama-3",
+      "author": "fishaudio",
+      "downloads": 15274,
+      "likes": 896,
+      "trending_score": 522,
+      "pipeline_tag": "text-to-speech",
+      "last_modified": "2026-10-17T05:06:07.000Z"
+    },
+    {
+      "rank": 6,
+      "title": "OpenMOSS-Team/MOSS-Image-SFT",
+      "url": "https://huggingface.co/OpenMOSS-Team/MOSS-Image-SFT",
+      "author": "OpenMOSS-Team",
+      "downloads": 5840,
+      "likes": 540,
+      "trending_score": 501,
+      "pipeline_tag": "text-to-image",
+      "last_modified": "2026-10-21T01:52:00.000Z"
+    },
+    {
+      "rank": 7,
+      "title": "OpenMOSS-Team/MOSS-Image-Base",
+      "url": "https://huggingface.co/OpenMOSS-Team/MOSS-Image-Base",
+      "author": "OpenMOSS-Team",
+      "downloads": 4344,
+      "likes": 472,
+      "trending_score": 445,
+      "pipeline_tag": "text-to-image",
+      "last_modified": "2026-10-21T01:51:54.000Z"
+    },
+    {
+      "rank": 8,
+      "title": "Lightricks/LTX-2.5",
+      "url": "https://huggingface.co/Lightricks/LTX-2.5",
+      "author": "Lightricks",
+      "downloads": 2057942,
+      "likes": 8781,
+      "trending_score": 428,
+      "pipeline_tag": "image-to-video",
+      "last_modified": "2026-10-11T07:00:53.000Z"
+    },
+    {
+      "rank": 9,
+      "title": "google/embeddinggemma-2",
+      "url": "https://huggingface.co/google/embeddinggemma-2",
+      "author": "google",
+      "downloads": 179734,
+      "likes": 2815,
+      "trending_score": 406,
+      "pipeline_tag": "feature-extraction",
+      "last_modified": "2026-10-06T15:29:23.000Z"
+    },
+    {
+      "rank": 10,
+      "title": "jialinyyzz/humanizer",
+      "url": "https://huggingface.co/jialinyyzz/humanizer",
+      "author": "jialinyyzz",
+      "downloads": 120930,
+      "likes": 2070,
+      "trending_score": 367,
+      "pipeline_tag": "text-generation",
+      "last_modified": "2026-10-15T02:09:56.000Z"
+    },
+    {
+      "rank": 11,
+      "title": "Comfy-Org/MOSS-Image",
+      "url": "https://huggingface.co/Comfy-Org/MOSS-Image",
+      "author": "Comfy-Org",
+      "downloads": 1290080,
+      "likes": 342,
+      "trending_score": 321,
+      "pipeline_tag": null,
+      "last_modified": "2026-10-20T20:24:03.000Z"
+    },
+    {
+      "rank": 12,
+      "title": "abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
+      "url": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
+      "author": "abenzerps",
+      "downloads": 2738344,
+      "likes": 4781,
+      "trending_score": 313,
+      "pipeline_tag": "text-to-image",
+      "last_modified": "2026-10-12T07:10:55.000Z"
+    },
+    {
+      "rank": 13,
+      "title": "Qwen/Qwen3.8-27B",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+      "author": "Qwen",
+      "downloads": 7729432,
+      "likes": 18151,
+      "trending_score": 299,
+      "pipeline_tag": "image-text-to-text",
+      "last_modified": "2026-08-14T15:00:01.000Z"
+    },
+    {
+      "rank": 14,
+      "title": "RecursiveSI/flint",
+      "url": "https://huggingface.co/RecursiveSI/flint",
+      "author": "RecursiveSI",
+      "downloads": 0,
+      "likes": 298,
+      "trending_score": 295,
+      "pipeline_tag": "text-generation",
+      "last_modified": "2026-10-21T14:24:03.000Z"
+    },
+    {
+      "rank": 15,
+      "title": "nvidia/Qwen3.8-Flash-Next-FP4-Local",
+      "url": "https://huggingface.co/nvidia/Qwen3.8-Flash-Next-FP4-Local",
+      "author": "nvidia",
+      "downloads": 9340,
+      "likes": 294,
+      "trending_score": 287,
+      "pipeline_tag": "image-text-to-text",
+      "last_modified": "2026-10-15T19:45:54.000Z"
+    },
+    {
+      "rank": 16,
+      "title": "tencent/Hy-Memory-30B-A3B",
+      "url": "https://huggingface.co/tencent/Hy-Memory-30B-A3B",
+      "author": "tencent",
+      "downloads": 2682,
+      "likes": 276,
+      "trending_score": 268,
+      "pipeline_tag": "text-generation",
+      "last_modified": "2026-10-16T08:12:51.000Z"
+    },
+    {
+      "rank": 17,
+      "title": "datalab-to/indra-ocr",
+      "url": "https://huggingface.co/datalab-to/indra-ocr",
+      "author": "datalab-to",
+      "downloads": 3588,
+      "likes": 344,
+      "trending_score": 258,
+      "pipeline_tag": "image-to-text",
+      "last_modified": "2026-10-19T14:36:52.000Z"
+    },
+    {
+      "rank": 18,
+      "title": "mistralai/Timestral-209M",
+      "url": "https://huggingface.co/mistralai/Timestral-209M",
+      "author": "mistralai",
+      "downloads": 5488,
+      "likes": 266,
+      "trending_score": 255,
+      "pipeline_tag": "time-series-forecasting",
+      "last_modified": "2026-10-15T15:33:49.000Z"
+    },
+    {
+      "rank": 19,
+      "title": "LiquidAI/LFM2.5-24B-A2B",
+      "url": "https://huggingface.co/LiquidAI/LFM2.5-24B-A2B",
+      "author": "LiquidAI",
+      "downloads": 16939,
+      "likes": 551,
+      "trending_score": 211,
+      "pipeline_tag": "text-generation",
+      "last_modified": "2026-10-21T01:14:14.000Z"
+    },
+    {
+      "rank": 20,
+      "title": "reflection/Beam-1.0-501B-A23B",
+      "url": "https://huggingface.co/reflection/Beam-1.0-501B-A23B",
+      "author": "reflection",
+      "downloads": 3555,
+      "likes": 212,
+      "trending_score": 205,
+      "pipeline_tag": "text-generation",
+      "last_modified": "2026-10-21T23:26:37.000Z"
+    },
+    {
+      "rank": 21,
+      "title": "lodestones/Kromoss",
+      "url": "https://huggingface.co/lodestones/Kromoss",
+      "author": "lodestones",
+      "downloads": 11608,
+      "likes": 206,
+      "trending_score": 203,
+      "pipeline_tag": "text-to-image",
+      "last_modified": "2026-10-20T14:31:08.000Z"
+    },
+    {
+      "rank": 22,
+      "title": "facebook/sam3",
+      "url": "https://huggingface.co/facebook/sam3",
+      "author": "facebook",
+      "downloads": 1906176,
+      "likes": 4851,
+      "trending_score": 199,
+      "pipeline_tag": "mask-generation",
+      "last_modified": "2025-11-20T22:05:08.000Z"
+    },
+    {
+      "rank": 23,
+      "title": "nvidia/NVIDIA-Nemotron-3.5-Super-VL-120B-A12B-NVFP4",
+      "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Super-VL-120B-A12B-NVFP4",
+      "author": "nvidia",
+      "downloads": 12910,
+      "likes": 204,
+      "trending_score": 192,
+      "pipeline_tag": "image-text-to-text",
+      "last_modified": "2026-10-16T23:39:43.000Z"
+    },
+    {
+      "rank": 24,
+      "title": "lodestones/MOSS-Image-SFT-8-steps-dmd",
+      "url": "https://huggingface.co/lodestones/MOSS-Image-SFT-8-steps-dmd",
+      "author": "lodestones",
+      "downloads": 68289,
+      "likes": 195,
+      "trending_score": 191,
+      "pipeline_tag": null,
+      "last_modified": "2026-10-17T03:44:54.000Z"
+    },
+    {
+      "rank": 25,
+      "title": "dealignai/DeepSeek-V4.1-Flash-1017-UNCENSORED-FP8",
+      "url": "https://huggingface.co/dealignai/DeepSeek-V4.1-Flash-1017-UNCENSORED-FP8",
+      "author": "dealignai",
+      "downloads": 3458,
+      "likes": 213,
+      "trending_score": 191,
+      "pipeline_tag": "image-text-to-text",
+      "last_modified": "2026-10-18T12:45:29.000Z"
+    }
+  ]
+}

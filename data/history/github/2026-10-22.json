@@ -1,0 +1,117 @@
+{
+  "source": "github",
+  "label": "GitHub — trending today",
+  "fetched_at": "2026-10-22T05:16:40.760Z",
+  "items": [
+    {
+      "rank": 1,
+      "title": "cloudflare/security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "language": "JavaScript",
+      "stars_today": 2012,
+      "stars": 37112,
+      "forks": 2310
+    },
+    {
+      "rank": 2,
+      "title": "vllm-project/vllm",
+      "url": "https://github.com/vllm-project/vllm",
+      "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+      "language": "Python",
+      "stars_today": 441,
+      "stars": 94970,
+      "forks": 23766
+    },
+    {
+      "rank": 3,
+      "title": "stablyai/orca",
+      "url": "https://github.com/stablyai/orca",
+      "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+      "language": "TypeScript",
+      "stars_today": 1541,
+      "stars": 101640,
+      "forks": 6427
+    },
+    {
+      "rank": 4,
+      "title": "headroomlabs-ai/headroom",
+      "url": "https://github.com/headroomlabs-ai/headroom",
+      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
+      "language": "Python",
+      "stars_today": 474,
+      "stars": 77359,
+      "forks": 6008
+    },
+    {
+      "rank": 5,
+      "title": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "language": "JavaScript",
+      "stars_today": 2079,
+      "stars": 172008,
+      "forks": 9361
+    },
+    {
+      "rank": 6,
+      "title": "Comfy-Org/ComfyUI",
+      "url": "https://github.com/Comfy-Org/ComfyUI",
+      "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+      "language": "Python",
+      "stars_today": 939,
+      "stars": 141665,
+      "forks": 16739
+    },
+    {
+      "rank": 7,
+      "title": "supabase/supabase",
+      "url": "https://github.com/supabase/supabase",
+      "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+      "language": "TypeScript",
+      "stars_today": 504,
+      "stars": 113130,
+      "forks": 16968
+    },
+    {
+      "rank": 8,
+      "title": "twentyhq/twenty",
+      "url": "https://github.com/twentyhq/twenty",
+      "description": "The open alternative to Salesforce, designed for AI.",
+      "language": "TypeScript",
+      "stars_today": 112,
+      "stars": 59320,
+      "forks": 9671
+    },
+    {
+      "rank": 9,
+      "title": "shiyu-coder/Kronos",
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "language": "Python",
+      "stars_today": 575,
+      "stars": 42936,
+      "forks": 7079
+    },
+    {
+      "rank": 10,
+      "title": "akitaonrails/ai-memory",
+      "url": "https://github.com/akitaonrails/ai-memory",
+      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "language": "Rust",
+      "stars_today": 286,
+      "stars": 12473,
+      "forks": 879
+    },
+    {
+      "rank": 11,
+      "title": "Graphify-Labs/graphify",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+      "language": "Python",
+      "stars_today": 1433,
+      "stars": 131889,
+      "forks": 12657
+    }
+  ]
+}

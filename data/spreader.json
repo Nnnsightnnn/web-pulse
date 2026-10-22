@@ -1,11 +1,11 @@
 {
-  "date": "2026-10-21",
-  "generated_at": "2026-10-21T05:17:26.026Z",
-  "lede": "The web ran quiet and local today, with just one story crossing feeds: ComfyUI surfaced on both GitHub trending and Hugging Face, the lone thread tying two sources together. The biggest single number came from Hugging Face, where Black Forest Labs' flux-3-image-klein-comfy pulled 439,528 downloads, far ahead of the next model. On Wikipedia, Kim Jong Un led the day at 321,739 views, narrowly ahead of Jailer 2 at 303,129.",
+  "date": "2026-10-22",
+  "generated_at": "2026-10-22T05:17:21.376Z",
+  "lede": "One security story surfaced in three feeds at once: a PHP vulnerability drew 238,212 Wikipedia views under the name PHP2Shell, reached 322 points on Hacker News beneath a thread arguing there isn't an easy exploit for it, and drew a Mastodon post remarking that 70 percent of the internet needs fixing. Wikipedia's most-read page was quieter and stranger, with Jailer 2 pulling 278,796 views and no clear reason attached. Over on Steam, Counter-Strike 2 held a 1,205,009 concurrent-player peak across the day.",
   "throughlines": [
     {
       "title": "Comfy-Org/ComfyUI",
-      "gist": "The open-source image-generation toolkit was the only topic to land on two feeds at once, trending on GitHub and Hugging Face together.",
+      "gist": "ComfyUI, the open source node based workspace for building generative image and video pipelines, showed up on GitHub's trending repos and Hugging Face at the same time.",
       "sources": [
         "github",
         "huggingface"
@@ -14,25 +14,27 @@
       "kind": "cluster"
     },
     {
-      "title": "Kim Jong Un",
-      "gist": "The most-read Wikipedia article of the day at 321,739 views, narrowly ahead of Jailer 2.",
+      "title": "mitmproxy adds --emudhra option",
+      "gist": "A change to mitmproxy, the interactive HTTPS proxy developers use to inspect encrypted traffic, drew attention on both Hacker News and Mastodon.",
       "sources": [
-        "wikipedia"
+        "hackernews",
+        "mastodon-trending"
       ],
-      "url": "https://en.wikipedia.org/wiki/Kim_Jong_Un",
-      "kind": "single"
+      "url": "https://news.ycombinator.com/item?id=50189232",
+      "kind": "cluster"
     },
     {
-      "title": "The Future of CSS",
-      "gist": "The top story on Hacker News with 143 points and 47 comments, a developer essay on where CSS is heading.",
+      "title": "Call of Duty®",
+      "gist": "Call of Duty was pulling an audience on both Steam's charts and YouTube's trending videos on the same day.",
       "sources": [
-        "hackernews"
+        "steam",
+        "youtube"
       ],
-      "url": "https://www.joshwcomeau.com/css/interop-2027/",
-      "kind": "single"
+      "url": "https://store.steampowered.com/app/1938090",
+      "kind": "cluster"
     }
   ],
-  "strength": 34,
+  "strength": 78,
   "live_sources": 17,
   "total_sources": 17,
   "dashboard_url": "https://nnnsightnnn.github.io/web-pulse/",
