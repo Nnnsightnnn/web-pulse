@@ -1,0 +1,325 @@
+{
+  "source": "stackoverflow",
+  "label": "Stack Overflow — hot questions",
+  "fetched_at": "2026-10-23T06:28:18.287Z",
+  "items": [
+    {
+      "rank": 1,
+      "title": "How to optimize Google Maps API performance for a local multi-location service website?",
+      "url": "https://stackoverflow.com/questions/80011988/how-to-optimize-google-maps-api-performance-for-a-local-multi-location-service-w",
+      "score": -3,
+      "answers": 0,
+      "views": 16,
+      "tags": [
+        "javascript",
+        "performance",
+        "google-maps"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Is there a Slack API to retrieve incoming webhook URLs for channels where my app was never installed or authorized?",
+      "url": "https://stackoverflow.com/questions/80011985/is-there-a-slack-api-to-retrieve-incoming-webhook-urls-for-channels-where-my-app",
+      "score": -2,
+      "answers": 0,
+      "views": 33,
+      "tags": [
+        "slack",
+        "slack-api"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "jaspr failed to read InheritedComponent",
+      "url": "https://stackoverflow.com/questions/80011981/jaspr-failed-to-read-inheritedcomponent",
+      "score": 0,
+      "answers": 0,
+      "views": 21,
+      "tags": [
+        "flutter",
+        "jaspr"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "file_get_contents fails for reCaptcha siteverify",
+      "url": "https://stackoverflow.com/questions/80011969/file-get-contents-fails-for-recaptcha-siteverify",
+      "score": 0,
+      "answers": 0,
+      "views": 126,
+      "tags": [
+        "php",
+        "magento2"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "How can I prevent infinite recursion and a SIGSEGV when using std::shared_ptr with an incomplete type in C++?",
+      "url": "https://stackoverflow.com/questions/80011956/how-can-i-prevent-infinite-recursion-and-a-sigsegv-when-using-stdshared-ptr-wi",
+      "score": 1,
+      "answers": 2,
+      "views": 130,
+      "tags": [
+        "c++",
+        "recursion",
+        "segmentation-fault",
+        "smart-pointers"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "The property '{EntityName}.{PropertyName}' is part of a key and so cannot be modified or marked as modified",
+      "url": "https://stackoverflow.com/questions/80011953/the-property-entityname-propertyname-is-part-of-a-key-and-so-cannot-be-mod",
+      "score": 0,
+      "answers": 0,
+      "views": 43,
+      "tags": [
+        "c#",
+        "entity-framework-core"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Multi-file HTML IDE that runs in a browser (is a website)",
+      "url": "https://stackoverflow.com/questions/80011965/multi-file-html-ide-that-runs-in-a-browser-is-a-website",
+      "score": -5,
+      "answers": 0,
+      "views": 73,
+      "tags": [
+        "tooling-recommendation",
+        "javascript",
+        "html"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "How to split the string value of an environment variable on underscore into two strings?",
+      "url": "https://stackoverflow.com/questions/80011924/how-to-split-the-string-value-of-an-environment-variable-on-underscore-into-two",
+      "score": -5,
+      "answers": 1,
+      "views": 128,
+      "tags": [
+        "batch-file"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "WindowsAppSdk AppNotificationManager System.Runtime.InteropServices.COMException (0x80040154): Class not registered",
+      "url": "https://stackoverflow.com/questions/80011964/windowsappsdk-appnotificationmanager-system-runtime-interopservices-comexception",
+      "score": -1,
+      "answers": 0,
+      "views": 34,
+      "tags": [
+        ".net",
+        "windows-app-sdk"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "How do I replicate the iOS 27 Liquid Glass opening app animation in Flutter?",
+      "url": "https://stackoverflow.com/questions/80011963/how-do-i-replicate-the-ios-27-liquid-glass-opening-app-animation-in-flutter",
+      "score": -5,
+      "answers": 0,
+      "views": 47,
+      "tags": [
+        "flutter-animation",
+        "ios18"
+      ]
+    },
+    {
+      "rank": 11,
+      "title": "is running random spams of hexadecimal code converted to assembly a good idea?",
+      "url": "https://stackoverflow.com/questions/80011955/is-running-random-spams-of-hexadecimal-code-converted-to-assembly-a-good-idea",
+      "score": -10,
+      "answers": 0,
+      "views": 72,
+      "tags": [
+        "assembly",
+        "dependency-injection",
+        "hex",
+        "machine-code"
+      ]
+    },
+    {
+      "rank": 12,
+      "title": "Cloud Functions 2nd gen (Cloud Run) containers suddenly fail to start \"failed to listen on PORT 8080 within timeout\"",
+      "url": "https://stackoverflow.com/questions/80011960/cloud-functions-2nd-gen-cloud-run-containers-suddenly-fail-to-start-failed-to",
+      "score": 1,
+      "answers": 0,
+      "views": 42,
+      "tags": [
+        "node.js",
+        "firebase",
+        "google-cloud-functions",
+        "google-cloud-run"
+      ]
+    },
+    {
+      "rank": 13,
+      "title": "How can I split double hyphens in a Python word counter while preserving single hyphens and apostrophes?",
+      "url": "https://stackoverflow.com/questions/80011903/how-can-i-split-double-hyphens-in-a-python-word-counter-while-preserving-single",
+      "score": 0,
+      "answers": 3,
+      "views": 166,
+      "tags": [
+        "python",
+        "regex",
+        "string"
+      ]
+    },
+    {
+      "rank": 14,
+      "title": "Alternative import hook for modifying source code before compiling",
+      "url": "https://stackoverflow.com/questions/80011839/alternative-import-hook-for-modifying-source-code-before-compiling",
+      "score": -4,
+      "answers": 0,
+      "views": 129,
+      "tags": [
+        "python",
+        "import-hooks"
+      ]
+    },
+    {
+      "rank": 15,
+      "title": "Downcast generic interface (INumber<T>) to derived generic interface (IBinaryInteger<T>)",
+      "url": "https://stackoverflow.com/questions/80011917/downcast-generic-interface-inumbert-to-derived-generic-interface-ibinaryint",
+      "score": 0,
+      "answers": 3,
+      "views": 99,
+      "tags": [
+        "c#",
+        "generics",
+        "interface",
+        "casting",
+        ".net-generic-math"
+      ]
+    },
+    {
+      "rank": 16,
+      "title": "Minimize code duplication across Electron main/renderer/preload",
+      "url": "https://stackoverflow.com/questions/80011954/minimize-code-duplication-across-electron-main-renderer-preload",
+      "score": -1,
+      "answers": 0,
+      "views": 37,
+      "tags": [
+        "best-practices",
+        "typescript",
+        "electron",
+        "dry"
+      ]
+    },
+    {
+      "rank": 17,
+      "title": "Does this code cause undefined behavior or just \"safe random\" behavior",
+      "url": "https://stackoverflow.com/questions/80011905/does-this-code-cause-undefined-behavior-or-just-safe-random-behavior",
+      "score": -1,
+      "answers": 1,
+      "views": 204,
+      "tags": [
+        "c++",
+        "undefined-behavior"
+      ]
+    },
+    {
+      "rank": 18,
+      "title": "How can I know if my application is affected by the \"PHP2Shell\" vulnerabilities CVE-2026-109618 / CVE-2026-109619 and how can I mitigate them?",
+      "url": "https://stackoverflow.com/questions/80011791/how-can-i-know-if-my-application-is-affected-by-the-php2shell-vulnerabilities",
+      "score": 14,
+      "answers": 1,
+      "views": 1651,
+      "tags": [
+        "php",
+        "security"
+      ]
+    },
+    {
+      "rank": 19,
+      "title": "How can I make a vector append function type-agnostic in C?",
+      "url": "https://stackoverflow.com/questions/80011891/how-can-i-make-a-vector-append-function-type-agnostic-in-c",
+      "score": 1,
+      "answers": 1,
+      "views": 126,
+      "tags": [
+        "c",
+        "generics",
+        "dynamic-arrays"
+      ]
+    },
+    {
+      "rank": 20,
+      "title": "Wix MSI package not recognizing existing upgrade code",
+      "url": "https://stackoverflow.com/questions/80011945/wix-msi-package-not-recognizing-existing-upgrade-code",
+      "score": -3,
+      "answers": 0,
+      "views": 40,
+      "tags": [
+        "wix",
+        "windows-installer"
+      ]
+    },
+    {
+      "rank": 21,
+      "title": "Optimize query to get row-based data with lots of attributes?",
+      "url": "https://stackoverflow.com/questions/80011886/optimize-query-to-get-row-based-data-with-lots-of-attributes",
+      "score": 0,
+      "answers": 1,
+      "views": 99,
+      "tags": [
+        "sql",
+        "sql-server",
+        "t-sql",
+        "query-optimization"
+      ]
+    },
+    {
+      "rank": 22,
+      "title": "Working with noise words in CONTAINSTABLE",
+      "url": "https://stackoverflow.com/questions/80011833/working-with-noise-words-in-containstable",
+      "score": 3,
+      "answers": 1,
+      "views": 62,
+      "tags": [
+        "sql-server",
+        "full-text-search",
+        "sql-server-2019"
+      ]
+    },
+    {
+      "rank": 23,
+      "title": "Open application from keyboard extension – current status?",
+      "url": "https://stackoverflow.com/questions/80011854/open-application-from-keyboard-extension-current-status",
+      "score": -4,
+      "answers": 0,
+      "views": 98,
+      "tags": [
+        "ios",
+        "swift",
+        "ios-keyboard-extension"
+      ]
+    },
+    {
+      "rank": 24,
+      "title": "Oracle Integration Cloud Security Report",
+      "url": "https://stackoverflow.com/questions/80011904/oracle-integration-cloud-security-report",
+      "score": -7,
+      "answers": 0,
+      "views": 63,
+      "tags": [
+        "oracle-cloud-infrastructure"
+      ]
+    },
+    {
+      "rank": 25,
+      "title": "dbeaver community edition: How to show only non NULL columns",
+      "url": "https://stackoverflow.com/questions/80011840/dbeaver-community-edition-how-to-show-only-non-null-columns",
+      "score": -1,
+      "answers": 4,
+      "views": 120,
+      "tags": [
+        "sql",
+        "postgresql",
+        "dbeaver"
+      ]
+    }
+  ]
+}
