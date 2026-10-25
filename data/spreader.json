@@ -1,30 +1,31 @@
 {
-  "date": "2026-10-24",
-  "generated_at": "2026-10-24T05:16:49.703Z",
-  "lede": "It was a quiet, scattered day on the web: only one topic managed to surface on two feeds at once. Grand Theft Auto turned up on both Steam, where Grand Theft Auto V Legacy sat at number 11, and YouTube, where the Grand Theft Auto VI launch trailer held the number 8 spot. The sharpest single reading came from the ground rather than the feeds: USGS logged a magnitude 6.9 quake 197 km off Port-Olry, Vanuatu, trailed by a run of strong aftershocks. On Wikipedia, Tom Skerritt drew 406,636 views, half again the next most-read page, with nothing else in the snapshot to explain the pull.",
+  "date": "2026-10-25",
+  "generated_at": "2026-10-25T05:17:12.492Z",
+  "lede": "Seventeen feeds, and only two stories managed to appear on more than one of them: Elizabeth Holmes, who drew 188,874 Wikipedia views while searchers asked whether she is still in jail, and a cat caught mid-judgment of someone's new planter. Wikipedia's own race was tighter than that cross-feed silence suggested, with the Clayface film page taking first at 231,483 views, just 6,792 ahead of the UFC 333 card. Underneath the noise, developers pulled in one direction: Cloudflare's new security-audit skill gained 2,264 stars in a day to top GitHub. The ground stayed quietest of all, with 25 quakes and nothing larger than an M6.5 near Japan's Bonin Islands.",
   "throughlines": [
     {
-      "title": "Grand Theft Auto VI Launch Trailer",
-      "gist": "The only topic to bridge two feeds, with the VI launch trailer at number 8 on YouTube and Grand Theft Auto V Legacy at number 11 on Steam.",
+      "title": "Elizabeth Holmes",
+      "gist": "The Theranos founder was the only news story to surface on two feeds at once, drawing 188,874 Wikipedia readers while search traffic circled whether she is still behind bars.",
       "sources": [
-        "steam",
-        "youtube"
+        "google-trends",
+        "wikipedia"
       ],
-      "url": "https://store.steampowered.com/app/271590",
+      "url": "https://en.wikipedia.org/wiki/Elizabeth_Holmes",
       "kind": "cluster"
     },
     {
-      "title": "Tom Skerritt",
-      "gist": "The day’s most-read Wikipedia article at 406,636 views, half again the next page, with no clear trigger in the snapshot.",
+      "title": "Interior decorator kitty would like a word about your new planter. Photo from my collection, no date/info.",
+      "gist": "A single CatsOfYore post, a cat sizing up a new planter, was the only other item to cross feeds, landing on both Bluesky and Mastodon the same day.",
       "sources": [
-        "wikipedia"
+        "bluesky",
+        "mastodon-trending"
       ],
-      "url": "https://en.wikipedia.org/wiki/Tom_Skerritt",
-      "kind": "single"
+      "url": "https://bsky.app/profile/catsofyore.bsky.social/post/3mynrxpcpwc2i",
+      "kind": "cluster"
     },
     {
       "title": "cloudflare/security-audit-skill",
-      "gist": "Top of GitHub trending with 2,716 stars added today.",
+      "gist": "Cloudflare's security-audit skill, a coding-agent tool for machine-verified vulnerability findings, added 2,264 stars in a day to lead GitHub trending.",
       "sources": [
         "github"
       ],
@@ -32,7 +33,7 @@
       "kind": "single"
     }
   ],
-  "strength": 32,
+  "strength": 57,
   "live_sources": 17,
   "total_sources": 17,
   "dashboard_url": "https://nnnsightnnn.github.io/web-pulse/",
