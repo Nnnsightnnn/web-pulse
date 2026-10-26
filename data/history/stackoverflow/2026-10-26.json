@@ -1,0 +1,337 @@
+{
+  "source": "stackoverflow",
+  "label": "Stack Overflow — hot questions",
+  "fetched_at": "2026-10-26T05:16:10.458Z",
+  "items": [
+    {
+      "rank": 1,
+      "title": "Why does my JS make the browser scroll to the bottom of the page when switching to a section that's taller than the window height?",
+      "url": "https://stackoverflow.com/questions/80012509/why-does-my-js-make-the-browser-scroll-to-the-bottom-of-the-page-when-switching",
+      "score": 0,
+      "answers": 2,
+      "views": 129,
+      "tags": [
+        "javascript",
+        "html"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Why does casting to Object[] prevent a ClassCastException?",
+      "url": "https://stackoverflow.com/questions/80012496/why-does-casting-to-object-prevent-a-classcastexception",
+      "score": 3,
+      "answers": 2,
+      "views": 99,
+      "tags": [
+        "java",
+        "generics",
+        "casting",
+        "type-erasure"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "What are sanitizers and how could they help me find problems in my code?",
+      "url": "https://stackoverflow.com/questions/80012463/what-are-sanitizers-and-how-could-they-help-me-find-problems-in-my-code",
+      "score": -2,
+      "answers": 1,
+      "views": 127,
+      "tags": [
+        "best-practices",
+        "c++",
+        "c",
+        "address-sanitizer",
+        "ubsan"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Is it possible to update all `text-align: left` rules to justify` while leaving `center` and `right` unchanged?",
+      "url": "https://stackoverflow.com/questions/80012502/is-it-possible-to-update-all-text-align-left-rules-to-justify-while-leaving",
+      "score": 0,
+      "answers": 1,
+      "views": 56,
+      "tags": [
+        "css"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "bitbake do_compile Error building a program using spdlog in yocto",
+      "url": "https://stackoverflow.com/questions/80012507/bitbake-do-compile-error-building-a-program-using-spdlog-in-yocto",
+      "score": -2,
+      "answers": 0,
+      "views": 33,
+      "tags": [
+        "linux",
+        "yocto",
+        "spdlog"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Sending/Receiving SMS using Android apps",
+      "url": "https://stackoverflow.com/questions/80012461/sending-receiving-sms-using-android-apps",
+      "score": -7,
+      "answers": 2,
+      "views": 74,
+      "tags": [
+        "advice",
+        "android",
+        "sms"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Does Unique make sense on unique values?",
+      "url": "https://stackoverflow.com/questions/80012490/does-unique-make-sense-on-unique-values",
+      "score": -4,
+      "answers": 1,
+      "views": 82,
+      "tags": [
+        "advice",
+        "unique-constraint"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Why does fflush(stdin) not clear the input buffer in C on macOS (GCC)?",
+      "url": "https://stackoverflow.com/questions/80012478/why-does-fflushstdin-not-clear-the-input-buffer-in-c-on-macos-gcc",
+      "score": -3,
+      "answers": 1,
+      "views": 112,
+      "tags": [
+        "c",
+        "macos",
+        "scanf",
+        "fflush",
+        "input-buffer"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "In Java, Is an Object[] Homogeneous or Heterogeneous?",
+      "url": "https://stackoverflow.com/questions/80012467/in-java-is-an-object-homogeneous-or-heterogeneous",
+      "score": -9,
+      "answers": 1,
+      "views": 146,
+      "tags": [
+        "java",
+        "arrays",
+        "types",
+        "collections",
+        "jvm"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Segmentation fault when inserting a node at the end of a singly linked list in C",
+      "url": "https://stackoverflow.com/questions/80012452/segmentation-fault-when-inserting-a-node-at-the-end-of-a-singly-linked-list-in-c",
+      "score": -2,
+      "answers": 1,
+      "views": 107,
+      "tags": [
+        "c",
+        "data-structures",
+        "linked-list",
+        "segmentation-fault"
+      ]
+    },
+    {
+      "rank": 11,
+      "title": "ValueError: failed to validate MultiPolygons when trying to create interactive map using Carto basemap and geopandas",
+      "url": "https://stackoverflow.com/questions/80012435/valueerror-failed-to-validate-multipolygons-when-trying-to-create-interactive-m",
+      "score": 3,
+      "answers": 1,
+      "views": 112,
+      "tags": [
+        "python",
+        "geospatial",
+        "geopandas",
+        "cartopy",
+        "holoviews"
+      ]
+    },
+    {
+      "rank": 12,
+      "title": "I fail to understand in simple terms what `eglSwapBuffers` does in this piece of code",
+      "url": "https://stackoverflow.com/questions/80012457/i-fail-to-understand-in-simple-terms-what-eglswapbuffers-does-in-this-piece-of",
+      "score": -3,
+      "answers": 0,
+      "views": 95,
+      "tags": [
+        "c",
+        "opengl-es",
+        "egl",
+        "linux-drm"
+      ]
+    },
+    {
+      "rank": 13,
+      "title": "Why are spaces misaligned in the bottom half of my C diamond pattern?",
+      "url": "https://stackoverflow.com/questions/80012429/why-are-spaces-misaligned-in-the-bottom-half-of-my-c-diamond-pattern",
+      "score": -6,
+      "answers": 1,
+      "views": 101,
+      "tags": [
+        "c",
+        "for-loop",
+        "printing"
+      ]
+    },
+    {
+      "rank": 14,
+      "title": "JQuery validation not working in new ASP.NET Core MVC web application",
+      "url": "https://stackoverflow.com/questions/80012423/jquery-validation-not-working-in-new-asp-net-core-mvc-web-application",
+      "score": 2,
+      "answers": 1,
+      "views": 43,
+      "tags": [
+        "c#",
+        "jquery",
+        "asp.net-core-mvc"
+      ]
+    },
+    {
+      "rank": 15,
+      "title": "How can I ensure a 20 microsecond cycle during real time testing?",
+      "url": "https://stackoverflow.com/questions/80012365/how-can-i-ensure-a-20-microsecond-cycle-during-real-time-testing",
+      "score": 1,
+      "answers": 1,
+      "views": 168,
+      "tags": [
+        "advice",
+        "python",
+        "testing",
+        "jitter"
+      ]
+    },
+    {
+      "rank": 16,
+      "title": "Div is expanding to fit content when I don't want it to",
+      "url": "https://stackoverflow.com/questions/80012415/div-is-expanding-to-fit-content-when-i-dont-want-it-to",
+      "score": 3,
+      "answers": 1,
+      "views": 102,
+      "tags": [
+        "html",
+        "css"
+      ]
+    },
+    {
+      "rank": 17,
+      "title": "How to fix sqlalchemy.exc.OperationalError: (sqlite3.OperationalError) unable to open database file?",
+      "url": "https://stackoverflow.com/questions/80012398/how-to-fix-sqlalchemy-exc-operationalerror-sqlite3-operationalerror-unable-to",
+      "score": 1,
+      "answers": 1,
+      "views": 155,
+      "tags": [
+        "python",
+        "model-context-protocol"
+      ]
+    },
+    {
+      "rank": 18,
+      "title": "How to ignore whitespace in the review page when calling `git commit --verbose`?",
+      "url": "https://stackoverflow.com/questions/80012424/how-to-ignore-whitespace-in-the-review-page-when-calling-git-commit-verbose",
+      "score": -5,
+      "answers": 0,
+      "views": 62,
+      "tags": [
+        "git",
+        "git-diff"
+      ]
+    },
+    {
+      "rank": 19,
+      "title": "Get rid of unwanted splash of color which is not splashColor in Flutter FilterChip widget",
+      "url": "https://stackoverflow.com/questions/80012412/get-rid-of-unwanted-splash-of-color-which-is-not-splashcolor-in-flutter-filterch",
+      "score": 0,
+      "answers": 1,
+      "views": 57,
+      "tags": [
+        "flutter",
+        "themes"
+      ]
+    },
+    {
+      "rank": 20,
+      "title": "How to fix WampServer addons defaulting to C:\\wamp64 after migrating to another computer?",
+      "url": "https://stackoverflow.com/questions/80012430/how-to-fix-wampserver-addons-defaulting-to-c-wamp64-after-migrating-to-another",
+      "score": -3,
+      "answers": 1,
+      "views": 43,
+      "tags": [
+        "php",
+        "windows",
+        "wamp",
+        "inno-setup"
+      ]
+    },
+    {
+      "rank": 21,
+      "title": "Should picture URLs include file extensions?",
+      "url": "https://stackoverflow.com/questions/80012350/should-picture-urls-include-file-extensions",
+      "score": 1,
+      "answers": 3,
+      "views": 109,
+      "tags": [
+        "advice",
+        "http",
+        "url",
+        "content-type",
+        "content-negotiation"
+      ]
+    },
+    {
+      "rank": 22,
+      "title": "How to rank a user's top 8 friends by interaction score in SQL (Snapchat-style planets)?",
+      "url": "https://stackoverflow.com/questions/80012420/how-to-rank-a-users-top-8-friends-by-interaction-score-in-sql-snapchat-style-p",
+      "score": -6,
+      "answers": 1,
+      "views": 72,
+      "tags": [
+        "environment",
+        "feature-extraction"
+      ]
+    },
+    {
+      "rank": 23,
+      "title": "How to access Eiffel attribute inside a C++ external",
+      "url": "https://stackoverflow.com/questions/80012347/how-to-access-eiffel-attribute-inside-a-c-external",
+      "score": -4,
+      "answers": 1,
+      "views": 87,
+      "tags": [
+        "c++",
+        "eiffel",
+        "eiffel-studio-20.05"
+      ]
+    },
+    {
+      "rank": 24,
+      "title": "DBD::DB2 column name decoding",
+      "url": "https://stackoverflow.com/questions/80012389/dbddb2-column-name-decoding",
+      "score": -4,
+      "answers": 0,
+      "views": 65,
+      "tags": [
+        "perl",
+        "db2",
+        "dbi"
+      ]
+    },
+    {
+      "rank": 25,
+      "title": "How to fix unused variable warning in recursive pattern matching?",
+      "url": "https://stackoverflow.com/questions/80012396/how-to-fix-unused-variable-warning-in-recursive-pattern-matching",
+      "score": 0,
+      "answers": 0,
+      "views": 53,
+      "tags": [
+        "recursion",
+        "gleam"
+      ]
+    }
+  ]
+}

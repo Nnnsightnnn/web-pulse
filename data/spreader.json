@@ -1,39 +1,38 @@
 {
-  "date": "2026-10-25",
-  "generated_at": "2026-10-25T05:17:12.492Z",
-  "lede": "Seventeen feeds, and only two stories managed to appear on more than one of them: Elizabeth Holmes, who drew 188,874 Wikipedia views while searchers asked whether she is still in jail, and a cat caught mid-judgment of someone's new planter. Wikipedia's own race was tighter than that cross-feed silence suggested, with the Clayface film page taking first at 231,483 views, just 6,792 ahead of the UFC 333 card. Underneath the noise, developers pulled in one direction: Cloudflare's new security-audit skill gained 2,264 stars in a day to top GitHub. The ground stayed quietest of all, with 25 quakes and nothing larger than an M6.5 near Japan's Bonin Islands.",
+  "date": "2026-10-26",
+  "generated_at": "2026-10-26T05:16:53.728Z",
+  "lede": "The day's one genuinely crossed story is Serbia's parliamentary election, the only item to surface on two feeds at once. It sits second on Wikipedia with 242,482 views and leads Polymarket, where the market on Aleksandar Vucic winning the most seats settled at 0.05 percent yes after $4.48 million in total volume. Brazil's general election edged just ahead on Wikipedia with 271,783 views, and Mastodon posts reported both outcomes. Hacker News looked elsewhere, leading with a chart of the US wage share of gross domestic income at a 75 year low.",
   "throughlines": [
     {
-      "title": "Elizabeth Holmes",
-      "gist": "The Theranos founder was the only news story to surface on two feeds at once, drawing 188,874 Wikipedia readers while search traffic circled whether she is still behind bars.",
+      "title": "Will Aleksandar Vučić – United Serbia win the most seats in the 2026 Serbian parliamentary election?",
+      "gist": "Serbia's parliamentary election is the only story on two feeds at once: second on Wikipedia and first on Polymarket, where the Vucic market settled near zero percent yes.",
       "sources": [
-        "google-trends",
+        "polymarket",
         "wikipedia"
       ],
-      "url": "https://en.wikipedia.org/wiki/Elizabeth_Holmes",
+      "url": "https://en.wikipedia.org/wiki/2026_Serbian_parliamentary_election",
       "kind": "cluster"
     },
     {
-      "title": "Interior decorator kitty would like a word about your new planter. Photo from my collection, no date/info.",
-      "gist": "A single CatsOfYore post, a cat sizing up a new planter, was the only other item to cross feeds, landing on both Bluesky and Mastodon the same day.",
-      "sources": [
-        "bluesky",
-        "mastodon-trending"
-      ],
-      "url": "https://bsky.app/profile/catsofyore.bsky.social/post/3mynrxpcpwc2i",
-      "kind": "cluster"
-    },
-    {
-      "title": "cloudflare/security-audit-skill",
-      "gist": "Cloudflare's security-audit skill, a coding-agent tool for machine-verified vulnerability findings, added 2,264 stars in a day to lead GitHub trending.",
+      "title": "makecindy/cindy",
+      "gist": "An open-source AI agent billed as working out of the box, cindy topped GitHub trending with 675 stars today.",
       "sources": [
         "github"
       ],
-      "url": "https://github.com/cloudflare/security-audit-skill",
+      "url": "https://github.com/makecindy/cindy",
+      "kind": "single"
+    },
+    {
+      "title": "US Wages Share of GDI at 75 Year Low",
+      "gist": "A FRED chart showing the US wage share of gross domestic income at a 75 year low led Hacker News with 69 points and 26 comments.",
+      "sources": [
+        "hackernews"
+      ],
+      "url": "https://fred.stlouisfed.org/series/W270RE1A156NBEA",
       "kind": "single"
     }
   ],
-  "strength": 57,
+  "strength": 90,
   "live_sources": 17,
   "total_sources": 17,
   "dashboard_url": "https://nnnsightnnn.github.io/web-pulse/",

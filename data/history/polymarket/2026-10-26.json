@@ -1,0 +1,457 @@
+{
+  "source": "polymarket",
+  "label": "Polymarket — top 24h volume",
+  "fetched_at": "2026-10-26T05:16:10.474Z",
+  "items": [
+    {
+      "rank": 1,
+      "title": "Will Aleksandar Vučić – United Serbia win the most seats in the 2026 Serbian parliamentary election?",
+      "url": "https://polymarket.com/event/serbia-parliamentary-election-winner-2026",
+      "volume_24h": 2461520.333171,
+      "volume_total": 4481259.1249979995,
+      "liquidity": 226580.33152,
+      "yes_price": 0.0005,
+      "leader": {
+        "name": "No",
+        "price": 0.9995
+      },
+      "end_date": "2026-10-25T23:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Will there be no change in Fed interest rates after the October 2026 meeting?",
+      "url": "https://polymarket.com/event/fed-decision-in-october-20260617190323537",
+      "volume_24h": 1803502.7889979999,
+      "volume_total": 20483763.215042002,
+      "liquidity": 1644424.9723,
+      "yes_price": 0.945,
+      "leader": {
+        "name": "Yes",
+        "price": 0.945
+      },
+      "end_date": "2026-10-29T03:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Will the Republican Party control the House after the 2026 Midterm elections?",
+      "url": "https://polymarket.com/event/which-party-will-win-the-house-in-2026",
+      "volume_24h": 1019465.6221980001,
+      "volume_total": 9899098.451243002,
+      "liquidity": 2773172.1024,
+      "yes_price": 0.075,
+      "leader": {
+        "name": "No",
+        "price": 0.925
+      },
+      "end_date": "2026-11-04T04:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Will Kylian Mbappé win the 2026 Ballon d'Or?",
+      "url": "https://polymarket.com/event/ballon-dor-winner-2026",
+      "volume_24h": 916776.285885,
+      "volume_total": 7407404.953821998,
+      "liquidity": 85803.41104,
+      "yes_price": 0.2085,
+      "leader": {
+        "name": "No",
+        "price": 0.7915
+      },
+      "end_date": "2026-10-27T03:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Will Flávio Bolsonaro win the second round of the 2026 Brazilian presidential election by less than 4%?",
+      "url": "https://polymarket.com/event/brazil-presidential-election-second-round-margin-of-victory",
+      "volume_24h": 736959.8287370001,
+      "volume_total": 1605030.9536170003,
+      "liquidity": 44875.79993,
+      "yes_price": 0.001,
+      "leader": {
+        "name": "No",
+        "price": 0.999
+      },
+      "end_date": "2026-10-26T03:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Will Benjamin Netanyahu be the next Prime Minister of Israel?",
+      "url": "https://polymarket.com/event/who-will-be-the-next-prime-minister-of-israel-after-the-next-election",
+      "volume_24h": 715670.042154,
+      "volume_total": 11593235.712768001,
+      "liquidity": 479774.9299,
+      "yes_price": 0.265,
+      "leader": {
+        "name": "No",
+        "price": 0.735
+      },
+      "end_date": "2026-10-28T03:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "US x Iran ceasefire continues through October 31?",
+      "url": "https://polymarket.com/event/us-iran-ceasefire-continues-throughptptpt",
+      "volume_24h": 697820.625053,
+      "volume_total": 6755036.918567001,
+      "liquidity": 77761.7961,
+      "yes_price": 0.825,
+      "leader": {
+        "name": "Yes",
+        "price": 0.825
+      },
+      "end_date": "2026-10-31T23:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Will Aleksandar Vučić be the next Prime Minister of Serbia?",
+      "url": "https://polymarket.com/event/next-prime-minister-of-serbia-20260629223938642",
+      "volume_24h": 568090.198342,
+      "volume_total": 2044548.7586119995,
+      "liquidity": 52725.89074,
+      "yes_price": 0.0025,
+      "leader": {
+        "name": "No",
+        "price": 0.9975
+      },
+      "end_date": "2026-10-25T23:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?",
+      "url": "https://polymarket.com/event/uefa-champions-league-2027-champion-20260701202025549",
+      "volume_24h": 422060,
+      "volume_total": 35662643.258306004,
+      "liquidity": 166721.96122,
+      "yes_price": 0.0015,
+      "leader": {
+        "name": "No",
+        "price": 0.9985
+      },
+      "end_date": "2027-05-30T23:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Will Likud win the most seats in the 2026 Israeli legislative election?",
+      "url": "https://polymarket.com/event/israeli-legislative-election-winner",
+      "volume_24h": 411428.2949959999,
+      "volume_total": 1312108.623184,
+      "liquidity": 322594.0122,
+      "yes_price": 0.295,
+      "leader": {
+        "name": "No",
+        "price": 0.705
+      },
+      "end_date": "2026-10-28T03:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 11,
+      "title": "Will the US confirm that aliens exist before 2027?",
+      "url": "https://polymarket.com/event/will-the-us-confirm-that-aliens-exist-before-2027",
+      "volume_24h": 344710.813017,
+      "volume_total": 42902859.774588004,
+      "liquidity": 506919.9185,
+      "yes_price": 0.043,
+      "leader": {
+        "name": "No",
+        "price": 0.957
+      },
+      "end_date": "2027-01-01T04:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 12,
+      "title": "2026 Balance of Power: D Senate, R House",
+      "url": "https://polymarket.com/event/balance-of-power-2026-midterms",
+      "volume_24h": 322458.496404,
+      "volume_total": 8268295.823588002,
+      "liquidity": 3118615.35095,
+      "yes_price": 0.0095,
+      "leader": {
+        "name": "No",
+        "price": 0.9905
+      },
+      "end_date": "2026-11-04T04:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 13,
+      "title": "Pan Pacific Open: Daria Kasatkina vs Talia Gibson",
+      "url": "https://polymarket.com/event/wta-kasatki-gibson-2026-10-25",
+      "volume_24h": 258822.99633099983,
+      "volume_total": 245037.528483,
+      "liquidity": 72868.9582,
+      "yes_price": 0.005,
+      "leader": {
+        "name": "Talia Gibson",
+        "price": 0.995
+      },
+      "end_date": "2026-11-02T03:00:00Z",
+      "outcomes": [
+        "Daria Kasatkina",
+        "Talia Gibson"
+      ]
+    },
+    {
+      "rank": 14,
+      "title": "Billionaire one-time wealth tax passes in California election 2026?",
+      "url": "https://polymarket.com/event/billionaire-one-time-wealth-tax-passes-in-california-election-2026",
+      "volume_24h": 248771.69105000002,
+      "volume_total": 4206114.7285670005,
+      "liquidity": 100886.5408,
+      "yes_price": 0.245,
+      "leader": {
+        "name": "No",
+        "price": 0.755
+      },
+      "end_date": "2026-11-04T04:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 15,
+      "title": "Will Kimi Antonelli be the 2026 F1 Drivers' Champion?",
+      "url": "https://polymarket.com/event/2026-f1-drivers-champion",
+      "volume_24h": 246242.819715,
+      "volume_total": 5122314.708792001,
+      "liquidity": 51658.78128,
+      "yes_price": 0.9985,
+      "leader": {
+        "name": "Yes",
+        "price": 0.9985
+      },
+      "end_date": "2026-12-06T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 16,
+      "title": "Will China invade Taiwan by end of 2026?",
+      "url": "https://polymarket.com/event/will-china-invade-taiwan-before-2027",
+      "volume_24h": 244840.97438899998,
+      "volume_total": 45017001.89201399,
+      "liquidity": 443923.87884,
+      "yes_price": 0.0185,
+      "leader": {
+        "name": "No",
+        "price": 0.9815
+      },
+      "end_date": "2027-01-01T04:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 17,
+      "title": "US x Yemen ceasefire continues through October 31?",
+      "url": "https://polymarket.com/event/us-yemen-ceasefire-continues-throughptptpt",
+      "volume_24h": 222961.81957000002,
+      "volume_total": 696952.0898750001,
+      "liquidity": 90078.75873,
+      "yes_price": 0.982,
+      "leader": {
+        "name": "Yes",
+        "price": 0.982
+      },
+      "end_date": "2026-10-31T23:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 18,
+      "title": "Will J.D. Vance win the 2028 Republican presidential nomination?",
+      "url": "https://polymarket.com/event/republican-presidential-nominee-2028",
+      "volume_24h": 207163.30235999997,
+      "volume_total": 16226084.943933,
+      "liquidity": 327122.28882,
+      "yes_price": 0.3965,
+      "leader": {
+        "name": "No",
+        "price": 0.6035
+      },
+      "end_date": "2028-11-08T04:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 19,
+      "title": "Will the Republican Party hold exactly 53 Senate seats after the 2026 midterm elections?",
+      "url": "https://polymarket.com/event/republican-senate-seats-after-the-2026-midterm-elections-927",
+      "volume_24h": 200985.91565500005,
+      "volume_total": 363092.340718,
+      "liquidity": 278705.31364,
+      "yes_price": 0.0705,
+      "leader": {
+        "name": "No",
+        "price": 0.9295
+      },
+      "end_date": null,
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 20,
+      "title": "Guangzhou Open: Maria Timofeeva vs Teodora Kostovic",
+      "url": "https://polymarket.com/event/wta-timofee-kostovi-2026-10-25",
+      "volume_24h": 190070.108457,
+      "volume_total": 189018.27845699998,
+      "liquidity": 164343.97107,
+      "yes_price": 0.9995,
+      "leader": {
+        "name": "Maria Timofeeva",
+        "price": 0.9995
+      },
+      "end_date": "2026-11-02T03:00:00Z",
+      "outcomes": [
+        "Maria Timofeeva",
+        "Teodora Kostovic"
+      ]
+    },
+    {
+      "rank": 21,
+      "title": "Will Philadelphia 76ers win the 2027 NBA Finals?",
+      "url": "https://polymarket.com/event/nba-2027-champion",
+      "volume_24h": 184339.13017100006,
+      "volume_total": 1649933.6566889999,
+      "liquidity": 203801.57371,
+      "yes_price": 0.1035,
+      "leader": {
+        "name": "No",
+        "price": 0.8965
+      },
+      "end_date": "2027-07-01T03:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 22,
+      "title": "Will the Republicans win the Texas Senate race in 2026?",
+      "url": "https://polymarket.com/event/texas-senate-election-winner",
+      "volume_24h": 168581.99104199998,
+      "volume_total": 3773332.0087140007,
+      "liquidity": 435475.0406,
+      "yes_price": 0.355,
+      "leader": {
+        "name": "No",
+        "price": 0.645
+      },
+      "end_date": "2026-11-04T04:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 23,
+      "title": "Will Andrey Gyurov win the 2026 Bulgarian presidential first round by 20%-30%?",
+      "url": "https://polymarket.com/event/bulgaria-presidential-election-first-round-margin-of-victory",
+      "volume_24h": 167987.347083,
+      "volume_total": 496790.39825499995,
+      "liquidity": 89805.80588,
+      "yes_price": 0.0035,
+      "leader": {
+        "name": "No",
+        "price": 0.9965
+      },
+      "end_date": "2026-10-25T23:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 24,
+      "title": "LoL: T1 vs CTBC Flying Oyster (BO1) - Worlds Group Stage",
+      "url": "https://polymarket.com/event/lol-t1-cfo-2026-10-26",
+      "volume_24h": 163108.523541,
+      "volume_total": 160952.656948,
+      "liquidity": 568414.1217,
+      "yes_price": 0.885,
+      "leader": {
+        "name": "T1",
+        "price": 0.885
+      },
+      "end_date": "2026-10-26T23:00:00Z",
+      "outcomes": [
+        "T1",
+        "CTBC Flying Oyster"
+      ]
+    },
+    {
+      "rank": 25,
+      "title": "Will Iliana Iotova win the next Bulgarian presidential election?",
+      "url": "https://polymarket.com/event/bulgaria-presidential-election",
+      "volume_24h": 157290.219254,
+      "volume_total": 769037.4055660001,
+      "liquidity": 95618.3225,
+      "yes_price": 0.655,
+      "leader": {
+        "name": "Yes",
+        "price": 0.655
+      },
+      "end_date": "2026-10-26T03:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    }
+  ]
+}
