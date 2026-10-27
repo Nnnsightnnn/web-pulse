@@ -1,38 +1,40 @@
 {
-  "date": "2026-10-26",
-  "generated_at": "2026-10-26T05:16:53.728Z",
-  "lede": "The day's one genuinely crossed story is Serbia's parliamentary election, the only item to surface on two feeds at once. It sits second on Wikipedia with 242,482 views and leads Polymarket, where the market on Aleksandar Vucic winning the most seats settled at 0.05 percent yes after $4.48 million in total volume. Brazil's general election edged just ahead on Wikipedia with 271,783 views, and Mastodon posts reported both outcomes. Hacker News looked elsewhere, leading with a chart of the US wage share of gross domestic income at a 75 year low.",
+  "date": "2026-10-27",
+  "generated_at": "2026-10-27T05:17:01.687Z",
+  "lede": "Brazil runs through the day. Its general election and Luiz Inacio Lula da Silva take two of Wikipedia's top five slots, 817,428 views between them, and Lemmy's feed carries the headline that Lula has been declared the winner as Bolsonaro rejects the result. Away from the politics, Eric Bauza leads every single page on Wikipedia at 511,715 views, while Polymarket stays calm on the macro call, pricing a 94 percent chance of no change from the Fed at its October meeting.",
   "throughlines": [
     {
-      "title": "Will Aleksandar Vučić – United Serbia win the most seats in the 2026 Serbian parliamentary election?",
-      "gist": "Serbia's parliamentary election is the only story on two feeds at once: second on Wikipedia and first on Polymarket, where the Vucic market settled near zero percent yes.",
+      "title": "Will Likud win the most seats in the 2026 Israeli legislative election?",
+      "gist": "The 2026 Israeli legislative election is drawing traffic on Wikipedia and money on Polymarket at once, where the market gives Likud only a 27 percent chance of winning the most seats.",
       "sources": [
         "polymarket",
         "wikipedia"
       ],
-      "url": "https://en.wikipedia.org/wiki/2026_Serbian_parliamentary_election",
+      "url": "https://en.wikipedia.org/wiki/2026_Israeli_legislative_election",
       "kind": "cluster"
     },
     {
-      "title": "makecindy/cindy",
-      "gist": "An open-source AI agent billed as working out of the box, cindy topped GitHub trending with 675 stars today.",
+      "title": "Walter Koenig",
+      "gist": "Wikipedia and Lemmy converge on Walter Koenig: the actor's page has climbed to the sixth most-viewed on the site, and Lemmy's top post marks his death.",
       "sources": [
-        "github"
+        "lemmy",
+        "wikipedia"
       ],
-      "url": "https://github.com/makecindy/cindy",
-      "kind": "single"
+      "url": "https://en.wikipedia.org/wiki/Walter_Koenig",
+      "kind": "cluster"
     },
     {
-      "title": "US Wages Share of GDI at 75 Year Low",
-      "gist": "A FRED chart showing the US wage share of gross domestic income at a 75 year low led Hacker News with 69 points and 26 comments.",
+      "title": "ONE WIN FROM THEIR FIRST-EVER WORLD SERIES TITLE 🔥",
+      "gist": "Bluesky and Polymarket land on the same World Series moment, a team one win from its first-ever title, with Polymarket's Milwaukee Brewers market sitting at 97 percent.",
       "sources": [
-        "hackernews"
+        "bluesky",
+        "polymarket"
       ],
-      "url": "https://fred.stlouisfed.org/series/W270RE1A156NBEA",
-      "kind": "single"
+      "url": "https://bsky.app/profile/clutchpoints.bsky.social/post/3mytbii26xk2o",
+      "kind": "cluster"
     }
   ],
-  "strength": 90,
+  "strength": 76,
   "live_sources": 17,
   "total_sources": 17,
   "dashboard_url": "https://nnnsightnnn.github.io/web-pulse/",

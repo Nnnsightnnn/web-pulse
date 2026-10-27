@@ -1,0 +1,336 @@
+{
+  "source": "stackoverflow",
+  "label": "Stack Overflow — hot questions",
+  "fetched_at": "2026-10-27T05:16:22.638Z",
+  "items": [
+    {
+      "rank": 1,
+      "title": "How do I take two points and find a new point that'd be R amount closer to the second point?",
+      "url": "https://stackoverflow.com/questions/80012754/how-do-i-take-two-points-and-find-a-new-point-thatd-be-r-amount-closer-to-the-s",
+      "score": 1,
+      "answers": 0,
+      "views": 24,
+      "tags": [
+        "java",
+        "libgdx",
+        "lerp"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "C++: Calling another contructor in the initialization list",
+      "url": "https://stackoverflow.com/questions/80012757/c-calling-another-contructor-in-the-initialization-list",
+      "score": -2,
+      "answers": 0,
+      "views": 16,
+      "tags": [
+        "c++",
+        "constructor"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Fitting a family tree to the page width in the style of Burke's Peerage",
+      "url": "https://stackoverflow.com/questions/80012756/fitting-a-family-tree-to-the-page-width-in-the-style-of-burkes-peerage",
+      "score": 0,
+      "answers": 0,
+      "views": 38,
+      "tags": [
+        "javascript",
+        "css",
+        "family-tree",
+        "genealogy"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "3-bit error detection and 1-bit error correction Hamming Code( for 4-Data bits). Number of parity bits and check bits needed?",
+      "url": "https://stackoverflow.com/questions/80012753/3-bit-error-detection-and-1-bit-error-correction-hamming-code-for-4-data-bits",
+      "score": 0,
+      "answers": 0,
+      "views": 26,
+      "tags": [
+        "network-programming",
+        "encoding",
+        "number-theory",
+        "hamming-distance",
+        "hamming-code"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "How to aggregate timestamps into left-open, right-closed buckets?",
+      "url": "https://stackoverflow.com/questions/80012755/how-to-aggregate-timestamps-into-left-open-right-closed-buckets",
+      "score": -1,
+      "answers": 0,
+      "views": 12,
+      "tags": [
+        "aggregate",
+        "dolphindb"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "VS Code, MSTest test classes and methods disappeared from testing side bar",
+      "url": "https://stackoverflow.com/questions/80012752/vs-code-mstest-test-classes-and-methods-disappeared-from-testing-side-bar",
+      "score": 0,
+      "answers": 0,
+      "views": 26,
+      "tags": [
+        "vs-code",
+        "mstest"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "http://localhost:8158/CC101_LABEXMA_ELIZAGA.html#contact",
+      "url": "https://stackoverflow.com/questions/80012750/http-localhost8158-cc101-labexma-elizaga-htmlcontact",
+      "score": -2,
+      "answers": 0,
+      "views": 26,
+      "tags": [
+        "wpf"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "iOS Safari shows blank areas and delays rendering DOM elements during fast scrolling",
+      "url": "https://stackoverflow.com/questions/80012751/ios-safari-shows-blank-areas-and-delays-rendering-dom-elements-during-fast-scrol",
+      "score": 0,
+      "answers": 0,
+      "views": 18,
+      "tags": [
+        "css",
+        "safari",
+        "webkit"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "An uppercase JDBC column label fails on lowercase column name in the database",
+      "url": "https://stackoverflow.com/questions/80012741/an-uppercase-jdbc-column-label-fails-on-lowercase-column-name-in-the-database",
+      "score": 0,
+      "answers": 0,
+      "views": 18,
+      "tags": [
+        "jdbc",
+        "resultset",
+        "apache-iotdb",
+        "treemodel"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Changing array representation without copy",
+      "url": "https://stackoverflow.com/questions/80012742/changing-array-representation-without-copy",
+      "score": 1,
+      "answers": 0,
+      "views": 42,
+      "tags": [
+        "advice",
+        "arrays",
+        "pointers",
+        "ada"
+      ]
+    },
+    {
+      "rank": 11,
+      "title": "Where do I store my C sqlite in Linux system",
+      "url": "https://stackoverflow.com/questions/80012737/where-do-i-store-my-c-sqlite-in-linux-system",
+      "score": -4,
+      "answers": 0,
+      "views": 63,
+      "tags": [
+        "advice",
+        "c",
+        "linux",
+        "sqlite"
+      ]
+    },
+    {
+      "rank": 12,
+      "title": "In exactly what situations does “Loads May Be Reordered with Earlier Stores to Different Locations” actually manifest?",
+      "url": "https://stackoverflow.com/questions/80012673/in-exactly-what-situations-does-loads-may-be-reordered-with-earlier-stores-to-d",
+      "score": 9,
+      "answers": 1,
+      "views": 93,
+      "tags": [
+        "advice",
+        "assembly",
+        "x86",
+        "memory-barriers"
+      ]
+    },
+    {
+      "rank": 13,
+      "title": "How to reliably verify AI-generated code fixes when LLMs give conflicting feedback",
+      "url": "https://stackoverflow.com/questions/80012738/how-to-reliably-verify-ai-generated-code-fixes-when-llms-give-conflicting-feedba",
+      "score": -6,
+      "answers": 0,
+      "views": 60,
+      "tags": [
+        "advice",
+        "claude",
+        "github-codereviews"
+      ]
+    },
+    {
+      "rank": 14,
+      "title": "Does send() ever return WSAEWOULDBLOCK?",
+      "url": "https://stackoverflow.com/questions/80012697/does-send-ever-return-wsaewouldblock",
+      "score": -2,
+      "answers": 1,
+      "views": 90,
+      "tags": [
+        "c",
+        "sockets",
+        "tcp",
+        "winsock",
+        "nonblocking"
+      ]
+    },
+    {
+      "rank": 15,
+      "title": "I've written my programming language, can somemody evaluate it?",
+      "url": "https://stackoverflow.com/questions/80012731/ive-written-my-programming-language-can-somemody-evaluate-it",
+      "score": -7,
+      "answers": 0,
+      "views": 72,
+      "tags": [
+        "advice",
+        "review"
+      ]
+    },
+    {
+      "rank": 16,
+      "title": "Does it make sense to perform the following micro-optimization in a *for* loop?",
+      "url": "https://stackoverflow.com/questions/80012724/does-it-make-sense-to-perform-the-following-micro-optimization-in-a-for-loop",
+      "score": -4,
+      "answers": 1,
+      "views": 48,
+      "tags": [
+        "java",
+        "for-loop",
+        "optimization"
+      ]
+    },
+    {
+      "rank": 17,
+      "title": "Is it possible to use a disjoint set union method to find out how certain points are connected in a graph?",
+      "url": "https://stackoverflow.com/questions/80012728/is-it-possible-to-use-a-disjoint-set-union-method-to-find-out-how-certain-points",
+      "score": -2,
+      "answers": 0,
+      "views": 31,
+      "tags": [
+        "c++",
+        "disjoint-sets"
+      ]
+    },
+    {
+      "rank": 18,
+      "title": "Which authentication supports read-only Cloudflare Containers API calls from Wrangler?",
+      "url": "https://stackoverflow.com/questions/80012726/which-authentication-supports-read-only-cloudflare-containers-api-calls-from-wra",
+      "score": -1,
+      "answers": 1,
+      "views": 38,
+      "tags": [
+        "cloudflare-workers"
+      ]
+    },
+    {
+      "rank": 19,
+      "title": "How do i move a wxwidgets Frame partially off screen via code",
+      "url": "https://stackoverflow.com/questions/80012730/how-do-i-move-a-wxwidgets-frame-partially-off-screen-via-code",
+      "score": -2,
+      "answers": 0,
+      "views": 26,
+      "tags": [
+        "c++",
+        "user-interface",
+        "wxwidgets"
+      ]
+    },
+    {
+      "rank": 20,
+      "title": "Android overlay that stays attached to a product page",
+      "url": "https://stackoverflow.com/questions/80012678/android-overlay-that-stays-attached-to-a-product-page",
+      "score": -3,
+      "answers": 0,
+      "views": 41,
+      "tags": [
+        "flutter"
+      ]
+    },
+    {
+      "rank": 21,
+      "title": "Atomic JSONB update in Python SQLAlchemy PostgreSQL",
+      "url": "https://stackoverflow.com/questions/80012706/atomic-jsonb-update-in-python-sqlalchemy-postgresql",
+      "score": 0,
+      "answers": 1,
+      "views": 70,
+      "tags": [
+        "python",
+        "postgresql",
+        "sqlalchemy",
+        "atomic",
+        "jsonb"
+      ]
+    },
+    {
+      "rank": 22,
+      "title": "Asp.Net Core Upgrade from .Net 8 to .Net 10 - downloading a debug js file takes two times longer in .Net 10 than it used to take in .net 8",
+      "url": "https://stackoverflow.com/questions/80012716/asp-net-core-upgrade-from-net-8-to-net-10-downloading-a-debug-js-file-takes",
+      "score": -2,
+      "answers": 0,
+      "views": 36,
+      "tags": [
+        "asp.net-core",
+        "asp.net-core-mvc",
+        "upgrade",
+        ".net-8.0",
+        ".net-10.0"
+      ]
+    },
+    {
+      "rank": 23,
+      "title": "Vue 3 – Best approach to avoid rendering delays with dynamic form inputs (v-if vs v-show)?",
+      "url": "https://stackoverflow.com/questions/80012717/vue-3-best-approach-to-avoid-rendering-delays-with-dynamic-form-inputs-v-if-v",
+      "score": -3,
+      "answers": 0,
+      "views": 33,
+      "tags": [
+        "javascript",
+        "typescript",
+        "vue.js",
+        "vuejs3"
+      ]
+    },
+    {
+      "rank": 24,
+      "title": "What is the return value of IPC::Semaphore's op()?",
+      "url": "https://stackoverflow.com/questions/80012614/what-is-the-return-value-of-ipcsemaphores-op",
+      "score": -1,
+      "answers": 1,
+      "views": 70,
+      "tags": [
+        "perl",
+        "return-value",
+        "ipc",
+        "semaphore"
+      ]
+    },
+    {
+      "rank": 25,
+      "title": "Why doesn't my PyQt5 Progress Bar Dialog stay visible?",
+      "url": "https://stackoverflow.com/questions/80012687/why-doesnt-my-pyqt5-progress-bar-dialog-stay-visible",
+      "score": 1,
+      "answers": 1,
+      "views": 61,
+      "tags": [
+        "python",
+        "python-3.x",
+        "pyqt5"
+      ]
+    }
+  ]
+}
