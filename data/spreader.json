@@ -1,11 +1,11 @@
 {
-  "date": "2026-10-27",
-  "generated_at": "2026-10-27T05:17:01.687Z",
-  "lede": "Brazil runs through the day. Its general election and Luiz Inacio Lula da Silva take two of Wikipedia's top five slots, 817,428 views between them, and Lemmy's feed carries the headline that Lula has been declared the winner as Bolsonaro rejects the result. Away from the politics, Eric Bauza leads every single page on Wikipedia at 511,715 views, while Polymarket stays calm on the macro call, pricing a 94 percent chance of no change from the Fed at its October meeting.",
+  "date": "2026-10-28",
+  "generated_at": "2026-10-28T05:16:52.772Z",
+  "lede": "The day's web had one clear center of gravity: Israel's coming election. The 2026 Israeli legislative election drew 438,729 views to lead Wikipedia, and on Polymarket three of the top five markets, Netanyahu's path to prime minister among them, turned on that same vote. The only other story to cross feeds was far smaller: Trail Blazers vs. Lakers surfaced on both Google Trends and Polymarket. Everything else stayed inside its own corner of the internet.",
   "throughlines": [
     {
-      "title": "Will Likud win the most seats in the 2026 Israeli legislative election?",
-      "gist": "The 2026 Israeli legislative election is drawing traffic on Wikipedia and money on Polymarket at once, where the market gives Likud only a 27 percent chance of winning the most seats.",
+      "title": "2026 Israeli legislative election",
+      "gist": "The election led Wikipedia with 438,729 views and anchored several Polymarket markets at once, the rare story pulling in both readers and bettors.",
       "sources": [
         "polymarket",
         "wikipedia"
@@ -14,27 +14,27 @@
       "kind": "cluster"
     },
     {
-      "title": "Walter Koenig",
-      "gist": "Wikipedia and Lemmy converge on Walter Koenig: the actor's page has climbed to the sixth most-viewed on the site, and Lemmy's top post marks his death.",
+      "title": "Will Benjamin Netanyahu be the next Prime Minister of Israel?",
+      "gist": "The top-ranked market on Polymarket today, asking whether the vote returns Netanyahu to the prime minister's office.",
       "sources": [
-        "lemmy",
+        "polymarket",
         "wikipedia"
       ],
-      "url": "https://en.wikipedia.org/wiki/Walter_Koenig",
+      "url": "https://en.wikipedia.org/wiki/Benjamin_Netanyahu",
       "kind": "cluster"
     },
     {
-      "title": "ONE WIN FROM THEIR FIRST-EVER WORLD SERIES TITLE 🔥",
-      "gist": "Bluesky and Polymarket land on the same World Series moment, a team one win from its first-ever title, with Polymarket's Milwaukee Brewers market sitting at 97 percent.",
+      "title": "Trail Blazers vs. Lakers",
+      "gist": "An NBA game that showed up as both a Google Trends search and a Polymarket market, one of the few stories to cross feeds today.",
       "sources": [
-        "bluesky",
+        "google-trends",
         "polymarket"
       ],
-      "url": "https://bsky.app/profile/clutchpoints.bsky.social/post/3mytbii26xk2o",
+      "url": "https://www.sportsgambler.com/betting-tips/basketball/portland-trail-blazers-vs-la-lakers-prediction-odds-6019716/",
       "kind": "cluster"
     }
   ],
-  "strength": 76,
+  "strength": 100,
   "live_sources": 17,
   "total_sources": 17,
   "dashboard_url": "https://nnnsightnnn.github.io/web-pulse/",

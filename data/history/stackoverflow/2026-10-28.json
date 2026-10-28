@@ -1,0 +1,331 @@
+{
+  "source": "stackoverflow",
+  "label": "Stack Overflow — hot questions",
+  "fetched_at": "2026-10-28T05:16:14.851Z",
+  "items": [
+    {
+      "rank": 1,
+      "title": "How can I serve dynamically generated Vue 3 blog and company profile pages as HTML with JavaScript disabled or to AIs?",
+      "url": "https://stackoverflow.com/questions/80013003/how-can-i-serve-dynamically-generated-vue-3-blog-and-company-profile-pages-as-ht",
+      "score": -3,
+      "answers": 0,
+      "views": 33,
+      "tags": [
+        "vue.js",
+        "express",
+        "seo",
+        "vue-router",
+        "server-side-rendering"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Does prvalue specifically include the contructor of a class?",
+      "url": "https://stackoverflow.com/questions/80012995/does-prvalue-specifically-include-the-contructor-of-a-class",
+      "score": 1,
+      "answers": 0,
+      "views": 21,
+      "tags": [
+        "c++",
+        "language-lawyer"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Connection refused when injecting ChatClient with Ollama and Llama 3.2 in Spring Boot",
+      "url": "https://stackoverflow.com/questions/80013001/connection-refused-when-injecting-chatclient-with-ollama-and-llama-3-2-in-spring",
+      "score": -1,
+      "answers": 0,
+      "views": 14,
+      "tags": [
+        "tooling-recommendation",
+        "java",
+        "spring-boot",
+        "ollama"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Document validation based on scope",
+      "url": "https://stackoverflow.com/questions/80012998/document-validation-based-on-scope",
+      "score": -3,
+      "answers": 0,
+      "views": 13,
+      "tags": [
+        "best-practices",
+        "validation",
+        "scope",
+        "artificial-intelligence",
+        "document"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "How to automatically create a DynamoDB Local table when running docker compose up",
+      "url": "https://stackoverflow.com/questions/80012999/how-to-automatically-create-a-dynamodb-local-table-when-running-docker-compose-u",
+      "score": -1,
+      "answers": 0,
+      "views": 11,
+      "tags": [
+        "docker",
+        "docker-compose",
+        "amazon-dynamodb",
+        "aws-cli"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "CodeIgniter 3 base_url() generates the URL without the port and without index.php on PHP's built-in server",
+      "url": "https://stackoverflow.com/questions/80012997/codeigniter-3-base-url-generates-the-url-without-the-port-and-without-index-ph",
+      "score": -1,
+      "answers": 0,
+      "views": 12,
+      "tags": [
+        "php",
+        "codeigniter-3",
+        "base-url",
+        "php-builtin-server"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "pgvector always returns top-k rows even when the question is unrelated to the documents",
+      "url": "https://stackoverflow.com/questions/80012994/pgvector-always-returns-top-k-rows-even-when-the-question-is-unrelated-to-the-do",
+      "score": -1,
+      "answers": 0,
+      "views": 11,
+      "tags": [
+        "postgresql",
+        "rag",
+        "pgvector",
+        "similarity-search"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "The Definitive Reference Guide for C++",
+      "url": "https://stackoverflow.com/questions/80012992/the-definitive-reference-guide-for-c",
+      "score": -7,
+      "answers": 0,
+      "views": 38,
+      "tags": [
+        "c++"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Is this really the best solution to it or is there any other options to make this code more clear?",
+      "url": "https://stackoverflow.com/questions/80012993/is-this-really-the-best-solution-to-it-or-is-there-any-other-options-to-make-thi",
+      "score": -3,
+      "answers": 0,
+      "views": 26,
+      "tags": [
+        "advice"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "How can I enforce a hard request limit for Google Places API (New) during the free trial?",
+      "url": "https://stackoverflow.com/questions/80012991/how-can-i-enforce-a-hard-request-limit-for-google-places-api-new-during-the-fr",
+      "score": -2,
+      "answers": 0,
+      "views": 31,
+      "tags": [
+        "google-maps",
+        "google-cloud-platform"
+      ]
+    },
+    {
+      "rank": 11,
+      "title": "Facebook Graph API No Longer Returns the token_for_business Field on Specific iOS/iPadOS Devices",
+      "url": "https://stackoverflow.com/questions/80012987/facebook-graph-api-no-longer-returns-the-token-for-business-field-on-specific-io",
+      "score": -1,
+      "answers": 0,
+      "views": 22,
+      "tags": [
+        "ios",
+        "facebook"
+      ]
+    },
+    {
+      "rank": 12,
+      "title": "Why did Anthropic/Theorem's formal verification work restrict itself to single-threaded binaries?",
+      "url": "https://stackoverflow.com/questions/80012990/why-did-anthropic-theorems-formal-verification-work-restrict-itself-to-single-t",
+      "score": -1,
+      "answers": 0,
+      "views": 19,
+      "tags": [
+        "rocq-prover",
+        "large-language-model",
+        "formal-verification"
+      ]
+    },
+    {
+      "rank": 13,
+      "title": "Epsilon value in R and comparing numbers",
+      "url": "https://stackoverflow.com/questions/80012989/epsilon-value-in-r-and-comparing-numbers",
+      "score": -1,
+      "answers": 0,
+      "views": 18,
+      "tags": [
+        "r"
+      ]
+    },
+    {
+      "rank": 14,
+      "title": "Three.js canvas memory leak in React functional components during rapid unmounting",
+      "url": "https://stackoverflow.com/questions/80012985/three-js-canvas-memory-leak-in-react-functional-components-during-rapid-unmounti",
+      "score": -2,
+      "answers": 0,
+      "views": 36,
+      "tags": [
+        "javascript",
+        "reactjs",
+        "redux"
+      ]
+    },
+    {
+      "rank": 15,
+      "title": "How to return an ostream from an IIFE?",
+      "url": "https://stackoverflow.com/questions/80012976/how-to-return-an-ostream-from-an-iife",
+      "score": 3,
+      "answers": 1,
+      "views": 80,
+      "tags": [
+        "c++",
+        "ostream"
+      ]
+    },
+    {
+      "rank": 16,
+      "title": "&#191;C&#243;mo conectar una librer&#237;a Kotlin/JVM de Maven con SQLite en Android?",
+      "url": "https://stackoverflow.com/questions/80012983/c%c3%b3mo-conectar-una-librer%c3%ada-kotlin-jvm-de-maven-con-sqlite-en-android",
+      "score": -4,
+      "answers": 0,
+      "views": 39,
+      "tags": [
+        "android",
+        "kotlin",
+        "maven"
+      ]
+    },
+    {
+      "rank": 17,
+      "title": "Malloc string print in 8 bytes allocation",
+      "url": "https://stackoverflow.com/questions/80012972/malloc-string-print-in-8-bytes-allocation",
+      "score": 0,
+      "answers": 1,
+      "views": 81,
+      "tags": [
+        "c",
+        "string",
+        "malloc",
+        "fgets"
+      ]
+    },
+    {
+      "rank": 18,
+      "title": "How do I successfully return httpResource from a function in a service?",
+      "url": "https://stackoverflow.com/questions/80012981/how-do-i-successfully-return-httpresource-from-a-function-in-a-service",
+      "score": 0,
+      "answers": 0,
+      "views": 23,
+      "tags": [
+        "angular",
+        "angular-httpclient",
+        "angular-signals"
+      ]
+    },
+    {
+      "rank": 19,
+      "title": "Unable to build using Python 3.16 (current Python main)",
+      "url": "https://stackoverflow.com/questions/80012969/unable-to-build-using-python-3-16-current-python-main",
+      "score": 1,
+      "answers": 0,
+      "views": 54,
+      "tags": [
+        "python",
+        "clang",
+        "python-imaging-library"
+      ]
+    },
+    {
+      "rank": 20,
+      "title": "animations fail but video of same spritesheet perfect how?",
+      "url": "https://stackoverflow.com/questions/80012982/animations-fail-but-video-of-same-spritesheet-perfect-how",
+      "score": -2,
+      "answers": 0,
+      "views": 21,
+      "tags": [
+        "animation",
+        "artificial-intelligence",
+        "css-animations"
+      ]
+    },
+    {
+      "rank": 21,
+      "title": "tryCatch error function not returning dataframe",
+      "url": "https://stackoverflow.com/questions/80012932/trycatch-error-function-not-returning-dataframe",
+      "score": 0,
+      "answers": 2,
+      "views": 92,
+      "tags": [
+        "r"
+      ]
+    },
+    {
+      "rank": 22,
+      "title": "How to create secure link using Java (Spring)",
+      "url": "https://stackoverflow.com/questions/80012973/how-to-create-secure-link-using-java-spring",
+      "score": -3,
+      "answers": 0,
+      "views": 67,
+      "tags": [
+        "java",
+        "spring",
+        "spring-boot",
+        "spring-security"
+      ]
+    },
+    {
+      "rank": 23,
+      "title": "External HDD connects briefly (sda), then times out on Debian 13 ( but Works fine on Windows 11)",
+      "url": "https://stackoverflow.com/questions/80012971/external-hdd-connects-briefly-sda-then-times-out-on-debian-13-but-works-fin",
+      "score": -4,
+      "answers": 0,
+      "views": 44,
+      "tags": [
+        "linux",
+        "debian",
+        "usb",
+        "storage"
+      ]
+    },
+    {
+      "rank": 24,
+      "title": "Is using PHP's official minimal source-backports for PHP 7.4/8.0/8.1 recommended for production, and what are the best practices for use them?",
+      "url": "https://stackoverflow.com/questions/80012903/is-using-phps-official-minimal-source-backports-for-php-7-4-8-0-8-1-recommended",
+      "score": 1,
+      "answers": 2,
+      "views": 116,
+      "tags": [
+        "best-practices",
+        "php",
+        "security",
+        "cve"
+      ]
+    },
+    {
+      "rank": 25,
+      "title": "I am getting error messages for a Core Data fetch request that is new since Xcode 27.1",
+      "url": "https://stackoverflow.com/questions/80012970/i-am-getting-error-messages-for-a-core-data-fetch-request-that-is-new-since-xcod",
+      "score": -2,
+      "answers": 0,
+      "views": 21,
+      "tags": [
+        "xcode",
+        "core-data"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,421 @@
+{
+  "source": "polymarket",
+  "label": "Polymarket — top 24h volume",
+  "fetched_at": "2026-10-28T05:16:15.098Z",
+  "items": [
+    {
+      "rank": 1,
+      "title": "Will Benjamin Netanyahu be the next Prime Minister of Israel?",
+      "url": "https://polymarket.com/event/who-will-be-the-next-prime-minister-of-israel-after-the-next-election",
+      "volume_24h": 11131968.282829003,
+      "volume_total": 24838266.164004996,
+      "liquidity": 574088.4762,
+      "yes_price": 0.5,
+      "leader": {
+        "name": "Yes",
+        "price": 0.5
+      },
+      "end_date": "2026-10-28T03:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Trail Blazers vs. Lakers",
+      "url": "https://polymarket.com/event/nba-por-lal-2026-10-27",
+      "volume_24h": 5440223.209015004,
+      "volume_total": 5250899.437261999,
+      "liquidity": 119629.8532,
+      "yes_price": 0.305,
+      "leader": {
+        "name": "Lakers",
+        "price": 0.695
+      },
+      "end_date": "2026-10-28T03:00:00Z",
+      "outcomes": [
+        "Trail Blazers",
+        "Lakers"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Will Likud win the most seats in the 2026 Israeli legislative election?",
+      "url": "https://polymarket.com/event/israeli-legislative-election-winner",
+      "volume_24h": 5357975.439366002,
+      "volume_total": 7185765.518387,
+      "liquidity": 198360.72501,
+      "yes_price": 0.991,
+      "leader": {
+        "name": "Yes",
+        "price": 0.991
+      },
+      "end_date": "2026-10-28T03:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Will there be no change in Fed interest rates after the October 2026 meeting?",
+      "url": "https://polymarket.com/event/fed-decision-in-october-20260617190323537",
+      "volume_24h": 3747070.884126,
+      "volume_total": 27749886.105021,
+      "liquidity": 1519932.69278,
+      "yes_price": 0.9555,
+      "leader": {
+        "name": "Yes",
+        "price": 0.9555
+      },
+      "end_date": "2026-10-29T03:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Will Likud win 30-34 seats in the 2026 Israeli legislative election?",
+      "url": "https://polymarket.com/event/israel-election-likud-of-seats",
+      "volume_24h": 1667938.856654,
+      "volume_total": 2299701.057544,
+      "liquidity": 124930.04057,
+      "yes_price": 0.0515,
+      "leader": {
+        "name": "No",
+        "price": 0.9485
+      },
+      "end_date": "2026-10-28T03:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Will the Tampa Bay Rays win the 2026 World Series?",
+      "url": "https://polymarket.com/event/mlb-world-series-champion-2026",
+      "volume_24h": 905378.4997829999,
+      "volume_total": 2187119.638323,
+      "liquidity": 306715.73752,
+      "yes_price": 0.0855,
+      "leader": {
+        "name": "No",
+        "price": 0.9145
+      },
+      "end_date": "2026-10-31T23:55:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Will Elon Musk win the 2028 US Presidential Election?",
+      "url": "https://polymarket.com/event/presidential-election-winner-2028",
+      "volume_24h": 691824.4765000001,
+      "volume_total": 28277454.89705,
+      "liquidity": 994499.44975,
+      "yes_price": 0.0035,
+      "leader": {
+        "name": "No",
+        "price": 0.9965
+      },
+      "end_date": "2028-11-08T04:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "France declares state of emergency by December 31, 2026?",
+      "url": "https://polymarket.com/event/france-declares-state-of-emergency-byptptpt",
+      "volume_24h": 600365.429009,
+      "volume_total": 2057160.7824970002,
+      "liquidity": 107571.3339,
+      "yes_price": 0.065,
+      "leader": {
+        "name": "No",
+        "price": 0.935
+      },
+      "end_date": "2027-01-01T04:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "2026 Balance of Power: Other",
+      "url": "https://polymarket.com/event/balance-of-power-2026-midterms",
+      "volume_24h": 456487.395584,
+      "volume_total": 5043887.909128999,
+      "liquidity": 638166.14889,
+      "yes_price": 0.0005,
+      "leader": {
+        "name": "No",
+        "price": 0.9995
+      },
+      "end_date": "2026-11-04T04:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Will the Democratic Party control the Senate after the 2026 Midterm elections?",
+      "url": "https://polymarket.com/event/which-party-will-win-the-senate-in-2026",
+      "volume_24h": 439917.7558279996,
+      "volume_total": 5899613.309834,
+      "liquidity": 1015761.4172,
+      "yes_price": 0.665,
+      "leader": {
+        "name": "Yes",
+        "price": 0.665
+      },
+      "end_date": "2026-11-04T04:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 11,
+      "title": "Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?",
+      "url": "https://polymarket.com/event/uefa-champions-league-2027-champion-20260701202025549",
+      "volume_24h": 422172.204,
+      "volume_total": 36507672.633306004,
+      "liquidity": 171199.89634,
+      "yes_price": 0.0015,
+      "leader": {
+        "name": "No",
+        "price": 0.9985
+      },
+      "end_date": "2027-05-30T23:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 12,
+      "title": "Israel Election: Any Coalition Wins a Majority?",
+      "url": "https://polymarket.com/event/israel-election-any-coalition-wins-a-majority",
+      "volume_24h": 402640.7509,
+      "volume_total": 449140.275856,
+      "liquidity": 65783.1472,
+      "yes_price": 0.034,
+      "leader": {
+        "name": "No",
+        "price": 0.966
+      },
+      "end_date": "2026-10-28T03:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 13,
+      "title": "Will the Democratic Party control the House after the 2026 Midterm elections?",
+      "url": "https://polymarket.com/event/which-party-will-win-the-house-in-2026",
+      "volume_24h": 339124.86484200007,
+      "volume_total": 13986478.588169003,
+      "liquidity": 4186550.4563,
+      "yes_price": 0.915,
+      "leader": {
+        "name": "Yes",
+        "price": 0.915
+      },
+      "end_date": "2026-11-04T04:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 14,
+      "title": "US x Iran ceasefire continues through October 31?",
+      "url": "https://polymarket.com/event/us-iran-ceasefire-continues-throughptptpt",
+      "volume_24h": 281623.28173100005,
+      "volume_total": 7241489.635575,
+      "liquidity": 176323.8713,
+      "yes_price": 0.945,
+      "leader": {
+        "name": "Yes",
+        "price": 0.945
+      },
+      "end_date": "2026-10-31T23:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 15,
+      "title": "Sabres vs. Sharks",
+      "url": "https://polymarket.com/event/nhl-buf-sj-2026-10-27",
+      "volume_24h": 213911.44412600005,
+      "volume_total": 211445.89462100007,
+      "liquidity": 22619.3448,
+      "yes_price": 0.865,
+      "leader": {
+        "name": "Sabres",
+        "price": 0.865
+      },
+      "end_date": "2026-10-28T02:30:00Z",
+      "outcomes": [
+        "Sabres",
+        "Sharks"
+      ]
+    },
+    {
+      "rank": 16,
+      "title": "Will John Thune win the 2028 Republican presidential nomination?",
+      "url": "https://polymarket.com/event/republican-presidential-nominee-2028",
+      "volume_24h": 210005.29,
+      "volume_total": 38610496.355502,
+      "liquidity": 1746672.31282,
+      "yes_price": 0.0005,
+      "leader": {
+        "name": "No",
+        "price": 0.9995
+      },
+      "end_date": "2028-11-08T04:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 17,
+      "title": "LoL: Invictus Gaming vs LYON (BO3) - Worlds Group Stage",
+      "url": "https://polymarket.com/event/lol-ig1-ly-2026-10-28",
+      "volume_24h": 185871.03797699994,
+      "volume_total": 175831.91802000004,
+      "liquidity": 351481.9988,
+      "yes_price": 0.665,
+      "leader": {
+        "name": "Invictus Gaming",
+        "price": 0.665
+      },
+      "end_date": "2026-10-29T05:00:00Z",
+      "outcomes": [
+        "Invictus Gaming",
+        "LYON"
+      ]
+    },
+    {
+      "rank": 18,
+      "title": "US announces end of Iranian blockade by December 31, 2026?",
+      "url": "https://polymarket.com/event/us-announces-end-of-iranian-blockade-byptptpt-20260713152715080",
+      "volume_24h": 154242.20159699998,
+      "volume_total": 4292246.600020001,
+      "liquidity": 168580.37947,
+      "yes_price": 0.3505,
+      "leader": {
+        "name": "No",
+        "price": 0.6495
+      },
+      "end_date": "2027-01-01T04:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 19,
+      "title": "Israel Election: Which Bloc Wins More Seats?",
+      "url": "https://polymarket.com/event/israel-election-which-bloc-wins-more-seats",
+      "volume_24h": 153510.445513,
+      "volume_total": 220940.92458299999,
+      "liquidity": 51145.55904,
+      "yes_price": 0.9835,
+      "leader": {
+        "name": "Bibi",
+        "price": 0.9835
+      },
+      "end_date": "2026-10-28T03:59:00Z",
+      "outcomes": [
+        "Bibi",
+        "Opp."
+      ]
+    },
+    {
+      "rank": 20,
+      "title": "Counter-Strike: TheMongolz vs Nemiga (BO3) - PGL Masters Bucharest Group Stage",
+      "url": "https://polymarket.com/event/cs2-mglz-nemi1-2026-10-28",
+      "volume_24h": 149280.764988,
+      "volume_total": 146521.657844,
+      "liquidity": 197881.0849,
+      "yes_price": 0.555,
+      "leader": {
+        "name": "TheMongolz",
+        "price": 0.555
+      },
+      "end_date": "2026-10-28T17:00:00Z",
+      "outcomes": [
+        "TheMongolz",
+        "Nemiga"
+      ]
+    },
+    {
+      "rank": 21,
+      "title": "Will the Republicans win the Texas Senate race in 2026?",
+      "url": "https://polymarket.com/event/texas-senate-election-winner",
+      "volume_24h": 147582.187356,
+      "volume_total": 4145819.038183001,
+      "liquidity": 451774.6076,
+      "yes_price": 0.325,
+      "leader": {
+        "name": "No",
+        "price": 0.675
+      },
+      "end_date": "2026-11-04T04:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 22,
+      "title": "Israel x Iran ceasefire continues through October 31?",
+      "url": "https://polymarket.com/event/israel-x-iran-ceasefire-continues-throughptptpt-20260716224448963",
+      "volume_24h": 140702.18109600001,
+      "volume_total": 3531998.292442,
+      "liquidity": 163277.7291,
+      "yes_price": 0.945,
+      "leader": {
+        "name": "Yes",
+        "price": 0.945
+      },
+      "end_date": "2026-10-31T20:29:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 23,
+      "title": "US-Iran ceasefire continues through the midterms?",
+      "url": "https://polymarket.com/event/us-iran-ceasefire-continues-through-the-midterms",
+      "volume_24h": 140474.03934299998,
+      "volume_total": 1412664.055659,
+      "liquidity": 54208.0474,
+      "yes_price": 0.895,
+      "leader": {
+        "name": "Yes",
+        "price": 0.895
+      },
+      "end_date": "2026-11-04T04:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    }
+  ]
+}
