@@ -1,11 +1,11 @@
 {
-  "date": "2026-10-28",
-  "generated_at": "2026-10-28T05:16:52.772Z",
-  "lede": "The day's web had one clear center of gravity: Israel's coming election. The 2026 Israeli legislative election drew 438,729 views to lead Wikipedia, and on Polymarket three of the top five markets, Netanyahu's path to prime minister among them, turned on that same vote. The only other story to cross feeds was far smaller: Trail Blazers vs. Lakers surfaced on both Google Trends and Polymarket. Everything else stayed inside its own corner of the internet.",
+  "date": "2026-10-29",
+  "generated_at": "2026-10-29T05:16:30.618Z",
+  "lede": "Israel’s 2026 legislative election was the day’s dominant story across the web. It drew 925,801 Wikipedia views, more than twice the next most-read article, and Polymarket traders moved millions across linked markets, including $3.7 million in a single day on whether Benjamin Netanyahu becomes the next Prime Minister, a market now leaning slightly against him at about 45 percent. Away from the ballot, the Lakers led Google searches in both Britain and the United States, and Hacker News spent the day on its most-upvoted post, at 980 points, asking why a fingerprinting script was creating bioweapons.",
   "throughlines": [
     {
       "title": "2026 Israeli legislative election",
-      "gist": "The election led Wikipedia with 438,729 views and anchored several Polymarket markets at once, the rare story pulling in both readers and bettors.",
+      "gist": "The vote was the single most-read article on Wikipedia yesterday and the subject of several of Polymarket’s busiest markets, the one story the rest of the feed kept circling back to.",
       "sources": [
         "polymarket",
         "wikipedia"
@@ -15,7 +15,7 @@
     },
     {
       "title": "Will Benjamin Netanyahu be the next Prime Minister of Israel?",
-      "gist": "The top-ranked market on Polymarket today, asking whether the vote returns Netanyahu to the prime minister's office.",
+      "gist": "Traders put $3.7 million in a day on whether Netanyahu stays Prime Minister, a market leaning slightly against him at about 45 percent yes, while his Wikipedia biography sat among the day’s most-read.",
       "sources": [
         "polymarket",
         "wikipedia"
@@ -24,18 +24,18 @@
       "kind": "cluster"
     },
     {
-      "title": "Trail Blazers vs. Lakers",
-      "gist": "An NBA game that showed up as both a Google Trends search and a Polymarket market, one of the few stories to cross feeds today.",
+      "title": "Dead by Daylight | Terrifier | Teaser",
+      "gist": "The horror game Dead by Daylight rode a Terrifier crossover teaser onto YouTube’s trending list while holding a place among Steam’s most-played titles, proof a well-timed trailer still moves both feeds at once.",
       "sources": [
-        "google-trends",
-        "polymarket"
+        "steam",
+        "youtube"
       ],
-      "url": "https://www.sportsgambler.com/betting-tips/basketball/portland-trail-blazers-vs-la-lakers-prediction-odds-6019716/",
+      "url": "https://store.steampowered.com/app/381210",
       "kind": "cluster"
     }
   ],
   "strength": 100,
-  "live_sources": 17,
+  "live_sources": 16,
   "total_sources": 17,
   "dashboard_url": "https://nnnsightnnn.github.io/web-pulse/",
   "engine": "ai"
