@@ -1,11 +1,22 @@
 {
-  "date": "2026-10-29",
-  "generated_at": "2026-10-29T05:16:30.618Z",
-  "lede": "Israel’s 2026 legislative election was the day’s dominant story across the web. It drew 925,801 Wikipedia views, more than twice the next most-read article, and Polymarket traders moved millions across linked markets, including $3.7 million in a single day on whether Benjamin Netanyahu becomes the next Prime Minister, a market now leaning slightly against him at about 45 percent. Away from the ballot, the Lakers led Google searches in both Britain and the United States, and Hacker News spent the day on its most-upvoted post, at 980 points, asking why a fingerprinting script was creating bioweapons.",
+  "date": "2026-10-30",
+  "generated_at": "2026-10-30T05:17:20.864Z",
+  "lede": "The web spent the day on Patrick Stewart. His Wikipedia page drew 2,356,552 views, more than six times the next most-read article, while Hacker News and Lemmy both carried posts reporting that the actor has died. Hacker News otherwise divided its attention between a claimed 5.6 billion dollar theft from Binance and Mistral's release of the open weights for Mistral Large 4, which topped the board at 1,288 points. Far out in the South Pacific, a magnitude 6.4 quake struck southeast of Easter Island, well away from land and raising no tsunami.",
   "throughlines": [
     {
+      "title": "Patrick Stewart",
+      "gist": "Reports of the actor's death surfaced on Hacker News and Lemmy at the same hour his Wikipedia page became the single most-read article on the site.",
+      "sources": [
+        "hackernews",
+        "lemmy",
+        "wikipedia"
+      ],
+      "url": "https://en.wikipedia.org/wiki/Patrick_Stewart",
+      "kind": "cluster"
+    },
+    {
       "title": "2026 Israeli legislative election",
-      "gist": "The vote was the single most-read article on Wikipedia yesterday and the subject of several of Polymarket’s busiest markets, the one story the rest of the feed kept circling back to.",
+      "gist": "Wikipedia readers and Polymarket traders converged on the same contest, with the prediction market pricing whether Likud takes the most seats.",
       "sources": [
         "polymarket",
         "wikipedia"
@@ -14,28 +25,18 @@
       "kind": "cluster"
     },
     {
-      "title": "Will Benjamin Netanyahu be the next Prime Minister of Israel?",
-      "gist": "Traders put $3.7 million in a day on whether Netanyahu stays Prime Minister, a market leaning slightly against him at about 45 percent yes, while his Wikipedia biography sat among the day’s most-read.",
-      "sources": [
-        "polymarket",
-        "wikipedia"
-      ],
-      "url": "https://en.wikipedia.org/wiki/Benjamin_Netanyahu",
-      "kind": "cluster"
-    },
-    {
-      "title": "Dead by Daylight | Terrifier | Teaser",
-      "gist": "The horror game Dead by Daylight rode a Terrifier crossover teaser onto YouTube’s trending list while holding a place among Steam’s most-played titles, proof a well-timed trailer still moves both feeds at once.",
+      "title": "Apex Legends: Cipher Gameplay Trailer",
+      "gist": "A new Cipher gameplay trailer trended on YouTube and carried Apex Legends back onto Steam's charts alongside it.",
       "sources": [
         "steam",
         "youtube"
       ],
-      "url": "https://store.steampowered.com/app/381210",
+      "url": "https://store.steampowered.com/app/1172470",
       "kind": "cluster"
     }
   ],
   "strength": 100,
-  "live_sources": 16,
+  "live_sources": 17,
   "total_sources": 17,
   "dashboard_url": "https://nnnsightnnn.github.io/web-pulse/",
   "engine": "ai"
