@@ -1,0 +1,296 @@
+{
+  "source": "google-trends",
+  "label": "Google Trends — trending searches",
+  "fetched_at": "2026-10-31T05:16:30.550Z",
+  "countries": [
+    "US",
+    "GB",
+    "IN",
+    "JP",
+    "BR",
+    "DE"
+  ],
+  "items": [
+    {
+      "rank": 1,
+      "title": "sports",
+      "geos": [
+        "BR",
+        "DE",
+        "US"
+      ],
+      "traffic_estimate": 5300,
+      "news_title": "Commissioner Yormark leaving Big 12 after January for job outside college sports",
+      "news_url": "https://www.espn.com/college-sports/story/_/id/50327726/commissioner-brett-yormark-leaving-big-12-january",
+      "news_source": "ESPN"
+    },
+    {
+      "rank": 2,
+      "title": "stephen curry",
+      "geos": [
+        "IN",
+        "US"
+      ],
+      "traffic_estimate": 10200,
+      "news_title": "Warriors 119-114 Timberwolves (Oct 28, 2026) Game Recap",
+      "news_url": "https://www.espn.com/nba/recap/_/gameId/401909888",
+      "news_source": "ESPN"
+    },
+    {
+      "rank": 3,
+      "title": "lakers",
+      "geos": [
+        "BR",
+        "GB"
+      ],
+      "traffic_estimate": 5500,
+      "news_title": "Golden State Warriors vs Los Angeles Lakers NBA game (10/30) FREE U.S. stream",
+      "news_url": "https://www.thebusinessdesk.com/yorkshire/news/2162644-how-to-watch-lakers-vs-warriors-free-live-stream-1030-time-tv-channel-for-nba-game",
+      "news_source": "TheBusinessDesk.com"
+    },
+    {
+      "rank": 4,
+      "title": "eng vs ind",
+      "geos": [
+        "GB",
+        "US"
+      ],
+      "traffic_estimate": 700,
+      "news_title": "Pakistan vs Sri Lanka in the perfect finale to entertaining tri-series",
+      "news_url": "https://www.cricinfo.com/series/pakistan-odi-tri-series-2026-27-1550706/pakistan-vs-sri-lanka-final-1550719/match-preview",
+      "news_source": "Cricinfo"
+    },
+    {
+      "rank": 5,
+      "title": "yaxel lendeborg",
+      "geos": [
+        "GB",
+        "IN"
+      ],
+      "traffic_estimate": 400,
+      "news_title": "Rookie Lendeborg jaws at ‘weak ass’ Dončić and admits he didn’t watch much NBA",
+      "news_url": "https://www.theguardian.com/sport/2026/oct/22/rookie-lendeborg-jaws-at-weak-ass-doncic-and-admits-he-didnt-watch-much-nba",
+      "news_source": "The Guardian"
+    },
+    {
+      "rank": 6,
+      "title": "october",
+      "geos": [
+        "IN"
+      ],
+      "traffic_estimate": 200000,
+      "news_title": "Delhi Records Coldest October Day In 75 Years After Heavy Rain, Clean Air",
+      "news_url": "https://www.ndtv.com/india-news/delhi-records-coldest-october-day-in-75-years-after-heavy-rain-clean-air-12261273",
+      "news_source": "NDTV"
+    },
+    {
+      "rank": 7,
+      "title": "las vegas flooding",
+      "geos": [
+        "US"
+      ],
+      "traffic_estimate": 2000,
+      "news_title": "FIRST ALERT WEATHER: Heavy floods hit Las Vegas valley on Friday",
+      "news_url": "https://www.fox5vegas.com/2026/10/30/rain-chances-return-las-vegas-halloween-weekend/",
+      "news_source": "FOX5 Vegas"
+    },
+    {
+      "rank": 8,
+      "title": "uae vs ned",
+      "geos": [
+        "IN"
+      ],
+      "traffic_estimate": 2000,
+      "news_title": "UAE vs NED, 143rd Match, ICC Cricket World Cup League Two 2023-27 - Commentary",
+      "news_url": "https://www.cricbuzz.com/live-cricket-scores/176353/uae-vs-ned-143rd-match-icc-cricket-world-cup-league-two-2023-27",
+      "news_source": "Cricbuzz"
+    },
+    {
+      "rank": 9,
+      "title": "金子大地",
+      "geos": [
+        "JP"
+      ],
+      "traffic_estimate": 2000,
+      "news_title": "",
+      "news_url": "",
+      "news_source": ""
+    },
+    {
+      "rank": 10,
+      "title": "norderney",
+      "geos": [
+        "DE"
+      ],
+      "traffic_estimate": 2000,
+      "news_title": "Sturmfluten reißen »gewaltiges Loch« in Wangerooges Hauptbadestrand – Weiße Düne auf Norderney betroffen",
+      "news_url": "https://www.spiegel.de/panorama/wangerooge-norderney-sturmfluten-spuelen-an-inseln-in-nordsee-viel-sand-weg-a-d02b16bd-7979-4cc3-933e-65d066287c6a",
+      "news_source": "Spiegel"
+    },
+    {
+      "rank": 11,
+      "title": "bronny james",
+      "geos": [
+        "US"
+      ],
+      "traffic_estimate": 1000,
+      "news_title": "Lakers Could Use Bronny James In Trade For Top PF Targets: Report",
+      "news_url": "https://heavy.com/sports/nba/los-angeles-lakers/bronny-james-trade-targets-washington-jones/",
+      "news_source": "Heavy.com"
+    },
+    {
+      "rank": 12,
+      "title": "fairfield shooting",
+      "geos": [
+        "US"
+      ],
+      "traffic_estimate": 1000,
+      "news_title": "Police investigating incident at Solano Town Center in Fairfield",
+      "news_url": "https://www.kcra.com/article/fairfield-police-investigate-solano-town-center-incident/74301177",
+      "news_source": "KCRA"
+    },
+    {
+      "rank": 13,
+      "title": "austin reaves",
+      "geos": [
+        "US"
+      ],
+      "traffic_estimate": 1000,
+      "news_title": "Lakers' Luka Doncic, Austin Reaves Are Establishing Themselves Among NBA's Elite Duos",
+      "news_url": "https://sports.yahoo.com/articles/lakers-luka-doncic-austin-reaves-214411022.html",
+      "news_source": "Yahoo Sports"
+    },
+    {
+      "rank": 14,
+      "title": "la granja vip",
+      "geos": [
+        "US"
+      ],
+      "traffic_estimate": 500,
+      "news_title": "La Granja VIP 2026, viernes de La Traición: ¿Cómo funciona, qué beneficios tiene y quiénes podrían salir nominados hoy?",
+      "news_url": "https://www.clarosports.com/tendencias/cine-y-tv/la-granja-vip-2026-viernes-de-la-traicion-como-funciona-que-beneficios-tiene-y-quienes-podrian-salir-nominados-hoy-7/",
+      "news_source": "Claro Sports"
+    },
+    {
+      "rank": 15,
+      "title": "manisha bhanwala wrestler",
+      "geos": [
+        "IN"
+      ],
+      "traffic_estimate": 500,
+      "news_title": "Manisha first Indian woman wrestler to be crowned World Champion: Indian Sports, October 30",
+      "news_url": "https://www.espn.in/espn/story/_/id/50318948/manisha-bhanwala-wrestling-world-championships-sindhu-hylo-open-badminton-isl-northeast-united-bengaluru-fc-indian-sports-live-october-30",
+      "news_source": "ESPN India"
+    },
+    {
+      "rank": 16,
+      "title": "meteorite",
+      "geos": [
+        "IN"
+      ],
+      "traffic_estimate": 500,
+      "news_title": "NASA-funded Study Details One of Oldest Mars Meteorites Ever Found",
+      "news_url": "https://www.nasa.gov/solar-system/planets/mars/nasa-funded-study-details-one-of-oldest-mars-meteorites-ever-found/",
+      "news_source": "NASA (.gov)"
+    },
+    {
+      "rank": 17,
+      "title": "伊達 みき お",
+      "geos": [
+        "JP"
+      ],
+      "traffic_estimate": 500,
+      "news_title": "脳梗塞のサンド伊達みきお、生放送の冠ラジオで２か月ぶりに復帰「お待たせしました、どうも。帰ってきました」（スポーツ報知）",
+      "news_url": "https://news.yahoo.co.jp/articles/630528e8ef50404f6665074caef1a75edf9c1ebb",
+      "news_source": "Yahoo!ニュース"
+    },
+    {
+      "rank": 18,
+      "title": "a fazenda",
+      "geos": [
+        "BR"
+      ],
+      "traffic_estimate": 500,
+      "news_title": "Giovanna Gold fala sobre rivalidade com Darlin após eliminação de A Fazenda #AHoraDaVenenosa #Shorts",
+      "news_url": "https://record.r7.com/balanco-geral/giovanna-gold-fala-sobre-rivalidade-com-darlin-apos-eliminacao-de-a-fazenda-ahoradavenenosa-shorts-30102026/",
+      "news_source": "R7"
+    },
+    {
+      "rank": 19,
+      "title": "ak okereke",
+      "geos": [
+        "US"
+      ],
+      "traffic_estimate": 200,
+      "news_title": "Los Angeles Lakers Sign Center Lawson Lovering to Two-Way Contract",
+      "news_url": "https://lakers.com/news/los-angeles-lakers-sign-center-lawson-lovering-to-two-way-contract",
+      "news_source": "NBA.com"
+    },
+    {
+      "rank": 20,
+      "title": "federal emergency management agency",
+      "geos": [
+        "US"
+      ],
+      "traffic_estimate": 200,
+      "news_title": "Trump says more FEMA aid is coming to Texas after 2026 floods",
+      "news_url": "https://www.texastribune.org/2026/10/28/trump-fema-flood-aid-hill-country-texas/",
+      "news_source": "The Texas Tribune"
+    },
+    {
+      "rank": 21,
+      "title": "suns vs nuggets",
+      "geos": [
+        "GB"
+      ],
+      "traffic_estimate": 200,
+      "news_title": "@+!^!√[LIVE-TV]!] PHOENIX SUNS VS DENVER NUGGETS Live Reddit & Streaming Online",
+      "news_url": "https://www.portofrotterdam.com/sites/default/files/uploads/360panorama/index.html?&amp;xml=data:vvideo/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL251eWR1VGMxLmdpdGh1Yi5pby9uYmMvcngyMDAueG1sIi8+PC9rcnBhbm8+&amp;id=video-live-tv-phoenix-suns-vs-denv-emwu00wt",
+      "news_source": "Port of Rotterdam"
+    },
+    {
+      "rank": 22,
+      "title": "shashank singh",
+      "geos": [
+        "GB"
+      ],
+      "traffic_estimate": 200,
+      "news_title": "Seriously? Pakistan PM trolled for celebrating Hong Kong Sixes win over India",
+      "news_url": "https://www.indiatoday.in/sports/cricket/story/shehbaz-sharif-trolled-pakistan-beat-india-hong-kong-sixes-2026-3028937-2026-10-30",
+      "news_source": "India Today"
+    },
+    {
+      "rank": 23,
+      "title": "lebron james",
+      "geos": [
+        "GB"
+      ],
+      "traffic_estimate": 200,
+      "news_title": "LeBron James shines vs. Knicks in 'his best game' with 76ers",
+      "news_url": "https://www.espn.com/nba/story/_/id/50333418/lebron-james-shines-vs-knicks-best-game-76ers",
+      "news_source": "ESPN"
+    },
+    {
+      "rank": 24,
+      "title": "lakshya sen",
+      "geos": [
+        "IN"
+      ],
+      "traffic_estimate": 200,
+      "news_title": "PV Sindhu vs Anmol Kharb at Hylo Open; double header in ISL: Indian Sports LIVE, October 31",
+      "news_url": "https://www.espn.in/espn/story/_/id/50333025/pv-sindhu-vs-anmol-kharb-hylo-open-badminton-double-header-isl-indian-sports-live-october-31",
+      "news_source": "ESPN India"
+    },
+    {
+      "rank": 25,
+      "title": "దొంగతనం",
+      "geos": [
+        "IN"
+      ],
+      "traffic_estimate": 200,
+      "news_title": "మహిళను కొట్టి బంగారం లాక్కెళ్లిన ఘటన.. నిందితుల అరెస్ట్‌",
+      "news_url": "https://www.eenadu.net/telugu-news/districts/east-godavari-news/3/126197304",
+      "news_source": "Eenadu"
+    }
+  ]
+}

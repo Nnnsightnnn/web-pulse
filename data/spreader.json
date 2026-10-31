@@ -1,22 +1,11 @@
 {
-  "date": "2026-10-30",
-  "generated_at": "2026-10-30T05:17:20.864Z",
-  "lede": "The web spent the day on Patrick Stewart. His Wikipedia page drew 2,356,552 views, more than six times the next most-read article, while Hacker News and Lemmy both carried posts reporting that the actor has died. Hacker News otherwise divided its attention between a claimed 5.6 billion dollar theft from Binance and Mistral's release of the open weights for Mistral Large 4, which topped the board at 1,288 points. Far out in the South Pacific, a magnitude 6.4 quake struck southeast of Easter Island, well away from land and raising no tsunami.",
+  "date": "2026-10-31",
+  "generated_at": "2026-10-31T05:17:19.826Z",
+  "lede": "The web's attention converged hard on Patrick Stewart, whose Wikipedia page drew 1,882,386 views, nearly four times the runner-up, while Hacker News ran a 134-point Next Generation episode guessing game in his honour. Related pages moved with him: his wife Sunny Ozell and longtime co-star Ian McKellen both climbed the same list. Away from that, the 2026 Israeli legislative election surfaced on both Polymarket and Wikipedia at once, and the day's loudest technology thread was an 850-point report of a backdoor in a Claude Code VS Code extension distributed through the Cursor marketplace.",
   "throughlines": [
     {
-      "title": "Patrick Stewart",
-      "gist": "Reports of the actor's death surfaced on Hacker News and Lemmy at the same hour his Wikipedia page became the single most-read article on the site.",
-      "sources": [
-        "hackernews",
-        "lemmy",
-        "wikipedia"
-      ],
-      "url": "https://en.wikipedia.org/wiki/Patrick_Stewart",
-      "kind": "cluster"
-    },
-    {
       "title": "2026 Israeli legislative election",
-      "gist": "Wikipedia readers and Polymarket traders converged on the same contest, with the prediction market pricing whether Likud takes the most seats.",
+      "gist": "The 2026 Israeli legislative election is pulling in both encyclopedia readers and prediction-market money, with Polymarket pricing whether Likud takes the most seats and whether Netanyahu stays prime minister.",
       "sources": [
         "polymarket",
         "wikipedia"
@@ -25,17 +14,27 @@
       "kind": "cluster"
     },
     {
-      "title": "Apex Legends: Cipher Gameplay Trailer",
-      "gist": "A new Cipher gameplay trailer trended on YouTube and carried Apex Legends back onto Steam's charts alongside it.",
+      "title": "Apex Legends™",
+      "gist": "Respawn's Apex Legends is live on two feeds at once, holding 199,183 concurrent Steam players while its Cipher gameplay trailer pulls 701,586 views on YouTube.",
       "sources": [
         "steam",
         "youtube"
       ],
       "url": "https://store.steampowered.com/app/1172470",
       "kind": "cluster"
+    },
+    {
+      "title": "War Thunder",
+      "gist": "War Thunder shows the same shape, with 101,280 concurrent players on Steam and 400,220 views on its 'Eagle's Shadow' update trailer.",
+      "sources": [
+        "steam",
+        "youtube"
+      ],
+      "url": "https://store.steampowered.com/app/236390",
+      "kind": "cluster"
     }
   ],
-  "strength": 100,
+  "strength": 75,
   "live_sources": 17,
   "total_sources": 17,
   "dashboard_url": "https://nnnsightnnn.github.io/web-pulse/",
