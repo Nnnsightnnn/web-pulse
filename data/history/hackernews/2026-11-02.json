@@ -1,0 +1,232 @@
+{
+  "source": "hackernews",
+  "label": "Hacker News — top stories",
+  "fetched_at": "2026-11-02T06:16:17.409Z",
+  "items": [
+    {
+      "rank": 1,
+      "title": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
+      "url": "https://hackerbooks.org",
+      "hn_url": "https://news.ycombinator.com/item?id=50326821",
+      "score": 1178,
+      "comments": 212,
+      "author": "roansh"
+    },
+    {
+      "rank": 2,
+      "title": "Postgres 19 is late because so many more bugs are being found now",
+      "url": "http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html",
+      "hn_url": "https://news.ycombinator.com/item?id=50312408",
+      "score": 245,
+      "comments": 161,
+      "author": "soheilpro"
+    },
+    {
+      "rank": 3,
+      "title": "F/OSS Comics #13: BSD Unix, Part 3 – The Beginning of BSD Unix",
+      "url": "https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/",
+      "hn_url": "https://news.ycombinator.com/item?id=50332163",
+      "score": 67,
+      "comments": 5,
+      "author": "joonehur"
+    },
+    {
+      "rank": 4,
+      "title": "HackerTube: YouTube built from videos recommended by HN",
+      "url": "https://karpathy.bearblog.dev/hacker-tube/",
+      "hn_url": "https://news.ycombinator.com/item?id=50319510",
+      "score": 2427,
+      "comments": 554,
+      "author": "karpathy"
+    },
+    {
+      "rank": 5,
+      "title": "Trigger.dev customer environment variables exposed",
+      "url": "https://trigger.dev/blog/security-incident-nov-2026",
+      "hn_url": "https://news.ycombinator.com/item?id=50331784",
+      "score": 58,
+      "comments": 19,
+      "author": "anurag"
+    },
+    {
+      "rank": 6,
+      "title": "Mystery of 60-Second Fluctuations in Power Grids Solved",
+      "url": "https://www.fz-juelich.de/en/news/archive/press-release/2026/mystery-of-60-second-fluctuations-in-power-grids-solved",
+      "hn_url": "https://news.ycombinator.com/item?id=50315217",
+      "score": 73,
+      "comments": 27,
+      "author": "_Microft"
+    },
+    {
+      "rank": 7,
+      "title": "Ask HN: Which TV do you recommend for privacy?",
+      "url": "https://news.ycombinator.com/item?id=50328896",
+      "hn_url": "https://news.ycombinator.com/item?id=50328896",
+      "score": 254,
+      "comments": 417,
+      "author": "LecroJS"
+    },
+    {
+      "rank": 8,
+      "title": "Nibnib: Image compression with extreme decompression speed",
+      "url": "https://github.com/raphlinus/nibnib",
+      "hn_url": "https://news.ycombinator.com/item?id=50299811",
+      "score": 123,
+      "comments": 21,
+      "author": "raphlinus"
+    },
+    {
+      "rank": 9,
+      "title": "Tips for more effective fuzz testing with AFL++",
+      "url": "https://nullprogram.com/blog/2025/02/05/",
+      "hn_url": "https://news.ycombinator.com/item?id=50271106",
+      "score": 101,
+      "comments": 16,
+      "author": "luu"
+    },
+    {
+      "rank": 10,
+      "title": "Copper – A minimal low-level programming language with OOP and generics",
+      "url": "https://tibleiz.net/copper/",
+      "hn_url": "https://news.ycombinator.com/item?id=50308754",
+      "score": 155,
+      "comments": 82,
+      "author": "bogdanoff_2"
+    },
+    {
+      "rank": 11,
+      "title": "Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust",
+      "url": "https://github.com/ivankovic/omnidiff",
+      "hn_url": "https://news.ycombinator.com/item?id=50325253",
+      "score": 203,
+      "comments": 46,
+      "author": "FabCH"
+    },
+    {
+      "rank": 12,
+      "title": "Keeping Up Appearances – The women taking over the funeral industry",
+      "url": "https://lareviewofbooks.org/article/death-industry-mortuary-programs-women-andie-eisen-quarterly/",
+      "hn_url": "https://news.ycombinator.com/item?id=50303088",
+      "score": 39,
+      "comments": 20,
+      "author": "TMWNN"
+    },
+    {
+      "rank": 13,
+      "title": "Proving and improving the Platonic Representation Hypothesis with JEPAs",
+      "url": "https://arxiv.org/abs/2610.39302",
+      "hn_url": "https://news.ycombinator.com/item?id=50325454",
+      "score": 124,
+      "comments": 66,
+      "author": "Anon84"
+    },
+    {
+      "rank": 14,
+      "title": "OccupySaaS",
+      "url": "https://occupysaas.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=50331402",
+      "score": 168,
+      "comments": 111,
+      "author": "misswaterfairy"
+    },
+    {
+      "rank": 15,
+      "title": "New 3D thermal invisibility cloak makes objects disappear from infrared cameras",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261025073051.htm",
+      "hn_url": "https://news.ycombinator.com/item?id=50299427",
+      "score": 63,
+      "comments": 32,
+      "author": "stevenalowe"
+    },
+    {
+      "rank": 16,
+      "title": "The AI cost of JavaScript frameworks",
+      "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
+      "hn_url": "https://news.ycombinator.com/item?id=50323088",
+      "score": 340,
+      "comments": 259,
+      "author": "luu"
+    },
+    {
+      "rank": 17,
+      "title": "Mathematics has changed. Let's act like it",
+      "url": "https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/",
+      "hn_url": "https://news.ycombinator.com/item?id=50328251",
+      "score": 262,
+      "comments": 287,
+      "author": "smilelamp"
+    },
+    {
+      "rank": 18,
+      "title": "One-minute frequency disturbances from synchronization in power systems",
+      "url": "https://www.nature.com/articles/s41560-026-02144-0",
+      "hn_url": "https://news.ycombinator.com/item?id=50314617",
+      "score": 139,
+      "comments": 45,
+      "author": "croes"
+    },
+    {
+      "rank": 19,
+      "title": "Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case",
+      "url": "https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/",
+      "hn_url": "https://news.ycombinator.com/item?id=50326099",
+      "score": 440,
+      "comments": 157,
+      "author": "entryleveljobsc"
+    },
+    {
+      "rank": 20,
+      "title": "Show HN: Point your camera at a landscape to learn about its geology",
+      "url": "https://outcrop.rocks/",
+      "hn_url": "https://news.ycombinator.com/item?id=50290533",
+      "score": 182,
+      "comments": 41,
+      "author": "headsupernova"
+    },
+    {
+      "rank": 21,
+      "title": "Bidirectional charging during grid outages",
+      "url": "https://www.jefftk.com/p/bidirectional-charging-during-grid-outages",
+      "hn_url": "https://news.ycombinator.com/item?id=50319749",
+      "score": 95,
+      "comments": 144,
+      "author": "luu"
+    },
+    {
+      "rank": 22,
+      "title": "Radiation Map of the World",
+      "url": "https://radiaverse.com/",
+      "hn_url": "https://news.ycombinator.com/item?id=50280131",
+      "score": 148,
+      "comments": 47,
+      "author": "slater"
+    },
+    {
+      "rank": 23,
+      "title": "AI fan wikis riddled with errors are muddying the waters of games culture",
+      "url": "https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture",
+      "hn_url": "https://news.ycombinator.com/item?id=50332086",
+      "score": 59,
+      "comments": 40,
+      "author": "rdmuser"
+    },
+    {
+      "rank": 24,
+      "title": "Show HN: I rebuilt my old canvas 3D library as a small WebGL 2 library – phoria2",
+      "url": "https://kevs3d.co.uk/phoria2/",
+      "hn_url": "https://news.ycombinator.com/item?id=50314508",
+      "score": 84,
+      "comments": 14,
+      "author": "kevs3d"
+    },
+    {
+      "rank": 25,
+      "title": "Bones may release proteins that slow aging and extend life span",
+      "url": "https://www.science.org/content/article/bones-may-release-proteins-slow-aging-and-extend-life-span",
+      "hn_url": "https://news.ycombinator.com/item?id=50331957",
+      "score": 9,
+      "comments": 0,
+      "author": "EA-3167"
+    }
+  ]
+}

@@ -1,38 +1,39 @@
 {
-  "date": "2026-11-01",
-  "generated_at": "2026-11-01T05:16:44.164Z",
-  "lede": "No story crossed more than one feed today, so the loudest signal is a lone one: Patrick Stewart pulled 450,119 Wikipedia reads, half again the next article on the list, with nothing in the other sixteen feeds to explain the surge. The rest of the web ran along its usual tracks. On GitHub, the day's top trending repo was claude-mem, a tool that gives AI coding agents persistent memory across sessions, with 1,723 new stars; Hacker News spent its attention on HackerTube, Andrej Karpathy's toy that builds a YouTube feed only from videos the HN crowd has recommended. Underneath it all, a magnitude 6.0 earthquake struck 58 km off Shima, Japan, the largest of 25 logged in 24 hours, from a deep 352 km focus that kept it quiet at the surface.",
+  "date": "2026-11-02",
+  "generated_at": "2026-11-02T06:16:31.435Z",
+  "lede": "The one story that crossed feeds today was a small embarrassment: Lenovo's 'encrypted' fingerprint USB drive turned out to be an ordinary unencrypted SD card in a fancy case, a finding that surfaced on both Hacker News and Lemmy. The biggest single number came from Wikipedia, where Haley Stevens drew 360,148 views, nearly double the runner-up, Patrick Stewart, at 205,436. Beneath that the day was mostly midterm betting markets and a magnitude 6.0 earthquake 165 km northwest of Port-Olry, Vanuatu. A quiet Monday, in other words, with one unlucky USB drive.",
   "throughlines": [
     {
-      "title": "Patrick Stewart",
-      "gist": "The day's most-read Wikipedia article at 450,119 views, running half again ahead of the next, with no matching story in any other feed to explain it.",
+      "title": "Lenovo's 'encrypted' fingerprint USB drive is just an unencrypted SD card in a fancy case",
+      "gist": "Lenovo's security claim fell apart on inspection, and it was the only story today live on two feeds at once, Hacker News and Lemmy.",
+      "sources": [
+        "hackernews",
+        "lemmy"
+      ],
+      "url": "https://news.ycombinator.com/item?id=50326099",
+      "kind": "cluster"
+    },
+    {
+      "title": "Haley Stevens",
+      "gist": "The most-read name on Wikipedia at 360,148 views, nearly double the runner-up, in a snapshot whose feeds lean toward the midterms.",
       "sources": [
         "wikipedia"
       ],
-      "url": "https://en.wikipedia.org/wiki/Patrick_Stewart",
+      "url": "https://en.wikipedia.org/wiki/Haley_Stevens",
       "kind": "single"
     },
     {
       "title": "thedotmack/claude-mem",
-      "gist": "The top trending repo on GitHub with 1,723 new stars today, a tool that gives AI coding agents persistent memory across sessions.",
+      "gist": "The fastest-climbing repository in the snapshot, up 1,526 stars in a day at the top of GitHub trending.",
       "sources": [
         "github"
       ],
       "url": "https://github.com/thedotmack/claude-mem",
       "kind": "single"
-    },
-    {
-      "title": "HackerTube: YouTube built from videos recommended by HN",
-      "gist": "Leading Hacker News at 958 points and 298 comments, Andrej Karpathy's toy that assembles a YouTube feed only from videos the HN community has recommended.",
-      "sources": [
-        "hackernews"
-      ],
-      "url": "https://karpathy.bearblog.dev/hacker-tube/",
-      "kind": "single"
     }
   ],
-  "strength": 15,
-  "live_sources": 17,
+  "strength": 28,
+  "live_sources": 16,
   "total_sources": 17,
   "dashboard_url": "https://nnnsightnnn.github.io/web-pulse/",
   "engine": "ai"
