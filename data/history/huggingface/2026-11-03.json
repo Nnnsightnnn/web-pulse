@@ -1,0 +1,282 @@
+{
+  "source": "huggingface",
+  "label": "Hugging Face — trending models",
+  "fetched_at": "2026-11-03T06:16:04.397Z",
+  "items": [
+    {
+      "rank": 1,
+      "title": "LiquidAI/LFM3-1.7B",
+      "url": "https://huggingface.co/LiquidAI/LFM3-1.7B",
+      "author": "LiquidAI",
+      "downloads": 42384,
+      "likes": 1229,
+      "trending_score": 781,
+      "pipeline_tag": "text-generation",
+      "last_modified": "2026-10-28T17:16:37.000Z"
+    },
+    {
+      "rank": 2,
+      "title": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "author": "deepseek-ai",
+      "downloads": 177009,
+      "likes": 4743,
+      "trending_score": 664,
+      "pipeline_tag": "image-text-to-text",
+      "last_modified": "2026-10-17T05:46:55.000Z"
+    },
+    {
+      "rank": 3,
+      "title": "nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
+      "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
+      "author": "nvidia",
+      "downloads": 32439,
+      "likes": 695,
+      "trending_score": 617,
+      "pipeline_tag": "automatic-speech-recognition",
+      "last_modified": "2026-10-29T23:04:39.000Z"
+    },
+    {
+      "rank": 4,
+      "title": "mistralai/Mistral-Large-4-1T-A52B",
+      "url": "https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B",
+      "author": "mistralai",
+      "downloads": 5500,
+      "likes": 1508,
+      "trending_score": 509,
+      "pipeline_tag": "image-text-to-text",
+      "last_modified": "2026-11-02T18:30:59.000Z"
+    },
+    {
+      "rank": 5,
+      "title": "baidu/Unlimited-OCR-2",
+      "url": "https://huggingface.co/baidu/Unlimited-OCR-2",
+      "author": "baidu",
+      "downloads": 147588,
+      "likes": 566,
+      "trending_score": 428,
+      "pipeline_tag": "image-text-to-text",
+      "last_modified": "2026-11-02T06:55:38.000Z"
+    },
+    {
+      "rank": 6,
+      "title": "speridlabs/idol",
+      "url": "https://huggingface.co/speridlabs/idol",
+      "author": "speridlabs",
+      "downloads": 7787,
+      "likes": 433,
+      "trending_score": 412,
+      "pipeline_tag": "image-to-3d",
+      "last_modified": "2026-10-29T18:17:36.000Z"
+    },
+    {
+      "rank": 7,
+      "title": "ccore/Qwen3.5-4B-3D-Coder",
+      "url": "https://huggingface.co/ccore/Qwen3.5-4B-3D-Coder",
+      "author": "ccore",
+      "downloads": 63499,
+      "likes": 570,
+      "trending_score": 380,
+      "pipeline_tag": null,
+      "last_modified": "2026-11-02T00:53:28.000Z"
+    },
+    {
+      "rank": 8,
+      "title": "Lightricks/LTX-2.5",
+      "url": "https://huggingface.co/Lightricks/LTX-2.5",
+      "author": "Lightricks",
+      "downloads": 2467613,
+      "likes": 10387,
+      "trending_score": 379,
+      "pipeline_tag": "image-to-video",
+      "last_modified": "2026-10-11T07:00:53.000Z"
+    },
+    {
+      "rank": 9,
+      "title": "Pika-Labs/Pika-H3-Flex",
+      "url": "https://huggingface.co/Pika-Labs/Pika-H3-Flex",
+      "author": "Pika-Labs",
+      "downloads": 491,
+      "likes": 366,
+      "trending_score": 346,
+      "pipeline_tag": "image-to-video",
+      "last_modified": "2026-10-29T23:29:03.000Z"
+    },
+    {
+      "rank": 10,
+      "title": "Qwen/Qwen3.8-27B",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+      "author": "Qwen",
+      "downloads": 7915637,
+      "likes": 19028,
+      "trending_score": 292,
+      "pipeline_tag": "image-text-to-text",
+      "last_modified": "2026-08-14T15:00:01.000Z"
+    },
+    {
+      "rank": 11,
+      "title": "abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
+      "url": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
+      "author": "abenzerps",
+      "downloads": 2516622,
+      "likes": 5566,
+      "trending_score": 290,
+      "pipeline_tag": "text-to-image",
+      "last_modified": "2026-10-12T07:10:55.000Z"
+    },
+    {
+      "rank": 12,
+      "title": "LiquidAI/LFM3-Omni-2B",
+      "url": "https://huggingface.co/LiquidAI/LFM3-Omni-2B",
+      "author": "LiquidAI",
+      "downloads": 9964,
+      "likes": 319,
+      "trending_score": 290,
+      "pipeline_tag": "any-to-any",
+      "last_modified": "2026-10-28T23:16:38.000Z"
+    },
+    {
+      "rank": 13,
+      "title": "black-forest-labs/flux-3-image-klein-comfy",
+      "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy",
+      "author": "black-forest-labs",
+      "downloads": 1003813,
+      "likes": 2364,
+      "trending_score": 278,
+      "pipeline_tag": "image-to-image",
+      "last_modified": "2026-11-02T23:49:46.000Z"
+    },
+    {
+      "rank": 14,
+      "title": "burner22/numbat",
+      "url": "https://huggingface.co/burner22/numbat",
+      "author": "burner22",
+      "downloads": 7108,
+      "likes": 300,
+      "trending_score": 272,
+      "pipeline_tag": null,
+      "last_modified": "2026-10-24T19:09:00.000Z"
+    },
+    {
+      "rank": 15,
+      "title": "Nanbeige/Nanbeige4.3-33B",
+      "url": "https://huggingface.co/Nanbeige/Nanbeige4.3-33B",
+      "author": "Nanbeige",
+      "downloads": 16976,
+      "likes": 1012,
+      "trending_score": 270,
+      "pipeline_tag": "text-generation",
+      "last_modified": "2026-10-28T01:59:01.000Z"
+    },
+    {
+      "rank": 16,
+      "title": "Edge0/Audio8-TTS-Realistic-Air",
+      "url": "https://huggingface.co/Edge0/Audio8-TTS-Realistic-Air",
+      "author": "Edge0",
+      "downloads": 7259,
+      "likes": 251,
+      "trending_score": 233,
+      "pipeline_tag": "text-to-speech",
+      "last_modified": "2026-11-02T11:39:15.000Z"
+    },
+    {
+      "rank": 17,
+      "title": "FusionCow/Sulphur-3",
+      "url": "https://huggingface.co/FusionCow/Sulphur-3",
+      "author": "FusionCow",
+      "downloads": 195,
+      "likes": 276,
+      "trending_score": 232,
+      "pipeline_tag": null,
+      "last_modified": "2026-11-03T02:27:29.000Z"
+    },
+    {
+      "rank": 18,
+      "title": "Diffuspace/Clover-35B-A3B-Preview",
+      "url": "https://huggingface.co/Diffuspace/Clover-35B-A3B-Preview",
+      "author": "Diffuspace",
+      "downloads": 2679,
+      "likes": 231,
+      "trending_score": 217,
+      "pipeline_tag": "text-generation",
+      "last_modified": "2026-10-28T03:07:54.000Z"
+    },
+    {
+      "rank": 19,
+      "title": "facebook/sam3",
+      "url": "https://huggingface.co/facebook/sam3",
+      "author": "facebook",
+      "downloads": 1879182,
+      "likes": 5736,
+      "trending_score": 211,
+      "pipeline_tag": "mask-generation",
+      "last_modified": "2025-11-20T22:05:08.000Z"
+    },
+    {
+      "rank": 20,
+      "title": "LiquidAI/LFM3-VL-2B",
+      "url": "https://huggingface.co/LiquidAI/LFM3-VL-2B",
+      "author": "LiquidAI",
+      "downloads": 10141,
+      "likes": 220,
+      "trending_score": 209,
+      "pipeline_tag": "image-text-to-text",
+      "last_modified": "2026-10-28T23:16:11.000Z"
+    },
+    {
+      "rank": 21,
+      "title": "OBLITERATUS/DeepSeek-V4.1-Flash-1017-obliterated",
+      "url": "https://huggingface.co/OBLITERATUS/DeepSeek-V4.1-Flash-1017-obliterated",
+      "author": "OBLITERATUS",
+      "downloads": 1095,
+      "likes": 224,
+      "trending_score": 199,
+      "pipeline_tag": "text-generation",
+      "last_modified": "2026-10-30T10:34:55.000Z"
+    },
+    {
+      "rank": 22,
+      "title": "RecursiveSI/flint",
+      "url": "https://huggingface.co/RecursiveSI/flint",
+      "author": "RecursiveSI",
+      "downloads": 29574,
+      "likes": 1313,
+      "trending_score": 196,
+      "pipeline_tag": "text-generation",
+      "last_modified": "2026-10-21T14:24:03.000Z"
+    },
+    {
+      "rank": 23,
+      "title": "AtomicChat/DeepSeek-V4.1-Flash-1017-Uncensored-GSQ-RCO-GGUF",
+      "url": "https://huggingface.co/AtomicChat/DeepSeek-V4.1-Flash-1017-Uncensored-GSQ-RCO-GGUF",
+      "author": "AtomicChat",
+      "downloads": 30284,
+      "likes": 219,
+      "trending_score": 195,
+      "pipeline_tag": "text-generation",
+      "last_modified": "2026-10-31T07:29:05.000Z"
+    },
+    {
+      "rank": 24,
+      "title": "AtomicChat/LFM3-1.7B-Uncensored-GGUF",
+      "url": "https://huggingface.co/AtomicChat/LFM3-1.7B-Uncensored-GGUF",
+      "author": "AtomicChat",
+      "downloads": 59832,
+      "likes": 220,
+      "trending_score": 193,
+      "pipeline_tag": "text-generation",
+      "last_modified": "2026-10-28T08:47:07.000Z"
+    },
+    {
+      "rank": 25,
+      "title": "sensenova/SenseNova-Loop-9B-Preview",
+      "url": "https://huggingface.co/sensenova/SenseNova-Loop-9B-Preview",
+      "author": "sensenova",
+      "downloads": 1536,
+      "likes": 192,
+      "trending_score": 189,
+      "pipeline_tag": "image-text-to-text",
+      "last_modified": "2026-11-02T15:43:56.000Z"
+    }
+  ]
+}

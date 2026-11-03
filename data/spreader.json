@@ -1,39 +1,40 @@
 {
-  "date": "2026-11-02",
-  "generated_at": "2026-11-02T06:16:31.435Z",
-  "lede": "The one story that crossed feeds today was a small embarrassment: Lenovo's 'encrypted' fingerprint USB drive turned out to be an ordinary unencrypted SD card in a fancy case, a finding that surfaced on both Hacker News and Lemmy. The biggest single number came from Wikipedia, where Haley Stevens drew 360,148 views, nearly double the runner-up, Patrick Stewart, at 205,436. Beneath that the day was mostly midterm betting markets and a magnitude 6.0 earthquake 165 km northwest of Port-Olry, Vanuatu. A quiet Monday, in other words, with one unlucky USB drive.",
+  "date": "2026-11-03",
+  "generated_at": "2026-11-03T06:16:42.505Z",
+  "lede": "An American election is pulling the feeds into its orbit at once. Polymarket's two busiest contracts both turn on who controls Congress, with traders pricing Democrats at 95 percent to take the House on nearly four million dollars of volume in a day, and Mastodon's timeline is already thick with pre-vote nerves. Wikipedia tells a quieter story: its most-read name is Haley Stevens at 548,345 views, more than double the runner-up, and no feed says why. Just below her, a Learjet 60 crash in Palm Beach County took two of the top five slots.",
   "throughlines": [
     {
-      "title": "Lenovo's 'encrypted' fingerprint USB drive is just an unencrypted SD card in a fancy case",
-      "gist": "Lenovo's security claim fell apart on inspection, and it was the only story today live on two feeds at once, Hacker News and Lemmy.",
+      "title": "Kimi Antonelli",
+      "gist": "F1 driver Kimi Antonelli is surfacing on two feeds at once: a Wikipedia reader spike alongside his name trading in Polymarket's 2026 drivers' championship market.",
       "sources": [
-        "hackernews",
-        "lemmy"
+        "polymarket",
+        "wikipedia"
       ],
-      "url": "https://news.ycombinator.com/item?id=50326099",
+      "url": "https://en.wikipedia.org/wiki/Kimi_Antonelli",
       "kind": "cluster"
     },
     {
-      "title": "Haley Stevens",
-      "gist": "The most-read name on Wikipedia at 360,148 views, nearly double the runner-up, in a snapshot whose feeds lean toward the midterms.",
+      "title": "Patrick Stewart",
+      "gist": "The actor is crossing feeds, a Wikipedia reader surge landing the same day as a fond Bluesky tribute to his work.",
       "sources": [
+        "bluesky",
         "wikipedia"
       ],
-      "url": "https://en.wikipedia.org/wiki/Haley_Stevens",
-      "kind": "single"
+      "url": "https://en.wikipedia.org/wiki/Patrick_Stewart",
+      "kind": "cluster"
     },
     {
-      "title": "thedotmack/claude-mem",
-      "gist": "The fastest-climbing repository in the snapshot, up 1,526 stars in a day at the top of GitHub trending.",
+      "title": "vercel-labs/agent-desktop",
+      "gist": "A Rust computer-use CLI for AI agents, it topped GitHub's trending list with 2,275 stars in a day.",
       "sources": [
         "github"
       ],
-      "url": "https://github.com/thedotmack/claude-mem",
+      "url": "https://github.com/vercel-labs/agent-desktop",
       "kind": "single"
     }
   ],
-  "strength": 28,
-  "live_sources": 16,
+  "strength": 53,
+  "live_sources": 17,
   "total_sources": 17,
   "dashboard_url": "https://nnnsightnnn.github.io/web-pulse/",
   "engine": "ai"

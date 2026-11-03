@@ -1,0 +1,332 @@
+{
+  "source": "stackoverflow",
+  "label": "Stack Overflow — hot questions",
+  "fetched_at": "2026-11-03T06:16:04.341Z",
+  "items": [
+    {
+      "rank": 1,
+      "title": "How can I safely load custom CSS and JavaScript only on a specific WordPress page?",
+      "url": "https://stackoverflow.com/questions/80014356/how-can-i-safely-load-custom-css-and-javascript-only-on-a-specific-wordpress-pag",
+      "score": -1,
+      "answers": 1,
+      "views": 19,
+      "tags": [
+        "javascript",
+        "css",
+        "wordpress",
+        "conditional-statements",
+        "wp-enqueue-scripts"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "React build cache grows to ~40GB in [node_modules/.cache / .next / etc.] - how to limit or prevent it?",
+      "url": "https://stackoverflow.com/questions/80014363/react-build-cache-grows-to-40gb-in-node-modules-cache-next-etc-how-t",
+      "score": -1,
+      "answers": 0,
+      "views": 16,
+      "tags": [
+        "reactjs",
+        "vite"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "How can I diagnose a Docker push connection refusal to Artifact Registry from Google Cloud Shell?",
+      "url": "https://stackoverflow.com/questions/80014360/how-can-i-diagnose-a-docker-push-connection-refusal-to-artifact-registry-from-go",
+      "score": -2,
+      "answers": 0,
+      "views": 14,
+      "tags": [
+        "google-cloud-shell",
+        "google-artifact-registry"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Setattr on frozen slotted dataclass raises TypeError in py3.12 but FrozenInstanceError in py3.13",
+      "url": "https://stackoverflow.com/questions/80014347/setattr-on-frozen-slotted-dataclass-raises-typeerror-in-py3-12-but-frozeninstanc",
+      "score": 1,
+      "answers": 2,
+      "views": 52,
+      "tags": [
+        "python",
+        "python-dataclasses"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Session management via a set of 4 mandatory cookies",
+      "url": "https://stackoverflow.com/questions/80014344/session-management-via-a-set-of-4-mandatory-cookies",
+      "score": -3,
+      "answers": 0,
+      "views": 18,
+      "tags": [
+        "asp.net-mvc",
+        "cookies"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Unusual syntax for declaring or extending a class - how does this work?",
+      "url": "https://stackoverflow.com/questions/80014338/unusual-syntax-for-declaring-or-extending-a-class-how-does-this-work",
+      "score": 1,
+      "answers": 1,
+      "views": 93,
+      "tags": [
+        "javascript",
+        "class"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Google OAuth token exchange gives 401 invalid_client after successful consent",
+      "url": "https://stackoverflow.com/questions/80014324/google-oauth-token-exchange-gives-401-invalid-client-after-successful-consent",
+      "score": -4,
+      "answers": 1,
+      "views": 71,
+      "tags": [
+        "python",
+        "oauth-2.0",
+        "google-oauth"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Add a decimated signal: the user enters a number (e.g., 4), and the system should remove signals that are multiples of 4",
+      "url": "https://stackoverflow.com/questions/80014311/add-a-decimated-signal-the-user-enters-a-number-e-g-4-and-the-system-shoul",
+      "score": -8,
+      "answers": 0,
+      "views": 83,
+      "tags": [
+        "c"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Raylib drawing images",
+      "url": "https://stackoverflow.com/questions/80014335/raylib-drawing-images",
+      "score": -3,
+      "answers": 0,
+      "views": 53,
+      "tags": [
+        "c",
+        "image",
+        "raylib"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Android Auto POI app notifications not displaying on car screen (Not using MessagingStyle)",
+      "url": "https://stackoverflow.com/questions/80014337/android-auto-poi-app-notifications-not-displaying-on-car-screen-not-using-messa",
+      "score": -1,
+      "answers": 0,
+      "views": 40,
+      "tags": [
+        "android",
+        "kotlin",
+        "android-auto"
+      ]
+    },
+    {
+      "rank": 11,
+      "title": "Does anyone know how images in pyglet work?",
+      "url": "https://stackoverflow.com/questions/80014334/does-anyone-know-how-images-in-pyglet-work",
+      "score": -5,
+      "answers": 0,
+      "views": 44,
+      "tags": [
+        "python",
+        "image",
+        "pyglet"
+      ]
+    },
+    {
+      "rank": 12,
+      "title": "Cross-sectional engine only fires when the next minute's data arrives: how do I trigger a delayed aggregation for the current timestamp?",
+      "url": "https://stackoverflow.com/questions/80014336/cross-sectional-engine-only-fires-when-the-next-minutes-data-arrives-how-do-i",
+      "score": -1,
+      "answers": 0,
+      "views": 22,
+      "tags": [
+        "time-series",
+        "streaming",
+        "dolphindb"
+      ]
+    },
+    {
+      "rank": 13,
+      "title": "Enabling IDE/editor code-completion for projects/files that use C++20 modules?",
+      "url": "https://stackoverflow.com/questions/80014321/enabling-ide-editor-code-completion-for-projects-files-that-use-c20-modules",
+      "score": -3,
+      "answers": 0,
+      "views": 87,
+      "tags": [
+        "c++",
+        "c++20",
+        "code-completion",
+        "c++-modules"
+      ]
+    },
+    {
+      "rank": 14,
+      "title": "Why does ContextVar return its default value inside run_in_executor() in Python asyncio?",
+      "url": "https://stackoverflow.com/questions/80014255/why-does-contextvar-return-its-default-value-inside-run-in-executor-in-python",
+      "score": 3,
+      "answers": 1,
+      "views": 100,
+      "tags": [
+        "python",
+        "python-asyncio",
+        "python-contextvars"
+      ]
+    },
+    {
+      "rank": 15,
+      "title": "Should module-level constants in constants.py be annotated with typing.Final",
+      "url": "https://stackoverflow.com/questions/80014209/should-module-level-constants-in-constants-py-be-annotated-with-typing-final",
+      "score": 1,
+      "answers": 2,
+      "views": 150,
+      "tags": [
+        "python",
+        "constants",
+        "python-typing"
+      ]
+    },
+    {
+      "rank": 16,
+      "title": ":nth-child() with selectors inconsistent behavior",
+      "url": "https://stackoverflow.com/questions/80014303/nth-child-with-selectors-inconsistent-behavior",
+      "score": 2,
+      "answers": 1,
+      "views": 95,
+      "tags": [
+        "html",
+        "css",
+        "css-selectors"
+      ]
+    },
+    {
+      "rank": 17,
+      "title": "Classic (non-ML) method to remove in-band noise (electrode motion / muscle) from ECG, suitable for a low-power FPGA",
+      "url": "https://stackoverflow.com/questions/80014320/classic-non-ml-method-to-remove-in-band-noise-electrode-motion-muscle-from",
+      "score": -3,
+      "answers": 0,
+      "views": 47,
+      "tags": [
+        "filter",
+        "signal-processing",
+        "fpga",
+        "wavelet"
+      ]
+    },
+    {
+      "rank": 18,
+      "title": "Java generator showing \"warning: ambiguous type name\" from two functions with same name, distinct parameters",
+      "url": "https://stackoverflow.com/questions/80014305/java-generator-showing-warning-ambiguous-type-name-from-two-functions-with-sa",
+      "score": -1,
+      "answers": 0,
+      "views": 77,
+      "tags": [
+        "java",
+        "postgresql",
+        "jooq",
+        "function-templates-overloading"
+      ]
+    },
+    {
+      "rank": 19,
+      "title": "Why does scikit-image skeletonization produce off-center loops and unwanted branches in thresholded handwritten strokes?",
+      "url": "https://stackoverflow.com/questions/80014319/why-does-scikit-image-skeletonization-produce-off-center-loops-and-unwanted-bran",
+      "score": -2,
+      "answers": 0,
+      "views": 38,
+      "tags": [
+        "python",
+        "handwriting-recognition"
+      ]
+    },
+    {
+      "rank": 20,
+      "title": "What other LiDAR data processing software exist apart from LP360? (commercial or open-source)",
+      "url": "https://stackoverflow.com/questions/80014293/what-other-lidar-data-processing-software-exist-apart-from-lp360-commercial-or",
+      "score": -9,
+      "answers": 0,
+      "views": 110,
+      "tags": [
+        "advice",
+        "geospatial",
+        "lidar",
+        "lidar-data"
+      ]
+    },
+    {
+      "rank": 21,
+      "title": "Does the order of columns matter in Liquid Clustered Tables in Databricks?",
+      "url": "https://stackoverflow.com/questions/80014274/does-the-order-of-columns-matter-in-liquid-clustered-tables-in-databricks",
+      "score": -4,
+      "answers": 1,
+      "views": 87,
+      "tags": [
+        "databricks",
+        "bigdata",
+        "delta-lake"
+      ]
+    },
+    {
+      "rank": 22,
+      "title": "How to have a 'bungie' like animation for a div that plays on scroll of the page",
+      "url": "https://stackoverflow.com/questions/80014263/how-to-have-a-bungie-like-animation-for-a-div-that-plays-on-scroll-of-the-page",
+      "score": -7,
+      "answers": 0,
+      "views": 103,
+      "tags": [
+        "advice",
+        "html",
+        "css"
+      ]
+    },
+    {
+      "rank": 23,
+      "title": "Difference between three forms of instantiating a generic class in Python",
+      "url": "https://stackoverflow.com/questions/80014112/difference-between-three-forms-of-instantiating-a-generic-class-in-python",
+      "score": 3,
+      "answers": 2,
+      "views": 144,
+      "tags": [
+        "python",
+        "generics",
+        "python-typing",
+        "instantiation"
+      ]
+    },
+    {
+      "rank": 24,
+      "title": "Why is my /etc/timezone a directory insted of a file?",
+      "url": "https://stackoverflow.com/questions/80014173/why-is-my-etc-timezone-a-directory-insted-of-a-file",
+      "score": -6,
+      "answers": 1,
+      "views": 128,
+      "tags": [
+        "linux",
+        "docker",
+        "ubuntu"
+      ]
+    },
+    {
+      "rank": 25,
+      "title": "NinjaOne webhook arrives before psaTicketId is set by the native Zendesk integration. Is there an event that fires when the ticket is created?",
+      "url": "https://stackoverflow.com/questions/80014304/ninjaone-webhook-arrives-before-psaticketid-is-set-by-the-native-zendesk-integra",
+      "score": -1,
+      "answers": 0,
+      "views": 22,
+      "tags": [
+        "node.js",
+        "typescript",
+        "webhooks",
+        "zendesk-api"
+      ]
+    }
+  ]
+}
