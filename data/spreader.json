@@ -1,39 +1,40 @@
 {
-  "date": "2026-11-03",
-  "generated_at": "2026-11-03T06:16:42.505Z",
-  "lede": "An American election is pulling the feeds into its orbit at once. Polymarket's two busiest contracts both turn on who controls Congress, with traders pricing Democrats at 95 percent to take the House on nearly four million dollars of volume in a day, and Mastodon's timeline is already thick with pre-vote nerves. Wikipedia tells a quieter story: its most-read name is Haley Stevens at 548,345 views, more than double the runner-up, and no feed says why. Just below her, a Learjet 60 crash in Palm Beach County took two of the top five slots.",
+  "date": "2026-11-04",
+  "generated_at": "2026-11-04T06:16:23.098Z",
+  "lede": "Election night hit five feeds at once: Polymarket, Wikipedia, Lemmy, Bluesky and Mastodon all turned to the 2026 midterms, and the House market alone moved $11M in 24 hours while parked at 100 percent yes. The strangest number of the day sits on Wikipedia, where a man named Jesús de Miguel drew 585,060 views, about a third more than the election article itself, on a day nothing else in the feeds explains. A magnitude 5.4 quake struck near Rioblanco, Colombia.",
   "throughlines": [
     {
-      "title": "Kimi Antonelli",
-      "gist": "F1 driver Kimi Antonelli is surfacing on two feeds at once: a Wikipedia reader spike alongside his name trading in Polymarket's 2026 drivers' championship market.",
+      "title": "Will the Democratic Party control the Senate after the 2026 Midterm elections?",
+      "gist": "Hacker News is running live midterm coverage that calls Senate control for the Democrats, and Polymarket has settled the same question at 100 percent, on $7.6M of volume in a day.",
       "sources": [
-        "polymarket",
-        "wikipedia"
+        "hackernews",
+        "polymarket"
       ],
-      "url": "https://en.wikipedia.org/wiki/Kimi_Antonelli",
+      "url": "https://news.ycombinator.com/item?id=50361936",
       "kind": "cluster"
     },
     {
-      "title": "Patrick Stewart",
-      "gist": "The actor is crossing feeds, a Wikipedia reader surge landing the same day as a fond Bluesky tribute to his work.",
+      "title": "Will the Democrats win the Texas Senate race in 2026?",
+      "gist": "Lemmy is calling a historic Texas flip as James Talarico turns the state blue, and the Polymarket Texas Senate market backs it at 100 percent on nearly $5M traded in 24 hours.",
       "sources": [
-        "bluesky",
-        "wikipedia"
+        "lemmy",
+        "polymarket"
       ],
-      "url": "https://en.wikipedia.org/wiki/Patrick_Stewart",
+      "url": "https://lemmy.world/post/53966680",
       "kind": "cluster"
     },
     {
-      "title": "vercel-labs/agent-desktop",
-      "gist": "A Rust computer-use CLI for AI agents, it topped GitHub's trending list with 2,275 stars in a day.",
+      "title": "mary peltola",
+      "gist": "Mary Peltola is breaking out on Google Trends as her Alaska Senate race stays live on Polymarket, where she leads at 97 percent, the one contest the day's markets have not yet called outright.",
       "sources": [
-        "github"
+        "google-trends",
+        "polymarket"
       ],
-      "url": "https://github.com/vercel-labs/agent-desktop",
-      "kind": "single"
+      "url": "https://www.nytimes.com/interactive/2026/11/03/us/elections/results-michigan-us-senate.html",
+      "kind": "cluster"
     }
   ],
-  "strength": 53,
+  "strength": 100,
   "live_sources": 17,
   "total_sources": 17,
   "dashboard_url": "https://nnnsightnnn.github.io/web-pulse/",
