@@ -1,41 +1,41 @@
 {
-  "date": "2026-11-04",
-  "generated_at": "2026-11-04T06:16:23.098Z",
-  "lede": "Election night hit five feeds at once: Polymarket, Wikipedia, Lemmy, Bluesky and Mastodon all turned to the 2026 midterms, and the House market alone moved $11M in 24 hours while parked at 100 percent yes. The strangest number of the day sits on Wikipedia, where a man named Jesús de Miguel drew 585,060 views, about a third more than the election article itself, on a day nothing else in the feeds explains. A magnitude 5.4 quake struck near Rioblanco, Colombia.",
+  "date": "2026-11-05",
+  "generated_at": "2026-11-05T06:19:59.079Z",
+  "lede": "The 2026 US midterms are the whole front page today: Wikipedia's five most-read articles are all election figures or races, led by Abdul El-Sayed at 1,413,749 views, and Polymarket's board fills with Senate contests from Alaska to Mississippi. The sharpest outlier sits on Hacker News, where a report of residential proxies detected on the White House network drew 881 points, well clear of anything else on the board. Away from politics, basketball crossed the feeds, with Heat vs. Clippers topping Polymarket and turning up in search at the same time.",
   "throughlines": [
     {
-      "title": "Will the Democratic Party control the Senate after the 2026 Midterm elections?",
-      "gist": "Hacker News is running live midterm coverage that calls Senate control for the Democrats, and Polymarket has settled the same question at 100 percent, on $7.6M of volume in a day.",
-      "sources": [
-        "hackernews",
-        "polymarket"
-      ],
-      "url": "https://news.ycombinator.com/item?id=50361936",
-      "kind": "cluster"
-    },
-    {
-      "title": "Will the Democrats win the Texas Senate race in 2026?",
-      "gist": "Lemmy is calling a historic Texas flip as James Talarico turns the state blue, and the Polymarket Texas Senate market backs it at 100 percent on nearly $5M traded in 24 hours.",
-      "sources": [
-        "lemmy",
-        "polymarket"
-      ],
-      "url": "https://lemmy.world/post/53966680",
-      "kind": "cluster"
-    },
-    {
-      "title": "mary peltola",
-      "gist": "Mary Peltola is breaking out on Google Trends as her Alaska Senate race stays live on Polymarket, where she leads at 97 percent, the one contest the day's markets have not yet called outright.",
+      "title": "Heat vs. Clippers",
+      "gist": "The night's one sports story to cross over, live on Polymarket's betting board and climbing Google search at the same time.",
       "sources": [
         "google-trends",
         "polymarket"
       ],
-      "url": "https://www.nytimes.com/interactive/2026/11/03/us/elections/results-michigan-us-senate.html",
+      "url": "https://www.usatoday.com/sports/nba/event/2026/3018620/boxscore/?itm_source=oembed&amp;itm_medium=sports&amp;itm_campaign=scoreboard&amp;site=USAT&amp;itm_content=NBA&amp;tile=3",
+      "kind": "cluster"
+    },
+    {
+      "title": "moonshotai/Kimi-K3.1-Pro",
+      "gist": "A newly posted Moonshot AI model trending on Hugging Face and picked up on Hacker News the same day, a read on where open-weight attention is pooling.",
+      "sources": [
+        "hackernews",
+        "huggingface"
+      ],
+      "url": "https://news.ycombinator.com/item?id=50366999",
+      "kind": "cluster"
+    },
+    {
+      "title": "Will Hakeem Jeffries win the 2028 Democratic presidential nomination?",
+      "gist": "A Polymarket contract on the 2028 Democratic nomination moving in step with traffic to Hakeem Jeffries' Wikipedia page, 2028 speculation surfacing inside the midterm reading.",
+      "sources": [
+        "polymarket",
+        "wikipedia"
+      ],
+      "url": "https://en.wikipedia.org/wiki/Hakeem_Jeffries",
       "kind": "cluster"
     }
   ],
   "strength": 100,
-  "live_sources": 17,
+  "live_sources": 16,
   "total_sources": 17,
   "dashboard_url": "https://nnnsightnnn.github.io/web-pulse/",
   "engine": "ai"

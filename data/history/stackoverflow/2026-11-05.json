@@ -1,0 +1,331 @@
+{
+  "source": "stackoverflow",
+  "label": "Stack Overflow — hot questions",
+  "fetched_at": "2026-11-05T06:19:04.349Z",
+  "items": [
+    {
+      "rank": 1,
+      "title": "Encoded semicolon (%3B) reaches Go backend as a literal semicolon behind AWS API Gateway",
+      "url": "https://stackoverflow.com/questions/80014820/encoded-semicolon-3b-reaches-go-backend-as-a-literal-semicolon-behind-aws-api",
+      "score": 1,
+      "answers": 0,
+      "views": 52,
+      "tags": [
+        "go",
+        "aws-api-gateway"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "How can I reduce cross-region database round trips during bulk writes?",
+      "url": "https://stackoverflow.com/questions/80014819/how-can-i-reduce-cross-region-database-round-trips-during-bulk-writes",
+      "score": -3,
+      "answers": 0,
+      "views": 24,
+      "tags": [
+        "best-practices",
+        ".net",
+        "sql-server-2005",
+        "alwayson"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Why does a task stack overflow trigger a HardFault instead of invoking vApplicationStackOverflowHook on Cortex-M0+?",
+      "url": "https://stackoverflow.com/questions/80014818/why-does-a-task-stack-overflow-trigger-a-hardfault-instead-of-invoking-vapplicat",
+      "score": 0,
+      "answers": 1,
+      "views": 16,
+      "tags": [
+        "stack-overflow",
+        "microcontroller",
+        "freertos",
+        "firmware",
+        "atmelstudio"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Phase 4 Response Body interruption fails: HTTP 200 headers flushed before ModSecurity can evaluate/block",
+      "url": "https://stackoverflow.com/questions/80014814/phase-4-response-body-interruption-fails-http-200-headers-flushed-before-modsec",
+      "score": -1,
+      "answers": 0,
+      "views": 69,
+      "tags": [
+        "nginx",
+        "nginx-reverse-proxy",
+        "mod-security",
+        "mod-security2"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Two frontend apps sharing one backend with identical credentials: what security or isolation problems does this design create?",
+      "url": "https://stackoverflow.com/questions/80014802/two-frontend-apps-sharing-one-backend-with-identical-credentials-what-security",
+      "score": -3,
+      "answers": 1,
+      "views": 50,
+      "tags": [
+        "security",
+        "backend",
+        "multi-tenant",
+        "content-security-policy",
+        "saas"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Azure - Not getting 2FA code in Authenticator App",
+      "url": "https://stackoverflow.com/questions/80014811/azure-not-getting-2fa-code-in-authenticator-app",
+      "score": -5,
+      "answers": 0,
+      "views": 36,
+      "tags": [
+        "azure",
+        "authenticator"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Combining Small Parquet Files, Resulting in Way Bigger Total Size Than The Original",
+      "url": "https://stackoverflow.com/questions/80014803/combining-small-parquet-files-resulting-in-way-bigger-total-size-than-the-origi",
+      "score": -2,
+      "answers": 0,
+      "views": 33,
+      "tags": [
+        "advice",
+        "azure",
+        "apache-spark",
+        "pyspark",
+        "fabric"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "how to achieve in plain css repeating nth-child ranges",
+      "url": "https://stackoverflow.com/questions/80014800/how-to-achieve-in-plain-css-repeating-nth-child-ranges",
+      "score": 0,
+      "answers": 0,
+      "views": 24,
+      "tags": [
+        "css",
+        "css-selectors",
+        "css-grid"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "SESV2Client from AWS SES - no super call in its instantiation",
+      "url": "https://stackoverflow.com/questions/80014765/sesv2client-from-aws-ses-no-super-call-in-its-instantiation",
+      "score": -2,
+      "answers": 0,
+      "views": 54,
+      "tags": [
+        "javascript",
+        "node.js",
+        "amazon-web-services"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Yellow warning in terminal when I run scripts in VS Code",
+      "url": "https://stackoverflow.com/questions/80014761/yellow-warning-in-terminal-when-i-run-scripts-in-vs-code",
+      "score": 1,
+      "answers": 1,
+      "views": 53,
+      "tags": [
+        "vs-code",
+        "warnings"
+      ]
+    },
+    {
+      "rank": 11,
+      "title": "Connect Claude server to QuickBooks through MCP server",
+      "url": "https://stackoverflow.com/questions/80014773/connect-claude-server-to-quickbooks-through-mcp-server",
+      "score": -2,
+      "answers": 0,
+      "views": 49,
+      "tags": [
+        "quickbooks",
+        "claude",
+        "mcp-server"
+      ]
+    },
+    {
+      "rank": 12,
+      "title": "How can I sum elements of a tensor based on a condition of one out of two values in its index pair into a new tensor using the pytorch package?",
+      "url": "https://stackoverflow.com/questions/80014777/how-can-i-sum-elements-of-a-tensor-based-on-a-condition-of-one-out-of-two-values",
+      "score": 3,
+      "answers": 1,
+      "views": 136,
+      "tags": [
+        "python",
+        "pytorch",
+        "physics-engine"
+      ]
+    },
+    {
+      "rank": 13,
+      "title": "Policy for \"Send scan results to Log Analytics\" Microsoft Defender for Storage setting",
+      "url": "https://stackoverflow.com/questions/80014794/policy-for-send-scan-results-to-log-analytics-microsoft-defender-for-storage-s",
+      "score": -2,
+      "answers": 0,
+      "views": 35,
+      "tags": [
+        "azure-policy"
+      ]
+    },
+    {
+      "rank": 14,
+      "title": "Confirmit respondent data fetch erroring out in Forsta",
+      "url": "https://stackoverflow.com/questions/80014785/confirmit-respondent-data-fetch-erroring-out-in-forsta",
+      "score": 0,
+      "answers": 0,
+      "views": 67,
+      "tags": [
+        "javascript",
+        "jquery",
+        "asp.net",
+        ".net",
+        "jscript"
+      ]
+    },
+    {
+      "rank": 15,
+      "title": "Building a CSS image display modal",
+      "url": "https://stackoverflow.com/questions/80014759/building-a-css-image-display-modal",
+      "score": 0,
+      "answers": 2,
+      "views": 68,
+      "tags": [
+        "css",
+        "modal-dialog"
+      ]
+    },
+    {
+      "rank": 16,
+      "title": "How to use Ellipsis as function argument default",
+      "url": "https://stackoverflow.com/questions/80014764/how-to-use-ellipsis-as-function-argument-default",
+      "score": -2,
+      "answers": 2,
+      "views": 109,
+      "tags": [
+        "python",
+        "python-typing",
+        "pyright"
+      ]
+    },
+    {
+      "rank": 17,
+      "title": "Optimizing Text Mode calculation: Alternative to INDEX/MATCH/MODE.SNGL for large dynamic ranges",
+      "url": "https://stackoverflow.com/questions/80014688/optimizing-text-mode-calculation-alternative-to-index-match-mode-sngl-for-large",
+      "score": 3,
+      "answers": 2,
+      "views": 62,
+      "tags": [
+        "excel"
+      ]
+    },
+    {
+      "rank": 18,
+      "title": "Logged in users seeing someone else's cached content",
+      "url": "https://stackoverflow.com/questions/80014779/logged-in-users-seeing-someone-elses-cached-content",
+      "score": -6,
+      "answers": 0,
+      "views": 90,
+      "tags": [
+        "wordpress",
+        "caching",
+        "litespeed"
+      ]
+    },
+    {
+      "rank": 19,
+      "title": "Is there an equivalent to __import__ but for lazy imports?",
+      "url": "https://stackoverflow.com/questions/80014774/is-there-an-equivalent-to-import-but-for-lazy-imports",
+      "score": 1,
+      "answers": 1,
+      "views": 67,
+      "tags": [
+        "python",
+        "python-import"
+      ]
+    },
+    {
+      "rank": 20,
+      "title": "bug between v10.7 and v10.8 and later",
+      "url": "https://stackoverflow.com/questions/80014776/bug-between-v10-7-and-v10-8-and-later",
+      "score": 0,
+      "answers": 1,
+      "views": 47,
+      "tags": [
+        "javascript",
+        "openlayers"
+      ]
+    },
+    {
+      "rank": 21,
+      "title": "git clone over HTTPS hangs indefinitely",
+      "url": "https://stackoverflow.com/questions/80014775/git-clone-over-https-hangs-indefinitely",
+      "score": -1,
+      "answers": 0,
+      "views": 62,
+      "tags": [
+        "git",
+        "git-clone"
+      ]
+    },
+    {
+      "rank": 22,
+      "title": "Why does Java suggest List<? extends Class<?>> instead of List<Class<?>>?",
+      "url": "https://stackoverflow.com/questions/80014672/why-does-java-suggest-list-extends-class-instead-of-listclass",
+      "score": 2,
+      "answers": 2,
+      "views": 110,
+      "tags": [
+        "java",
+        "generics",
+        "type-inference"
+      ]
+    },
+    {
+      "rank": 23,
+      "title": "Try/except failing to catch exceptions",
+      "url": "https://stackoverflow.com/questions/80014740/try-except-failing-to-catch-exceptions",
+      "score": -3,
+      "answers": 1,
+      "views": 106,
+      "tags": [
+        "python",
+        "python-3.x",
+        "sqlalchemy"
+      ]
+    },
+    {
+      "rank": 24,
+      "title": "Uzbekistan central bank rates using Frankfurter API is not updating",
+      "url": "https://stackoverflow.com/questions/80014762/uzbekistan-central-bank-rates-using-frankfurter-api-is-not-updating",
+      "score": -4,
+      "answers": 0,
+      "views": 44,
+      "tags": [
+        "rest"
+      ]
+    },
+    {
+      "rank": 25,
+      "title": "What to use instead switch in update() for a game engine",
+      "url": "https://stackoverflow.com/questions/80014700/what-to-use-instead-switch-in-update-for-a-game-engine",
+      "score": 2,
+      "answers": 3,
+      "views": 212,
+      "tags": [
+        "c++",
+        "function-pointers",
+        "game-development",
+        "game-engine",
+        "c++23"
+      ]
+    }
+  ]
+}
