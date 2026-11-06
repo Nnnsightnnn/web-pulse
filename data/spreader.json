@@ -1,41 +1,40 @@
 {
-  "date": "2026-11-05",
-  "generated_at": "2026-11-05T06:19:59.079Z",
-  "lede": "The 2026 US midterms are the whole front page today: Wikipedia's five most-read articles are all election figures or races, led by Abdul El-Sayed at 1,413,749 views, and Polymarket's board fills with Senate contests from Alaska to Mississippi. The sharpest outlier sits on Hacker News, where a report of residential proxies detected on the White House network drew 881 points, well clear of anything else on the board. Away from politics, basketball crossed the feeds, with Heat vs. Clippers topping Polymarket and turning up in search at the same time.",
+  "date": "2026-11-06",
+  "generated_at": "2026-11-06T06:16:57.176Z",
+  "lede": "Abdul El-Sayed was the day's one true crossover: 808,705 Wikipedia views, and at the same time a live Polymarket contract on whether he wins the 2028 Democratic presidential nomination. Underneath that, Lemmy fixed on a single theme, pressure to replace Hakeem Jeffries and Chuck Schumer, with a petition to swap out Jeffries passing 500k signatures. GitHub's fastest riser was NVIDIA's auto-ontology, up 2,679 stars in a day. In the background, USGS logged 25 earthquakes, the largest a magnitude 6.1 deep beneath the Fiji region.",
   "throughlines": [
     {
-      "title": "Heat vs. Clippers",
-      "gist": "The night's one sports story to cross over, live on Polymarket's betting board and climbing Google search at the same time.",
-      "sources": [
-        "google-trends",
-        "polymarket"
-      ],
-      "url": "https://www.usatoday.com/sports/nba/event/2026/3018620/boxscore/?itm_source=oembed&amp;itm_medium=sports&amp;itm_campaign=scoreboard&amp;site=USAT&amp;itm_content=NBA&amp;tile=3",
-      "kind": "cluster"
-    },
-    {
-      "title": "moonshotai/Kimi-K3.1-Pro",
-      "gist": "A newly posted Moonshot AI model trending on Hugging Face and picked up on Hacker News the same day, a read on where open-weight attention is pooling.",
-      "sources": [
-        "hackernews",
-        "huggingface"
-      ],
-      "url": "https://news.ycombinator.com/item?id=50366999",
-      "kind": "cluster"
-    },
-    {
-      "title": "Will Hakeem Jeffries win the 2028 Democratic presidential nomination?",
-      "gist": "A Polymarket contract on the 2028 Democratic nomination moving in step with traffic to Hakeem Jeffries' Wikipedia page, 2028 speculation surfacing inside the midterm reading.",
+      "title": "Abdul El-Sayed",
+      "gist": "The day's only real two-feed figure: top of Wikipedia at 808,705 views while a Polymarket contract tracked his odds for the 2028 Democratic nomination.",
       "sources": [
         "polymarket",
         "wikipedia"
       ],
-      "url": "https://en.wikipedia.org/wiki/Hakeem_Jeffries",
+      "url": "https://en.wikipedia.org/wiki/Abdul_El-Sayed",
       "kind": "cluster"
+    },
+    {
+      "title": "Russell Brand",
+      "gist": "The other name on two feeds at once: 571,124 Wikipedia views alongside a Lemmy thread on his conviction for rape and sexual assault.",
+      "sources": [
+        "lemmy",
+        "wikipedia"
+      ],
+      "url": "https://en.wikipedia.org/wiki/Russell_Brand",
+      "kind": "cluster"
+    },
+    {
+      "title": "NVIDIA/auto-ontology",
+      "gist": "A Python framework for graph-based reasoning over data topped GitHub trending with 2,679 new stars in a day.",
+      "sources": [
+        "github"
+      ],
+      "url": "https://github.com/NVIDIA/auto-ontology",
+      "kind": "single"
     }
   ],
-  "strength": 100,
-  "live_sources": 16,
+  "strength": 97,
+  "live_sources": 17,
   "total_sources": 17,
   "dashboard_url": "https://nnnsightnnn.github.io/web-pulse/",
   "engine": "ai"
