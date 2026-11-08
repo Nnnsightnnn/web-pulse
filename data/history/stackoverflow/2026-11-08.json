@@ -1,0 +1,331 @@
+{
+  "source": "stackoverflow",
+  "label": "Stack Overflow — hot questions",
+  "fetched_at": "2026-11-08T06:16:13.128Z",
+  "items": [
+    {
+      "rank": 1,
+      "title": "How to make the transtion for li not glitch out on hover",
+      "url": "https://stackoverflow.com/questions/80015435/how-to-make-the-transtion-for-li-not-glitch-out-on-hover",
+      "score": 0,
+      "answers": 0,
+      "views": 52,
+      "tags": [
+        "html",
+        "css"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Build a static dispatch table of non-static methods in C#",
+      "url": "https://stackoverflow.com/questions/80015429/build-a-static-dispatch-table-of-non-static-methods-in-c",
+      "score": 0,
+      "answers": 1,
+      "views": 79,
+      "tags": [
+        "c#",
+        "dispatch"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "PyVista plotting running slowly, resetting box size and causing collisions",
+      "url": "https://stackoverflow.com/questions/80015428/pyvista-plotting-running-slowly-resetting-box-size-and-causing-collisions",
+      "score": 0,
+      "answers": 1,
+      "views": 27,
+      "tags": [
+        "python",
+        "numpy",
+        "pytorch",
+        "physics",
+        "pyvista"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "How to resolve odd escape behavior with strings in DuckDB Lisp Binding (uses PostgreSQL parser)",
+      "url": "https://stackoverflow.com/questions/80015427/how-to-resolve-odd-escape-behavior-with-strings-in-duckdb-lisp-binding-uses-pos",
+      "score": 0,
+      "answers": 1,
+      "views": 19,
+      "tags": [
+        "postgresql",
+        "common-lisp",
+        "duckdb"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Kaspersky klhk.sys - How to get file?",
+      "url": "https://stackoverflow.com/questions/80015423/kaspersky-klhk-sys-how-to-get-file",
+      "score": -5,
+      "answers": 0,
+      "views": 34,
+      "tags": [
+        "windows",
+        "driver",
+        "kaspersky"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "How do I show svelte-check errors in a GitLab merge request?",
+      "url": "https://stackoverflow.com/questions/80015417/how-do-i-show-svelte-check-errors-in-a-gitlab-merge-request",
+      "score": 1,
+      "answers": 2,
+      "views": 42,
+      "tags": [
+        "typescript",
+        "gitlab-ci",
+        "svelte",
+        "sveltekit"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "`except` doesn’t catch my custom exception raised inside `InterpreterPoolExecutor` (Python 3.14)",
+      "url": "https://stackoverflow.com/questions/80015414/except-doesn-t-catch-my-custom-exception-raised-inside-interpreterpoolexecuto",
+      "score": 1,
+      "answers": 1,
+      "views": 87,
+      "tags": [
+        "python",
+        "exception",
+        "concurrent.futures",
+        "python-3.14"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "git push to a local server and recieved Permission denied (publickey). fatal: Could not read from remote repository",
+      "url": "https://stackoverflow.com/questions/80015407/git-push-to-a-local-server-and-recieved-permission-denied-publickey-fatal-co",
+      "score": -2,
+      "answers": 0,
+      "views": 53,
+      "tags": [
+        "linux",
+        "git",
+        "ssh"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "GCC and EDG rejects valid program involving calling a function template with empty braces",
+      "url": "https://stackoverflow.com/questions/80015377/gcc-and-edg-rejects-valid-program-involving-calling-a-function-template-with-emp",
+      "score": 3,
+      "answers": 1,
+      "views": 104,
+      "tags": [
+        "c++",
+        "language-lawyer",
+        "c++23"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "t-string HTML renderer ignores `:.2f` and escapes nested templates as raw text",
+      "url": "https://stackoverflow.com/questions/80015408/t-string-html-renderer-ignores-2f-and-escapes-nested-templates-as-raw-text",
+      "score": -1,
+      "answers": 1,
+      "views": 105,
+      "tags": [
+        "python",
+        "python-3.14",
+        "python-template-strings"
+      ]
+    },
+    {
+      "rank": 11,
+      "title": "Adding an extra line changes the lazy import object entirely",
+      "url": "https://stackoverflow.com/questions/80015329/adding-an-extra-line-changes-the-lazy-import-object-entirely",
+      "score": 5,
+      "answers": 2,
+      "views": 299,
+      "tags": [
+        "python",
+        "python-import"
+      ]
+    },
+    {
+      "rank": 12,
+      "title": "Postgres inequality behavior with composite values vs. ARRAYs: (a,b,c) vs. ARRAY[a,b,c]",
+      "url": "https://stackoverflow.com/questions/80015386/postgres-inequality-behavior-with-composite-values-vs-arrays-a-b-c-vs-array",
+      "score": 3,
+      "answers": 3,
+      "views": 64,
+      "tags": [
+        "sql",
+        "arrays",
+        "postgresql",
+        "syntax"
+      ]
+    },
+    {
+      "rank": 13,
+      "title": "MSB3721 error and CUDA 13.5 targets for a simple CUDA code",
+      "url": "https://stackoverflow.com/questions/80015412/msb3721-error-and-cuda-13-5-targets-for-a-simple-cuda-code",
+      "score": -2,
+      "answers": 0,
+      "views": 36,
+      "tags": [
+        "c++",
+        "cuda"
+      ]
+    },
+    {
+      "rank": 14,
+      "title": "Remove all characters between brackets and the brackets as well from file names",
+      "url": "https://stackoverflow.com/questions/80015263/remove-all-characters-between-brackets-and-the-brackets-as-well-from-file-names",
+      "score": 2,
+      "answers": 4,
+      "views": 151,
+      "tags": [
+        "bash",
+        "fish",
+        "batch-rename"
+      ]
+    },
+    {
+      "rank": 15,
+      "title": "Unable to install Tkinter on CachyOS",
+      "url": "https://stackoverflow.com/questions/80015401/unable-to-install-tkinter-on-cachyos",
+      "score": -2,
+      "answers": 0,
+      "views": 49,
+      "tags": [
+        "python",
+        "tkinter",
+        "cachyos"
+      ]
+    },
+    {
+      "rank": 16,
+      "title": "What is the best code minification website",
+      "url": "https://stackoverflow.com/questions/80015396/what-is-the-best-code-minification-website",
+      "score": -10,
+      "answers": 0,
+      "views": 65,
+      "tags": [
+        "javascript",
+        "performance",
+        "compression",
+        "minify",
+        "bundling-and-minification"
+      ]
+    },
+    {
+      "rank": 17,
+      "title": "Would multiple instances (processes) of Redis on the same machine scale total throughput?",
+      "url": "https://stackoverflow.com/questions/80015399/would-multiple-instances-processes-of-redis-on-the-same-machine-scale-total-th",
+      "score": 0,
+      "answers": 1,
+      "views": 33,
+      "tags": [
+        "redis",
+        "scalability"
+      ]
+    },
+    {
+      "rank": 18,
+      "title": "Problem with asterisk parsing when debugging a calculator code using lldb",
+      "url": "https://stackoverflow.com/questions/80015291/problem-with-asterisk-parsing-when-debugging-a-calculator-code-using-lldb",
+      "score": 2,
+      "answers": 1,
+      "views": 90,
+      "tags": [
+        "c++",
+        "debugging",
+        "lldb"
+      ]
+    },
+    {
+      "rank": 19,
+      "title": "I want to convert Adjacency list to Matrix",
+      "url": "https://stackoverflow.com/questions/80015343/i-want-to-convert-adjacency-list-to-matrix",
+      "score": 2,
+      "answers": 2,
+      "views": 102,
+      "tags": [
+        "javascript",
+        "algorithm"
+      ]
+    },
+    {
+      "rank": 20,
+      "title": "How do I make my movement not cancel out when left and right inputs are active at the same time?",
+      "url": "https://stackoverflow.com/questions/80015380/how-do-i-make-my-movement-not-cancel-out-when-left-and-right-inputs-are-active-a",
+      "score": -1,
+      "answers": 0,
+      "views": 79,
+      "tags": [
+        "godot",
+        "state-machine",
+        "gdscript"
+      ]
+    },
+    {
+      "rank": 21,
+      "title": "How should long-context tiered pricing be applied when estimating LLM API cost in JavaScript?",
+      "url": "https://stackoverflow.com/questions/80015387/how-should-long-context-tiered-pricing-be-applied-when-estimating-llm-api-cost-i",
+      "score": -6,
+      "answers": 1,
+      "views": 79,
+      "tags": [
+        "node.js",
+        "openai-api"
+      ]
+    },
+    {
+      "rank": 22,
+      "title": "How do I write a string to a file or socket in Python?",
+      "url": "https://stackoverflow.com/questions/80015255/how-do-i-write-a-string-to-a-file-or-socket-in-python",
+      "score": 0,
+      "answers": 2,
+      "views": 224,
+      "tags": [
+        "python"
+      ]
+    },
+    {
+      "rank": 23,
+      "title": "How to make data virtualization in ListBox of images in WPF",
+      "url": "https://stackoverflow.com/questions/80015347/how-to-make-data-virtualization-in-listbox-of-images-in-wpf",
+      "score": -1,
+      "answers": 0,
+      "views": 92,
+      "tags": [
+        "c#",
+        "wpf",
+        "image",
+        "thumbnails"
+      ]
+    },
+    {
+      "rank": 24,
+      "title": "Connecting to Azure SQL from .NET Framework 4.0 WCF Service using TLS 1.2",
+      "url": "https://stackoverflow.com/questions/80015369/connecting-to-azure-sql-from-net-framework-4-0-wcf-service-using-tls-1-2",
+      "score": -4,
+      "answers": 0,
+      "views": 46,
+      "tags": [
+        ".net",
+        "sql-server",
+        "azure",
+        ".net-4.0"
+      ]
+    },
+    {
+      "rank": 25,
+      "title": "database connection error in laravel 13.40",
+      "url": "https://stackoverflow.com/questions/80015331/database-connection-error-in-laravel-13-40",
+      "score": -6,
+      "answers": 0,
+      "views": 58,
+      "tags": [
+        "laravel",
+        "laravel-13"
+      ]
+    }
+  ]
+}

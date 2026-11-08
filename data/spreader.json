@@ -1,40 +1,39 @@
 {
-  "date": "2026-11-07",
-  "generated_at": "2026-11-07T06:16:37.544Z",
-  "lede": "The one story the web's technologists and its jokers both reached for was Tesla winding down Cybertruck production: 945 points and more than 1,800 comments on Hacker News, plus two separate posts on Lemmy. Wikipedia went somewhere else entirely, handing its day to an article called Ramayana: Part 1 at 785,245 views, about one and a half times the next page down. And the day's largest prediction market was not politics but a basketball game, Trail Blazers against Lakers, where the Lakers sat at better than 99 percent to win.",
+  "date": "2026-11-08",
+  "generated_at": "2026-11-08T06:16:50.866Z",
+  "lede": "A magnitude 5.5 quake near Hamakita, Japan was the day's clearest cross-feed signal: it rode the top of Google's US trending searches as \"japan earthquakes\" while USGS logged it alongside a larger 5.8 out on the central Mid-Atlantic Ridge. Two topics surfaced on more than one feed outright, Godzilla Minus Zero, live on both Wikipedia and YouTube ahead of its final trailer, and James Talarico's 2028 presidential odds, which Polymarket still prices near 1 percent even as his Wikipedia page drew a crowd. On Wikipedia itself, Ramayana: Part 1 led everything with 785,245 views, roughly 1.5 times the runner-up, and nothing in the snapshot explains why. The rest of the day was elections, more earthquakes, and the season's first Christmas playlists.",
   "throughlines": [
     {
-      "title": "Trail Blazers vs. Lakers",
-      "gist": "A single regular-season NBA game was at once a top Google search and the day's biggest prediction market, with the Lakers priced at better than 99 percent to beat Portland.",
-      "sources": [
-        "google-trends",
-        "polymarket"
-      ],
-      "url": "https://www.espn.com/nba/game/_/gameId/401909922/76ers-pistons",
-      "kind": "cluster"
-    },
-    {
-      "title": "Will Abdul El-Sayed win the 2028 Democratic presidential nomination?",
-      "gist": "Abdul El-Sayed surfaced at once on a Wikipedia traffic surge, 437,069 views, and his own 2028 Democratic nomination market, a name drawing attention years ahead of the race.",
+      "title": "Will James Talarico win the 2028 US Presidential Election?",
+      "gist": "A long-shot 2028 contender whose Wikipedia page drew traffic even as Polymarket keeps his odds near 1 percent.",
       "sources": [
         "polymarket",
         "wikipedia"
       ],
-      "url": "https://en.wikipedia.org/wiki/Abdul_El-Sayed",
+      "url": "https://en.wikipedia.org/wiki/James_Talarico",
       "kind": "cluster"
     },
     {
-      "title": "Tesla to wind down Cybertruck production",
-      "gist": "Tesla's decision to wind down the Cybertruck was the rare story that crossed from Hacker News, at 945 points, to Lemmy, where two posts picked it up: the technical web and the general one agreeing on the same news.",
+      "title": "Godzilla Minus Zero",
+      "gist": "The film is climbing Wikipedia while its official final trailer runs hot on YouTube, the pre-release buzz that lands on several feeds at once.",
       "sources": [
-        "hackernews",
-        "lemmy"
+        "wikipedia",
+        "youtube"
       ],
-      "url": "https://news.ycombinator.com/item?id=50391456",
+      "url": "https://en.wikipedia.org/wiki/Godzilla_Minus_Zero",
       "kind": "cluster"
+    },
+    {
+      "title": "vercel-labs/agent-browser",
+      "gist": "A Rust browser-automation CLI for AI agents sitting atop GitHub's trending list with 190 stars today.",
+      "sources": [
+        "github"
+      ],
+      "url": "https://github.com/vercel-labs/agent-browser",
+      "kind": "single"
     }
   ],
-  "strength": 100,
+  "strength": 55,
   "live_sources": 17,
   "total_sources": 17,
   "dashboard_url": "https://nnnsightnnn.github.io/web-pulse/",
