@@ -1,40 +1,42 @@
 {
-  "date": "2026-11-08",
-  "generated_at": "2026-11-08T06:16:50.866Z",
-  "lede": "A magnitude 5.5 quake near Hamakita, Japan was the day's clearest cross-feed signal: it rode the top of Google's US trending searches as \"japan earthquakes\" while USGS logged it alongside a larger 5.8 out on the central Mid-Atlantic Ridge. Two topics surfaced on more than one feed outright, Godzilla Minus Zero, live on both Wikipedia and YouTube ahead of its final trailer, and James Talarico's 2028 presidential odds, which Polymarket still prices near 1 percent even as his Wikipedia page drew a crowd. On Wikipedia itself, Ramayana: Part 1 led everything with 785,245 views, roughly 1.5 times the runner-up, and nothing in the snapshot explains why. The rest of the day was elections, more earthquakes, and the season's first Christmas playlists.",
+  "date": "2026-11-09",
+  "generated_at": "2026-11-09T06:22:34.614Z",
+  "lede": "Nvidia is investigating whether chief executive Jensen Huang was targeted by a Chinese spy after an alleged affair, and the story is surfacing at once across Hacker News, Mastodon and the AI news wire. Ramayana: Part 1 led Wikipedia with 785,245 views, and a magnitude 6.4 quake struck near Lata in the Solomon Islands.",
   "throughlines": [
     {
-      "title": "Will James Talarico win the 2028 US Presidential Election?",
-      "gist": "A long-shot 2028 contender whose Wikipedia page drew traffic even as Polymarket keeps his odds near 1 percent.",
+      "title": "Abdul El-Sayed",
+      "gist": "Abdul El-Sayed is both a top Wikipedia read at 437,069 views and the subject of a Polymarket market on the 2028 Democratic nomination, so public attention and betting interest are landing on him together.",
       "sources": [
         "polymarket",
         "wikipedia"
       ],
-      "url": "https://en.wikipedia.org/wiki/James_Talarico",
+      "url": "https://en.wikipedia.org/wiki/Abdul_El-Sayed",
       "kind": "cluster"
     },
     {
-      "title": "Godzilla Minus Zero",
-      "gist": "The film is climbing Wikipedia while its official final trailer runs hot on YouTube, the pre-release buzz that lands on several feeds at once.",
+      "title": "the legend of zelda: ocarina of time",
+      "gist": "The Legend of Zelda: Ocarina of Time is lighting up Google Trends and YouTube at the same time, where a single video has drawn 1,088,979 views.",
       "sources": [
-        "wikipedia",
+        "google-trends",
         "youtube"
       ],
-      "url": "https://en.wikipedia.org/wiki/Godzilla_Minus_Zero",
+      "url": "https://www.bbc.co.uk/news/articles/cm8xznl0n1q4o",
       "kind": "cluster"
     },
     {
-      "title": "vercel-labs/agent-browser",
-      "gist": "A Rust browser-automation CLI for AI agents sitting atop GitHub's trending list with 190 stars today.",
+      "title": "Nvidia investigates whether CEO Jensen Huang was targeted by Chinese spy following alleged affair",
+      "gist": "Nvidia has opened a probe into whether CEO Jensen Huang was targeted by a suspected Chinese spy following an alleged affair, a story now running across the AI news wire, Hacker News and Mastodon.",
       "sources": [
-        "github"
+        "gdelt-ai",
+        "hackernews",
+        "mastodon-trending"
       ],
-      "url": "https://github.com/vercel-labs/agent-browser",
-      "kind": "single"
+      "url": "https://news.ycombinator.com/item?id=50418016",
+      "kind": "cluster"
     }
   ],
-  "strength": 55,
-  "live_sources": 17,
+  "strength": 100,
+  "live_sources": 16,
   "total_sources": 17,
   "dashboard_url": "https://nnnsightnnn.github.io/web-pulse/",
   "engine": "ai"
