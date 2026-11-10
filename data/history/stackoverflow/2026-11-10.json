@@ -1,0 +1,317 @@
+{
+  "source": "stackoverflow",
+  "label": "Stack Overflow — hot questions",
+  "fetched_at": "2026-11-10T06:19:20.980Z",
+  "items": [
+    {
+      "rank": 1,
+      "title": "Why doesn't GDB automatically disassemble from RIP if _start symbol is not present?",
+      "url": "https://stackoverflow.com/questions/80015753/why-doesnt-gdb-automatically-disassemble-from-rip-if-start-symbol-is-not-prese",
+      "score": 0,
+      "answers": 0,
+      "views": 168,
+      "tags": [
+        "gdb"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "I created 2 arrays that store letter values for a scrabble game. However my program assigns the wrong point value to 4 of the letters. Why?",
+      "url": "https://stackoverflow.com/questions/80015748/i-created-2-arrays-that-store-letter-values-for-a-scrabble-game-however-my-prog",
+      "score": 0,
+      "answers": 1,
+      "views": 143,
+      "tags": [
+        "arrays",
+        "c",
+        "multidimensional-array",
+        "indexing",
+        "cs50"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "How are memory addresses distributed in C for this example?",
+      "url": "https://stackoverflow.com/questions/80015689/how-are-memory-addresses-distributed-in-c-for-this-example",
+      "score": 4,
+      "answers": 2,
+      "views": 179,
+      "tags": [
+        "c",
+        "memory-management"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Can I make a copy of a case class with abstract override while maintaining functionality",
+      "url": "https://stackoverflow.com/questions/80015745/can-i-make-a-copy-of-a-case-class-with-abstract-override-while-maintaining-funct",
+      "score": 0,
+      "answers": 0,
+      "views": 74,
+      "tags": [
+        "scala"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Difference between __import__() and importlib.__import__()",
+      "url": "https://stackoverflow.com/questions/80015734/difference-between-import-and-importlib-import",
+      "score": 0,
+      "answers": 2,
+      "views": 68,
+      "tags": [
+        "python",
+        "python-import"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "How do I add a question at the bottom that asks the user if they want to continue?",
+      "url": "https://stackoverflow.com/questions/80015740/how-do-i-add-a-question-at-the-bottom-that-asks-the-user-if-they-want-to-continu",
+      "score": -3,
+      "answers": 1,
+      "views": 119,
+      "tags": [
+        "c"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Malicious user and a public key",
+      "url": "https://stackoverflow.com/questions/80015730/malicious-user-and-a-public-key",
+      "score": -7,
+      "answers": 0,
+      "views": 140,
+      "tags": [
+        "advice",
+        "cryptography",
+        "rsa",
+        "encryption-asymmetric"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Timeseries EDA for bootstrapping in validation",
+      "url": "https://stackoverflow.com/questions/80015736/timeseries-eda-for-bootstrapping-in-validation",
+      "score": -3,
+      "answers": 0,
+      "views": 41,
+      "tags": [
+        "pandas"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "What does __lazy_import__() return?",
+      "url": "https://stackoverflow.com/questions/80015735/what-does-lazy-import-return",
+      "score": 0,
+      "answers": 1,
+      "views": 79,
+      "tags": [
+        "python",
+        "python-import"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Reading a 0/1 pump interlock with JDBC getBoolean throws an IntColumn exception",
+      "url": "https://stackoverflow.com/questions/80015607/reading-a-0-1-pump-interlock-with-jdbc-getboolean-throws-an-intcolumn-exception",
+      "score": 2,
+      "answers": 2,
+      "views": 101,
+      "tags": [
+        "java",
+        "jdbc",
+        "type-conversion",
+        "apache-iotdb"
+      ]
+    },
+    {
+      "rank": 11,
+      "title": "Custom UIBarButtonItem flickers on navigation transitions in iOS 27 with Liquid Glass",
+      "url": "https://stackoverflow.com/questions/80015717/custom-uibarbuttonitem-flickers-on-navigation-transitions-in-ios-27-with-liquid",
+      "score": 1,
+      "answers": 1,
+      "views": 138,
+      "tags": [
+        "swift",
+        "uikit",
+        "liquid-glass",
+        "ios27"
+      ]
+    },
+    {
+      "rank": 12,
+      "title": "Cannot run manually opened files on VS Code",
+      "url": "https://stackoverflow.com/questions/80015715/cannot-run-manually-opened-files-on-vs-code",
+      "score": 0,
+      "answers": 1,
+      "views": 221,
+      "tags": [
+        "python",
+        "vs-code"
+      ]
+    },
+    {
+      "rank": 13,
+      "title": "Excel using cached data for linked cells",
+      "url": "https://stackoverflow.com/questions/80015712/excel-using-cached-data-for-linked-cells",
+      "score": -3,
+      "answers": 0,
+      "views": 79,
+      "tags": [
+        "excel",
+        "excel-formula"
+      ]
+    },
+    {
+      "rank": 14,
+      "title": "How to recognize object change while right mouse button is pressed and not released",
+      "url": "https://stackoverflow.com/questions/80015701/how-to-recognize-object-change-while-right-mouse-button-is-pressed-and-not-relea",
+      "score": -1,
+      "answers": 1,
+      "views": 94,
+      "tags": [
+        "c#",
+        "winforms"
+      ]
+    },
+    {
+      "rank": 15,
+      "title": "Why does Playwright not exit after test execution completes?",
+      "url": "https://stackoverflow.com/questions/80015709/why-does-playwright-not-exit-after-test-execution-completes",
+      "score": -6,
+      "answers": 0,
+      "views": 65,
+      "tags": [
+        "playwright"
+      ]
+    },
+    {
+      "rank": 16,
+      "title": "Runtime System.MissingMethodException by one project",
+      "url": "https://stackoverflow.com/questions/80015673/runtime-system-missingmethodexception-by-one-project",
+      "score": -3,
+      "answers": 0,
+      "views": 140,
+      "tags": [
+        "c#",
+        ".net",
+        ".net-9.0"
+      ]
+    },
+    {
+      "rank": 17,
+      "title": "How can you make it to where when someone enters 2 numbers that when they click the button, a letter goes into the grid in javascript",
+      "url": "https://stackoverflow.com/questions/80015713/how-can-you-make-it-to-where-when-someone-enters-2-numbers-that-when-they-click",
+      "score": -10,
+      "answers": 0,
+      "views": 48,
+      "tags": [
+        "javascript"
+      ]
+    },
+    {
+      "rank": 18,
+      "title": "Why might SQL Server 2019 DMV sys.dm_exec_procedure_stats and sys.dm_exec_query_stats/sys.dm_exec_sql_text queries differ so much?",
+      "url": "https://stackoverflow.com/questions/80015705/why-might-sql-server-2019-dmv-sys-dm-exec-procedure-stats-and-sys-dm-exec-query",
+      "score": 0,
+      "answers": 0,
+      "views": 70,
+      "tags": [
+        "sql-server",
+        "sql-server-2019",
+        "dmv"
+      ]
+    },
+    {
+      "rank": 19,
+      "title": "How to fix \"Error: number of items to replace is not a multiple of replacement length\" with NCT()?",
+      "url": "https://stackoverflow.com/questions/80015699/how-to-fix-error-number-of-items-to-replace-is-not-a-multiple-of-replacement-l",
+      "score": 1,
+      "answers": 0,
+      "views": 60,
+      "tags": [
+        "r"
+      ]
+    },
+    {
+      "rank": 20,
+      "title": "Consecutive query operations conflict because of the refresh interval",
+      "url": "https://stackoverflow.com/questions/80015693/consecutive-query-operations-conflict-because-of-the-refresh-interval",
+      "score": 0,
+      "answers": 0,
+      "views": 34,
+      "tags": [
+        "elasticsearch",
+        "race-condition",
+        "opensearch",
+        "data-synchronization"
+      ]
+    },
+    {
+      "rank": 21,
+      "title": "How can I stream real-time candlestick updates to TradingView Lightweight Charts using Go?",
+      "url": "https://stackoverflow.com/questions/80015690/how-can-i-stream-real-time-candlestick-updates-to-tradingview-lightweight-charts",
+      "score": -9,
+      "answers": 0,
+      "views": 53,
+      "tags": [
+        "best-practices",
+        "javascript",
+        "go"
+      ]
+    },
+    {
+      "rank": 22,
+      "title": "Atomic unread messages update for member in group chat",
+      "url": "https://stackoverflow.com/questions/80015656/atomic-unread-messages-update-for-member-in-group-chat",
+      "score": -4,
+      "answers": 1,
+      "views": 108,
+      "tags": [
+        "postgresql",
+        "redis",
+        "sqlalchemy",
+        "atomic",
+        "messenger"
+      ]
+    },
+    {
+      "rank": 23,
+      "title": "Setting tab size for git show",
+      "url": "https://stackoverflow.com/questions/80015623/setting-tab-size-for-git-show",
+      "score": 3,
+      "answers": 1,
+      "views": 140,
+      "tags": [
+        "git"
+      ]
+    },
+    {
+      "rank": 24,
+      "title": "Spring Boot Procedure call",
+      "url": "https://stackoverflow.com/questions/80015630/spring-boot-procedure-call",
+      "score": -4,
+      "answers": 1,
+      "views": 113,
+      "tags": [
+        "best-practices",
+        "spring-boot"
+      ]
+    },
+    {
+      "rank": 25,
+      "title": "Push notification pipeline (Azure Function → FCM → APNs/Android): reliability and delivery measures?",
+      "url": "https://stackoverflow.com/questions/80015695/push-notification-pipeline-azure-function-%e2%86%92-fcm-%e2%86%92-apns-android-reliability-an",
+      "score": -5,
+      "answers": 0,
+      "views": 38,
+      "tags": [
+        "push-notification",
+        "firebase-cloud-messaging",
+        "apple-push-notifications"
+      ]
+    }
+  ]
+}
