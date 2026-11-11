@@ -1,40 +1,40 @@
 {
-  "date": "2026-11-10",
-  "generated_at": "2026-11-10T06:20:07.242Z",
-  "lede": "One name threaded through nearly every feed today: Jensen Huang. News that Nvidia is investigating its chief executive's links to a suspected Chinese spy ran on the AI news wire and surfaced on Lemmy, while Huang himself drew 733,363 views on Wikipedia, third behind Russell Brand at 1,010,049, and spawned Polymarket contracts on whether he leaves by year end. Away from that story, a magnitude 5.4 earthquake struck near the Tanimbar Islands in Indonesia, and the third India versus New Zealand one-day cricket match was the top Google search.",
+  "date": "2026-11-11",
+  "generated_at": "2026-11-11T06:21:18.113Z",
+  "lede": "Jensen Huang landed in three feeds at once: 542,553 Wikipedia reads, a live Polymarket market on whether he resigns or is removed by year end, and wire reports that Nvidia has opened a probe into his links to a suspected Chinese spy. The loudest single number of the day belongs to Grand Theft Auto VI, whose pre-load video reached 6,785,117 views on YouTube. Wikipedia's most-read spot went elsewhere, to Ramayana: Part 1 at 840,888 views.",
   "throughlines": [
     {
-      "title": "Nvidia Launches Probe Into CEO Huang Links To Suspected Chinese Spy",
-      "gist": "An AI news wire and Lemmy both carried Nvidia's investigation into its chief executive, a story that crossed from the tech press into social feeds on the same day.",
+      "title": "Thunder vs. Trail Blazers",
+      "gist": "An NBA game that drew the day's heaviest prediction-market action, about 2.6 million dollars of 24-hour volume on Polymarket, while an OKC injury report listing six players pushed the matchup into Google Trends.",
       "sources": [
-        "gdelt-ai",
-        "lemmy"
+        "google-trends",
+        "polymarket"
       ],
-      "url": "https://lemmy.world/post/54198750",
+      "url": "https://sports.yahoo.com/articles/injury-report-okc-thunder-list-000133305.html",
+      "kind": "cluster"
+    },
+    {
+      "title": "Grand Theft Auto VI: Pre-Load Now",
+      "gist": "Rockstar's pre-load video crossed 6.78 million YouTube views as Grand Theft Auto V Enhanced climbed eight spots up the Steam chart, the franchise pulling heavy attention on two feeds while GTA VI nears release.",
+      "sources": [
+        "steam",
+        "youtube"
+      ],
+      "url": "https://store.steampowered.com/app/3240220",
       "kind": "cluster"
     },
     {
       "title": "Jensen Huang",
-      "gist": "The same executive also topped the charts as a person, drawing a Wikipedia surge and Polymarket bets on whether he resigns or divorces before year end.",
+      "gist": "The Nvidia chief drew 542,553 Wikipedia reads and a Polymarket market priced at 15 percent on his resignation or removal by year end, after reports that the company is probing his links to a suspected Chinese spy.",
       "sources": [
         "polymarket",
         "wikipedia"
       ],
       "url": "https://en.wikipedia.org/wiki/Jensen_Huang",
       "kind": "cluster"
-    },
-    {
-      "title": "Horible public key tricks",
-      "gist": "A public-key puzzle drew developers on both Hacker News and Stack Overflow, the day's one thread where two technical sites were chewing on the same cryptography problem.",
-      "sources": [
-        "hackernews",
-        "stackoverflow"
-      ],
-      "url": "https://news.ycombinator.com/item?id=50434264",
-      "kind": "cluster"
     }
   ],
-  "strength": 93,
+  "strength": 100,
   "live_sources": 17,
   "total_sources": 17,
   "dashboard_url": "https://nnnsightnnn.github.io/web-pulse/",

@@ -1,0 +1,457 @@
+{
+  "source": "polymarket",
+  "label": "Polymarket — top 24h volume",
+  "fetched_at": "2026-11-11T06:20:37.583Z",
+  "items": [
+    {
+      "rank": 1,
+      "title": "Thunder vs. Trail Blazers",
+      "url": "https://polymarket.com/event/nba-okc-por-2026-11-10",
+      "volume_24h": 2648721.049775999,
+      "volume_total": 2544312.984002,
+      "liquidity": 423018.8674,
+      "yes_price": 0.005,
+      "leader": {
+        "name": "Trail Blazers",
+        "price": 0.995
+      },
+      "end_date": "2026-11-11T04:00:00Z",
+      "outcomes": [
+        "Thunder",
+        "Trail Blazers"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Will there be no change in Fed interest rates after the December 2026 meeting?",
+      "url": "https://polymarket.com/event/fed-decision-in-december-20260729232808632",
+      "volume_24h": 2298338.5867999997,
+      "volume_total": 6495756.925190999,
+      "liquidity": 297993.18182,
+      "yes_price": 0.0365,
+      "leader": {
+        "name": "No",
+        "price": 0.9635
+      },
+      "end_date": "2026-12-09T23:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Counter-Strike: Vitality vs Team Falcons (BO3) - BLAST Rivals Group A",
+      "url": "https://polymarket.com/event/cs2-vit-fal2-2026-11-11",
+      "volume_24h": 653829.3300990001,
+      "volume_total": 661338.8675279999,
+      "liquidity": 149280.354,
+      "yes_price": 0.995,
+      "leader": {
+        "name": "Vitality",
+        "price": 0.995
+      },
+      "end_date": "2026-11-11T10:15:00Z",
+      "outcomes": [
+        "Vitality",
+        "Team Falcons"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Counter-Strike: Spirit vs FUT Esports (BO3) - BLAST Rivals Group B",
+      "url": "https://polymarket.com/event/cs2-ts7-fut-2026-11-11",
+      "volume_24h": 595398.3295720002,
+      "volume_total": 786136.204269,
+      "liquidity": 449180.9032,
+      "yes_price": 0.835,
+      "leader": {
+        "name": "Spirit",
+        "price": 0.835
+      },
+      "end_date": "2026-11-11T13:00:00Z",
+      "outcomes": [
+        "Spirit",
+        "FUT Esports"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Will Kai Cenat finish his GTA marathon by November 10?",
+      "url": "https://polymarket.com/event/kai-cenat-finishes-gta-marathon-by-20261105",
+      "volume_24h": 582015.6729199999,
+      "volume_total": 1371714.236169,
+      "liquidity": 74386.41478,
+      "yes_price": 0.0005,
+      "leader": {
+        "name": "No",
+        "price": 0.9995
+      },
+      "end_date": "2026-11-11T04:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "UFC 334: Josh Hokit vs. Ciryl Gane (Heavyweight, Main Card)",
+      "url": "https://polymarket.com/event/ufc-jos52-cir-2026-11-14",
+      "volume_24h": 523489.1438209999,
+      "volume_total": 770490.0106579999,
+      "liquidity": 482509.121,
+      "yes_price": 0.365,
+      "leader": {
+        "name": "Ciryl Gane",
+        "price": 0.635
+      },
+      "end_date": "2026-11-15T04:59:59.999Z",
+      "outcomes": [
+        "Josh Hokit",
+        "Ciryl Gane"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "M15 Maanshan: Maxim Zhukov vs Xirui Han",
+      "url": "https://polymarket.com/event/itf-zhukov1-han1-2026-11-11",
+      "volume_24h": 490807.5379599999,
+      "volume_total": 328865.25795999996,
+      "liquidity": 200937.45449,
+      "yes_price": 0.0005,
+      "leader": {
+        "name": "Xirui Han",
+        "price": 0.9995
+      },
+      "end_date": "2026-11-18T04:30:00Z",
+      "outcomes": [
+        "Maxim Zhukov",
+        "Xirui Han"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Will Sport Lisboa e Benfica vs. FK Austria Wien end in a draw?",
+      "url": "https://polymarket.com/event/uwcl-slb-faw-2026-11-11",
+      "volume_24h": 422736.45631000004,
+      "volume_total": 422736.45631000004,
+      "liquidity": 13466.3876,
+      "yes_price": 0.275,
+      "leader": {
+        "name": "No",
+        "price": 0.725
+      },
+      "end_date": "2026-11-11T20:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?",
+      "url": "https://polymarket.com/event/uefa-champions-league-2027-champion-20260701202025549",
+      "volume_24h": 422432.087,
+      "volume_total": 42428303.343306,
+      "liquidity": 216039.13748,
+      "yes_price": 0.0015,
+      "leader": {
+        "name": "No",
+        "price": 0.9985
+      },
+      "end_date": "2027-05-30T23:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Will the U.S. invade Iran before 2027?",
+      "url": "https://polymarket.com/event/will-the-us-invade-iran-before-2027",
+      "volume_24h": 404876.6020320001,
+      "volume_total": 79629050.863691,
+      "liquidity": 582472.4627,
+      "yes_price": 0.075,
+      "leader": {
+        "name": "No",
+        "price": 0.925
+      },
+      "end_date": "2027-01-01T04:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 11,
+      "title": "Pete Hegseth out as Secretary of Defense by December 31?",
+      "url": "https://polymarket.com/event/pete-hegseth-out-as-secretary-of-defense-by-december-31",
+      "volume_24h": 371767.645667,
+      "volume_total": 2715437.6557090003,
+      "liquidity": 79248.8194,
+      "yes_price": 0.115,
+      "leader": {
+        "name": "No",
+        "price": 0.885
+      },
+      "end_date": "2027-01-01T04:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 12,
+      "title": "Jensen Huang announced resignation or removal by December 31, 2026?",
+      "url": "https://polymarket.com/event/jensen-huang-announced-resignation-or-removal-by-december-31",
+      "volume_24h": 321095.96468399995,
+      "volume_total": 799653.8763250001,
+      "liquidity": 216991.1933,
+      "yes_price": 0.155,
+      "leader": {
+        "name": "No",
+        "price": 0.845
+      },
+      "end_date": "2027-01-01T04:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 13,
+      "title": "Counter-Strike: MOUZ vs G2 (BO3) - BLAST Rivals Group B",
+      "url": "https://polymarket.com/event/cs2-mouz-g2-2026-11-11",
+      "volume_24h": 271909.953897,
+      "volume_total": 314201.533321,
+      "liquidity": 235990.2113,
+      "yes_price": 0.785,
+      "leader": {
+        "name": "MOUZ",
+        "price": 0.785
+      },
+      "end_date": "2026-11-11T15:30:00Z",
+      "outcomes": [
+        "MOUZ",
+        "G2"
+      ]
+    },
+    {
+      "rank": 14,
+      "title": "Pete Hegseth impeached by December 31, 2026?",
+      "url": "https://polymarket.com/event/pete-hegseth-impeached-by-june-30",
+      "volume_24h": 261835.848801,
+      "volume_total": 572396.9907160001,
+      "liquidity": 173062.30192,
+      "yes_price": 0.034,
+      "leader": {
+        "name": "No",
+        "price": 0.966
+      },
+      "end_date": "2027-01-01T04:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 15,
+      "title": "Will Puma Shen win the next Taipei Mayor election?",
+      "url": "https://polymarket.com/event/taipei-mayor-election-winner-20260813125857100",
+      "volume_24h": 257871.96335699997,
+      "volume_total": 2363768.8254680005,
+      "liquidity": 392248.53429,
+      "yes_price": 0.3465,
+      "leader": {
+        "name": "No",
+        "price": 0.6535
+      },
+      "end_date": "2026-11-29T04:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 16,
+      "title": "Will James Fishback win the 2028 US Presidential Election?",
+      "url": "https://polymarket.com/event/presidential-election-winner-2028",
+      "volume_24h": 255000,
+      "volume_total": 715399.63,
+      "liquidity": 1072291.65864,
+      "yes_price": 0.0005,
+      "leader": {
+        "name": "No",
+        "price": 0.9995
+      },
+      "end_date": "2028-11-07T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 17,
+      "title": "Israel x Iran ceasefire continues through November 15?",
+      "url": "https://polymarket.com/event/israel-x-iran-ceasefire-continues-throughptptpt-20260716224448963",
+      "volume_24h": 249546.98415500004,
+      "volume_total": 2403934.962589,
+      "liquidity": 175371.68148,
+      "yes_price": 0.9745,
+      "leader": {
+        "name": "Yes",
+        "price": 0.9745
+      },
+      "end_date": "2026-11-16T04:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 18,
+      "title": "Will John McEntee win the 2028 Republican presidential nomination?",
+      "url": "https://polymarket.com/event/republican-presidential-nominee-2028",
+      "volume_24h": 220139.044543,
+      "volume_total": 1847713.7916750005,
+      "liquidity": 359415.73654,
+      "yes_price": 0.0365,
+      "leader": {
+        "name": "No",
+        "price": 0.9635
+      },
+      "end_date": "2028-11-07T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 19,
+      "title": "Another Fed rate hike in 2026?",
+      "url": "https://polymarket.com/event/another-fed-rate-hike-in-2026",
+      "volume_24h": 216046.86258199997,
+      "volume_total": 1936320.882971,
+      "liquidity": 257914.05192,
+      "yes_price": 0.958,
+      "leader": {
+        "name": "Yes",
+        "price": 0.958
+      },
+      "end_date": "2026-12-10T04:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 20,
+      "title": "Will David Lisnard win the 2027 French presidential election?",
+      "url": "https://polymarket.com/event/next-french-presidential-election",
+      "volume_24h": 203937.60433599996,
+      "volume_total": 7399736.650262999,
+      "liquidity": 575860.92297,
+      "yes_price": 0.1325,
+      "leader": {
+        "name": "No",
+        "price": 0.8675
+      },
+      "end_date": "2027-04-19T03:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 21,
+      "title": "Will the Fed increase interest rates by 25 bps after the January 2027 meeting?",
+      "url": "https://polymarket.com/event/fed-decision-in-january-20260729233815502",
+      "volume_24h": 184040.809007,
+      "volume_total": 612256.4299679999,
+      "liquidity": 124105.6961,
+      "yes_price": 0.475,
+      "leader": {
+        "name": "No",
+        "price": 0.525
+      },
+      "end_date": "2027-01-28T04:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 22,
+      "title": "Will China invade Taiwan by end of 2026?",
+      "url": "https://polymarket.com/event/will-china-invade-taiwan-before-2027",
+      "volume_24h": 152610.291137,
+      "volume_total": 46185569.38945399,
+      "liquidity": 506872.86727,
+      "yes_price": 0.0135,
+      "leader": {
+        "name": "No",
+        "price": 0.9865
+      },
+      "end_date": "2027-01-01T04:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 23,
+      "title": "Pete Hegseth out as Secretary of Defense by November 30?",
+      "url": "https://polymarket.com/event/pete-hegseth-out-as-secretary-of-defense-by-november-30-20261001003401433",
+      "volume_24h": 147515.839965,
+      "volume_total": 1041783.3508530001,
+      "liquidity": 69897.36302,
+      "yes_price": 0.0485,
+      "leader": {
+        "name": "No",
+        "price": 0.9515
+      },
+      "end_date": "2026-12-01T04:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 24,
+      "title": "LoL: Bilibili Gaming vs Gen.G (BO5) - Worlds Playoffs",
+      "url": "https://polymarket.com/event/lol-blg-gen-2026-11-14",
+      "volume_24h": 142757.31529400003,
+      "volume_total": 420991.875425,
+      "liquidity": 1337833.4652,
+      "yes_price": 0.375,
+      "leader": {
+        "name": "Gen.G",
+        "price": 0.625
+      },
+      "end_date": "2026-11-15T01:00:00Z",
+      "outcomes": [
+        "Bilibili Gaming",
+        "Gen.G"
+      ]
+    },
+    {
+      "rank": 25,
+      "title": "Strait of Hormuz traffic returns to normal by November 30?",
+      "url": "https://polymarket.com/event/strait-of-hormuz-traffic-returns-to-normal-by-november-30-20260810151158765",
+      "volume_24h": 136609.462338,
+      "volume_total": 1945293.067714,
+      "liquidity": 231393.35263,
+      "yes_price": 0.0205,
+      "leader": {
+        "name": "No",
+        "price": 0.9795
+      },
+      "end_date": "2026-12-01T04:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    }
+  ]
+}
