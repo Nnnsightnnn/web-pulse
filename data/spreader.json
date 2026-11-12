@@ -1,21 +1,22 @@
 {
-  "date": "2026-11-11",
-  "generated_at": "2026-11-11T06:21:18.113Z",
-  "lede": "Jensen Huang landed in three feeds at once: 542,553 Wikipedia reads, a live Polymarket market on whether he resigns or is removed by year end, and wire reports that Nvidia has opened a probe into his links to a suspected Chinese spy. The loudest single number of the day belongs to Grand Theft Auto VI, whose pre-load video reached 6,785,117 views on YouTube. Wikipedia's most-read spot went elsewhere, to Ramayana: Part 1 at 840,888 views.",
+  "date": "2026-11-12",
+  "generated_at": "2026-11-12T06:20:34.110Z",
+  "lede": "The day's loudest story was a succession rumor at the top of the chip industry. A Hacker News post reporting that Nvidia is preparing to oust CEO Jensen Huang pulled 1,155 comments, his Wikipedia page drew 341,625 views, and a Polymarket book on whether his resignation or removal would be announced by its November 11 deadline crossed six million dollars in 24-hour volume. The turn is in the odds: even as the feeds lit up, that market put Yes at 0.05 percent and No at 99.95 percent. Underneath it, the quieter currents ran through gaming, where a Rockstar pre-load video for Grand Theft Auto VI passed 9.6 million views and Counter-Strike 2 again topped Steam with more than 1.2 million concurrent players.",
   "throughlines": [
     {
-      "title": "Thunder vs. Trail Blazers",
-      "gist": "An NBA game that drew the day's heaviest prediction-market action, about 2.6 million dollars of 24-hour volume on Polymarket, while an OKC injury report listing six players pushed the matchup into Google Trends.",
+      "title": "Jensen Huang announced resignation or removal by November 11, 2026?",
+      "gist": "A Hacker News report that Nvidia is preparing to remove CEO Jensen Huang drew 1,155 comments and pushed his Wikipedia page to 341,625 views, yet the Polymarket book on a formal resignation or removal by the deadline held No at 99.95 percent.",
       "sources": [
-        "google-trends",
-        "polymarket"
+        "hackernews",
+        "polymarket",
+        "wikipedia"
       ],
-      "url": "https://sports.yahoo.com/articles/injury-report-okc-thunder-list-000133305.html",
+      "url": "https://en.wikipedia.org/wiki/Jensen_Huang",
       "kind": "cluster"
     },
     {
       "title": "Grand Theft Auto VI: Pre-Load Now",
-      "gist": "Rockstar's pre-load video crossed 6.78 million YouTube views as Grand Theft Auto V Enhanced climbed eight spots up the Steam chart, the franchise pulling heavy attention on two feeds while GTA VI nears release.",
+      "gist": "Rockstar's Pre-Load Now spot for Grand Theft Auto VI passed 9.6 million views on YouTube while Grand Theft Auto V Enhanced held 67,251 concurrent players on Steam, the long wait showing up on two feeds at once.",
       "sources": [
         "steam",
         "youtube"
@@ -24,13 +25,13 @@
       "kind": "cluster"
     },
     {
-      "title": "Jensen Huang",
-      "gist": "The Nvidia chief drew 542,553 Wikipedia reads and a Polymarket market priced at 15 percent on his resignation or removal by year end, after reports that the company is probing his links to a suspected Chinese spy.",
+      "title": "Mississippi elects Democrat Scott Colom as state's first Black US senator since Reconstruction",
+      "gist": "The Associated Press called Mississippi for Democrat Scott Colom, the state's first Black US senator since Reconstruction, a result that surfaced on both Lemmy and Mastodon.",
       "sources": [
-        "polymarket",
-        "wikipedia"
+        "lemmy",
+        "mastodon-trending"
       ],
-      "url": "https://en.wikipedia.org/wiki/Jensen_Huang",
+      "url": "https://lemmy.world/post/54297149",
       "kind": "cluster"
     }
   ],
