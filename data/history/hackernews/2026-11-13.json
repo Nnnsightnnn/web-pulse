@@ -1,0 +1,232 @@
+{
+  "source": "hackernews",
+  "label": "Hacker News — top stories",
+  "fetched_at": "2026-11-13T06:16:13.323Z",
+  "items": [
+    {
+      "rank": 1,
+      "title": "Jensen Huang resigns",
+      "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
+      "hn_url": "https://news.ycombinator.com/item?id=50467087",
+      "score": 3273,
+      "comments": 3003,
+      "author": "lldb"
+    },
+    {
+      "rank": 2,
+      "title": "IceWM",
+      "url": "https://ice-wm.org/",
+      "hn_url": "https://news.ycombinator.com/item?id=50478515",
+      "score": 41,
+      "comments": 16,
+      "author": "inatreecrown2"
+    },
+    {
+      "rank": 3,
+      "title": "Rust 1.100",
+      "url": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
+      "hn_url": "https://news.ycombinator.com/item?id=50472038",
+      "score": 570,
+      "comments": 226,
+      "author": "mbStavola"
+    },
+    {
+      "rank": 4,
+      "title": "Switcher (2004)",
+      "url": "https://folklore.org/Switcher.html",
+      "hn_url": "https://news.ycombinator.com/item?id=50477714",
+      "score": 71,
+      "comments": 15,
+      "author": "sammatilda"
+    },
+    {
+      "rank": 5,
+      "title": "Gemini 4 Hydrogen and Orchestrator",
+      "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
+      "hn_url": "https://news.ycombinator.com/item?id=50472260",
+      "score": 372,
+      "comments": 101,
+      "author": "jonbaer"
+    },
+    {
+      "rank": 6,
+      "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
+      "url": "https://github.com/simpsoka/zigzag",
+      "hn_url": "https://news.ycombinator.com/item?id=50470488",
+      "score": 443,
+      "comments": 168,
+      "author": "simpsoka"
+    },
+    {
+      "rank": 7,
+      "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
+      "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
+      "hn_url": "https://news.ycombinator.com/item?id=50475713",
+      "score": 176,
+      "comments": 41,
+      "author": "sroussey"
+    },
+    {
+      "rank": 8,
+      "title": "Brave Search API now accepts agentic payments via the x402 protocol",
+      "url": "https://brave.com/blog/search-api-agentic-payments/",
+      "hn_url": "https://news.ycombinator.com/item?id=50477649",
+      "score": 33,
+      "comments": 11,
+      "author": "sjdh76"
+    },
+    {
+      "rank": 9,
+      "title": "Dwarf planet candidate appears which takes roughly 280 years to orbit our sun",
+      "url": "https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/",
+      "hn_url": "https://news.ycombinator.com/item?id=50472490",
+      "score": 256,
+      "comments": 111,
+      "author": "cybermango"
+    },
+    {
+      "rank": 10,
+      "title": "Nvidia employees petition to bring back Jensen Huang",
+      "url": "https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/",
+      "hn_url": "https://news.ycombinator.com/item?id=50477231",
+      "score": 351,
+      "comments": 268,
+      "author": "lavendermon"
+    },
+    {
+      "rank": 11,
+      "title": "Former Nvidia CEO Huang had a relationship with a second employee, sources say",
+      "url": "https://www.reuters.com/technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12/",
+      "hn_url": "https://news.ycombinator.com/item?id=50473190",
+      "score": 200,
+      "comments": 224,
+      "author": "jbredeche"
+    },
+    {
+      "rank": 12,
+      "title": "Foundation Models framework",
+      "url": "https://developer.apple.com/foundation-models-framework/",
+      "hn_url": "https://news.ycombinator.com/item?id=50474361",
+      "score": 181,
+      "comments": 26,
+      "author": "kermatt"
+    },
+    {
+      "rank": 13,
+      "title": "Service degradation on Microsoft 365",
+      "url": "https://status.cloud.microsoft/",
+      "hn_url": "https://news.ycombinator.com/item?id=50471731",
+      "score": 695,
+      "comments": 648,
+      "author": "dkpk"
+    },
+    {
+      "rank": 14,
+      "title": "I'm making LLMs work on small and old devices",
+      "url": "https://github.com/hyperionaidev/smolmaxxing/",
+      "hn_url": "https://news.ycombinator.com/item?id=50468888",
+      "score": 326,
+      "comments": 119,
+      "author": "mrashad74"
+    },
+    {
+      "rank": 15,
+      "title": "Turning a 22-year-old Postgres type-confusion primitive into RCE",
+      "url": "https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/",
+      "hn_url": "https://news.ycombinator.com/item?id=50471761",
+      "score": 164,
+      "comments": 30,
+      "author": "ozirus"
+    },
+    {
+      "rank": 16,
+      "title": "Abandoned Quake 4 expansion finished by modders and now playable",
+      "url": "https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64",
+      "hn_url": "https://news.ycombinator.com/item?id=50467618",
+      "score": 256,
+      "comments": 92,
+      "author": "klaussilveira"
+    },
+    {
+      "rank": 17,
+      "title": "Scientists claim the universe is twice as old as believed",
+      "url": "https://geekspin.co/scientists-claim-the-universe-is-twice-as-old-as-believed/",
+      "hn_url": "https://news.ycombinator.com/item?id=50478635",
+      "score": 4,
+      "comments": 0,
+      "author": "mattm"
+    },
+    {
+      "rank": 18,
+      "title": "AI is turning Apple's app review process into a nightmare for synth developers",
+      "url": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html",
+      "hn_url": "https://news.ycombinator.com/item?id=50474311",
+      "score": 146,
+      "comments": 137,
+      "author": "anigbrowl"
+    },
+    {
+      "rank": 19,
+      "title": "Show HN: PharmA2A, an open protocol for pharmacy-to-supplier orders on A2A",
+      "url": "https://github.com/pharma2a/pharma2a",
+      "hn_url": "https://news.ycombinator.com/item?id=50478543",
+      "score": 4,
+      "comments": 0,
+      "author": "eliefo"
+    },
+    {
+      "rank": 20,
+      "title": "Relax: JIT compiler for Rust to reduce build times",
+      "url": "https://makepad.github.io/relax/",
+      "hn_url": "https://news.ycombinator.com/item?id=50458849",
+      "score": 141,
+      "comments": 63,
+      "author": "adamnemecek"
+    },
+    {
+      "rank": 21,
+      "title": "Show HN: RealtimeVAD – trading false positives for 110ms earlier end-of-speech",
+      "url": "https://github.com/KoljaB/RealtimeVAD",
+      "hn_url": "https://news.ycombinator.com/item?id=50474586",
+      "score": 13,
+      "comments": 1,
+      "author": "koljab"
+    },
+    {
+      "rank": 22,
+      "title": "Sift: LSP, Lint, Format Lisp, Scheme and Emacs Lisp",
+      "url": "https://github.com/jjba23/sift",
+      "hn_url": "https://news.ycombinator.com/item?id=50460263",
+      "score": 36,
+      "comments": 6,
+      "author": "jjba23"
+    },
+    {
+      "rank": 23,
+      "title": "The average cost for a new vehicle in the U.S. hits a record high: over $51,000",
+      "url": "https://www.npr.org/2026/11/10/nx-s1-6026659/average-vehicle-price-record-high",
+      "hn_url": "https://news.ycombinator.com/item?id=50478622",
+      "score": 14,
+      "comments": 3,
+      "author": "blinding-streak"
+    },
+    {
+      "rank": 24,
+      "title": "Anthropic IPO",
+      "url": "https://ipo.anthropic.com/us/",
+      "hn_url": "https://news.ycombinator.com/item?id=50465829",
+      "score": 884,
+      "comments": 846,
+      "author": "josephljohnston"
+    },
+    {
+      "rank": 25,
+      "title": "Talking Zen 6 with Mike Clark at AMD In-Depth",
+      "url": "https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at",
+      "hn_url": "https://news.ycombinator.com/item?id=50467460",
+      "score": 207,
+      "comments": 4,
+      "author": "dverlaeckt80"
+    }
+  ]
+}

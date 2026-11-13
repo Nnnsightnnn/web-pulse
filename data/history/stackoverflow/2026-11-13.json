@@ -1,0 +1,326 @@
+{
+  "source": "stackoverflow",
+  "label": "Stack Overflow — hot questions",
+  "fetched_at": "2026-11-13T06:16:13.047Z",
+  "items": [
+    {
+      "rank": 1,
+      "title": "PyAudio fails to build in MSYS2: \"gcc: error: /MT: linker input file not found\"",
+      "url": "https://stackoverflow.com/questions/80016410/pyaudio-fails-to-build-in-msys2-gcc-error-mt-linker-input-file-not-found",
+      "score": -4,
+      "answers": 0,
+      "views": 35,
+      "tags": [
+        "python",
+        "mingw-w64",
+        "pyaudio",
+        "msys2"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Google Play Billing returns OK but purchase dialog says item not found for a previously purchased product",
+      "url": "https://stackoverflow.com/questions/80016405/google-play-billing-returns-ok-but-purchase-dialog-says-item-not-found-for-a-pre",
+      "score": -2,
+      "answers": 0,
+      "views": 25,
+      "tags": [
+        "android",
+        "flutter",
+        "in-app-billing"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Understanding the origins and identity of `data-XXX` attribute usage in websites",
+      "url": "https://stackoverflow.com/questions/80016395/understanding-the-origins-and-identity-of-data-xxx-attribute-usage-in-websites",
+      "score": -4,
+      "answers": 1,
+      "views": 74,
+      "tags": [
+        "html",
+        "attributes",
+        "naming-conventions",
+        "custom-data-attribute"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Code lint tool needed for PowerShell v7.6 on Windows 10",
+      "url": "https://stackoverflow.com/questions/80016396/code-lint-tool-needed-for-powershell-v7-6-on-windows-10",
+      "score": 0,
+      "answers": 2,
+      "views": 50,
+      "tags": [
+        "tooling-recommendation",
+        "powershell",
+        "lint"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Windows integrated authentication fails in ASP.NET Core Web API with vite proxy",
+      "url": "https://stackoverflow.com/questions/80016393/windows-integrated-authentication-fails-in-asp-net-core-web-api-with-vite-proxy",
+      "score": 0,
+      "answers": 1,
+      "views": 42,
+      "tags": [
+        "c#",
+        "asp.net-core-webapi",
+        "vite",
+        "windows-authentication",
+        "kestrel"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "How can I help CFFI on SBCL on Windows properly load libssl?",
+      "url": "https://stackoverflow.com/questions/80016397/how-can-i-help-cffi-on-sbcl-on-windows-properly-load-libssl",
+      "score": -2,
+      "answers": 0,
+      "views": 56,
+      "tags": [
+        "sbcl",
+        "libssl",
+        "cffi"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Algorithmic analysis",
+      "url": "https://stackoverflow.com/questions/80016373/algorithmic-analysis",
+      "score": -8,
+      "answers": 2,
+      "views": 146,
+      "tags": [
+        "sorting",
+        "time-complexity",
+        "big-o"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Manually deserializing query params in Spring Boot",
+      "url": "https://stackoverflow.com/questions/80016385/manually-deserializing-query-params-in-spring-boot",
+      "score": -4,
+      "answers": 0,
+      "views": 56,
+      "tags": [
+        "spring-boot",
+        "deserialization"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "How can I check programmatically whether a Telegram t.me invite link is still valid?",
+      "url": "https://stackoverflow.com/questions/80016389/how-can-i-check-programmatically-whether-a-telegram-t-me-invite-link-is-still-va",
+      "score": -11,
+      "answers": 0,
+      "views": 61,
+      "tags": [
+        "telegram"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Google Cloud IAP returns Error 9 after OAuth redirect on Cloud Run",
+      "url": "https://stackoverflow.com/questions/80016390/google-cloud-iap-returns-error-9-after-oauth-redirect-on-cloud-run",
+      "score": -2,
+      "answers": 0,
+      "views": 35,
+      "tags": [
+        "oauth-2.0",
+        "google-cloud-run",
+        "google-iap"
+      ]
+    },
+    {
+      "rank": 11,
+      "title": "Tell if `FETCH` called from `@arr` or `$arr[$idx]` or `@arr[@idx]`",
+      "url": "https://stackoverflow.com/questions/80016359/tell-if-fetch-called-from-arr-or-arridx-or-arridx",
+      "score": 0,
+      "answers": 1,
+      "views": 64,
+      "tags": [
+        "perl",
+        "tie"
+      ]
+    },
+    {
+      "rank": 12,
+      "title": "Resuming an existing PHP session twice makes the server send the session cookie",
+      "url": "https://stackoverflow.com/questions/80016378/resuming-an-existing-php-session-twice-makes-the-server-send-the-session-cookie",
+      "score": -1,
+      "answers": 0,
+      "views": 51,
+      "tags": [
+        "php",
+        "session-cookies"
+      ]
+    },
+    {
+      "rank": 13,
+      "title": "How to disable sound and visual flash alerts in macOS Terminal and Xcode for PTSD?",
+      "url": "https://stackoverflow.com/questions/80016358/how-to-disable-sound-and-visual-flash-alerts-in-macos-terminal-and-xcode-for-pts",
+      "score": 2,
+      "answers": 1,
+      "views": 46,
+      "tags": [
+        "xcode",
+        "macos",
+        "terminal",
+        "accessibility"
+      ]
+    },
+    {
+      "rank": 14,
+      "title": "\"unresolved symbols\" on nasm/macOS (x86-64)",
+      "url": "https://stackoverflow.com/questions/80016302/unresolved-symbols-on-nasm-macos-x86-64",
+      "score": 2,
+      "answers": 1,
+      "views": 127,
+      "tags": [
+        "macos",
+        "assembly",
+        "nasm",
+        "ld",
+        "cc"
+      ]
+    },
+    {
+      "rank": 15,
+      "title": "Why is there a list broadcasting error when using \"+=\" but not when using \"__iadd__\"?",
+      "url": "https://stackoverflow.com/questions/80016150/why-is-there-a-list-broadcasting-error-when-using-but-not-when-using-iad",
+      "score": 11,
+      "answers": 2,
+      "views": 511,
+      "tags": [
+        "python",
+        "numpy",
+        "cpython"
+      ]
+    },
+    {
+      "rank": 16,
+      "title": "OpenAI structured outputs: model returns null or skips values that exist in the source text during email data extraction",
+      "url": "https://stackoverflow.com/questions/80016369/openai-structured-outputs-model-returns-null-or-skips-values-that-exist-in-the",
+      "score": 0,
+      "answers": 0,
+      "views": 73,
+      "tags": [
+        "jsonschema",
+        "openai-api",
+        "large-language-model",
+        "gpt-4o-mini"
+      ]
+    },
+    {
+      "rank": 17,
+      "title": "How do I iterate and count vowels in a string?",
+      "url": "https://stackoverflow.com/questions/80016348/how-do-i-iterate-and-count-vowels-in-a-string",
+      "score": -6,
+      "answers": 3,
+      "views": 191,
+      "tags": [
+        "python"
+      ]
+    },
+    {
+      "rank": 18,
+      "title": "Why does PMA export VIRTUAL fields if row selected from Browse-Mode",
+      "url": "https://stackoverflow.com/questions/80016365/why-does-pma-export-virtual-fields-if-row-selected-from-browse-mode",
+      "score": 0,
+      "answers": 1,
+      "views": 58,
+      "tags": [
+        "phpmyadmin"
+      ]
+    },
+    {
+      "rank": 19,
+      "title": "How to get the cell value from a linked worksheet",
+      "url": "https://stackoverflow.com/questions/80016274/how-to-get-the-cell-value-from-a-linked-worksheet",
+      "score": 0,
+      "answers": 2,
+      "views": 150,
+      "tags": [
+        "excel",
+        "vba"
+      ]
+    },
+    {
+      "rank": 20,
+      "title": "How to make ball move in Swift?",
+      "url": "https://stackoverflow.com/questions/80016316/how-to-make-ball-move-in-swift",
+      "score": -1,
+      "answers": 1,
+      "views": 212,
+      "tags": [
+        "swift",
+        "swiftui",
+        "pong"
+      ]
+    },
+    {
+      "rank": 21,
+      "title": "ML Kit old samples (before 2020)",
+      "url": "https://stackoverflow.com/questions/80016347/ml-kit-old-samples-before-2020",
+      "score": -7,
+      "answers": 0,
+      "views": 44,
+      "tags": [
+        "google-mlkit"
+      ]
+    },
+    {
+      "rank": 22,
+      "title": "Making pong game, how do I accelerate the ball in Swift?",
+      "url": "https://stackoverflow.com/questions/80016350/making-pong-game-how-do-i-accelerate-the-ball-in-swift",
+      "score": -2,
+      "answers": 0,
+      "views": 33,
+      "tags": [
+        "swift",
+        "swiftui",
+        "game-development",
+        "pong"
+      ]
+    },
+    {
+      "rank": 23,
+      "title": "i need help installing mongodb on mac i keep on getting the error Error: Formula `mongodb-community`",
+      "url": "https://stackoverflow.com/questions/80016363/i-need-help-installing-mongodb-on-mac-i-keep-on-getting-the-error-error-formula",
+      "score": -5,
+      "answers": 0,
+      "views": 73,
+      "tags": [
+        "mongodb",
+        "macos",
+        "homebrew"
+      ]
+    },
+    {
+      "rank": 24,
+      "title": "ANTIGRAVITY IDE WebSocket connection closed unexpectedly (close code 1006) ERROR ON AGENT CHAT",
+      "url": "https://stackoverflow.com/questions/80016364/antigravity-ide-websocket-connection-closed-unexpectedly-close-code-1006-error",
+      "score": -6,
+      "answers": 0,
+      "views": 73,
+      "tags": [
+        "antigravity"
+      ]
+    },
+    {
+      "rank": 25,
+      "title": "Google Play Console signature mismatch error after upload key reset",
+      "url": "https://stackoverflow.com/questions/80016362/google-play-console-signature-mismatch-error-after-upload-key-reset",
+      "score": -3,
+      "answers": 0,
+      "views": 52,
+      "tags": [
+        "android",
+        "google-play"
+      ]
+    }
+  ]
+}

@@ -1,13 +1,15 @@
 {
-  "date": "2026-11-12",
-  "generated_at": "2026-11-12T06:20:34.110Z",
-  "lede": "The day's loudest story was a succession rumor at the top of the chip industry. A Hacker News post reporting that Nvidia is preparing to oust CEO Jensen Huang pulled 1,155 comments, his Wikipedia page drew 341,625 views, and a Polymarket book on whether his resignation or removal would be announced by its November 11 deadline crossed six million dollars in 24-hour volume. The turn is in the odds: even as the feeds lit up, that market put Yes at 0.05 percent and No at 99.95 percent. Underneath it, the quieter currents ran through gaming, where a Rockstar pre-load video for Grand Theft Auto VI passed 9.6 million views and Counter-Strike 2 again topped Steam with more than 1.2 million concurrent players.",
+  "date": "2026-11-13",
+  "generated_at": "2026-11-13T06:16:28.030Z",
+  "lede": "Jensen Huang's resignation as Nvidia chief executive moved as one story across five separate feeds at once: his Wikipedia page drew 1,072,168 reads, the top Hacker News thread reached 3,273 points, and Lemmy, Polymarket and the AI news wire all carried it. The aftershocks showed up too, with Nvidia CFO Colette Kress climbing to third on Wikipedia and a Polymarket contract opening on who succeeds him. Away from Nvidia, Mastodon spent the morning joking about a Microsoft outage, and the largest of 25 earthquakes, a magnitude 5.8, struck 148 km northwest of Kavieng, Papua New Guinea.",
   "throughlines": [
     {
-      "title": "Jensen Huang announced resignation or removal by November 11, 2026?",
-      "gist": "A Hacker News report that Nvidia is preparing to remove CEO Jensen Huang drew 1,155 comments and pushed his Wikipedia page to 341,625 views, yet the Polymarket book on a formal resignation or removal by the deadline held No at 99.95 percent.",
+      "title": "Jensen Huang",
+      "gist": "Nvidia's longtime chief executive resigned, and the news surfaced at once on Wikipedia, Hacker News, Lemmy, Polymarket and the AI wire, the clearest cross-feed signal of the day.",
       "sources": [
+        "gdelt-ai",
         "hackernews",
+        "lemmy",
         "polymarket",
         "wikipedia"
       ],
@@ -15,23 +17,23 @@
       "kind": "cluster"
     },
     {
-      "title": "Grand Theft Auto VI: Pre-Load Now",
-      "gist": "Rockstar's Pre-Load Now spot for Grand Theft Auto VI passed 9.6 million views on YouTube while Grand Theft Auto V Enhanced held 67,251 concurrent players on Steam, the long wait showing up on two feeds at once.",
+      "title": "Will there be no new be CEO of NVIDIA by December 31, 2028?",
+      "gist": "With the top job suddenly open, Polymarket opened a contract on whether Nvidia will still have no permanent CEO by the end of 2028, echoed by Lemmy's transition announcement.",
       "sources": [
-        "steam",
-        "youtube"
+        "lemmy",
+        "polymarket"
       ],
-      "url": "https://store.steampowered.com/app/3240220",
+      "url": "https://lemmy.world/post/54323769",
       "kind": "cluster"
     },
     {
-      "title": "Mississippi elects Democrat Scott Colom as state's first Black US senator since Reconstruction",
-      "gist": "The Associated Press called Mississippi for Democrat Scott Colom, the state's first Black US senator since Reconstruction, a result that surfaced on both Lemmy and Mastodon.",
+      "title": "bernard tomic",
+      "gist": "Veteran Australian Bernard Tomic drew search traffic after ending a three-year title drought, the same day Polymarket ran a market on his Brisbane match against August Holmgren.",
       "sources": [
-        "lemmy",
-        "mastodon-trending"
+        "google-trends",
+        "polymarket"
       ],
-      "url": "https://lemmy.world/post/54297149",
+      "url": "https://worldtennismagazine.com/bernard-tomic-ends-three-year-title-drought-mondays-with-bob-greene/",
       "kind": "cluster"
     }
   ],

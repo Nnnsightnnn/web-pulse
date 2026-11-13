@@ -1,0 +1,457 @@
+{
+  "source": "polymarket",
+  "label": "Polymarket — top 24h volume",
+  "fetched_at": "2026-11-13T06:16:12.937Z",
+  "items": [
+    {
+      "rank": 1,
+      "title": "Will Jesus Christ return before 2027?",
+      "url": "https://polymarket.com/event/will-jesus-christ-return-before-2027",
+      "volume_24h": 1339105.7963199997,
+      "volume_total": 68453415.00857103,
+      "liquidity": 2357371.70456,
+      "yes_price": 0.0135,
+      "leader": {
+        "name": "No",
+        "price": 0.9865
+      },
+      "end_date": "2027-01-01T04:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Will the Fed decrease interest rates by 25 bps after the December 2026 meeting?",
+      "url": "https://polymarket.com/event/fed-decision-in-december-20260729232808632",
+      "volume_24h": 1296037.5466079996,
+      "volume_total": 5299461.654410998,
+      "liquidity": 183666.26762,
+      "yes_price": 0.0055,
+      "leader": {
+        "name": "No",
+        "price": 0.9945
+      },
+      "end_date": "2026-12-09T23:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "UFC 334: Josh Hokit vs. Ciryl Gane (Heavyweight, Main Card)",
+      "url": "https://polymarket.com/event/ufc-jos52-cir-2026-11-14",
+      "volume_24h": 1172230.0740050003,
+      "volume_total": 2098764.307328,
+      "liquidity": 2911299.0279,
+      "yes_price": 0.345,
+      "leader": {
+        "name": "Ciryl Gane",
+        "price": 0.655
+      },
+      "end_date": "2026-11-15T04:59:59.999Z",
+      "outcomes": [
+        "Josh Hokit",
+        "Ciryl Gane"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Counter-Strike: Vitality vs MOUZ (BO3) - BLAST Rivals Playoffs",
+      "url": "https://polymarket.com/event/cs2-vit-mouz-2026-11-13",
+      "volume_24h": 648457.612722,
+      "volume_total": 644695.423434,
+      "liquidity": 655648.9473,
+      "yes_price": 0.555,
+      "leader": {
+        "name": "Vitality",
+        "price": 0.555
+      },
+      "end_date": "2026-11-13T14:00:00Z",
+      "outcomes": [
+        "Vitality",
+        "MOUZ"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Louisiana-Lafayette Ragin' Cajuns vs. UNCW Seahawks",
+      "url": "https://polymarket.com/event/cbb-loulaf-ncw-2026-11-14",
+      "volume_24h": 567427.702626,
+      "volume_total": 446131.478266,
+      "liquidity": 166122.5796,
+      "yes_price": 0.485,
+      "leader": {
+        "name": "UNCW Seahawks",
+        "price": 0.515
+      },
+      "end_date": "2026-11-15T00:00:00Z",
+      "outcomes": [
+        "Louisiana-Lafayette Ragin' Cajuns",
+        "UNCW Seahawks"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Will Mike Pence win the 2028 Republican presidential nomination?",
+      "url": "https://polymarket.com/event/republican-presidential-nominee-2028",
+      "volume_24h": 566521.872,
+      "volume_total": 44455557.05957501,
+      "liquidity": 848860.80391,
+      "yes_price": 0.0015,
+      "leader": {
+        "name": "No",
+        "price": 0.9985
+      },
+      "end_date": "2028-11-08T04:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Dota 2: Rottweilas Latam vs Mena Warriors - Game 2 Winner",
+      "url": "https://polymarket.com/event/dota2-rl-menawa-2026-11-10",
+      "volume_24h": 476636.40679400007,
+      "volume_total": 845382.9706600001,
+      "liquidity": 48896.22088,
+      "yes_price": 0.004,
+      "leader": {
+        "name": "Mena Warriors",
+        "price": 0.996
+      },
+      "end_date": "2026-11-11T00:15:00Z",
+      "outcomes": [
+        "Rottweilas Latam",
+        "Mena Warriors"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?",
+      "url": "https://polymarket.com/event/uefa-champions-league-2027-champion-20260701202025549",
+      "volume_24h": 425624,
+      "volume_total": 43276963.668306015,
+      "liquidity": 221223.07995,
+      "yes_price": 0.0015,
+      "leader": {
+        "name": "No",
+        "price": 0.9985
+      },
+      "end_date": "2027-05-30T23:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Israel x Iran ceasefire continues through November 15?",
+      "url": "https://polymarket.com/event/israel-x-iran-ceasefire-continues-throughptptpt-20260716224448963",
+      "volume_24h": 393421.72943099996,
+      "volume_total": 2964120.22091,
+      "liquidity": 145969.55453,
+      "yes_price": 0.9565,
+      "leader": {
+        "name": "Yes",
+        "price": 0.9565
+      },
+      "end_date": "2026-11-16T04:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Will JD Vance win the 2028 US Presidential Election?",
+      "url": "https://polymarket.com/event/presidential-election-winner-2028",
+      "volume_24h": 296190.08027900005,
+      "volume_total": 19161051.596698,
+      "liquidity": 742020.36506,
+      "yes_price": 0.133,
+      "leader": {
+        "name": "No",
+        "price": 0.867
+      },
+      "end_date": "2028-11-08T04:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 11,
+      "title": "Jensen Huang divorce by December 31, 2026?",
+      "url": "https://polymarket.com/event/jensen-huang-divorce-in-2026",
+      "volume_24h": 294900.376551,
+      "volume_total": 686672.6561680002,
+      "liquidity": 69416.0944,
+      "yes_price": 0.175,
+      "leader": {
+        "name": "No",
+        "price": 0.825
+      },
+      "end_date": "2027-01-01T04:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 12,
+      "title": "Will there be no new be CEO of NVIDIA by December 31, 2028?",
+      "url": "https://polymarket.com/event/next-ceo-of-nvidia",
+      "volume_24h": 276443.73582,
+      "volume_total": 290215.74567699997,
+      "liquidity": 34769.73338,
+      "yes_price": 0.079,
+      "leader": {
+        "name": "No",
+        "price": 0.921
+      },
+      "end_date": "2029-01-01T04:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 13,
+      "title": "Counter-Strike: G2 vs Team Falcons (BO3) - BLAST Rivals Playoffs",
+      "url": "https://polymarket.com/event/cs2-g2-fal2-2026-11-13",
+      "volume_24h": 270051.8547069999,
+      "volume_total": 270021.714707,
+      "liquidity": 394665.4975,
+      "yes_price": 0.325,
+      "leader": {
+        "name": "Team Falcons",
+        "price": 0.675
+      },
+      "end_date": "2026-11-13T16:30:00Z",
+      "outcomes": [
+        "G2",
+        "Team Falcons"
+      ]
+    },
+    {
+      "rank": 14,
+      "title": "Will the US confirm that aliens exist before 2027?",
+      "url": "https://polymarket.com/event/will-the-us-confirm-that-aliens-exist-before-2027",
+      "volume_24h": 265443.83990900003,
+      "volume_total": 46208480.66881301,
+      "liquidity": 1841350.89365,
+      "yes_price": 0.0175,
+      "leader": {
+        "name": "No",
+        "price": 0.9825
+      },
+      "end_date": "2027-01-01T04:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 15,
+      "title": "Will the U.S. invade Iran before 2027?",
+      "url": "https://polymarket.com/event/will-the-us-invade-iran-before-2027",
+      "volume_24h": 246365.05336599998,
+      "volume_total": 80109920.717211,
+      "liquidity": 441682.8163,
+      "yes_price": 0.075,
+      "leader": {
+        "name": "No",
+        "price": 0.925
+      },
+      "end_date": "2027-01-01T04:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 16,
+      "title": "Will Mary Peltola win the Alaska Senate race in 2026?",
+      "url": "https://polymarket.com/event/alaska-senate-election-winner",
+      "volume_24h": 227408.45932900003,
+      "volume_total": 5507710.991244,
+      "liquidity": 317818.04101,
+      "yes_price": 0.9965,
+      "leader": {
+        "name": "Yes",
+        "price": 0.9965
+      },
+      "end_date": "2026-11-04T04:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 17,
+      "title": "Russia x Ukraine ceasefire by December 31, 2026?",
+      "url": "https://polymarket.com/event/russia-x-ukraine-ceasefire-by",
+      "volume_24h": 218979.18291600002,
+      "volume_total": 2002577.31381,
+      "liquidity": 108513.23022,
+      "yes_price": 0.074,
+      "leader": {
+        "name": "No",
+        "price": 0.926
+      },
+      "end_date": "2026-12-31T21:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 18,
+      "title": "Will Anthropic's valuation hit (HIGH) $1.75T by December 31?",
+      "url": "https://polymarket.com/event/will-anthropics-valuation-hit-by-december-31",
+      "volume_24h": 200421.75712300002,
+      "volume_total": 1150985.122586,
+      "liquidity": 22909.022,
+      "yes_price": 0.455,
+      "leader": {
+        "name": "No",
+        "price": 0.545
+      },
+      "end_date": "2027-01-05T04:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 19,
+      "title": "Brisbane 3: Dane Sweeny vs Juncheng Shang",
+      "url": "https://polymarket.com/event/atp-sweeny-shang-2026-11-12",
+      "volume_24h": 157698.48284500002,
+      "volume_total": 157549.122845,
+      "liquidity": 87227.17387,
+      "yes_price": 0.0005,
+      "leader": {
+        "name": "Juncheng Shang",
+        "price": 0.9995
+      },
+      "end_date": "2026-11-20T02:30:00Z",
+      "outcomes": [
+        "Dane Sweeny",
+        "Juncheng Shang"
+      ]
+    },
+    {
+      "rank": 20,
+      "title": "Will David Lisnard win the 2027 French presidential election?",
+      "url": "https://polymarket.com/event/next-french-presidential-election",
+      "volume_24h": 151124.550058,
+      "volume_total": 7838968.297335,
+      "liquidity": 450410.40845,
+      "yes_price": 0.1695,
+      "leader": {
+        "name": "No",
+        "price": 0.8305
+      },
+      "end_date": "2027-04-19T03:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 21,
+      "title": "Will China invade Taiwan by end of 2026?",
+      "url": "https://polymarket.com/event/will-china-invade-taiwan-before-2027",
+      "volume_24h": 150686.564327,
+      "volume_total": 46361825.014170006,
+      "liquidity": 356144.94833,
+      "yes_price": 0.0145,
+      "leader": {
+        "name": "No",
+        "price": 0.9855
+      },
+      "end_date": "2027-01-01T04:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 22,
+      "title": "US x Iran Effective Ceasefire by November 8?",
+      "url": "https://polymarket.com/event/us-x-iran-effective-ceasefire-begins-by-2-week-pause-20261108",
+      "volume_24h": 145800.966661,
+      "volume_total": 433379.91077499994,
+      "liquidity": 41638.3741,
+      "yes_price": 0.225,
+      "leader": {
+        "name": "No",
+        "price": 0.775
+      },
+      "end_date": "2026-11-08T20:29:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 23,
+      "title": "Brisbane 3: Bernard Tomic vs August Holmgren",
+      "url": "https://polymarket.com/event/atp-tomic-holmgre-2026-11-12",
+      "volume_24h": 145353.45206599997,
+      "volume_total": 139296.10736,
+      "liquidity": 114405.0008,
+      "yes_price": 0.175,
+      "leader": {
+        "name": "August Holmgren",
+        "price": 0.825
+      },
+      "end_date": "2026-11-20T00:00:00Z",
+      "outcomes": [
+        "Bernard Tomic",
+        "August Holmgren"
+      ]
+    },
+    {
+      "rank": 24,
+      "title": "US announces end of Iranian blockade by November 30, 2026?",
+      "url": "https://polymarket.com/event/us-announces-end-of-iranian-blockade-byptptpt-20260713152715080",
+      "volume_24h": 144180.546971,
+      "volume_total": 3063167.3211899996,
+      "liquidity": 235819.24,
+      "yes_price": 0.075,
+      "leader": {
+        "name": "No",
+        "price": 0.925
+      },
+      "end_date": "2026-12-01T04:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 25,
+      "title": "Putin out as President of Russia by December 31, 2026?",
+      "url": "https://polymarket.com/event/putin-out-before-2027",
+      "volume_24h": 139545.93987,
+      "volume_total": 28261973.353544995,
+      "liquidity": 442955.69011,
+      "yes_price": 0.0155,
+      "leader": {
+        "name": "No",
+        "price": 0.9845
+      },
+      "end_date": "2027-01-01T04:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    }
+  ]
+}
