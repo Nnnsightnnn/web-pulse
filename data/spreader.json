@@ -1,15 +1,13 @@
 {
-  "date": "2026-11-13",
-  "generated_at": "2026-11-13T06:16:28.030Z",
-  "lede": "Jensen Huang's resignation as Nvidia chief executive moved as one story across five separate feeds at once: his Wikipedia page drew 1,072,168 reads, the top Hacker News thread reached 3,273 points, and Lemmy, Polymarket and the AI news wire all carried it. The aftershocks showed up too, with Nvidia CFO Colette Kress climbing to third on Wikipedia and a Polymarket contract opening on who succeeds him. Away from Nvidia, Mastodon spent the morning joking about a Microsoft outage, and the largest of 25 earthquakes, a magnitude 5.8, struck 148 km northwest of Kavieng, Papua New Guinea.",
+  "date": "2026-11-14",
+  "generated_at": "2026-11-14T06:20:18.824Z",
+  "lede": "Jensen Huang has stepped down as Nvidia's chief executive, and the story swamped the day: he topped Wikipedia with 727,529 views while the news wire tracked the stock fallout and Polymarket opened bets on his return. The other loud item was a nationwide FAA ground stop, lifted after about 4.5 hours, which pulled 1,467 points on Hacker News. The largest tremor on the planet was a magnitude 5.8 quake off Changuillo, Peru.",
   "throughlines": [
     {
       "title": "Jensen Huang",
-      "gist": "Nvidia's longtime chief executive resigned, and the news surfaced at once on Wikipedia, Hacker News, Lemmy, Polymarket and the AI wire, the clearest cross-feed signal of the day.",
+      "gist": "Huang's exit as Nvidia CEO drove 727,529 Wikipedia views and carried from the news wire to Polymarket, where traders are already pricing whether he rejoins by month's end.",
       "sources": [
         "gdelt-ai",
-        "hackernews",
-        "lemmy",
         "polymarket",
         "wikipedia"
       ],
@@ -17,23 +15,23 @@
       "kind": "cluster"
     },
     {
-      "title": "Will there be no new be CEO of NVIDIA by December 31, 2028?",
-      "gist": "With the top job suddenly open, Polymarket opened a contract on whether Nvidia will still have no permanent CEO by the end of 2028, echoed by Lemmy's transition announcement.",
+      "title": "Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs",
+      "gist": "A report alleging Nvidia funded AI startups to buy its own chips and manufacture scarcity lit up Hacker News and Mastodon at once, a pointed counter-note to the departure story.",
       "sources": [
-        "lemmy",
-        "polymarket"
+        "hackernews",
+        "mastodon-trending"
       ],
-      "url": "https://lemmy.world/post/54323769",
+      "url": "https://news.ycombinator.com/item?id=50493251",
       "kind": "cluster"
     },
     {
-      "title": "bernard tomic",
-      "gist": "Veteran Australian Bernard Tomic drew search traffic after ending a three-year title drought, the same day Polymarket ran a market on his Brisbane match against August Holmgren.",
+      "title": "Show HN: Live map of U.S. flights during tonight's FAA nationwide ground stop",
+      "gist": "With the FAA's nationwide ground stop halting departures, a developer's live flight map spread across Hacker News and Lemmy as people watched the skies empty.",
       "sources": [
-        "google-trends",
-        "polymarket"
+        "hackernews",
+        "lemmy"
       ],
-      "url": "https://worldtennismagazine.com/bernard-tomic-ends-three-year-title-drought-mondays-with-bob-greene/",
+      "url": "https://news.ycombinator.com/item?id=50491545",
       "kind": "cluster"
     }
   ],
