@@ -1,0 +1,457 @@
+{
+  "source": "polymarket",
+  "label": "Polymarket — top 24h volume",
+  "fetched_at": "2026-11-15T06:16:16.274Z",
+  "items": [
+    {
+      "rank": 1,
+      "title": "Utah vs. Arizona",
+      "url": "https://polymarket.com/event/cfb-utah-arz-2026-11-14",
+      "volume_24h": 1129712.846001,
+      "volume_total": 1086350.567438,
+      "liquidity": 148114.7258,
+      "yes_price": 0.445,
+      "leader": {
+        "name": "Arizona",
+        "price": 0.555
+      },
+      "end_date": "2026-11-15T03:30:00Z",
+      "outcomes": [
+        "Utah",
+        "Arizona"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Texas Tech vs. Oklahoma State",
+      "url": "https://polymarket.com/event/cfb-txtech-okst-2026-11-14",
+      "volume_24h": 810463.5525389999,
+      "volume_total": 810896.5232340001,
+      "liquidity": 593047.47754,
+      "yes_price": 0.9995,
+      "leader": {
+        "name": "Texas Tech",
+        "price": 0.9995
+      },
+      "end_date": "2026-11-15T02:30:00Z",
+      "outcomes": [
+        "Texas Tech",
+        "Oklahoma State"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Pepperdine Waves vs. Oregon Ducks",
+      "url": "https://polymarket.com/event/cbb-pepp-ore-2026-11-15",
+      "volume_24h": 452558.28676199977,
+      "volume_total": 451621.121608,
+      "liquidity": 206361.69723,
+      "yes_price": 0.3435,
+      "leader": {
+        "name": "Oregon Ducks",
+        "price": 0.6565
+      },
+      "end_date": "2026-11-15T22:00:00Z",
+      "outcomes": [
+        "Pepperdine Waves",
+        "Oregon Ducks"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Counter-Strike: Spirit vs FURIA (BO5) - BLAST Rivals Playoffs",
+      "url": "https://polymarket.com/event/cs2-ts7-furia-2026-11-15",
+      "volume_24h": 437533.77619100007,
+      "volume_total": 435646.995699,
+      "liquidity": 625767.4132,
+      "yes_price": 0.595,
+      "leader": {
+        "name": "Spirit",
+        "price": 0.595
+      },
+      "end_date": "2026-11-15T14:00:00Z",
+      "outcomes": [
+        "Spirit",
+        "FURIA"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?",
+      "url": "https://polymarket.com/event/uefa-champions-league-2027-champion-20260701202025549",
+      "volume_24h": 421753,
+      "volume_total": 44126851.28330601,
+      "liquidity": 225679.1222,
+      "yes_price": 0.0015,
+      "leader": {
+        "name": "No",
+        "price": 0.9985
+      },
+      "end_date": "2027-05-30T23:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Spread: Lions (-2.5)",
+      "url": "https://polymarket.com/event/nfl-ne-det-2026-11-15",
+      "volume_24h": 401673.34956800006,
+      "volume_total": 454291.357103,
+      "liquidity": 601548.7392,
+      "yes_price": 0.525,
+      "leader": {
+        "name": "Lions",
+        "price": 0.525
+      },
+      "end_date": "2026-11-15T14:30:00Z",
+      "outcomes": [
+        "Lions",
+        "Patriots"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Will Bitcoin dip to $45,000 by December 31, 2026?",
+      "url": "https://polymarket.com/event/what-price-will-bitcoin-hit-before-2027",
+      "volume_24h": 387408.453225,
+      "volume_total": 9975891.207854,
+      "liquidity": 154021.92951,
+      "yes_price": 0.0765,
+      "leader": {
+        "name": "No",
+        "price": 0.9235
+      },
+      "end_date": "2027-01-01T05:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Will the Fed increase interest rates by 25 bps after the December 2026 meeting?",
+      "url": "https://polymarket.com/event/fed-decision-in-december-20260729232808632",
+      "volume_24h": 382075.098199,
+      "volume_total": 8880983.397118999,
+      "liquidity": 723440.5834,
+      "yes_price": 0.865,
+      "leader": {
+        "name": "Yes",
+        "price": 0.865
+      },
+      "end_date": "2026-12-09T23:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Will Jensen Huang rejoin NVIDIA by December 31, 2026?",
+      "url": "https://polymarket.com/event/jensen-huang-rejoins-nvidia-byptptpt",
+      "volume_24h": 341933.2953670001,
+      "volume_total": 497372.38313000003,
+      "liquidity": 74401.95828,
+      "yes_price": 0.1175,
+      "leader": {
+        "name": "No",
+        "price": 0.8825
+      },
+      "end_date": "2027-01-01T04:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Will J.D. Vance win the 2028 Republican presidential nomination?",
+      "url": "https://polymarket.com/event/republican-presidential-nominee-2028",
+      "volume_24h": 295739.272314,
+      "volume_total": 17387910.096210003,
+      "liquidity": 416618.15091,
+      "yes_price": 0.372,
+      "leader": {
+        "name": "No",
+        "price": 0.628
+      },
+      "end_date": "2028-11-08T04:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 11,
+      "title": "Will Mary Peltola win the Alaska Senate race in 2026?",
+      "url": "https://polymarket.com/event/alaska-senate-election-winner",
+      "volume_24h": 276567.45169899997,
+      "volume_total": 5906885.903230999,
+      "liquidity": 371283.7393,
+      "yes_price": 0.999,
+      "leader": {
+        "name": "Yes",
+        "price": 0.999
+      },
+      "end_date": "2026-11-04T04:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 12,
+      "title": "Will Bitcoin dip to $62,000 November 9-15?",
+      "url": "https://polymarket.com/event/what-price-will-bitcoin-hit-november-9-15-2026",
+      "volume_24h": 246765.66421100002,
+      "volume_total": 472980.103971,
+      "liquidity": 23820.41676,
+      "yes_price": 0.274,
+      "leader": {
+        "name": "No",
+        "price": 0.726
+      },
+      "end_date": "2026-11-16T05:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 13,
+      "title": "Will Republicans lose the Alaska, Iowa, Kansas, Maine, Michigan, Ohio, and Texas Senate seats?",
+      "url": "https://polymarket.com/event/which-tossup-senate-states-will-republicans-win-ak-ia-ks-me-mi-oh-tx",
+      "volume_24h": 223743.40895,
+      "volume_total": 11275012.532367004,
+      "liquidity": 214870.98268,
+      "yes_price": 0.9975,
+      "leader": {
+        "name": "Yes",
+        "price": 0.9975
+      },
+      "end_date": "2026-11-03T23:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 14,
+      "title": "Will Shawn Fain win the 2028 Democratic presidential nomination?",
+      "url": "https://polymarket.com/event/democratic-presidential-nominee-2028",
+      "volume_24h": 210457.7,
+      "volume_total": 1626234.151787,
+      "liquidity": 374767.56652,
+      "yes_price": 0.0015,
+      "leader": {
+        "name": "No",
+        "price": 0.9985
+      },
+      "end_date": "2028-11-07T00:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 15,
+      "title": "Will Jesus Christ return before 2027?",
+      "url": "https://polymarket.com/event/will-jesus-christ-return-before-2027",
+      "volume_24h": 194759.16374200003,
+      "volume_total": 69353615.49978502,
+      "liquidity": 2184497.09755,
+      "yes_price": 0.0105,
+      "leader": {
+        "name": "No",
+        "price": 0.9895
+      },
+      "end_date": "2027-01-01T04:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 16,
+      "title": "Will Bitcoin dip to $55,000 in November?",
+      "url": "https://polymarket.com/event/what-price-will-bitcoin-hit-in-november-2026",
+      "volume_24h": 192520.220024,
+      "volume_total": 512422.453315,
+      "liquidity": 68361.03443,
+      "yes_price": 0.1845,
+      "leader": {
+        "name": "No",
+        "price": 0.8155
+      },
+      "end_date": "2026-12-01T05:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 17,
+      "title": "Will Utah Jazz win the 2027 NBA Finals?",
+      "url": "https://polymarket.com/event/nba-2027-champion",
+      "volume_24h": 189993.57,
+      "volume_total": 1540249.39863,
+      "liquidity": 218407.07335,
+      "yes_price": 0.0015,
+      "leader": {
+        "name": "No",
+        "price": 0.9985
+      },
+      "end_date": "2027-07-01T03:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 18,
+      "title": "Israel x Iran ceasefire continues through November 15?",
+      "url": "https://polymarket.com/event/israel-x-iran-ceasefire-continues-throughptptpt-20260716224448963",
+      "volume_24h": 189208.348376,
+      "volume_total": 3505019.034007,
+      "liquidity": 53908.87675,
+      "yes_price": 0.984,
+      "leader": {
+        "name": "Yes",
+        "price": 0.984
+      },
+      "end_date": "2026-11-16T04:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 19,
+      "title": "Will there be no new be CEO of NVIDIA by December 31, 2028?",
+      "url": "https://polymarket.com/event/next-ceo-of-nvidia",
+      "volume_24h": 185808.691396,
+      "volume_total": 767069.1161090002,
+      "liquidity": 63459.97315,
+      "yes_price": 0.114,
+      "leader": {
+        "name": "No",
+        "price": 0.886
+      },
+      "end_date": "2029-01-01T04:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 20,
+      "title": "Will JD Vance win the 2028 US Presidential Election?",
+      "url": "https://polymarket.com/event/presidential-election-winner-2028",
+      "volume_24h": 168425.541552,
+      "volume_total": 19355472.992560998,
+      "liquidity": 587996.25294,
+      "yes_price": 0.154,
+      "leader": {
+        "name": "No",
+        "price": 0.846
+      },
+      "end_date": "2028-11-08T04:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 21,
+      "title": "Counter-Strike: Heroic vs magic (BO3) - PGL Cluj-Napoca: Closed Qualifier Playoffs",
+      "url": "https://polymarket.com/event/cs2-hero-mgc-2026-11-15",
+      "volume_24h": 140726.71028200004,
+      "volume_total": 140719.73528200004,
+      "liquidity": 109503.4919,
+      "yes_price": 0.615,
+      "leader": {
+        "name": "Heroic",
+        "price": 0.615
+      },
+      "end_date": "2026-11-15T15:00:00Z",
+      "outcomes": [
+        "Heroic",
+        "magic"
+      ]
+    },
+    {
+      "rank": 22,
+      "title": "Utah State vs. San Diego State: O/U 43.5",
+      "url": "https://polymarket.com/event/cfb-utahst-sdst-2026-11-14",
+      "volume_24h": 131292.950544,
+      "volume_total": 133171.431862,
+      "liquidity": 21818.94506,
+      "yes_price": 0.0005,
+      "leader": {
+        "name": "Under",
+        "price": 0.9995
+      },
+      "end_date": "2026-11-15T02:30:00Z",
+      "outcomes": [
+        "Over",
+        "Under"
+      ]
+    },
+    {
+      "rank": 23,
+      "title": "Will Anthropic's market cap be less than $1.25T at market close on IPO day?",
+      "url": "https://polymarket.com/event/anthropic-ipo-closing-market-cap-higher-strikes",
+      "volume_24h": 119343.14323000002,
+      "volume_total": 1099723.2711229997,
+      "liquidity": 135279.39675,
+      "yes_price": 0.2295,
+      "leader": {
+        "name": "No",
+        "price": 0.7705
+      },
+      "end_date": "2028-01-01T04:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 24,
+      "title": "Will Édouard Philippe win the 2027 French presidential election?",
+      "url": "https://polymarket.com/event/next-french-presidential-election",
+      "volume_24h": 118173.25243100003,
+      "volume_total": 3494667.265867,
+      "liquidity": 366442.8303,
+      "yes_price": 0.065,
+      "leader": {
+        "name": "No",
+        "price": 0.935
+      },
+      "end_date": "2027-04-19T03:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 25,
+      "title": "US x Iran Effective Ceasefire by November 8?",
+      "url": "https://polymarket.com/event/us-x-iran-effective-ceasefire-begins-by-2-week-pause-20261108",
+      "volume_24h": 117185.316067,
+      "volume_total": 635767.3643879999,
+      "liquidity": 21509.7958,
+      "yes_price": 0.35,
+      "leader": {
+        "name": "No",
+        "price": 0.65
+      },
+      "end_date": "2026-11-08T20:29:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    }
+  ]
+}

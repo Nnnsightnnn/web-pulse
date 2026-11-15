@@ -1,11 +1,11 @@
 {
-  "date": "2026-11-14",
-  "generated_at": "2026-11-14T06:20:18.824Z",
-  "lede": "Jensen Huang has stepped down as Nvidia's chief executive, and the story swamped the day: he topped Wikipedia with 727,529 views while the news wire tracked the stock fallout and Polymarket opened bets on his return. The other loud item was a nationwide FAA ground stop, lifted after about 4.5 hours, which pulled 1,467 points on Hacker News. The largest tremor on the planet was a magnitude 5.8 quake off Changuillo, Peru.",
+  "date": "2026-11-15",
+  "generated_at": "2026-11-15T06:17:02.674Z",
+  "lede": "Jensen Huang runs through three of today's feeds at once. He sits third on Wikipedia with 304,348 views, the news wire is still working over his departure from Nvidia and who should replace him, and Polymarket has opened a market on whether he rejoins the company by year end, where the money is firmly on no. Away from that, SpaceX caught the Starship to close out Flight 15 and topped Hacker News with 1,007 points.",
   "throughlines": [
     {
       "title": "Jensen Huang",
-      "gist": "Huang's exit as Nvidia CEO drove 727,529 Wikipedia views and carried from the news wire to Polymarket, where traders are already pricing whether he rejoins by month's end.",
+      "gist": "One exit showing up three ways: a Wikipedia surge into third place, a news wire full of succession questions, and a fresh Polymarket bet on his return that is leaning hard toward no.",
       "sources": [
         "gdelt-ai",
         "polymarket",
@@ -15,27 +15,26 @@
       "kind": "cluster"
     },
     {
-      "title": "Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs",
-      "gist": "A report alleging Nvidia funded AI startups to buy its own chips and manufacture scarcity lit up Hacker News and Mastodon at once, a pointed counter-note to the departure story.",
+      "title": "Grand Theft Auto V Enhanced",
+      "gist": "Rockstar's crime franchise lands on two feeds at once, holding a spot on Steam's top sellers while the still-unreleased next installment keeps drawing readers on Wikipedia.",
       "sources": [
-        "hackernews",
-        "mastodon-trending"
+        "steam",
+        "wikipedia"
       ],
-      "url": "https://news.ycombinator.com/item?id=50493251",
+      "url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI",
       "kind": "cluster"
     },
     {
-      "title": "Show HN: Live map of U.S. flights during tonight's FAA nationwide ground stop",
-      "gist": "With the FAA's nationwide ground stop halting departures, a developer's live flight map spread across Hacker News and Lemmy as people watched the skies empty.",
+      "title": "backnotprop/plannotator",
+      "gist": "An agent-workflow tool sits at the top of GitHub trending with 408 stars added today.",
       "sources": [
-        "hackernews",
-        "lemmy"
+        "github"
       ],
-      "url": "https://news.ycombinator.com/item?id=50491545",
-      "kind": "cluster"
+      "url": "https://github.com/backnotprop/plannotator",
+      "kind": "single"
     }
   ],
-  "strength": 100,
+  "strength": 73,
   "live_sources": 17,
   "total_sources": 17,
   "dashboard_url": "https://nnnsightnnn.github.io/web-pulse/",
