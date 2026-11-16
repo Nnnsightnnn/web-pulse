@@ -1,11 +1,11 @@
 {
-  "date": "2026-11-15",
-  "generated_at": "2026-11-15T06:17:02.674Z",
-  "lede": "Jensen Huang runs through three of today's feeds at once. He sits third on Wikipedia with 304,348 views, the news wire is still working over his departure from Nvidia and who should replace him, and Polymarket has opened a market on whether he rejoins the company by year end, where the money is firmly on no. Away from that, SpaceX caught the Starship to close out Flight 15 and topped Hacker News with 1,007 points.",
+  "date": "2026-11-16",
+  "generated_at": "2026-11-16T06:17:04.417Z",
+  "lede": "The exit of Jensen Huang as Nvidia's CEO is the thread running through today's web. It shows up on the AI news wire, in the Wikipedia cluster, and on Polymarket, where traders put the odds of his return by November 30 at just under 9 percent. The same news pulled U.S. stocks lower as bond yields climbed. Over on Wikipedia the day's most-read article has nothing to do with any of it: Archive of Our Own, the fan fiction library, at 860,729 views.",
   "throughlines": [
     {
-      "title": "Jensen Huang",
-      "gist": "One exit showing up three ways: a Wikipedia surge into third place, a news wire full of succession questions, and a fresh Polymarket bet on his return that is leaning hard toward no.",
+      "title": "Will Jensen Huang rejoin NVIDIA by November 30, 2026?",
+      "gist": "Huang's departure from Nvidia is live across three unrelated feeds at once, the AI news wire, Polymarket, and Wikipedia, which is what makes it the day's center of gravity rather than a single-outlet rumor.",
       "sources": [
         "gdelt-ai",
         "polymarket",
@@ -15,22 +15,22 @@
       "kind": "cluster"
     },
     {
-      "title": "Grand Theft Auto V Enhanced",
-      "gist": "Rockstar's crime franchise lands on two feeds at once, holding a spot on Steam's top sellers while the still-unreleased next installment keeps drawing readers on Wikipedia.",
+      "title": "All AI-generated code should be Open Source",
+      "gist": "A Lemmy argument that all AI-generated code should be open source, upvoted 625 times, lands the same day Alibaba's open-sourced AI code-review tool trends on GitHub with 52,000 stars, two angles on the same question of who owns machine-written code.",
       "sources": [
-        "steam",
-        "wikipedia"
+        "github",
+        "lemmy"
       ],
-      "url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI",
+      "url": "https://github.com/alibaba/open-code-review",
       "kind": "cluster"
     },
     {
-      "title": "backnotprop/plannotator",
-      "gist": "An agent-workflow tool sits at the top of GitHub trending with 408 stars added today.",
+      "title": "Universal XSS in uBlock Origin from website-driven element picker",
+      "gist": "A writeup of a universal cross-site-scripting hole in uBlock Origin's element picker, one a malicious page can trigger, is leading Hacker News with 233 points, a sharp bug because the extension runs on nearly every page its users load.",
       "sources": [
-        "github"
+        "hackernews"
       ],
-      "url": "https://github.com/backnotprop/plannotator",
+      "url": "https://iter.ca/post/ubo-uxss/",
       "kind": "single"
     }
   ],
