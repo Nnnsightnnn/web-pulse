@@ -1,11 +1,21 @@
 {
-  "date": "2026-11-16",
-  "generated_at": "2026-11-16T06:17:04.417Z",
-  "lede": "The exit of Jensen Huang as Nvidia's CEO is the thread running through today's web. It shows up on the AI news wire, in the Wikipedia cluster, and on Polymarket, where traders put the odds of his return by November 30 at just under 9 percent. The same news pulled U.S. stocks lower as bond yields climbed. Over on Wikipedia the day's most-read article has nothing to do with any of it: Archive of Our Own, the fan fiction library, at 860,729 views.",
+  "date": "2026-11-17",
+  "generated_at": "2026-11-17T06:17:36.805Z",
+  "lede": "Nvidia is the one story the feeds tell together today. The AI news wire opens on Jensen Huang's exit as Nvidia's CEO, several of its top headlines turning on who succeeds him, while Polymarket prices only an 11 percent chance he rejoins the company by December 31 and Wikipedia logs the interest. Away from that, Robert Pattinson led the encyclopedia with 1,363,657 views, about 2.5 times the runner-up, a magnitude 6.6 earthquake struck near Tual, Indonesia, and Counter-Strike 2 held 1,089,270 players on Steam.",
   "throughlines": [
     {
-      "title": "Will Jensen Huang rejoin NVIDIA by November 30, 2026?",
-      "gist": "Huang's departure from Nvidia is live across three unrelated feeds at once, the AI news wire, Polymarket, and Wikipedia, which is what makes it the day's center of gravity rather than a single-outlet rumor.",
+      "title": "Robert Pattinson",
+      "gist": "Led Wikipedia by a wide margin and showed up on YouTube the same day, which pulled him across two unrelated feeds at once.",
+      "sources": [
+        "wikipedia",
+        "youtube"
+      ],
+      "url": "https://en.wikipedia.org/wiki/Robert_Pattinson",
+      "kind": "cluster"
+    },
+    {
+      "title": "Will Jensen Huang rejoin NVIDIA by December 31, 2026?",
+      "gist": "The news wire is working through Nvidia's succession while the betting market puts his return by year end near 11 percent, a story now spanning news, markets, and the encyclopedia.",
       "sources": [
         "gdelt-ai",
         "polymarket",
@@ -15,26 +25,18 @@
       "kind": "cluster"
     },
     {
-      "title": "All AI-generated code should be Open Source",
-      "gist": "A Lemmy argument that all AI-generated code should be open source, upvoted 625 times, lands the same day Alibaba's open-sourced AI code-review tool trends on GitHub with 52,000 stars, two angles on the same question of who owns machine-written code.",
+      "title": "NBA 2K27 x GTA 6 (Grand Theft Auto 6) - Official Vice City Crossover Trailer",
+      "gist": "Anticipation for Grand Theft Auto VI surfaced on Steam, YouTube, and Wikipedia at the same time.",
       "sources": [
-        "github",
-        "lemmy"
+        "steam",
+        "wikipedia",
+        "youtube"
       ],
-      "url": "https://github.com/alibaba/open-code-review",
+      "url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI",
       "kind": "cluster"
-    },
-    {
-      "title": "Universal XSS in uBlock Origin from website-driven element picker",
-      "gist": "A writeup of a universal cross-site-scripting hole in uBlock Origin's element picker, one a malicious page can trigger, is leading Hacker News with 233 points, a sharp bug because the extension runs on nearly every page its users load.",
-      "sources": [
-        "hackernews"
-      ],
-      "url": "https://iter.ca/post/ubo-uxss/",
-      "kind": "single"
     }
   ],
-  "strength": 73,
+  "strength": 100,
   "live_sources": 17,
   "total_sources": 17,
   "dashboard_url": "https://nnnsightnnn.github.io/web-pulse/",
