@@ -1,22 +1,13 @@
 {
-  "date": "2026-11-17",
-  "generated_at": "2026-11-17T06:17:36.805Z",
-  "lede": "Nvidia is the one story the feeds tell together today. The AI news wire opens on Jensen Huang's exit as Nvidia's CEO, several of its top headlines turning on who succeeds him, while Polymarket prices only an 11 percent chance he rejoins the company by December 31 and Wikipedia logs the interest. Away from that, Robert Pattinson led the encyclopedia with 1,363,657 views, about 2.5 times the runner-up, a magnitude 6.6 earthquake struck near Tual, Indonesia, and Counter-Strike 2 held 1,089,270 players on Steam.",
+  "date": "2026-11-18",
+  "generated_at": "2026-11-18T06:16:58.596Z",
+  "lede": "Jensen Huang's exit from Nvidia is the day's connective thread, surfacing at once on Bluesky, the AI news wire, Polymarket and Wikipedia. The board says it will not reinstate him, and traders price his return by year end at about 8 percent. Against that, Robert Pattinson quietly topped Wikipedia with 840,972 views, nearly double the second-place article, and nothing else in the day's feeds explains the surge.",
   "throughlines": [
     {
-      "title": "Robert Pattinson",
-      "gist": "Led Wikipedia by a wide margin and showed up on YouTube the same day, which pulled him across two unrelated feeds at once.",
-      "sources": [
-        "wikipedia",
-        "youtube"
-      ],
-      "url": "https://en.wikipedia.org/wiki/Robert_Pattinson",
-      "kind": "cluster"
-    },
-    {
       "title": "Will Jensen Huang rejoin NVIDIA by December 31, 2026?",
-      "gist": "The news wire is working through Nvidia's succession while the betting market puts his return by year end near 11 percent, a story now spanning news, markets, and the encyclopedia.",
+      "gist": "Four feeds converge on the same question after Nvidia's chief executive departed, whether Jensen Huang comes back, which Polymarket now prices at about 8 percent.",
       "sources": [
+        "bluesky",
         "gdelt-ai",
         "polymarket",
         "wikipedia"
@@ -25,14 +16,24 @@
       "kind": "cluster"
     },
     {
-      "title": "NBA 2K27 x GTA 6 (Grand Theft Auto 6) - Official Vice City Crossover Trailer",
-      "gist": "Anticipation for Grand Theft Auto VI surfaced on Steam, YouTube, and Wikipedia at the same time.",
+      "title": "Grand Theft Auto VI",
+      "gist": "The Grand Theft Auto franchise lands on three feeds at once, the unreleased sixth game leading Wikipedia while older titles hold places on Steam and YouTube.",
       "sources": [
         "steam",
         "wikipedia",
         "youtube"
       ],
       "url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI",
+      "kind": "cluster"
+    },
+    {
+      "title": "Will Mary Peltola win the Alaska Senate race in 2026?",
+      "gist": "Alaska's Senate race shows up on both Mastodon and Polymarket, where the market puts a Mary Peltola win at better than 99 percent as posts call it already closed.",
+      "sources": [
+        "mastodon-trending",
+        "polymarket"
+      ],
+      "url": "https://mastodon.social/@WarnerCrocker/117635325010179263",
       "kind": "cluster"
     }
   ],
