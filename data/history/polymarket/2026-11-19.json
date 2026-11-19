@@ -1,0 +1,331 @@
+{
+  "source": "polymarket",
+  "label": "Polymarket — top 24h volume",
+  "fetched_at": "2026-11-19T06:17:28.675Z",
+  "items": [
+    {
+      "rank": 1,
+      "title": "Will Anthropic's market cap be less than $1.25T at market close on IPO day?",
+      "url": "https://polymarket.com/event/anthropic-ipo-closing-market-cap-higher-strikes",
+      "volume_24h": 1178120.4333509998,
+      "volume_total": 3067300.278401,
+      "liquidity": 136014.68985,
+      "yes_price": 0.2795,
+      "leader": {
+        "name": "No",
+        "price": 0.7205
+      },
+      "end_date": "2028-01-01T04:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Will there be no change in Fed interest rates after the December 2026 meeting?",
+      "url": "https://polymarket.com/event/fed-decision-in-december-20260729232808632",
+      "volume_24h": 952197.497986,
+      "volume_total": 10172178.419243999,
+      "liquidity": 522320.78163,
+      "yes_price": 0.023,
+      "leader": {
+        "name": "No",
+        "price": 0.977
+      },
+      "end_date": "2026-12-09T23:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Will Tim Walz win the 2028 Democratic presidential nomination?",
+      "url": "https://polymarket.com/event/democratic-presidential-nominee-2028",
+      "volume_24h": 756204.4500000001,
+      "volume_total": 45159569.81515,
+      "liquidity": 1860777.27979,
+      "yes_price": 0.0005,
+      "leader": {
+        "name": "No",
+        "price": 0.9995
+      },
+      "end_date": "2028-11-08T04:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Will Jensen Huang rejoin NVIDIA by December 31, 2026?",
+      "url": "https://polymarket.com/event/jensen-huang-rejoins-nvidia-byptptpt",
+      "volume_24h": 603177.1311300001,
+      "volume_total": 3155076.0338649997,
+      "liquidity": 256700.91376,
+      "yes_price": 0.043,
+      "leader": {
+        "name": "No",
+        "price": 0.957
+      },
+      "end_date": "2027-01-01T04:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Will Fabien Roussel win the 2027 French presidential election?",
+      "url": "https://polymarket.com/event/next-french-presidential-election",
+      "volume_24h": 591521.06,
+      "volume_total": 4865712.241008,
+      "liquidity": 92898.70007,
+      "yes_price": 0.0005,
+      "leader": {
+        "name": "No",
+        "price": 0.9995
+      },
+      "end_date": "2027-04-19T03:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Will John Thune win the 2028 Republican presidential nomination?",
+      "url": "https://polymarket.com/event/republican-presidential-nominee-2028",
+      "volume_24h": 505050,
+      "volume_total": 39308641.415502004,
+      "liquidity": 1113099.73944,
+      "yes_price": 0.0005,
+      "leader": {
+        "name": "No",
+        "price": 0.9995
+      },
+      "end_date": "2028-11-08T04:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?",
+      "url": "https://polymarket.com/event/uefa-champions-league-2027-champion-20260701202025549",
+      "volume_24h": 422610.26,
+      "volume_total": 45822234.90530601,
+      "liquidity": 233208.18319,
+      "yes_price": 0.0015,
+      "leader": {
+        "name": "No",
+        "price": 0.9985
+      },
+      "end_date": "2027-05-30T23:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Israel x Iran ceasefire continues through November 22?",
+      "url": "https://polymarket.com/event/israel-x-iran-ceasefire-continues-throughptptpt-20260716224448963",
+      "volume_24h": 328916.10466899996,
+      "volume_total": 1560596.973627,
+      "liquidity": 43150.0475,
+      "yes_price": 0.93,
+      "leader": {
+        "name": "Yes",
+        "price": 0.93
+      },
+      "end_date": "2026-11-23T04:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Will there be no new be CEO of NVIDIA by December 31, 2028?",
+      "url": "https://polymarket.com/event/next-ceo-of-nvidia",
+      "volume_24h": 289412.081217,
+      "volume_total": 3697976.8316059997,
+      "liquidity": 260783.89747,
+      "yes_price": 0.108,
+      "leader": {
+        "name": "No",
+        "price": 0.892
+      },
+      "end_date": "2029-01-01T04:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Kobe: Yu-Hsiou Hsu vs Yi Zhou",
+      "url": "https://polymarket.com/event/atp-hsu-zhou-2026-11-18",
+      "volume_24h": 197123.97368099997,
+      "volume_total": 187091.547821,
+      "liquidity": 284218.89657,
+      "yes_price": 0.0005,
+      "leader": {
+        "name": "Yi Zhou",
+        "price": 0.9995
+      },
+      "end_date": "2026-11-26T02:00:00Z",
+      "outcomes": [
+        "Yu-Hsiou Hsu",
+        "Yi Zhou"
+      ]
+    },
+    {
+      "rank": 11,
+      "title": "Will Bitcoin reach $1,000,000 by December 31, 2026?",
+      "url": "https://polymarket.com/event/what-price-will-bitcoin-hit-before-2027",
+      "volume_24h": 195564.526,
+      "volume_total": 3720747.604897,
+      "liquidity": 370114.70596,
+      "yes_price": 0.0015,
+      "leader": {
+        "name": "No",
+        "price": 0.9985
+      },
+      "end_date": "2027-01-01T05:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 12,
+      "title": "Will the U.S. invade Iran before 2027?",
+      "url": "https://polymarket.com/event/will-the-us-invade-iran-before-2027",
+      "volume_24h": 190403.997586,
+      "volume_total": 80659774.28319404,
+      "liquidity": 247725.7382,
+      "yes_price": 0.065,
+      "leader": {
+        "name": "No",
+        "price": 0.935
+      },
+      "end_date": "2027-01-01T04:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 13,
+      "title": "Colts vs. Texans",
+      "url": "https://polymarket.com/event/nfl-ind-hou-2026-11-20",
+      "volume_24h": 189168.482859,
+      "volume_total": 220706.99931299998,
+      "liquidity": 470848.8426,
+      "yes_price": 0.155,
+      "leader": {
+        "name": "Texans",
+        "price": 0.845
+      },
+      "end_date": "2026-11-20T01:15:00Z",
+      "outcomes": [
+        "Colts",
+        "Texans"
+      ]
+    },
+    {
+      "rank": 14,
+      "title": "Will Anthropic announce bankruptcy by December 31, 2027?",
+      "url": "https://polymarket.com/event/anthropic-announces-bankruptcy-by",
+      "volume_24h": 181007.397192,
+      "volume_total": 2344214.211564,
+      "liquidity": 328955.3486,
+      "yes_price": 0.085,
+      "leader": {
+        "name": "No",
+        "price": 0.915
+      },
+      "end_date": "2028-01-01T04:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 15,
+      "title": "Will the US confirm that aliens exist before 2027?",
+      "url": "https://polymarket.com/event/will-the-us-confirm-that-aliens-exist-before-2027",
+      "volume_24h": 171881.43064500001,
+      "volume_total": 46826150.58681099,
+      "liquidity": 2799967.39854,
+      "yes_price": 0.0135,
+      "leader": {
+        "name": "No",
+        "price": 0.9865
+      },
+      "end_date": "2027-01-01T04:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 16,
+      "title": "GTA 6 launch postponed again?",
+      "url": "https://polymarket.com/event/gta-6-launch-postponed-again",
+      "volume_24h": 158630.24100500002,
+      "volume_total": 1500668.1486749998,
+      "liquidity": 59164.29088,
+      "yes_price": 0.0005,
+      "leader": {
+        "name": "No",
+        "price": 0.9995
+      },
+      "end_date": "2026-11-20T04:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 17,
+      "title": "Will Chiang Wan-an win the next Taipei Mayor election?",
+      "url": "https://polymarket.com/event/taipei-mayor-election-winner-20260813125857100",
+      "volume_24h": 125265.11992499999,
+      "volume_total": 2943918.8438629997,
+      "liquidity": 500369.2621,
+      "yes_price": 0.595,
+      "leader": {
+        "name": "Yes",
+        "price": 0.595
+      },
+      "end_date": "2026-11-29T04:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 18,
+      "title": "Variational FDV above $1B one day after launch?",
+      "url": "https://polymarket.com/event/variational-fdv-above-one-day-after-launch",
+      "volume_24h": 121799.41484000003,
+      "volume_total": 1193036.72563,
+      "liquidity": 62061.5841,
+      "yes_price": 0.68,
+      "leader": {
+        "name": "Yes",
+        "price": 0.68
+      },
+      "end_date": "2028-01-01T05:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    }
+  ]
+}

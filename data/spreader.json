@@ -1,23 +1,11 @@
 {
-  "date": "2026-11-18",
-  "generated_at": "2026-11-18T06:16:58.596Z",
-  "lede": "Jensen Huang's exit from Nvidia is the day's connective thread, surfacing at once on Bluesky, the AI news wire, Polymarket and Wikipedia. The board says it will not reinstate him, and traders price his return by year end at about 8 percent. Against that, Robert Pattinson quietly topped Wikipedia with 840,972 views, nearly double the second-place article, and nothing else in the day's feeds explains the surge.",
+  "date": "2026-11-19",
+  "generated_at": "2026-11-19T06:17:29.505Z",
+  "lede": "Grand Theft Auto VI owns the web today: it leads Wikipedia with 519,632 views, and a single first-play video on YouTube has pulled 11,352,352. The other cross-feed story is quieter and heavier, Nvidia learning to run without Jensen Huang, with wire coverage of his exit and a Polymarket contract on his return by year end sitting at a Yes price of just 0.043. On Hacker News the day belonged to security, where an unauthenticated remote code execution flaw in Nginx drew 1,262 points.",
   "throughlines": [
     {
-      "title": "Will Jensen Huang rejoin NVIDIA by December 31, 2026?",
-      "gist": "Four feeds converge on the same question after Nvidia's chief executive departed, whether Jensen Huang comes back, which Polymarket now prices at about 8 percent.",
-      "sources": [
-        "bluesky",
-        "gdelt-ai",
-        "polymarket",
-        "wikipedia"
-      ],
-      "url": "https://en.wikipedia.org/wiki/Jensen_Huang",
-      "kind": "cluster"
-    },
-    {
       "title": "Grand Theft Auto VI",
-      "gist": "The Grand Theft Auto franchise lands on three feeds at once, the unreleased sixth game leading Wikipedia while older titles hold places on Steam and YouTube.",
+      "gist": "Rockstar's sequel is the loudest signal on the web today, leading Wikipedia at 519,632 views while a first-play video clears 11 million on YouTube.",
       "sources": [
         "steam",
         "wikipedia",
@@ -27,14 +15,24 @@
       "kind": "cluster"
     },
     {
-      "title": "Will Mary Peltola win the Alaska Senate race in 2026?",
-      "gist": "Alaska's Senate race shows up on both Mastodon and Polymarket, where the market puts a Mary Peltola win at better than 99 percent as posts call it already closed.",
+      "title": "Will Jensen Huang rejoin NVIDIA by December 31, 2026?",
+      "gist": "Wire coverage of Huang's exit from Nvidia is moving markets and biography pages alike, yet bettors see almost no chance of a reversal, with his return priced at a Yes value of 0.043 on Polymarket.",
       "sources": [
-        "mastodon-trending",
-        "polymarket"
+        "gdelt-ai",
+        "polymarket",
+        "wikipedia"
       ],
-      "url": "https://mastodon.social/@WarnerCrocker/117635325010179263",
+      "url": "https://en.wikipedia.org/wiki/Jensen_Huang",
       "kind": "cluster"
+    },
+    {
+      "title": "cursor/plugins",
+      "gist": "Cursor's plugins repo is the fastest riser on GitHub, up 314 stars in a single day.",
+      "sources": [
+        "github"
+      ],
+      "url": "https://github.com/cursor/plugins",
+      "kind": "single"
     }
   ],
   "strength": 100,
