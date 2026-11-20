@@ -1,12 +1,13 @@
 {
-  "date": "2026-11-19",
-  "generated_at": "2026-11-19T06:17:29.505Z",
-  "lede": "Grand Theft Auto VI owns the web today: it leads Wikipedia with 519,632 views, and a single first-play video on YouTube has pulled 11,352,352. The other cross-feed story is quieter and heavier, Nvidia learning to run without Jensen Huang, with wire coverage of his exit and a Polymarket contract on his return by year end sitting at a Yes price of just 0.043. On Hacker News the day belonged to security, where an unauthenticated remote code execution flaw in Nginx drew 1,262 points.",
+  "date": "2026-11-20",
+  "generated_at": "2026-11-20T06:16:31.700Z",
+  "lede": "Grand Theft Auto VI has taken over the web, landing on four separate feeds at the same time. Its Wikipedia page drew 750,227 views, a MrBeast Gaming video titled I Survived 100 Hours In GTA 6 pulled 13,897,138 views on YouTube, the shitpost Grand task auto six climbed to 705 upvotes on Lemmy, and the franchise still holds two spots on Steam top sellers. The quieter story sits one layer down: a week after Jensen Huang exit from Nvidia, prediction markets give barely a one percent chance he rejoins by November 30, and the coverage has moved on to who replaces him.",
   "throughlines": [
     {
       "title": "Grand Theft Auto VI",
-      "gist": "Rockstar's sequel is the loudest signal on the web today, leading Wikipedia at 519,632 views while a first-play video clears 11 million on YouTube.",
+      "gist": "The year biggest game is everywhere at once: top of Wikipedia, all over YouTube, a hit post on Lemmy, and a fixture on Steam.",
       "sources": [
+        "lemmy",
         "steam",
         "wikipedia",
         "youtube"
@@ -15,24 +16,24 @@
       "kind": "cluster"
     },
     {
-      "title": "Will Jensen Huang rejoin NVIDIA by December 31, 2026?",
-      "gist": "Wire coverage of Huang's exit from Nvidia is moving markets and biography pages alike, yet bettors see almost no chance of a reversal, with his return priced at a Yes value of 0.043 on Polymarket.",
+      "title": "Will Jensen Huang rejoin NVIDIA by November 30, 2026?",
+      "gist": "After Huang departure, Nvidia succession is live on the AI news wire while traders put barely a one percent chance on his return this month.",
       "sources": [
         "gdelt-ai",
-        "polymarket",
-        "wikipedia"
+        "polymarket"
       ],
-      "url": "https://en.wikipedia.org/wiki/Jensen_Huang",
+      "url": "https://polymarket.com/event/jensen-huang-rejoins-nvidia-byptptpt",
       "kind": "cluster"
     },
     {
-      "title": "cursor/plugins",
-      "gist": "Cursor's plugins repo is the fastest riser on GitHub, up 314 stars in a single day.",
+      "title": "Lainey Wilson - Just A Woman (Live from \"The 60th Annual CMA Awards\")",
+      "gist": "Her CMA Awards performance is pulling double duty, lifting both her Wikipedia page and the official YouTube clip.",
       "sources": [
-        "github"
+        "wikipedia",
+        "youtube"
       ],
-      "url": "https://github.com/cursor/plugins",
-      "kind": "single"
+      "url": "https://en.wikipedia.org/wiki/Lainey_Wilson",
+      "kind": "cluster"
     }
   ],
   "strength": 100,
