@@ -1,38 +1,36 @@
 {
-  "date": "2026-11-20",
-  "generated_at": "2026-11-20T06:16:31.700Z",
-  "lede": "Grand Theft Auto VI has taken over the web, landing on four separate feeds at the same time. Its Wikipedia page drew 750,227 views, a MrBeast Gaming video titled I Survived 100 Hours In GTA 6 pulled 13,897,138 views on YouTube, the shitpost Grand task auto six climbed to 705 upvotes on Lemmy, and the franchise still holds two spots on Steam top sellers. The quieter story sits one layer down: a week after Jensen Huang exit from Nvidia, prediction markets give barely a one percent chance he rejoins by November 30, and the coverage has moved on to who replaces him.",
+  "date": "2026-11-21",
+  "generated_at": "2026-11-21T06:16:38.160Z",
+  "lede": "The headline today was mathematical: a claimed proof of the Generalized Riemann Hypothesis drew 2,499 points on Hacker News, and the Riemann hypothesis itself pulled 295,157 views on Wikipedia. The day's single biggest draw was Grand Theft Auto VI, topping Wikipedia at 540,793 views. Meanwhile an AI driven sell-off pushed the S&P 500 into a correction.",
   "throughlines": [
     {
-      "title": "Grand Theft Auto VI",
-      "gist": "The year biggest game is everywhere at once: top of Wikipedia, all over YouTube, a hit post on Lemmy, and a fixture on Steam.",
+      "title": "thinkingmachines/Inkling-2-Mini",
+      "gist": "Thinking Machines' Inkling 2 Mini surfaced on both Hacker News and Hugging Face at once, a compact model pulling developer attention across the discussion board and the model hub.",
       "sources": [
-        "lemmy",
+        "hackernews",
+        "huggingface"
+      ],
+      "url": "https://news.ycombinator.com/item?id=50581260",
+      "kind": "cluster"
+    },
+    {
+      "title": "Grand Theft Auto VI",
+      "gist": "Grand Theft Auto VI led Wikipedia at 540,793 views while the Grand Theft Auto series held near the top of Steam's live player counts, a reminder that one franchise can carry both an encyclopedia and a storefront on the same day.",
+      "sources": [
         "steam",
-        "wikipedia",
-        "youtube"
+        "wikipedia"
       ],
       "url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI",
       "kind": "cluster"
     },
     {
-      "title": "Will Jensen Huang rejoin NVIDIA by November 30, 2026?",
-      "gist": "After Huang departure, Nvidia succession is live on the AI news wire while traders put barely a one percent chance on his return this month.",
+      "title": "Riemann hypothesis",
+      "gist": "A claimed proof of the Generalized Riemann Hypothesis sent readers to both Hacker News and Wikipedia, where the Riemann hypothesis drew 295,157 views, rare company for a math problem first posed in 1859.",
       "sources": [
-        "gdelt-ai",
-        "polymarket"
+        "hackernews",
+        "wikipedia"
       ],
-      "url": "https://polymarket.com/event/jensen-huang-rejoins-nvidia-byptptpt",
-      "kind": "cluster"
-    },
-    {
-      "title": "Lainey Wilson - Just A Woman (Live from \"The 60th Annual CMA Awards\")",
-      "gist": "Her CMA Awards performance is pulling double duty, lifting both her Wikipedia page and the official YouTube clip.",
-      "sources": [
-        "wikipedia",
-        "youtube"
-      ],
-      "url": "https://en.wikipedia.org/wiki/Lainey_Wilson",
+      "url": "https://en.wikipedia.org/wiki/Riemann_hypothesis",
       "kind": "cluster"
     }
   ],
