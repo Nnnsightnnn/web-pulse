@@ -1,0 +1,457 @@
+{
+  "source": "polymarket",
+  "label": "Polymarket — top 24h volume",
+  "fetched_at": "2026-11-22T06:15:37.949Z",
+  "items": [
+    {
+      "rank": 1,
+      "title": "Oklahoma State vs. Arizona State",
+      "url": "https://polymarket.com/event/cfb-okst-arzst-2026-11-21",
+      "volume_24h": 1903669.5737,
+      "volume_total": 1729177.0478330003,
+      "liquidity": 209781.8849,
+      "yes_price": 0.325,
+      "leader": {
+        "name": "Arizona State",
+        "price": 0.675
+      },
+      "end_date": "2026-11-22T03:15:00Z",
+      "outcomes": [
+        "Oklahoma State",
+        "Arizona State"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Will the Fed decrease interest rates by 25 bps after the December 2026 meeting?",
+      "url": "https://polymarket.com/event/fed-decision-in-december-20260729232808632",
+      "volume_24h": 616053.825877,
+      "volume_total": 8858942.934447002,
+      "liquidity": 260428.29887,
+      "yes_price": 0.0085,
+      "leader": {
+        "name": "No",
+        "price": 0.9915
+      },
+      "end_date": "2026-12-09T23:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "San Diego State vs. Boise State",
+      "url": "https://polymarket.com/event/cfb-sdst-boise-2026-11-21",
+      "volume_24h": 607885.5783359996,
+      "volume_total": 592002.3636490001,
+      "liquidity": 639580.5404,
+      "yes_price": 0.9995,
+      "leader": {
+        "name": "San Diego State",
+        "price": 0.9995
+      },
+      "end_date": "2026-11-22T02:30:00Z",
+      "outcomes": [
+        "San Diego State",
+        "Boise State"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?",
+      "url": "https://polymarket.com/event/uefa-champions-league-2027-champion-20260701202025549",
+      "volume_24h": 421109,
+      "volume_total": 46670971.235306,
+      "liquidity": 569511.92984,
+      "yes_price": 0.0015,
+      "leader": {
+        "name": "No",
+        "price": 0.9985
+      },
+      "end_date": "2027-05-30T23:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Israel x Iran ceasefire continues through November 22?",
+      "url": "https://polymarket.com/event/israel-x-iran-ceasefire-continues-throughptptpt-20260716224448963",
+      "volume_24h": 387388.150816,
+      "volume_total": 2953926.5955320005,
+      "liquidity": 47844.44171,
+      "yes_price": 0.988,
+      "leader": {
+        "name": "Yes",
+        "price": 0.988
+      },
+      "end_date": "2026-11-23T04:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Will Josh Hawley win the 2028 Republican presidential nomination?",
+      "url": "https://polymarket.com/event/republican-presidential-nominee-2028",
+      "volume_24h": 379023.03,
+      "volume_total": 21127128.691412,
+      "liquidity": 150309.55944,
+      "yes_price": 0.014,
+      "leader": {
+        "name": "No",
+        "price": 0.986
+      },
+      "end_date": "2028-11-08T04:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Will CF América win on 2026-11-21?",
+      "url": "https://polymarket.com/event/mex-tig-ame-2026-11-21",
+      "volume_24h": 250687.89526199998,
+      "volume_total": 251303.73051199995,
+      "liquidity": 178238.93604,
+      "yes_price": 0.0005,
+      "leader": {
+        "name": "No",
+        "price": 0.9995
+      },
+      "end_date": "2026-11-22T03:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Will \"Mo Bamba\" by Sheck Wes be on the radio in GTA VI at launch?",
+      "url": "https://polymarket.com/event/songs-on-gta-vi-radio-at-launch",
+      "volume_24h": 242568.97212400002,
+      "volume_total": 266954.55642000004,
+      "liquidity": 39031.17261,
+      "yes_price": 0.978,
+      "leader": {
+        "name": "Yes",
+        "price": 0.978
+      },
+      "end_date": "2026-12-04T04:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Hawai'i vs. Nevada",
+      "url": "https://polymarket.com/event/cfb-hawaii-nevada-2026-11-21",
+      "volume_24h": 202352.826856,
+      "volume_total": 200944.98699600002,
+      "liquidity": 190999.0173,
+      "yes_price": 0.035,
+      "leader": {
+        "name": "Nevada",
+        "price": 0.965
+      },
+      "end_date": "2026-11-22T03:30:00Z",
+      "outcomes": [
+        "Hawai'i",
+        "Nevada"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Will Bitcoin dip to $47,500 in November?",
+      "url": "https://polymarket.com/event/what-price-will-bitcoin-hit-in-november-2026",
+      "volume_24h": 170079.94622999997,
+      "volume_total": 222652.462969,
+      "liquidity": 92712.53174,
+      "yes_price": 0.094,
+      "leader": {
+        "name": "No",
+        "price": 0.906
+      },
+      "end_date": "2026-12-01T05:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 11,
+      "title": "Will Bitcoin dip to $50,000 by December 31, 2026?",
+      "url": "https://polymarket.com/event/what-price-will-bitcoin-hit-before-2027",
+      "volume_24h": 169614.85329899998,
+      "volume_total": 6795188.953915,
+      "liquidity": 95478.65955,
+      "yes_price": 0.3985,
+      "leader": {
+        "name": "No",
+        "price": 0.6015
+      },
+      "end_date": "2027-01-01T05:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 12,
+      "title": "Will Kimi Antonelli win the 2026 F1 Las Vegas Grand Prix?",
+      "url": "https://polymarket.com/event/f1-las-vegas-grand-prix-winner-2026-11-21",
+      "volume_24h": 169401.733586,
+      "volume_total": 186682.742901,
+      "liquidity": 11342.13266,
+      "yes_price": 0.001,
+      "leader": {
+        "name": "No",
+        "price": 0.999
+      },
+      "end_date": "2026-11-29T04:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 13,
+      "title": "Will Teddy Riner win the 2027 French presidential election?",
+      "url": "https://polymarket.com/event/next-french-presidential-election",
+      "volume_24h": 164000.07,
+      "volume_total": 1341001.191602,
+      "liquidity": 345720.94871,
+      "yes_price": 0.0095,
+      "leader": {
+        "name": "No",
+        "price": 0.9905
+      },
+      "end_date": "2027-04-19T03:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 14,
+      "title": "Spread: Villarreal CF (-1.5)",
+      "url": "https://polymarket.com/event/lal-bar-vil-2026-11-22-more-markets",
+      "volume_24h": 162486.289129,
+      "volume_total": 162495.518079,
+      "liquidity": 18657.11616,
+      "yes_price": 0.017,
+      "leader": {
+        "name": "FC Barcelona",
+        "price": 0.983
+      },
+      "end_date": "2026-11-22T13:00:00Z",
+      "outcomes": [
+        "Villarreal CF",
+        "FC Barcelona"
+      ]
+    },
+    {
+      "rank": 15,
+      "title": "Will Club Atlético de Madrid win on 2026-11-22?",
+      "url": "https://polymarket.com/event/lal-get-mad-2026-11-22",
+      "volume_24h": 156962.59418999997,
+      "volume_total": 158939.116032,
+      "liquidity": 161491.3266,
+      "yes_price": 0.635,
+      "leader": {
+        "name": "Yes",
+        "price": 0.635
+      },
+      "end_date": "2026-11-22T20:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 16,
+      "title": "Will Marco Rubio win the 2028 US Presidential Election?",
+      "url": "https://polymarket.com/event/presidential-election-winner-2028",
+      "volume_24h": 154965.22970800003,
+      "volume_total": 13991917.727906004,
+      "liquidity": 359351.1269,
+      "yes_price": 0.0805,
+      "leader": {
+        "name": "No",
+        "price": 0.9195
+      },
+      "end_date": "2028-11-08T04:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 17,
+      "title": "Will Jensen Huang rejoin NVIDIA by December 31, 2026?",
+      "url": "https://polymarket.com/event/jensen-huang-rejoins-nvidia-byptptpt",
+      "volume_24h": 136744.61317700002,
+      "volume_total": 3707533.719489999,
+      "liquidity": 186090.71223,
+      "yes_price": 0.0625,
+      "leader": {
+        "name": "No",
+        "price": 0.9375
+      },
+      "end_date": "2027-01-01T04:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 18,
+      "title": "Will Bitcoin dip to $50,000 November 16-22?",
+      "url": "https://polymarket.com/event/what-price-will-bitcoin-hit-november-16-22-2026",
+      "volume_24h": 136016.535637,
+      "volume_total": 271068.268084,
+      "liquidity": 55635.38901,
+      "yes_price": 0.012,
+      "leader": {
+        "name": "No",
+        "price": 0.988
+      },
+      "end_date": "2026-11-23T05:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 19,
+      "title": "Will Kamala Harris win the 2028 Democratic presidential nomination?",
+      "url": "https://polymarket.com/event/democratic-presidential-nominee-2028",
+      "volume_24h": 126298.50558499998,
+      "volume_total": 15108935.906488,
+      "liquidity": 306579.46088,
+      "yes_price": 0.0415,
+      "leader": {
+        "name": "No",
+        "price": 0.9585
+      },
+      "end_date": "2028-11-08T04:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 20,
+      "title": "Will Leeds United win the 2026-27 English Premier League (EPL) Championship?",
+      "url": "https://polymarket.com/event/epl-2027-champion-20260701200428749",
+      "volume_24h": 123248.801,
+      "volume_total": 1423610.9094349996,
+      "liquidity": 768704.56013,
+      "yes_price": 0.0015,
+      "leader": {
+        "name": "No",
+        "price": 0.9985
+      },
+      "end_date": "2027-05-30T23:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 21,
+      "title": "Will China invade Taiwan by end of 2026?",
+      "url": "https://polymarket.com/event/will-china-invade-taiwan-before-2027",
+      "volume_24h": 115291.587498,
+      "volume_total": 47410186.801392004,
+      "liquidity": 272444.58997,
+      "yes_price": 0.0145,
+      "leader": {
+        "name": "No",
+        "price": 0.9855
+      },
+      "end_date": "2027-01-01T04:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 22,
+      "title": "Utah State vs. Oregon State",
+      "url": "https://polymarket.com/event/cfb-utahst-oregst-2026-11-21",
+      "volume_24h": 112323.72482499998,
+      "volume_total": 108514.71682899998,
+      "liquidity": 47997.3856,
+      "yes_price": 0.485,
+      "leader": {
+        "name": "Oregon State",
+        "price": 0.515
+      },
+      "end_date": "2026-11-22T03:30:00Z",
+      "outcomes": [
+        "Utah State",
+        "Oregon State"
+      ]
+    },
+    {
+      "rank": 23,
+      "title": "Will CA Paranaense vs. Clube do Remo end in a draw?",
+      "url": "https://polymarket.com/event/bra-cap-cre-2026-11-22",
+      "volume_24h": 103254.328495,
+      "volume_total": 103263.563246,
+      "liquidity": 47612.1829,
+      "yes_price": 0.225,
+      "leader": {
+        "name": "No",
+        "price": 0.775
+      },
+      "end_date": "2026-11-22T19:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 24,
+      "title": "AI bubble burst in 2026?",
+      "url": "https://polymarket.com/event/ai-bubble-burst-by",
+      "volume_24h": 100587.84854500002,
+      "volume_total": 3455843.280217001,
+      "liquidity": 30991.85069,
+      "yes_price": 0.619,
+      "leader": {
+        "name": "Yes",
+        "price": 0.619
+      },
+      "end_date": "2027-01-01T04:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "rank": 25,
+      "title": "Will the U.S. invade Iran before 2027?",
+      "url": "https://polymarket.com/event/will-the-us-invade-iran-before-2027",
+      "volume_24h": 96066.737116,
+      "volume_total": 81051376.56528,
+      "liquidity": 318705.847,
+      "yes_price": 0.075,
+      "leader": {
+        "name": "No",
+        "price": 0.925
+      },
+      "end_date": "2027-01-01T04:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ]
+    }
+  ]
+}

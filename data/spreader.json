@@ -1,21 +1,21 @@
 {
-  "date": "2026-11-21",
-  "generated_at": "2026-11-21T06:16:38.160Z",
-  "lede": "The headline today was mathematical: a claimed proof of the Generalized Riemann Hypothesis drew 2,499 points on Hacker News, and the Riemann hypothesis itself pulled 295,157 views on Wikipedia. The day's single biggest draw was Grand Theft Auto VI, topping Wikipedia at 540,793 views. Meanwhile an AI driven sell-off pushed the S&P 500 into a correction.",
+  "date": "2026-11-22",
+  "generated_at": "2026-11-22T06:16:22.758Z",
+  "lede": "Two subjects crowded several feeds at once. Grand Theft Auto VI led Wikipedia with 393,338 views, just 5,050 ahead of the Riemann hypothesis, which also drew 938 points on Hacker News and a wire claim that Claude helped prove it. Little else rose above the usual hum.",
   "throughlines": [
     {
       "title": "thinkingmachines/Inkling-2-Mini",
-      "gist": "Thinking Machines' Inkling 2 Mini surfaced on both Hacker News and Hugging Face at once, a compact model pulling developer attention across the discussion board and the model hub.",
+      "gist": "A compact open model from Thinking Machines that runs in 5.4 GB of memory, sitting top of HuggingFace and climbing Hacker News, a nudge toward models small enough to run on your own machine.",
       "sources": [
         "hackernews",
         "huggingface"
       ],
-      "url": "https://news.ycombinator.com/item?id=50581260",
+      "url": "https://news.ycombinator.com/item?id=50591853",
       "kind": "cluster"
     },
     {
       "title": "Grand Theft Auto VI",
-      "gist": "Grand Theft Auto VI led Wikipedia at 540,793 views while the Grand Theft Auto series held near the top of Steam's live player counts, a reminder that one franchise can carry both an encyclopedia and a storefront on the same day.",
+      "gist": "Rockstar's long-delayed sequel was the day's single biggest draw, leading Wikipedia with 393,338 views while the Grand Theft Auto name also surfaced on Steam's charts.",
       "sources": [
         "steam",
         "wikipedia"
@@ -25,7 +25,7 @@
     },
     {
       "title": "Riemann hypothesis",
-      "gist": "A claimed proof of the Generalized Riemann Hypothesis sent readers to both Hacker News and Wikipedia, where the Riemann hypothesis drew 295,157 views, rare company for a math problem first posed in 1859.",
+      "gist": "A 167-year-old math problem pulled 388,288 Wikipedia views and 938 points on Hacker News for a Lean proof verification, after a wire report that an Anthropic mathematician used Claude to help crack it.",
       "sources": [
         "hackernews",
         "wikipedia"
