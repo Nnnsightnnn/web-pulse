@@ -1,0 +1,35 @@
+{
+  "id": "florida-flash-flooding",
+  "name": "florida flash flooding",
+  "aliases": [
+    "florida flash flooding"
+  ],
+  "first_seen": "2026-11-20",
+  "last_seen": "2026-11-20",
+  "days_seen": 1,
+  "phase": "fading",
+  "sources_seen": [
+    "google-trends"
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-20",
+      "sources": [
+        "google-trends"
+      ],
+      "signal": 0.2,
+      "items": [
+        {
+          "source": "google-trends",
+          "title": "florida flash flooding",
+          "url": "https://www.nytimes.com/2026/11/19/weather/florida-floods-rain-closures-evacuations.html",
+          "rank": 4,
+          "movement": "new"
+        }
+      ]
+    }
+  ],
+  "explainer": null,
+  "explainer_history": [],
+  "needs_research": false
+}

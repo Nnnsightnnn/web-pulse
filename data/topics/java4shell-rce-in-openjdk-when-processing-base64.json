@@ -1,0 +1,35 @@
+{
+  "id": "java4shell-rce-in-openjdk-when-processing-base64",
+  "name": "Java4Shell: RCE in OpenJDK when processing Base64",
+  "aliases": [
+    "Java4Shell: RCE in OpenJDK when processing Base64"
+  ],
+  "first_seen": "2026-11-18",
+  "last_seen": "2026-11-18",
+  "days_seen": 1,
+  "phase": "closed",
+  "sources_seen": [
+    "hackernews"
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-18",
+      "sources": [
+        "hackernews"
+      ],
+      "signal": 0.8,
+      "items": [
+        {
+          "source": "hackernews",
+          "title": "Java4Shell: RCE in OpenJDK when processing Base64",
+          "url": "https://news.ycombinator.com/item?id=50538240",
+          "rank": 1,
+          "movement": "new"
+        }
+      ]
+    }
+  ],
+  "explainer": null,
+  "explainer_history": [],
+  "needs_research": false
+}

@@ -1,0 +1,35 @@
+{
+  "id": "apple-capped-engineers-at-a-200-daily-ai-budget",
+  "name": "Apple capped engineers at a $200 daily AI budget",
+  "aliases": [
+    "Apple capped engineers at a $200 daily AI budget"
+  ],
+  "first_seen": "2026-11-09",
+  "last_seen": "2026-11-09",
+  "days_seen": 1,
+  "phase": "closed",
+  "sources_seen": [
+    "hackernews"
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-09",
+      "sources": [
+        "hackernews"
+      ],
+      "signal": 0.26666666666666666,
+      "items": [
+        {
+          "source": "hackernews",
+          "title": "Apple capped engineers at a $200 daily AI budget",
+          "url": "https://news.ycombinator.com/item?id=50421426",
+          "rank": 3,
+          "movement": "new"
+        }
+      ]
+    }
+  ],
+  "explainer": null,
+  "explainer_history": [],
+  "needs_research": false
+}

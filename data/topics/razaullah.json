@@ -1,0 +1,35 @@
+{
+  "id": "razaullah",
+  "name": "razaullah",
+  "aliases": [
+    "razaullah"
+  ],
+  "first_seen": "2026-11-12",
+  "last_seen": "2026-11-12",
+  "days_seen": 1,
+  "phase": "closed",
+  "sources_seen": [
+    "google-trends"
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-12",
+      "sources": [
+        "google-trends"
+      ],
+      "signal": 0.2,
+      "items": [
+        {
+          "source": "google-trends",
+          "title": "razaullah",
+          "url": null,
+          "rank": 4,
+          "movement": "new"
+        }
+      ]
+    }
+  ],
+  "explainer": null,
+  "explainer_history": [],
+  "needs_research": false
+}

@@ -1,0 +1,35 @@
+{
+  "id": "multiple-vulnerabilities-in-regexp-and-string-case-conversio",
+  "name": "Multiple vulnerabilities in Regexp and String case conversion",
+  "aliases": [
+    "Multiple vulnerabilities in Regexp and String case conversion"
+  ],
+  "first_seen": "2026-11-19",
+  "last_seen": "2026-11-19",
+  "days_seen": 1,
+  "phase": "fading",
+  "sources_seen": [
+    "hackernews"
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-19",
+      "sources": [
+        "hackernews"
+      ],
+      "signal": 0.26666666666666666,
+      "items": [
+        {
+          "source": "hackernews",
+          "title": "Multiple vulnerabilities in Regexp and String case conversion",
+          "url": "https://news.ycombinator.com/item?id=50554038",
+          "rank": 3,
+          "movement": "new"
+        }
+      ]
+    }
+  ],
+  "explainer": null,
+  "explainer_history": [],
+  "needs_research": false
+}

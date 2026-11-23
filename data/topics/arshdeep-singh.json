@@ -1,0 +1,35 @@
+{
+  "id": "arshdeep-singh",
+  "name": "arshdeep singh",
+  "aliases": [
+    "arshdeep singh"
+  ],
+  "first_seen": "2026-11-15",
+  "last_seen": "2026-11-15",
+  "days_seen": 1,
+  "phase": "closed",
+  "sources_seen": [
+    "google-trends"
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-15",
+      "sources": [
+        "google-trends"
+      ],
+      "signal": 0.8,
+      "items": [
+        {
+          "source": "google-trends",
+          "title": "arshdeep singh",
+          "url": "https://www.cricbuzz.com/player-match-performance/match/161282/player/8554/bowling?inningsId=1",
+          "rank": 1,
+          "movement": "new"
+        }
+      ]
+    }
+  ],
+  "explainer": null,
+  "explainer_history": [],
+  "needs_research": false
+}

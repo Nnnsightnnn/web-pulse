@@ -1,0 +1,35 @@
+{
+  "id": "id-me-terms-required-for-irs-sign-in",
+  "name": "ID.me terms required for IRS sign-in",
+  "aliases": [
+    "ID.me terms required for IRS sign-in"
+  ],
+  "first_seen": "2026-11-18",
+  "last_seen": "2026-11-18",
+  "days_seen": 1,
+  "phase": "closed",
+  "sources_seen": [
+    "hackernews"
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-18",
+      "sources": [
+        "hackernews"
+      ],
+      "signal": 0.4,
+      "items": [
+        {
+          "source": "hackernews",
+          "title": "ID.me terms required for IRS sign-in",
+          "url": "https://news.ycombinator.com/item?id=50540437",
+          "rank": 2,
+          "movement": "new"
+        }
+      ]
+    }
+  ],
+  "explainer": null,
+  "explainer_history": [],
+  "needs_research": false
+}

@@ -1,0 +1,67 @@
+{
+  "id": "the-body-tv-series",
+  "name": "The Body (TV series)",
+  "aliases": [
+    "The Body (TV series)"
+  ],
+  "first_seen": "2026-11-17",
+  "last_seen": "2026-11-19",
+  "days_seen": 3,
+  "phase": "fading",
+  "sources_seen": [
+    "wikipedia"
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-17",
+      "sources": [
+        "wikipedia"
+      ],
+      "signal": 0.08,
+      "items": [
+        {
+          "source": "wikipedia",
+          "title": "The Body (TV series)",
+          "url": "https://en.wikipedia.org/wiki/The_Body_(TV_series)",
+          "rank": 10,
+          "movement": "climbing"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-18",
+      "sources": [
+        "wikipedia"
+      ],
+      "signal": 0.08888888888888889,
+      "items": [
+        {
+          "source": "wikipedia",
+          "title": "The Body (TV series)",
+          "url": "https://en.wikipedia.org/wiki/The_Body_(TV_series)",
+          "rank": 9,
+          "movement": "holding"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-19",
+      "sources": [
+        "wikipedia"
+      ],
+      "signal": 0.08,
+      "items": [
+        {
+          "source": "wikipedia",
+          "title": "The Body (TV series)",
+          "url": "https://en.wikipedia.org/wiki/The_Body_(TV_series)",
+          "rank": 10,
+          "movement": "holding"
+        }
+      ]
+    }
+  ],
+  "explainer": null,
+  "explainer_history": [],
+  "needs_research": false
+}

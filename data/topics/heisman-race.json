@@ -1,0 +1,35 @@
+{
+  "id": "heisman-race",
+  "name": "heisman race",
+  "aliases": [
+    "heisman race"
+  ],
+  "first_seen": "2026-11-22",
+  "last_seen": "2026-11-22",
+  "days_seen": 1,
+  "phase": "new",
+  "sources_seen": [
+    "google-trends"
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-22",
+      "sources": [
+        "google-trends"
+      ],
+      "signal": 0.16,
+      "items": [
+        {
+          "source": "google-trends",
+          "title": "heisman race",
+          "url": "https://sports.yahoo.com/college-football/breaking-news/article/jeremiah-smith-becomes-an-even-bigger-heisman-favorite-with-2-td-performance-against-nebraska-203827233.html",
+          "rank": 5,
+          "movement": "new"
+        }
+      ]
+    }
+  ],
+  "explainer": null,
+  "explainer_history": [],
+  "needs_research": false
+}

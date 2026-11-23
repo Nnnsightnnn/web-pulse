@@ -1,0 +1,60 @@
+{
+  "id": "screen-studio-4-0",
+  "name": "Screen Studio 4.0",
+  "aliases": [
+    "Screen Studio 4.0"
+  ],
+  "first_seen": "2026-11-18",
+  "last_seen": "2026-11-18",
+  "days_seen": 1,
+  "phase": "closed",
+  "sources_seen": [
+    "hackernews",
+    "product-hunt",
+    "stackoverflow"
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-18",
+      "sources": [
+        "hackernews",
+        "product-hunt",
+        "stackoverflow"
+      ],
+      "signal": 0.4452704158586511,
+      "items": [
+        {
+          "source": "hackernews",
+          "title": "jQuery 4.1.0",
+          "url": "https://news.ycombinator.com/item?id=50537156",
+          "rank": 13,
+          "movement": "new"
+        },
+        {
+          "source": "product-hunt",
+          "title": "Screen Studio 4.0",
+          "url": "https://www.producthunt.com/products/screen-studio/launches/screen-studio-4-0?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+web-pulse+%28ID%3A+282925%29",
+          "rank": 6,
+          "movement": "holding"
+        },
+        {
+          "source": "product-hunt",
+          "title": "TheySaid 4.0",
+          "url": "https://www.producthunt.com/products/theysaid/launches/theysaid-4-0?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+web-pulse+%28ID%3A+282925%29",
+          "rank": 17,
+          "movement": "holding"
+        },
+        {
+          "source": "stackoverflow",
+          "title": "I would like to know how to tween a float from 0 to 1",
+          "url": "https://stackoverflow.com/questions/80017309/i-would-like-to-know-how-to-tween-a-float-from-0-to-1",
+          "rank": 7,
+          "movement": "new"
+        }
+      ]
+    }
+  ],
+  "explainer": null,
+  "explainer_history": [],
+  "needs_research": false
+}

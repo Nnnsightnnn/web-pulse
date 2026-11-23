@@ -1,0 +1,35 @@
+{
+  "id": "faa-issues-national-ground-stop-lifted-4-5-hours-later",
+  "name": "FAA issues national ground stop – lifted 4.5 hours later",
+  "aliases": [
+    "FAA issues national ground stop – lifted 4.5 hours later"
+  ],
+  "first_seen": "2026-11-14",
+  "last_seen": "2026-11-14",
+  "days_seen": 1,
+  "phase": "closed",
+  "sources_seen": [
+    "hackernews"
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-14",
+      "sources": [
+        "hackernews"
+      ],
+      "signal": 0.26666666666666666,
+      "items": [
+        {
+          "source": "hackernews",
+          "title": "FAA issues national ground stop – lifted 4.5 hours later",
+          "url": "https://news.ycombinator.com/item?id=50489641",
+          "rank": 3,
+          "movement": "new"
+        }
+      ]
+    }
+  ],
+  "explainer": null,
+  "explainer_history": [],
+  "needs_research": false
+}

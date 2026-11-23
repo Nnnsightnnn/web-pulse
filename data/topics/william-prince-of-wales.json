@@ -1,0 +1,35 @@
+{
+  "id": "william-prince-of-wales",
+  "name": "william, prince of wales",
+  "aliases": [
+    "william, prince of wales"
+  ],
+  "first_seen": "2026-11-09",
+  "last_seen": "2026-11-09",
+  "days_seen": 1,
+  "phase": "closed",
+  "sources_seen": [
+    "google-trends"
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-09",
+      "sources": [
+        "google-trends"
+      ],
+      "signal": 0.4,
+      "items": [
+        {
+          "source": "google-trends",
+          "title": "william, prince of wales",
+          "url": "https://www.bbc.co.uk/news/articles/cqy8l0gyvvv2o",
+          "rank": 2,
+          "movement": "new"
+        }
+      ]
+    }
+  ],
+  "explainer": null,
+  "explainer_history": [],
+  "needs_research": false
+}

@@ -1,0 +1,104 @@
+{
+  "id": "thinkingmachines-inkling-2-mini",
+  "name": "thinkingmachines/Inkling-2-Mini",
+  "aliases": [
+    "thinkingmachines/Inkling-2-Mini",
+    "Inkling 2 Mini"
+  ],
+  "first_seen": "2026-11-21",
+  "last_seen": "2026-11-22",
+  "days_seen": 2,
+  "phase": "holding",
+  "sources_seen": [
+    "hackernews",
+    "huggingface"
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-21",
+      "sources": [
+        "hackernews",
+        "huggingface"
+      ],
+      "signal": 1.8416666666666666,
+      "items": [
+        {
+          "source": "hackernews",
+          "title": "Inkling 2 Mini",
+          "url": "https://news.ycombinator.com/item?id=50581260",
+          "rank": 3,
+          "movement": "new"
+        },
+        {
+          "source": "huggingface",
+          "title": "thinkingmachines/Inkling-2-Mini",
+          "url": "https://huggingface.co/thinkingmachines/Inkling-2-Mini",
+          "rank": 1,
+          "movement": "new"
+        },
+        {
+          "source": "huggingface",
+          "title": "unsloth/Inkling-2-Mini-GGUF",
+          "url": "https://huggingface.co/unsloth/Inkling-2-Mini-GGUF",
+          "rank": 5,
+          "movement": "new"
+        },
+        {
+          "source": "huggingface",
+          "title": "thinkingmachines/Inkling-2-Small",
+          "url": "https://huggingface.co/thinkingmachines/Inkling-2-Small",
+          "rank": 24,
+          "movement": "falling"
+        },
+        {
+          "source": "hackernews",
+          "title": "Inkling 2 Mini",
+          "url": "https://news.ycombinator.com/item?id=50581260",
+          "rank": 3,
+          "movement": "new"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-22",
+      "sources": [
+        "hackernews",
+        "huggingface"
+      ],
+      "signal": 1.7833333333333332,
+      "items": [
+        {
+          "source": "hackernews",
+          "title": "Inkling-2-Mini in 5.4 GB Memory",
+          "url": "https://news.ycombinator.com/item?id=50591853",
+          "rank": 5,
+          "movement": "new"
+        },
+        {
+          "source": "huggingface",
+          "title": "thinkingmachines/Inkling-2-Mini",
+          "url": "https://huggingface.co/thinkingmachines/Inkling-2-Mini",
+          "rank": 1,
+          "movement": "holding"
+        },
+        {
+          "source": "huggingface",
+          "title": "unsloth/Inkling-2-Mini-GGUF",
+          "url": "https://huggingface.co/unsloth/Inkling-2-Mini-GGUF",
+          "rank": 2,
+          "movement": "climbing"
+        },
+        {
+          "source": "huggingface",
+          "title": "AtomicChat/Inkling-2-Mini-Uncensored-GGUF",
+          "url": "https://huggingface.co/AtomicChat/Inkling-2-Mini-Uncensored-GGUF",
+          "rank": 12,
+          "movement": "new"
+        }
+      ]
+    }
+  ],
+  "explainer": null,
+  "explainer_history": [],
+  "needs_research": true
+}

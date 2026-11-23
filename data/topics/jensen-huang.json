@@ -1,0 +1,351 @@
+{
+  "id": "jensen-huang",
+  "name": "Jensen Huang",
+  "aliases": [
+    "Jensen Huang",
+    "Jensen Huang resigns"
+  ],
+  "first_seen": "2026-11-10",
+  "last_seen": "2026-11-19",
+  "days_seen": 10,
+  "phase": "fading",
+  "sources_seen": [
+    "gdelt-ai",
+    "hackernews",
+    "lemmy",
+    "polymarket",
+    "wikipedia"
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-10",
+      "sources": [
+        "polymarket",
+        "wikipedia"
+      ],
+      "signal": 0.6173913043478261,
+      "items": [
+        {
+          "source": "polymarket",
+          "title": "Jensen Huang divorce by December 31, 2026?",
+          "url": "https://polymarket.com/event/jensen-huang-divorce-in-2026",
+          "rank": 23,
+          "movement": "new"
+        },
+        {
+          "source": "wikipedia",
+          "title": "Jensen Huang",
+          "url": "https://en.wikipedia.org/wiki/Jensen_Huang",
+          "rank": 3,
+          "movement": "new"
+        },
+        {
+          "source": "wikipedia",
+          "title": "Jensen Huang",
+          "url": "https://en.wikipedia.org/wiki/Jensen_Huang",
+          "rank": 3,
+          "movement": "new"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-11",
+      "sources": [
+        "wikipedia"
+      ],
+      "signal": 0.26666666666666666,
+      "items": [
+        {
+          "source": "wikipedia",
+          "title": "Jensen Huang",
+          "url": "https://en.wikipedia.org/wiki/Jensen_Huang",
+          "rank": 3,
+          "movement": "holding"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-12",
+      "sources": [
+        "hackernews",
+        "polymarket",
+        "wikipedia"
+      ],
+      "signal": 0.8235294117647058,
+      "items": [
+        {
+          "source": "hackernews",
+          "title": "Nvidia is preparing to oust Jensen Huang",
+          "url": "https://news.ycombinator.com/item?id=50459703",
+          "rank": 5,
+          "movement": "new"
+        },
+        {
+          "source": "polymarket",
+          "title": "Jensen Huang divorce by December 31, 2026?",
+          "url": "https://polymarket.com/event/jensen-huang-divorce-in-2026",
+          "rank": 17,
+          "movement": "returning"
+        },
+        {
+          "source": "wikipedia",
+          "title": "Jensen Huang",
+          "url": "https://en.wikipedia.org/wiki/Jensen_Huang",
+          "rank": 3,
+          "movement": "holding"
+        },
+        {
+          "source": "wikipedia",
+          "title": "Jensen Huang",
+          "url": "https://en.wikipedia.org/wiki/Jensen_Huang",
+          "rank": 3,
+          "movement": "holding"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-13",
+      "sources": [
+        "gdelt-ai",
+        "hackernews",
+        "lemmy",
+        "polymarket",
+        "wikipedia"
+      ],
+      "signal": 4.936363636363636,
+      "items": [
+        {
+          "source": "gdelt-ai",
+          "title": "Who could replace the departed Jensen Huang as Nvidia CEO ?",
+          "url": "https://www.theguardian.com/technology/2026/nov/12/jensen-huang-nvidia-ceo-replacement",
+          "rank": 5,
+          "movement": "new"
+        },
+        {
+          "source": "hackernews",
+          "title": "Jensen Huang resigns",
+          "url": "https://news.ycombinator.com/item?id=50467087",
+          "rank": 1,
+          "movement": "new"
+        },
+        {
+          "source": "hackernews",
+          "title": "Nvidia employees petition to bring back Jensen Huang",
+          "url": "https://news.ycombinator.com/item?id=50477231",
+          "rank": 10,
+          "movement": "new"
+        },
+        {
+          "source": "lemmy",
+          "title": "Jensen Huang resigns as Nvidia CEO immediately",
+          "url": "https://lemmy.world/post/54323761",
+          "rank": 1,
+          "movement": "new"
+        },
+        {
+          "source": "wikipedia",
+          "title": "Jensen Huang",
+          "url": "https://en.wikipedia.org/wiki/Jensen_Huang",
+          "rank": 1,
+          "movement": "climbing"
+        },
+        {
+          "source": "hackernews",
+          "title": "Jensen Huang resigns",
+          "url": "https://news.ycombinator.com/item?id=50467087",
+          "rank": 1,
+          "movement": "new"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-14",
+      "sources": [
+        "polymarket",
+        "wikipedia"
+      ],
+      "signal": 1.82,
+      "items": [
+        {
+          "source": "polymarket",
+          "title": "Will Jensen Huang rejoin NVIDIA by November 30, 2026?",
+          "url": "https://polymarket.com/event/jensen-huang-rejoins-nvidia-byptptpt",
+          "rank": 20,
+          "movement": "new"
+        },
+        {
+          "source": "wikipedia",
+          "title": "Jensen Huang",
+          "url": "https://en.wikipedia.org/wiki/Jensen_Huang",
+          "rank": 1,
+          "movement": "holding"
+        },
+        {
+          "source": "wikipedia",
+          "title": "Jensen Huang",
+          "url": "https://en.wikipedia.org/wiki/Jensen_Huang",
+          "rank": 1,
+          "movement": "holding"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-15",
+      "sources": [
+        "polymarket",
+        "wikipedia"
+      ],
+      "signal": 0.6444444444444444,
+      "items": [
+        {
+          "source": "polymarket",
+          "title": "Will Jensen Huang rejoin NVIDIA by December 31, 2026?",
+          "url": "https://polymarket.com/event/jensen-huang-rejoins-nvidia-byptptpt",
+          "rank": 9,
+          "movement": "new"
+        },
+        {
+          "source": "wikipedia",
+          "title": "Jensen Huang",
+          "url": "https://en.wikipedia.org/wiki/Jensen_Huang",
+          "rank": 3,
+          "movement": "falling"
+        },
+        {
+          "source": "wikipedia",
+          "title": "Jensen Huang",
+          "url": "https://en.wikipedia.org/wiki/Jensen_Huang",
+          "rank": 3,
+          "movement": "falling"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-16",
+      "sources": [
+        "polymarket",
+        "wikipedia"
+      ],
+      "signal": 0.3738095238095238,
+      "items": [
+        {
+          "source": "polymarket",
+          "title": "Will Jensen Huang rejoin NVIDIA by November 30, 2026?",
+          "url": "https://polymarket.com/event/jensen-huang-rejoins-nvidia-byptptpt",
+          "rank": 4,
+          "movement": "returning"
+        },
+        {
+          "source": "polymarket",
+          "title": "Jensen Huang divorce by December 31, 2026?",
+          "url": "https://polymarket.com/event/jensen-huang-divorce-in-2026",
+          "rank": 24,
+          "movement": "returning"
+        },
+        {
+          "source": "wikipedia",
+          "title": "Jensen Huang",
+          "url": "https://en.wikipedia.org/wiki/Jensen_Huang",
+          "rank": 7,
+          "movement": "falling"
+        },
+        {
+          "source": "wikipedia",
+          "title": "Jensen Huang",
+          "url": "https://en.wikipedia.org/wiki/Jensen_Huang",
+          "rank": 7,
+          "movement": "falling"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-17",
+      "sources": [
+        "polymarket",
+        "wikipedia"
+      ],
+      "signal": 0.42500000000000004,
+      "items": [
+        {
+          "source": "polymarket",
+          "title": "Will Jensen Huang rejoin NVIDIA by December 31, 2026?",
+          "url": "https://polymarket.com/event/jensen-huang-rejoins-nvidia-byptptpt",
+          "rank": 2,
+          "movement": "returning"
+        },
+        {
+          "source": "wikipedia",
+          "title": "Jensen Huang",
+          "url": "https://en.wikipedia.org/wiki/Jensen_Huang",
+          "rank": 8,
+          "movement": "holding"
+        },
+        {
+          "source": "wikipedia",
+          "title": "Jensen Huang",
+          "url": "https://en.wikipedia.org/wiki/Jensen_Huang",
+          "rank": 8,
+          "movement": "holding"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-18",
+      "sources": [
+        "polymarket",
+        "wikipedia"
+      ],
+      "signal": 0.43333333333333335,
+      "items": [
+        {
+          "source": "polymarket",
+          "title": "Will Jensen Huang rejoin NVIDIA by December 31, 2026?",
+          "url": "https://polymarket.com/event/jensen-huang-rejoins-nvidia-byptptpt",
+          "rank": 3,
+          "movement": "holding"
+        },
+        {
+          "source": "wikipedia",
+          "title": "Jensen Huang",
+          "url": "https://en.wikipedia.org/wiki/Jensen_Huang",
+          "rank": 6,
+          "movement": "climbing"
+        },
+        {
+          "source": "wikipedia",
+          "title": "Jensen Huang",
+          "url": "https://en.wikipedia.org/wiki/Jensen_Huang",
+          "rank": 6,
+          "movement": "climbing"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-19",
+      "sources": [
+        "polymarket",
+        "wikipedia"
+      ],
+      "signal": 0.18333333333333335,
+      "items": [
+        {
+          "source": "polymarket",
+          "title": "Will Jensen Huang rejoin NVIDIA by December 31, 2026?",
+          "url": "https://polymarket.com/event/jensen-huang-rejoins-nvidia-byptptpt",
+          "rank": 4,
+          "movement": "holding"
+        },
+        {
+          "source": "wikipedia",
+          "title": "Jensen Huang",
+          "url": "https://en.wikipedia.org/wiki/Jensen_Huang",
+          "rank": 12,
+          "movement": "falling"
+        }
+      ]
+    }
+  ],
+  "explainer": null,
+  "explainer_history": [],
+  "needs_research": false
+}

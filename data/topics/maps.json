@@ -1,0 +1,35 @@
+{
+  "id": "maps",
+  "name": "maps",
+  "aliases": [
+    "maps"
+  ],
+  "first_seen": "2026-11-20",
+  "last_seen": "2026-11-20",
+  "days_seen": 1,
+  "phase": "fading",
+  "sources_seen": [
+    "google-trends"
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-20",
+      "sources": [
+        "google-trends"
+      ],
+      "signal": 0.4,
+      "items": [
+        {
+          "source": "google-trends",
+          "title": "maps",
+          "url": "https://www.bbc.co.uk/weather/articles/c6y97j2xq531o",
+          "rank": 2,
+          "movement": "new"
+        }
+      ]
+    }
+  ],
+  "explainer": null,
+  "explainer_history": [],
+  "needs_research": false
+}

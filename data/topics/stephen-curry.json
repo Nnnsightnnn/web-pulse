@@ -1,0 +1,35 @@
+{
+  "id": "stephen-curry",
+  "name": "stephen curry",
+  "aliases": [
+    "stephen curry"
+  ],
+  "first_seen": "2026-11-12",
+  "last_seen": "2026-11-12",
+  "days_seen": 1,
+  "phase": "closed",
+  "sources_seen": [
+    "google-trends"
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-12",
+      "sources": [
+        "google-trends"
+      ],
+      "signal": 0.4,
+      "items": [
+        {
+          "source": "google-trends",
+          "title": "stephen curry",
+          "url": "https://www.espn.com/watch/player/_/id/50458333",
+          "rank": 2,
+          "movement": "returning"
+        }
+      ]
+    }
+  ],
+  "explainer": null,
+  "explainer_history": [],
+  "needs_research": false
+}

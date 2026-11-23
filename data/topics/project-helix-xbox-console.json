@@ -1,0 +1,35 @@
+{
+  "id": "project-helix-xbox-console",
+  "name": "project helix xbox console",
+  "aliases": [
+    "project helix xbox console"
+  ],
+  "first_seen": "2026-11-16",
+  "last_seen": "2026-11-16",
+  "days_seen": 1,
+  "phase": "closed",
+  "sources_seen": [
+    "google-trends"
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-16",
+      "sources": [
+        "google-trends"
+      ],
+      "signal": 0.8,
+      "items": [
+        {
+          "source": "google-trends",
+          "title": "project helix xbox console",
+          "url": "https://www.windowscentral.com/gaming/xbox/microsoft-says-xbox-helix-is-a-console-not-a-pc-but-it-will-be-able-to-play-your-pc-games-helix-is-designed-to-be-a-console-that-can-also-play-games-from-your-pc",
+          "rank": 1,
+          "movement": "new"
+        }
+      ]
+    }
+  ],
+  "explainer": null,
+  "explainer_history": [],
+  "needs_research": false
+}

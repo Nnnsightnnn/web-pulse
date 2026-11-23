@@ -1,0 +1,35 @@
+{
+  "id": "stephen-miller",
+  "name": "Stephen Miller",
+  "aliases": [
+    "Stephen Miller"
+  ],
+  "first_seen": "2026-11-09",
+  "last_seen": "2026-11-09",
+  "days_seen": 1,
+  "phase": "closed",
+  "sources_seen": [
+    "wikipedia"
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-09",
+      "sources": [
+        "wikipedia"
+      ],
+      "signal": 0.2,
+      "items": [
+        {
+          "source": "wikipedia",
+          "title": "Stephen Miller",
+          "url": "https://en.wikipedia.org/wiki/Stephen_Miller",
+          "rank": 4,
+          "movement": "holding"
+        }
+      ]
+    }
+  ],
+  "explainer": null,
+  "explainer_history": [],
+  "needs_research": false
+}

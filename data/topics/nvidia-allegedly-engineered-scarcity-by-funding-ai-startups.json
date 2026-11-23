@@ -1,0 +1,51 @@
+{
+  "id": "nvidia-allegedly-engineered-scarcity-by-funding-ai-startups",
+  "name": "Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs",
+  "aliases": [
+    "Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs"
+  ],
+  "first_seen": "2026-11-14",
+  "last_seen": "2026-11-14",
+  "days_seen": 1,
+  "phase": "closed",
+  "sources_seen": [
+    "hackernews",
+    "mastodon-trending"
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-14",
+      "sources": [
+        "hackernews",
+        "mastodon-trending"
+      ],
+      "signal": 0.9714285714285714,
+      "items": [
+        {
+          "source": "hackernews",
+          "title": "Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs",
+          "url": "https://news.ycombinator.com/item?id=50493251",
+          "rank": 2,
+          "movement": "new"
+        },
+        {
+          "source": "mastodon-trending",
+          "title": "NVIDIA Allegedly Engineered Scarcity By Funding AI Startups To Buy Its GPUshttps://www.techpowerup.com/354814/nvidia-…",
+          "url": "https://mastodon.social/@nixCraft/117613225001676142",
+          "rank": 14,
+          "movement": "new"
+        },
+        {
+          "source": "hackernews",
+          "title": "Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs",
+          "url": "https://news.ycombinator.com/item?id=50493251",
+          "rank": 2,
+          "movement": "new"
+        }
+      ]
+    }
+  ],
+  "explainer": null,
+  "explainer_history": [],
+  "needs_research": false
+}

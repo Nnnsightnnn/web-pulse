@@ -1,0 +1,51 @@
+{
+  "id": "scene-2026-film",
+  "name": "Scene (2026 film)",
+  "aliases": [
+    "Scene (2026 film)"
+  ],
+  "first_seen": "2026-11-10",
+  "last_seen": "2026-11-11",
+  "days_seen": 2,
+  "phase": "closed",
+  "sources_seen": [
+    "wikipedia"
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-10",
+      "sources": [
+        "wikipedia"
+      ],
+      "signal": 0.16,
+      "items": [
+        {
+          "source": "wikipedia",
+          "title": "Scene (2026 film)",
+          "url": "https://en.wikipedia.org/wiki/Scene_(2026_film)",
+          "rank": 5,
+          "movement": "climbing"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-11",
+      "sources": [
+        "wikipedia"
+      ],
+      "signal": 0.08888888888888889,
+      "items": [
+        {
+          "source": "wikipedia",
+          "title": "Scene (2026 film)",
+          "url": "https://en.wikipedia.org/wiki/Scene_(2026_film)",
+          "rank": 9,
+          "movement": "falling"
+        }
+      ]
+    }
+  ],
+  "explainer": null,
+  "explainer_history": [],
+  "needs_research": false
+}

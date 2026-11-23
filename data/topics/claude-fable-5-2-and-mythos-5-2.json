@@ -1,0 +1,35 @@
+{
+  "id": "claude-fable-5-2-and-mythos-5-2",
+  "name": "Claude Fable 5.2 and Mythos 5.2",
+  "aliases": [
+    "Claude Fable 5.2 and Mythos 5.2"
+  ],
+  "first_seen": "2026-11-10",
+  "last_seen": "2026-11-10",
+  "days_seen": 1,
+  "phase": "closed",
+  "sources_seen": [
+    "hackernews"
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-10",
+      "sources": [
+        "hackernews"
+      ],
+      "signal": 0.8,
+      "items": [
+        {
+          "source": "hackernews",
+          "title": "Claude Fable 5.2 and Mythos 5.2",
+          "url": "https://news.ycombinator.com/item?id=50429068",
+          "rank": 1,
+          "movement": "new"
+        }
+      ]
+    }
+  ],
+  "explainer": null,
+  "explainer_history": [],
+  "needs_research": false
+}

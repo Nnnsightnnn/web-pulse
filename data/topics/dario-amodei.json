@@ -1,0 +1,35 @@
+{
+  "id": "dario-amodei",
+  "name": "Dario Amodei",
+  "aliases": [
+    "Dario Amodei"
+  ],
+  "first_seen": "2026-11-20",
+  "last_seen": "2026-11-20",
+  "days_seen": 1,
+  "phase": "fading",
+  "sources_seen": [
+    "wikipedia"
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-20",
+      "sources": [
+        "wikipedia"
+      ],
+      "signal": 0.1,
+      "items": [
+        {
+          "source": "wikipedia",
+          "title": "Dario Amodei",
+          "url": "https://en.wikipedia.org/wiki/Dario_Amodei",
+          "rank": 8,
+          "movement": "new"
+        }
+      ]
+    }
+  ],
+  "explainer": null,
+  "explainer_history": [],
+  "needs_research": false
+}

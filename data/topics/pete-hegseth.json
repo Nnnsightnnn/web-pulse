@@ -1,0 +1,58 @@
+{
+  "id": "pete-hegseth",
+  "name": "Pete Hegseth",
+  "aliases": [
+    "Pete Hegseth"
+  ],
+  "first_seen": "2026-11-11",
+  "last_seen": "2026-11-11",
+  "days_seen": 1,
+  "phase": "closed",
+  "sources_seen": [
+    "polymarket",
+    "wikipedia"
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-11",
+      "sources": [
+        "polymarket",
+        "wikipedia"
+      ],
+      "signal": 0.15924944620596795,
+      "items": [
+        {
+          "source": "polymarket",
+          "title": "Pete Hegseth out as Secretary of Defense by December 31?",
+          "url": "https://polymarket.com/event/pete-hegseth-out-as-secretary-of-defense-by-december-31",
+          "rank": 11,
+          "movement": "climbing"
+        },
+        {
+          "source": "polymarket",
+          "title": "Pete Hegseth impeached by December 31, 2026?",
+          "url": "https://polymarket.com/event/pete-hegseth-impeached-by-june-30",
+          "rank": 14,
+          "movement": "new"
+        },
+        {
+          "source": "polymarket",
+          "title": "Pete Hegseth out as Secretary of Defense by November 30?",
+          "url": "https://polymarket.com/event/pete-hegseth-out-as-secretary-of-defense-by-november-30-20261001003401433",
+          "rank": 23,
+          "movement": "returning"
+        },
+        {
+          "source": "wikipedia",
+          "title": "Pete Hegseth",
+          "url": "https://en.wikipedia.org/wiki/Pete_Hegseth",
+          "rank": 13,
+          "movement": "new"
+        }
+      ]
+    }
+  ],
+  "explainer": null,
+  "explainer_history": [],
+  "needs_research": false
+}

@@ -1,0 +1,35 @@
+{
+  "id": "ziaire-williams",
+  "name": "ziaire williams",
+  "aliases": [
+    "ziaire williams"
+  ],
+  "first_seen": "2026-11-21",
+  "last_seen": "2026-11-21",
+  "days_seen": 1,
+  "phase": "fading",
+  "sources_seen": [
+    "google-trends"
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-21",
+      "sources": [
+        "google-trends"
+      ],
+      "signal": 0.8,
+      "items": [
+        {
+          "source": "google-trends",
+          "title": "ziaire williams",
+          "url": "https://sports.yahoo.com/articles/jj-redick-gives-two-reasons-053858693.html",
+          "rank": 1,
+          "movement": "new"
+        }
+      ]
+    }
+  ],
+  "explainer": null,
+  "explainer_history": [],
+  "needs_research": false
+}

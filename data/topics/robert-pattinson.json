@@ -1,0 +1,160 @@
+{
+  "id": "robert-pattinson",
+  "name": "Robert Pattinson",
+  "aliases": [
+    "Robert Pattinson",
+    "Robert Pattinson filmography"
+  ],
+  "first_seen": "2026-11-17",
+  "last_seen": "2026-11-22",
+  "days_seen": 6,
+  "phase": "holding",
+  "sources_seen": [
+    "wikipedia",
+    "youtube"
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-17",
+      "sources": [
+        "wikipedia",
+        "youtube"
+      ],
+      "signal": 2.2213235294117646,
+      "items": [
+        {
+          "source": "wikipedia",
+          "title": "Robert Pattinson",
+          "url": "https://en.wikipedia.org/wiki/Robert_Pattinson",
+          "rank": 1,
+          "movement": "new"
+        },
+        {
+          "source": "wikipedia",
+          "title": "Robert Pattinson filmography",
+          "url": "https://en.wikipedia.org/wiki/Robert_Pattinson_filmography",
+          "rank": 6,
+          "movement": "new"
+        },
+        {
+          "source": "wikipedia",
+          "title": "List of James Bond films",
+          "url": "https://en.wikipedia.org/wiki/List_of_James_Bond_films",
+          "rank": 16,
+          "movement": "new"
+        },
+        {
+          "source": "youtube",
+          "title": "JAMES BOND TRAILER 2028 Robert Pattinson",
+          "url": "https://www.youtube.com/watch?v=Y6cPcmQDtio",
+          "rank": 17,
+          "movement": "new"
+        },
+        {
+          "source": "wikipedia",
+          "title": "Robert Pattinson",
+          "url": "https://en.wikipedia.org/wiki/Robert_Pattinson",
+          "rank": 1,
+          "movement": "new"
+        },
+        {
+          "source": "wikipedia",
+          "title": "Robert Pattinson filmography",
+          "url": "https://en.wikipedia.org/wiki/Robert_Pattinson_filmography",
+          "rank": 6,
+          "movement": "new"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-18",
+      "sources": [
+        "wikipedia"
+      ],
+      "signal": 0.88,
+      "items": [
+        {
+          "source": "wikipedia",
+          "title": "Robert Pattinson",
+          "url": "https://en.wikipedia.org/wiki/Robert_Pattinson",
+          "rank": 1,
+          "movement": "holding"
+        },
+        {
+          "source": "wikipedia",
+          "title": "Robert Pattinson filmography",
+          "url": "https://en.wikipedia.org/wiki/Robert_Pattinson_filmography",
+          "rank": 10,
+          "movement": "falling"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-19",
+      "sources": [
+        "wikipedia"
+      ],
+      "signal": 0.26666666666666666,
+      "items": [
+        {
+          "source": "wikipedia",
+          "title": "Robert Pattinson",
+          "url": "https://en.wikipedia.org/wiki/Robert_Pattinson",
+          "rank": 3,
+          "movement": "falling"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-20",
+      "sources": [
+        "wikipedia"
+      ],
+      "signal": 0.13333333333333333,
+      "items": [
+        {
+          "source": "wikipedia",
+          "title": "Robert Pattinson",
+          "url": "https://en.wikipedia.org/wiki/Robert_Pattinson",
+          "rank": 6,
+          "movement": "falling"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-21",
+      "sources": [
+        "wikipedia"
+      ],
+      "signal": 0.08,
+      "items": [
+        {
+          "source": "wikipedia",
+          "title": "Robert Pattinson",
+          "url": "https://en.wikipedia.org/wiki/Robert_Pattinson",
+          "rank": 10,
+          "movement": "falling"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-22",
+      "sources": [
+        "wikipedia"
+      ],
+      "signal": 0.08,
+      "items": [
+        {
+          "source": "wikipedia",
+          "title": "Robert Pattinson",
+          "url": "https://en.wikipedia.org/wiki/Robert_Pattinson",
+          "rank": 10,
+          "movement": "holding"
+        }
+      ]
+    }
+  ],
+  "explainer": null,
+  "explainer_history": [],
+  "needs_research": false
+}

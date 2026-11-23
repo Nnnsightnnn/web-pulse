@@ -1,0 +1,35 @@
+{
+  "id": "flash-flood-warning",
+  "name": "flash flood warning",
+  "aliases": [
+    "flash flood warning"
+  ],
+  "first_seen": "2026-11-19",
+  "last_seen": "2026-11-19",
+  "days_seen": 1,
+  "phase": "fading",
+  "sources_seen": [
+    "google-trends"
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-19",
+      "sources": [
+        "google-trends"
+      ],
+      "signal": 0.16,
+      "items": [
+        {
+          "source": "google-trends",
+          "title": "flash flood warning",
+          "url": "https://www.sfchronicle.com/climate/article/alviso-el-nino-flooding-22495755.php",
+          "rank": 5,
+          "movement": "new"
+        }
+      ]
+    }
+  ],
+  "explainer": null,
+  "explainer_history": [],
+  "needs_research": false
+}

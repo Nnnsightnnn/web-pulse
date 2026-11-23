@@ -1,0 +1,68 @@
+{
+  "id": "2026-27-uefa-nations-league",
+  "name": "2026–27 UEFA Nations League",
+  "aliases": [
+    "2026–27 UEFA Nations League"
+  ],
+  "first_seen": "2026-11-17",
+  "last_seen": "2026-11-18",
+  "days_seen": 2,
+  "phase": "closed",
+  "sources_seen": [
+    "polymarket",
+    "wikipedia"
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-17",
+      "sources": [
+        "polymarket",
+        "wikipedia"
+      ],
+      "signal": 0.18596491228070175,
+      "items": [
+        {
+          "source": "polymarket",
+          "title": "Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?",
+          "url": "https://polymarket.com/event/uefa-champions-league-2027-champion-20260701202025549",
+          "rank": 3,
+          "movement": "holding"
+        },
+        {
+          "source": "wikipedia",
+          "title": "2026–27 UEFA Nations League",
+          "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Nations_League",
+          "rank": 19,
+          "movement": "new"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-18",
+      "sources": [
+        "polymarket",
+        "wikipedia"
+      ],
+      "signal": 0.12916666666666665,
+      "items": [
+        {
+          "source": "polymarket",
+          "title": "Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?",
+          "url": "https://polymarket.com/event/uefa-champions-league-2027-champion-20260701202025549",
+          "rank": 6,
+          "movement": "falling"
+        },
+        {
+          "source": "wikipedia",
+          "title": "2026–27 UEFA Nations League",
+          "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Nations_League",
+          "rank": 16,
+          "movement": "climbing"
+        }
+      ]
+    }
+  ],
+  "explainer": null,
+  "explainer_history": [],
+  "needs_research": false
+}

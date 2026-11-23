@@ -1,0 +1,35 @@
+{
+  "id": "9-11",
+  "name": "9/11",
+  "aliases": [
+    "9/11"
+  ],
+  "first_seen": "2026-11-16",
+  "last_seen": "2026-11-16",
+  "days_seen": 1,
+  "phase": "closed",
+  "sources_seen": [
+    "wikipedia"
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-16",
+      "sources": [
+        "wikipedia"
+      ],
+      "signal": 0.4,
+      "items": [
+        {
+          "source": "wikipedia",
+          "title": "9/11",
+          "url": "https://en.wikipedia.org/wiki/9%2F11",
+          "rank": 2,
+          "movement": "new"
+        }
+      ]
+    }
+  ],
+  "explainer": null,
+  "explainer_history": [],
+  "needs_research": false
+}

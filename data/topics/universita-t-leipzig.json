@@ -1,0 +1,35 @@
+{
+  "id": "universita-t-leipzig",
+  "name": "universität leipzig",
+  "aliases": [
+    "universität leipzig"
+  ],
+  "first_seen": "2026-11-21",
+  "last_seen": "2026-11-21",
+  "days_seen": 1,
+  "phase": "fading",
+  "sources_seen": [
+    "google-trends"
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-21",
+      "sources": [
+        "google-trends"
+      ],
+      "signal": 0.2,
+      "items": [
+        {
+          "source": "google-trends",
+          "title": "universität leipzig",
+          "url": "https://www.welt.de/politik/deutschland/article6affe0465842ff528b9e0f9e/gen-z-proteste-boeller-geworfen-vermummte-randalieren-im-hamburger-schanzenviertel-liveticker.html",
+          "rank": 4,
+          "movement": "new"
+        }
+      ]
+    }
+  ],
+  "explainer": null,
+  "explainer_history": [],
+  "needs_research": false
+}

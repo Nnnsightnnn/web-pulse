@@ -1,0 +1,35 @@
+{
+  "id": "lewis-hamilton",
+  "name": "lewis hamilton",
+  "aliases": [
+    "lewis hamilton"
+  ],
+  "first_seen": "2026-11-22",
+  "last_seen": "2026-11-22",
+  "days_seen": 1,
+  "phase": "new",
+  "sources_seen": [
+    "google-trends"
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-22",
+      "sources": [
+        "google-trends"
+      ],
+      "signal": 0.2,
+      "items": [
+        {
+          "source": "google-trends",
+          "title": "lewis hamilton",
+          "url": "https://www.espn.co.uk/f1/story/_/id/50472109/lewis-hamilton-charles-leclerc-ferrari-las-vegas-grand-prix-formula-1",
+          "rank": 4,
+          "movement": "new"
+        }
+      ]
+    }
+  ],
+  "explainer": null,
+  "explainer_history": [],
+  "needs_research": false
+}

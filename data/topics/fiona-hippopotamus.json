@@ -1,0 +1,35 @@
+{
+  "id": "fiona-hippopotamus",
+  "name": "Fiona (hippopotamus)",
+  "aliases": [
+    "Fiona (hippopotamus)"
+  ],
+  "first_seen": "2026-11-21",
+  "last_seen": "2026-11-21",
+  "days_seen": 1,
+  "phase": "fading",
+  "sources_seen": [
+    "wikipedia"
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-21",
+      "sources": [
+        "wikipedia"
+      ],
+      "signal": 0.08888888888888889,
+      "items": [
+        {
+          "source": "wikipedia",
+          "title": "Fiona (hippopotamus)",
+          "url": "https://en.wikipedia.org/wiki/Fiona_(hippopotamus)",
+          "rank": 9,
+          "movement": "climbing"
+        }
+      ]
+    }
+  ],
+  "explainer": null,
+  "explainer_history": [],
+  "needs_research": false
+}

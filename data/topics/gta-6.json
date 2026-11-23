@@ -1,0 +1,138 @@
+{
+  "id": "gta-6",
+  "name": "gta 6",
+  "aliases": [
+    "gta 6",
+    "PLAYING GTA 6 FOR THE FIRST TIME (PART 1)",
+    "PLAYING GTA 6 FOR THE FIRST TIME (PART 3)"
+  ],
+  "first_seen": "2026-11-18",
+  "last_seen": "2026-11-20",
+  "days_seen": 3,
+  "phase": "fading",
+  "sources_seen": [
+    "google-trends",
+    "polymarket",
+    "youtube"
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-18",
+      "sources": [
+        "google-trends",
+        "youtube"
+      ],
+      "signal": 1.0269841269841269,
+      "items": [
+        {
+          "source": "google-trends",
+          "title": "gta 6",
+          "url": "https://www.bild.de/unterhaltung/bildgg/gta-6-jetzt-schon-herunterladen-download-dauert-bis-zu-47-stunden-6afc33cf6837d711cd2c81e5",
+          "rank": 2,
+          "movement": "new"
+        },
+        {
+          "source": "youtube",
+          "title": "How I Filmed My GTA 6 Trailer",
+          "url": "https://www.youtube.com/watch?v=wKmIqTs2LoE",
+          "rank": 14,
+          "movement": "new"
+        },
+        {
+          "source": "youtube",
+          "title": "i was right about gta 6!!!",
+          "url": "https://www.youtube.com/watch?v=WwHaajObJ5o",
+          "rank": 18,
+          "movement": "new"
+        },
+        {
+          "source": "google-trends",
+          "title": "gta 6",
+          "url": "https://www.bild.de/unterhaltung/bildgg/gta-6-jetzt-schon-herunterladen-download-dauert-bis-zu-47-stunden-6afc33cf6837d711cd2c81e5",
+          "rank": 2,
+          "movement": "new"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-19",
+      "sources": [
+        "google-trends",
+        "polymarket",
+        "youtube"
+      ],
+      "signal": 0.6916666666666667,
+      "items": [
+        {
+          "source": "google-trends",
+          "title": "how to save in gta 6",
+          "url": "https://www.ign.com/articles/gta-6-doesnt-let-you-replay-story-missions-heres-why",
+          "rank": 6,
+          "movement": "new"
+        },
+        {
+          "source": "polymarket",
+          "title": "GTA 6 launch postponed again?",
+          "url": "https://polymarket.com/event/gta-6-launch-postponed-again",
+          "rank": 16,
+          "movement": "new"
+        },
+        {
+          "source": "youtube",
+          "title": "PLAYING GTA 6 FOR THE FIRST TIME (PART 1)",
+          "url": "https://www.youtube.com/watch?v=VZqAPdUvqnQ",
+          "rank": 3,
+          "movement": "new"
+        },
+        {
+          "source": "youtube",
+          "title": "GTA 6 - Before You Buy",
+          "url": "https://www.youtube.com/watch?v=vVVIWEGciKk",
+          "rank": 9,
+          "movement": "new"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-20",
+      "sources": [
+        "google-trends",
+        "youtube"
+      ],
+      "signal": 0.3689684569479966,
+      "items": [
+        {
+          "source": "google-trends",
+          "title": "where is mandy's house in gta 6",
+          "url": "https://www.yahoo.com/entertainment/movies/articles/gta-6-mandy-actor-officially-233345828.html",
+          "rank": 10,
+          "movement": "new"
+        },
+        {
+          "source": "youtube",
+          "title": "PLAYING GTA 6 FOR THE FIRST TIME (PART 3)",
+          "url": "https://www.youtube.com/watch?v=5tdj53ioJ-c",
+          "rank": 6,
+          "movement": "new"
+        },
+        {
+          "source": "youtube",
+          "title": "So GTA 6 is Finally Here",
+          "url": "https://www.youtube.com/watch?v=vUPR8jtzzzQ",
+          "rank": 17,
+          "movement": "new"
+        },
+        {
+          "source": "youtube",
+          "title": "SMii7Y Plays GTA 6 For The First Time",
+          "url": "https://www.youtube.com/watch?v=eJKZKf0gL-s",
+          "rank": 23,
+          "movement": "new"
+        }
+      ]
+    }
+  ],
+  "explainer": null,
+  "explainer_history": [],
+  "needs_research": false
+}

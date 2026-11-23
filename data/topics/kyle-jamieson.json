@@ -1,0 +1,35 @@
+{
+  "id": "kyle-jamieson",
+  "name": "kyle jamieson",
+  "aliases": [
+    "kyle jamieson"
+  ],
+  "first_seen": "2026-11-13",
+  "last_seen": "2026-11-13",
+  "days_seen": 1,
+  "phase": "closed",
+  "sources_seen": [
+    "google-trends"
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-13",
+      "sources": [
+        "google-trends"
+      ],
+      "signal": 0.4,
+      "items": [
+        {
+          "source": "google-trends",
+          "title": "kyle jamieson",
+          "url": "https://www.thehindu.com/sport/cricket/ind-vs-nz-odi-series-lack-of-continuity-in-bowling-unit-due-to-injuries-is-frustrating-says-kyle-jamieson/article71685338.ece",
+          "rank": 2,
+          "movement": "new"
+        }
+      ]
+    }
+  ],
+  "explainer": null,
+  "explainer_history": [],
+  "needs_research": false
+}

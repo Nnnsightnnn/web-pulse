@@ -1,0 +1,2653 @@
+{
+  "generated_at": "2026-11-22T06:15:00.000Z",
+  "date": "2026-11-22",
+  "topics": [
+    {
+      "id": "thinkingmachines-inkling-2-mini",
+      "name": "thinkingmachines/Inkling-2-Mini",
+      "aliases": [
+        "thinkingmachines/Inkling-2-Mini",
+        "Inkling 2 Mini"
+      ],
+      "phase": "holding",
+      "first_seen": "2026-11-21",
+      "last_seen": "2026-11-22",
+      "days_seen": 2,
+      "sources_seen": [
+        "hackernews",
+        "huggingface"
+      ],
+      "signal": 1.783,
+      "url": "https://news.ycombinator.com/item?id=50591853",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": true
+    },
+    {
+      "id": "riemann-hypothesis",
+      "name": "Riemann hypothesis",
+      "aliases": [
+        "Riemann hypothesis",
+        "Lean verification of the Riemann Hypothesis"
+      ],
+      "phase": "climbing",
+      "first_seen": "2026-11-21",
+      "last_seen": "2026-11-22",
+      "days_seen": 2,
+      "sources_seen": [
+        "hackernews",
+        "wikipedia"
+      ],
+      "signal": 1.5,
+      "url": "https://news.ycombinator.com/item?id=50589618",
+      "summary": "On November 20, Levent Alpöge released a proof of the Riemann hypothesis as a 17-million-line Lean library, made working with Claude, and the Lean and Mathlib communities certified it as correct the next day.",
+      "why_now": "Two attempts landed the same day: Alpöge's machine-checked proof, and a 940-page human-written manuscript by Alessandro Masullo aimed at the generalized hypothesis, which readers have since found gaps in. The Hacker News thread on Masullo's announcement drew 2,447 points.",
+      "researched_at": "2026-11-23T01:46:58.175Z",
+      "needs_research": false
+    },
+    {
+      "id": "grand-theft-auto-vi",
+      "name": "Grand Theft Auto VI",
+      "aliases": [
+        "Grand Theft Auto VI",
+        "Grand Theft Auto",
+        "Grand Theft Auto V Enhanced"
+      ],
+      "phase": "holding",
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-22",
+      "days_seen": 5,
+      "sources_seen": [
+        "lemmy",
+        "steam",
+        "wikipedia",
+        "youtube"
+      ],
+      "signal": 1.05,
+      "url": "https://store.steampowered.com/app/3240220",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": true
+    },
+    {
+      "id": "keanu-reeves",
+      "name": "keanu reeves",
+      "aliases": [
+        "keanu reeves"
+      ],
+      "phase": "new",
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "days_seen": 1,
+      "sources_seen": [
+        "google-trends"
+      ],
+      "signal": 0.8,
+      "url": "https://www.vogue.com/article/kim-kardashian-is-dressing-for-team-lewis-hamilton-2026-11-21",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": true
+    },
+    {
+      "id": "toyota-nissan-and-honda-to-standardize-parts-to-lower-costs",
+      "name": "Toyota, Nissan, and Honda to standardize parts to lower costs",
+      "aliases": [
+        "Toyota, Nissan, and Honda to standardize parts to lower costs"
+      ],
+      "phase": "new",
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "days_seen": 1,
+      "sources_seen": [
+        "hackernews"
+      ],
+      "signal": 0.8,
+      "url": "https://news.ycombinator.com/item?id=50596133",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "ramayana-part-1",
+      "name": "Ramayana: Part 1",
+      "aliases": [
+        "Ramayana: Part 1"
+      ],
+      "phase": "holding",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-22",
+      "days_seen": 14,
+      "sources_seen": [
+        "wikipedia",
+        "youtube"
+      ],
+      "signal": 0.691,
+      "url": "https://en.wikipedia.org/wiki/Ramayana%3A_Part_1",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "chris-pratt",
+      "name": "chris pratt",
+      "aliases": [
+        "chris pratt"
+      ],
+      "phase": "new",
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "days_seen": 1,
+      "sources_seen": [
+        "google-trends"
+      ],
+      "signal": 0.4,
+      "url": "https://www.independent.co.uk/arts-entertainment/films/news/jennifer-lawrence-kiss-films-ranking-b3088673.html",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "pill-to-treat-pancreatic-cancer-hailed-as-biggest-breakthrou",
+      "name": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
+      "aliases": [
+        "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'"
+      ],
+      "phase": "new",
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "days_seen": 1,
+      "sources_seen": [
+        "hackernews"
+      ],
+      "signal": 0.4,
+      "url": "https://news.ycombinator.com/item?id=50582069",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "lewis-hamilton",
+      "name": "lewis hamilton",
+      "aliases": [
+        "lewis hamilton"
+      ],
+      "phase": "new",
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "days_seen": 1,
+      "sources_seen": [
+        "google-trends"
+      ],
+      "signal": 0.2,
+      "url": "https://www.espn.co.uk/f1/story/_/id/50472109/lewis-hamilton-charles-leclerc-ferrari-las-vegas-grand-prix-formula-1",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "the-hunger-games-sunrise-on-the-reaping",
+      "name": "The Hunger Games: Sunrise on the Reaping",
+      "aliases": [
+        "The Hunger Games: Sunrise on the Reaping"
+      ],
+      "phase": "holding",
+      "first_seen": "2026-11-21",
+      "last_seen": "2026-11-22",
+      "days_seen": 2,
+      "sources_seen": [
+        "wikipedia"
+      ],
+      "signal": 0.2,
+      "url": "https://en.wikipedia.org/wiki/The_Hunger_Games%3A_Sunrise_on_the_Reaping",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "heisman-race",
+      "name": "heisman race",
+      "aliases": [
+        "heisman race"
+      ],
+      "phase": "new",
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "days_seen": 1,
+      "sources_seen": [
+        "google-trends"
+      ],
+      "signal": 0.16,
+      "url": "https://sports.yahoo.com/college-football/breaking-news/article/jeremiah-smith-becomes-an-even-bigger-heisman-favorite-with-2-td-performance-against-nebraska-203827233.html",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "xxx",
+      "name": ".xxx",
+      "aliases": [
+        ".xxx"
+      ],
+      "phase": "climbing",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-22",
+      "days_seen": 12,
+      "sources_seen": [
+        "wikipedia"
+      ],
+      "signal": 0.16,
+      "url": "https://en.wikipedia.org/wiki/.xxx",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "o-m-operation-mole",
+      "name": "O.M: Operation Mole",
+      "aliases": [
+        "O.M: Operation Mole"
+      ],
+      "phase": "new",
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "days_seen": 1,
+      "sources_seen": [
+        "wikipedia"
+      ],
+      "signal": 0.114,
+      "url": "https://en.wikipedia.org/wiki/O.M%3A_Operation_Mole",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "ansel-adams",
+      "name": "Ansel Adams",
+      "aliases": [
+        "Ansel Adams"
+      ],
+      "phase": "climbing",
+      "first_seen": "2026-11-15",
+      "last_seen": "2026-11-22",
+      "days_seen": 2,
+      "sources_seen": [
+        "wikipedia"
+      ],
+      "signal": 0.089,
+      "url": "https://en.wikipedia.org/wiki/Ansel_Adams",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "robert-pattinson",
+      "name": "Robert Pattinson",
+      "aliases": [
+        "Robert Pattinson",
+        "Robert Pattinson filmography"
+      ],
+      "phase": "holding",
+      "first_seen": "2026-11-17",
+      "last_seen": "2026-11-22",
+      "days_seen": 6,
+      "sources_seen": [
+        "wikipedia",
+        "youtube"
+      ],
+      "signal": 0.08,
+      "url": "https://en.wikipedia.org/wiki/Robert_Pattinson",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "hurried-announcement-alessandro-masullo-grh",
+      "name": "Hurried Announcement: Alessandro Masullo GRH",
+      "aliases": [
+        "Hurried Announcement: Alessandro Masullo GRH"
+      ],
+      "phase": "fading",
+      "first_seen": "2026-11-21",
+      "last_seen": "2026-11-21",
+      "days_seen": 1,
+      "sources_seen": [
+        "hackernews"
+      ],
+      "signal": 0.8,
+      "url": "https://news.ycombinator.com/item?id=50579568",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "ziaire-williams",
+      "name": "ziaire williams",
+      "aliases": [
+        "ziaire williams"
+      ],
+      "phase": "fading",
+      "first_seen": "2026-11-21",
+      "last_seen": "2026-11-21",
+      "days_seen": 1,
+      "sources_seen": [
+        "google-trends"
+      ],
+      "signal": 0.8,
+      "url": "https://sports.yahoo.com/articles/jj-redick-gives-two-reasons-053858693.html",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "anshul-kamboj",
+      "name": "anshul kamboj",
+      "aliases": [
+        "anshul kamboj"
+      ],
+      "phase": "fading",
+      "first_seen": "2026-11-21",
+      "last_seen": "2026-11-21",
+      "days_seen": 1,
+      "sources_seen": [
+        "google-trends"
+      ],
+      "signal": 0.4,
+      "url": "https://timesofindia.indiatimes.com/toi-plus/sports/why-the-decision-to-drop-mohammad-siraj-has-raised-an-uproar/articleshow/136028097.cms",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "levent-alpo-ge-claims-proof-of-the-generalized-riemann-hypot",
+      "name": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
+      "aliases": [
+        "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]"
+      ],
+      "phase": "fading",
+      "first_seen": "2026-11-21",
+      "last_seen": "2026-11-21",
+      "days_seen": 1,
+      "sources_seen": [
+        "hackernews"
+      ],
+      "signal": 0.4,
+      "url": "https://news.ycombinator.com/item?id=50574968",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "pakistan-vs-sri-lanka",
+      "name": "pakistan vs sri lanka",
+      "aliases": [
+        "pakistan vs sri lanka",
+        "sri lanka vs pakistan",
+        "sri lanka a vs hong kong"
+      ],
+      "phase": "fading",
+      "first_seen": "2026-11-11",
+      "last_seen": "2026-11-21",
+      "days_seen": 5,
+      "sources_seen": [
+        "google-trends"
+      ],
+      "signal": 0.267,
+      "url": "https://www.cricketworld.com/match-predictions-acc-mens-asia-cup-rising-stars-2026-5th-6th-match-sri-lanka-a-vs-hong-kong-bangladesh-a-vs-afghanistan-a-november-21st/114454.htm",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "universita-t-leipzig",
+      "name": "universität leipzig",
+      "aliases": [
+        "universität leipzig"
+      ],
+      "phase": "fading",
+      "first_seen": "2026-11-21",
+      "last_seen": "2026-11-21",
+      "days_seen": 1,
+      "sources_seen": [
+        "google-trends"
+      ],
+      "signal": 0.2,
+      "url": "https://www.welt.de/politik/deutschland/article6affe0465842ff528b9e0f9e/gen-z-proteste-boeller-geworfen-vermummte-randalieren-im-hamburger-schanzenviertel-liveticker.html",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "ken-mcelroy",
+      "name": "Ken McElroy",
+      "aliases": [
+        "Ken McElroy"
+      ],
+      "phase": "fading",
+      "first_seen": "2026-11-20",
+      "last_seen": "2026-11-21",
+      "days_seen": 2,
+      "sources_seen": [
+        "wikipedia"
+      ],
+      "signal": 0.16,
+      "url": "https://en.wikipedia.org/wiki/Ken_McElroy",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "when-is-black-friday",
+      "name": "when is black friday",
+      "aliases": [
+        "when is black friday",
+        "biggest black friday deals"
+      ],
+      "phase": "fading",
+      "first_seen": "2026-11-20",
+      "last_seen": "2026-11-21",
+      "days_seen": 2,
+      "sources_seen": [
+        "google-trends"
+      ],
+      "signal": 0.16,
+      "url": "https://www.cnn.com/cnn-underscored/deals/best-black-friday-deals-2026-11-20",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "levent-alpo-ge",
+      "name": "Levent Alpöge",
+      "aliases": [
+        "Levent Alpöge"
+      ],
+      "phase": "fading",
+      "first_seen": "2026-11-21",
+      "last_seen": "2026-11-21",
+      "days_seen": 1,
+      "sources_seen": [
+        "wikipedia"
+      ],
+      "signal": 0.1,
+      "url": "https://en.wikipedia.org/wiki/Levent_Alp%C3%B6ge",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "fiona-hippopotamus",
+      "name": "Fiona (hippopotamus)",
+      "aliases": [
+        "Fiona (hippopotamus)"
+      ],
+      "phase": "fading",
+      "first_seen": "2026-11-21",
+      "last_seen": "2026-11-21",
+      "days_seen": 1,
+      "sources_seen": [
+        "wikipedia"
+      ],
+      "signal": 0.089,
+      "url": "https://en.wikipedia.org/wiki/Fiona_(hippopotamus)",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "gimp-now-has-ui-tests",
+      "name": "GIMP now has UI tests",
+      "aliases": [
+        "GIMP now has UI tests"
+      ],
+      "phase": "fading",
+      "first_seen": "2026-11-20",
+      "last_seen": "2026-11-20",
+      "days_seen": 1,
+      "sources_seen": [
+        "hackernews"
+      ],
+      "signal": 0.8,
+      "url": "https://news.ycombinator.com/item?id=50569985",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "maps",
+      "name": "maps",
+      "aliases": [
+        "maps"
+      ],
+      "phase": "fading",
+      "first_seen": "2026-11-20",
+      "last_seen": "2026-11-20",
+      "days_seen": 1,
+      "sources_seen": [
+        "google-trends"
+      ],
+      "signal": 0.4,
+      "url": "https://www.bbc.co.uk/weather/articles/c6y97j2xq531o",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "openssl-buffer-overflow-in-evp-encodeblock-cve-2026-121481-c",
+      "name": "OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)",
+      "aliases": [
+        "OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)"
+      ],
+      "phase": "fading",
+      "first_seen": "2026-11-20",
+      "last_seen": "2026-11-20",
+      "days_seen": 1,
+      "sources_seen": [
+        "hackernews"
+      ],
+      "signal": 0.4,
+      "url": "https://news.ycombinator.com/item?id=50569226",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "gta-6",
+      "name": "gta 6",
+      "aliases": [
+        "gta 6",
+        "PLAYING GTA 6 FOR THE FIRST TIME (PART 1)",
+        "PLAYING GTA 6 FOR THE FIRST TIME (PART 3)"
+      ],
+      "phase": "fading",
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-20",
+      "days_seen": 3,
+      "sources_seen": [
+        "google-trends",
+        "polymarket",
+        "youtube"
+      ],
+      "signal": 0.369,
+      "url": "https://www.yahoo.com/entertainment/movies/articles/gta-6-mandy-actor-officially-233345828.html",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "lainey-wilson-just-a-woman-live-from-the-60th-annual-cma-awa",
+      "name": "Lainey Wilson - Just A Woman (Live from \"The 60th Annual CMA Awards\")",
+      "aliases": [
+        "Lainey Wilson - Just A Woman (Live from \"The 60th Annual CMA Awards\")"
+      ],
+      "phase": "fading",
+      "first_seen": "2026-11-20",
+      "last_seen": "2026-11-20",
+      "days_seen": 1,
+      "sources_seen": [
+        "wikipedia",
+        "youtube"
+      ],
+      "signal": 0.293,
+      "url": "https://en.wikipedia.org/wiki/Lainey_Wilson",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "postgres-19-repack-faster-built-in-table-bloat-cleanup",
+      "name": "Postgres 19 Repack: Faster, Built-In Table Bloat Cleanup",
+      "aliases": [
+        "Postgres 19 Repack: Faster, Built-In Table Bloat Cleanup"
+      ],
+      "phase": "fading",
+      "first_seen": "2026-11-20",
+      "last_seen": "2026-11-20",
+      "days_seen": 1,
+      "sources_seen": [
+        "hackernews"
+      ],
+      "signal": 0.267,
+      "url": "https://news.ycombinator.com/item?id=50569516",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "stephen-wilson-jr",
+      "name": "Stephen Wilson Jr.",
+      "aliases": [
+        "Stephen Wilson Jr."
+      ],
+      "phase": "fading",
+      "first_seen": "2026-11-20",
+      "last_seen": "2026-11-20",
+      "days_seen": 1,
+      "sources_seen": [
+        "wikipedia"
+      ],
+      "signal": 0.267,
+      "url": "https://en.wikipedia.org/wiki/Stephen_Wilson_Jr.",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "wetter",
+      "name": "wetter",
+      "aliases": [
+        "wetter"
+      ],
+      "phase": "fading",
+      "first_seen": "2026-11-20",
+      "last_seen": "2026-11-20",
+      "days_seen": 1,
+      "sources_seen": [
+        "google-trends"
+      ],
+      "signal": 0.267,
+      "url": "https://www.zeit.de/wissenschaft/umwelt/2026-11/polarluft-wetterumschwung-temperaturen-glaette-gxe",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "ella-langley",
+      "name": "Ella Langley",
+      "aliases": [
+        "Ella Langley"
+      ],
+      "phase": "fading",
+      "first_seen": "2026-11-20",
+      "last_seen": "2026-11-20",
+      "days_seen": 1,
+      "sources_seen": [
+        "wikipedia"
+      ],
+      "signal": 0.2,
+      "url": "https://en.wikipedia.org/wiki/Ella_Langley",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "florida-flash-flooding",
+      "name": "florida flash flooding",
+      "aliases": [
+        "florida flash flooding"
+      ],
+      "phase": "fading",
+      "first_seen": "2026-11-20",
+      "last_seen": "2026-11-20",
+      "days_seen": 1,
+      "sources_seen": [
+        "google-trends"
+      ],
+      "signal": 0.2,
+      "url": "https://www.nytimes.com/2026/11/19/weather/florida-floods-rain-closures-evacuations.html",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "dario-amodei",
+      "name": "Dario Amodei",
+      "aliases": [
+        "Dario Amodei"
+      ],
+      "phase": "fading",
+      "first_seen": "2026-11-20",
+      "last_seen": "2026-11-20",
+      "days_seen": 1,
+      "sources_seen": [
+        "wikipedia"
+      ],
+      "signal": 0.1,
+      "url": "https://en.wikipedia.org/wiki/Dario_Amodei",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "gemini-4-neon",
+      "name": "Gemini 4 Neon",
+      "aliases": [
+        "Gemini 4 Neon"
+      ],
+      "phase": "fading",
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "days_seen": 1,
+      "sources_seen": [
+        "hackernews"
+      ],
+      "signal": 0.8,
+      "url": "https://news.ycombinator.com/item?id=50552424",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "keyonte-george",
+      "name": "keyonte george",
+      "aliases": [
+        "keyonte george"
+      ],
+      "phase": "fading",
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "days_seen": 1,
+      "sources_seen": [
+        "google-trends"
+      ],
+      "signal": 0.8,
+      "url": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-11-19/keyonte-george-with-30-and-10-assists-in-win",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "lakers-vs-jazz",
+      "name": "lakers vs jazz",
+      "aliases": [
+        "lakers vs jazz"
+      ],
+      "phase": "fading",
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "days_seen": 1,
+      "sources_seen": [
+        "google-trends"
+      ],
+      "signal": 0.4,
+      "url": "https://www.slcdunk.com/utah-jazz-game-coverage/70812/preview-jazz-look-to-build-momentum-against-la-lakers",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "unauthenticated-remote-code-execution-in-nginx",
+      "name": "Unauthenticated remote code execution in Nginx",
+      "aliases": [
+        "Unauthenticated remote code execution in Nginx"
+      ],
+      "phase": "fading",
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "days_seen": 1,
+      "sources_seen": [
+        "hackernews"
+      ],
+      "signal": 0.4,
+      "url": "https://news.ycombinator.com/item?id=50547374",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "lakers-standings",
+      "name": "lakers standings",
+      "aliases": [
+        "lakers standings"
+      ],
+      "phase": "fading",
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "days_seen": 1,
+      "sources_seen": [
+        "google-trends"
+      ],
+      "signal": 0.267,
+      "url": "https://www.espn.com/nba/story/_/id/50519611/quentin-grimes-2nd-laker-hit-10-3s-single-game",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "multiple-vulnerabilities-in-regexp-and-string-case-conversio",
+      "name": "Multiple vulnerabilities in Regexp and String case conversion",
+      "aliases": [
+        "Multiple vulnerabilities in Regexp and String case conversion"
+      ],
+      "phase": "fading",
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "days_seen": 1,
+      "sources_seen": [
+        "hackernews"
+      ],
+      "signal": 0.267,
+      "url": "https://news.ycombinator.com/item?id=50554038",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "dancing-with-the-stars-american-tv-series-season-35",
+      "name": "Dancing with the Stars (American TV series) season 35",
+      "aliases": [
+        "Dancing with the Stars (American TV series) season 35"
+      ],
+      "phase": "fading",
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "days_seen": 1,
+      "sources_seen": [
+        "wikipedia"
+      ],
+      "signal": 0.2,
+      "url": "https://en.wikipedia.org/wiki/Dancing_with_the_Stars_(American_TV_series)_season_35",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "x-y-ungelo-st",
+      "name": "x y ungelöst",
+      "aliases": [
+        "x y ungelöst"
+      ],
+      "phase": "fading",
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "days_seen": 1,
+      "sources_seen": [
+        "google-trends"
+      ],
+      "signal": 0.2,
+      "url": "https://www.joyn.de/bts/serien/aktenzeichen-xy-ungeloest/aktenzeichen-xy-heute-gibt-es-neue-hinweise-im-fall-alexander-luchterhandt-218185",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "jensen-huang",
+      "name": "Jensen Huang",
+      "aliases": [
+        "Jensen Huang",
+        "Jensen Huang resigns"
+      ],
+      "phase": "fading",
+      "first_seen": "2026-11-10",
+      "last_seen": "2026-11-19",
+      "days_seen": 10,
+      "sources_seen": [
+        "gdelt-ai",
+        "hackernews",
+        "lemmy",
+        "polymarket",
+        "wikipedia"
+      ],
+      "signal": 0.183,
+      "url": "https://polymarket.com/event/jensen-huang-rejoins-nvidia-byptptpt",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "flash-flood-warning",
+      "name": "flash flood warning",
+      "aliases": [
+        "flash flood warning"
+      ],
+      "phase": "fading",
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "days_seen": 1,
+      "sources_seen": [
+        "google-trends"
+      ],
+      "signal": 0.16,
+      "url": "https://www.sfchronicle.com/climate/article/alviso-el-nino-flooding-22495755.php",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "suki-waterhouse",
+      "name": "Suki Waterhouse",
+      "aliases": [
+        "Suki Waterhouse"
+      ],
+      "phase": "fading",
+      "first_seen": "2026-11-17",
+      "last_seen": "2026-11-19",
+      "days_seen": 3,
+      "sources_seen": [
+        "wikipedia"
+      ],
+      "signal": 0.16,
+      "url": "https://en.wikipedia.org/wiki/Suki_Waterhouse",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "mary-peltola",
+      "name": "Mary Peltola",
+      "aliases": [
+        "Mary Peltola"
+      ],
+      "phase": "fading",
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "days_seen": 1,
+      "sources_seen": [
+        "wikipedia"
+      ],
+      "signal": 0.114,
+      "url": "https://en.wikipedia.org/wiki/Mary_Peltola",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "the-body-tv-series",
+      "name": "The Body (TV series)",
+      "aliases": [
+        "The Body (TV series)"
+      ],
+      "phase": "fading",
+      "first_seen": "2026-11-17",
+      "last_seen": "2026-11-19",
+      "days_seen": 3,
+      "sources_seen": [
+        "wikipedia"
+      ],
+      "signal": 0.08,
+      "url": "https://en.wikipedia.org/wiki/The_Body_(TV_series)",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "hayden-panettiere",
+      "name": "hayden panettiere",
+      "aliases": [
+        "hayden panettiere"
+      ],
+      "phase": "closed",
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-18",
+      "days_seen": 1,
+      "sources_seen": [
+        "google-trends"
+      ],
+      "signal": 0.8,
+      "url": "https://people.com/hayden-panettieres-mom-for-the-best-didnt-attend-celebration-life-12260317",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "java4shell-rce-in-openjdk-when-processing-base64",
+      "name": "Java4Shell: RCE in OpenJDK when processing Base64",
+      "aliases": [
+        "Java4Shell: RCE in OpenJDK when processing Base64"
+      ],
+      "phase": "closed",
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-18",
+      "days_seen": 1,
+      "sources_seen": [
+        "hackernews"
+      ],
+      "signal": 0.8,
+      "url": "https://news.ycombinator.com/item?id=50538240",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "screen-studio-4-0",
+      "name": "Screen Studio 4.0",
+      "aliases": [
+        "Screen Studio 4.0"
+      ],
+      "phase": "closed",
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-18",
+      "days_seen": 1,
+      "sources_seen": [
+        "hackernews",
+        "product-hunt",
+        "stackoverflow"
+      ],
+      "signal": 0.445,
+      "url": "https://news.ycombinator.com/item?id=50537156",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "id-me-terms-required-for-irs-sign-in",
+      "name": "ID.me terms required for IRS sign-in",
+      "aliases": [
+        "ID.me terms required for IRS sign-in"
+      ],
+      "phase": "closed",
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-18",
+      "days_seen": 1,
+      "sources_seen": [
+        "hackernews"
+      ],
+      "signal": 0.4,
+      "url": "https://news.ycombinator.com/item?id=50540437",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "gpt-6-2-astra-and-sol",
+      "name": "GPT‑6.2 Astra and Sol",
+      "aliases": [
+        "GPT‑6.2 Astra and Sol"
+      ],
+      "phase": "closed",
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-18",
+      "days_seen": 1,
+      "sources_seen": [
+        "hackernews"
+      ],
+      "signal": 0.267,
+      "url": "https://news.ycombinator.com/item?id=50535230",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "sam-curran",
+      "name": "sam curran",
+      "aliases": [
+        "sam curran"
+      ],
+      "phase": "closed",
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-18",
+      "days_seen": 1,
+      "sources_seen": [
+        "google-trends"
+      ],
+      "signal": 0.267,
+      "url": "https://www.iplt20.com/news/article/mohd-shami-and-m-siddharth-traded-to-rajasthan-royals-sam-curran-traded-to-lucknow-super-giants",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "taiwan-index",
+      "name": "taiwan index",
+      "aliases": [
+        "taiwan index"
+      ],
+      "phase": "closed",
+      "first_seen": "2026-11-12",
+      "last_seen": "2026-11-18",
+      "days_seen": 2,
+      "sources_seen": [
+        "google-trends"
+      ],
+      "signal": 0.2,
+      "url": "https://www.reuters.com/markets/europe/taiwan-stock-exchange-says-it-will-take-stabilisation-measures-if-needed-2026-11-16/",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "jordan-cox",
+      "name": "jordan cox",
+      "aliases": [
+        "jordan cox"
+      ],
+      "phase": "closed",
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-18",
+      "days_seen": 1,
+      "sources_seen": [
+        "google-trends"
+      ],
+      "signal": 0.16,
+      "url": "https://www.cricinfo.com/story/jordan-cox-embraces-all-formats-opportunity-1562937",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "2026-27-uefa-nations-league",
+      "name": "2026–27 UEFA Nations League",
+      "aliases": [
+        "2026–27 UEFA Nations League"
+      ],
+      "phase": "closed",
+      "first_seen": "2026-11-17",
+      "last_seen": "2026-11-18",
+      "days_seen": 2,
+      "sources_seen": [
+        "polymarket",
+        "wikipedia"
+      ],
+      "signal": 0.129,
+      "url": "https://polymarket.com/event/uefa-champions-league-2027-champion-20260701202025549",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "mary-peltola-finally-closes-it-out-in-alaska-politics",
+      "name": "Mary Peltola finally closes it out in Alaska. #politics",
+      "aliases": [
+        "Mary Peltola finally closes it out in Alaska. #politics"
+      ],
+      "phase": "closed",
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-18",
+      "days_seen": 1,
+      "sources_seen": [
+        "mastodon-trending",
+        "polymarket"
+      ],
+      "signal": 0.09,
+      "url": "https://mastodon.social/@WarnerCrocker/117635325010179263",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "carnegie-mellon-is-putting-computer-science-courses-on-youtu",
+      "name": "Carnegie Mellon is putting computer science courses on YouTube for free",
+      "aliases": [
+        "Carnegie Mellon is putting computer science courses on YouTube for free"
+      ],
+      "phase": "closed",
+      "first_seen": "2026-11-17",
+      "last_seen": "2026-11-17",
+      "days_seen": 1,
+      "sources_seen": [
+        "hackernews"
+      ],
+      "signal": 0.8,
+      "url": "https://news.ycombinator.com/item?id=50522980",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "bavendorf",
+      "name": "bavendorf",
+      "aliases": [
+        "bavendorf"
+      ],
+      "phase": "closed",
+      "first_seen": "2026-11-17",
+      "last_seen": "2026-11-17",
+      "days_seen": 1,
+      "sources_seen": [
+        "google-trends"
+      ],
+      "signal": 0.4,
+      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/friedrichshafen/toedlicher-unfall-bei-bavendorf-nach-frontalkollision-100.html",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "windows-11-is-collecting-data-on-which-coding-agents-and-dev",
+      "name": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
+      "aliases": [
+        "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use"
+      ],
+      "phase": "closed",
+      "first_seen": "2026-11-17",
+      "last_seen": "2026-11-17",
+      "days_seen": 1,
+      "sources_seen": [
+        "hackernews"
+      ],
+      "signal": 0.4,
+      "url": "https://news.ycombinator.com/item?id=50524736",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "archive-of-our-own",
+      "name": "Archive of Our Own",
+      "aliases": [
+        "Archive of Our Own"
+      ],
+      "phase": "closed",
+      "first_seen": "2026-11-16",
+      "last_seen": "2026-11-17",
+      "days_seen": 2,
+      "sources_seen": [
+        "wikipedia"
+      ],
+      "signal": 0.267,
+      "url": "https://en.wikipedia.org/wiki/Archive_of_Our_Own",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "bugmenot-has-closed",
+      "name": "BugMeNot has closed",
+      "aliases": [
+        "BugMeNot has closed"
+      ],
+      "phase": "closed",
+      "first_seen": "2026-11-17",
+      "last_seen": "2026-11-17",
+      "days_seen": 1,
+      "sources_seen": [
+        "hackernews"
+      ],
+      "signal": 0.267,
+      "url": "https://news.ycombinator.com/item?id=50523601",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "saqib-khan",
+      "name": "saqib khan",
+      "aliases": [
+        "saqib khan"
+      ],
+      "phase": "closed",
+      "first_seen": "2026-11-17",
+      "last_seen": "2026-11-17",
+      "days_seen": 1,
+      "sources_seen": [
+        "google-trends"
+      ],
+      "signal": 0.267,
+      "url": "https://www.cricinfo.com/story/are-saqib-khan-s-bowling-figures-the-best-on-test-debut-for-pakistan-ask-steven-1562824",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "athletico-x-parana-clube-copa-parana",
+      "name": "athletico x parana clube copa parana",
+      "aliases": [
+        "athletico x parana clube copa parana"
+      ],
+      "phase": "closed",
+      "first_seen": "2026-11-17",
+      "last_seen": "2026-11-17",
+      "days_seen": 1,
+      "sources_seen": [
+        "google-trends"
+      ],
+      "signal": 0.2,
+      "url": "https://ge.globo.com/pr/futebol/taca-fpf/jogo/16-11-2026/atletico-pr-parana.ghtml",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "nba-2k27-x-gta-6-grand-theft-auto-6-official-vice-city-cross",
+      "name": "NBA 2K27 x GTA 6 (Grand Theft Auto 6) - Official Vice City Crossover Trailer",
+      "aliases": [
+        "NBA 2K27 x GTA 6 (Grand Theft Auto 6) - Official Vice City Crossover Trailer"
+      ],
+      "phase": "closed",
+      "first_seen": "2026-11-17",
+      "last_seen": "2026-11-17",
+      "days_seen": 1,
+      "sources_seen": [
+        "wikipedia",
+        "youtube"
+      ],
+      "signal": 0.13,
+      "url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "saturn-devouring-his-son",
+      "name": "Saturn Devouring His Son",
+      "aliases": [
+        "Saturn Devouring His Son"
+      ],
+      "phase": "closed",
+      "first_seen": "2026-11-17",
+      "last_seen": "2026-11-17",
+      "days_seen": 1,
+      "sources_seen": [
+        "wikipedia"
+      ],
+      "signal": 0.114,
+      "url": "https://en.wikipedia.org/wiki/Saturn_Devouring_His_Son",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "august-holmgren",
+      "name": "august holmgren",
+      "aliases": [
+        "august holmgren"
+      ],
+      "phase": "closed",
+      "first_seen": "2026-11-17",
+      "last_seen": "2026-11-17",
+      "days_seen": 1,
+      "sources_seen": [
+        "google-trends",
+        "polymarket"
+      ],
+      "signal": 0.113,
+      "url": "https://robinhood.com/us/en/prediction-markets/tennis/events/3aad038e-7138-40b0-ab13-71d2a25d41cf/",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "project-helix-xbox-console",
+      "name": "project helix xbox console",
+      "aliases": [
+        "project helix xbox console"
+      ],
+      "phase": "closed",
+      "first_seen": "2026-11-16",
+      "last_seen": "2026-11-16",
+      "days_seen": 1,
+      "sources_seen": [
+        "google-trends"
+      ],
+      "signal": 0.8,
+      "url": "https://www.windowscentral.com/gaming/xbox/microsoft-says-xbox-helix-is-a-console-not-a-pc-but-it-will-be-able-to-play-your-pc-games-helix-is-designed-to-be-a-console-that-can-also-play-games-from-your-pc",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "universal-xss-in-ublock-origin-from-website-driven-element-p",
+      "name": "Universal XSS in uBlock Origin from website-driven element picker",
+      "aliases": [
+        "Universal XSS in uBlock Origin from website-driven element picker"
+      ],
+      "phase": "closed",
+      "first_seen": "2026-11-16",
+      "last_seen": "2026-11-16",
+      "days_seen": 1,
+      "sources_seen": [
+        "hackernews"
+      ],
+      "signal": 0.8,
+      "url": "https://news.ycombinator.com/item?id=50513160",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "dota-2",
+      "name": "Dota 2",
+      "aliases": [
+        "Dota 2"
+      ],
+      "phase": "closed",
+      "first_seen": "2026-11-14",
+      "last_seen": "2026-11-16",
+      "days_seen": 2,
+      "sources_seen": [
+        "polymarket",
+        "steam"
+      ],
+      "signal": 0.529,
+      "url": "https://polymarket.com/event/dota2-p-ovea-2026-11-13",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "all-ai-generated-code-should-be-open-source",
+      "name": "All AI-generated code should be Open Source",
+      "aliases": [
+        "All AI-generated code should be Open Source"
+      ],
+      "phase": "closed",
+      "first_seen": "2026-11-16",
+      "last_seen": "2026-11-16",
+      "days_seen": 1,
+      "sources_seen": [
+        "github",
+        "lemmy"
+      ],
+      "signal": 0.417,
+      "url": "https://github.com/alibaba/open-code-review",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "9-11",
+      "name": "9/11",
+      "aliases": [
+        "9/11"
+      ],
+      "phase": "closed",
+      "first_seen": "2026-11-16",
+      "last_seen": "2026-11-16",
+      "days_seen": 1,
+      "sources_seen": [
+        "wikipedia"
+      ],
+      "signal": 0.4,
+      "url": "https://en.wikipedia.org/wiki/9%2F11",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "met-office-uk-snow-warning-tuesday",
+      "name": "met office uk snow warning tuesday",
+      "aliases": [
+        "met office uk snow warning tuesday"
+      ],
+      "phase": "closed",
+      "first_seen": "2026-11-16",
+      "last_seen": "2026-11-16",
+      "days_seen": 1,
+      "sources_seen": [
+        "google-trends"
+      ],
+      "signal": 0.4,
+      "url": "https://www.bbc.co.uk/weather/articles/cqe879916895o",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "qwen4-max",
+      "name": "Qwen4-Max",
+      "aliases": [
+        "Qwen4-Max"
+      ],
+      "phase": "closed",
+      "first_seen": "2026-11-16",
+      "last_seen": "2026-11-16",
+      "days_seen": 1,
+      "sources_seen": [
+        "hackernews"
+      ],
+      "signal": 0.4,
+      "url": "https://news.ycombinator.com/item?id=50513215",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "old-bitly-links-are-being-hijacked",
+      "name": "Old Bitly links are being hijacked",
+      "aliases": [
+        "Old Bitly links are being hijacked"
+      ],
+      "phase": "closed",
+      "first_seen": "2026-11-16",
+      "last_seen": "2026-11-16",
+      "days_seen": 1,
+      "sources_seen": [
+        "hackernews"
+      ],
+      "signal": 0.267,
+      "url": "https://news.ycombinator.com/item?id=50511395",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "who-left-strictly-last-night",
+      "name": "who left strictly last night",
+      "aliases": [
+        "who left strictly last night"
+      ],
+      "phase": "closed",
+      "first_seen": "2026-11-16",
+      "last_seen": "2026-11-16",
+      "days_seen": 1,
+      "sources_seen": [
+        "google-trends"
+      ],
+      "signal": 0.267,
+      "url": "https://www.telegraph.co.uk/tv/2026/11/15/strictly-come-dancing-sunday-recap/",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "tomate",
+      "name": "tomate",
+      "aliases": [
+        "tomate"
+      ],
+      "phase": "closed",
+      "first_seen": "2026-11-16",
+      "last_seen": "2026-11-16",
+      "days_seen": 1,
+      "sources_seen": [
+        "google-trends"
+      ],
+      "signal": 0.2,
+      "url": "https://g1.globo.com/fantastico/noticia/2026/11/15/chuvas-atipicas-e-el-nino-fazem-preco-do-tomate-disparar-e-atingir-maior-patamar-historico-no-brasil.ghtml",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "andhra-pradesh",
+      "name": "andhra pradesh",
+      "aliases": [
+        "andhra pradesh"
+      ],
+      "phase": "closed",
+      "first_seen": "2026-11-16",
+      "last_seen": "2026-11-16",
+      "days_seen": 1,
+      "sources_seen": [
+        "google-trends"
+      ],
+      "signal": 0.16,
+      "url": "https://www.thehindu.com/news/national/odisha/odisha-orders-early-evacuation-of-vulnerable-areas-as-cyclone-threat-looms/article71706877.ece",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "ufc-334",
+      "name": "UFC 334",
+      "aliases": [
+        "UFC 334"
+      ],
+      "phase": "closed",
+      "first_seen": "2026-11-16",
+      "last_seen": "2026-11-16",
+      "days_seen": 1,
+      "sources_seen": [
+        "wikipedia"
+      ],
+      "signal": 0.16,
+      "url": "https://en.wikipedia.org/wiki/UFC_334",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "full-gear-2026",
+      "name": "Full Gear (2026)",
+      "aliases": [
+        "Full Gear (2026)"
+      ],
+      "phase": "closed",
+      "first_seen": "2026-11-16",
+      "last_seen": "2026-11-16",
+      "days_seen": 1,
+      "sources_seen": [
+        "wikipedia"
+      ],
+      "signal": 0.1,
+      "url": "https://en.wikipedia.org/wiki/Full_Gear_(2026)",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "josh-hokit",
+      "name": "Josh Hokit",
+      "aliases": [
+        "Josh Hokit"
+      ],
+      "phase": "closed",
+      "first_seen": "2026-11-16",
+      "last_seen": "2026-11-16",
+      "days_seen": 1,
+      "sources_seen": [
+        "wikipedia"
+      ],
+      "signal": 0.089,
+      "url": "https://en.wikipedia.org/wiki/Josh_Hokit",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "sean-duffy",
+      "name": "Sean Duffy",
+      "aliases": [
+        "Sean Duffy"
+      ],
+      "phase": "closed",
+      "first_seen": "2026-11-15",
+      "last_seen": "2026-11-16",
+      "days_seen": 2,
+      "sources_seen": [
+        "wikipedia"
+      ],
+      "signal": 0.08,
+      "url": "https://en.wikipedia.org/wiki/Sean_Duffy",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "arshdeep-singh",
+      "name": "arshdeep singh",
+      "aliases": [
+        "arshdeep singh"
+      ],
+      "phase": "closed",
+      "first_seen": "2026-11-15",
+      "last_seen": "2026-11-15",
+      "days_seen": 1,
+      "sources_seen": [
+        "google-trends"
+      ],
+      "signal": 0.8,
+      "url": "https://www.cricbuzz.com/player-match-performance/match/161282/player/8554/bowling?inningsId=1",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "spacex-catches-the-starship-to-end-flight-15",
+      "name": "SpaceX catches the Starship to end Flight 15",
+      "aliases": [
+        "SpaceX catches the Starship to end Flight 15"
+      ],
+      "phase": "closed",
+      "first_seen": "2026-11-15",
+      "last_seen": "2026-11-15",
+      "days_seen": 1,
+      "sources_seen": [
+        "hackernews"
+      ],
+      "signal": 0.8,
+      "url": "https://news.ycombinator.com/item?id=50500963",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "eng-vs-aus",
+      "name": "eng vs aus",
+      "aliases": [
+        "eng vs aus",
+        "aus vs eng"
+      ],
+      "phase": "closed",
+      "first_seen": "2026-11-15",
+      "last_seen": "2026-11-15",
+      "days_seen": 1,
+      "sources_seen": [
+        "google-trends"
+      ],
+      "signal": 0.6,
+      "url": "https://www.theguardian.com/sport/live/2026/nov/15/australia-vs-england-cricket-second-odi-mens-one-day-international-adelaide-live-scores-updates?page=with:block-6af948db8f089036c711ea29",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "lovable-apps-expose-passport-details-and-more-than-200k-priv",
+      "name": "Lovable apps expose passport details and more than 200K private messages",
+      "aliases": [
+        "Lovable apps expose passport details and more than 200K private messages"
+      ],
+      "phase": "closed",
+      "first_seen": "2026-11-15",
+      "last_seen": "2026-11-15",
+      "days_seen": 1,
+      "sources_seen": [
+        "hackernews"
+      ],
+      "signal": 0.4,
+      "url": "https://news.ycombinator.com/item?id=50499017",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "daniel-cormier",
+      "name": "daniel cormier",
+      "aliases": [
+        "daniel cormier"
+      ],
+      "phase": "closed",
+      "first_seen": "2026-11-15",
+      "last_seen": "2026-11-15",
+      "days_seen": 1,
+      "sources_seen": [
+        "google-trends"
+      ],
+      "signal": 0.267,
+      "url": "https://www.espn.com/mma/story/_/id/50471378/8-people-get-prison-nurmagomedov-dvalishvili-brawl",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "memory-safety-bugs-in-rust-standard-library",
+      "name": "Memory Safety Bugs in Rust Standard Library",
+      "aliases": [
+        "Memory Safety Bugs in Rust Standard Library"
+      ],
+      "phase": "closed",
+      "first_seen": "2026-11-15",
+      "last_seen": "2026-11-15",
+      "days_seen": 1,
+      "sources_seen": [
+        "hackernews"
+      ],
+      "signal": 0.267,
+      "url": "https://news.ycombinator.com/item?id=50478701",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "resumo-novela-quem-ama-cuida",
+      "name": "resumo novela quem ama cuida",
+      "aliases": [
+        "resumo novela quem ama cuida"
+      ],
+      "phase": "closed",
+      "first_seen": "2026-11-14",
+      "last_seen": "2026-11-15",
+      "days_seen": 2,
+      "sources_seen": [
+        "google-trends"
+      ],
+      "signal": 0.16,
+      "url": "https://gshow.globo.com/novelas/quem-ama-cuida/video/quem-ama-cuida-confira-cenas-do-proximo-capitulo-dia-1411-15182056.ghtml",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "markwayne-mullin",
+      "name": "Markwayne Mullin",
+      "aliases": [
+        "Markwayne Mullin"
+      ],
+      "phase": "closed",
+      "first_seen": "2026-11-15",
+      "last_seen": "2026-11-15",
+      "days_seen": 1,
+      "sources_seen": [
+        "wikipedia"
+      ],
+      "signal": 0.1,
+      "url": "https://en.wikipedia.org/wiki/Markwayne_Mullin",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "nvidia",
+      "name": "Nvidia",
+      "aliases": [
+        "Nvidia"
+      ],
+      "phase": "closed",
+      "first_seen": "2026-11-10",
+      "last_seen": "2026-11-15",
+      "days_seen": 4,
+      "sources_seen": [
+        "wikipedia"
+      ],
+      "signal": 0.089,
+      "url": "https://en.wikipedia.org/wiki/Nvidia",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "sam-hartman",
+      "name": "Sam Hartman",
+      "aliases": [
+        "Sam Hartman"
+      ],
+      "phase": "closed",
+      "first_seen": "2026-11-14",
+      "last_seen": "2026-11-15",
+      "days_seen": 2,
+      "sources_seen": [
+        "wikipedia"
+      ],
+      "signal": 0.08,
+      "url": "https://en.wikipedia.org/wiki/Sam_Hartman",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "nvidia-allegedly-engineered-scarcity-by-funding-ai-startups",
+      "name": "Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs",
+      "aliases": [
+        "Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs"
+      ],
+      "phase": "closed",
+      "first_seen": "2026-11-14",
+      "last_seen": "2026-11-14",
+      "days_seen": 1,
+      "sources_seen": [
+        "hackernews",
+        "mastodon-trending"
+      ],
+      "signal": 0.971,
+      "url": "https://news.ycombinator.com/item?id=50493251",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "epfo",
+      "name": "epfo",
+      "aliases": [
+        "epfo"
+      ],
+      "phase": "closed",
+      "first_seen": "2026-11-14",
+      "last_seen": "2026-11-14",
+      "days_seen": 1,
+      "sources_seen": [
+        "google-trends"
+      ],
+      "signal": 0.8,
+      "url": "https://hr.economictimes.indiatimes.com/news/industry/epfo-cbt-meeting-on-nov-19-may-discuss-hike-in-minimum-eps-pension-to-rs-3000/135726531?utm_source=portal_category_widget&amp;utm_medium=homepage",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "ggml-v1-0-0",
+      "name": "Ggml v1.0.0",
+      "aliases": [
+        "Ggml v1.0.0"
+      ],
+      "phase": "closed",
+      "first_seen": "2026-11-14",
+      "last_seen": "2026-11-14",
+      "days_seen": 1,
+      "sources_seen": [
+        "hackernews"
+      ],
+      "signal": 0.8,
+      "url": "https://news.ycombinator.com/item?id=50493062",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "qwen-qwen3-8-27b",
+      "name": "Qwen/Qwen3.8-27B",
+      "aliases": [
+        "Qwen/Qwen3.8-27B"
+      ],
+      "phase": "closed",
+      "first_seen": "2026-11-14",
+      "last_seen": "2026-11-14",
+      "days_seen": 1,
+      "sources_seen": [
+        "hackernews",
+        "huggingface"
+      ],
+      "signal": 0.471,
+      "url": "https://news.ycombinator.com/item?id=50491980",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "show-hn-live-map-of-u-s-flights-during-tonight-s-faa-nationw",
+      "name": "Show HN: Live map of U.S. flights during tonight's FAA nationwide ground stop",
+      "aliases": [
+        "Show HN: Live map of U.S. flights during tonight's FAA nationwide ground stop"
+      ],
+      "phase": "closed",
+      "first_seen": "2026-11-14",
+      "last_seen": "2026-11-14",
+      "days_seen": 1,
+      "sources_seen": [
+        "hackernews",
+        "lemmy"
+      ],
+      "signal": 0.301,
+      "url": "https://news.ycombinator.com/item?id=50491545",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "faa-issues-national-ground-stop-lifted-4-5-hours-later",
+      "name": "FAA issues national ground stop – lifted 4.5 hours later",
+      "aliases": [
+        "FAA issues national ground stop – lifted 4.5 hours later"
+      ],
+      "phase": "closed",
+      "first_seen": "2026-11-14",
+      "last_seen": "2026-11-14",
+      "days_seen": 1,
+      "sources_seen": [
+        "hackernews"
+      ],
+      "signal": 0.267,
+      "url": "https://news.ycombinator.com/item?id=50489641",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "max-dowman",
+      "name": "max dowman",
+      "aliases": [
+        "max dowman"
+      ],
+      "phase": "closed",
+      "first_seen": "2026-11-14",
+      "last_seen": "2026-11-14",
+      "days_seen": 1,
+      "sources_seen": [
+        "google-trends"
+      ],
+      "signal": 0.267,
+      "url": "https://www.skysports.com/football/news/13611991/england-0-1-portugal-max-dowman-makes-debut-off-the-bench-as-u21s-suffer-defeat-in-friendly",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "what-a-blessing-to-share-a-meal-with-someone-you-love-photo",
+      "name": "What a blessing to share a meal with someone you love. Photo from my collection, no date/info. ￼",
+      "aliases": [
+        "What a blessing to share a meal with someone you love. Photo from my collection, no date/info. ￼"
+      ],
+      "phase": "closed",
+      "first_seen": "2026-11-14",
+      "last_seen": "2026-11-14",
+      "days_seen": 1,
+      "sources_seen": [
+        "bluesky",
+        "mastodon-trending"
+      ],
+      "signal": 0.202,
+      "url": "https://bsky.app/profile/catsofyore.bsky.social/post/3n2agrybbqc2r",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "colette-kress",
+      "name": "Colette Kress",
+      "aliases": [
+        "Colette Kress"
+      ],
+      "phase": "closed",
+      "first_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
+      "days_seen": 2,
+      "sources_seen": [
+        "wikipedia"
+      ],
+      "signal": 0.2,
+      "url": "https://en.wikipedia.org/wiki/Colette_Kress",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "chris-van-hollen",
+      "name": "Chris Van Hollen",
+      "aliases": [
+        "Chris Van Hollen"
+      ],
+      "phase": "closed",
+      "first_seen": "2026-11-14",
+      "last_seen": "2026-11-14",
+      "days_seen": 1,
+      "sources_seen": [
+        "wikipedia"
+      ],
+      "signal": 0.133,
+      "url": "https://en.wikipedia.org/wiki/Chris_Van_Hollen",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "piracy",
+      "name": "Piracy",
+      "aliases": [
+        "Piracy"
+      ],
+      "phase": "closed",
+      "first_seen": "2026-11-14",
+      "last_seen": "2026-11-14",
+      "days_seen": 1,
+      "sources_seen": [
+        "wikipedia"
+      ],
+      "signal": 0.114,
+      "url": "https://en.wikipedia.org/wiki/Piracy",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "alice-huang-executive",
+      "name": "Alice Huang (executive)",
+      "aliases": [
+        "Alice Huang (executive)"
+      ],
+      "phase": "closed",
+      "first_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
+      "days_seen": 2,
+      "sources_seen": [
+        "wikipedia"
+      ],
+      "signal": 0.1,
+      "url": "https://en.wikipedia.org/wiki/Alice_Huang_(executive)",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "mauricio-pochettino",
+      "name": "Mauricio Pochettino",
+      "aliases": [
+        "Mauricio Pochettino"
+      ],
+      "phase": "closed",
+      "first_seen": "2026-11-12",
+      "last_seen": "2026-11-14",
+      "days_seen": 3,
+      "sources_seen": [
+        "wikipedia"
+      ],
+      "signal": 0.08,
+      "url": "https://en.wikipedia.org/wiki/Mauricio_Pochettino",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "afg-vs-zim",
+      "name": "afg vs zim",
+      "aliases": [
+        "afg vs zim"
+      ],
+      "phase": "closed",
+      "first_seen": "2026-11-13",
+      "last_seen": "2026-11-13",
+      "days_seen": 1,
+      "sources_seen": [
+        "google-trends"
+      ],
+      "signal": 0.8,
+      "url": "https://www.cricinfo.com/series/afghanistan-v-zimbabwe-2026-27-1555105/afghanistan-vs-zimbabwe-2nd-test-1555124/match-preview",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "icewm",
+      "name": "IceWM",
+      "aliases": [
+        "IceWM"
+      ],
+      "phase": "closed",
+      "first_seen": "2026-11-13",
+      "last_seen": "2026-11-13",
+      "days_seen": 1,
+      "sources_seen": [
+        "hackernews"
+      ],
+      "signal": 0.4,
+      "url": "https://news.ycombinator.com/item?id=50478515",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "kyle-jamieson",
+      "name": "kyle jamieson",
+      "aliases": [
+        "kyle jamieson"
+      ],
+      "phase": "closed",
+      "first_seen": "2026-11-13",
+      "last_seen": "2026-11-13",
+      "days_seen": 1,
+      "sources_seen": [
+        "google-trends"
+      ],
+      "signal": 0.4,
+      "url": "https://www.thehindu.com/sport/cricket/ind-vs-nz-odi-series-lack-of-continuity-in-bowling-unit-due-to-injuries-is-frustrating-says-kyle-jamieson/article71685338.ece",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "naman-dhir",
+      "name": "naman dhir",
+      "aliases": [
+        "naman dhir"
+      ],
+      "phase": "closed",
+      "first_seen": "2026-11-13",
+      "last_seen": "2026-11-13",
+      "days_seen": 1,
+      "sources_seen": [
+        "google-trends"
+      ],
+      "signal": 0.267,
+      "url": null,
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "rust-1-100",
+      "name": "Rust 1.100",
+      "aliases": [
+        "Rust 1.100"
+      ],
+      "phase": "closed",
+      "first_seen": "2026-11-13",
+      "last_seen": "2026-11-13",
+      "days_seen": 1,
+      "sources_seen": [
+        "hackernews"
+      ],
+      "signal": 0.267,
+      "url": "https://news.ycombinator.com/item?id=50472038",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "a-fazenda-18-enquetes",
+      "name": "a fazenda 18 enquetes",
+      "aliases": [
+        "a fazenda 18 enquetes"
+      ],
+      "phase": "closed",
+      "first_seen": "2026-11-13",
+      "last_seen": "2026-11-13",
+      "days_seen": 1,
+      "sources_seen": [
+        "google-trends"
+      ],
+      "signal": 0.2,
+      "url": "https://f5.folha.uol.com.br/televisao/a-fazenda-18/2026/11/a-fazenda-18-enquete-mostra-quem-deve-ser-eliminado-do-reality.shtml",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "anthony-clark-actor",
+      "name": "Anthony Clark (actor)",
+      "aliases": [
+        "Anthony Clark (actor)"
+      ],
+      "phase": "closed",
+      "first_seen": "2026-11-13",
+      "last_seen": "2026-11-13",
+      "days_seen": 1,
+      "sources_seen": [
+        "wikipedia"
+      ],
+      "signal": 0.2,
+      "url": "https://en.wikipedia.org/wiki/Anthony_Clark_(actor)",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "2026-united-states-elections",
+      "name": "2026 United States elections",
+      "aliases": [
+        "2026 United States elections",
+        "SS United States"
+      ],
+      "phase": "closed",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-13",
+      "days_seen": 2,
+      "sources_seen": [
+        "wikipedia"
+      ],
+      "signal": 0.114,
+      "url": "https://en.wikipedia.org/wiki/SS_United_States",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "scott-colom",
+      "name": "Scott Colom",
+      "aliases": [
+        "Scott Colom"
+      ],
+      "phase": "closed",
+      "first_seen": "2026-11-13",
+      "last_seen": "2026-11-13",
+      "days_seen": 1,
+      "sources_seen": [
+        "wikipedia"
+      ],
+      "signal": 0.1,
+      "url": "https://en.wikipedia.org/wiki/Scott_Colom",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "nvidia-announces-ceo-transition",
+      "name": "NVIDIA Announces CEO Transition",
+      "aliases": [
+        "NVIDIA Announces CEO Transition"
+      ],
+      "phase": "closed",
+      "first_seen": "2026-11-13",
+      "last_seen": "2026-11-13",
+      "days_seen": 1,
+      "sources_seen": [
+        "lemmy",
+        "polymarket"
+      ],
+      "signal": 0.092,
+      "url": "https://lemmy.world/post/54323769",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "bernard-tomic",
+      "name": "bernard tomic",
+      "aliases": [
+        "bernard tomic"
+      ],
+      "phase": "closed",
+      "first_seen": "2026-11-13",
+      "last_seen": "2026-11-13",
+      "days_seen": 1,
+      "sources_seen": [
+        "google-trends",
+        "polymarket"
+      ],
+      "signal": 0.065,
+      "url": "https://worldtennismagazine.com/bernard-tomic-ends-three-year-title-drought-mondays-with-bob-greene/",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "93-of-paint-splatters-are-valid-perl-programs-2019",
+      "name": "93% of paint splatters are valid Perl programs (2019)",
+      "aliases": [
+        "93% of paint splatters are valid Perl programs (2019)"
+      ],
+      "phase": "closed",
+      "first_seen": "2026-11-12",
+      "last_seen": "2026-11-12",
+      "days_seen": 1,
+      "sources_seen": [
+        "hackernews"
+      ],
+      "signal": 0.8,
+      "url": "https://news.ycombinator.com/item?id=50459745",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "stacy-keach",
+      "name": "Stacy Keach",
+      "aliases": [
+        "Stacy Keach"
+      ],
+      "phase": "closed",
+      "first_seen": "2026-11-12",
+      "last_seen": "2026-11-12",
+      "days_seen": 1,
+      "sources_seen": [
+        "wikipedia"
+      ],
+      "signal": 0.4,
+      "url": "https://en.wikipedia.org/wiki/Stacy_Keach",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "stephen-curry",
+      "name": "stephen curry",
+      "aliases": [
+        "stephen curry"
+      ],
+      "phase": "closed",
+      "first_seen": "2026-11-12",
+      "last_seen": "2026-11-12",
+      "days_seen": 1,
+      "sources_seen": [
+        "google-trends"
+      ],
+      "signal": 0.4,
+      "url": "https://www.espn.com/watch/player/_/id/50458333",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "tim-peters-has-died",
+      "name": "Tim Peters has died",
+      "aliases": [
+        "Tim Peters has died"
+      ],
+      "phase": "closed",
+      "first_seen": "2026-11-12",
+      "last_seen": "2026-11-12",
+      "days_seen": 1,
+      "sources_seen": [
+        "hackernews"
+      ],
+      "signal": 0.4,
+      "url": "https://news.ycombinator.com/item?id=50450488",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "aws-emulator",
+      "name": "AWS emulator",
+      "aliases": [
+        "AWS emulator"
+      ],
+      "phase": "closed",
+      "first_seen": "2026-11-12",
+      "last_seen": "2026-11-12",
+      "days_seen": 1,
+      "sources_seen": [
+        "hackernews"
+      ],
+      "signal": 0.267,
+      "url": "https://news.ycombinator.com/item?id=50456631",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "golden-joystick-awards-nominees",
+      "name": "golden joystick awards nominees",
+      "aliases": [
+        "golden joystick awards nominees"
+      ],
+      "phase": "closed",
+      "first_seen": "2026-11-12",
+      "last_seen": "2026-11-12",
+      "days_seen": 1,
+      "sources_seen": [
+        "google-trends"
+      ],
+      "signal": 0.267,
+      "url": "https://www.polygon.com/golden-joystick-awards-2026-all-winners-game-of-the-year/",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "david-walliams",
+      "name": "David Walliams",
+      "aliases": [
+        "David Walliams"
+      ],
+      "phase": "closed",
+      "first_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
+      "days_seen": 2,
+      "sources_seen": [
+        "wikipedia"
+      ],
+      "signal": 0.2,
+      "url": "https://en.wikipedia.org/wiki/David_Walliams",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "razaullah",
+      "name": "razaullah",
+      "aliases": [
+        "razaullah"
+      ],
+      "phase": "closed",
+      "first_seen": "2026-11-12",
+      "last_seen": "2026-11-12",
+      "days_seen": 1,
+      "sources_seen": [
+        "google-trends"
+      ],
+      "signal": 0.2,
+      "url": null,
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "visionquest",
+      "name": "VisionQuest",
+      "aliases": [
+        "VisionQuest"
+      ],
+      "phase": "closed",
+      "first_seen": "2026-11-12",
+      "last_seen": "2026-11-12",
+      "days_seen": 1,
+      "sources_seen": [
+        "wikipedia"
+      ],
+      "signal": 0.16,
+      "url": "https://en.wikipedia.org/wiki/VisionQuest",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "russell-brand",
+      "name": "Russell Brand",
+      "aliases": [
+        "Russell Brand"
+      ],
+      "phase": "closed",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-12",
+      "days_seen": 4,
+      "sources_seen": [
+        "wikipedia"
+      ],
+      "signal": 0.114,
+      "url": "https://en.wikipedia.org/wiki/Russell_Brand",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "mississippi-elects-democrat-scott-colom-as-state-s-first-bla",
+      "name": "Mississippi elects Democrat Scott Colom as state's first Black US senator since Reconstruction",
+      "aliases": [
+        "Mississippi elects Democrat Scott Colom as state's first Black US senator since Reconstruction"
+      ],
+      "phase": "closed",
+      "first_seen": "2026-11-12",
+      "last_seen": "2026-11-12",
+      "days_seen": 1,
+      "sources_seen": [
+        "lemmy",
+        "mastodon-trending"
+      ],
+      "signal": 0.107,
+      "url": "https://lemmy.world/post/54297149",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "ss-edmund-fitzgerald",
+      "name": "SS Edmund Fitzgerald",
+      "aliases": [
+        "SS Edmund Fitzgerald"
+      ],
+      "phase": "closed",
+      "first_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
+      "days_seen": 2,
+      "sources_seen": [
+        "wikipedia"
+      ],
+      "signal": 0.089,
+      "url": "https://en.wikipedia.org/wiki/SS_Edmund_Fitzgerald",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    }
+  ],
+  "research_queue": [
+    "thinkingmachines-inkling-2-mini",
+    "grand-theft-auto-vi",
+    "keanu-reeves"
+  ]
+}

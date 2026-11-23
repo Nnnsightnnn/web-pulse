@@ -1,0 +1,35 @@
+{
+  "id": "bugmenot-has-closed",
+  "name": "BugMeNot has closed",
+  "aliases": [
+    "BugMeNot has closed"
+  ],
+  "first_seen": "2026-11-17",
+  "last_seen": "2026-11-17",
+  "days_seen": 1,
+  "phase": "closed",
+  "sources_seen": [
+    "hackernews"
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-17",
+      "sources": [
+        "hackernews"
+      ],
+      "signal": 0.26666666666666666,
+      "items": [
+        {
+          "source": "hackernews",
+          "title": "BugMeNot has closed",
+          "url": "https://news.ycombinator.com/item?id=50523601",
+          "rank": 3,
+          "movement": "new"
+        }
+      ]
+    }
+  ],
+  "explainer": null,
+  "explainer_history": [],
+  "needs_research": false
+}

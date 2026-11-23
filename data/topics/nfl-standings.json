@@ -1,0 +1,35 @@
+{
+  "id": "nfl-standings",
+  "name": "nfl standings",
+  "aliases": [
+    "nfl standings"
+  ],
+  "first_seen": "2026-11-09",
+  "last_seen": "2026-11-09",
+  "days_seen": 1,
+  "phase": "closed",
+  "sources_seen": [
+    "google-trends"
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-09",
+      "sources": [
+        "google-trends"
+      ],
+      "signal": 0.8,
+      "items": [
+        {
+          "source": "google-trends",
+          "title": "nfl standings",
+          "url": "https://www.espn.com/nfl/story/_/id/50426396/jets-frustrated-geno-smith-membou",
+          "rank": 1,
+          "movement": "new"
+        }
+      ]
+    }
+  ],
+  "explainer": null,
+  "explainer_history": [],
+  "needs_research": false
+}

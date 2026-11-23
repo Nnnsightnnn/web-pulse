@@ -1,0 +1,35 @@
+{
+  "id": "lakers-vs-jazz",
+  "name": "lakers vs jazz",
+  "aliases": [
+    "lakers vs jazz"
+  ],
+  "first_seen": "2026-11-19",
+  "last_seen": "2026-11-19",
+  "days_seen": 1,
+  "phase": "fading",
+  "sources_seen": [
+    "google-trends"
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-19",
+      "sources": [
+        "google-trends"
+      ],
+      "signal": 0.4,
+      "items": [
+        {
+          "source": "google-trends",
+          "title": "lakers vs jazz",
+          "url": "https://www.slcdunk.com/utah-jazz-game-coverage/70812/preview-jazz-look-to-build-momentum-against-la-lakers",
+          "rank": 2,
+          "movement": "new"
+        }
+      ]
+    }
+  ],
+  "explainer": null,
+  "explainer_history": [],
+  "needs_research": false
+}

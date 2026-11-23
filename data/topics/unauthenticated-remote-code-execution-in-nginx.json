@@ -1,0 +1,35 @@
+{
+  "id": "unauthenticated-remote-code-execution-in-nginx",
+  "name": "Unauthenticated remote code execution in Nginx",
+  "aliases": [
+    "Unauthenticated remote code execution in Nginx"
+  ],
+  "first_seen": "2026-11-19",
+  "last_seen": "2026-11-19",
+  "days_seen": 1,
+  "phase": "fading",
+  "sources_seen": [
+    "hackernews"
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-19",
+      "sources": [
+        "hackernews"
+      ],
+      "signal": 0.4,
+      "items": [
+        {
+          "source": "hackernews",
+          "title": "Unauthenticated remote code execution in Nginx",
+          "url": "https://news.ycombinator.com/item?id=50547374",
+          "rank": 2,
+          "movement": "new"
+        }
+      ]
+    }
+  ],
+  "explainer": null,
+  "explainer_history": [],
+  "needs_research": false
+}

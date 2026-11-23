@@ -1,0 +1,51 @@
+{
+  "id": "ansel-adams",
+  "name": "Ansel Adams",
+  "aliases": [
+    "Ansel Adams"
+  ],
+  "first_seen": "2026-11-15",
+  "last_seen": "2026-11-22",
+  "days_seen": 2,
+  "phase": "climbing",
+  "sources_seen": [
+    "wikipedia"
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-15",
+      "sources": [
+        "wikipedia"
+      ],
+      "signal": 0.13333333333333333,
+      "items": [
+        {
+          "source": "wikipedia",
+          "title": "Ansel Adams",
+          "url": "https://en.wikipedia.org/wiki/Ansel_Adams",
+          "rank": 6,
+          "movement": "climbing"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-22",
+      "sources": [
+        "wikipedia"
+      ],
+      "signal": 0.08888888888888889,
+      "items": [
+        {
+          "source": "wikipedia",
+          "title": "Ansel Adams",
+          "url": "https://en.wikipedia.org/wiki/Ansel_Adams",
+          "rank": 9,
+          "movement": "climbing"
+        }
+      ]
+    }
+  ],
+  "explainer": null,
+  "explainer_history": [],
+  "needs_research": false
+}

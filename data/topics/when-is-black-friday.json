@@ -1,0 +1,52 @@
+{
+  "id": "when-is-black-friday",
+  "name": "when is black friday",
+  "aliases": [
+    "when is black friday",
+    "biggest black friday deals"
+  ],
+  "first_seen": "2026-11-20",
+  "last_seen": "2026-11-21",
+  "days_seen": 2,
+  "phase": "fading",
+  "sources_seen": [
+    "google-trends"
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-20",
+      "sources": [
+        "google-trends"
+      ],
+      "signal": 0.16,
+      "items": [
+        {
+          "source": "google-trends",
+          "title": "when is black friday",
+          "url": "https://www.theguardian.com/thefilter/2026/nov/19/best-early-black-friday-deals-2026-tested-uk",
+          "rank": 5,
+          "movement": "new"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-21",
+      "sources": [
+        "google-trends"
+      ],
+      "signal": 0.16,
+      "items": [
+        {
+          "source": "google-trends",
+          "title": "biggest black friday deals",
+          "url": "https://www.cnn.com/cnn-underscored/deals/best-black-friday-deals-2026-11-20",
+          "rank": 5,
+          "movement": "new"
+        }
+      ]
+    }
+  ],
+  "explainer": null,
+  "explainer_history": [],
+  "needs_research": false
+}

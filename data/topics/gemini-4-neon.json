@@ -1,0 +1,35 @@
+{
+  "id": "gemini-4-neon",
+  "name": "Gemini 4 Neon",
+  "aliases": [
+    "Gemini 4 Neon"
+  ],
+  "first_seen": "2026-11-19",
+  "last_seen": "2026-11-19",
+  "days_seen": 1,
+  "phase": "fading",
+  "sources_seen": [
+    "hackernews"
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-19",
+      "sources": [
+        "hackernews"
+      ],
+      "signal": 0.8,
+      "items": [
+        {
+          "source": "hackernews",
+          "title": "Gemini 4 Neon",
+          "url": "https://news.ycombinator.com/item?id=50552424",
+          "rank": 1,
+          "movement": "new"
+        }
+      ]
+    }
+  ],
+  "explainer": null,
+  "explainer_history": [],
+  "needs_research": false
+}

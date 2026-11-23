@@ -1,0 +1,35 @@
+{
+  "id": "qwen4-max",
+  "name": "Qwen4-Max",
+  "aliases": [
+    "Qwen4-Max"
+  ],
+  "first_seen": "2026-11-16",
+  "last_seen": "2026-11-16",
+  "days_seen": 1,
+  "phase": "closed",
+  "sources_seen": [
+    "hackernews"
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-16",
+      "sources": [
+        "hackernews"
+      ],
+      "signal": 0.4,
+      "items": [
+        {
+          "source": "hackernews",
+          "title": "Qwen4-Max",
+          "url": "https://news.ycombinator.com/item?id=50513215",
+          "rank": 2,
+          "movement": "new"
+        }
+      ]
+    }
+  ],
+  "explainer": null,
+  "explainer_history": [],
+  "needs_research": false
+}

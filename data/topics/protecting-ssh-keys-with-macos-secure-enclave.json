@@ -1,0 +1,35 @@
+{
+  "id": "protecting-ssh-keys-with-macos-secure-enclave",
+  "name": "Protecting SSH Keys with macOS Secure Enclave",
+  "aliases": [
+    "Protecting SSH Keys with macOS Secure Enclave"
+  ],
+  "first_seen": "2026-11-11",
+  "last_seen": "2026-11-11",
+  "days_seen": 1,
+  "phase": "closed",
+  "sources_seen": [
+    "hackernews"
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-11",
+      "sources": [
+        "hackernews"
+      ],
+      "signal": 0.8,
+      "items": [
+        {
+          "source": "hackernews",
+          "title": "Protecting SSH Keys with macOS Secure Enclave",
+          "url": "https://news.ycombinator.com/item?id=50449748",
+          "rank": 1,
+          "movement": "new"
+        }
+      ]
+    }
+  ],
+  "explainer": null,
+  "explainer_history": [],
+  "needs_research": false
+}

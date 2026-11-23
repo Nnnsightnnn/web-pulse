@@ -1,0 +1,35 @@
+{
+  "id": "rip-harvest",
+  "name": "RIP, Harvest",
+  "aliases": [
+    "RIP, Harvest"
+  ],
+  "first_seen": "2026-11-09",
+  "last_seen": "2026-11-09",
+  "days_seen": 1,
+  "phase": "closed",
+  "sources_seen": [
+    "hackernews"
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-09",
+      "sources": [
+        "hackernews"
+      ],
+      "signal": 0.8,
+      "items": [
+        {
+          "source": "hackernews",
+          "title": "RIP, Harvest",
+          "url": "https://news.ycombinator.com/item?id=50420035",
+          "rank": 1,
+          "movement": "new"
+        }
+      ]
+    }
+  ],
+  "explainer": null,
+  "explainer_history": [],
+  "needs_research": false
+}

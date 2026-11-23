@@ -1,0 +1,211 @@
+{
+  "id": "xxx",
+  "name": ".xxx",
+  "aliases": [
+    ".xxx"
+  ],
+  "first_seen": "2026-11-09",
+  "last_seen": "2026-11-22",
+  "days_seen": 12,
+  "phase": "climbing",
+  "sources_seen": [
+    "wikipedia"
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-09",
+      "sources": [
+        "wikipedia"
+      ],
+      "signal": 0.1,
+      "items": [
+        {
+          "source": "wikipedia",
+          "title": ".xxx",
+          "url": "https://en.wikipedia.org/wiki/.xxx",
+          "rank": 8,
+          "movement": "holding"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-10",
+      "sources": [
+        "wikipedia"
+      ],
+      "signal": 0.2,
+      "items": [
+        {
+          "source": "wikipedia",
+          "title": ".xxx",
+          "url": "https://en.wikipedia.org/wiki/.xxx",
+          "rank": 4,
+          "movement": "climbing"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-11",
+      "sources": [
+        "wikipedia"
+      ],
+      "signal": 0.16,
+      "items": [
+        {
+          "source": "wikipedia",
+          "title": ".xxx",
+          "url": "https://en.wikipedia.org/wiki/.xxx",
+          "rank": 5,
+          "movement": "holding"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-12",
+      "sources": [
+        "wikipedia"
+      ],
+      "signal": 0.13333333333333333,
+      "items": [
+        {
+          "source": "wikipedia",
+          "title": ".xxx",
+          "url": "https://en.wikipedia.org/wiki/.xxx",
+          "rank": 6,
+          "movement": "holding"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-13",
+      "sources": [
+        "wikipedia"
+      ],
+      "signal": 0.13333333333333333,
+      "items": [
+        {
+          "source": "wikipedia",
+          "title": ".xxx",
+          "url": "https://en.wikipedia.org/wiki/.xxx",
+          "rank": 6,
+          "movement": "holding"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-14",
+      "sources": [
+        "wikipedia"
+      ],
+      "signal": 0.26666666666666666,
+      "items": [
+        {
+          "source": "wikipedia",
+          "title": ".xxx",
+          "url": "https://en.wikipedia.org/wiki/.xxx",
+          "rank": 3,
+          "movement": "climbing"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-15",
+      "sources": [
+        "wikipedia"
+      ],
+      "signal": 0.2,
+      "items": [
+        {
+          "source": "wikipedia",
+          "title": ".xxx",
+          "url": "https://en.wikipedia.org/wiki/.xxx",
+          "rank": 4,
+          "movement": "holding"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-17",
+      "sources": [
+        "wikipedia"
+      ],
+      "signal": 0.08888888888888889,
+      "items": [
+        {
+          "source": "wikipedia",
+          "title": ".xxx",
+          "url": "https://en.wikipedia.org/wiki/.xxx",
+          "rank": 9,
+          "movement": "climbing"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-18",
+      "sources": [
+        "wikipedia"
+      ],
+      "signal": 0.1142857142857143,
+      "items": [
+        {
+          "source": "wikipedia",
+          "title": ".xxx",
+          "url": "https://en.wikipedia.org/wiki/.xxx",
+          "rank": 7,
+          "movement": "climbing"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-19",
+      "sources": [
+        "wikipedia"
+      ],
+      "signal": 0.13333333333333333,
+      "items": [
+        {
+          "source": "wikipedia",
+          "title": ".xxx",
+          "url": "https://en.wikipedia.org/wiki/.xxx",
+          "rank": 6,
+          "movement": "holding"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-20",
+      "sources": [
+        "wikipedia"
+      ],
+      "signal": 0.08,
+      "items": [
+        {
+          "source": "wikipedia",
+          "title": ".xxx",
+          "url": "https://en.wikipedia.org/wiki/.xxx",
+          "rank": 10,
+          "movement": "falling"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-22",
+      "sources": [
+        "wikipedia"
+      ],
+      "signal": 0.16,
+      "items": [
+        {
+          "source": "wikipedia",
+          "title": ".xxx",
+          "url": "https://en.wikipedia.org/wiki/.xxx",
+          "rank": 5,
+          "movement": "climbing"
+        }
+      ]
+    }
+  ],
+  "explainer": null,
+  "explainer_history": [],
+  "needs_research": false
+}

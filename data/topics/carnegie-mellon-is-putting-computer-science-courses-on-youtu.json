@@ -1,0 +1,35 @@
+{
+  "id": "carnegie-mellon-is-putting-computer-science-courses-on-youtu",
+  "name": "Carnegie Mellon is putting computer science courses on YouTube for free",
+  "aliases": [
+    "Carnegie Mellon is putting computer science courses on YouTube for free"
+  ],
+  "first_seen": "2026-11-17",
+  "last_seen": "2026-11-17",
+  "days_seen": 1,
+  "phase": "closed",
+  "sources_seen": [
+    "hackernews"
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-17",
+      "sources": [
+        "hackernews"
+      ],
+      "signal": 0.8,
+      "items": [
+        {
+          "source": "hackernews",
+          "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
+          "url": "https://news.ycombinator.com/item?id=50522980",
+          "rank": 1,
+          "movement": "new"
+        }
+      ]
+    }
+  ],
+  "explainer": null,
+  "explainer_history": [],
+  "needs_research": false
+}

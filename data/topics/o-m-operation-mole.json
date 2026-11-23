@@ -1,0 +1,35 @@
+{
+  "id": "o-m-operation-mole",
+  "name": "O.M: Operation Mole",
+  "aliases": [
+    "O.M: Operation Mole"
+  ],
+  "first_seen": "2026-11-22",
+  "last_seen": "2026-11-22",
+  "days_seen": 1,
+  "phase": "new",
+  "sources_seen": [
+    "wikipedia"
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-22",
+      "sources": [
+        "wikipedia"
+      ],
+      "signal": 0.1142857142857143,
+      "items": [
+        {
+          "source": "wikipedia",
+          "title": "O.M: Operation Mole",
+          "url": "https://en.wikipedia.org/wiki/O.M%3A_Operation_Mole",
+          "rank": 7,
+          "movement": "climbing"
+        }
+      ]
+    }
+  ],
+  "explainer": null,
+  "explainer_history": [],
+  "needs_research": false
+}

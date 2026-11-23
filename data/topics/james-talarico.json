@@ -1,0 +1,35 @@
+{
+  "id": "james-talarico",
+  "name": "James Talarico",
+  "aliases": [
+    "James Talarico"
+  ],
+  "first_seen": "2026-11-09",
+  "last_seen": "2026-11-09",
+  "days_seen": 1,
+  "phase": "closed",
+  "sources_seen": [
+    "wikipedia"
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-09",
+      "sources": [
+        "wikipedia"
+      ],
+      "signal": 0.08,
+      "items": [
+        {
+          "source": "wikipedia",
+          "title": "James Talarico",
+          "url": "https://en.wikipedia.org/wiki/James_Talarico",
+          "rank": 10,
+          "movement": "holding"
+        }
+      ]
+    }
+  ],
+  "explainer": null,
+  "explainer_history": [],
+  "needs_research": false
+}

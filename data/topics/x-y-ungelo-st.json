@@ -1,0 +1,35 @@
+{
+  "id": "x-y-ungelo-st",
+  "name": "x y ungelöst",
+  "aliases": [
+    "x y ungelöst"
+  ],
+  "first_seen": "2026-11-19",
+  "last_seen": "2026-11-19",
+  "days_seen": 1,
+  "phase": "fading",
+  "sources_seen": [
+    "google-trends"
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-19",
+      "sources": [
+        "google-trends"
+      ],
+      "signal": 0.2,
+      "items": [
+        {
+          "source": "google-trends",
+          "title": "x y ungelöst",
+          "url": "https://www.joyn.de/bts/serien/aktenzeichen-xy-ungeloest/aktenzeichen-xy-heute-gibt-es-neue-hinweise-im-fall-alexander-luchterhandt-218185",
+          "rank": 4,
+          "movement": "new"
+        }
+      ]
+    }
+  ],
+  "explainer": null,
+  "explainer_history": [],
+  "needs_research": false
+}

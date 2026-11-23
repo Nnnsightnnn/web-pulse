@@ -1,0 +1,35 @@
+{
+  "id": "hurried-announcement-alessandro-masullo-grh",
+  "name": "Hurried Announcement: Alessandro Masullo GRH",
+  "aliases": [
+    "Hurried Announcement: Alessandro Masullo GRH"
+  ],
+  "first_seen": "2026-11-21",
+  "last_seen": "2026-11-21",
+  "days_seen": 1,
+  "phase": "fading",
+  "sources_seen": [
+    "hackernews"
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-21",
+      "sources": [
+        "hackernews"
+      ],
+      "signal": 0.8,
+      "items": [
+        {
+          "source": "hackernews",
+          "title": "Hurried Announcement: Alessandro Masullo GRH",
+          "url": "https://news.ycombinator.com/item?id=50579568",
+          "rank": 1,
+          "movement": "new"
+        }
+      ]
+    }
+  ],
+  "explainer": null,
+  "explainer_history": [],
+  "needs_research": false
+}

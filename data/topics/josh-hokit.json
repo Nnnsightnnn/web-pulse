@@ -1,0 +1,35 @@
+{
+  "id": "josh-hokit",
+  "name": "Josh Hokit",
+  "aliases": [
+    "Josh Hokit"
+  ],
+  "first_seen": "2026-11-16",
+  "last_seen": "2026-11-16",
+  "days_seen": 1,
+  "phase": "closed",
+  "sources_seen": [
+    "wikipedia"
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-16",
+      "sources": [
+        "wikipedia"
+      ],
+      "signal": 0.08888888888888889,
+      "items": [
+        {
+          "source": "wikipedia",
+          "title": "Josh Hokit",
+          "url": "https://en.wikipedia.org/wiki/Josh_Hokit",
+          "rank": 9,
+          "movement": "new"
+        }
+      ]
+    }
+  ],
+  "explainer": null,
+  "explainer_history": [],
+  "needs_research": false
+}

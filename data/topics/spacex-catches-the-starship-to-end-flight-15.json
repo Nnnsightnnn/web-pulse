@@ -1,0 +1,35 @@
+{
+  "id": "spacex-catches-the-starship-to-end-flight-15",
+  "name": "SpaceX catches the Starship to end Flight 15",
+  "aliases": [
+    "SpaceX catches the Starship to end Flight 15"
+  ],
+  "first_seen": "2026-11-15",
+  "last_seen": "2026-11-15",
+  "days_seen": 1,
+  "phase": "closed",
+  "sources_seen": [
+    "hackernews"
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-15",
+      "sources": [
+        "hackernews"
+      ],
+      "signal": 0.8,
+      "items": [
+        {
+          "source": "hackernews",
+          "title": "SpaceX catches the Starship to end Flight 15",
+          "url": "https://news.ycombinator.com/item?id=50500963",
+          "rank": 1,
+          "movement": "new"
+        }
+      ]
+    }
+  ],
+  "explainer": null,
+  "explainer_history": [],
+  "needs_research": false
+}

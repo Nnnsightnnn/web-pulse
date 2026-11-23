@@ -1,0 +1,35 @@
+{
+  "id": "lovable-apps-expose-passport-details-and-more-than-200k-priv",
+  "name": "Lovable apps expose passport details and more than 200K private messages",
+  "aliases": [
+    "Lovable apps expose passport details and more than 200K private messages"
+  ],
+  "first_seen": "2026-11-15",
+  "last_seen": "2026-11-15",
+  "days_seen": 1,
+  "phase": "closed",
+  "sources_seen": [
+    "hackernews"
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-15",
+      "sources": [
+        "hackernews"
+      ],
+      "signal": 0.4,
+      "items": [
+        {
+          "source": "hackernews",
+          "title": "Lovable apps expose passport details and more than 200K private messages",
+          "url": "https://news.ycombinator.com/item?id=50499017",
+          "rank": 2,
+          "movement": "new"
+        }
+      ]
+    }
+  ],
+  "explainer": null,
+  "explainer_history": [],
+  "needs_research": false
+}

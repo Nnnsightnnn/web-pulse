@@ -1,0 +1,51 @@
+{
+  "id": "janice-tjen",
+  "name": "janice tjen",
+  "aliases": [
+    "janice tjen"
+  ],
+  "first_seen": "2026-11-09",
+  "last_seen": "2026-11-09",
+  "days_seen": 1,
+  "phase": "closed",
+  "sources_seen": [
+    "google-trends",
+    "polymarket"
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-09",
+      "sources": [
+        "google-trends",
+        "polymarket"
+      ],
+      "signal": 0.15587301587301589,
+      "items": [
+        {
+          "source": "google-trends",
+          "title": "janice tjen",
+          "url": "https://www.wtatennis.com/news/4606329/rain-postpones-chennai-title-match-between-tjen-linett",
+          "rank": 14,
+          "movement": "new"
+        },
+        {
+          "source": "google-trends",
+          "title": "magda linette",
+          "url": "https://przegladsportowy.onet.pl/tenis/magda-linette-janice-tjen-na-zywo-polka-gra-w-wielkim-finale/mcynx26",
+          "rank": 25,
+          "movement": "new"
+        },
+        {
+          "source": "polymarket",
+          "title": "Chennai Open: Janice Tjen vs Magda Linette",
+          "url": "https://polymarket.com/event/wta-tjen-linette-2026-11-08",
+          "rank": 9,
+          "movement": "new"
+        }
+      ]
+    }
+  ],
+  "explainer": null,
+  "explainer_history": [],
+  "needs_research": false
+}

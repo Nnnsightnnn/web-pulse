@@ -1,0 +1,35 @@
+{
+  "id": "a-fazenda-18-enquetes",
+  "name": "a fazenda 18 enquetes",
+  "aliases": [
+    "a fazenda 18 enquetes"
+  ],
+  "first_seen": "2026-11-13",
+  "last_seen": "2026-11-13",
+  "days_seen": 1,
+  "phase": "closed",
+  "sources_seen": [
+    "google-trends"
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-13",
+      "sources": [
+        "google-trends"
+      ],
+      "signal": 0.2,
+      "items": [
+        {
+          "source": "google-trends",
+          "title": "a fazenda 18 enquetes",
+          "url": "https://f5.folha.uol.com.br/televisao/a-fazenda-18/2026/11/a-fazenda-18-enquete-mostra-quem-deve-ser-eliminado-do-reality.shtml",
+          "rank": 4,
+          "movement": "new"
+        }
+      ]
+    }
+  ],
+  "explainer": null,
+  "explainer_history": [],
+  "needs_research": false
+}

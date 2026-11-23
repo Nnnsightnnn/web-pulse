@@ -1,0 +1,44 @@
+{
+  "id": "bernard-tomic",
+  "name": "bernard tomic",
+  "aliases": [
+    "bernard tomic"
+  ],
+  "first_seen": "2026-11-13",
+  "last_seen": "2026-11-13",
+  "days_seen": 1,
+  "phase": "closed",
+  "sources_seen": [
+    "google-trends",
+    "polymarket"
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-13",
+      "sources": [
+        "google-trends",
+        "polymarket"
+      ],
+      "signal": 0.0650103519668737,
+      "items": [
+        {
+          "source": "google-trends",
+          "title": "bernard tomic",
+          "url": "https://worldtennismagazine.com/bernard-tomic-ends-three-year-title-drought-mondays-with-bob-greene/",
+          "rank": 21,
+          "movement": "new"
+        },
+        {
+          "source": "polymarket",
+          "title": "Brisbane 3: Bernard Tomic vs August Holmgren",
+          "url": "https://polymarket.com/event/atp-tomic-holmgre-2026-11-12",
+          "rank": 23,
+          "movement": "new"
+        }
+      ]
+    }
+  ],
+  "explainer": null,
+  "explainer_history": [],
+  "needs_research": false
+}

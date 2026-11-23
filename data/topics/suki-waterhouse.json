@@ -1,0 +1,67 @@
+{
+  "id": "suki-waterhouse",
+  "name": "Suki Waterhouse",
+  "aliases": [
+    "Suki Waterhouse"
+  ],
+  "first_seen": "2026-11-17",
+  "last_seen": "2026-11-19",
+  "days_seen": 3,
+  "phase": "fading",
+  "sources_seen": [
+    "wikipedia"
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-17",
+      "sources": [
+        "wikipedia"
+      ],
+      "signal": 0.2,
+      "items": [
+        {
+          "source": "wikipedia",
+          "title": "Suki Waterhouse",
+          "url": "https://en.wikipedia.org/wiki/Suki_Waterhouse",
+          "rank": 4,
+          "movement": "new"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-18",
+      "sources": [
+        "wikipedia"
+      ],
+      "signal": 0.26666666666666666,
+      "items": [
+        {
+          "source": "wikipedia",
+          "title": "Suki Waterhouse",
+          "url": "https://en.wikipedia.org/wiki/Suki_Waterhouse",
+          "rank": 3,
+          "movement": "holding"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-19",
+      "sources": [
+        "wikipedia"
+      ],
+      "signal": 0.16,
+      "items": [
+        {
+          "source": "wikipedia",
+          "title": "Suki Waterhouse",
+          "url": "https://en.wikipedia.org/wiki/Suki_Waterhouse",
+          "rank": 5,
+          "movement": "falling"
+        }
+      ]
+    }
+  ],
+  "explainer": null,
+  "explainer_history": [],
+  "needs_research": false
+}

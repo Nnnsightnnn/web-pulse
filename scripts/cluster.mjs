@@ -7,7 +7,13 @@ const SOURCE_WEIGHTS = {
   "lemmy": 1, "stackoverflow": 1, "steam": 1,
   "youtube": 1, "bluesky": 1,
   "mastodon-trending": 1, "product-hunt": 1,
+  // A Polymarket market on a game or an election pairs with Google Trends
+  // every day; real, but thin, so it counts for less than a human-ranked feed.
+  "polymarket": 0.4,
 }
+
+// Sources whose titles should only name a cluster when nothing else can.
+const NAME_LAST = new Set(["polymarket"])
 
 const STOPWORDS = new Set([
   "the", "be", "to", "of", "and", "in", "that", "have", "for", "not", "on",
@@ -30,7 +36,22 @@ const STOPWORDS = new Set([
   "official", "full", "free", "today", "big", "old",
 ])
 
-function tokenize(title) {
+const DIGIT_ROMAN = { 2: "ii", 3: "iii", 4: "iv", 5: "v", 6: "vi", 7: "vii", 8: "viii", 9: "ix", 11: "xi", 12: "xii" }
+// "x" is left out: in titles like "49ers x vikings" it means versus.
+const ROMAN = /^(ii|iii|iv|v|vi|vii|viii|ix|xi|xii)$/
+
+export function isNumeral(tok) {
+  return ROMAN.test(tok) || (/^\d+$/.test(tok) && !/^\d{4}$/.test(tok))
+}
+
+// Both titles carry a sequel or edition number and the numbers differ:
+// different things, however many other words they share.
+export function numeralsConflict(a, b) {
+  const na = [...a].filter(isNumeral), nb = [...b].filter(isNumeral)
+  return na.length > 0 && nb.length > 0 && !na.some((t) => nb.includes(t))
+}
+
+export function tokenize(title) {
   let t = title
   // strip "List of" prefix
   t = t.replace(/^list\s+of\s+/i, "")
@@ -44,10 +65,13 @@ function tokenize(title) {
   const tokens = t.toLowerCase().replace(/[^a-z0-9\s]/g, " ").split(/\s+/)
   const result = new Set()
   let count = 0
-  for (const tok of tokens) {
-    if (tok.length < 3) continue
-    if (STOPWORDS.has(tok)) continue
+  for (let tok of tokens) {
+    // Short tokens are noise, except numbers and Roman numerals, which are
+    // what tell "Grand Theft Auto V" from "Grand Theft Auto VI".
+    if (tok.length < 3 && !isNumeral(tok)) continue
     if (/^\d{4}$/.test(tok)) continue // drop year-only tokens
+    tok = DIGIT_ROMAN[tok] || tok // "GTA 6" and "GTA VI" are the same number
+    if (STOPWORDS.has(tok)) continue
     result.add(tok)
     if (++count >= 12) break // truncate long titles
   }
@@ -115,6 +139,7 @@ export function clusterItems(sources) {
         if (b.has(tok)) overlap++
       }
       if (overlap < 2) continue
+      if (numeralsConflict(a, b)) continue
 
       const unionSize = new Set([...a, ...b]).size
       const jaccard = overlap / unionSize
@@ -138,8 +163,12 @@ export function clusterItems(sources) {
     const uniqueSources = new Set(members.map(m => m.source))
     if (uniqueSources.size < 2) continue
 
-    // Pick name: best rank, tiebreak shorter title
+    // Pick name: best rank, tiebreak shorter title. A Polymarket question
+    // ("Will X happen by...?") makes a poor headline, so any other feed's
+    // title wins the name when one is in the cluster.
     const sorted = [...members].sort((a, b) => {
+      const pa = NAME_LAST.has(a.source) ? 1 : 0, pb = NAME_LAST.has(b.source) ? 1 : 0
+      if (pa !== pb) return pa - pb
       if (a.item.rank !== b.item.rank) return a.item.rank - b.item.rank
       return a.item.title.length - b.item.title.length
     })
@@ -150,6 +179,8 @@ export function clusterItems(sources) {
       title: m.item.title,
       url: itemUrl(m.item, m.source),
       rank: m.item.rank,
+      movement: m.item.movement,
+      days_on: m.item.days_on,
     }))
 
     const score = items.reduce((sum, it) =>

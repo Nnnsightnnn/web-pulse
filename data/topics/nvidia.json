@@ -1,0 +1,83 @@
+{
+  "id": "nvidia",
+  "name": "Nvidia",
+  "aliases": [
+    "Nvidia"
+  ],
+  "first_seen": "2026-11-10",
+  "last_seen": "2026-11-15",
+  "days_seen": 4,
+  "phase": "closed",
+  "sources_seen": [
+    "wikipedia"
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-10",
+      "sources": [
+        "wikipedia"
+      ],
+      "signal": 0.1,
+      "items": [
+        {
+          "source": "wikipedia",
+          "title": "Nvidia",
+          "url": "https://en.wikipedia.org/wiki/Nvidia",
+          "rank": 8,
+          "movement": "new"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-13",
+      "sources": [
+        "wikipedia"
+      ],
+      "signal": 0.16,
+      "items": [
+        {
+          "source": "wikipedia",
+          "title": "Nvidia",
+          "url": "https://en.wikipedia.org/wiki/Nvidia",
+          "rank": 5,
+          "movement": "climbing"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-14",
+      "sources": [
+        "wikipedia"
+      ],
+      "signal": 0.16,
+      "items": [
+        {
+          "source": "wikipedia",
+          "title": "Nvidia",
+          "url": "https://en.wikipedia.org/wiki/Nvidia",
+          "rank": 5,
+          "movement": "holding"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-15",
+      "sources": [
+        "wikipedia"
+      ],
+      "signal": 0.08888888888888889,
+      "items": [
+        {
+          "source": "wikipedia",
+          "title": "Nvidia",
+          "url": "https://en.wikipedia.org/wiki/Nvidia",
+          "rank": 9,
+          "movement": "falling"
+        }
+      ]
+    }
+  ],
+  "explainer": null,
+  "explainer_history": [],
+  "needs_research": false
+}

@@ -1,0 +1,35 @@
+{
+  "id": "bavendorf",
+  "name": "bavendorf",
+  "aliases": [
+    "bavendorf"
+  ],
+  "first_seen": "2026-11-17",
+  "last_seen": "2026-11-17",
+  "days_seen": 1,
+  "phase": "closed",
+  "sources_seen": [
+    "google-trends"
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-17",
+      "sources": [
+        "google-trends"
+      ],
+      "signal": 0.4,
+      "items": [
+        {
+          "source": "google-trends",
+          "title": "bavendorf",
+          "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/friedrichshafen/toedlicher-unfall-bei-bavendorf-nach-frontalkollision-100.html",
+          "rank": 2,
+          "movement": "new"
+        }
+      ]
+    }
+  ],
+  "explainer": null,
+  "explainer_history": [],
+  "needs_research": false
+}

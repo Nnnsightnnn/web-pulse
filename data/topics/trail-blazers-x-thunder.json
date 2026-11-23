@@ -1,0 +1,44 @@
+{
+  "id": "trail-blazers-x-thunder",
+  "name": "trail blazers x thunder",
+  "aliases": [
+    "trail blazers x thunder"
+  ],
+  "first_seen": "2026-11-11",
+  "last_seen": "2026-11-11",
+  "days_seen": 1,
+  "phase": "closed",
+  "sources_seen": [
+    "google-trends",
+    "polymarket"
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-11",
+      "sources": [
+        "google-trends",
+        "polymarket"
+      ],
+      "signal": 0.47692307692307695,
+      "items": [
+        {
+          "source": "google-trends",
+          "title": "trail blazers x thunder",
+          "url": "https://sports.yahoo.com/articles/injury-report-okc-thunder-list-000133305.html",
+          "rank": 13,
+          "movement": "new"
+        },
+        {
+          "source": "polymarket",
+          "title": "Thunder vs. Trail Blazers",
+          "url": "https://polymarket.com/event/nba-okc-por-2026-11-10",
+          "rank": 1,
+          "movement": "new"
+        }
+      ]
+    }
+  ],
+  "explainer": null,
+  "explainer_history": [],
+  "needs_research": false
+}

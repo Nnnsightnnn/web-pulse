@@ -13,6 +13,8 @@ import { clusterItems } from "./cluster.mjs";
 import { generateBrief } from "./brief.mjs";
 import { generateEditorial } from "./editorial.mjs";
 import { generateSpreader } from "./spreader.mjs";
+import { annotateMovement } from "./memory.mjs";
+import { updateTopics } from "./topics.mjs";
 import { writeFile, mkdir, readdir } from "node:fs/promises";
 import { dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";
@@ -39,6 +41,7 @@ const __dirname = dirname(fileURLToPath(import.meta.url));
 const ROOT = join(__dirname, "..");
 const DATA_DIR = join(ROOT, "data");
 const HISTORY_DIR = join(DATA_DIR, "history");
+const TOPICS_DIR = join(DATA_DIR, "topics");
 
 const SOURCES = [
   { name: "wikipedia", fn: wikipedia },
@@ -98,6 +101,14 @@ async function run() {
     }
   });
 
+  // Memory: tag each item new / climbing / holding / falling against the
+  // daily history, before clustering so clusters carry the tags too.
+  try {
+    annotateMovement(byName, HISTORY_DIR, dateStamp());
+  } catch (err) {
+    console.warn("  \u2298 movement tagging failed:", err.message);
+  }
+
   let clusters = [];
   try {
     clusters = clusterItems(byName);
@@ -111,6 +122,15 @@ async function run() {
     sources: byName,
     clusters,
   };
+
+  // Topic store: fold today's stories into data/topics/ and pick tonight's
+  // research queue. The refresh task's research pass fills the explainers.
+  try {
+    latest.topics = updateTopics(latest, TOPICS_DIR, dateStamp());
+    console.log(`  \u25c7 ${latest.topics.topics.length} active topics, ${latest.topics.research_queue.length} queued for research`);
+  } catch (err) {
+    console.warn("  \u2298 topic update failed:", err.message);
+  }
 
   // LLM copy desk — best-effort. On failure the dashboard renders its
   // seeded template fallbacks, so this must never block or crash the run.

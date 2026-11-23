@@ -1,0 +1,44 @@
+{
+  "id": "mary-peltola-finally-closes-it-out-in-alaska-politics",
+  "name": "Mary Peltola finally closes it out in Alaska. #politics",
+  "aliases": [
+    "Mary Peltola finally closes it out in Alaska. #politics"
+  ],
+  "first_seen": "2026-11-18",
+  "last_seen": "2026-11-18",
+  "days_seen": 1,
+  "phase": "closed",
+  "sources_seen": [
+    "mastodon-trending",
+    "polymarket"
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-18",
+      "sources": [
+        "mastodon-trending",
+        "polymarket"
+      ],
+      "signal": 0.0898989898989899,
+      "items": [
+        {
+          "source": "mastodon-trending",
+          "title": "Mary Peltola finally closes it out in Alaska. #politics",
+          "url": "https://mastodon.social/@WarnerCrocker/117635325010179263",
+          "rank": 22,
+          "movement": "new"
+        },
+        {
+          "source": "polymarket",
+          "title": "Will Mary Peltola win the Alaska Senate race in 2026?",
+          "url": "https://polymarket.com/event/alaska-senate-election-winner",
+          "rank": 9,
+          "movement": "returning"
+        }
+      ]
+    }
+  ],
+  "explainer": null,
+  "explainer_history": [],
+  "needs_research": false
+}

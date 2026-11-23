@@ -1,0 +1,35 @@
+{
+  "id": "damian-lillard",
+  "name": "damian lillard",
+  "aliases": [
+    "damian lillard"
+  ],
+  "first_seen": "2026-11-11",
+  "last_seen": "2026-11-11",
+  "days_seen": 1,
+  "phase": "closed",
+  "sources_seen": [
+    "google-trends"
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-11",
+      "sources": [
+        "google-trends"
+      ],
+      "signal": 0.2,
+      "items": [
+        {
+          "source": "google-trends",
+          "title": "damian lillard",
+          "url": "https://sports.yahoo.com/articles/last-thing-wanna-damian-lillard-151000843.html",
+          "rank": 4,
+          "movement": "returning"
+        }
+      ]
+    }
+  ],
+  "explainer": null,
+  "explainer_history": [],
+  "needs_research": false
+}

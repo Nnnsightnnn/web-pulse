@@ -1,0 +1,44 @@
+{
+  "id": "all-ai-generated-code-should-be-open-source",
+  "name": "All AI-generated code should be Open Source",
+  "aliases": [
+    "All AI-generated code should be Open Source"
+  ],
+  "first_seen": "2026-11-16",
+  "last_seen": "2026-11-16",
+  "days_seen": 1,
+  "phase": "closed",
+  "sources_seen": [
+    "github",
+    "lemmy"
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-16",
+      "sources": [
+        "github",
+        "lemmy"
+      ],
+      "signal": 0.41666666666666663,
+      "items": [
+        {
+          "source": "github",
+          "title": "alibaba/open-code-review",
+          "url": "https://github.com/alibaba/open-code-review",
+          "rank": 6,
+          "movement": "holding"
+        },
+        {
+          "source": "lemmy",
+          "title": "All AI-generated code should be Open Source",
+          "url": "https://lemmy.world/post/54441989",
+          "rank": 4,
+          "movement": "new"
+        }
+      ]
+    }
+  ],
+  "explainer": null,
+  "explainer_history": [],
+  "needs_research": false
+}

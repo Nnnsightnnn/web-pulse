@@ -1,0 +1,35 @@
+{
+  "id": "daniel-cormier",
+  "name": "daniel cormier",
+  "aliases": [
+    "daniel cormier"
+  ],
+  "first_seen": "2026-11-15",
+  "last_seen": "2026-11-15",
+  "days_seen": 1,
+  "phase": "closed",
+  "sources_seen": [
+    "google-trends"
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-15",
+      "sources": [
+        "google-trends"
+      ],
+      "signal": 0.26666666666666666,
+      "items": [
+        {
+          "source": "google-trends",
+          "title": "daniel cormier",
+          "url": "https://www.espn.com/mma/story/_/id/50471378/8-people-get-prison-nurmagomedov-dvalishvili-brawl",
+          "rank": 3,
+          "movement": "new"
+        }
+      ]
+    }
+  ],
+  "explainer": null,
+  "explainer_history": [],
+  "needs_research": false
+}

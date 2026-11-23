@@ -1,0 +1,44 @@
+{
+  "id": "august-holmgren",
+  "name": "august holmgren",
+  "aliases": [
+    "august holmgren"
+  ],
+  "first_seen": "2026-11-17",
+  "last_seen": "2026-11-17",
+  "days_seen": 1,
+  "phase": "closed",
+  "sources_seen": [
+    "google-trends",
+    "polymarket"
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-17",
+      "sources": [
+        "google-trends",
+        "polymarket"
+      ],
+      "signal": 0.1132867132867133,
+      "items": [
+        {
+          "source": "google-trends",
+          "title": "august holmgren",
+          "url": "https://robinhood.com/us/en/prediction-markets/tennis/events/3aad038e-7138-40b0-ab13-71d2a25d41cf/",
+          "rank": 13,
+          "movement": "new"
+        },
+        {
+          "source": "polymarket",
+          "title": "Sydney: August Holmgren vs Dhakshineswar Suresh",
+          "url": "https://polymarket.com/event/atp-holmgre-suresh-2026-11-16",
+          "rank": 11,
+          "movement": "new"
+        }
+      ]
+    }
+  ],
+  "explainer": null,
+  "explainer_history": [],
+  "needs_research": false
+}

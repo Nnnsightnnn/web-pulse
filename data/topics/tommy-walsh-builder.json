@@ -1,0 +1,35 @@
+{
+  "id": "tommy-walsh-builder",
+  "name": "Tommy Walsh (builder)",
+  "aliases": [
+    "Tommy Walsh (builder)"
+  ],
+  "first_seen": "2026-11-10",
+  "last_seen": "2026-11-10",
+  "days_seen": 1,
+  "phase": "closed",
+  "sources_seen": [
+    "wikipedia"
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-10",
+      "sources": [
+        "wikipedia"
+      ],
+      "signal": 0.08,
+      "items": [
+        {
+          "source": "wikipedia",
+          "title": "Tommy Walsh (builder)",
+          "url": "https://en.wikipedia.org/wiki/Tommy_Walsh_(builder)",
+          "rank": 10,
+          "movement": "new"
+        }
+      ]
+    }
+  ],
+  "explainer": null,
+  "explainer_history": [],
+  "needs_research": false
+}

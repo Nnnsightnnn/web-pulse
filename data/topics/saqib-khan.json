@@ -1,0 +1,35 @@
+{
+  "id": "saqib-khan",
+  "name": "saqib khan",
+  "aliases": [
+    "saqib khan"
+  ],
+  "first_seen": "2026-11-17",
+  "last_seen": "2026-11-17",
+  "days_seen": 1,
+  "phase": "closed",
+  "sources_seen": [
+    "google-trends"
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-17",
+      "sources": [
+        "google-trends"
+      ],
+      "signal": 0.26666666666666666,
+      "items": [
+        {
+          "source": "google-trends",
+          "title": "saqib khan",
+          "url": "https://www.cricinfo.com/story/are-saqib-khan-s-bowling-figures-the-best-on-test-debut-for-pakistan-ask-steven-1562824",
+          "rank": 3,
+          "movement": "new"
+        }
+      ]
+    }
+  ],
+  "explainer": null,
+  "explainer_history": [],
+  "needs_research": false
+}

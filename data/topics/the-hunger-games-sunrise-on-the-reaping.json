@@ -1,0 +1,51 @@
+{
+  "id": "the-hunger-games-sunrise-on-the-reaping",
+  "name": "The Hunger Games: Sunrise on the Reaping",
+  "aliases": [
+    "The Hunger Games: Sunrise on the Reaping"
+  ],
+  "first_seen": "2026-11-21",
+  "last_seen": "2026-11-22",
+  "days_seen": 2,
+  "phase": "holding",
+  "sources_seen": [
+    "wikipedia"
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-21",
+      "sources": [
+        "wikipedia"
+      ],
+      "signal": 0.2,
+      "items": [
+        {
+          "source": "wikipedia",
+          "title": "The Hunger Games: Sunrise on the Reaping",
+          "url": "https://en.wikipedia.org/wiki/The_Hunger_Games%3A_Sunrise_on_the_Reaping",
+          "rank": 4,
+          "movement": "climbing"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-22",
+      "sources": [
+        "wikipedia"
+      ],
+      "signal": 0.2,
+      "items": [
+        {
+          "source": "wikipedia",
+          "title": "The Hunger Games: Sunrise on the Reaping",
+          "url": "https://en.wikipedia.org/wiki/The_Hunger_Games%3A_Sunrise_on_the_Reaping",
+          "rank": 4,
+          "movement": "holding"
+        }
+      ]
+    }
+  ],
+  "explainer": null,
+  "explainer_history": [],
+  "needs_research": false
+}

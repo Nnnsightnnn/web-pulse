@@ -1,0 +1,43 @@
+{
+  "id": "eng-vs-aus",
+  "name": "eng vs aus",
+  "aliases": [
+    "eng vs aus",
+    "aus vs eng"
+  ],
+  "first_seen": "2026-11-15",
+  "last_seen": "2026-11-15",
+  "days_seen": 1,
+  "phase": "closed",
+  "sources_seen": [
+    "google-trends"
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-15",
+      "sources": [
+        "google-trends"
+      ],
+      "signal": 0.6000000000000001,
+      "items": [
+        {
+          "source": "google-trends",
+          "title": "eng vs aus",
+          "url": "https://www.theguardian.com/sport/live/2026/nov/15/australia-vs-england-cricket-second-odi-mens-one-day-international-adelaide-live-scores-updates?page=with:block-6af948db8f089036c711ea29",
+          "rank": 2,
+          "movement": "new"
+        },
+        {
+          "source": "google-trends",
+          "title": "aus vs eng",
+          "url": "https://www.cricinfo.com/story/australia-bowl-first-beardman-rested-baker-in-for-england-1562677",
+          "rank": 4,
+          "movement": "new"
+        }
+      ]
+    }
+  ],
+  "explainer": null,
+  "explainer_history": [],
+  "needs_research": false
+}

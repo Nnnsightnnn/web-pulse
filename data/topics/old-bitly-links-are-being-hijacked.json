@@ -1,0 +1,35 @@
+{
+  "id": "old-bitly-links-are-being-hijacked",
+  "name": "Old Bitly links are being hijacked",
+  "aliases": [
+    "Old Bitly links are being hijacked"
+  ],
+  "first_seen": "2026-11-16",
+  "last_seen": "2026-11-16",
+  "days_seen": 1,
+  "phase": "closed",
+  "sources_seen": [
+    "hackernews"
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-16",
+      "sources": [
+        "hackernews"
+      ],
+      "signal": 0.26666666666666666,
+      "items": [
+        {
+          "source": "hackernews",
+          "title": "Old Bitly links are being hijacked",
+          "url": "https://news.ycombinator.com/item?id=50511395",
+          "rank": 3,
+          "movement": "new"
+        }
+      ]
+    }
+  ],
+  "explainer": null,
+  "explainer_history": [],
+  "needs_research": false
+}

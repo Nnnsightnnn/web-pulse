@@ -1,0 +1,35 @@
+{
+  "id": "greg-kurtzer-s-ginux-is-now-a-userspace-kernel",
+  "name": "Greg Kurtzer's Ginux is now a userspace kernel",
+  "aliases": [
+    "Greg Kurtzer's Ginux is now a userspace kernel"
+  ],
+  "first_seen": "2026-11-11",
+  "last_seen": "2026-11-11",
+  "days_seen": 1,
+  "phase": "closed",
+  "sources_seen": [
+    "hackernews"
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-11",
+      "sources": [
+        "hackernews"
+      ],
+      "signal": 0.4,
+      "items": [
+        {
+          "source": "hackernews",
+          "title": "Greg Kurtzer's Ginux is now a userspace kernel",
+          "url": "https://news.ycombinator.com/item?id=50450007",
+          "rank": 2,
+          "movement": "new"
+        }
+      ]
+    }
+  ],
+  "explainer": null,
+  "explainer_history": [],
+  "needs_research": false
+}

@@ -1,0 +1,35 @@
+{
+  "id": "universal-xss-in-ublock-origin-from-website-driven-element-p",
+  "name": "Universal XSS in uBlock Origin from website-driven element picker",
+  "aliases": [
+    "Universal XSS in uBlock Origin from website-driven element picker"
+  ],
+  "first_seen": "2026-11-16",
+  "last_seen": "2026-11-16",
+  "days_seen": 1,
+  "phase": "closed",
+  "sources_seen": [
+    "hackernews"
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-16",
+      "sources": [
+        "hackernews"
+      ],
+      "signal": 0.8,
+      "items": [
+        {
+          "source": "hackernews",
+          "title": "Universal XSS in uBlock Origin from website-driven element picker",
+          "url": "https://news.ycombinator.com/item?id=50513160",
+          "rank": 1,
+          "movement": "new"
+        }
+      ]
+    }
+  ],
+  "explainer": null,
+  "explainer_history": [],
+  "needs_research": false
+}

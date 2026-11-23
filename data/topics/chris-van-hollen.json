@@ -1,0 +1,35 @@
+{
+  "id": "chris-van-hollen",
+  "name": "Chris Van Hollen",
+  "aliases": [
+    "Chris Van Hollen"
+  ],
+  "first_seen": "2026-11-14",
+  "last_seen": "2026-11-14",
+  "days_seen": 1,
+  "phase": "closed",
+  "sources_seen": [
+    "wikipedia"
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-14",
+      "sources": [
+        "wikipedia"
+      ],
+      "signal": 0.13333333333333333,
+      "items": [
+        {
+          "source": "wikipedia",
+          "title": "Chris Van Hollen",
+          "url": "https://en.wikipedia.org/wiki/Chris_Van_Hollen",
+          "rank": 6,
+          "movement": "new"
+        }
+      ]
+    }
+  ],
+  "explainer": null,
+  "explainer_history": [],
+  "needs_research": false
+}

@@ -1,0 +1,35 @@
+{
+  "id": "lakers-standings",
+  "name": "lakers standings",
+  "aliases": [
+    "lakers standings"
+  ],
+  "first_seen": "2026-11-19",
+  "last_seen": "2026-11-19",
+  "days_seen": 1,
+  "phase": "fading",
+  "sources_seen": [
+    "google-trends"
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-19",
+      "sources": [
+        "google-trends"
+      ],
+      "signal": 0.26666666666666666,
+      "items": [
+        {
+          "source": "google-trends",
+          "title": "lakers standings",
+          "url": "https://www.espn.com/nba/story/_/id/50519611/quentin-grimes-2nd-laker-hit-10-3s-single-game",
+          "rank": 3,
+          "movement": "new"
+        }
+      ]
+    }
+  ],
+  "explainer": null,
+  "explainer_history": [],
+  "needs_research": false
+}

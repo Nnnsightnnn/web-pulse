@@ -1,0 +1,35 @@
+{
+  "id": "postgres-19-repack-faster-built-in-table-bloat-cleanup",
+  "name": "Postgres 19 Repack: Faster, Built-In Table Bloat Cleanup",
+  "aliases": [
+    "Postgres 19 Repack: Faster, Built-In Table Bloat Cleanup"
+  ],
+  "first_seen": "2026-11-20",
+  "last_seen": "2026-11-20",
+  "days_seen": 1,
+  "phase": "fading",
+  "sources_seen": [
+    "hackernews"
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-20",
+      "sources": [
+        "hackernews"
+      ],
+      "signal": 0.26666666666666666,
+      "items": [
+        {
+          "source": "hackernews",
+          "title": "Postgres 19 Repack: Faster, Built-In Table Bloat Cleanup",
+          "url": "https://news.ycombinator.com/item?id=50569516",
+          "rank": 3,
+          "movement": "new"
+        }
+      ]
+    }
+  ],
+  "explainer": null,
+  "explainer_history": [],
+  "needs_research": false
+}

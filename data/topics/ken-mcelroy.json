@@ -1,0 +1,51 @@
+{
+  "id": "ken-mcelroy",
+  "name": "Ken McElroy",
+  "aliases": [
+    "Ken McElroy"
+  ],
+  "first_seen": "2026-11-20",
+  "last_seen": "2026-11-21",
+  "days_seen": 2,
+  "phase": "fading",
+  "sources_seen": [
+    "wikipedia"
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-20",
+      "sources": [
+        "wikipedia"
+      ],
+      "signal": 0.16,
+      "items": [
+        {
+          "source": "wikipedia",
+          "title": "Ken McElroy",
+          "url": "https://en.wikipedia.org/wiki/Ken_McElroy",
+          "rank": 5,
+          "movement": "new"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-21",
+      "sources": [
+        "wikipedia"
+      ],
+      "signal": 0.16,
+      "items": [
+        {
+          "source": "wikipedia",
+          "title": "Ken McElroy",
+          "url": "https://en.wikipedia.org/wiki/Ken_McElroy",
+          "rank": 5,
+          "movement": "holding"
+        }
+      ]
+    }
+  ],
+  "explainer": null,
+  "explainer_history": [],
+  "needs_research": false
+}

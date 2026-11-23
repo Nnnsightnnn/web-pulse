@@ -1,0 +1,51 @@
+{
+  "id": "sean-duffy",
+  "name": "Sean Duffy",
+  "aliases": [
+    "Sean Duffy"
+  ],
+  "first_seen": "2026-11-15",
+  "last_seen": "2026-11-16",
+  "days_seen": 2,
+  "phase": "closed",
+  "sources_seen": [
+    "wikipedia"
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-15",
+      "sources": [
+        "wikipedia"
+      ],
+      "signal": 0.4,
+      "items": [
+        {
+          "source": "wikipedia",
+          "title": "Sean Duffy",
+          "url": "https://en.wikipedia.org/wiki/Sean_Duffy",
+          "rank": 2,
+          "movement": "new"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-16",
+      "sources": [
+        "wikipedia"
+      ],
+      "signal": 0.08,
+      "items": [
+        {
+          "source": "wikipedia",
+          "title": "Sean Duffy",
+          "url": "https://en.wikipedia.org/wiki/Sean_Duffy",
+          "rank": 10,
+          "movement": "falling"
+        }
+      ]
+    }
+  ],
+  "explainer": null,
+  "explainer_history": [],
+  "needs_research": false
+}

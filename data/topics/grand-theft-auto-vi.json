@@ -1,0 +1,230 @@
+{
+  "id": "grand-theft-auto-vi",
+  "name": "Grand Theft Auto VI",
+  "aliases": [
+    "Grand Theft Auto VI",
+    "Grand Theft Auto",
+    "Grand Theft Auto V Enhanced"
+  ],
+  "first_seen": "2026-11-18",
+  "last_seen": "2026-11-22",
+  "days_seen": 5,
+  "phase": "holding",
+  "sources_seen": [
+    "lemmy",
+    "steam",
+    "wikipedia",
+    "youtube"
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-18",
+      "sources": [
+        "wikipedia"
+      ],
+      "signal": 0.16,
+      "items": [
+        {
+          "source": "wikipedia",
+          "title": "Grand Theft Auto VI",
+          "url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI",
+          "rank": 5,
+          "movement": "climbing"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-19",
+      "sources": [
+        "steam",
+        "wikipedia",
+        "youtube"
+      ],
+      "signal": 2.0714646464646465,
+      "items": [
+        {
+          "source": "steam",
+          "title": "Grand Theft Auto V Enhanced",
+          "url": "https://store.steampowered.com/app/3240220",
+          "rank": 12,
+          "movement": "climbing"
+        },
+        {
+          "source": "wikipedia",
+          "title": "Grand Theft Auto VI",
+          "url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI",
+          "rank": 1,
+          "movement": "climbing"
+        },
+        {
+          "source": "wikipedia",
+          "title": "Grand Theft Auto",
+          "url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto",
+          "rank": 11,
+          "movement": "new"
+        },
+        {
+          "source": "wikipedia",
+          "title": "Grand Theft Auto V",
+          "url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_V",
+          "rank": 18,
+          "movement": "new"
+        },
+        {
+          "source": "wikipedia",
+          "title": "Grand Theft Auto VI",
+          "url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI",
+          "rank": 1,
+          "movement": "climbing"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-20",
+      "sources": [
+        "lemmy",
+        "steam",
+        "wikipedia",
+        "youtube"
+      ],
+      "signal": 2.7043650793650795,
+      "items": [
+        {
+          "source": "lemmy",
+          "title": "Grand task auto six",
+          "url": "https://lemmy.world/post/54603693",
+          "rank": 3,
+          "movement": "new"
+        },
+        {
+          "source": "steam",
+          "title": "Grand Theft Auto V Enhanced",
+          "url": "https://store.steampowered.com/app/3240220",
+          "rank": 12,
+          "movement": "holding"
+        },
+        {
+          "source": "steam",
+          "title": "Grand Theft Auto V Legacy",
+          "url": "https://store.steampowered.com/app/271590",
+          "rank": 20,
+          "movement": "new"
+        },
+        {
+          "source": "wikipedia",
+          "title": "Grand Theft Auto VI",
+          "url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI",
+          "rank": 1,
+          "movement": "holding"
+        },
+        {
+          "source": "wikipedia",
+          "title": "Grand Theft Auto VI",
+          "url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI",
+          "rank": 1,
+          "movement": "holding"
+        },
+        {
+          "source": "wikipedia",
+          "title": "Grand Theft Auto",
+          "url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto",
+          "rank": 7,
+          "movement": "climbing"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-21",
+      "sources": [
+        "steam",
+        "wikipedia"
+      ],
+      "signal": 1.253315105946685,
+      "items": [
+        {
+          "source": "steam",
+          "title": "Grand Theft Auto V Enhanced",
+          "url": "https://store.steampowered.com/app/3240220",
+          "rank": 11,
+          "movement": "holding"
+        },
+        {
+          "source": "steam",
+          "title": "Grand Theft Auto V Legacy",
+          "url": "https://store.steampowered.com/app/271590",
+          "rank": 19,
+          "movement": "holding"
+        },
+        {
+          "source": "wikipedia",
+          "title": "Grand Theft Auto",
+          "url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto",
+          "rank": 7,
+          "movement": "holding"
+        },
+        {
+          "source": "wikipedia",
+          "title": "Grand Theft Auto V",
+          "url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_V",
+          "rank": 19,
+          "movement": "holding"
+        },
+        {
+          "source": "wikipedia",
+          "title": "Grand Theft Auto VI",
+          "url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI",
+          "rank": 1,
+          "movement": "holding"
+        },
+        {
+          "source": "wikipedia",
+          "title": "Grand Theft Auto",
+          "url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto",
+          "rank": 7,
+          "movement": "holding"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-22",
+      "sources": [
+        "steam",
+        "wikipedia"
+      ],
+      "signal": 1.05,
+      "items": [
+        {
+          "source": "steam",
+          "title": "Grand Theft Auto V Enhanced",
+          "url": "https://store.steampowered.com/app/3240220",
+          "rank": 10,
+          "movement": "holding"
+        },
+        {
+          "source": "steam",
+          "title": "Grand Theft Auto V Legacy",
+          "url": "https://store.steampowered.com/app/271590",
+          "rank": 15,
+          "movement": "climbing"
+        },
+        {
+          "source": "wikipedia",
+          "title": "Grand Theft Auto",
+          "url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto",
+          "rank": 12,
+          "movement": "falling"
+        },
+        {
+          "source": "wikipedia",
+          "title": "Grand Theft Auto VI",
+          "url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI",
+          "rank": 1,
+          "movement": "holding"
+        }
+      ]
+    }
+  ],
+  "explainer": null,
+  "explainer_history": [],
+  "needs_research": true
+}

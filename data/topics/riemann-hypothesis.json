@@ -1,0 +1,156 @@
+{
+  "id": "riemann-hypothesis",
+  "name": "Riemann hypothesis",
+  "aliases": [
+    "Riemann hypothesis",
+    "Lean verification of the Riemann Hypothesis"
+  ],
+  "first_seen": "2026-11-21",
+  "last_seen": "2026-11-22",
+  "days_seen": 2,
+  "phase": "climbing",
+  "sources_seen": [
+    "hackernews",
+    "wikipedia"
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-21",
+      "sources": [
+        "hackernews",
+        "wikipedia"
+      ],
+      "signal": 0.6588235294117647,
+      "items": [
+        {
+          "source": "hackernews",
+          "title": "The stochastic parrots have apparently proved the Riemann Hypothesis",
+          "url": "https://news.ycombinator.com/item?id=50581084",
+          "rank": 17,
+          "movement": "new"
+        },
+        {
+          "source": "wikipedia",
+          "title": "Riemann hypothesis",
+          "url": "https://en.wikipedia.org/wiki/Riemann_hypothesis",
+          "rank": 3,
+          "movement": "new"
+        },
+        {
+          "source": "wikipedia",
+          "title": "Riemann hypothesis",
+          "url": "https://en.wikipedia.org/wiki/Riemann_hypothesis",
+          "rank": 3,
+          "movement": "new"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-22",
+      "sources": [
+        "hackernews",
+        "wikipedia"
+      ],
+      "signal": 1.5,
+      "items": [
+        {
+          "source": "hackernews",
+          "title": "Lean verification of the Riemann Hypothesis",
+          "url": "https://news.ycombinator.com/item?id=50589618",
+          "rank": 3,
+          "movement": "new"
+        },
+        {
+          "source": "wikipedia",
+          "title": "Riemann hypothesis",
+          "url": "https://en.wikipedia.org/wiki/Riemann_hypothesis",
+          "rank": 2,
+          "movement": "holding"
+        },
+        {
+          "source": "wikipedia",
+          "title": "Riemann hypothesis",
+          "url": "https://en.wikipedia.org/wiki/Riemann_hypothesis",
+          "rank": 2,
+          "movement": "holding"
+        },
+        {
+          "source": "hackernews",
+          "title": "Lean verification of the Riemann Hypothesis",
+          "url": "https://news.ycombinator.com/item?id=50589618",
+          "rank": 3,
+          "movement": "new"
+        }
+      ]
+    }
+  ],
+  "explainer": {
+    "summary": "On November 20, Levent Alpöge released a proof of the Riemann hypothesis as a 17-million-line Lean library, made working with Claude, and the Lean and Mathlib communities certified it as correct the next day.",
+    "why_now": "Two attempts landed the same day: Alpöge's machine-checked proof, and a 940-page human-written manuscript by Alessandro Masullo aimed at the generalized hypothesis, which readers have since found gaps in. The Hacker News thread on Masullo's announcement drew 2,447 points.",
+    "background": [
+      "The Riemann hypothesis, posed in 1859, says every nontrivial zero of the zeta function lies on one line. It governs how the prime numbers are spread out and is among the most famous open problems in mathematics.",
+      "The Lean community statement says the proof was checked against Mathlib's own definition of the hypothesis and by several independent proof checkers, including Lean's kernel. Masullo's manuscript is a separate effort: Ravi Vakil posted it early, its chapter that should deduce the generalized hypothesis holds only placeholders, and a crowdsourced formalization is under way."
+    ],
+    "sources": [
+      {
+        "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
+        "title": "Lean verification of the Riemann Hypothesis (Lean community blog)",
+        "fetched_at": "2026-11-23T01:46:50Z"
+      },
+      {
+        "url": "https://johncarlosbaez.wordpress.com/2026/11/22/masullo-on-the-riemann-hypothesis/",
+        "title": "Masullo on the Riemann Hypothesis (Azimuth, John Baez)",
+        "fetched_at": "2026-11-23T01:46:50Z"
+      },
+      {
+        "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
+        "title": "Hurried Announcement: Alessandro Masullo GRH (Ravi Vakil)",
+        "fetched_at": "2026-11-23T01:46:50Z"
+      },
+      {
+        "url": "https://news.ycombinator.com/item?id=50579568",
+        "title": "Hurried Announcement: Alessandro Masullo GRH (Hacker News)",
+        "fetched_at": "2026-11-23T01:46:50Z"
+      }
+    ],
+    "researched_at": "2026-11-23T01:46:58.175Z",
+    "phase_at_research": "holding",
+    "engine": "ai"
+  },
+  "explainer_history": [
+    {
+      "summary": "On November 20, Levent Alpöge released a proof of the Riemann hypothesis as a 17-million-line Lean library, made working with Claude, and the Lean and Mathlib communities certified it as correct the next day.",
+      "why_now": "Two attempts landed the same day: Alpöge's machine-checked proof, and a 940-page human-written manuscript by Alessandro Masullo aimed at the generalized hypothesis, which readers have since found gaps in. Hacker News threads on both drew thousands of points.",
+      "background": [
+        "The Riemann hypothesis, posed in 1859, says every nontrivial zero of the zeta function lies on one line. It governs how the prime numbers are spread out and is among the most famous open problems in mathematics.",
+        "The Lean community statement says the proof was checked against Mathlib's own definition of the hypothesis and by several independent proof checkers, including Lean's kernel. Masullo's manuscript is a separate effort: Ravi Vakil posted it early, its chapter that should deduce the generalized hypothesis holds only placeholders, and a crowdsourced formalization is under way."
+      ],
+      "sources": [
+        {
+          "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
+          "title": "Lean verification of the Riemann Hypothesis (Lean community blog)",
+          "fetched_at": "2026-11-23T01:46:50Z"
+        },
+        {
+          "url": "https://johncarlosbaez.wordpress.com/2026/11/22/masullo-on-the-riemann-hypothesis/",
+          "title": "Masullo on the Riemann Hypothesis (Azimuth, John Baez)",
+          "fetched_at": "2026-11-23T01:46:50Z"
+        },
+        {
+          "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
+          "title": "Hurried Announcement: Alessandro Masullo GRH (Ravi Vakil)",
+          "fetched_at": "2026-11-23T01:46:50Z"
+        },
+        {
+          "url": "https://news.ycombinator.com/item?id=50579568",
+          "title": "Hurried Announcement: Alessandro Masullo GRH (Hacker News)",
+          "fetched_at": "2026-11-23T01:46:50Z"
+        }
+      ],
+      "researched_at": "2026-11-23T01:46:50.488Z",
+      "phase_at_research": "holding",
+      "engine": "ai"
+    }
+  ],
+  "needs_research": false
+}

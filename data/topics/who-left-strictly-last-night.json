@@ -1,0 +1,35 @@
+{
+  "id": "who-left-strictly-last-night",
+  "name": "who left strictly last night",
+  "aliases": [
+    "who left strictly last night"
+  ],
+  "first_seen": "2026-11-16",
+  "last_seen": "2026-11-16",
+  "days_seen": 1,
+  "phase": "closed",
+  "sources_seen": [
+    "google-trends"
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-16",
+      "sources": [
+        "google-trends"
+      ],
+      "signal": 0.26666666666666666,
+      "items": [
+        {
+          "source": "google-trends",
+          "title": "who left strictly last night",
+          "url": "https://www.telegraph.co.uk/tv/2026/11/15/strictly-come-dancing-sunday-recap/",
+          "rank": 3,
+          "movement": "new"
+        }
+      ]
+    }
+  ],
+  "explainer": null,
+  "explainer_history": [],
+  "needs_research": false
+}

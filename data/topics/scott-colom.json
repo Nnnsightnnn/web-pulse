@@ -1,0 +1,35 @@
+{
+  "id": "scott-colom",
+  "name": "Scott Colom",
+  "aliases": [
+    "Scott Colom"
+  ],
+  "first_seen": "2026-11-13",
+  "last_seen": "2026-11-13",
+  "days_seen": 1,
+  "phase": "closed",
+  "sources_seen": [
+    "wikipedia"
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-13",
+      "sources": [
+        "wikipedia"
+      ],
+      "signal": 0.1,
+      "items": [
+        {
+          "source": "wikipedia",
+          "title": "Scott Colom",
+          "url": "https://en.wikipedia.org/wiki/Scott_Colom",
+          "rank": 8,
+          "movement": "returning"
+        }
+      ]
+    }
+  ],
+  "explainer": null,
+  "explainer_history": [],
+  "needs_research": false
+}

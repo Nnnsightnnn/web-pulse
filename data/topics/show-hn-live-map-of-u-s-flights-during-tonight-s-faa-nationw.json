@@ -1,0 +1,51 @@
+{
+  "id": "show-hn-live-map-of-u-s-flights-during-tonight-s-faa-nationw",
+  "name": "Show HN: Live map of U.S. flights during tonight's FAA nationwide ground stop",
+  "aliases": [
+    "Show HN: Live map of U.S. flights during tonight's FAA nationwide ground stop"
+  ],
+  "first_seen": "2026-11-14",
+  "last_seen": "2026-11-14",
+  "days_seen": 1,
+  "phase": "closed",
+  "sources_seen": [
+    "hackernews",
+    "lemmy"
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-14",
+      "sources": [
+        "hackernews",
+        "lemmy"
+      ],
+      "signal": 0.3005952380952381,
+      "items": [
+        {
+          "source": "hackernews",
+          "title": "Show HN: Live map of U.S. flights during tonight's FAA nationwide ground stop",
+          "url": "https://news.ycombinator.com/item?id=50491545",
+          "rank": 6,
+          "movement": "new"
+        },
+        {
+          "source": "hackernews",
+          "title": "Amtrak booking system experiencing major issues amid nationwide FAA ground stop",
+          "url": "https://news.ycombinator.com/item?id=50492315",
+          "rank": 16,
+          "movement": "new"
+        },
+        {
+          "source": "lemmy",
+          "title": "FAA issues nationwide ground stop for all flights due to ‘extrodinary circumstances’ and safety",
+          "url": "https://lemmy.world/post/54375336",
+          "rank": 14,
+          "movement": "new"
+        }
+      ]
+    }
+  ],
+  "explainer": null,
+  "explainer_history": [],
+  "needs_research": false
+}

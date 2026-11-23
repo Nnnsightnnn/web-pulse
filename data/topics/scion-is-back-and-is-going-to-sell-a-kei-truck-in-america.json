@@ -1,0 +1,35 @@
+{
+  "id": "scion-is-back-and-is-going-to-sell-a-kei-truck-in-america",
+  "name": "Scion is back and is going to sell a kei truck in America",
+  "aliases": [
+    "Scion is back and is going to sell a kei truck in America"
+  ],
+  "first_seen": "2026-11-11",
+  "last_seen": "2026-11-11",
+  "days_seen": 1,
+  "phase": "closed",
+  "sources_seen": [
+    "hackernews"
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-11",
+      "sources": [
+        "hackernews"
+      ],
+      "signal": 0.26666666666666666,
+      "items": [
+        {
+          "source": "hackernews",
+          "title": "Scion is back and is going to sell a kei truck in America",
+          "url": "https://news.ycombinator.com/item?id=50445401",
+          "rank": 3,
+          "movement": "new"
+        }
+      ]
+    }
+  ],
+  "explainer": null,
+  "explainer_history": [],
+  "needs_research": false
+}

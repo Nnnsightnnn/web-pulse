@@ -1,0 +1,67 @@
+{
+  "id": "abdul-el-sayed",
+  "name": "Abdul El-Sayed",
+  "aliases": [
+    "Abdul El-Sayed"
+  ],
+  "first_seen": "2026-11-09",
+  "last_seen": "2026-11-10",
+  "days_seen": 2,
+  "phase": "closed",
+  "sources_seen": [
+    "polymarket",
+    "wikipedia"
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-09",
+      "sources": [
+        "polymarket",
+        "wikipedia"
+      ],
+      "signal": 0.6571428571428571,
+      "items": [
+        {
+          "source": "polymarket",
+          "title": "Will Abdul El-Sayed win the 2028 Democratic presidential nomination?",
+          "url": "https://polymarket.com/event/democratic-presidential-nominee-2028",
+          "rank": 7,
+          "movement": "returning"
+        },
+        {
+          "source": "wikipedia",
+          "title": "Abdul El-Sayed",
+          "url": "https://en.wikipedia.org/wiki/Abdul_El-Sayed",
+          "rank": 3,
+          "movement": "holding"
+        },
+        {
+          "source": "wikipedia",
+          "title": "Abdul El-Sayed",
+          "url": "https://en.wikipedia.org/wiki/Abdul_El-Sayed",
+          "rank": 3,
+          "movement": "holding"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-10",
+      "sources": [
+        "wikipedia"
+      ],
+      "signal": 0.13333333333333333,
+      "items": [
+        {
+          "source": "wikipedia",
+          "title": "Abdul El-Sayed",
+          "url": "https://en.wikipedia.org/wiki/Abdul_El-Sayed",
+          "rank": 6,
+          "movement": "falling"
+        }
+      ]
+    }
+  ],
+  "explainer": null,
+  "explainer_history": [],
+  "needs_research": false
+}

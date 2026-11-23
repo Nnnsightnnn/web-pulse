@@ -1,0 +1,35 @@
+{
+  "id": "markwayne-mullin",
+  "name": "Markwayne Mullin",
+  "aliases": [
+    "Markwayne Mullin"
+  ],
+  "first_seen": "2026-11-15",
+  "last_seen": "2026-11-15",
+  "days_seen": 1,
+  "phase": "closed",
+  "sources_seen": [
+    "wikipedia"
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-15",
+      "sources": [
+        "wikipedia"
+      ],
+      "signal": 0.1,
+      "items": [
+        {
+          "source": "wikipedia",
+          "title": "Markwayne Mullin",
+          "url": "https://en.wikipedia.org/wiki/Markwayne_Mullin",
+          "rank": 8,
+          "movement": "new"
+        }
+      ]
+    }
+  ],
+  "explainer": null,
+  "explainer_history": [],
+  "needs_research": false
+}

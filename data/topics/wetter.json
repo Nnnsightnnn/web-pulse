@@ -1,0 +1,35 @@
+{
+  "id": "wetter",
+  "name": "wetter",
+  "aliases": [
+    "wetter"
+  ],
+  "first_seen": "2026-11-20",
+  "last_seen": "2026-11-20",
+  "days_seen": 1,
+  "phase": "fading",
+  "sources_seen": [
+    "google-trends"
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-20",
+      "sources": [
+        "google-trends"
+      ],
+      "signal": 0.26666666666666666,
+      "items": [
+        {
+          "source": "google-trends",
+          "title": "wetter",
+          "url": "https://www.zeit.de/wissenschaft/umwelt/2026-11/polarluft-wetterumschwung-temperaturen-glaette-gxe",
+          "rank": 3,
+          "movement": "new"
+        }
+      ]
+    }
+  ],
+  "explainer": null,
+  "explainer_history": [],
+  "needs_research": false
+}

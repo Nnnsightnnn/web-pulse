@@ -1,0 +1,35 @@
+{
+  "id": "tomate",
+  "name": "tomate",
+  "aliases": [
+    "tomate"
+  ],
+  "first_seen": "2026-11-16",
+  "last_seen": "2026-11-16",
+  "days_seen": 1,
+  "phase": "closed",
+  "sources_seen": [
+    "google-trends"
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-16",
+      "sources": [
+        "google-trends"
+      ],
+      "signal": 0.2,
+      "items": [
+        {
+          "source": "google-trends",
+          "title": "tomate",
+          "url": "https://g1.globo.com/fantastico/noticia/2026/11/15/chuvas-atipicas-e-el-nino-fazem-preco-do-tomate-disparar-e-atingir-maior-patamar-historico-no-brasil.ghtml",
+          "rank": 4,
+          "movement": "new"
+        }
+      ]
+    }
+  ],
+  "explainer": null,
+  "explainer_history": [],
+  "needs_research": false
+}

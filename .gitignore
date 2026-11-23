@@ -11,3 +11,7 @@ AGENTS.md
 
 # gdelt-ai circuit-breaker state (local only)
 data/history/*/.cooldown.json
+
+# research drafts from the nightly explainer pass
+.drafts/
+node_modules

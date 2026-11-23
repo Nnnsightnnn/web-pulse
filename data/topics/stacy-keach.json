@@ -1,0 +1,35 @@
+{
+  "id": "stacy-keach",
+  "name": "Stacy Keach",
+  "aliases": [
+    "Stacy Keach"
+  ],
+  "first_seen": "2026-11-12",
+  "last_seen": "2026-11-12",
+  "days_seen": 1,
+  "phase": "closed",
+  "sources_seen": [
+    "wikipedia"
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-12",
+      "sources": [
+        "wikipedia"
+      ],
+      "signal": 0.4,
+      "items": [
+        {
+          "source": "wikipedia",
+          "title": "Stacy Keach",
+          "url": "https://en.wikipedia.org/wiki/Stacy_Keach",
+          "rank": 2,
+          "movement": "new"
+        }
+      ]
+    }
+  ],
+  "explainer": null,
+  "explainer_history": [],
+  "needs_research": false
+}

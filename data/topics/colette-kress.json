@@ -1,0 +1,51 @@
+{
+  "id": "colette-kress",
+  "name": "Colette Kress",
+  "aliases": [
+    "Colette Kress"
+  ],
+  "first_seen": "2026-11-13",
+  "last_seen": "2026-11-14",
+  "days_seen": 2,
+  "phase": "closed",
+  "sources_seen": [
+    "wikipedia"
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-13",
+      "sources": [
+        "wikipedia"
+      ],
+      "signal": 0.26666666666666666,
+      "items": [
+        {
+          "source": "wikipedia",
+          "title": "Colette Kress",
+          "url": "https://en.wikipedia.org/wiki/Colette_Kress",
+          "rank": 3,
+          "movement": "new"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-14",
+      "sources": [
+        "wikipedia"
+      ],
+      "signal": 0.2,
+      "items": [
+        {
+          "source": "wikipedia",
+          "title": "Colette Kress",
+          "url": "https://en.wikipedia.org/wiki/Colette_Kress",
+          "rank": 4,
+          "movement": "holding"
+        }
+      ]
+    }
+  ],
+  "explainer": null,
+  "explainer_history": [],
+  "needs_research": false
+}

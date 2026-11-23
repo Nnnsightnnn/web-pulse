@@ -1,0 +1,35 @@
+{
+  "id": "keyonte-george",
+  "name": "keyonte george",
+  "aliases": [
+    "keyonte george"
+  ],
+  "first_seen": "2026-11-19",
+  "last_seen": "2026-11-19",
+  "days_seen": 1,
+  "phase": "fading",
+  "sources_seen": [
+    "google-trends"
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-19",
+      "sources": [
+        "google-trends"
+      ],
+      "signal": 0.8,
+      "items": [
+        {
+          "source": "google-trends",
+          "title": "keyonte george",
+          "url": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-11-19/keyonte-george-with-30-and-10-assists-in-win",
+          "rank": 1,
+          "movement": "new"
+        }
+      ]
+    }
+  ],
+  "explainer": null,
+  "explainer_history": [],
+  "needs_research": false
+}

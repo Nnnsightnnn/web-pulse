@@ -1,0 +1,35 @@
+{
+  "id": "gimp-now-has-ui-tests",
+  "name": "GIMP now has UI tests",
+  "aliases": [
+    "GIMP now has UI tests"
+  ],
+  "first_seen": "2026-11-20",
+  "last_seen": "2026-11-20",
+  "days_seen": 1,
+  "phase": "fading",
+  "sources_seen": [
+    "hackernews"
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-20",
+      "sources": [
+        "hackernews"
+      ],
+      "signal": 0.8,
+      "items": [
+        {
+          "source": "hackernews",
+          "title": "GIMP now has UI tests",
+          "url": "https://news.ycombinator.com/item?id=50569985",
+          "rank": 1,
+          "movement": "new"
+        }
+      ]
+    }
+  ],
+  "explainer": null,
+  "explainer_history": [],
+  "needs_research": false
+}

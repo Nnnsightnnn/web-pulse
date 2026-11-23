@@ -1,0 +1,168 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Web Pulse Topics</title>
+<meta name="description" content="The stories Web Pulse is following: what each one is, why it is up, and how long it has been on the feeds." />
+<link rel="icon" type="image/svg+xml" href="favicon.svg" />
+<link rel="icon" href="favicon.ico" sizes="any" />
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,600;1,9..144,400&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --paper: #F1E9D8; --paper-2: #E9DFC9; --edge: #D8CDB3;
+    --ink: #0D0C09; --ink-2: #1F1C16; --grey-1: #6A6357; --grey-2: #948C7C;
+    --red: #B23A23; --blue: #1E3A5F; --gold: #8A6A1E; --green: #3F5E2B;
+    --serif: 'Fraunces', 'Times New Roman', serif;
+    --sans: 'Inter', system-ui, sans-serif;
+    --mono: 'JetBrains Mono', ui-monospace, monospace;
+  }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; background: var(--paper); color: var(--ink); font-family: var(--serif); }
+  a { color: inherit; }
+  .wrap { max-width: 860px; margin: 0 auto; padding: 40px 16px 80px; }
+  header { border-bottom: 4px solid var(--ink); padding-bottom: 14px; margin-bottom: 8px; }
+  .kicker { font-family: var(--mono); font-size: 11px; letter-spacing: 0.18em; text-transform: uppercase; color: var(--grey-1); display: flex; justify-content: space-between; gap: 12px; flex-wrap: wrap; }
+  h1 { font-size: clamp(40px, 9vw, 72px); line-height: 0.95; margin: 10px 0 8px; font-weight: 600; letter-spacing: -0.02em; }
+  .deck { font-style: italic; color: var(--ink-2); font-size: 19px; margin: 0; max-width: 620px; line-height: 1.4; }
+  .bar { display: flex; gap: 8px; flex-wrap: wrap; padding: 14px 0; border-bottom: 1px solid var(--ink); position: sticky; top: 0; background: var(--paper); z-index: 2; }
+  .chip { font-family: var(--mono); font-size: 12px; letter-spacing: 0.06em; text-transform: uppercase; border: 1px solid var(--ink); background: transparent; color: var(--ink); padding: 6px 10px; cursor: pointer; border-radius: 0; }
+  .chip[aria-pressed="true"] { background: var(--ink); color: var(--paper); }
+  .chip .n { opacity: 0.6; margin-left: 4px; }
+  ol.topics { list-style: none; margin: 0; padding: 0; }
+  .topic { border-bottom: 1px solid var(--edge); padding: 22px 0; scroll-margin-top: 70px; }
+  .topic:target { background: var(--paper-2); box-shadow: -16px 0 0 var(--paper-2), 16px 0 0 var(--paper-2); }
+  .meta { font-family: var(--mono); font-size: 11px; letter-spacing: 0.08em; text-transform: uppercase; color: var(--grey-1); display: flex; gap: 10px; flex-wrap: wrap; align-items: center; }
+  .phase { padding: 2px 6px; border: 1px solid currentColor; font-weight: 500; }
+  .phase.new { color: var(--red); } .phase.climbing { color: var(--gold); }
+  .phase.holding { color: var(--blue); } .phase.fading, .phase.closed { color: var(--grey-2); }
+  h2 { font-size: 26px; line-height: 1.2; margin: 8px 0 6px; font-weight: 600; overflow-wrap: anywhere; }
+  h2 a { text-decoration: none; }
+  h2 a:hover { text-decoration: underline; text-decoration-thickness: 1px; }
+  .summary { font-size: 18px; line-height: 1.5; color: var(--ink-2); margin: 6px 0; }
+  .why { font-family: var(--sans); font-size: 14px; line-height: 1.5; color: var(--ink-2); margin: 6px 0; }
+  .why b { font-weight: 600; }
+  .unresearched { font-style: italic; color: var(--grey-1); font-size: 16px; margin: 6px 0; }
+  details { margin-top: 10px; }
+  summary { font-family: var(--mono); font-size: 12px; letter-spacing: 0.06em; text-transform: uppercase; cursor: pointer; color: var(--ink-2); }
+  .more { padding: 10px 0 0; }
+  .more p { font-size: 17px; line-height: 1.55; color: var(--ink-2); margin: 0 0 10px; }
+  .more h3 { font-family: var(--mono); font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--grey-1); margin: 14px 0 6px; font-weight: 500; }
+  .more ul { margin: 0; padding-left: 18px; font-family: var(--sans); font-size: 14px; line-height: 1.6; }
+  .more li { overflow-wrap: anywhere; }
+  .spark { display: block; width: 100%; max-width: 420px; height: 48px; }
+  .spark .line { fill: none; stroke: var(--ink); stroke-width: 1.5; }
+  .spark .dot { fill: var(--red); }
+  .tl { font-family: var(--mono); font-size: 11px; color: var(--grey-1); }
+  .empty { padding: 40px 0; font-style: italic; color: var(--grey-1); }
+  footer { margin-top: 30px; font-family: var(--mono); font-size: 11px; color: var(--grey-1); letter-spacing: 0.06em; }
+  @media (max-width: 520px) { h2 { font-size: 22px; } .summary { font-size: 17px; } }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div class="kicker"><span>Web Pulse &middot; The Desk</span><span id="stamp">&nbsp;</span></div>
+    <h1>Topics</h1>
+    <p class="deck">The stories the web is carrying, followed day to day: what each one is, why it is up, and how long it has held attention.</p>
+  </header>
+  <div class="bar" role="toolbar" aria-label="Filter by phase" id="bar"></div>
+  <ol class="topics" id="list"><li class="empty">Loading the desk&hellip;</li></ol>
+  <footer><a href="./">Back to the daily edition</a> &middot; Explainers are researched on the web nightly and cite every page they draw on.</footer>
+</div>
+<script>
+(function () {
+  const PHASES = ["all", "new", "climbing", "holding", "fading"];
+  const FEED = { "google-trends": "Google Trends", hackernews: "Hacker News", wikipedia: "Wikipedia", "mastodon-trending": "Mastodon", "product-hunt": "Product Hunt", "cloudflare-radar": "Cloudflare Radar", "gdelt-ai": "GDELT", huggingface: "Hugging Face", stackoverflow: "Stack Overflow" };
+  const feedName = (s) => FEED[s] || s.charAt(0).toUpperCase() + s.slice(1);
+  const esc = (s) => String(s == null ? "" : s).replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+  const safeUrl = (u) => (/^https?:\/\//.test(u || "") ? u : null);
+  const fmtDate = (d) => new Date(d + "T12:00:00Z").toLocaleDateString("en-US", { month: "short", day: "numeric", timeZone: "UTC" });
+  let all = [], phase = "all";
+  try { const p = new URLSearchParams(location.search).get("phase"); if (PHASES.includes(p)) phase = p; } catch (e) {}
+
+  function bar() {
+    const counts = Object.fromEntries(PHASES.map((p) => [p, p === "all" ? all.length : all.filter((t) => t.phase === p).length]));
+    document.getElementById("bar").innerHTML = PHASES.map((p) =>
+      `<button class="chip" data-p="${p}" aria-pressed="${p === phase}">${p}<span class="n">${counts[p]}</span></button>`).join("");
+  }
+
+  function card(t) {
+    const days = t.days_seen === 1 ? "first day" : `day ${t.days_seen}`;
+    const url = safeUrl(t.url);
+    const title = url ? `<a href="${esc(url)}" rel="noopener" target="_blank">${esc(t.name)}</a>` : esc(t.name);
+    const body = t.summary
+      ? `<p class="summary">${esc(t.summary)}</p>${t.why_now ? `<p class="why"><b>Why now.</b> ${esc(t.why_now)}</p>` : ""}`
+      : `<p class="unresearched">${t.needs_research ? "Queued for tonight's research." : "Not researched yet."}</p>`;
+    return `<li class="topic" id="${esc(t.id)}">
+      <div class="meta"><span class="phase ${esc(t.phase)}">${esc(t.phase)}</span><span>${days}</span><span>since ${fmtDate(t.first_seen)}</span><span>${t.sources_seen.map(feedName).map(esc).join(" &middot; ")}</span></div>
+      <h2>${title}</h2>${body}
+      <details data-id="${esc(t.id)}"><summary>Timeline and sources</summary><div class="more">Loading&hellip;</div></details>
+    </li>`;
+  }
+
+  function spark(timeline) {
+    if (timeline.length < 2) return "";
+    const w = 420, h = 48, pad = 4, max = Math.max(...timeline.map((e) => e.signal), 0.01);
+    const x = (i) => pad + (i * (w - 2 * pad)) / (timeline.length - 1);
+    const y = (v) => h - pad - (v / max) * (h - 2 * pad);
+    const pts = timeline.map((e, i) => `${x(i).toFixed(1)},${y(e.signal).toFixed(1)}`).join(" ");
+    const last = timeline.length - 1;
+    return `<svg class="spark" viewBox="0 0 ${w} ${h}" role="img" aria-label="Signal by day"><polyline class="line" points="${pts}"/><circle class="dot" cx="${x(last)}" cy="${y(timeline[last].signal)}" r="3"/></svg>
+      <div class="tl">${fmtDate(timeline[0].date)} to ${fmtDate(timeline[last].date)}, ${timeline.length} days on the feeds</div>`;
+  }
+
+  async function expand(el) {
+    const box = el.querySelector(".more");
+    if (box.dataset.loaded) return;
+    try {
+      const t = await (await fetch(`data/topics/${encodeURIComponent(el.dataset.id)}.json`, { cache: "no-cache" })).json();
+      const ex = t.explainer;
+      const bg = ex && ex.background && ex.background.length ? ex.background.map((p) => `<p>${esc(p)}</p>`).join("") : "";
+      const cites = ex ? `<h3>Sources, researched ${esc((ex.researched_at || "").slice(0, 10))}</h3><ul>${ex.sources.map((s) => {
+        const u = safeUrl(s.url); return `<li>${u ? `<a href="${esc(u)}" rel="noopener" target="_blank">${esc(s.title)}</a>` : esc(s.title)}</li>`; }).join("")}</ul>` : "";
+      const seen = (t.timeline[t.timeline.length - 1] || {}).items || [];
+      const onFeeds = seen.length ? `<h3>On the feeds, ${fmtDate(t.last_seen)}</h3><ul>${seen.map((i) => {
+        const u = safeUrl(i.url); const label = `${esc(feedName(i.source))} #${esc(i.rank)}: ${esc(i.title)}`;
+        return `<li>${u ? `<a href="${esc(u)}" rel="noopener" target="_blank">${label}</a>` : label}</li>`; }).join("")}</ul>` : "";
+      box.innerHTML = bg + spark(t.timeline) + cites + onFeeds;
+      box.dataset.loaded = "1";
+    } catch (e) {
+      box.textContent = "Could not load this topic's file.";
+    }
+  }
+
+  function render() {
+    bar();
+    const shown = phase === "all" ? all : all.filter((t) => t.phase === phase);
+    document.getElementById("list").innerHTML = shown.length ? shown.map(card).join("") : `<li class="empty">Nothing in this phase today.</li>`;
+    if (location.hash) {
+      const el = document.getElementById(decodeURIComponent(location.hash.slice(1)));
+      if (el) { const d = el.querySelector("details"); d.open = true; expand(d); el.scrollIntoView(); }
+    }
+  }
+
+  document.getElementById("bar").addEventListener("click", (e) => {
+    const b = e.target.closest(".chip"); if (!b) return;
+    phase = b.dataset.p; render();
+  });
+  document.getElementById("list").addEventListener("toggle", (e) => {
+    if (e.target.tagName === "DETAILS" && e.target.open) expand(e.target);
+  }, true);
+
+  fetch("data/topics/index.json", { cache: "no-cache" }).then((r) => r.json()).then((idx) => {
+    // Researched topics first within each day, so the desk leads with what it knows.
+    all = idx.topics.slice().sort((a, b) =>
+      a.last_seen !== b.last_seen ? (a.last_seen < b.last_seen ? 1 : -1)
+      : (!!b.summary - !!a.summary) || b.signal - a.signal);
+    document.getElementById("stamp").textContent = `Updated ${fmtDate(idx.date)}`;
+    render();
+  }).catch(() => {
+    document.getElementById("list").innerHTML = `<li class="empty">The topic index has not been published yet.</li>`;
+  });
+})();
+</script>
+</body>
+</html>
