@@ -238,7 +238,11 @@ export function updateTopics(latest, topicsDir, today) {
     if (!touched.has(topic.id)) Object.assign(entry, { sources: [], signal: 0, items: [] });
     entry.sources = [...new Set([...entry.sources, ...c.sources])].sort();
     entry.signal += c.signal;
-    for (const it of c.items) if (entry.items.length < 6) entry.items.push(it);
+    // The same item can arrive twice (inside its cluster and as a single).
+    for (const it of c.items) {
+      const dup = entry.items.some((e) => e.source === it.source && e.title === it.title);
+      if (!dup && entry.items.length < 6) entry.items.push(it);
+    }
     // The stronger cross-feed name wins over a single-feed one.
     if (c.kind === "cluster" && topic.first_seen === today) topic.name = c.name;
     touched.add(topic.id);

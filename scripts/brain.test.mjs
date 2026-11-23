@@ -88,6 +88,8 @@ test("topics: a story persists across days, phases move, queue is capped and ski
   idx = updateTopics(snapshot("2026-11-22", { wiki, clusters: [cluster] }), dir, "2026-11-22");
   const file = JSON.parse(readFileSync(join(dir, "riemann-hypothesis.json"), "utf8"));
   assert.equal(file.timeline.length, 3);
+  const seen = file.timeline[2].items.map((i) => `${i.source}|${i.title}`);
+  assert.equal(new Set(seen).size, seen.length, "no duplicate items in a day");
 
   // Unseen for two days: fading.
   idx = updateTopics(snapshot("2026-11-24", { wiki: ["Foxtrot"] }), dir, "2026-11-24");
