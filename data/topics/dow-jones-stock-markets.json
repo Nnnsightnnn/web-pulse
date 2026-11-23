@@ -1,0 +1,35 @@
+{
+  "id": "dow-jones-stock-markets",
+  "name": "dow jones stock markets",
+  "aliases": [
+    "dow jones stock markets"
+  ],
+  "first_seen": "2026-11-23",
+  "last_seen": "2026-11-23",
+  "days_seen": 1,
+  "phase": "new",
+  "sources_seen": [
+    "google-trends"
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-23",
+      "sources": [
+        "google-trends"
+      ],
+      "signal": 0.2,
+      "items": [
+        {
+          "source": "google-trends",
+          "title": "dow jones stock markets",
+          "url": "https://www.cnbc.com/2026/11/22/stock-market-today-live-updates.html",
+          "rank": 4,
+          "movement": "new"
+        }
+      ]
+    }
+  ],
+  "explainer": null,
+  "explainer_history": [],
+  "needs_research": false
+}

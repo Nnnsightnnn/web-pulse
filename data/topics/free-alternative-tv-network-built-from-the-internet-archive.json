@@ -1,0 +1,35 @@
+{
+  "id": "free-alternative-tv-network-built-from-the-internet-archive",
+  "name": "Free alternative TV network built from the Internet Archive's forgotten videos",
+  "aliases": [
+    "Free alternative TV network built from the Internet Archive's forgotten videos"
+  ],
+  "first_seen": "2026-11-23",
+  "last_seen": "2026-11-23",
+  "days_seen": 1,
+  "phase": "new",
+  "sources_seen": [
+    "hackernews"
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-23",
+      "sources": [
+        "hackernews"
+      ],
+      "signal": 0.8,
+      "items": [
+        {
+          "source": "hackernews",
+          "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
+          "url": "https://news.ycombinator.com/item?id=50606192",
+          "rank": 1,
+          "movement": "new"
+        }
+      ]
+    }
+  ],
+  "explainer": null,
+  "explainer_history": [],
+  "needs_research": true
+}

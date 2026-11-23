@@ -1,40 +1,59 @@
 {
-  "date": "2026-11-22",
-  "generated_at": "2026-11-22T06:16:22.758Z",
-  "lede": "Two subjects crowded several feeds at once. Grand Theft Auto VI led Wikipedia with 393,338 views, just 5,050 ahead of the Riemann hypothesis, which also drew 938 points on Hacker News and a wire claim that Claude helped prove it. Little else rose above the usual hum.",
+  "date": "2026-11-23",
+  "generated_at": "2026-11-23T06:16:28.436Z",
+  "lede": "Grand Theft Auto VI was the day's connective tissue: it surfaced in two separate clusters spanning Google Trends, YouTube and Hacker News, where fans traded chapter-two mission lists and even a field guide to the game's wildlife, and it took second place on Wikipedia with 308,867 views. The Riemann hypothesis crossed three feeds at once, pushed by two proof attempts that landed days apart. And Ramayana: Part 1 led Wikipedia outright with 384,249 views, with no other feed in the snapshot saying why.",
   "throughlines": [
     {
-      "title": "thinkingmachines/Inkling-2-Mini",
-      "gist": "A compact open model from Thinking Machines that runs in 5.4 GB of memory, sitting top of HuggingFace and climbing Hacker News, a nudge toward models small enough to run on your own machine.",
+      "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
+      "gist": "A fan's field guide to the birds of GTA 6's Vice City crossed from Hacker News to a YouTube stream the same day, both feeds dwelling on the game's world in fine detail before release.",
       "sources": [
         "hackernews",
-        "huggingface"
+        "youtube"
       ],
-      "url": "https://news.ycombinator.com/item?id=50591853",
-      "kind": "cluster"
+      "url": "https://news.ycombinator.com/item?id=50602843",
+      "kind": "cluster",
+      "topic_id": "the-birds-of-gta-6-a-field-guide-to-vice-city-and-leonida-s",
+      "phase": "new",
+      "days_seen": 1,
+      "first_seen": "2026-11-23",
+      "why": null,
+      "explainer_url": "https://nnnsightnnn.github.io/web-pulse/topics.html#the-birds-of-gta-6-a-field-guide-to-vice-city-and-leonida-s"
     },
     {
-      "title": "Grand Theft Auto VI",
-      "gist": "Rockstar's long-delayed sequel was the day's single biggest draw, leading Wikipedia with 393,338 views while the Grand Theft Auto name also surfaced on Steam's charts.",
+      "title": "gta 6 chapter 2 mission list",
+      "gist": "For four days now players have searched Google Trends and YouTube for GTA 6's chapter-two mission list, the practical flip side of all the world-building: what the game actually asks you to do.",
       "sources": [
-        "steam",
-        "wikipedia"
+        "google-trends",
+        "youtube"
       ],
-      "url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI",
-      "kind": "cluster"
+      "url": "https://www.vice.com/en/article/gta-6-chapter-2-length-missions-missables/",
+      "kind": "cluster",
+      "topic_id": "gta-6",
+      "phase": "climbing",
+      "days_seen": 4,
+      "first_seen": "2026-11-18",
+      "why": null,
+      "explainer_url": "https://nnnsightnnn.github.io/web-pulse/topics.html#gta-6"
     },
     {
-      "title": "Riemann hypothesis",
-      "gist": "A 167-year-old math problem pulled 388,288 Wikipedia views and 938 points on Hacker News for a Lean proof verification, after a wire report that an Anthropic mathematician used Claude to help crack it.",
+      "title": "Masullo on the Riemann Hypothesis",
+      "gist": "The Riemann hypothesis is holding across Hacker News, Wikipedia and Polymarket on the back of two proof attempts that landed days apart: a machine-checked Lean proof from Levent Alpoge, and a 940-page manuscript from Alessandro Masullo that readers are already finding gaps in.",
       "sources": [
         "hackernews",
+        "polymarket",
         "wikipedia"
       ],
       "url": "https://en.wikipedia.org/wiki/Riemann_hypothesis",
-      "kind": "cluster"
+      "kind": "cluster",
+      "topic_id": "riemann-hypothesis",
+      "phase": "holding",
+      "days_seen": 3,
+      "first_seen": "2026-11-21",
+      "why": "On November 20, Levent Alpöge released a proof of the Riemann hypothesis as a 17-million-line Lean library, made working with Claude, and the Lean and Mathlib communities certified it as correct the next day.",
+      "explainer_url": "https://nnnsightnnn.github.io/web-pulse/topics.html#riemann-hypothesis"
     }
   ],
-  "strength": 100,
+  "strength": 69,
   "live_sources": 17,
   "total_sources": 17,
   "dashboard_url": "https://nnnsightnnn.github.io/web-pulse/",

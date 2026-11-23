@@ -1,7 +1,383 @@
 {
-  "generated_at": "2026-11-22T06:15:00.000Z",
-  "date": "2026-11-22",
+  "generated_at": "2026-11-23T06:16:28.436Z",
+  "date": "2026-11-23",
   "topics": [
+    {
+      "id": "riemann-hypothesis",
+      "name": "Riemann hypothesis",
+      "aliases": [
+        "Riemann hypothesis",
+        "Lean verification of the Riemann Hypothesis",
+        "Masullo on the Riemann Hypothesis"
+      ],
+      "phase": "holding",
+      "first_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
+      "days_seen": 3,
+      "sources_seen": [
+        "hackernews",
+        "polymarket",
+        "wikipedia"
+      ],
+      "signal": 1.056,
+      "url": "https://en.wikipedia.org/wiki/Riemann_hypothesis",
+      "summary": "On November 20, Levent Alpöge released a proof of the Riemann hypothesis as a 17-million-line Lean library, made working with Claude, and the Lean and Mathlib communities certified it as correct the next day.",
+      "why_now": "Two attempts landed the same day: Alpöge's machine-checked proof, and a 940-page human-written manuscript by Alessandro Masullo aimed at the generalized hypothesis, which readers have since found gaps in. The Hacker News thread on Masullo's announcement drew 2,447 points.",
+      "researched_at": "2026-11-23T01:46:58.175Z",
+      "needs_research": false
+    },
+    {
+      "id": "ramayana-part-1",
+      "name": "Ramayana: Part 1",
+      "aliases": [
+        "Ramayana: Part 1"
+      ],
+      "phase": "holding",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-23",
+      "days_seen": 15,
+      "sources_seen": [
+        "wikipedia",
+        "youtube"
+      ],
+      "signal": 0.8,
+      "url": "https://en.wikipedia.org/wiki/Ramayana%3A_Part_1",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": true
+    },
+    {
+      "id": "charlotte-fc-vs-chicago-fire-fc-standings",
+      "name": "charlotte fc vs chicago fire fc standings",
+      "aliases": [
+        "charlotte fc vs chicago fire fc standings"
+      ],
+      "phase": "new",
+      "first_seen": "2026-11-23",
+      "last_seen": "2026-11-23",
+      "days_seen": 1,
+      "sources_seen": [
+        "google-trends"
+      ],
+      "signal": 0.8,
+      "url": "https://www.cbsnews.com/chicago/news/charlotte-edges-fire-2-1-in-first-round-opener/",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "free-alternative-tv-network-built-from-the-internet-archive",
+      "name": "Free alternative TV network built from the Internet Archive's forgotten videos",
+      "aliases": [
+        "Free alternative TV network built from the Internet Archive's forgotten videos"
+      ],
+      "phase": "new",
+      "first_seen": "2026-11-23",
+      "last_seen": "2026-11-23",
+      "days_seen": 1,
+      "sources_seen": [
+        "hackernews"
+      ],
+      "signal": 0.8,
+      "url": "https://news.ycombinator.com/item?id=50606192",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": true
+    },
+    {
+      "id": "grand-theft-auto-vi",
+      "name": "Grand Theft Auto VI",
+      "aliases": [
+        "Grand Theft Auto VI",
+        "Grand Theft Auto"
+      ],
+      "phase": "holding",
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-23",
+      "days_seen": 6,
+      "sources_seen": [
+        "lemmy",
+        "steam",
+        "wikipedia",
+        "youtube"
+      ],
+      "signal": 0.4,
+      "url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI",
+      "summary": "Rockstar's Grand Theft Auto VI launched on November 19, 2026, on PlayStation 5 and Xbox Series X/S, and this weekend is its first on sale.",
+      "why_now": "This is launch week. Sony said on November 10 it had become the most pre-ordered game in PlayStation Store history, and digital pre-loads of up to 212 GB opened nine days before release.",
+      "researched_at": "2026-11-23T02:22:57.990Z",
+      "needs_research": false
+    },
+    {
+      "id": "king-tides-flooding",
+      "name": "king tides flooding",
+      "aliases": [
+        "king tides flooding"
+      ],
+      "phase": "new",
+      "first_seen": "2026-11-23",
+      "last_seen": "2026-11-23",
+      "days_seen": 1,
+      "sources_seen": [
+        "google-trends"
+      ],
+      "signal": 0.4,
+      "url": "https://www.yahoo.com/news/weather-news/articles/bay-area-airports-coast-under-171057449.html",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": true
+    },
+    {
+      "id": "xnu-linux-full-os-x-gui-userspace-on-linux",
+      "name": "XNU Linux: Full OS X GUI Userspace on Linux",
+      "aliases": [
+        "XNU Linux: Full OS X GUI Userspace on Linux"
+      ],
+      "phase": "new",
+      "first_seen": "2026-11-23",
+      "last_seen": "2026-11-23",
+      "days_seen": 1,
+      "sources_seen": [
+        "hackernews"
+      ],
+      "signal": 0.4,
+      "url": "https://news.ycombinator.com/item?id=50607261",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": true
+    },
+    {
+      "id": "gta-6",
+      "name": "gta 6",
+      "aliases": [
+        "gta 6",
+        "PLAYING GTA 6 FOR THE FIRST TIME (PART 1)",
+        "PLAYING GTA 6 FOR THE FIRST TIME (PART 3)",
+        "gta 6 chapter 2 mission list"
+      ],
+      "phase": "climbing",
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-23",
+      "days_seen": 4,
+      "sources_seen": [
+        "google-trends",
+        "polymarket",
+        "youtube"
+      ],
+      "signal": 0.353,
+      "url": "https://www.vice.com/en/article/gta-6-chapter-2-length-missions-missables/",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "tom-jackson-american-football-born-1951",
+      "name": "Tom Jackson (American football, born 1951)",
+      "aliases": [
+        "Tom Jackson (American football, born 1951)"
+      ],
+      "phase": "new",
+      "first_seen": "2026-11-23",
+      "last_seen": "2026-11-23",
+      "days_seen": 1,
+      "sources_seen": [
+        "wikipedia"
+      ],
+      "signal": 0.267,
+      "url": "https://en.wikipedia.org/wiki/Tom_Jackson_(American_football%2C_born_1951)",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "earthquake-now",
+      "name": "earthquake now",
+      "aliases": [
+        "earthquake now"
+      ],
+      "phase": "new",
+      "first_seen": "2026-11-23",
+      "last_seen": "2026-11-23",
+      "days_seen": 1,
+      "sources_seen": [
+        "google-trends"
+      ],
+      "signal": 0.267,
+      "url": "https://www.nytimes.com/2026/11/20/us/earthquakes-california-los-angeles-pinnacles.html",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "the-birds-of-gta-6-a-field-guide-to-vice-city-and-leonida-s",
+      "name": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
+      "aliases": [
+        "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife"
+      ],
+      "phase": "new",
+      "first_seen": "2026-11-23",
+      "last_seen": "2026-11-23",
+      "days_seen": 1,
+      "sources_seen": [
+        "hackernews",
+        "youtube"
+      ],
+      "signal": 0.229,
+      "url": "https://news.ycombinator.com/item?id=50602843",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "grand-theft-auto-v-enhanced",
+      "name": "Grand Theft Auto V Enhanced",
+      "aliases": [
+        "Grand Theft Auto V Enhanced"
+      ],
+      "phase": "holding",
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-23",
+      "days_seen": 2,
+      "sources_seen": [
+        "steam",
+        "wikipedia"
+      ],
+      "signal": 0.227,
+      "url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "the-hunger-games-sunrise-on-the-reaping",
+      "name": "The Hunger Games: Sunrise on the Reaping",
+      "aliases": [
+        "The Hunger Games: Sunrise on the Reaping"
+      ],
+      "phase": "holding",
+      "first_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
+      "days_seen": 3,
+      "sources_seen": [
+        "wikipedia"
+      ],
+      "signal": 0.2,
+      "url": "https://en.wikipedia.org/wiki/The_Hunger_Games%3A_Sunrise_on_the_Reaping",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "dow-jones-stock-markets",
+      "name": "dow jones stock markets",
+      "aliases": [
+        "dow jones stock markets"
+      ],
+      "phase": "new",
+      "first_seen": "2026-11-23",
+      "last_seen": "2026-11-23",
+      "days_seen": 1,
+      "sources_seen": [
+        "google-trends"
+      ],
+      "signal": 0.2,
+      "url": "https://www.cnbc.com/2026/11/22/stock-market-today-live-updates.html",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "cyberleek",
+      "name": "cyberleek",
+      "aliases": [
+        "cyberleek"
+      ],
+      "phase": "new",
+      "first_seen": "2026-11-23",
+      "last_seen": "2026-11-23",
+      "days_seen": 1,
+      "sources_seen": [
+        "google-trends"
+      ],
+      "signal": 0.16,
+      "url": "https://hothardware.com/news/can-my-pc-run-gta-6-min-rec-specs",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "miley-cyrus",
+      "name": "Miley Cyrus",
+      "aliases": [
+        "Miley Cyrus"
+      ],
+      "phase": "new",
+      "first_seen": "2026-11-23",
+      "last_seen": "2026-11-23",
+      "days_seen": 1,
+      "sources_seen": [
+        "wikipedia"
+      ],
+      "signal": 0.133,
+      "url": "https://en.wikipedia.org/wiki/Miley_Cyrus",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "xxx",
+      "name": ".xxx",
+      "aliases": [
+        ".xxx"
+      ],
+      "phase": "holding",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-23",
+      "days_seen": 13,
+      "sources_seen": [
+        "wikipedia"
+      ],
+      "signal": 0.089,
+      "url": "https://en.wikipedia.org/wiki/.xxx",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "the-body-tv-series",
+      "name": "The Body (TV series)",
+      "aliases": [
+        "The Body (TV series)"
+      ],
+      "phase": "climbing",
+      "first_seen": "2026-11-17",
+      "last_seen": "2026-11-23",
+      "days_seen": 4,
+      "sources_seen": [
+        "wikipedia"
+      ],
+      "signal": 0.08,
+      "url": "https://en.wikipedia.org/wiki/The_Body_(TV_series)",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
     {
       "id": "thinkingmachines-inkling-2-mini",
       "name": "thinkingmachines/Inkling-2-Mini",
@@ -9,7 +385,7 @@
         "thinkingmachines/Inkling-2-Mini",
         "Inkling 2 Mini"
       ],
-      "phase": "holding",
+      "phase": "fading",
       "first_seen": "2026-11-21",
       "last_seen": "2026-11-22",
       "days_seen": 2,
@@ -25,58 +401,12 @@
       "needs_research": false
     },
     {
-      "id": "riemann-hypothesis",
-      "name": "Riemann hypothesis",
-      "aliases": [
-        "Riemann hypothesis",
-        "Lean verification of the Riemann Hypothesis"
-      ],
-      "phase": "climbing",
-      "first_seen": "2026-11-21",
-      "last_seen": "2026-11-22",
-      "days_seen": 2,
-      "sources_seen": [
-        "hackernews",
-        "wikipedia"
-      ],
-      "signal": 1.5,
-      "url": "https://news.ycombinator.com/item?id=50589618",
-      "summary": "On November 20, Levent Alpöge released a proof of the Riemann hypothesis as a 17-million-line Lean library, made working with Claude, and the Lean and Mathlib communities certified it as correct the next day.",
-      "why_now": "Two attempts landed the same day: Alpöge's machine-checked proof, and a 940-page human-written manuscript by Alessandro Masullo aimed at the generalized hypothesis, which readers have since found gaps in. The Hacker News thread on Masullo's announcement drew 2,447 points.",
-      "researched_at": "2026-11-23T01:46:58.175Z",
-      "needs_research": false
-    },
-    {
-      "id": "grand-theft-auto-vi",
-      "name": "Grand Theft Auto VI",
-      "aliases": [
-        "Grand Theft Auto VI",
-        "Grand Theft Auto"
-      ],
-      "phase": "holding",
-      "first_seen": "2026-11-18",
-      "last_seen": "2026-11-22",
-      "days_seen": 5,
-      "sources_seen": [
-        "lemmy",
-        "steam",
-        "wikipedia",
-        "youtube"
-      ],
-      "signal": 0.8,
-      "url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI",
-      "summary": "Rockstar's Grand Theft Auto VI launched on November 19, 2026, on PlayStation 5 and Xbox Series X/S, and this weekend is its first on sale.",
-      "why_now": "This is launch week. Sony said on November 10 it had become the most pre-ordered game in PlayStation Store history, and digital pre-loads of up to 212 GB opened nine days before release.",
-      "researched_at": "2026-11-23T02:22:57.990Z",
-      "needs_research": false
-    },
-    {
       "id": "keanu-reeves",
       "name": "keanu reeves",
       "aliases": [
         "keanu reeves"
       ],
-      "phase": "new",
+      "phase": "fading",
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-22",
       "days_seen": 1,
@@ -96,7 +426,7 @@
       "aliases": [
         "Toyota, Nissan, and Honda to standardize parts to lower costs"
       ],
-      "phase": "new",
+      "phase": "fading",
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-22",
       "days_seen": 1,
@@ -111,33 +441,12 @@
       "needs_research": false
     },
     {
-      "id": "ramayana-part-1",
-      "name": "Ramayana: Part 1",
-      "aliases": [
-        "Ramayana: Part 1"
-      ],
-      "phase": "holding",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-22",
-      "days_seen": 14,
-      "sources_seen": [
-        "wikipedia",
-        "youtube"
-      ],
-      "signal": 0.691,
-      "url": "https://en.wikipedia.org/wiki/Ramayana%3A_Part_1",
-      "summary": null,
-      "why_now": null,
-      "researched_at": null,
-      "needs_research": false
-    },
-    {
       "id": "chris-pratt",
       "name": "chris pratt",
       "aliases": [
         "chris pratt"
       ],
-      "phase": "new",
+      "phase": "fading",
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-22",
       "days_seen": 1,
@@ -157,7 +466,7 @@
       "aliases": [
         "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'"
       ],
-      "phase": "new",
+      "phase": "fading",
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-22",
       "days_seen": 1,
@@ -172,33 +481,12 @@
       "needs_research": false
     },
     {
-      "id": "grand-theft-auto-v-enhanced",
-      "name": "Grand Theft Auto V Enhanced",
-      "aliases": [
-        "Grand Theft Auto V Enhanced"
-      ],
-      "phase": "new",
-      "first_seen": "2026-11-22",
-      "last_seen": "2026-11-22",
-      "days_seen": 1,
-      "sources_seen": [
-        "steam",
-        "wikipedia"
-      ],
-      "signal": 0.25,
-      "url": "https://store.steampowered.com/app/3240220",
-      "summary": null,
-      "why_now": null,
-      "researched_at": null,
-      "needs_research": false
-    },
-    {
       "id": "lewis-hamilton",
       "name": "lewis hamilton",
       "aliases": [
         "lewis hamilton"
       ],
-      "phase": "new",
+      "phase": "fading",
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-22",
       "days_seen": 1,
@@ -213,32 +501,12 @@
       "needs_research": false
     },
     {
-      "id": "the-hunger-games-sunrise-on-the-reaping",
-      "name": "The Hunger Games: Sunrise on the Reaping",
-      "aliases": [
-        "The Hunger Games: Sunrise on the Reaping"
-      ],
-      "phase": "holding",
-      "first_seen": "2026-11-21",
-      "last_seen": "2026-11-22",
-      "days_seen": 2,
-      "sources_seen": [
-        "wikipedia"
-      ],
-      "signal": 0.2,
-      "url": "https://en.wikipedia.org/wiki/The_Hunger_Games%3A_Sunrise_on_the_Reaping",
-      "summary": null,
-      "why_now": null,
-      "researched_at": null,
-      "needs_research": false
-    },
-    {
       "id": "heisman-race",
       "name": "heisman race",
       "aliases": [
         "heisman race"
       ],
-      "phase": "new",
+      "phase": "fading",
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-22",
       "days_seen": 1,
@@ -253,32 +521,12 @@
       "needs_research": false
     },
     {
-      "id": "xxx",
-      "name": ".xxx",
-      "aliases": [
-        ".xxx"
-      ],
-      "phase": "climbing",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-22",
-      "days_seen": 12,
-      "sources_seen": [
-        "wikipedia"
-      ],
-      "signal": 0.16,
-      "url": "https://en.wikipedia.org/wiki/.xxx",
-      "summary": null,
-      "why_now": null,
-      "researched_at": null,
-      "needs_research": false
-    },
-    {
       "id": "o-m-operation-mole",
       "name": "O.M: Operation Mole",
       "aliases": [
         "O.M: Operation Mole"
       ],
-      "phase": "new",
+      "phase": "fading",
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-22",
       "days_seen": 1,
@@ -298,7 +546,7 @@
       "aliases": [
         "Ansel Adams"
       ],
-      "phase": "climbing",
+      "phase": "fading",
       "first_seen": "2026-11-15",
       "last_seen": "2026-11-22",
       "days_seen": 2,
@@ -319,7 +567,7 @@
         "Robert Pattinson",
         "Robert Pattinson filmography"
       ],
-      "phase": "holding",
+      "phase": "fading",
       "first_seen": "2026-11-17",
       "last_seen": "2026-11-22",
       "days_seen": 6,
@@ -598,30 +846,6 @@
       "needs_research": false
     },
     {
-      "id": "gta-6",
-      "name": "gta 6",
-      "aliases": [
-        "gta 6",
-        "PLAYING GTA 6 FOR THE FIRST TIME (PART 1)",
-        "PLAYING GTA 6 FOR THE FIRST TIME (PART 3)"
-      ],
-      "phase": "fading",
-      "first_seen": "2026-11-18",
-      "last_seen": "2026-11-20",
-      "days_seen": 3,
-      "sources_seen": [
-        "google-trends",
-        "polymarket",
-        "youtube"
-      ],
-      "signal": 0.369,
-      "url": "https://www.yahoo.com/entertainment/movies/articles/gta-6-mandy-actor-officially-233345828.html",
-      "summary": null,
-      "why_now": null,
-      "researched_at": null,
-      "needs_research": false
-    },
-    {
       "id": "lainey-wilson-just-a-woman-live-from-the-60th-annual-cma-awa",
       "name": "Lainey Wilson - Just A Woman (Live from \"The 60th Annual CMA Awards\")",
       "aliases": [
@@ -768,7 +992,7 @@
       "aliases": [
         "Gemini 4 Neon"
       ],
-      "phase": "fading",
+      "phase": "closed",
       "first_seen": "2026-11-19",
       "last_seen": "2026-11-19",
       "days_seen": 1,
@@ -788,7 +1012,7 @@
       "aliases": [
         "keyonte george"
       ],
-      "phase": "fading",
+      "phase": "closed",
       "first_seen": "2026-11-19",
       "last_seen": "2026-11-19",
       "days_seen": 1,
@@ -808,7 +1032,7 @@
       "aliases": [
         "lakers vs jazz"
       ],
-      "phase": "fading",
+      "phase": "closed",
       "first_seen": "2026-11-19",
       "last_seen": "2026-11-19",
       "days_seen": 1,
@@ -828,7 +1052,7 @@
       "aliases": [
         "Unauthenticated remote code execution in Nginx"
       ],
-      "phase": "fading",
+      "phase": "closed",
       "first_seen": "2026-11-19",
       "last_seen": "2026-11-19",
       "days_seen": 1,
@@ -848,7 +1072,7 @@
       "aliases": [
         "lakers standings"
       ],
-      "phase": "fading",
+      "phase": "closed",
       "first_seen": "2026-11-19",
       "last_seen": "2026-11-19",
       "days_seen": 1,
@@ -868,7 +1092,7 @@
       "aliases": [
         "Multiple vulnerabilities in Regexp and String case conversion"
       ],
-      "phase": "fading",
+      "phase": "closed",
       "first_seen": "2026-11-19",
       "last_seen": "2026-11-19",
       "days_seen": 1,
@@ -888,7 +1112,7 @@
       "aliases": [
         "Dancing with the Stars (American TV series) season 35"
       ],
-      "phase": "fading",
+      "phase": "closed",
       "first_seen": "2026-11-19",
       "last_seen": "2026-11-19",
       "days_seen": 1,
@@ -908,7 +1132,7 @@
       "aliases": [
         "x y ungelöst"
       ],
-      "phase": "fading",
+      "phase": "closed",
       "first_seen": "2026-11-19",
       "last_seen": "2026-11-19",
       "days_seen": 1,
@@ -929,7 +1153,7 @@
         "Jensen Huang",
         "Jensen Huang resigns"
       ],
-      "phase": "fading",
+      "phase": "closed",
       "first_seen": "2026-11-10",
       "last_seen": "2026-11-19",
       "days_seen": 10,
@@ -953,7 +1177,7 @@
       "aliases": [
         "flash flood warning"
       ],
-      "phase": "fading",
+      "phase": "closed",
       "first_seen": "2026-11-19",
       "last_seen": "2026-11-19",
       "days_seen": 1,
@@ -973,7 +1197,7 @@
       "aliases": [
         "Suki Waterhouse"
       ],
-      "phase": "fading",
+      "phase": "closed",
       "first_seen": "2026-11-17",
       "last_seen": "2026-11-19",
       "days_seen": 3,
@@ -993,7 +1217,7 @@
       "aliases": [
         "Mary Peltola"
       ],
-      "phase": "fading",
+      "phase": "closed",
       "first_seen": "2026-11-19",
       "last_seen": "2026-11-19",
       "days_seen": 1,
@@ -1002,26 +1226,6 @@
       ],
       "signal": 0.114,
       "url": "https://en.wikipedia.org/wiki/Mary_Peltola",
-      "summary": null,
-      "why_now": null,
-      "researched_at": null,
-      "needs_research": false
-    },
-    {
-      "id": "the-body-tv-series",
-      "name": "The Body (TV series)",
-      "aliases": [
-        "The Body (TV series)"
-      ],
-      "phase": "fading",
-      "first_seen": "2026-11-17",
-      "last_seen": "2026-11-19",
-      "days_seen": 3,
-      "sources_seen": [
-        "wikipedia"
-      ],
-      "signal": 0.08,
-      "url": "https://en.wikipedia.org/wiki/The_Body_(TV_series)",
       "summary": null,
       "why_now": null,
       "researched_at": null,
@@ -2422,248 +2626,12 @@
       "why_now": null,
       "researched_at": null,
       "needs_research": false
-    },
-    {
-      "id": "93-of-paint-splatters-are-valid-perl-programs-2019",
-      "name": "93% of paint splatters are valid Perl programs (2019)",
-      "aliases": [
-        "93% of paint splatters are valid Perl programs (2019)"
-      ],
-      "phase": "closed",
-      "first_seen": "2026-11-12",
-      "last_seen": "2026-11-12",
-      "days_seen": 1,
-      "sources_seen": [
-        "hackernews"
-      ],
-      "signal": 0.8,
-      "url": "https://news.ycombinator.com/item?id=50459745",
-      "summary": null,
-      "why_now": null,
-      "researched_at": null,
-      "needs_research": false
-    },
-    {
-      "id": "stacy-keach",
-      "name": "Stacy Keach",
-      "aliases": [
-        "Stacy Keach"
-      ],
-      "phase": "closed",
-      "first_seen": "2026-11-12",
-      "last_seen": "2026-11-12",
-      "days_seen": 1,
-      "sources_seen": [
-        "wikipedia"
-      ],
-      "signal": 0.4,
-      "url": "https://en.wikipedia.org/wiki/Stacy_Keach",
-      "summary": null,
-      "why_now": null,
-      "researched_at": null,
-      "needs_research": false
-    },
-    {
-      "id": "stephen-curry",
-      "name": "stephen curry",
-      "aliases": [
-        "stephen curry"
-      ],
-      "phase": "closed",
-      "first_seen": "2026-11-12",
-      "last_seen": "2026-11-12",
-      "days_seen": 1,
-      "sources_seen": [
-        "google-trends"
-      ],
-      "signal": 0.4,
-      "url": "https://www.espn.com/watch/player/_/id/50458333",
-      "summary": null,
-      "why_now": null,
-      "researched_at": null,
-      "needs_research": false
-    },
-    {
-      "id": "tim-peters-has-died",
-      "name": "Tim Peters has died",
-      "aliases": [
-        "Tim Peters has died"
-      ],
-      "phase": "closed",
-      "first_seen": "2026-11-12",
-      "last_seen": "2026-11-12",
-      "days_seen": 1,
-      "sources_seen": [
-        "hackernews"
-      ],
-      "signal": 0.4,
-      "url": "https://news.ycombinator.com/item?id=50450488",
-      "summary": null,
-      "why_now": null,
-      "researched_at": null,
-      "needs_research": false
-    },
-    {
-      "id": "aws-emulator",
-      "name": "AWS emulator",
-      "aliases": [
-        "AWS emulator"
-      ],
-      "phase": "closed",
-      "first_seen": "2026-11-12",
-      "last_seen": "2026-11-12",
-      "days_seen": 1,
-      "sources_seen": [
-        "hackernews"
-      ],
-      "signal": 0.267,
-      "url": "https://news.ycombinator.com/item?id=50456631",
-      "summary": null,
-      "why_now": null,
-      "researched_at": null,
-      "needs_research": false
-    },
-    {
-      "id": "golden-joystick-awards-nominees",
-      "name": "golden joystick awards nominees",
-      "aliases": [
-        "golden joystick awards nominees"
-      ],
-      "phase": "closed",
-      "first_seen": "2026-11-12",
-      "last_seen": "2026-11-12",
-      "days_seen": 1,
-      "sources_seen": [
-        "google-trends"
-      ],
-      "signal": 0.267,
-      "url": "https://www.polygon.com/golden-joystick-awards-2026-all-winners-game-of-the-year/",
-      "summary": null,
-      "why_now": null,
-      "researched_at": null,
-      "needs_research": false
-    },
-    {
-      "id": "david-walliams",
-      "name": "David Walliams",
-      "aliases": [
-        "David Walliams"
-      ],
-      "phase": "closed",
-      "first_seen": "2026-11-11",
-      "last_seen": "2026-11-12",
-      "days_seen": 2,
-      "sources_seen": [
-        "wikipedia"
-      ],
-      "signal": 0.2,
-      "url": "https://en.wikipedia.org/wiki/David_Walliams",
-      "summary": null,
-      "why_now": null,
-      "researched_at": null,
-      "needs_research": false
-    },
-    {
-      "id": "razaullah",
-      "name": "razaullah",
-      "aliases": [
-        "razaullah"
-      ],
-      "phase": "closed",
-      "first_seen": "2026-11-12",
-      "last_seen": "2026-11-12",
-      "days_seen": 1,
-      "sources_seen": [
-        "google-trends"
-      ],
-      "signal": 0.2,
-      "url": null,
-      "summary": null,
-      "why_now": null,
-      "researched_at": null,
-      "needs_research": false
-    },
-    {
-      "id": "visionquest",
-      "name": "VisionQuest",
-      "aliases": [
-        "VisionQuest"
-      ],
-      "phase": "closed",
-      "first_seen": "2026-11-12",
-      "last_seen": "2026-11-12",
-      "days_seen": 1,
-      "sources_seen": [
-        "wikipedia"
-      ],
-      "signal": 0.16,
-      "url": "https://en.wikipedia.org/wiki/VisionQuest",
-      "summary": null,
-      "why_now": null,
-      "researched_at": null,
-      "needs_research": false
-    },
-    {
-      "id": "russell-brand",
-      "name": "Russell Brand",
-      "aliases": [
-        "Russell Brand"
-      ],
-      "phase": "closed",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-12",
-      "days_seen": 4,
-      "sources_seen": [
-        "wikipedia"
-      ],
-      "signal": 0.114,
-      "url": "https://en.wikipedia.org/wiki/Russell_Brand",
-      "summary": null,
-      "why_now": null,
-      "researched_at": null,
-      "needs_research": false
-    },
-    {
-      "id": "mississippi-elects-democrat-scott-colom-as-state-s-first-bla",
-      "name": "Mississippi elects Democrat Scott Colom as state's first Black US senator since Reconstruction",
-      "aliases": [
-        "Mississippi elects Democrat Scott Colom as state's first Black US senator since Reconstruction"
-      ],
-      "phase": "closed",
-      "first_seen": "2026-11-12",
-      "last_seen": "2026-11-12",
-      "days_seen": 1,
-      "sources_seen": [
-        "lemmy",
-        "mastodon-trending"
-      ],
-      "signal": 0.107,
-      "url": "https://lemmy.world/post/54297149",
-      "summary": null,
-      "why_now": null,
-      "researched_at": null,
-      "needs_research": false
-    },
-    {
-      "id": "ss-edmund-fitzgerald",
-      "name": "SS Edmund Fitzgerald",
-      "aliases": [
-        "SS Edmund Fitzgerald"
-      ],
-      "phase": "closed",
-      "first_seen": "2026-11-11",
-      "last_seen": "2026-11-12",
-      "days_seen": 2,
-      "sources_seen": [
-        "wikipedia"
-      ],
-      "signal": 0.089,
-      "url": "https://en.wikipedia.org/wiki/SS_Edmund_Fitzgerald",
-      "summary": null,
-      "why_now": null,
-      "researched_at": null,
-      "needs_research": false
     }
   ],
-  "research_queue": []
+  "research_queue": [
+    "ramayana-part-1",
+    "free-alternative-tv-network-built-from-the-internet-archive",
+    "king-tides-flooding",
+    "xnu-linux-full-os-x-gui-userspace-on-linux"
+  ]
 }

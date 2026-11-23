@@ -3,14 +3,16 @@
   "name": "Riemann hypothesis",
   "aliases": [
     "Riemann hypothesis",
-    "Lean verification of the Riemann Hypothesis"
+    "Lean verification of the Riemann Hypothesis",
+    "Masullo on the Riemann Hypothesis"
   ],
   "first_seen": "2026-11-21",
-  "last_seen": "2026-11-22",
-  "days_seen": 2,
-  "phase": "climbing",
+  "last_seen": "2026-11-23",
+  "days_seen": 3,
+  "phase": "holding",
   "sources_seen": [
     "hackernews",
+    "polymarket",
     "wikipedia"
   ],
   "timeline": [
@@ -59,6 +61,45 @@
           "url": "https://en.wikipedia.org/wiki/Riemann_hypothesis",
           "rank": 2,
           "movement": "holding"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-23",
+      "sources": [
+        "hackernews",
+        "polymarket",
+        "wikipedia"
+      ],
+      "signal": 1.0564285714285715,
+      "items": [
+        {
+          "source": "wikipedia",
+          "title": "Riemann hypothesis",
+          "url": "https://en.wikipedia.org/wiki/Riemann_hypothesis",
+          "rank": 5,
+          "movement": "falling"
+        },
+        {
+          "source": "hackernews",
+          "title": "Masullo on the Riemann Hypothesis",
+          "url": "https://news.ycombinator.com/item?id=50598441",
+          "rank": 3,
+          "movement": "new"
+        },
+        {
+          "source": "hackernews",
+          "title": "Treemap of the Riemann Hypothesis Lean Proof",
+          "url": "https://news.ycombinator.com/item?id=50606499",
+          "rank": 14,
+          "movement": "new"
+        },
+        {
+          "source": "polymarket",
+          "title": "Will AI solve the Riemann Hypothesis in 2026?",
+          "url": "https://polymarket.com/event/which-math-problems-will-ai-solve-in-2026",
+          "rank": 16,
+          "movement": "new"
         }
       ]
     }

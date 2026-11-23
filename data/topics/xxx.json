@@ -5,9 +5,9 @@
     ".xxx"
   ],
   "first_seen": "2026-11-09",
-  "last_seen": "2026-11-22",
-  "days_seen": 12,
-  "phase": "climbing",
+  "last_seen": "2026-11-23",
+  "days_seen": 13,
+  "phase": "holding",
   "sources_seen": [
     "wikipedia"
   ],
@@ -201,6 +201,22 @@
           "url": "https://en.wikipedia.org/wiki/.xxx",
           "rank": 5,
           "movement": "climbing"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-23",
+      "sources": [
+        "wikipedia"
+      ],
+      "signal": 0.08888888888888889,
+      "items": [
+        {
+          "source": "wikipedia",
+          "title": ".xxx",
+          "url": "https://en.wikipedia.org/wiki/.xxx",
+          "rank": 9,
+          "movement": "falling"
         }
       ]
     }

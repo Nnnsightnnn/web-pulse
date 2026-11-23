@@ -1,0 +1,35 @@
+{
+  "id": "xnu-linux-full-os-x-gui-userspace-on-linux",
+  "name": "XNU Linux: Full OS X GUI Userspace on Linux",
+  "aliases": [
+    "XNU Linux: Full OS X GUI Userspace on Linux"
+  ],
+  "first_seen": "2026-11-23",
+  "last_seen": "2026-11-23",
+  "days_seen": 1,
+  "phase": "new",
+  "sources_seen": [
+    "hackernews"
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-23",
+      "sources": [
+        "hackernews"
+      ],
+      "signal": 0.4,
+      "items": [
+        {
+          "source": "hackernews",
+          "title": "XNU Linux: Full OS X GUI Userspace on Linux",
+          "url": "https://news.ycombinator.com/item?id=50607261",
+          "rank": 2,
+          "movement": "new"
+        }
+      ]
+    }
+  ],
+  "explainer": null,
+  "explainer_history": [],
+  "needs_research": true
+}

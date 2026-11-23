@@ -5,9 +5,9 @@
     "Grand Theft Auto V Enhanced"
   ],
   "first_seen": "2026-11-22",
-  "last_seen": "2026-11-22",
-  "days_seen": 1,
-  "phase": "new",
+  "last_seen": "2026-11-23",
+  "days_seen": 2,
+  "phase": "holding",
   "sources_seen": [
     "steam",
     "wikipedia"
@@ -41,6 +41,37 @@
           "url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto",
           "rank": 12,
           "movement": "falling"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-23",
+      "sources": [
+        "steam",
+        "wikipedia"
+      ],
+      "signal": 0.22698412698412698,
+      "items": [
+        {
+          "source": "wikipedia",
+          "title": "Grand Theft Auto",
+          "url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto",
+          "rank": 18,
+          "movement": "falling"
+        },
+        {
+          "source": "steam",
+          "title": "Grand Theft Auto V Enhanced",
+          "url": "https://store.steampowered.com/app/3240220",
+          "rank": 10,
+          "movement": "holding"
+        },
+        {
+          "source": "steam",
+          "title": "Grand Theft Auto V Legacy",
+          "url": "https://store.steampowered.com/app/271590",
+          "rank": 14,
+          "movement": "holding"
         }
       ]
     }

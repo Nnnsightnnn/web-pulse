@@ -1,0 +1,35 @@
+{
+  "id": "king-tides-flooding",
+  "name": "king tides flooding",
+  "aliases": [
+    "king tides flooding"
+  ],
+  "first_seen": "2026-11-23",
+  "last_seen": "2026-11-23",
+  "days_seen": 1,
+  "phase": "new",
+  "sources_seen": [
+    "google-trends"
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-23",
+      "sources": [
+        "google-trends"
+      ],
+      "signal": 0.4,
+      "items": [
+        {
+          "source": "google-trends",
+          "title": "king tides flooding",
+          "url": "https://www.yahoo.com/news/weather-news/articles/bay-area-airports-coast-under-171057449.html",
+          "rank": 2,
+          "movement": "new"
+        }
+      ]
+    }
+  ],
+  "explainer": null,
+  "explainer_history": [],
+  "needs_research": true
+}

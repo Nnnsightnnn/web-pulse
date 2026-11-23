@@ -1,0 +1,105 @@
+{
+  "source": "gdelt-ai",
+  "label": "GDELT — AI & tech news",
+  "fetched_at": "2026-11-23T06:16:28.375Z",
+  "data_date": "2026-11-23",
+  "query": "(\"artificial intelligence\" OR \"machine learning\" OR \"generative AI\" OR OpenAI OR Anthropic OR \"large language model\" OR \"neural network\" OR semiconductor) sourcelang:english",
+  "items": [
+    {
+      "rank": 1,
+      "title": "The Hindu Data team analyses the Anthropic IPO",
+      "url": "https://www.thehindu.com/data/data-viewpoint-on-anthropic-ipo/article71733208.ece",
+      "domain": "thehindu.com",
+      "source_country": "India",
+      "seen_at": "2026-11-23T03:30:00Z",
+      "image": "https://th-i.thgim.com/public/incoming/bse30m/article71733223.ece/alternates/LANDSCAPE_1200/2026-11-20T163306Z_460204442_RC22ROAU8AOI_RTRMADP_3_USA-IPO-ANTHROPIC.JPG",
+      "days_on": 1,
+      "prior_rank": null,
+      "movement": "new"
+    },
+    {
+      "rank": 2,
+      "title": "Is the AI Stock Market Boom Coming to an End ?",
+      "url": "https://newsonjapan.com/article/151486.php",
+      "domain": "newsonjapan.com",
+      "source_country": "Japan",
+      "seen_at": "2026-11-23T03:30:00Z",
+      "image": "",
+      "days_on": 1,
+      "prior_rank": null,
+      "movement": "new"
+    },
+    {
+      "rank": 3,
+      "title": "OpenAI : OpenAI scientist proposes industry AI limits tied to model intelligence metric",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-scientist-proposes-industry-ai-limits-tied-to-model-intelligence-metric/articleshow/136087667.cms",
+      "domain": "economictimes.indiatimes.com",
+      "source_country": "India",
+      "seen_at": "2026-11-23T03:30:00Z",
+      "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-1882562,resizemode-75,msid-136087667/tech/artificial-intelligence/openai-scientist-proposes-industry-ai-limits-tied-to-model-intelligence-metric.jpg",
+      "days_on": 1,
+      "prior_rank": null,
+      "movement": "new"
+    },
+    {
+      "rank": 4,
+      "title": "AI adoption rises in Vietnam , but integration remains limited",
+      "url": "https://asianews.network/ai-adoption-rises-in-vietnam-but-integration-remains-limited/",
+      "domain": "asianews.network",
+      "source_country": "China",
+      "seen_at": "2026-11-23T03:30:00Z",
+      "image": "https://asianews.network/wp-content/uploads/2026/11/546266_5642580989080818_misa-5575.jpg",
+      "days_on": 1,
+      "prior_rank": null,
+      "movement": "new"
+    },
+    {
+      "rank": 5,
+      "title": "As Chinese universities use AI detectors to screen theses , questions arise over accuracy",
+      "url": "https://en.people.cn/n3/2026/1123/c90000-20521979.html",
+      "domain": "en.people.cn",
+      "source_country": "China",
+      "seen_at": "2026-11-23T03:30:00Z",
+      "image": "",
+      "days_on": 1,
+      "prior_rank": null,
+      "movement": "new"
+    },
+    {
+      "rank": 6,
+      "title": "Has the AI bubble already burst ?",
+      "url": "https://www.livemint.com/global/has-the-ai-bubble-already-burst-11795394872180.html",
+      "domain": "livemint.com",
+      "source_country": "India",
+      "seen_at": "2026-11-23T03:30:00Z",
+      "image": "",
+      "days_on": 1,
+      "prior_rank": null,
+      "movement": "new"
+    },
+    {
+      "rank": 7,
+      "title": "Superintelligence is ...: Meta AI chief says atomic bomb discovery is  homework problem  vs Riemann proof",
+      "url": "https://www.businesstoday.in/technology/story/superintelligence-is-meta-ai-chief-says-atomic-bomb-discovery-is-homework-problem-vs-riemann-proof-568963-2026-11-23",
+      "domain": "businesstoday.in",
+      "source_country": "India",
+      "seen_at": "2026-11-23T03:30:00Z",
+      "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202611/6b0394858e816-criticising-what-he-called-lazy-thinking--the-assumption-that-artificial-superintelligence-is-ine-231900579-16x9.jpg",
+      "days_on": 1,
+      "prior_rank": null,
+      "movement": "new"
+    },
+    {
+      "rank": 8,
+      "title": "European human rights court bans Romanian lawyer over AI use",
+      "url": "https://www.canadianlawyermag.com/news/international/european-human-rights-court-bans-romanian-lawyer-over-ai-use/394952",
+      "domain": "canadianlawyermag.com",
+      "source_country": "Canada",
+      "seen_at": "2026-11-23T03:30:00Z",
+      "image": "https://cdn-res.keymedia.com/cms/images/cl/jacq_639309967285503563.png",
+      "days_on": 1,
+      "prior_rank": null,
+      "movement": "new"
+    }
+  ]
+}

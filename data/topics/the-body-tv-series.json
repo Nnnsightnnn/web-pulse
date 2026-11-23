@@ -5,9 +5,9 @@
     "The Body (TV series)"
   ],
   "first_seen": "2026-11-17",
-  "last_seen": "2026-11-19",
-  "days_seen": 3,
-  "phase": "fading",
+  "last_seen": "2026-11-23",
+  "days_seen": 4,
+  "phase": "climbing",
   "sources_seen": [
     "wikipedia"
   ],
@@ -46,6 +46,22 @@
     },
     {
       "date": "2026-11-19",
+      "sources": [
+        "wikipedia"
+      ],
+      "signal": 0.08,
+      "items": [
+        {
+          "source": "wikipedia",
+          "title": "The Body (TV series)",
+          "url": "https://en.wikipedia.org/wiki/The_Body_(TV_series)",
+          "rank": 10,
+          "movement": "holding"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-23",
       "sources": [
         "wikipedia"
       ],

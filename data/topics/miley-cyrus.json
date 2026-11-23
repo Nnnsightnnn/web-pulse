@@ -1,0 +1,35 @@
+{
+  "id": "miley-cyrus",
+  "name": "Miley Cyrus",
+  "aliases": [
+    "Miley Cyrus"
+  ],
+  "first_seen": "2026-11-23",
+  "last_seen": "2026-11-23",
+  "days_seen": 1,
+  "phase": "new",
+  "sources_seen": [
+    "wikipedia"
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-23",
+      "sources": [
+        "wikipedia"
+      ],
+      "signal": 0.13333333333333333,
+      "items": [
+        {
+          "source": "wikipedia",
+          "title": "Miley Cyrus",
+          "url": "https://en.wikipedia.org/wiki/Miley_Cyrus",
+          "rank": 6,
+          "movement": "new"
+        }
+      ]
+    }
+  ],
+  "explainer": null,
+  "explainer_history": [],
+  "needs_research": false
+}

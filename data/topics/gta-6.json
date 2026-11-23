@@ -4,12 +4,13 @@
   "aliases": [
     "gta 6",
     "PLAYING GTA 6 FOR THE FIRST TIME (PART 1)",
-    "PLAYING GTA 6 FOR THE FIRST TIME (PART 3)"
+    "PLAYING GTA 6 FOR THE FIRST TIME (PART 3)",
+    "gta 6 chapter 2 mission list"
   ],
   "first_seen": "2026-11-18",
-  "last_seen": "2026-11-20",
-  "days_seen": 3,
-  "phase": "fading",
+  "last_seen": "2026-11-23",
+  "days_seen": 4,
+  "phase": "climbing",
   "sources_seen": [
     "google-trends",
     "polymarket",
@@ -121,6 +122,44 @@
           "url": "https://www.youtube.com/watch?v=eJKZKf0gL-s",
           "rank": 23,
           "movement": "new"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-23",
+      "sources": [
+        "google-trends",
+        "youtube"
+      ],
+      "signal": 0.3527705627705628,
+      "items": [
+        {
+          "source": "google-trends",
+          "title": "gta 6 chapter 2 mission list",
+          "url": "https://www.vice.com/en/article/gta-6-chapter-2-length-missions-missables/",
+          "rank": 11,
+          "movement": "new"
+        },
+        {
+          "source": "google-trends",
+          "title": "criminal profile gta 6",
+          "url": "https://www.clarin.com/us-news/how-the-criminal-profile-works-in-gta-6-karma-and-honor-system-explained_0_LQkpy3b2Nm.html",
+          "rank": 12,
+          "movement": "new"
+        },
+        {
+          "source": "google-trends",
+          "title": "mattia gta 6",
+          "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-mattia/",
+          "rank": 25,
+          "movement": "new"
+        },
+        {
+          "source": "youtube",
+          "title": "If You Steal a Car in GTA 6, I’ll Pay For It!",
+          "url": "https://www.youtube.com/watch?v=Ra6sNe8s2Hc",
+          "rank": 11,
+          "movement": "falling"
         }
       ]
     }
