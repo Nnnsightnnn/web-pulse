@@ -99,6 +99,9 @@ function tokensOf(names) {
 // carried. Two shared words and 40% overlap is the cluster rule, loosened
 // slightly because topic aliases accumulate words over days.
 export function sameStory(candTokens, topic) {
+  // Check the topic's own name first: a bare alias like "Grand Theft Auto"
+  // must not let "Grand Theft Auto V Enhanced" into the GTA VI story.
+  if (topic.name && numeralsConflict(candTokens, tokenize(topic.name))) return false;
   for (const alias of topic.aliases || [topic.name]) {
     const t = tokenize(alias);
     if (numeralsConflict(candTokens, t)) continue;

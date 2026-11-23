@@ -1,0 +1,51 @@
+{
+  "id": "grand-theft-auto-v-enhanced",
+  "name": "Grand Theft Auto V Enhanced",
+  "aliases": [
+    "Grand Theft Auto V Enhanced"
+  ],
+  "first_seen": "2026-11-22",
+  "last_seen": "2026-11-22",
+  "days_seen": 1,
+  "phase": "new",
+  "sources_seen": [
+    "steam",
+    "wikipedia"
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-22",
+      "sources": [
+        "steam",
+        "wikipedia"
+      ],
+      "signal": 0.25,
+      "items": [
+        {
+          "source": "steam",
+          "title": "Grand Theft Auto V Enhanced",
+          "url": "https://store.steampowered.com/app/3240220",
+          "rank": 10,
+          "movement": "holding"
+        },
+        {
+          "source": "steam",
+          "title": "Grand Theft Auto V Legacy",
+          "url": "https://store.steampowered.com/app/271590",
+          "rank": 15,
+          "movement": "climbing"
+        },
+        {
+          "source": "wikipedia",
+          "title": "Grand Theft Auto",
+          "url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto",
+          "rank": 12,
+          "movement": "falling"
+        }
+      ]
+    }
+  ],
+  "explainer": null,
+  "explainer_history": [],
+  "needs_research": false
+}

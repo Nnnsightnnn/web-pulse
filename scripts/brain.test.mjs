@@ -109,6 +109,8 @@ test("topics: search-only game matchups are remembered but never queued", () => 
 test("sameStory and slugify", () => {
   assert.ok(sameStory(tokenize("Riemann hypothesis"), { name: "Riemann hypothesis", aliases: ["Riemann hypothesis"] }));
   assert.ok(!sameStory(tokenize("Grand Theft Auto V"), { aliases: ["Grand Theft Auto VI"] }));
+  // A bare alias with no numeral must not let a different sequel in.
+  assert.ok(!sameStory(tokenize("Grand Theft Auto V Enhanced"), { name: "Grand Theft Auto VI", aliases: ["Grand Theft Auto VI", "Grand Theft Auto"] }));
   assert.equal(slugify("The Hunger Games: Sunrise on the Reaping"), "the-hunger-games-sunrise-on-the-reaping");
 });
 

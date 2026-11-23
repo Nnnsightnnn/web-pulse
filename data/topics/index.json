@@ -19,10 +19,10 @@
       ],
       "signal": 1.783,
       "url": "https://news.ycombinator.com/item?id=50591853",
-      "summary": null,
-      "why_now": null,
-      "researched_at": null,
-      "needs_research": true
+      "summary": "Inkling 2 Mini is an open-weights model Thinking Machines Lab released on November 20 under the Apache 2.0 license: a 26.4B-parameter mixture-of-experts model with 3.4B active, built to run on local hardware such as Macs with 32 GB or more.",
+      "why_now": "A Hacker News post titled \"Inkling-2-Mini in 5.4 GB Memory\" drew 582 points. That 5.4 GB figure belongs to an independent compressed build, not the official release, whose checkpoint is about 20 GB.",
+      "researched_at": "2026-11-23T02:22:47.244Z",
+      "needs_research": false
     },
     {
       "id": "riemann-hypothesis",
@@ -51,8 +51,7 @@
       "name": "Grand Theft Auto VI",
       "aliases": [
         "Grand Theft Auto VI",
-        "Grand Theft Auto",
-        "Grand Theft Auto V Enhanced"
+        "Grand Theft Auto"
       ],
       "phase": "holding",
       "first_seen": "2026-11-18",
@@ -64,12 +63,12 @@
         "wikipedia",
         "youtube"
       ],
-      "signal": 1.05,
-      "url": "https://store.steampowered.com/app/3240220",
-      "summary": null,
-      "why_now": null,
-      "researched_at": null,
-      "needs_research": true
+      "signal": 0.8,
+      "url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI",
+      "summary": "Rockstar's Grand Theft Auto VI launched on November 19, 2026, on PlayStation 5 and Xbox Series X/S, and this weekend is its first on sale.",
+      "why_now": "This is launch week. Sony said on November 10 it had become the most pre-ordered game in PlayStation Store history, and digital pre-loads of up to 212 GB opened nine days before release.",
+      "researched_at": "2026-11-23T02:22:57.990Z",
+      "needs_research": false
     },
     {
       "id": "keanu-reeves",
@@ -89,7 +88,7 @@
       "summary": null,
       "why_now": null,
       "researched_at": null,
-      "needs_research": true
+      "needs_research": false
     },
     {
       "id": "toyota-nissan-and-honda-to-standardize-parts-to-lower-costs",
@@ -167,6 +166,27 @@
       ],
       "signal": 0.4,
       "url": "https://news.ycombinator.com/item?id=50582069",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "grand-theft-auto-v-enhanced",
+      "name": "Grand Theft Auto V Enhanced",
+      "aliases": [
+        "Grand Theft Auto V Enhanced"
+      ],
+      "phase": "new",
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "days_seen": 1,
+      "sources_seen": [
+        "steam",
+        "wikipedia"
+      ],
+      "signal": 0.25,
+      "url": "https://store.steampowered.com/app/3240220",
       "summary": null,
       "why_now": null,
       "researched_at": null,
@@ -2645,9 +2665,5 @@
       "needs_research": false
     }
   ],
-  "research_queue": [
-    "thinkingmachines-inkling-2-mini",
-    "grand-theft-auto-vi",
-    "keanu-reeves"
-  ]
+  "research_queue": []
 }

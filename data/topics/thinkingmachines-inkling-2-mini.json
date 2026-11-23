@@ -91,7 +91,39 @@
       ]
     }
   ],
-  "explainer": null,
+  "explainer": {
+    "summary": "Inkling 2 Mini is an open-weights model Thinking Machines Lab released on November 20 under the Apache 2.0 license: a 26.4B-parameter mixture-of-experts model with 3.4B active, built to run on local hardware such as Macs with 32 GB or more.",
+    "why_now": "A Hacker News post titled \"Inkling-2-Mini in 5.4 GB Memory\" drew 582 points. That 5.4 GB figure belongs to an independent compressed build, not the official release, whose checkpoint is about 20 GB.",
+    "background": [
+      "The official model card reports 79.2% on SWE-bench Verified and a context window of up to 1M tokens. Its middle layers run three times with shared weights, which the card says gives 5.4B effective active parameters per token, a likely source of the 5.4 figure getting mixed up.",
+      "The 5.38 GB build comes from a third-party GitHub project aimed at 8 GB iPhones. Its own numbers show the cost of squeezing: 87.0% on GSM8K against 96.5% for the full model. Unsloth's quantized files start at 7.76 GB. A Hacker News commenter pointed out that the repo's headline claim of 12 times lower error is about a different model."
+    ],
+    "sources": [
+      {
+        "url": "https://huggingface.co/thinkingmachines/Inkling-2-Mini",
+        "title": "thinkingmachines/Inkling-2-Mini (Hugging Face model card)",
+        "fetched_at": "2026-11-23T02:22:47Z"
+      },
+      {
+        "url": "https://news.ycombinator.com/item?id=50591853",
+        "title": "Inkling-2-Mini in 5.4 GB Memory (Hacker News)",
+        "fetched_at": "2026-11-23T02:22:47Z"
+      },
+      {
+        "url": "https://github.com/ShinMegamiBoson/lookatmyquant",
+        "title": "lookatmyquant (GitHub)",
+        "fetched_at": "2026-11-23T02:22:47Z"
+      },
+      {
+        "url": "https://huggingface.co/unsloth/Inkling-2-Mini-GGUF",
+        "title": "unsloth/Inkling-2-Mini-GGUF (Hugging Face)",
+        "fetched_at": "2026-11-23T02:22:47Z"
+      }
+    ],
+    "researched_at": "2026-11-23T02:22:47.244Z",
+    "phase_at_research": "holding",
+    "engine": "ai"
+  },
   "explainer_history": [],
-  "needs_research": true
+  "needs_research": false
 }

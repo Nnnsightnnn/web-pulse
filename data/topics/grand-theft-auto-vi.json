@@ -3,8 +3,7 @@
   "name": "Grand Theft Auto VI",
   "aliases": [
     "Grand Theft Auto VI",
-    "Grand Theft Auto",
-    "Grand Theft Auto V Enhanced"
+    "Grand Theft Auto"
   ],
   "first_seen": "2026-11-18",
   "last_seen": "2026-11-22",
@@ -167,32 +166,10 @@
     {
       "date": "2026-11-22",
       "sources": [
-        "steam",
         "wikipedia"
       ],
-      "signal": 1.05,
+      "signal": 0.8,
       "items": [
-        {
-          "source": "steam",
-          "title": "Grand Theft Auto V Enhanced",
-          "url": "https://store.steampowered.com/app/3240220",
-          "rank": 10,
-          "movement": "holding"
-        },
-        {
-          "source": "steam",
-          "title": "Grand Theft Auto V Legacy",
-          "url": "https://store.steampowered.com/app/271590",
-          "rank": 15,
-          "movement": "climbing"
-        },
-        {
-          "source": "wikipedia",
-          "title": "Grand Theft Auto",
-          "url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto",
-          "rank": 12,
-          "movement": "falling"
-        },
         {
           "source": "wikipedia",
           "title": "Grand Theft Auto VI",
@@ -203,7 +180,53 @@
       ]
     }
   ],
-  "explainer": null,
-  "explainer_history": [],
-  "needs_research": true
+  "explainer": {
+    "summary": "Rockstar's Grand Theft Auto VI launched on November 19, 2026, on PlayStation 5 and Xbox Series X/S, and this weekend is its first on sale.",
+    "why_now": "This is launch week. Sony said on November 10 it had become the most pre-ordered game in PlayStation Store history, and digital pre-loads of up to 212 GB opened nine days before release.",
+    "background": [
+      "Sony's record covers the PlayStation Store only, not every platform. Physical copies went on sale from November 12 with a download code in the box rather than a full game on disc. Sales figures circulating since launch come from mixed sources, some third-party estimates, and conflicting launch-day numbers have appeared, so treat any single figure with care.",
+      "The feeds also show GTA V Enhanced and GTA V Legacy high on Steam's charts. Those are the older game on PC; GTA VI's release covers consoles only."
+    ],
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI",
+        "title": "Grand Theft Auto VI (Wikipedia)",
+        "fetched_at": "2026-11-23T02:22:57Z"
+      },
+      {
+        "url": "https://www.ibtimes.co.uk/gta-6-playstation-store-preorder-record-preload-1831482",
+        "title": "GTA 6 Breaks PlayStation's All-Time Pre-Order Record (IBTimes UK)",
+        "fetched_at": "2026-11-23T02:22:57Z"
+      }
+    ],
+    "researched_at": "2026-11-23T02:22:57.990Z",
+    "phase_at_research": "holding",
+    "engine": "ai"
+  },
+  "explainer_history": [
+    {
+      "summary": "Rockstar's Grand Theft Auto VI launched on November 19, 2026, on PlayStation 5 and Xbox Series X/S, after a delay from its earlier May 26 date.",
+      "why_now": "This is launch week. Sony said on November 10 it had become the most pre-ordered game in PlayStation Store history, and digital pre-loads of up to 212 GB opened nine days before release.",
+      "background": [
+        "Sony's record covers the PlayStation Store only, not every platform. Physical copies went on sale from November 12 with a download code in the box rather than a full game on disc. Sales figures circulating since launch come from mixed sources, some third-party estimates, and conflicting launch-day numbers have appeared, so treat any single figure with care.",
+        "The feeds also show GTA V Enhanced and GTA V Legacy climbing Steam's charts. Those are the older game on PC, where GTA VI has no release yet."
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI",
+          "title": "Grand Theft Auto VI (Wikipedia)",
+          "fetched_at": "2026-11-23T02:22:47Z"
+        },
+        {
+          "url": "https://www.ibtimes.co.uk/gta-6-playstation-store-preorder-record-preload-1831482",
+          "title": "GTA 6 Breaks PlayStation's All-Time Pre-Order Record (IBTimes UK)",
+          "fetched_at": "2026-11-23T02:22:47Z"
+        }
+      ],
+      "researched_at": "2026-11-23T02:22:47.406Z",
+      "phase_at_research": "holding",
+      "engine": "ai"
+    }
+  ],
+  "needs_research": false
 }

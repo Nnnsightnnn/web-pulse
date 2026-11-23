@@ -29,7 +29,7 @@ const dates = [
   .slice(-days);
 
 // Keep researched explainers across the rebuild.
-const kept = new Map(loadTopics(TOPICS_DIR).filter((t) => t.explainer).map((t) => [t.id, t]));
+const kept = new Map(loadTopics(TOPICS_DIR).filter((t) => t.explainer || t.research_skipped).map((t) => [t.id, t]));
 rmSync(TOPICS_DIR, { recursive: true, force: true });
 mkdirSync(TOPICS_DIR, { recursive: true });
 
@@ -49,10 +49,11 @@ for (const date of dates) {
 for (const t of loadTopics(TOPICS_DIR)) {
   const old = kept.get(t.id);
   if (!old) continue;
-  t.explainer = old.explainer;
+  t.explainer = old.explainer || null;
   t.explainer_history = old.explainer_history || [];
-  t.needs_research = false; // already explained; the next nightly run re-judges it
+  if (old.research_skipped) t.research_skipped = old.research_skipped;
+  t.needs_research = false; // already handled; the next nightly run re-judges it
   writeFileSync(join(TOPICS_DIR, `${t.id}.json`), JSON.stringify(t, null, 2) + "\n");
 }
 if (index) writeIndex(TOPICS_DIR, loadTopics(TOPICS_DIR), index.date, index.generated_at);
-console.log(`rebuilt ${dates.length} days (${dates[0]} to ${dates[dates.length - 1]}), ${kept.size} explainers kept`);
+console.log(`rebuilt ${dates.length} days (${dates[0]} to ${dates[dates.length - 1]}), ${kept.size} explainers and skips kept`);
