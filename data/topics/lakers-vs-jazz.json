@@ -2,12 +2,13 @@
   "id": "lakers-vs-jazz",
   "name": "lakers vs jazz",
   "aliases": [
-    "lakers vs jazz"
+    "lakers vs jazz",
+    "lakers x jazz"
   ],
   "first_seen": "2026-11-19",
-  "last_seen": "2026-11-19",
-  "days_seen": 1,
-  "phase": "closed",
+  "last_seen": "2026-11-24",
+  "days_seen": 2,
+  "phase": "climbing",
   "sources_seen": [
     "google-trends"
   ],
@@ -24,6 +25,22 @@
           "title": "lakers vs jazz",
           "url": "https://www.slcdunk.com/utah-jazz-game-coverage/70812/preview-jazz-look-to-build-momentum-against-la-lakers",
           "rank": 2,
+          "movement": "new"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-24",
+      "sources": [
+        "google-trends"
+      ],
+      "signal": 0.26666666666666666,
+      "items": [
+        {
+          "source": "google-trends",
+          "title": "lakers x jazz",
+          "url": "https://ge.globo.com/basquete/nba/noticia/2026/11/19/jazz-surpreende-lakers-encerra-serie-de-nove-vitorias-e-frustra-noite-de-doncic.ghtml",
+          "rank": 3,
           "movement": "new"
         }
       ]

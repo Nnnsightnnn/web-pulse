@@ -1,0 +1,35 @@
+{
+  "id": "ladybird-is-now-in-alpha",
+  "name": "Ladybird is now in alpha",
+  "aliases": [
+    "Ladybird is now in alpha"
+  ],
+  "first_seen": "2026-11-24",
+  "last_seen": "2026-11-24",
+  "days_seen": 1,
+  "phase": "new",
+  "sources_seen": [
+    "hackernews"
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-24",
+      "sources": [
+        "hackernews"
+      ],
+      "signal": 0.26666666666666666,
+      "items": [
+        {
+          "source": "hackernews",
+          "title": "Ladybird is now in alpha",
+          "url": "https://news.ycombinator.com/item?id=50614249",
+          "rank": 3,
+          "movement": "new"
+        }
+      ]
+    }
+  ],
+  "explainer": null,
+  "explainer_history": [],
+  "needs_research": false
+}

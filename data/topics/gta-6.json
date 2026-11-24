@@ -5,12 +5,13 @@
     "gta 6",
     "PLAYING GTA 6 FOR THE FIRST TIME (PART 1)",
     "PLAYING GTA 6 FOR THE FIRST TIME (PART 3)",
-    "gta 6 chapter 2 mission list"
+    "gta 6 chapter 2 mission list",
+    "vespucci island gta 6"
   ],
   "first_seen": "2026-11-18",
-  "last_seen": "2026-11-23",
-  "days_seen": 4,
-  "phase": "climbing",
+  "last_seen": "2026-11-24",
+  "days_seen": 5,
+  "phase": "holding",
   "sources_seen": [
     "google-trends",
     "polymarket",
@@ -160,6 +161,44 @@
           "url": "https://www.youtube.com/watch?v=Ra6sNe8s2Hc",
           "rank": 11,
           "movement": "falling"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-24",
+      "sources": [
+        "google-trends",
+        "youtube"
+      ],
+      "signal": 0.275,
+      "items": [
+        {
+          "source": "google-trends",
+          "title": "vespucci island gta 6",
+          "url": "https://www.vice.com/en/article/gta-6-paul-walker-mitsubishi-eclipse-location/",
+          "rank": 8,
+          "movement": "new"
+        },
+        {
+          "source": "google-trends",
+          "title": "rockstar games gta vi",
+          "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o",
+          "rank": 24,
+          "movement": "new"
+        },
+        {
+          "source": "youtube",
+          "title": "WE PLAYED GTA 6 FOR THE FIRST TIME",
+          "url": "https://www.youtube.com/watch?v=dTjbyU_Bi00",
+          "rank": 15,
+          "movement": "new"
+        },
+        {
+          "source": "youtube",
+          "title": "Still Bloatmaxing in GTA 6",
+          "url": "https://www.youtube.com/watch?v=FGY0qhd3AsA",
+          "rank": 24,
+          "movement": "new"
         }
       ]
     }

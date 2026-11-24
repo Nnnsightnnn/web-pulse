@@ -1,59 +1,61 @@
 {
-  "date": "2026-11-23",
-  "generated_at": "2026-11-23T06:16:28.436Z",
-  "lede": "Grand Theft Auto VI was the day's connective tissue: it surfaced in two separate clusters spanning Google Trends, YouTube and Hacker News, where fans traded chapter-two mission lists and even a field guide to the game's wildlife, and it took second place on Wikipedia with 308,867 views. The Riemann hypothesis crossed three feeds at once, pushed by two proof attempts that landed days apart. And Ramayana: Part 1 led Wikipedia outright with 384,249 views, with no other feed in the snapshot saying why.",
+  "date": "2026-11-24",
+  "generated_at": "2026-11-24T06:16:38.441Z",
+  "lede": "The clearest signal on the web today is Nvidia's board reinstating Jensen Huang as chief executive, a story that surfaced on five feeds at once and topped Hacker News with 2,396 points and more than 3,300 comments. On Polymarket, a contract on a new Nvidia CEO being named by year end drew 2.4 million dollars in 24-hour volume and sat near 100 percent. The single most-read article on Wikipedia was not Nvidia, though, but Ramayana: Part 1, holding first place for a fifteenth straight day.",
   "throughlines": [
     {
-      "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
-      "gist": "A fan's field guide to the birds of GTA 6's Vice City crossed from Hacker News to a YouTube stream the same day, both feeds dwelling on the game's world in fine detail before release.",
+      "title": "Avengers: Doomsday",
+      "gist": "The final trailer for Marvel's Avengers: Doomsday, in theaters December 18, drew more than 33 million views on YouTube in a day and pushed the film onto Wikipedia's most-read list.",
       "sources": [
-        "hackernews",
+        "wikipedia",
         "youtube"
       ],
-      "url": "https://news.ycombinator.com/item?id=50602843",
+      "url": "https://en.wikipedia.org/wiki/Avengers%3A_Doomsday",
       "kind": "cluster",
-      "topic_id": "the-birds-of-gta-6-a-field-guide-to-vice-city-and-leonida-s",
+      "topic_id": "avengers-doomsday",
       "phase": "new",
       "days_seen": 1,
-      "first_seen": "2026-11-23",
+      "first_seen": "2026-11-24",
       "why": null,
-      "explainer_url": "https://nnnsightnnn.github.io/web-pulse/topics.html#the-birds-of-gta-6-a-field-guide-to-vice-city-and-leonida-s"
+      "explainer_url": "https://nnnsightnnn.github.io/web-pulse/topics.html#avengers-doomsday"
     },
     {
-      "title": "gta 6 chapter 2 mission list",
-      "gist": "For four days now players have searched Google Trends and YouTube for GTA 6's chapter-two mission list, the practical flip side of all the world-building: what the game actually asks you to do.",
+      "title": "Nvidia Reinstates Jensen Huang as CEO",
+      "gist": "Nvidia's board reinstated Jensen Huang as chief executive on day eleven of the story, a reversal carried at once by Hacker News, Wikipedia, Lemmy, Bluesky and GDELT, where the wire reported Asian stocks rallying on his return.",
       "sources": [
-        "google-trends",
-        "youtube"
-      ],
-      "url": "https://www.vice.com/en/article/gta-6-chapter-2-length-missions-missables/",
-      "kind": "cluster",
-      "topic_id": "gta-6",
-      "phase": "climbing",
-      "days_seen": 4,
-      "first_seen": "2026-11-18",
-      "why": null,
-      "explainer_url": "https://nnnsightnnn.github.io/web-pulse/topics.html#gta-6"
-    },
-    {
-      "title": "Masullo on the Riemann Hypothesis",
-      "gist": "The Riemann hypothesis is holding across Hacker News, Wikipedia and Polymarket on the back of two proof attempts that landed days apart: a machine-checked Lean proof from Levent Alpoge, and a 940-page manuscript from Alessandro Masullo that readers are already finding gaps in.",
-      "sources": [
+        "bluesky",
+        "gdelt-ai",
         "hackernews",
-        "polymarket",
+        "lemmy",
         "wikipedia"
       ],
-      "url": "https://en.wikipedia.org/wiki/Riemann_hypothesis",
+      "url": "https://en.wikipedia.org/wiki/Jensen_Huang",
       "kind": "cluster",
-      "topic_id": "riemann-hypothesis",
-      "phase": "holding",
-      "days_seen": 3,
-      "first_seen": "2026-11-21",
-      "why": "On November 20, Levent Alpöge released a proof of the Riemann hypothesis as a 17-million-line Lean library, made working with Claude, and the Lean and Mathlib communities certified it as correct the next day.",
-      "explainer_url": "https://nnnsightnnn.github.io/web-pulse/topics.html#riemann-hypothesis"
+      "topic_id": "jensen-huang",
+      "phase": "climbing",
+      "days_seen": 11,
+      "first_seen": "2026-11-10",
+      "why": null,
+      "explainer_url": "https://nnnsightnnn.github.io/web-pulse/topics.html#jensen-huang"
+    },
+    {
+      "title": "Grand Theft Auto VI",
+      "gist": "Grand Theft Auto VI, out since November 19, holds second on Wikipedia with 266,240 views and its soundtrack is climbing YouTube on the game's first weekend on sale.",
+      "sources": [
+        "wikipedia",
+        "youtube"
+      ],
+      "url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI",
+      "kind": "cluster",
+      "topic_id": "grand-theft-auto-vi",
+      "phase": "climbing",
+      "days_seen": 7,
+      "first_seen": "2026-11-18",
+      "why": "Rockstar's Grand Theft Auto VI launched on November 19, 2026, on PlayStation 5 and Xbox Series X/S, and this weekend is its first on sale.",
+      "explainer_url": "https://nnnsightnnn.github.io/web-pulse/topics.html#grand-theft-auto-vi"
     }
   ],
-  "strength": 69,
+  "strength": 100,
   "live_sources": 17,
   "total_sources": 17,
   "dashboard_url": "https://nnnsightnnn.github.io/web-pulse/",

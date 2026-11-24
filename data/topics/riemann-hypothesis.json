@@ -7,8 +7,8 @@
     "Masullo on the Riemann Hypothesis"
   ],
   "first_seen": "2026-11-21",
-  "last_seen": "2026-11-23",
-  "days_seen": 3,
+  "last_seen": "2026-11-24",
+  "days_seen": 4,
   "phase": "holding",
   "sources_seen": [
     "hackernews",
@@ -100,6 +100,22 @@
           "url": "https://polymarket.com/event/which-math-problems-will-ai-solve-in-2026",
           "rank": 16,
           "movement": "new"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-24",
+      "sources": [
+        "wikipedia"
+      ],
+      "signal": 0.1,
+      "items": [
+        {
+          "source": "wikipedia",
+          "title": "Riemann hypothesis",
+          "url": "https://en.wikipedia.org/wiki/Riemann_hypothesis",
+          "rank": 8,
+          "movement": "falling"
         }
       ]
     }

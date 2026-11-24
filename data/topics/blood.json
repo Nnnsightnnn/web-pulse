@@ -1,0 +1,35 @@
+{
+  "id": "blood",
+  "name": "Blood",
+  "aliases": [
+    "Blood"
+  ],
+  "first_seen": "2026-11-24",
+  "last_seen": "2026-11-24",
+  "days_seen": 1,
+  "phase": "new",
+  "sources_seen": [
+    "wikipedia"
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-24",
+      "sources": [
+        "wikipedia"
+      ],
+      "signal": 0.1142857142857143,
+      "items": [
+        {
+          "source": "wikipedia",
+          "title": "Blood",
+          "url": "https://en.wikipedia.org/wiki/Blood",
+          "rank": 7,
+          "movement": "new"
+        }
+      ]
+    }
+  ],
+  "explainer": null,
+  "explainer_history": [],
+  "needs_research": false
+}

@@ -6,9 +6,9 @@
     "Grand Theft Auto"
   ],
   "first_seen": "2026-11-18",
-  "last_seen": "2026-11-23",
-  "days_seen": 6,
-  "phase": "holding",
+  "last_seen": "2026-11-24",
+  "days_seen": 7,
+  "phase": "climbing",
   "sources_seen": [
     "lemmy",
     "steam",
@@ -192,6 +192,30 @@
           "url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI",
           "rank": 2,
           "movement": "holding"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-24",
+      "sources": [
+        "wikipedia",
+        "youtube"
+      ],
+      "signal": 1.15,
+      "items": [
+        {
+          "source": "wikipedia",
+          "title": "Grand Theft Auto VI",
+          "url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI",
+          "rank": 2,
+          "movement": "holding"
+        },
+        {
+          "source": "youtube",
+          "title": "Travis Scott - Burn This Shit Down [from Grand Theft Auto VI: The Album (Deluxe Edition)]",
+          "url": "https://www.youtube.com/watch?v=2sUhJahVWyQ",
+          "rank": 4,
+          "movement": "new"
         }
       ]
     }

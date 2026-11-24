@@ -1,0 +1,35 @@
+{
+  "id": "experience-machine",
+  "name": "Experience machine",
+  "aliases": [
+    "Experience machine"
+  ],
+  "first_seen": "2026-11-24",
+  "last_seen": "2026-11-24",
+  "days_seen": 1,
+  "phase": "new",
+  "sources_seen": [
+    "wikipedia"
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-24",
+      "sources": [
+        "wikipedia"
+      ],
+      "signal": 0.08,
+      "items": [
+        {
+          "source": "wikipedia",
+          "title": "Experience machine",
+          "url": "https://en.wikipedia.org/wiki/Experience_machine",
+          "rank": 10,
+          "movement": "new"
+        }
+      ]
+    }
+  ],
+  "explainer": null,
+  "explainer_history": [],
+  "needs_research": false
+}

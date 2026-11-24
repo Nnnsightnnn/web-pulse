@@ -1,29 +1,56 @@
 {
-  "generated_at": "2026-11-23T06:16:28.436Z",
-  "date": "2026-11-23",
+  "generated_at": "2026-11-24T06:16:38.441Z",
+  "date": "2026-11-24",
   "topics": [
     {
-      "id": "riemann-hypothesis",
-      "name": "Riemann hypothesis",
+      "id": "jensen-huang",
+      "name": "Jensen Huang",
       "aliases": [
-        "Riemann hypothesis",
-        "Lean verification of the Riemann Hypothesis",
-        "Masullo on the Riemann Hypothesis"
+        "Jensen Huang",
+        "Jensen Huang resigns",
+        "Nvidia Reinstates Jensen Huang as CEO"
       ],
-      "phase": "holding",
-      "first_seen": "2026-11-21",
-      "last_seen": "2026-11-23",
-      "days_seen": 3,
+      "phase": "climbing",
+      "first_seen": "2026-11-10",
+      "last_seen": "2026-11-24",
+      "days_seen": 11,
       "sources_seen": [
+        "bluesky",
+        "gdelt-ai",
         "hackernews",
+        "lemmy",
         "polymarket",
         "wikipedia"
       ],
-      "signal": 1.056,
-      "url": "https://en.wikipedia.org/wiki/Riemann_hypothesis",
-      "summary": "On November 20, Levent Alpöge released a proof of the Riemann hypothesis as a 17-million-line Lean library, made working with Claude, and the Lean and Mathlib communities certified it as correct the next day.",
-      "why_now": "Two attempts landed the same day: Alpöge's machine-checked proof, and a 940-page human-written manuscript by Alessandro Masullo aimed at the generalized hypothesis, which readers have since found gaps in. The Hacker News thread on Masullo's announcement drew 2,447 points.",
-      "researched_at": "2026-11-23T01:46:58.175Z",
+      "signal": 4.283,
+      "url": "https://en.wikipedia.org/wiki/Jensen_Huang",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": true
+    },
+    {
+      "id": "grand-theft-auto-vi",
+      "name": "Grand Theft Auto VI",
+      "aliases": [
+        "Grand Theft Auto VI",
+        "Grand Theft Auto"
+      ],
+      "phase": "climbing",
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-24",
+      "days_seen": 7,
+      "sources_seen": [
+        "lemmy",
+        "steam",
+        "wikipedia",
+        "youtube"
+      ],
+      "signal": 1.15,
+      "url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI",
+      "summary": "Rockstar's Grand Theft Auto VI launched on November 19, 2026, on PlayStation 5 and Xbox Series X/S, and this weekend is its first on sale.",
+      "why_now": "This is launch week. Sony said on November 10 it had become the most pre-ordered game in PlayStation Store history, and digital pre-loads of up to 212 GB opened nine days before release.",
+      "researched_at": "2026-11-23T02:22:57.990Z",
       "needs_research": false
     },
     {
@@ -34,8 +61,8 @@
       ],
       "phase": "holding",
       "first_seen": "2026-11-09",
-      "last_seen": "2026-11-23",
-      "days_seen": 15,
+      "last_seen": "2026-11-24",
+      "days_seen": 16,
       "sources_seen": [
         "wikipedia",
         "youtube"
@@ -48,12 +75,325 @@
       "needs_research": true
     },
     {
+      "id": "uae-vs-india-a",
+      "name": "uae vs india a",
+      "aliases": [
+        "uae vs india a"
+      ],
+      "phase": "new",
+      "first_seen": "2026-11-24",
+      "last_seen": "2026-11-24",
+      "days_seen": 1,
+      "sources_seen": [
+        "google-trends"
+      ],
+      "signal": 0.8,
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/india-a-vs-uae-live-score-acc-men-asia-cup-rising-stars-2026-group-b-tilak-varma-vaibhav-sooryavanshi-scorecard-live-streaming/liveblog/136118069.cms",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "full-moon-beaver-moon",
+      "name": "full moon beaver moon",
+      "aliases": [
+        "full moon beaver moon"
+      ],
+      "phase": "new",
+      "first_seen": "2026-11-24",
+      "last_seen": "2026-11-24",
+      "days_seen": 1,
+      "sources_seen": [
+        "google-trends"
+      ],
+      "signal": 0.4,
+      "url": "https://www.bbc.co.uk/news/videos/cw7v27n5d38go",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": true
+    },
+    {
+      "id": "stalwart-is-now-a-drop-in-replacement-for-microsoft-exchange",
+      "name": "Stalwart is now a drop-in replacement for Microsoft Exchange",
+      "aliases": [
+        "Stalwart is now a drop-in replacement for Microsoft Exchange"
+      ],
+      "phase": "new",
+      "first_seen": "2026-11-24",
+      "last_seen": "2026-11-24",
+      "days_seen": 1,
+      "sources_seen": [
+        "hackernews"
+      ],
+      "signal": 0.4,
+      "url": "https://news.ycombinator.com/item?id=50620349",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": true
+    },
+    {
+      "id": "gta-6",
+      "name": "gta 6",
+      "aliases": [
+        "gta 6",
+        "PLAYING GTA 6 FOR THE FIRST TIME (PART 1)",
+        "PLAYING GTA 6 FOR THE FIRST TIME (PART 3)",
+        "gta 6 chapter 2 mission list",
+        "vespucci island gta 6"
+      ],
+      "phase": "holding",
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-24",
+      "days_seen": 5,
+      "sources_seen": [
+        "google-trends",
+        "polymarket",
+        "youtube"
+      ],
+      "signal": 0.275,
+      "url": "https://www.vice.com/en/article/gta-6-paul-walker-mitsubishi-eclipse-location/",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "lakers-vs-jazz",
+      "name": "lakers vs jazz",
+      "aliases": [
+        "lakers vs jazz",
+        "lakers x jazz"
+      ],
+      "phase": "climbing",
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-24",
+      "days_seen": 2,
+      "sources_seen": [
+        "google-trends"
+      ],
+      "signal": 0.267,
+      "url": "https://ge.globo.com/basquete/nba/noticia/2026/11/19/jazz-surpreende-lakers-encerra-serie-de-nove-vitorias-e-frustra-noite-de-doncic.ghtml",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "ladybird-is-now-in-alpha",
+      "name": "Ladybird is now in alpha",
+      "aliases": [
+        "Ladybird is now in alpha"
+      ],
+      "phase": "new",
+      "first_seen": "2026-11-24",
+      "last_seen": "2026-11-24",
+      "days_seen": 1,
+      "sources_seen": [
+        "hackernews"
+      ],
+      "signal": 0.267,
+      "url": "https://news.ycombinator.com/item?id=50614249",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "moon",
+      "name": "Moon",
+      "aliases": [
+        "Moon"
+      ],
+      "phase": "new",
+      "first_seen": "2026-11-24",
+      "last_seen": "2026-11-24",
+      "days_seen": 1,
+      "sources_seen": [
+        "wikipedia"
+      ],
+      "signal": 0.2,
+      "url": "https://en.wikipedia.org/wiki/Moon",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "the-hunger-games-sunrise-on-the-reaping",
+      "name": "The Hunger Games: Sunrise on the Reaping",
+      "aliases": [
+        "The Hunger Games: Sunrise on the Reaping"
+      ],
+      "phase": "holding",
+      "first_seen": "2026-11-21",
+      "last_seen": "2026-11-24",
+      "days_seen": 4,
+      "sources_seen": [
+        "wikipedia"
+      ],
+      "signal": 0.16,
+      "url": "https://en.wikipedia.org/wiki/The_Hunger_Games%3A_Sunrise_on_the_Reaping",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "bolsa-familia-dezembro",
+      "name": "bolsa familia dezembro",
+      "aliases": [
+        "bolsa familia dezembro"
+      ],
+      "phase": "new",
+      "first_seen": "2026-11-24",
+      "last_seen": "2026-11-24",
+      "days_seen": 1,
+      "sources_seen": [
+        "google-trends"
+      ],
+      "signal": 0.16,
+      "url": "https://istoedinheiro.com.br/bolsa-familia-dezembro-2026-calendario-antecipado-nis",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "qwen-qwen3-8-27b",
+      "name": "Qwen/Qwen3.8-27B",
+      "aliases": [
+        "Qwen/Qwen3.8-27B"
+      ],
+      "phase": "climbing",
+      "first_seen": "2026-11-14",
+      "last_seen": "2026-11-24",
+      "days_seen": 2,
+      "sources_seen": [
+        "hackernews",
+        "huggingface"
+      ],
+      "signal": 0.139,
+      "url": "https://news.ycombinator.com/item?id=50611402",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "linux",
+      "name": "Linux",
+      "aliases": [
+        "Linux"
+      ],
+      "phase": "new",
+      "first_seen": "2026-11-24",
+      "last_seen": "2026-11-24",
+      "days_seen": 1,
+      "sources_seen": [
+        "wikipedia"
+      ],
+      "signal": 0.133,
+      "url": "https://en.wikipedia.org/wiki/Linux",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "avengers-doomsday",
+      "name": "Avengers: Doomsday",
+      "aliases": [
+        "Avengers: Doomsday"
+      ],
+      "phase": "new",
+      "first_seen": "2026-11-24",
+      "last_seen": "2026-11-24",
+      "days_seen": 1,
+      "sources_seen": [
+        "wikipedia",
+        "youtube"
+      ],
+      "signal": 0.117,
+      "url": "https://en.wikipedia.org/wiki/Avengers%3A_Doomsday",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "blood",
+      "name": "Blood",
+      "aliases": [
+        "Blood"
+      ],
+      "phase": "new",
+      "first_seen": "2026-11-24",
+      "last_seen": "2026-11-24",
+      "days_seen": 1,
+      "sources_seen": [
+        "wikipedia"
+      ],
+      "signal": 0.114,
+      "url": "https://en.wikipedia.org/wiki/Blood",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "riemann-hypothesis",
+      "name": "Riemann hypothesis",
+      "aliases": [
+        "Riemann hypothesis",
+        "Lean verification of the Riemann Hypothesis",
+        "Masullo on the Riemann Hypothesis"
+      ],
+      "phase": "holding",
+      "first_seen": "2026-11-21",
+      "last_seen": "2026-11-24",
+      "days_seen": 4,
+      "sources_seen": [
+        "hackernews",
+        "polymarket",
+        "wikipedia"
+      ],
+      "signal": 0.1,
+      "url": "https://en.wikipedia.org/wiki/Riemann_hypothesis",
+      "summary": "On November 20, Levent Alpöge released a proof of the Riemann hypothesis as a 17-million-line Lean library, made working with Claude, and the Lean and Mathlib communities certified it as correct the next day.",
+      "why_now": "Two attempts landed the same day: Alpöge's machine-checked proof, and a 940-page human-written manuscript by Alessandro Masullo aimed at the generalized hypothesis, which readers have since found gaps in. The Hacker News thread on Masullo's announcement drew 2,447 points.",
+      "researched_at": "2026-11-23T01:46:58.175Z",
+      "needs_research": false
+    },
+    {
+      "id": "experience-machine",
+      "name": "Experience machine",
+      "aliases": [
+        "Experience machine"
+      ],
+      "phase": "new",
+      "first_seen": "2026-11-24",
+      "last_seen": "2026-11-24",
+      "days_seen": 1,
+      "sources_seen": [
+        "wikipedia"
+      ],
+      "signal": 0.08,
+      "url": "https://en.wikipedia.org/wiki/Experience_machine",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
       "id": "charlotte-fc-vs-chicago-fire-fc-standings",
       "name": "charlotte fc vs chicago fire fc standings",
       "aliases": [
         "charlotte fc vs chicago fire fc standings"
       ],
-      "phase": "new",
+      "phase": "fading",
       "first_seen": "2026-11-23",
       "last_seen": "2026-11-23",
       "days_seen": 1,
@@ -73,7 +413,7 @@
       "aliases": [
         "Free alternative TV network built from the Internet Archive's forgotten videos"
       ],
-      "phase": "new",
+      "phase": "fading",
       "first_seen": "2026-11-23",
       "last_seen": "2026-11-23",
       "days_seen": 1,
@@ -85,30 +425,6 @@
       "summary": null,
       "why_now": null,
       "researched_at": null,
-      "needs_research": true
-    },
-    {
-      "id": "grand-theft-auto-vi",
-      "name": "Grand Theft Auto VI",
-      "aliases": [
-        "Grand Theft Auto VI",
-        "Grand Theft Auto"
-      ],
-      "phase": "holding",
-      "first_seen": "2026-11-18",
-      "last_seen": "2026-11-23",
-      "days_seen": 6,
-      "sources_seen": [
-        "lemmy",
-        "steam",
-        "wikipedia",
-        "youtube"
-      ],
-      "signal": 0.4,
-      "url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI",
-      "summary": "Rockstar's Grand Theft Auto VI launched on November 19, 2026, on PlayStation 5 and Xbox Series X/S, and this weekend is its first on sale.",
-      "why_now": "This is launch week. Sony said on November 10 it had become the most pre-ordered game in PlayStation Store history, and digital pre-loads of up to 212 GB opened nine days before release.",
-      "researched_at": "2026-11-23T02:22:57.990Z",
       "needs_research": false
     },
     {
@@ -117,7 +433,7 @@
       "aliases": [
         "king tides flooding"
       ],
-      "phase": "new",
+      "phase": "fading",
       "first_seen": "2026-11-23",
       "last_seen": "2026-11-23",
       "days_seen": 1,
@@ -129,7 +445,7 @@
       "summary": null,
       "why_now": null,
       "researched_at": null,
-      "needs_research": true
+      "needs_research": false
     },
     {
       "id": "xnu-linux-full-os-x-gui-userspace-on-linux",
@@ -137,7 +453,7 @@
       "aliases": [
         "XNU Linux: Full OS X GUI Userspace on Linux"
       ],
-      "phase": "new",
+      "phase": "fading",
       "first_seen": "2026-11-23",
       "last_seen": "2026-11-23",
       "days_seen": 1,
@@ -149,51 +465,6 @@
       "summary": null,
       "why_now": null,
       "researched_at": null,
-      "needs_research": true
-    },
-    {
-      "id": "gta-6",
-      "name": "gta 6",
-      "aliases": [
-        "gta 6",
-        "PLAYING GTA 6 FOR THE FIRST TIME (PART 1)",
-        "PLAYING GTA 6 FOR THE FIRST TIME (PART 3)",
-        "gta 6 chapter 2 mission list"
-      ],
-      "phase": "climbing",
-      "first_seen": "2026-11-18",
-      "last_seen": "2026-11-23",
-      "days_seen": 4,
-      "sources_seen": [
-        "google-trends",
-        "polymarket",
-        "youtube"
-      ],
-      "signal": 0.353,
-      "url": "https://www.vice.com/en/article/gta-6-chapter-2-length-missions-missables/",
-      "summary": null,
-      "why_now": null,
-      "researched_at": null,
-      "needs_research": false
-    },
-    {
-      "id": "tom-jackson-american-football-born-1951",
-      "name": "Tom Jackson (American football, born 1951)",
-      "aliases": [
-        "Tom Jackson (American football, born 1951)"
-      ],
-      "phase": "new",
-      "first_seen": "2026-11-23",
-      "last_seen": "2026-11-23",
-      "days_seen": 1,
-      "sources_seen": [
-        "wikipedia"
-      ],
-      "signal": 0.267,
-      "url": "https://en.wikipedia.org/wiki/Tom_Jackson_(American_football%2C_born_1951)",
-      "summary": null,
-      "why_now": null,
-      "researched_at": null,
       "needs_research": false
     },
     {
@@ -202,7 +473,7 @@
       "aliases": [
         "earthquake now"
       ],
-      "phase": "new",
+      "phase": "fading",
       "first_seen": "2026-11-23",
       "last_seen": "2026-11-23",
       "days_seen": 1,
@@ -217,12 +488,32 @@
       "needs_research": false
     },
     {
+      "id": "tom-jackson-american-football-born-1951",
+      "name": "Tom Jackson (American football, born 1951)",
+      "aliases": [
+        "Tom Jackson (American football, born 1951)"
+      ],
+      "phase": "fading",
+      "first_seen": "2026-11-23",
+      "last_seen": "2026-11-23",
+      "days_seen": 1,
+      "sources_seen": [
+        "wikipedia"
+      ],
+      "signal": 0.267,
+      "url": "https://en.wikipedia.org/wiki/Tom_Jackson_(American_football%2C_born_1951)",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
       "id": "the-birds-of-gta-6-a-field-guide-to-vice-city-and-leonida-s",
       "name": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
       "aliases": [
         "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife"
       ],
-      "phase": "new",
+      "phase": "fading",
       "first_seen": "2026-11-23",
       "last_seen": "2026-11-23",
       "days_seen": 1,
@@ -243,7 +534,7 @@
       "aliases": [
         "Grand Theft Auto V Enhanced"
       ],
-      "phase": "holding",
+      "phase": "fading",
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-23",
       "days_seen": 2,
@@ -259,32 +550,12 @@
       "needs_research": false
     },
     {
-      "id": "the-hunger-games-sunrise-on-the-reaping",
-      "name": "The Hunger Games: Sunrise on the Reaping",
-      "aliases": [
-        "The Hunger Games: Sunrise on the Reaping"
-      ],
-      "phase": "holding",
-      "first_seen": "2026-11-21",
-      "last_seen": "2026-11-23",
-      "days_seen": 3,
-      "sources_seen": [
-        "wikipedia"
-      ],
-      "signal": 0.2,
-      "url": "https://en.wikipedia.org/wiki/The_Hunger_Games%3A_Sunrise_on_the_Reaping",
-      "summary": null,
-      "why_now": null,
-      "researched_at": null,
-      "needs_research": false
-    },
-    {
       "id": "dow-jones-stock-markets",
       "name": "dow jones stock markets",
       "aliases": [
         "dow jones stock markets"
       ],
-      "phase": "new",
+      "phase": "fading",
       "first_seen": "2026-11-23",
       "last_seen": "2026-11-23",
       "days_seen": 1,
@@ -304,7 +575,7 @@
       "aliases": [
         "cyberleek"
       ],
-      "phase": "new",
+      "phase": "fading",
       "first_seen": "2026-11-23",
       "last_seen": "2026-11-23",
       "days_seen": 1,
@@ -324,7 +595,7 @@
       "aliases": [
         "Miley Cyrus"
       ],
-      "phase": "new",
+      "phase": "fading",
       "first_seen": "2026-11-23",
       "last_seen": "2026-11-23",
       "days_seen": 1,
@@ -344,7 +615,7 @@
       "aliases": [
         ".xxx"
       ],
-      "phase": "holding",
+      "phase": "fading",
       "first_seen": "2026-11-09",
       "last_seen": "2026-11-23",
       "days_seen": 13,
@@ -364,7 +635,7 @@
       "aliases": [
         "The Body (TV series)"
       ],
-      "phase": "climbing",
+      "phase": "fading",
       "first_seen": "2026-11-17",
       "last_seen": "2026-11-23",
       "days_seen": 4,
@@ -791,7 +1062,7 @@
       "aliases": [
         "GIMP now has UI tests"
       ],
-      "phase": "fading",
+      "phase": "closed",
       "first_seen": "2026-11-20",
       "last_seen": "2026-11-20",
       "days_seen": 1,
@@ -811,7 +1082,7 @@
       "aliases": [
         "maps"
       ],
-      "phase": "fading",
+      "phase": "closed",
       "first_seen": "2026-11-20",
       "last_seen": "2026-11-20",
       "days_seen": 1,
@@ -831,7 +1102,7 @@
       "aliases": [
         "OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)"
       ],
-      "phase": "fading",
+      "phase": "closed",
       "first_seen": "2026-11-20",
       "last_seen": "2026-11-20",
       "days_seen": 1,
@@ -851,7 +1122,7 @@
       "aliases": [
         "Lainey Wilson - Just A Woman (Live from \"The 60th Annual CMA Awards\")"
       ],
-      "phase": "fading",
+      "phase": "closed",
       "first_seen": "2026-11-20",
       "last_seen": "2026-11-20",
       "days_seen": 1,
@@ -872,7 +1143,7 @@
       "aliases": [
         "Postgres 19 Repack: Faster, Built-In Table Bloat Cleanup"
       ],
-      "phase": "fading",
+      "phase": "closed",
       "first_seen": "2026-11-20",
       "last_seen": "2026-11-20",
       "days_seen": 1,
@@ -892,7 +1163,7 @@
       "aliases": [
         "Stephen Wilson Jr."
       ],
-      "phase": "fading",
+      "phase": "closed",
       "first_seen": "2026-11-20",
       "last_seen": "2026-11-20",
       "days_seen": 1,
@@ -912,7 +1183,7 @@
       "aliases": [
         "wetter"
       ],
-      "phase": "fading",
+      "phase": "closed",
       "first_seen": "2026-11-20",
       "last_seen": "2026-11-20",
       "days_seen": 1,
@@ -932,7 +1203,7 @@
       "aliases": [
         "Ella Langley"
       ],
-      "phase": "fading",
+      "phase": "closed",
       "first_seen": "2026-11-20",
       "last_seen": "2026-11-20",
       "days_seen": 1,
@@ -952,7 +1223,7 @@
       "aliases": [
         "florida flash flooding"
       ],
-      "phase": "fading",
+      "phase": "closed",
       "first_seen": "2026-11-20",
       "last_seen": "2026-11-20",
       "days_seen": 1,
@@ -972,7 +1243,7 @@
       "aliases": [
         "Dario Amodei"
       ],
-      "phase": "fading",
+      "phase": "closed",
       "first_seen": "2026-11-20",
       "last_seen": "2026-11-20",
       "days_seen": 1,
@@ -1021,26 +1292,6 @@
       ],
       "signal": 0.8,
       "url": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-11-19/keyonte-george-with-30-and-10-assists-in-win",
-      "summary": null,
-      "why_now": null,
-      "researched_at": null,
-      "needs_research": false
-    },
-    {
-      "id": "lakers-vs-jazz",
-      "name": "lakers vs jazz",
-      "aliases": [
-        "lakers vs jazz"
-      ],
-      "phase": "closed",
-      "first_seen": "2026-11-19",
-      "last_seen": "2026-11-19",
-      "days_seen": 1,
-      "sources_seen": [
-        "google-trends"
-      ],
-      "signal": 0.4,
-      "url": "https://www.slcdunk.com/utah-jazz-game-coverage/70812/preview-jazz-look-to-build-momentum-against-la-lakers",
       "summary": null,
       "why_now": null,
       "researched_at": null,
@@ -1141,31 +1392,6 @@
       ],
       "signal": 0.2,
       "url": "https://www.joyn.de/bts/serien/aktenzeichen-xy-ungeloest/aktenzeichen-xy-heute-gibt-es-neue-hinweise-im-fall-alexander-luchterhandt-218185",
-      "summary": null,
-      "why_now": null,
-      "researched_at": null,
-      "needs_research": false
-    },
-    {
-      "id": "jensen-huang",
-      "name": "Jensen Huang",
-      "aliases": [
-        "Jensen Huang",
-        "Jensen Huang resigns"
-      ],
-      "phase": "closed",
-      "first_seen": "2026-11-10",
-      "last_seen": "2026-11-19",
-      "days_seen": 10,
-      "sources_seen": [
-        "gdelt-ai",
-        "hackernews",
-        "lemmy",
-        "polymarket",
-        "wikipedia"
-      ],
-      "signal": 0.183,
-      "url": "https://polymarket.com/event/jensen-huang-rejoins-nvidia-byptptpt",
       "summary": null,
       "why_now": null,
       "researched_at": null,
@@ -2202,27 +2428,6 @@
       "needs_research": false
     },
     {
-      "id": "qwen-qwen3-8-27b",
-      "name": "Qwen/Qwen3.8-27B",
-      "aliases": [
-        "Qwen/Qwen3.8-27B"
-      ],
-      "phase": "closed",
-      "first_seen": "2026-11-14",
-      "last_seen": "2026-11-14",
-      "days_seen": 1,
-      "sources_seen": [
-        "hackernews",
-        "huggingface"
-      ],
-      "signal": 0.471,
-      "url": "https://news.ycombinator.com/item?id=50491980",
-      "summary": null,
-      "why_now": null,
-      "researched_at": null,
-      "needs_research": false
-    },
-    {
       "id": "show-hn-live-map-of-u-s-flights-during-tonight-s-faa-nationw",
       "name": "Show HN: Live map of U.S. flights during tonight's FAA nationwide ground stop",
       "aliases": [
@@ -2403,235 +2608,12 @@
       "why_now": null,
       "researched_at": null,
       "needs_research": false
-    },
-    {
-      "id": "afg-vs-zim",
-      "name": "afg vs zim",
-      "aliases": [
-        "afg vs zim"
-      ],
-      "phase": "closed",
-      "first_seen": "2026-11-13",
-      "last_seen": "2026-11-13",
-      "days_seen": 1,
-      "sources_seen": [
-        "google-trends"
-      ],
-      "signal": 0.8,
-      "url": "https://www.cricinfo.com/series/afghanistan-v-zimbabwe-2026-27-1555105/afghanistan-vs-zimbabwe-2nd-test-1555124/match-preview",
-      "summary": null,
-      "why_now": null,
-      "researched_at": null,
-      "needs_research": false
-    },
-    {
-      "id": "icewm",
-      "name": "IceWM",
-      "aliases": [
-        "IceWM"
-      ],
-      "phase": "closed",
-      "first_seen": "2026-11-13",
-      "last_seen": "2026-11-13",
-      "days_seen": 1,
-      "sources_seen": [
-        "hackernews"
-      ],
-      "signal": 0.4,
-      "url": "https://news.ycombinator.com/item?id=50478515",
-      "summary": null,
-      "why_now": null,
-      "researched_at": null,
-      "needs_research": false
-    },
-    {
-      "id": "kyle-jamieson",
-      "name": "kyle jamieson",
-      "aliases": [
-        "kyle jamieson"
-      ],
-      "phase": "closed",
-      "first_seen": "2026-11-13",
-      "last_seen": "2026-11-13",
-      "days_seen": 1,
-      "sources_seen": [
-        "google-trends"
-      ],
-      "signal": 0.4,
-      "url": "https://www.thehindu.com/sport/cricket/ind-vs-nz-odi-series-lack-of-continuity-in-bowling-unit-due-to-injuries-is-frustrating-says-kyle-jamieson/article71685338.ece",
-      "summary": null,
-      "why_now": null,
-      "researched_at": null,
-      "needs_research": false
-    },
-    {
-      "id": "naman-dhir",
-      "name": "naman dhir",
-      "aliases": [
-        "naman dhir"
-      ],
-      "phase": "closed",
-      "first_seen": "2026-11-13",
-      "last_seen": "2026-11-13",
-      "days_seen": 1,
-      "sources_seen": [
-        "google-trends"
-      ],
-      "signal": 0.267,
-      "url": null,
-      "summary": null,
-      "why_now": null,
-      "researched_at": null,
-      "needs_research": false
-    },
-    {
-      "id": "rust-1-100",
-      "name": "Rust 1.100",
-      "aliases": [
-        "Rust 1.100"
-      ],
-      "phase": "closed",
-      "first_seen": "2026-11-13",
-      "last_seen": "2026-11-13",
-      "days_seen": 1,
-      "sources_seen": [
-        "hackernews"
-      ],
-      "signal": 0.267,
-      "url": "https://news.ycombinator.com/item?id=50472038",
-      "summary": null,
-      "why_now": null,
-      "researched_at": null,
-      "needs_research": false
-    },
-    {
-      "id": "a-fazenda-18-enquetes",
-      "name": "a fazenda 18 enquetes",
-      "aliases": [
-        "a fazenda 18 enquetes"
-      ],
-      "phase": "closed",
-      "first_seen": "2026-11-13",
-      "last_seen": "2026-11-13",
-      "days_seen": 1,
-      "sources_seen": [
-        "google-trends"
-      ],
-      "signal": 0.2,
-      "url": "https://f5.folha.uol.com.br/televisao/a-fazenda-18/2026/11/a-fazenda-18-enquete-mostra-quem-deve-ser-eliminado-do-reality.shtml",
-      "summary": null,
-      "why_now": null,
-      "researched_at": null,
-      "needs_research": false
-    },
-    {
-      "id": "anthony-clark-actor",
-      "name": "Anthony Clark (actor)",
-      "aliases": [
-        "Anthony Clark (actor)"
-      ],
-      "phase": "closed",
-      "first_seen": "2026-11-13",
-      "last_seen": "2026-11-13",
-      "days_seen": 1,
-      "sources_seen": [
-        "wikipedia"
-      ],
-      "signal": 0.2,
-      "url": "https://en.wikipedia.org/wiki/Anthony_Clark_(actor)",
-      "summary": null,
-      "why_now": null,
-      "researched_at": null,
-      "needs_research": false
-    },
-    {
-      "id": "2026-united-states-elections",
-      "name": "2026 United States elections",
-      "aliases": [
-        "2026 United States elections",
-        "SS United States"
-      ],
-      "phase": "closed",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-13",
-      "days_seen": 2,
-      "sources_seen": [
-        "wikipedia"
-      ],
-      "signal": 0.114,
-      "url": "https://en.wikipedia.org/wiki/SS_United_States",
-      "summary": null,
-      "why_now": null,
-      "researched_at": null,
-      "needs_research": false
-    },
-    {
-      "id": "scott-colom",
-      "name": "Scott Colom",
-      "aliases": [
-        "Scott Colom"
-      ],
-      "phase": "closed",
-      "first_seen": "2026-11-13",
-      "last_seen": "2026-11-13",
-      "days_seen": 1,
-      "sources_seen": [
-        "wikipedia"
-      ],
-      "signal": 0.1,
-      "url": "https://en.wikipedia.org/wiki/Scott_Colom",
-      "summary": null,
-      "why_now": null,
-      "researched_at": null,
-      "needs_research": false
-    },
-    {
-      "id": "nvidia-announces-ceo-transition",
-      "name": "NVIDIA Announces CEO Transition",
-      "aliases": [
-        "NVIDIA Announces CEO Transition"
-      ],
-      "phase": "closed",
-      "first_seen": "2026-11-13",
-      "last_seen": "2026-11-13",
-      "days_seen": 1,
-      "sources_seen": [
-        "lemmy",
-        "polymarket"
-      ],
-      "signal": 0.092,
-      "url": "https://lemmy.world/post/54323769",
-      "summary": null,
-      "why_now": null,
-      "researched_at": null,
-      "needs_research": false
-    },
-    {
-      "id": "bernard-tomic",
-      "name": "bernard tomic",
-      "aliases": [
-        "bernard tomic"
-      ],
-      "phase": "closed",
-      "first_seen": "2026-11-13",
-      "last_seen": "2026-11-13",
-      "days_seen": 1,
-      "sources_seen": [
-        "google-trends",
-        "polymarket"
-      ],
-      "signal": 0.065,
-      "url": "https://worldtennismagazine.com/bernard-tomic-ends-three-year-title-drought-mondays-with-bob-greene/",
-      "summary": null,
-      "why_now": null,
-      "researched_at": null,
-      "needs_research": false
     }
   ],
   "research_queue": [
+    "jensen-huang",
     "ramayana-part-1",
-    "free-alternative-tv-network-built-from-the-internet-archive",
-    "king-tides-flooding",
-    "xnu-linux-full-os-x-gui-userspace-on-linux"
+    "full-moon-beaver-moon",
+    "stalwart-is-now-a-drop-in-replacement-for-microsoft-exchange"
   ]
 }

@@ -1,0 +1,44 @@
+{
+  "id": "avengers-doomsday",
+  "name": "Avengers: Doomsday",
+  "aliases": [
+    "Avengers: Doomsday"
+  ],
+  "first_seen": "2026-11-24",
+  "last_seen": "2026-11-24",
+  "days_seen": 1,
+  "phase": "new",
+  "sources_seen": [
+    "wikipedia",
+    "youtube"
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-24",
+      "sources": [
+        "wikipedia",
+        "youtube"
+      ],
+      "signal": 0.11666666666666667,
+      "items": [
+        {
+          "source": "wikipedia",
+          "title": "Avengers: Doomsday",
+          "url": "https://en.wikipedia.org/wiki/Avengers%3A_Doomsday",
+          "rank": 15,
+          "movement": "new"
+        },
+        {
+          "source": "youtube",
+          "title": "AVENGERS DOOMSDAY FINAL TRAILER REACTION!",
+          "url": "https://www.youtube.com/watch?v=LfIXOqxQCsg",
+          "rank": 20,
+          "movement": "new"
+        }
+      ]
+    }
+  ],
+  "explainer": null,
+  "explainer_history": [],
+  "needs_research": false
+}

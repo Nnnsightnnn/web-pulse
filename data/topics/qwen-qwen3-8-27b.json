@@ -5,9 +5,9 @@
     "Qwen/Qwen3.8-27B"
   ],
   "first_seen": "2026-11-14",
-  "last_seen": "2026-11-14",
-  "days_seen": 1,
-  "phase": "closed",
+  "last_seen": "2026-11-24",
+  "days_seen": 2,
+  "phase": "climbing",
   "sources_seen": [
     "hackernews",
     "huggingface"
@@ -41,6 +41,30 @@
           "url": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
           "rank": 14,
           "movement": "holding"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-24",
+      "sources": [
+        "hackernews",
+        "huggingface"
+      ],
+      "signal": 0.13852813852813853,
+      "items": [
+        {
+          "source": "hackernews",
+          "title": "NariQ: BF16-level Qwen3.8-27B in a 10 GB file",
+          "url": "https://news.ycombinator.com/item?id=50611402",
+          "rank": 21,
+          "movement": "new"
+        },
+        {
+          "source": "huggingface",
+          "title": "Qwen/Qwen3.8-27B",
+          "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+          "rank": 11,
+          "movement": "falling"
         }
       ]
     }

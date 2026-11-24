@@ -3,13 +3,15 @@
   "name": "Jensen Huang",
   "aliases": [
     "Jensen Huang",
-    "Jensen Huang resigns"
+    "Jensen Huang resigns",
+    "Nvidia Reinstates Jensen Huang as CEO"
   ],
   "first_seen": "2026-11-10",
-  "last_seen": "2026-11-19",
-  "days_seen": 10,
-  "phase": "closed",
+  "last_seen": "2026-11-24",
+  "days_seen": 11,
+  "phase": "climbing",
   "sources_seen": [
+    "bluesky",
     "gdelt-ai",
     "hackernews",
     "lemmy",
@@ -287,9 +289,50 @@
           "movement": "falling"
         }
       ]
+    },
+    {
+      "date": "2026-11-24",
+      "sources": [
+        "bluesky",
+        "gdelt-ai",
+        "hackernews",
+        "lemmy",
+        "wikipedia"
+      ],
+      "signal": 4.283333333333333,
+      "items": [
+        {
+          "source": "wikipedia",
+          "title": "Jensen Huang",
+          "url": "https://en.wikipedia.org/wiki/Jensen_Huang",
+          "rank": 3,
+          "movement": "returning"
+        },
+        {
+          "source": "hackernews",
+          "title": "Nvidia Reinstates Jensen Huang as CEO",
+          "url": "https://news.ycombinator.com/item?id=50611576",
+          "rank": 1,
+          "movement": "new"
+        },
+        {
+          "source": "lemmy",
+          "title": "Nvidia reinstates Jensen Huang as CEO",
+          "url": "https://lemmy.world/post/54756585",
+          "rank": 1,
+          "movement": "new"
+        },
+        {
+          "source": "lemmy",
+          "title": "NVIDIA Board reinstates Jensen Huang as President, CEO and Board Director.",
+          "url": "https://lemmy.world/post/54756595",
+          "rank": 21,
+          "movement": "new"
+        }
+      ]
     }
   ],
   "explainer": null,
   "explainer_history": [],
-  "needs_research": false
+  "needs_research": true
 }
