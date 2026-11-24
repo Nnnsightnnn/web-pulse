@@ -332,7 +332,35 @@
       ]
     }
   ],
-  "explainer": null,
+  "explainer": {
+    "summary": "Jensen Huang is the co-founder of Nvidia. The company's board reinstated him as president, CEO and director on November 23, 2026, eleven days after announcing his resignation.",
+    "why_now": "The reversal came after a sharp drop in Nvidia's stock and after the board said it had received input from senior US government officials. Huang is also scheduled to face congressional questioning in early December.",
+    "background": [
+      "Nvidia announced on November 12, 2026 that Huang had resigned effective immediately. Chief financial officer Colette Kress became interim CEO and Harvey C. Jones was named the company's first Chair. The announcement did not give a reason.",
+      "CNBC reports that the resignation followed reports about Huang's personal conduct, including an alleged relationship with a person described as a Chinese spy. The board has said it will continue an independent investigation, run with outside law firm Wachtell, Lipton, Rosen & Katz, into whether company secrets or national security were compromised. Commenters on Hacker News note the evidence around the spy allegation is unclear.",
+      "CNBC reports that Nvidia shares closed up 31 percent after the reinstatement, after falling nearly 33 percent following Huang's November 8 admission. The board said the reinstatement poses no national security risk. Senator Elizabeth Warren criticized the decision, and Huang is due to testify before a Senate committee on December 3."
+    ],
+    "sources": [
+      {
+        "url": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
+        "title": "NVIDIA Announces CEO Transition",
+        "fetched_at": "2026-11-24T14:39:52Z"
+      },
+      {
+        "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
+        "title": "Nvidia Reinstates Jensen Huang as CEO (CNBC)",
+        "fetched_at": "2026-11-24T14:39:52Z"
+      },
+      {
+        "url": "https://news.ycombinator.com/item?id=50611576",
+        "title": "Hacker News discussion",
+        "fetched_at": "2026-11-24T14:39:52Z"
+      }
+    ],
+    "researched_at": "2026-11-24T14:39:52.252Z",
+    "phase_at_research": "climbing",
+    "engine": "ai"
+  },
   "explainer_history": [],
-  "needs_research": true
+  "needs_research": false
 }

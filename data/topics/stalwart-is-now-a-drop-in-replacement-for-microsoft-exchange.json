@@ -29,7 +29,30 @@
       ]
     }
   ],
-  "explainer": null,
+  "explainer": {
+    "summary": "Stalwart, an open source mail server, says version 1.2.0 released November 23, 2026 can stand in for Microsoft Exchange by speaking Exchange's client protocols. Commenters dispute the phrase drop-in.",
+    "why_now": "The project's announcement post, titled with the drop-in claim, reached the top of Hacker News on release day.",
+    "background": [
+      "The post says Stalwart supports MAPI over HTTP, Exchange Web Services, Exchange ActiveSync and Autodiscover, so clients such as classic Outlook, Apple Mail and phone mail apps can connect. It does not support public folders, archive mailboxes, mobile device management, RPC over HTTP, or NTLM and Kerberos sign-in, and the new Outlook for Windows does not work with it.",
+      "The Exchange support is in the AGPL-licensed Community edition and is disabled by default in official builds.",
+      "On Hacker News, some commenters said drop-in overstates it, since Exchange is also used for calendaring, distribution lists and directory integration, and migrating mailboxes is still required. Others praised Stalwart's quality and resource use."
+    ],
+    "sources": [
+      {
+        "url": "https://stalw.art/blog/microsoft-exchange-replacement/",
+        "title": "Stalwart is now a drop-in replacement for Microsoft Exchange",
+        "fetched_at": "2026-11-24T14:39:52Z"
+      },
+      {
+        "url": "https://news.ycombinator.com/item?id=50620349",
+        "title": "Hacker News discussion",
+        "fetched_at": "2026-11-24T14:39:52Z"
+      }
+    ],
+    "researched_at": "2026-11-24T14:39:52.381Z",
+    "phase_at_research": "new",
+    "engine": "ai"
+  },
   "explainer_history": [],
-  "needs_research": true
+  "needs_research": false
 }

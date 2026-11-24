@@ -29,7 +29,43 @@
       ]
     }
   ],
-  "explainer": null,
-  "explainer_history": [],
-  "needs_research": true
+  "explainer": {
+    "summary": "The Beaver Moon is the traditional name for November's full moon. In 2026 it reached peak fullness at 14:53 UTC on November 24 and counts as a supermoon.",
+    "why_now": "The full moon peaked today, November 24, and Space.com describes it as a supermoon.",
+    "background": [
+      "Space.com says the peak was 9:53 a.m. Eastern time, when the moon was below the horizon in the US, so the best view was the predawn hours of November 24, and it appears fully lit on the evenings of November 23 and 24. Near the horizon it may look yellow-orange.",
+      "The name is linked to the time beavers shelter in their lodges for winter."
+    ],
+    "sources": [
+      {
+        "url": "https://www.space.com/stargazing/november-full-moon-2026-when-where-and-how-to-see-the-beaver-moon",
+        "title": "November full moon 2026 (Space.com)",
+        "fetched_at": "2026-11-24T14:39:52Z"
+      }
+    ],
+    "researched_at": "2026-11-24T14:39:57.367Z",
+    "phase_at_research": "new",
+    "engine": "ai"
+  },
+  "explainer_history": [
+    {
+      "summary": "The Beaver Moon is the traditional name for November's full moon. In 2026 it reached peak fullness at 14:53 UTC on November 24 and counts as a supermoon.",
+      "why_now": "The full moon peaked today, and it is a supermoon, which is when the full moon falls near its closest point to Earth.",
+      "background": [
+        "Space.com says the peak was 9:53 a.m. Eastern time, when the moon was below the horizon in the US, so the best view was the predawn hours of November 24 or the evenings of November 23 and 24. Near the horizon it may look yellow-orange.",
+        "The name is linked to the time beavers shelter in their lodges for winter. Farmers' Almanac reports the supermoon appears about 6.5 percent larger and 13.5 percent brighter than an average full moon, a difference hard to notice by eye. Sources disagree on how many supermoons are in this series, so no count is given here."
+      ],
+      "sources": [
+        {
+          "url": "https://www.space.com/stargazing/november-full-moon-2026-when-where-and-how-to-see-the-beaver-moon",
+          "title": "November full moon 2026 (Space.com)",
+          "fetched_at": "2026-11-24T14:39:52Z"
+        }
+      ],
+      "researched_at": "2026-11-24T14:39:52.343Z",
+      "phase_at_research": "new",
+      "engine": "ai"
+    }
+  ],
+  "needs_research": false
 }
