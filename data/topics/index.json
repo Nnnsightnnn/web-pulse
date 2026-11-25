@@ -27,27 +27,6 @@
       "needs_research": false
     },
     {
-      "id": "ramayana-part-1",
-      "name": "Ramayana: Part 1",
-      "aliases": [
-        "Ramayana: Part 1"
-      ],
-      "phase": "holding",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-25",
-      "days_seen": 17,
-      "sources_seen": [
-        "wikipedia",
-        "youtube"
-      ],
-      "signal": 0.8,
-      "url": "https://en.wikipedia.org/wiki/Ramayana%3A_Part_1",
-      "summary": "Ramayana: Part 1 is a Hindi-language epic film directed by Nitesh Tiwari, the first of two parts adapting Valmiki's Ramayana. It was released worldwide on November 5, 2026.",
-      "why_now": "The film is still drawing attention because of its large box office run, with a reported worldwide gross of about 1,655 crore rupees, and because its sequel has reportedly been pushed back a year.",
-      "researched_at": "2026-11-24T14:39:52.304Z",
-      "needs_research": false
-    },
-    {
       "id": "bangladesh-vs-south-africa",
       "name": "bangladesh vs south africa",
       "aliases": [
@@ -82,10 +61,31 @@
       ],
       "signal": 0.8,
       "url": "https://news.ycombinator.com/item?id=50637220",
-      "summary": null,
-      "why_now": null,
-      "researched_at": null,
-      "needs_research": true
+      "summary": "A Hacker News post of a PDF from OpenAI's math repository about the matrix multiplication exponent being 9/4, tied to a claimed upper bound of n^2.25.",
+      "why_now": "The post follows OpenAI's October 2026 preprints on faster matrix multiplication, which it says an unreleased internal model helped produce. Hacker News commenters disagree about whether the new PDF proves a matching lower bound.",
+      "researched_at": "2026-11-25T07:32:47.050Z",
+      "needs_research": false
+    },
+    {
+      "id": "ramayana-part-1",
+      "name": "Ramayana: Part 1",
+      "aliases": [
+        "Ramayana: Part 1"
+      ],
+      "phase": "holding",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-25",
+      "days_seen": 17,
+      "sources_seen": [
+        "wikipedia",
+        "youtube"
+      ],
+      "signal": 0.8,
+      "url": "https://en.wikipedia.org/wiki/Ramayana%3A_Part_1",
+      "summary": "Ramayana: Part 1 is a Hindi-language epic film directed by Nitesh Tiwari, the first of two parts adapting Valmiki's Ramayana. It was released worldwide on November 5, 2026.",
+      "why_now": "The film is still drawing attention because of its large box office run, with a reported worldwide gross of about 1,655 crore rupees, and because its sequel has reportedly been pushed back a year.",
+      "researched_at": "2026-11-24T14:39:52.304Z",
+      "needs_research": false
     },
     {
       "id": "jensen-huang",
@@ -115,6 +115,26 @@
       "needs_research": false
     },
     {
+      "id": "button-sounds-collection-of-professionally-recorded-button-c",
+      "name": "Button Sounds – collection of professionally-recorded button clicks and presses",
+      "aliases": [
+        "Button Sounds – collection of professionally-recorded button clicks and presses"
+      ],
+      "phase": "new",
+      "first_seen": "2026-11-25",
+      "last_seen": "2026-11-25",
+      "days_seen": 1,
+      "sources_seen": [
+        "hackernews"
+      ],
+      "signal": 0.4,
+      "url": "https://news.ycombinator.com/item?id=50638032",
+      "summary": "Button Sounds is a free collection of recorded button clicks and presses for use in user interfaces, made by developer Josh W. Comeau.",
+      "why_now": "It was posted to Hacker News, where commenters praised the polish and discussed pitch, iOS audio limits and requests such as toggle switch sounds.",
+      "researched_at": "2026-11-25T07:32:47.090Z",
+      "needs_research": false
+    },
+    {
       "id": "royal-derby-hospital-critical-incident",
       "name": "royal derby hospital critical incident",
       "aliases": [
@@ -132,27 +152,7 @@
       "summary": null,
       "why_now": null,
       "researched_at": null,
-      "needs_research": true
-    },
-    {
-      "id": "button-sounds-collection-of-professionally-recorded-button-c",
-      "name": "Button Sounds – collection of professionally-recorded button clicks and presses",
-      "aliases": [
-        "Button Sounds – collection of professionally-recorded button clicks and presses"
-      ],
-      "phase": "new",
-      "first_seen": "2026-11-25",
-      "last_seen": "2026-11-25",
-      "days_seen": 1,
-      "sources_seen": [
-        "hackernews"
-      ],
-      "signal": 0.4,
-      "url": "https://news.ycombinator.com/item?id=50638032",
-      "summary": null,
-      "why_now": null,
-      "researched_at": null,
-      "needs_research": true
+      "needs_research": false
     },
     {
       "id": "gta-6",
@@ -176,10 +176,30 @@
       ],
       "signal": 0.377,
       "url": "https://www.vice.com/en/article/gta-6-trust-halifax-or-not-missable-rewards/",
+      "summary": "Grand Theft Auto VI, Rockstar's open-world game, is now being played and covered with guides.",
+      "why_now": "Players are working through its story, and outlets are publishing quest guides, such as a VICE guide dated November 22, 2026 on a Chapter 3 quest.",
+      "researched_at": "2026-11-25T07:32:47.125Z",
+      "needs_research": false
+    },
+    {
+      "id": "models-can-communicate-via-inference-servers-despite-being-s",
+      "name": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
+      "aliases": [
+        "Models Can Communicate via Inference Servers Despite Being Sandboxed"
+      ],
+      "phase": "new",
+      "first_seen": "2026-11-25",
+      "last_seen": "2026-11-25",
+      "days_seen": 1,
+      "sources_seen": [
+        "hackernews"
+      ],
+      "signal": 0.267,
+      "url": "https://news.ycombinator.com/item?id=50637686",
       "summary": null,
       "why_now": null,
       "researched_at": null,
-      "needs_research": true
+      "needs_research": false
     },
     {
       "id": "ternary-bonsai-2-5-27b",
@@ -217,26 +237,6 @@
       ],
       "signal": 0.267,
       "url": "https://www.gold.org/goldhub/gold-focus/2026/11/india-gold-market-update-gold-demand-gets-festive-boost",
-      "summary": null,
-      "why_now": null,
-      "researched_at": null,
-      "needs_research": false
-    },
-    {
-      "id": "models-can-communicate-via-inference-servers-despite-being-s",
-      "name": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
-      "aliases": [
-        "Models Can Communicate via Inference Servers Despite Being Sandboxed"
-      ],
-      "phase": "new",
-      "first_seen": "2026-11-25",
-      "last_seen": "2026-11-25",
-      "days_seen": 1,
-      "sources_seen": [
-        "hackernews"
-      ],
-      "signal": 0.267,
-      "url": "https://news.ycombinator.com/item?id=50637686",
       "summary": null,
       "why_now": null,
       "researched_at": null,
@@ -283,26 +283,6 @@
       "needs_research": false
     },
     {
-      "id": "the-hunger-games-sunrise-on-the-reaping",
-      "name": "The Hunger Games: Sunrise on the Reaping",
-      "aliases": [
-        "The Hunger Games: Sunrise on the Reaping"
-      ],
-      "phase": "holding",
-      "first_seen": "2026-11-21",
-      "last_seen": "2026-11-25",
-      "days_seen": 5,
-      "sources_seen": [
-        "wikipedia"
-      ],
-      "signal": 0.16,
-      "url": "https://en.wikipedia.org/wiki/The_Hunger_Games%3A_Sunrise_on_the_Reaping",
-      "summary": null,
-      "why_now": null,
-      "researched_at": null,
-      "needs_research": false
-    },
-    {
       "id": "ben-stiller",
       "name": "ben stiller",
       "aliases": [
@@ -317,6 +297,26 @@
       ],
       "signal": 0.16,
       "url": "https://editorial.rottentomatoes.com/article/focker-in-law-first-reviews/",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "the-hunger-games-sunrise-on-the-reaping",
+      "name": "The Hunger Games: Sunrise on the Reaping",
+      "aliases": [
+        "The Hunger Games: Sunrise on the Reaping"
+      ],
+      "phase": "holding",
+      "first_seen": "2026-11-21",
+      "last_seen": "2026-11-25",
+      "days_seen": 5,
+      "sources_seen": [
+        "wikipedia"
+      ],
+      "signal": 0.16,
+      "url": "https://en.wikipedia.org/wiki/The_Hunger_Games%3A_Sunrise_on_the_Reaping",
       "summary": null,
       "why_now": null,
       "researched_at": null,
@@ -2549,10 +2549,5 @@
       "needs_research": false
     }
   ],
-  "research_queue": [
-    "matrix-multiplication-is-n-2-25-pdf",
-    "royal-derby-hospital-critical-incident",
-    "button-sounds-collection-of-professionally-recorded-button-c",
-    "gta-6"
-  ]
+  "research_queue": []
 }
