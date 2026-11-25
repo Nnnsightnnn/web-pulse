@@ -5,9 +5,9 @@
     "Moon"
   ],
   "first_seen": "2026-11-24",
-  "last_seen": "2026-11-24",
-  "days_seen": 1,
-  "phase": "new",
+  "last_seen": "2026-11-25",
+  "days_seen": 2,
+  "phase": "holding",
   "sources_seen": [
     "wikipedia"
   ],
@@ -25,6 +25,22 @@
           "url": "https://en.wikipedia.org/wiki/Moon",
           "rank": 4,
           "movement": "new"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-25",
+      "sources": [
+        "wikipedia"
+      ],
+      "signal": 0.2,
+      "items": [
+        {
+          "source": "wikipedia",
+          "title": "Moon",
+          "url": "https://en.wikipedia.org/wiki/Moon",
+          "rank": 4,
+          "movement": "holding"
         }
       ]
     }

@@ -5,8 +5,8 @@
     "The Hunger Games: Sunrise on the Reaping"
   ],
   "first_seen": "2026-11-21",
-  "last_seen": "2026-11-24",
-  "days_seen": 4,
+  "last_seen": "2026-11-25",
+  "days_seen": 5,
   "phase": "holding",
   "sources_seen": [
     "wikipedia"
@@ -62,6 +62,22 @@
     },
     {
       "date": "2026-11-24",
+      "sources": [
+        "wikipedia"
+      ],
+      "signal": 0.16,
+      "items": [
+        {
+          "source": "wikipedia",
+          "title": "The Hunger Games: Sunrise on the Reaping",
+          "url": "https://en.wikipedia.org/wiki/The_Hunger_Games%3A_Sunrise_on_the_Reaping",
+          "rank": 5,
+          "movement": "holding"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-25",
       "sources": [
         "wikipedia"
       ],

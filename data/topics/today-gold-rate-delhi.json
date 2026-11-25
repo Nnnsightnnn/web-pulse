@@ -1,0 +1,35 @@
+{
+  "id": "today-gold-rate-delhi",
+  "name": "today gold rate delhi",
+  "aliases": [
+    "today gold rate delhi"
+  ],
+  "first_seen": "2026-11-25",
+  "last_seen": "2026-11-25",
+  "days_seen": 1,
+  "phase": "new",
+  "sources_seen": [
+    "google-trends"
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-25",
+      "sources": [
+        "google-trends"
+      ],
+      "signal": 0.26666666666666666,
+      "items": [
+        {
+          "source": "google-trends",
+          "title": "today gold rate delhi",
+          "url": "https://www.gold.org/goldhub/gold-focus/2026/11/india-gold-market-update-gold-demand-gets-festive-boost",
+          "rank": 3,
+          "movement": "new"
+        }
+      ]
+    }
+  ],
+  "explainer": null,
+  "explainer_history": [],
+  "needs_research": false
+}

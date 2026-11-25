@@ -7,9 +7,9 @@
     "Nvidia Reinstates Jensen Huang as CEO"
   ],
   "first_seen": "2026-11-10",
-  "last_seen": "2026-11-24",
-  "days_seen": 11,
-  "phase": "climbing",
+  "last_seen": "2026-11-25",
+  "days_seen": 12,
+  "phase": "holding",
   "sources_seen": [
     "bluesky",
     "gdelt-ai",
@@ -327,6 +327,30 @@
           "title": "NVIDIA Board reinstates Jensen Huang as President, CEO and Board Director.",
           "url": "https://lemmy.world/post/54756595",
           "rank": 21,
+          "movement": "new"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-25",
+      "sources": [
+        "gdelt-ai",
+        "wikipedia"
+      ],
+      "signal": 0.6833333333333333,
+      "items": [
+        {
+          "source": "wikipedia",
+          "title": "Jensen Huang",
+          "url": "https://en.wikipedia.org/wiki/Jensen_Huang",
+          "rank": 3,
+          "movement": "holding"
+        },
+        {
+          "source": "gdelt-ai",
+          "title": "At AI speed , Nvidia Jensen Huang finds exoneration",
+          "url": "https://www.asiaone.com:443/world/ai-speed-nvidias-jensen-huang-finds-exoneration",
+          "rank": 12,
           "movement": "new"
         }
       ]

@@ -6,12 +6,13 @@
     "PLAYING GTA 6 FOR THE FIRST TIME (PART 1)",
     "PLAYING GTA 6 FOR THE FIRST TIME (PART 3)",
     "gta 6 chapter 2 mission list",
-    "vespucci island gta 6"
+    "vespucci island gta 6",
+    "GTA 6 #2"
   ],
   "first_seen": "2026-11-18",
-  "last_seen": "2026-11-24",
-  "days_seen": 5,
-  "phase": "holding",
+  "last_seen": "2026-11-25",
+  "days_seen": 6,
+  "phase": "climbing",
   "sources_seen": [
     "google-trends",
     "polymarket",
@@ -201,9 +202,33 @@
           "movement": "new"
         }
       ]
+    },
+    {
+      "date": "2026-11-25",
+      "sources": [
+        "google-trends",
+        "youtube"
+      ],
+      "signal": 0.37681159420289856,
+      "items": [
+        {
+          "source": "google-trends",
+          "title": "dubious provenance gta 6",
+          "url": "https://www.vice.com/en/article/gta-6-trust-halifax-or-not-missable-rewards/",
+          "rank": 23,
+          "movement": "new"
+        },
+        {
+          "source": "youtube",
+          "title": "GTA 6 #2",
+          "url": "https://www.youtube.com/watch?v=umDq3LY7sFA",
+          "rank": 3,
+          "movement": "new"
+        }
+      ]
     }
   ],
   "explainer": null,
   "explainer_history": [],
-  "needs_research": false
+  "needs_research": true
 }

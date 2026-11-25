@@ -1,34 +1,7 @@
 {
-  "generated_at": "2026-11-24T06:16:38.441Z",
-  "date": "2026-11-24",
+  "generated_at": "2026-11-25T06:16:43.641Z",
+  "date": "2026-11-25",
   "topics": [
-    {
-      "id": "jensen-huang",
-      "name": "Jensen Huang",
-      "aliases": [
-        "Jensen Huang",
-        "Jensen Huang resigns",
-        "Nvidia Reinstates Jensen Huang as CEO"
-      ],
-      "phase": "climbing",
-      "first_seen": "2026-11-10",
-      "last_seen": "2026-11-24",
-      "days_seen": 11,
-      "sources_seen": [
-        "bluesky",
-        "gdelt-ai",
-        "hackernews",
-        "lemmy",
-        "polymarket",
-        "wikipedia"
-      ],
-      "signal": 4.283,
-      "url": "https://en.wikipedia.org/wiki/Jensen_Huang",
-      "summary": "Jensen Huang is the co-founder of Nvidia. The company's board reinstated him as president, CEO and director on November 23, 2026, eleven days after announcing his resignation.",
-      "why_now": "The reversal came after a sharp drop in Nvidia's stock and after the board said it had received input from senior US government officials. Huang is also scheduled to face congressional questioning in early December.",
-      "researched_at": "2026-11-24T14:39:52.252Z",
-      "needs_research": false
-    },
     {
       "id": "grand-theft-auto-vi",
       "name": "Grand Theft Auto VI",
@@ -36,17 +9,17 @@
         "Grand Theft Auto VI",
         "Grand Theft Auto"
       ],
-      "phase": "climbing",
+      "phase": "holding",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-24",
-      "days_seen": 7,
+      "last_seen": "2026-11-25",
+      "days_seen": 8,
       "sources_seen": [
         "lemmy",
         "steam",
         "wikipedia",
         "youtube"
       ],
-      "signal": 1.15,
+      "signal": 1.011,
       "url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI",
       "summary": "Rockstar's Grand Theft Auto VI launched on November 19, 2026, on PlayStation 5 and Xbox Series X/S, and this weekend is its first on sale.",
       "why_now": "This is launch week. Sony said on November 10 it had become the most pre-ordered game in PlayStation Store history, and digital pre-loads of up to 212 GB opened nine days before release.",
@@ -61,8 +34,8 @@
       ],
       "phase": "holding",
       "first_seen": "2026-11-09",
-      "last_seen": "2026-11-24",
-      "days_seen": 16,
+      "last_seen": "2026-11-25",
+      "days_seen": 17,
       "sources_seen": [
         "wikipedia",
         "youtube"
@@ -75,64 +48,111 @@
       "needs_research": false
     },
     {
-      "id": "uae-vs-india-a",
-      "name": "uae vs india a",
+      "id": "bangladesh-vs-south-africa",
+      "name": "bangladesh vs south africa",
       "aliases": [
-        "uae vs india a"
+        "bangladesh vs south africa"
       ],
       "phase": "new",
-      "first_seen": "2026-11-24",
-      "last_seen": "2026-11-24",
+      "first_seen": "2026-11-25",
+      "last_seen": "2026-11-25",
       "days_seen": 1,
       "sources_seen": [
         "google-trends"
       ],
       "signal": 0.8,
-      "url": "https://timesofindia.indiatimes.com/sports/cricket/india-a-vs-uae-live-score-acc-men-asia-cup-rising-stars-2026-group-b-tilak-varma-vaibhav-sooryavanshi-scorecard-live-streaming/liveblog/136118069.cms",
+      "url": "https://www.cricbuzz.com/cricket-news/141047/ackerman-goes-where-others-fear-to-tread-cricbuzzcom",
       "summary": null,
       "why_now": null,
       "researched_at": null,
       "needs_research": false
     },
     {
-      "id": "full-moon-beaver-moon",
-      "name": "full moon beaver moon",
+      "id": "matrix-multiplication-is-n-2-25-pdf",
+      "name": "Matrix Multiplication is Θ(n^2.25) [pdf]",
       "aliases": [
-        "full moon beaver moon"
+        "Matrix Multiplication is Θ(n^2.25) [pdf]"
       ],
       "phase": "new",
-      "first_seen": "2026-11-24",
-      "last_seen": "2026-11-24",
+      "first_seen": "2026-11-25",
+      "last_seen": "2026-11-25",
+      "days_seen": 1,
+      "sources_seen": [
+        "hackernews"
+      ],
+      "signal": 0.8,
+      "url": "https://news.ycombinator.com/item?id=50637220",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": true
+    },
+    {
+      "id": "jensen-huang",
+      "name": "Jensen Huang",
+      "aliases": [
+        "Jensen Huang",
+        "Jensen Huang resigns",
+        "Nvidia Reinstates Jensen Huang as CEO"
+      ],
+      "phase": "holding",
+      "first_seen": "2026-11-10",
+      "last_seen": "2026-11-25",
+      "days_seen": 12,
+      "sources_seen": [
+        "bluesky",
+        "gdelt-ai",
+        "hackernews",
+        "lemmy",
+        "polymarket",
+        "wikipedia"
+      ],
+      "signal": 0.683,
+      "url": "https://en.wikipedia.org/wiki/Jensen_Huang",
+      "summary": "Jensen Huang is the co-founder of Nvidia. The company's board reinstated him as president, CEO and director on November 23, 2026, eleven days after announcing his resignation.",
+      "why_now": "The reversal came after a sharp drop in Nvidia's stock and after the board said it had received input from senior US government officials. Huang is also scheduled to face congressional questioning in early December.",
+      "researched_at": "2026-11-24T14:39:52.252Z",
+      "needs_research": false
+    },
+    {
+      "id": "royal-derby-hospital-critical-incident",
+      "name": "royal derby hospital critical incident",
+      "aliases": [
+        "royal derby hospital critical incident"
+      ],
+      "phase": "new",
+      "first_seen": "2026-11-25",
+      "last_seen": "2026-11-25",
       "days_seen": 1,
       "sources_seen": [
         "google-trends"
       ],
       "signal": 0.4,
-      "url": "https://www.bbc.co.uk/news/videos/cw7v27n5d38go",
-      "summary": "The Beaver Moon is the traditional name for November's full moon. In 2026 it reached peak fullness at 14:53 UTC on November 24 and counts as a supermoon.",
-      "why_now": "The full moon peaked today, November 24, and Space.com describes it as a supermoon.",
-      "researched_at": "2026-11-24T14:39:57.367Z",
-      "needs_research": false
+      "url": "https://www.bbc.co.uk/news/articles/cw62pv0g6j12o",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": true
     },
     {
-      "id": "stalwart-is-now-a-drop-in-replacement-for-microsoft-exchange",
-      "name": "Stalwart is now a drop-in replacement for Microsoft Exchange",
+      "id": "button-sounds-collection-of-professionally-recorded-button-c",
+      "name": "Button Sounds – collection of professionally-recorded button clicks and presses",
       "aliases": [
-        "Stalwart is now a drop-in replacement for Microsoft Exchange"
+        "Button Sounds – collection of professionally-recorded button clicks and presses"
       ],
       "phase": "new",
-      "first_seen": "2026-11-24",
-      "last_seen": "2026-11-24",
+      "first_seen": "2026-11-25",
+      "last_seen": "2026-11-25",
       "days_seen": 1,
       "sources_seen": [
         "hackernews"
       ],
       "signal": 0.4,
-      "url": "https://news.ycombinator.com/item?id=50620349",
-      "summary": "Stalwart, an open source mail server, says version 1.2.0 released November 23, 2026 can stand in for Microsoft Exchange by speaking Exchange's client protocols. Commenters dispute the phrase drop-in.",
-      "why_now": "The project's announcement post, titled with the drop-in claim, reached the top of Hacker News on release day.",
-      "researched_at": "2026-11-24T14:39:52.381Z",
-      "needs_research": false
+      "url": "https://news.ycombinator.com/item?id=50638032",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": true
     },
     {
       "id": "gta-6",
@@ -142,60 +162,81 @@
         "PLAYING GTA 6 FOR THE FIRST TIME (PART 1)",
         "PLAYING GTA 6 FOR THE FIRST TIME (PART 3)",
         "gta 6 chapter 2 mission list",
-        "vespucci island gta 6"
+        "vespucci island gta 6",
+        "GTA 6 #2"
       ],
-      "phase": "holding",
+      "phase": "climbing",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-24",
-      "days_seen": 5,
+      "last_seen": "2026-11-25",
+      "days_seen": 6,
       "sources_seen": [
         "google-trends",
         "polymarket",
         "youtube"
       ],
-      "signal": 0.275,
-      "url": "https://www.vice.com/en/article/gta-6-paul-walker-mitsubishi-eclipse-location/",
+      "signal": 0.377,
+      "url": "https://www.vice.com/en/article/gta-6-trust-halifax-or-not-missable-rewards/",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": true
+    },
+    {
+      "id": "ternary-bonsai-2-5-27b",
+      "name": "Ternary Bonsai 2.5 27B",
+      "aliases": [
+        "Ternary Bonsai 2.5 27B"
+      ],
+      "phase": "new",
+      "first_seen": "2026-11-25",
+      "last_seen": "2026-11-25",
+      "days_seen": 1,
+      "sources_seen": [
+        "hackernews",
+        "huggingface"
+      ],
+      "signal": 0.267,
+      "url": "https://news.ycombinator.com/item?id=50633922",
       "summary": null,
       "why_now": null,
       "researched_at": null,
       "needs_research": false
     },
     {
-      "id": "ladybird-is-now-in-alpha",
-      "name": "Ladybird is now in alpha",
+      "id": "today-gold-rate-delhi",
+      "name": "today gold rate delhi",
       "aliases": [
-        "Ladybird is now in alpha"
+        "today gold rate delhi"
       ],
       "phase": "new",
-      "first_seen": "2026-11-24",
-      "last_seen": "2026-11-24",
+      "first_seen": "2026-11-25",
+      "last_seen": "2026-11-25",
+      "days_seen": 1,
+      "sources_seen": [
+        "google-trends"
+      ],
+      "signal": 0.267,
+      "url": "https://www.gold.org/goldhub/gold-focus/2026/11/india-gold-market-update-gold-demand-gets-festive-boost",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "models-can-communicate-via-inference-servers-despite-being-s",
+      "name": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
+      "aliases": [
+        "Models Can Communicate via Inference Servers Despite Being Sandboxed"
+      ],
+      "phase": "new",
+      "first_seen": "2026-11-25",
+      "last_seen": "2026-11-25",
       "days_seen": 1,
       "sources_seen": [
         "hackernews"
       ],
       "signal": 0.267,
-      "url": "https://news.ycombinator.com/item?id=50614249",
-      "summary": null,
-      "why_now": null,
-      "researched_at": null,
-      "needs_research": false
-    },
-    {
-      "id": "lakers-vs-jazz",
-      "name": "lakers vs jazz",
-      "aliases": [
-        "lakers vs jazz",
-        "lakers x jazz"
-      ],
-      "phase": "climbing",
-      "first_seen": "2026-11-19",
-      "last_seen": "2026-11-24",
-      "days_seen": 2,
-      "sources_seen": [
-        "google-trends"
-      ],
-      "signal": 0.267,
-      "url": "https://ge.globo.com/basquete/nba/noticia/2026/11/19/jazz-surpreende-lakers-encerra-serie-de-nove-vitorias-e-frustra-noite-de-doncic.ghtml",
+      "url": "https://news.ycombinator.com/item?id=50637686",
       "summary": null,
       "why_now": null,
       "researched_at": null,
@@ -207,10 +248,10 @@
       "aliases": [
         "Moon"
       ],
-      "phase": "new",
+      "phase": "holding",
       "first_seen": "2026-11-24",
-      "last_seen": "2026-11-24",
-      "days_seen": 1,
+      "last_seen": "2026-11-25",
+      "days_seen": 2,
       "sources_seen": [
         "wikipedia"
       ],
@@ -222,20 +263,20 @@
       "needs_research": false
     },
     {
-      "id": "bolsa-familia-dezembro",
-      "name": "bolsa familia dezembro",
+      "id": "volkswagen-ag",
+      "name": "volkswagen ag",
       "aliases": [
-        "bolsa familia dezembro"
+        "volkswagen ag"
       ],
       "phase": "new",
-      "first_seen": "2026-11-24",
-      "last_seen": "2026-11-24",
+      "first_seen": "2026-11-25",
+      "last_seen": "2026-11-25",
       "days_seen": 1,
       "sources_seen": [
         "google-trends"
       ],
-      "signal": 0.16,
-      "url": "https://istoedinheiro.com.br/bolsa-familia-dezembro-2026-calendario-antecipado-nis",
+      "signal": 0.2,
+      "url": "https://www.ndr.de/nachrichten/niedersachsen/oldenburg_ostfriesland/tarifstreit-vw-spitze-will-verhandlungen-bis-jahresende-abschliessen,vw-1734.html",
       "summary": null,
       "why_now": null,
       "researched_at": null,
@@ -249,8 +290,8 @@
       ],
       "phase": "holding",
       "first_seen": "2026-11-21",
-      "last_seen": "2026-11-24",
-      "days_seen": 4,
+      "last_seen": "2026-11-25",
+      "days_seen": 5,
       "sources_seen": [
         "wikipedia"
       ],
@@ -262,21 +303,20 @@
       "needs_research": false
     },
     {
-      "id": "qwen-qwen3-8-27b",
-      "name": "Qwen/Qwen3.8-27B",
+      "id": "ben-stiller",
+      "name": "ben stiller",
       "aliases": [
-        "Qwen/Qwen3.8-27B"
+        "ben stiller"
       ],
-      "phase": "climbing",
-      "first_seen": "2026-11-14",
-      "last_seen": "2026-11-24",
-      "days_seen": 2,
+      "phase": "new",
+      "first_seen": "2026-11-25",
+      "last_seen": "2026-11-25",
+      "days_seen": 1,
       "sources_seen": [
-        "hackernews",
-        "huggingface"
+        "google-trends"
       ],
-      "signal": 0.139,
-      "url": "https://news.ycombinator.com/item?id=50611402",
+      "signal": 0.16,
+      "url": "https://editorial.rottentomatoes.com/article/focker-in-law-first-reviews/",
       "summary": null,
       "why_now": null,
       "researched_at": null,
@@ -288,10 +328,10 @@
       "aliases": [
         "Linux"
       ],
-      "phase": "new",
+      "phase": "holding",
       "first_seen": "2026-11-24",
-      "last_seen": "2026-11-24",
-      "days_seen": 1,
+      "last_seen": "2026-11-25",
+      "days_seen": 2,
       "sources_seen": [
         "wikipedia"
       ],
@@ -308,10 +348,10 @@
       "aliases": [
         "Avengers: Doomsday"
       ],
-      "phase": "new",
+      "phase": "holding",
       "first_seen": "2026-11-24",
-      "last_seen": "2026-11-24",
-      "days_seen": 1,
+      "last_seen": "2026-11-25",
+      "days_seen": 2,
       "sources_seen": [
         "wikipedia",
         "youtube"
@@ -329,10 +369,10 @@
       "aliases": [
         "Blood"
       ],
-      "phase": "new",
+      "phase": "holding",
       "first_seen": "2026-11-24",
-      "last_seen": "2026-11-24",
-      "days_seen": 1,
+      "last_seen": "2026-11-25",
+      "days_seen": 2,
       "sources_seen": [
         "wikipedia"
       ],
@@ -353,8 +393,8 @@
       ],
       "phase": "holding",
       "first_seen": "2026-11-21",
-      "last_seen": "2026-11-24",
-      "days_seen": 4,
+      "last_seen": "2026-11-25",
+      "days_seen": 5,
       "sources_seen": [
         "hackernews",
         "polymarket",
@@ -373,15 +413,157 @@
       "aliases": [
         "Experience machine"
       ],
-      "phase": "new",
+      "phase": "holding",
       "first_seen": "2026-11-24",
-      "last_seen": "2026-11-24",
-      "days_seen": 1,
+      "last_seen": "2026-11-25",
+      "days_seen": 2,
       "sources_seen": [
         "wikipedia"
       ],
       "signal": 0.08,
       "url": "https://en.wikipedia.org/wiki/Experience_machine",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "uae-vs-india-a",
+      "name": "uae vs india a",
+      "aliases": [
+        "uae vs india a"
+      ],
+      "phase": "fading",
+      "first_seen": "2026-11-24",
+      "last_seen": "2026-11-24",
+      "days_seen": 1,
+      "sources_seen": [
+        "google-trends"
+      ],
+      "signal": 0.8,
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/india-a-vs-uae-live-score-acc-men-asia-cup-rising-stars-2026-group-b-tilak-varma-vaibhav-sooryavanshi-scorecard-live-streaming/liveblog/136118069.cms",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "full-moon-beaver-moon",
+      "name": "full moon beaver moon",
+      "aliases": [
+        "full moon beaver moon"
+      ],
+      "phase": "fading",
+      "first_seen": "2026-11-24",
+      "last_seen": "2026-11-24",
+      "days_seen": 1,
+      "sources_seen": [
+        "google-trends"
+      ],
+      "signal": 0.4,
+      "url": "https://www.bbc.co.uk/news/videos/cw7v27n5d38go",
+      "summary": "The Beaver Moon is the traditional name for November's full moon. In 2026 it reached peak fullness at 14:53 UTC on November 24 and counts as a supermoon.",
+      "why_now": "The full moon peaked today, November 24, and Space.com describes it as a supermoon.",
+      "researched_at": "2026-11-24T14:39:57.367Z",
+      "needs_research": false
+    },
+    {
+      "id": "stalwart-is-now-a-drop-in-replacement-for-microsoft-exchange",
+      "name": "Stalwart is now a drop-in replacement for Microsoft Exchange",
+      "aliases": [
+        "Stalwart is now a drop-in replacement for Microsoft Exchange"
+      ],
+      "phase": "fading",
+      "first_seen": "2026-11-24",
+      "last_seen": "2026-11-24",
+      "days_seen": 1,
+      "sources_seen": [
+        "hackernews"
+      ],
+      "signal": 0.4,
+      "url": "https://news.ycombinator.com/item?id=50620349",
+      "summary": "Stalwart, an open source mail server, says version 1.2.0 released November 23, 2026 can stand in for Microsoft Exchange by speaking Exchange's client protocols. Commenters dispute the phrase drop-in.",
+      "why_now": "The project's announcement post, titled with the drop-in claim, reached the top of Hacker News on release day.",
+      "researched_at": "2026-11-24T14:39:52.381Z",
+      "needs_research": false
+    },
+    {
+      "id": "ladybird-is-now-in-alpha",
+      "name": "Ladybird is now in alpha",
+      "aliases": [
+        "Ladybird is now in alpha"
+      ],
+      "phase": "fading",
+      "first_seen": "2026-11-24",
+      "last_seen": "2026-11-24",
+      "days_seen": 1,
+      "sources_seen": [
+        "hackernews"
+      ],
+      "signal": 0.267,
+      "url": "https://news.ycombinator.com/item?id=50614249",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "lakers-vs-jazz",
+      "name": "lakers vs jazz",
+      "aliases": [
+        "lakers vs jazz",
+        "lakers x jazz"
+      ],
+      "phase": "fading",
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-24",
+      "days_seen": 2,
+      "sources_seen": [
+        "google-trends"
+      ],
+      "signal": 0.267,
+      "url": "https://ge.globo.com/basquete/nba/noticia/2026/11/19/jazz-surpreende-lakers-encerra-serie-de-nove-vitorias-e-frustra-noite-de-doncic.ghtml",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "bolsa-familia-dezembro",
+      "name": "bolsa familia dezembro",
+      "aliases": [
+        "bolsa familia dezembro"
+      ],
+      "phase": "fading",
+      "first_seen": "2026-11-24",
+      "last_seen": "2026-11-24",
+      "days_seen": 1,
+      "sources_seen": [
+        "google-trends"
+      ],
+      "signal": 0.16,
+      "url": "https://istoedinheiro.com.br/bolsa-familia-dezembro-2026-calendario-antecipado-nis",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "qwen-qwen3-8-27b",
+      "name": "Qwen/Qwen3.8-27B",
+      "aliases": [
+        "Qwen/Qwen3.8-27B"
+      ],
+      "phase": "fading",
+      "first_seen": "2026-11-14",
+      "last_seen": "2026-11-24",
+      "days_seen": 2,
+      "sources_seen": [
+        "hackernews",
+        "huggingface"
+      ],
+      "signal": 0.139,
+      "url": "https://news.ycombinator.com/item?id=50611402",
       "summary": null,
       "why_now": null,
       "researched_at": null,
@@ -859,7 +1041,7 @@
       "aliases": [
         "Hurried Announcement: Alessandro Masullo GRH"
       ],
-      "phase": "fading",
+      "phase": "closed",
       "first_seen": "2026-11-21",
       "last_seen": "2026-11-21",
       "days_seen": 1,
@@ -879,7 +1061,7 @@
       "aliases": [
         "ziaire williams"
       ],
-      "phase": "fading",
+      "phase": "closed",
       "first_seen": "2026-11-21",
       "last_seen": "2026-11-21",
       "days_seen": 1,
@@ -899,7 +1081,7 @@
       "aliases": [
         "anshul kamboj"
       ],
-      "phase": "fading",
+      "phase": "closed",
       "first_seen": "2026-11-21",
       "last_seen": "2026-11-21",
       "days_seen": 1,
@@ -919,7 +1101,7 @@
       "aliases": [
         "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]"
       ],
-      "phase": "fading",
+      "phase": "closed",
       "first_seen": "2026-11-21",
       "last_seen": "2026-11-21",
       "days_seen": 1,
@@ -941,7 +1123,7 @@
         "sri lanka vs pakistan",
         "sri lanka a vs hong kong"
       ],
-      "phase": "fading",
+      "phase": "closed",
       "first_seen": "2026-11-11",
       "last_seen": "2026-11-21",
       "days_seen": 5,
@@ -961,7 +1143,7 @@
       "aliases": [
         "universität leipzig"
       ],
-      "phase": "fading",
+      "phase": "closed",
       "first_seen": "2026-11-21",
       "last_seen": "2026-11-21",
       "days_seen": 1,
@@ -981,7 +1163,7 @@
       "aliases": [
         "Ken McElroy"
       ],
-      "phase": "fading",
+      "phase": "closed",
       "first_seen": "2026-11-20",
       "last_seen": "2026-11-21",
       "days_seen": 2,
@@ -1002,7 +1184,7 @@
         "when is black friday",
         "biggest black friday deals"
       ],
-      "phase": "fading",
+      "phase": "closed",
       "first_seen": "2026-11-20",
       "last_seen": "2026-11-21",
       "days_seen": 2,
@@ -1022,7 +1204,7 @@
       "aliases": [
         "Levent Alpöge"
       ],
-      "phase": "fading",
+      "phase": "closed",
       "first_seen": "2026-11-21",
       "last_seen": "2026-11-21",
       "days_seen": 1,
@@ -1042,7 +1224,7 @@
       "aliases": [
         "Fiona (hippopotamus)"
       ],
-      "phase": "fading",
+      "phase": "closed",
       "first_seen": "2026-11-21",
       "last_seen": "2026-11-21",
       "days_seen": 1,
@@ -2365,250 +2547,12 @@
       "why_now": null,
       "researched_at": null,
       "needs_research": false
-    },
-    {
-      "id": "nvidia-allegedly-engineered-scarcity-by-funding-ai-startups",
-      "name": "Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs",
-      "aliases": [
-        "Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs"
-      ],
-      "phase": "closed",
-      "first_seen": "2026-11-14",
-      "last_seen": "2026-11-14",
-      "days_seen": 1,
-      "sources_seen": [
-        "hackernews",
-        "mastodon-trending"
-      ],
-      "signal": 0.971,
-      "url": "https://news.ycombinator.com/item?id=50493251",
-      "summary": null,
-      "why_now": null,
-      "researched_at": null,
-      "needs_research": false
-    },
-    {
-      "id": "epfo",
-      "name": "epfo",
-      "aliases": [
-        "epfo"
-      ],
-      "phase": "closed",
-      "first_seen": "2026-11-14",
-      "last_seen": "2026-11-14",
-      "days_seen": 1,
-      "sources_seen": [
-        "google-trends"
-      ],
-      "signal": 0.8,
-      "url": "https://hr.economictimes.indiatimes.com/news/industry/epfo-cbt-meeting-on-nov-19-may-discuss-hike-in-minimum-eps-pension-to-rs-3000/135726531?utm_source=portal_category_widget&amp;utm_medium=homepage",
-      "summary": null,
-      "why_now": null,
-      "researched_at": null,
-      "needs_research": false
-    },
-    {
-      "id": "ggml-v1-0-0",
-      "name": "Ggml v1.0.0",
-      "aliases": [
-        "Ggml v1.0.0"
-      ],
-      "phase": "closed",
-      "first_seen": "2026-11-14",
-      "last_seen": "2026-11-14",
-      "days_seen": 1,
-      "sources_seen": [
-        "hackernews"
-      ],
-      "signal": 0.8,
-      "url": "https://news.ycombinator.com/item?id=50493062",
-      "summary": null,
-      "why_now": null,
-      "researched_at": null,
-      "needs_research": false
-    },
-    {
-      "id": "show-hn-live-map-of-u-s-flights-during-tonight-s-faa-nationw",
-      "name": "Show HN: Live map of U.S. flights during tonight's FAA nationwide ground stop",
-      "aliases": [
-        "Show HN: Live map of U.S. flights during tonight's FAA nationwide ground stop"
-      ],
-      "phase": "closed",
-      "first_seen": "2026-11-14",
-      "last_seen": "2026-11-14",
-      "days_seen": 1,
-      "sources_seen": [
-        "hackernews",
-        "lemmy"
-      ],
-      "signal": 0.301,
-      "url": "https://news.ycombinator.com/item?id=50491545",
-      "summary": null,
-      "why_now": null,
-      "researched_at": null,
-      "needs_research": false
-    },
-    {
-      "id": "faa-issues-national-ground-stop-lifted-4-5-hours-later",
-      "name": "FAA issues national ground stop – lifted 4.5 hours later",
-      "aliases": [
-        "FAA issues national ground stop – lifted 4.5 hours later"
-      ],
-      "phase": "closed",
-      "first_seen": "2026-11-14",
-      "last_seen": "2026-11-14",
-      "days_seen": 1,
-      "sources_seen": [
-        "hackernews"
-      ],
-      "signal": 0.267,
-      "url": "https://news.ycombinator.com/item?id=50489641",
-      "summary": null,
-      "why_now": null,
-      "researched_at": null,
-      "needs_research": false
-    },
-    {
-      "id": "max-dowman",
-      "name": "max dowman",
-      "aliases": [
-        "max dowman"
-      ],
-      "phase": "closed",
-      "first_seen": "2026-11-14",
-      "last_seen": "2026-11-14",
-      "days_seen": 1,
-      "sources_seen": [
-        "google-trends"
-      ],
-      "signal": 0.267,
-      "url": "https://www.skysports.com/football/news/13611991/england-0-1-portugal-max-dowman-makes-debut-off-the-bench-as-u21s-suffer-defeat-in-friendly",
-      "summary": null,
-      "why_now": null,
-      "researched_at": null,
-      "needs_research": false
-    },
-    {
-      "id": "what-a-blessing-to-share-a-meal-with-someone-you-love-photo",
-      "name": "What a blessing to share a meal with someone you love. Photo from my collection, no date/info. ￼",
-      "aliases": [
-        "What a blessing to share a meal with someone you love. Photo from my collection, no date/info. ￼"
-      ],
-      "phase": "closed",
-      "first_seen": "2026-11-14",
-      "last_seen": "2026-11-14",
-      "days_seen": 1,
-      "sources_seen": [
-        "bluesky",
-        "mastodon-trending"
-      ],
-      "signal": 0.202,
-      "url": "https://bsky.app/profile/catsofyore.bsky.social/post/3n2agrybbqc2r",
-      "summary": null,
-      "why_now": null,
-      "researched_at": null,
-      "needs_research": false
-    },
-    {
-      "id": "colette-kress",
-      "name": "Colette Kress",
-      "aliases": [
-        "Colette Kress"
-      ],
-      "phase": "closed",
-      "first_seen": "2026-11-13",
-      "last_seen": "2026-11-14",
-      "days_seen": 2,
-      "sources_seen": [
-        "wikipedia"
-      ],
-      "signal": 0.2,
-      "url": "https://en.wikipedia.org/wiki/Colette_Kress",
-      "summary": null,
-      "why_now": null,
-      "researched_at": null,
-      "needs_research": false
-    },
-    {
-      "id": "chris-van-hollen",
-      "name": "Chris Van Hollen",
-      "aliases": [
-        "Chris Van Hollen"
-      ],
-      "phase": "closed",
-      "first_seen": "2026-11-14",
-      "last_seen": "2026-11-14",
-      "days_seen": 1,
-      "sources_seen": [
-        "wikipedia"
-      ],
-      "signal": 0.133,
-      "url": "https://en.wikipedia.org/wiki/Chris_Van_Hollen",
-      "summary": null,
-      "why_now": null,
-      "researched_at": null,
-      "needs_research": false
-    },
-    {
-      "id": "piracy",
-      "name": "Piracy",
-      "aliases": [
-        "Piracy"
-      ],
-      "phase": "closed",
-      "first_seen": "2026-11-14",
-      "last_seen": "2026-11-14",
-      "days_seen": 1,
-      "sources_seen": [
-        "wikipedia"
-      ],
-      "signal": 0.114,
-      "url": "https://en.wikipedia.org/wiki/Piracy",
-      "summary": null,
-      "why_now": null,
-      "researched_at": null,
-      "needs_research": false
-    },
-    {
-      "id": "alice-huang-executive",
-      "name": "Alice Huang (executive)",
-      "aliases": [
-        "Alice Huang (executive)"
-      ],
-      "phase": "closed",
-      "first_seen": "2026-11-13",
-      "last_seen": "2026-11-14",
-      "days_seen": 2,
-      "sources_seen": [
-        "wikipedia"
-      ],
-      "signal": 0.1,
-      "url": "https://en.wikipedia.org/wiki/Alice_Huang_(executive)",
-      "summary": null,
-      "why_now": null,
-      "researched_at": null,
-      "needs_research": false
-    },
-    {
-      "id": "mauricio-pochettino",
-      "name": "Mauricio Pochettino",
-      "aliases": [
-        "Mauricio Pochettino"
-      ],
-      "phase": "closed",
-      "first_seen": "2026-11-12",
-      "last_seen": "2026-11-14",
-      "days_seen": 3,
-      "sources_seen": [
-        "wikipedia"
-      ],
-      "signal": 0.08,
-      "url": "https://en.wikipedia.org/wiki/Mauricio_Pochettino",
-      "summary": null,
-      "why_now": null,
-      "researched_at": null,
-      "needs_research": false
     }
   ],
-  "research_queue": []
+  "research_queue": [
+    "matrix-multiplication-is-n-2-25-pdf",
+    "royal-derby-hospital-critical-incident",
+    "button-sounds-collection-of-professionally-recorded-button-c",
+    "gta-6"
+  ]
 }

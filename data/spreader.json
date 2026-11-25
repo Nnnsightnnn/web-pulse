@@ -1,46 +1,43 @@
 {
-  "date": "2026-11-24",
-  "generated_at": "2026-11-24T06:16:38.441Z",
-  "lede": "The clearest signal on the web today is Nvidia's board reinstating Jensen Huang as chief executive, a story that surfaced on five feeds at once and topped Hacker News with 2,396 points and more than 3,300 comments. On Polymarket, a contract on a new Nvidia CEO being named by year end drew 2.4 million dollars in 24-hour volume and sat near 100 percent. The single most-read article on Wikipedia was not Nvidia, though, but Ramayana: Part 1, holding first place for a fifteenth straight day.",
+  "date": "2026-11-25",
+  "generated_at": "2026-11-25T06:16:43.641Z",
+  "lede": "Jensen Huang is the widest story on the web today, one name surfacing across four feeds at once. He sits third on Wikipedia with 234,343 views, runs through the AI news wire where the headlines track his ouster and quick return to Nvidia, and shows up as a Mastodon joke about an unemployed 63-year-old who was back running a trillion-dollar company two days later. Four Polymarket contracts carry his name or Nvidia's top job, one of them pricing a new Nvidia CEO named by December 31 at 99.95 percent. Above all of it on Wikipedia, with no echo on any other feed, sits Ramayana: Part 1 at 365,685 views, 1.4 times the traffic of Grand Theft Auto VI just below it.",
   "throughlines": [
     {
-      "title": "Avengers: Doomsday",
-      "gist": "The final trailer for Marvel's Avengers: Doomsday, in theaters December 18, drew more than 33 million views on YouTube in a day and pushed the film onto Wikipedia's most-read list.",
+      "title": "Ternary Bonsai 2.5 27B",
+      "gist": "A 27-billion-parameter open model that broke onto Hacker News and Hugging Face on the same day, a pairing that usually means developers are downloading and running it, not just discussing it.",
       "sources": [
-        "wikipedia",
-        "youtube"
+        "hackernews",
+        "huggingface"
       ],
-      "url": "https://en.wikipedia.org/wiki/Avengers%3A_Doomsday",
+      "url": "https://news.ycombinator.com/item?id=50633922",
       "kind": "cluster",
-      "topic_id": "avengers-doomsday",
+      "topic_id": "ternary-bonsai-2-5-27b",
       "phase": "new",
       "days_seen": 1,
-      "first_seen": "2026-11-24",
+      "first_seen": "2026-11-25",
       "why": null,
-      "explainer_url": "https://nnnsightnnn.github.io/web-pulse/topics.html#avengers-doomsday"
+      "explainer_url": "https://nnnsightnnn.github.io/web-pulse/topics.html#ternary-bonsai-2-5-27b"
     },
     {
-      "title": "Nvidia Reinstates Jensen Huang as CEO",
-      "gist": "Nvidia's board reinstated Jensen Huang as chief executive on day eleven of the story, a reversal carried at once by Hacker News, Wikipedia, Lemmy, Bluesky and GDELT, where the wire reported Asian stocks rallying on his return.",
+      "title": "GTA 6 #2",
+      "gist": "A second strand of Grand Theft Auto VI attention, live on Google Trends and YouTube together and climbing into its sixth day as search interest and video coverage feed each other.",
       "sources": [
-        "bluesky",
-        "gdelt-ai",
-        "hackernews",
-        "lemmy",
-        "wikipedia"
+        "google-trends",
+        "youtube"
       ],
-      "url": "https://en.wikipedia.org/wiki/Jensen_Huang",
+      "url": "https://www.vice.com/en/article/gta-6-trust-halifax-or-not-missable-rewards/",
       "kind": "cluster",
-      "topic_id": "jensen-huang",
+      "topic_id": "gta-6",
       "phase": "climbing",
-      "days_seen": 11,
-      "first_seen": "2026-11-10",
+      "days_seen": 6,
+      "first_seen": "2026-11-18",
       "why": null,
-      "explainer_url": "https://nnnsightnnn.github.io/web-pulse/topics.html#jensen-huang"
+      "explainer_url": "https://nnnsightnnn.github.io/web-pulse/topics.html#gta-6"
     },
     {
       "title": "Grand Theft Auto VI",
-      "gist": "Grand Theft Auto VI, out since November 19, holds second on Wikipedia with 266,240 views and its soundtrack is climbing YouTube on the game's first weekend on sale.",
+      "gist": "Rockstar's Grand Theft Auto VI launched November 19 on PlayStation 5 and Xbox Series X and S, and eight days on it is still holding near the top of both Wikipedia and YouTube.",
       "sources": [
         "wikipedia",
         "youtube"
@@ -48,14 +45,14 @@
       "url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI",
       "kind": "cluster",
       "topic_id": "grand-theft-auto-vi",
-      "phase": "climbing",
-      "days_seen": 7,
+      "phase": "holding",
+      "days_seen": 8,
       "first_seen": "2026-11-18",
       "why": "Rockstar's Grand Theft Auto VI launched on November 19, 2026, on PlayStation 5 and Xbox Series X/S, and this weekend is its first on sale.",
       "explainer_url": "https://nnnsightnnn.github.io/web-pulse/topics.html#grand-theft-auto-vi"
     }
   ],
-  "strength": 100,
+  "strength": 54,
   "live_sources": 17,
   "total_sources": 17,
   "dashboard_url": "https://nnnsightnnn.github.io/web-pulse/",

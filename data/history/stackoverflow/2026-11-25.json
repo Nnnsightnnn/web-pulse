@@ -1,0 +1,404 @@
+{
+  "source": "stackoverflow",
+  "label": "Stack Overflow — hot questions",
+  "fetched_at": "2026-11-25T06:15:54.027Z",
+  "items": [
+    {
+      "rank": 1,
+      "title": "Is it a good practice to store user information (email, name, role, etc.) in JWT access tokens?",
+      "url": "https://stackoverflow.com/questions/80018574/is-it-a-good-practice-to-store-user-information-email-name-role-etc-in-jwt",
+      "score": -2,
+      "answers": 0,
+      "views": 44,
+      "tags": [
+        "python-3.x",
+        "fastapi"
+      ],
+      "days_on": 1,
+      "prior_rank": null,
+      "movement": "new"
+    },
+    {
+      "rank": 2,
+      "title": "Why does == return True while is returns False?",
+      "url": "https://stackoverflow.com/questions/80018579/why-does-return-true-while-is-returns-false",
+      "score": -2,
+      "answers": 0,
+      "views": 16,
+      "tags": [
+        "python"
+      ],
+      "days_on": 1,
+      "prior_rank": null,
+      "movement": "new"
+    },
+    {
+      "rank": 3,
+      "title": "Live Edit crashes with IllegalStateException \"Unable to find method lambda$12\" after editing a Text string, when used rememberInfiniteTransition",
+      "url": "https://stackoverflow.com/questions/80018572/live-edit-crashes-with-illegalstateexception-unable-to-find-method-lambda12-a",
+      "score": 0,
+      "answers": 1,
+      "views": 13,
+      "tags": [
+        "kotlin",
+        "android-studio",
+        "android-jetpack-compose",
+        "liveedit"
+      ],
+      "days_on": 1,
+      "prior_rank": null,
+      "movement": "new"
+    },
+    {
+      "rank": 4,
+      "title": "In Samsung Internet 31.0 on Android, navigator.connection is null for some users",
+      "url": "https://stackoverflow.com/questions/80018582/in-samsung-internet-31-0-on-android-navigator-connection-is-null-for-some-users",
+      "score": -2,
+      "answers": 1,
+      "views": 16,
+      "tags": [
+        "javascript"
+      ],
+      "days_on": 1,
+      "prior_rank": null,
+      "movement": "new"
+    },
+    {
+      "rank": 5,
+      "title": "Retrieval-Augmented Generation (RAG) and structured data",
+      "url": "https://stackoverflow.com/questions/80018566/retrieval-augmented-generation-rag-and-structured-data",
+      "score": -3,
+      "answers": 0,
+      "views": 46,
+      "tags": [
+        "python",
+        "large-language-model",
+        "rag",
+        "document-processing"
+      ],
+      "days_on": 1,
+      "prior_rank": null,
+      "movement": "new"
+    },
+    {
+      "rank": 6,
+      "title": "TDengine`last_row()` returns empty columns on child table while`SELECT * ... ORDER BY ts DESC LIMIT 1` works correctly",
+      "url": "https://stackoverflow.com/questions/80018565/tdenginelast-row-returns-empty-columns-on-child-table-whileselect-ord",
+      "score": -1,
+      "answers": 0,
+      "views": 17,
+      "tags": [
+        "tdengine"
+      ],
+      "days_on": 1,
+      "prior_rank": null,
+      "movement": "new"
+    },
+    {
+      "rank": 7,
+      "title": "Electron app under Wine on Debian: Chromium FATAL hwnd_util.cc(65) error 1400 while wine notepad opens windows fine",
+      "url": "https://stackoverflow.com/questions/80018561/electron-app-under-wine-on-debian-chromium-fatal-hwnd-util-cc65-error-1400-wh",
+      "score": -4,
+      "answers": 0,
+      "views": 41,
+      "tags": [
+        "electron",
+        "wine"
+      ],
+      "days_on": 1,
+      "prior_rank": null,
+      "movement": "new"
+    },
+    {
+      "rank": 8,
+      "title": "When testing TPC-H Q10 on PolarDB , the execution plan is unstable and the query latency fluct varies. What could be the reason?",
+      "url": "https://stackoverflow.com/questions/80018562/when-testing-tpc-h-q10-on-polardb-the-execution-plan-is-unstable-and-the-query",
+      "score": -1,
+      "answers": 0,
+      "views": 33,
+      "tags": [
+        "sql",
+        "query-optimization",
+        "polardb"
+      ],
+      "days_on": 1,
+      "prior_rank": null,
+      "movement": "new"
+    },
+    {
+      "rank": 9,
+      "title": "Improving EF Core SQLite queries and seeding (AnyAsync, AddRangeAsync) and understanding DbContext",
+      "url": "https://stackoverflow.com/questions/80018513/improving-ef-core-sqlite-queries-and-seeding-anyasync-addrangeasync-and-under",
+      "score": 2,
+      "answers": 1,
+      "views": 87,
+      "tags": [
+        "best-practices",
+        "c#",
+        "database",
+        "sqlite",
+        "entity-framework-core"
+      ],
+      "days_on": 1,
+      "prior_rank": null,
+      "movement": "new"
+    },
+    {
+      "rank": 10,
+      "title": "Java4Shell Vulnerability: Update Your JetBrains IDEs, ReSharper, .NET Tools, Toolbox App, and Gateway Now",
+      "url": "https://stackoverflow.com/questions/80018558/java4shell-vulnerability-update-your-jetbrains-ides-resharper-net-tools-too",
+      "score": -5,
+      "answers": 0,
+      "views": 53,
+      "tags": [
+        "advice",
+        "java",
+        "jetbrains-ide"
+      ],
+      "days_on": 1,
+      "prior_rank": null,
+      "movement": "new"
+    },
+    {
+      "rank": 11,
+      "title": "Excel VBA: Consolidation of Duplicate Rows including Sum of Values",
+      "url": "https://stackoverflow.com/questions/80018537/excel-vba-consolidation-of-duplicate-rows-including-sum-of-values",
+      "score": -3,
+      "answers": 1,
+      "views": 58,
+      "tags": [
+        "vba",
+        "duplicates",
+        "consolidation",
+        "drop-duplicates"
+      ],
+      "days_on": 1,
+      "prior_rank": null,
+      "movement": "new"
+    },
+    {
+      "rank": 12,
+      "title": "How to remove duplicate records in Ab Initio using the Dedup component?",
+      "url": "https://stackoverflow.com/questions/80018560/how-to-remove-duplicate-records-in-ab-initio-using-the-dedup-component",
+      "score": -6,
+      "answers": 0,
+      "views": 43,
+      "tags": [
+        "duplicates",
+        "etl",
+        "data-warehouse",
+        "data-integration",
+        "ab-initio"
+      ],
+      "days_on": 1,
+      "prior_rank": null,
+      "movement": "new"
+    },
+    {
+      "rank": 13,
+      "title": "Robust K-means weighted clustering function for ~200,000 data points?",
+      "url": "https://stackoverflow.com/questions/80018551/robust-k-means-weighted-clustering-function-for-200-000-data-points",
+      "score": -2,
+      "answers": 0,
+      "views": 55,
+      "tags": [
+        "tooling-recommendation",
+        "r"
+      ],
+      "days_on": 1,
+      "prior_rank": null,
+      "movement": "new"
+    },
+    {
+      "rank": 14,
+      "title": "Bubble does not sort the array in C",
+      "url": "https://stackoverflow.com/questions/80018517/bubble-does-not-sort-the-array-in-c",
+      "score": 0,
+      "answers": 2,
+      "views": 135,
+      "tags": [
+        "c",
+        "sorting",
+        "nested-loops",
+        "swap",
+        "bubble-sort"
+      ],
+      "days_on": 1,
+      "prior_rank": null,
+      "movement": "new"
+    },
+    {
+      "rank": 15,
+      "title": "How can a buffer overflow allow for RCE?",
+      "url": "https://stackoverflow.com/questions/80018538/how-can-a-buffer-overflow-allow-for-rce",
+      "score": -4,
+      "answers": 0,
+      "views": 76,
+      "tags": [
+        "linux-kernel",
+        "glibc"
+      ],
+      "days_on": 1,
+      "prior_rank": null,
+      "movement": "new"
+    },
+    {
+      "rank": 16,
+      "title": "R studio trying to install library tidyverse but \"Error in library(\"tidyverse\") : there is no package called ‘tidyverse’ \"",
+      "url": "https://stackoverflow.com/questions/80018530/r-studio-trying-to-install-library-tidyverse-but-error-in-librarytidyverse",
+      "score": 1,
+      "answers": 0,
+      "views": 68,
+      "tags": [
+        "r",
+        "linux",
+        "package"
+      ],
+      "days_on": 1,
+      "prior_rank": null,
+      "movement": "new"
+    },
+    {
+      "rank": 17,
+      "title": "How do I select all instances of an <a> tag using a regular expression",
+      "url": "https://stackoverflow.com/questions/80018502/how-do-i-select-all-instances-of-an-a-tag-using-a-regular-expression",
+      "score": -1,
+      "answers": 2,
+      "views": 105,
+      "tags": [
+        "html",
+        "regex",
+        "bash"
+      ],
+      "days_on": 1,
+      "prior_rank": null,
+      "movement": "new"
+    },
+    {
+      "rank": 18,
+      "title": "How to match operator-characters in filesets",
+      "url": "https://stackoverflow.com/questions/80018535/how-to-match-operator-characters-in-filesets",
+      "score": 0,
+      "answers": 0,
+      "views": 39,
+      "tags": [
+        "jujutsu"
+      ],
+      "days_on": 1,
+      "prior_rank": null,
+      "movement": "new"
+    },
+    {
+      "rank": 19,
+      "title": "JSON errors in Stripe Checkout code from Stripe",
+      "url": "https://stackoverflow.com/questions/80018528/json-errors-in-stripe-checkout-code-from-stripe",
+      "score": 0,
+      "answers": 0,
+      "views": 55,
+      "tags": [
+        "php",
+        "html",
+        "stripe-payments"
+      ],
+      "days_on": 1,
+      "prior_rank": null,
+      "movement": "new"
+    },
+    {
+      "rank": 20,
+      "title": "How to hook/overide the color picker tool in Windows 11",
+      "url": "https://stackoverflow.com/questions/80018524/how-to-hook-overide-the-color-picker-tool-in-windows-11",
+      "score": -3,
+      "answers": 0,
+      "views": 37,
+      "tags": [
+        "windows",
+        "colors",
+        "windows-11"
+      ],
+      "days_on": 1,
+      "prior_rank": null,
+      "movement": "new"
+    },
+    {
+      "rank": 21,
+      "title": "Which install identifier does Meta compare when AppsFlyer records the iOS install and RevenueCat forwards the purchase?",
+      "url": "https://stackoverflow.com/questions/80018526/which-install-identifier-does-meta-compare-when-appsflyer-records-the-ios-instal",
+      "score": -1,
+      "answers": 0,
+      "views": 31,
+      "tags": [
+        "ios",
+        "appsflyer",
+        "appsflyer-ios-sdk"
+      ],
+      "days_on": 1,
+      "prior_rank": null,
+      "movement": "new"
+    },
+    {
+      "rank": 22,
+      "title": "More information needed on non-Gregorian calendars implemented in Apple OSs",
+      "url": "https://stackoverflow.com/questions/80018505/more-information-needed-on-non-gregorian-calendars-implemented-in-apple-oss",
+      "score": -6,
+      "answers": 0,
+      "views": 70,
+      "tags": [
+        "ios",
+        "macos",
+        "calendar",
+        "watchos",
+        "ipados"
+      ],
+      "days_on": 1,
+      "prior_rank": null,
+      "movement": "new"
+    },
+    {
+      "rank": 23,
+      "title": "Does an interface class just have the method's name and what is the purpose of that design?",
+      "url": "https://stackoverflow.com/questions/80018504/does-an-interface-class-just-have-the-methods-name-and-what-is-the-purpose-of-t",
+      "score": -5,
+      "answers": 0,
+      "views": 65,
+      "tags": [
+        "java",
+        "function"
+      ],
+      "days_on": 1,
+      "prior_rank": null,
+      "movement": "new"
+    },
+    {
+      "rank": 24,
+      "title": "Detecting input prompts from SSH2 commands",
+      "url": "https://stackoverflow.com/questions/80018496/detecting-input-prompts-from-ssh2-commands",
+      "score": 0,
+      "answers": 1,
+      "views": 91,
+      "tags": [
+        "javascript",
+        "node.js",
+        "ssh2"
+      ],
+      "days_on": 1,
+      "prior_rank": null,
+      "movement": "new"
+    },
+    {
+      "rank": 25,
+      "title": "How to manage audio player volume on a real device?",
+      "url": "https://stackoverflow.com/questions/80018490/how-to-manage-audio-player-volume-on-a-real-device",
+      "score": 0,
+      "answers": 0,
+      "views": 92,
+      "tags": [
+        "swift",
+        "avaudioplayer"
+      ],
+      "days_on": 1,
+      "prior_rank": null,
+      "movement": "new"
+    }
+  ]
+}

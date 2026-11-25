@@ -1,0 +1,44 @@
+{
+  "id": "ternary-bonsai-2-5-27b",
+  "name": "Ternary Bonsai 2.5 27B",
+  "aliases": [
+    "Ternary Bonsai 2.5 27B"
+  ],
+  "first_seen": "2026-11-25",
+  "last_seen": "2026-11-25",
+  "days_seen": 1,
+  "phase": "new",
+  "sources_seen": [
+    "hackernews",
+    "huggingface"
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-25",
+      "sources": [
+        "hackernews",
+        "huggingface"
+      ],
+      "signal": 0.26666666666666666,
+      "items": [
+        {
+          "source": "hackernews",
+          "title": "Ternary Bonsai 2.5 27B",
+          "url": "https://news.ycombinator.com/item?id=50633922",
+          "rank": 5,
+          "movement": "new"
+        },
+        {
+          "source": "huggingface",
+          "title": "prism-ml/Ternary-Bonsai-2.5-27B-GGUF",
+          "url": "https://huggingface.co/prism-ml/Ternary-Bonsai-2.5-27B-GGUF",
+          "rank": 15,
+          "movement": "new"
+        }
+      ]
+    }
+  ],
+  "explainer": null,
+  "explainer_history": [],
+  "needs_research": false
+}

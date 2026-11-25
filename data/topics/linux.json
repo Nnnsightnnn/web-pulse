@@ -5,9 +5,9 @@
     "Linux"
   ],
   "first_seen": "2026-11-24",
-  "last_seen": "2026-11-24",
-  "days_seen": 1,
-  "phase": "new",
+  "last_seen": "2026-11-25",
+  "days_seen": 2,
+  "phase": "holding",
   "sources_seen": [
     "wikipedia"
   ],
@@ -25,6 +25,22 @@
           "url": "https://en.wikipedia.org/wiki/Linux",
           "rank": 6,
           "movement": "new"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-25",
+      "sources": [
+        "wikipedia"
+      ],
+      "signal": 0.13333333333333333,
+      "items": [
+        {
+          "source": "wikipedia",
+          "title": "Linux",
+          "url": "https://en.wikipedia.org/wiki/Linux",
+          "rank": 6,
+          "movement": "holding"
         }
       ]
     }

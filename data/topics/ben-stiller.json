@@ -1,0 +1,35 @@
+{
+  "id": "ben-stiller",
+  "name": "ben stiller",
+  "aliases": [
+    "ben stiller"
+  ],
+  "first_seen": "2026-11-25",
+  "last_seen": "2026-11-25",
+  "days_seen": 1,
+  "phase": "new",
+  "sources_seen": [
+    "google-trends"
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-25",
+      "sources": [
+        "google-trends"
+      ],
+      "signal": 0.16,
+      "items": [
+        {
+          "source": "google-trends",
+          "title": "ben stiller",
+          "url": "https://editorial.rottentomatoes.com/article/focker-in-law-first-reviews/",
+          "rank": 5,
+          "movement": "new"
+        }
+      ]
+    }
+  ],
+  "explainer": null,
+  "explainer_history": [],
+  "needs_research": false
+}

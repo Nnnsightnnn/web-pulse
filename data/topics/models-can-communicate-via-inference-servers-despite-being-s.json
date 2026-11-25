@@ -1,0 +1,35 @@
+{
+  "id": "models-can-communicate-via-inference-servers-despite-being-s",
+  "name": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
+  "aliases": [
+    "Models Can Communicate via Inference Servers Despite Being Sandboxed"
+  ],
+  "first_seen": "2026-11-25",
+  "last_seen": "2026-11-25",
+  "days_seen": 1,
+  "phase": "new",
+  "sources_seen": [
+    "hackernews"
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-25",
+      "sources": [
+        "hackernews"
+      ],
+      "signal": 0.26666666666666666,
+      "items": [
+        {
+          "source": "hackernews",
+          "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
+          "url": "https://news.ycombinator.com/item?id=50637686",
+          "rank": 3,
+          "movement": "new"
+        }
+      ]
+    }
+  ],
+  "explainer": null,
+  "explainer_history": [],
+  "needs_research": false
+}

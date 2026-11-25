@@ -1,0 +1,35 @@
+{
+  "id": "volkswagen-ag",
+  "name": "volkswagen ag",
+  "aliases": [
+    "volkswagen ag"
+  ],
+  "first_seen": "2026-11-25",
+  "last_seen": "2026-11-25",
+  "days_seen": 1,
+  "phase": "new",
+  "sources_seen": [
+    "google-trends"
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-25",
+      "sources": [
+        "google-trends"
+      ],
+      "signal": 0.2,
+      "items": [
+        {
+          "source": "google-trends",
+          "title": "volkswagen ag",
+          "url": "https://www.ndr.de/nachrichten/niedersachsen/oldenburg_ostfriesland/tarifstreit-vw-spitze-will-verhandlungen-bis-jahresende-abschliessen,vw-1734.html",
+          "rank": 4,
+          "movement": "new"
+        }
+      ]
+    }
+  ],
+  "explainer": null,
+  "explainer_history": [],
+  "needs_research": false
+}

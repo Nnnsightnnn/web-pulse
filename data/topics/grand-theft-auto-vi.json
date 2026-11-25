@@ -6,9 +6,9 @@
     "Grand Theft Auto"
   ],
   "first_seen": "2026-11-18",
-  "last_seen": "2026-11-24",
-  "days_seen": 7,
-  "phase": "climbing",
+  "last_seen": "2026-11-25",
+  "days_seen": 8,
+  "phase": "holding",
   "sources_seen": [
     "lemmy",
     "steam",
@@ -215,6 +215,30 @@
           "title": "Travis Scott - Burn This Shit Down [from Grand Theft Auto VI: The Album (Deluxe Edition)]",
           "url": "https://www.youtube.com/watch?v=2sUhJahVWyQ",
           "rank": 4,
+          "movement": "new"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-25",
+      "sources": [
+        "wikipedia",
+        "youtube"
+      ],
+      "signal": 1.011111111111111,
+      "items": [
+        {
+          "source": "wikipedia",
+          "title": "Grand Theft Auto VI",
+          "url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI",
+          "rank": 2,
+          "movement": "holding"
+        },
+        {
+          "source": "youtube",
+          "title": "Grand Theft Auto VI is Full of Things You’d Never Notice",
+          "url": "https://www.youtube.com/watch?v=Yb9r-EMxrbw",
+          "rank": 9,
           "movement": "new"
         }
       ]
