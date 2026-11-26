@@ -1,0 +1,35 @@
+{
+  "id": "de-anthony-melton",
+  "name": "de'anthony melton",
+  "aliases": [
+    "de'anthony melton"
+  ],
+  "first_seen": "2026-11-26",
+  "last_seen": "2026-11-26",
+  "days_seen": 1,
+  "phase": "new",
+  "sources_seen": [
+    "google-trends"
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-26",
+      "sources": [
+        "google-trends"
+      ],
+      "signal": 0.8,
+      "items": [
+        {
+          "source": "google-trends",
+          "title": "de'anthony melton",
+          "url": "https://www.bignewsnetwork.com/news/279454872/warriors-keep-nba-cup-hopes-alive-with-rout-of-kings",
+          "rank": 1,
+          "movement": "new"
+        }
+      ]
+    }
+  ],
+  "explainer": null,
+  "explainer_history": [],
+  "needs_research": true
+}

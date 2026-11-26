@@ -6,8 +6,8 @@
     "Grand Theft Auto"
   ],
   "first_seen": "2026-11-18",
-  "last_seen": "2026-11-25",
-  "days_seen": 8,
+  "last_seen": "2026-11-26",
+  "days_seen": 9,
   "phase": "holding",
   "sources_seen": [
     "lemmy",
@@ -238,6 +238,30 @@
           "source": "youtube",
           "title": "Grand Theft Auto VI is Full of Things You’d Never Notice",
           "url": "https://www.youtube.com/watch?v=Yb9r-EMxrbw",
+          "rank": 9,
+          "movement": "new"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-26",
+      "sources": [
+        "wikipedia",
+        "youtube"
+      ],
+      "signal": 0.47111111111111115,
+      "items": [
+        {
+          "source": "wikipedia",
+          "title": "Grand Theft Auto VI",
+          "url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI",
+          "rank": 5,
+          "movement": "falling"
+        },
+        {
+          "source": "youtube",
+          "title": "Grand Theft Auto VI",
+          "url": "https://www.youtube.com/watch?v=jPU38VyVVgE",
           "rank": 9,
           "movement": "new"
         }

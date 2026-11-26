@@ -1,58 +1,59 @@
 {
-  "date": "2026-11-25",
-  "generated_at": "2026-11-25T06:16:43.641Z",
-  "lede": "Jensen Huang is the widest story on the web today, one name surfacing across four feeds at once. He sits third on Wikipedia with 234,343 views, runs through the AI news wire where the headlines track his ouster and quick return to Nvidia, and shows up as a Mastodon joke about an unemployed 63-year-old who was back running a trillion-dollar company two days later. Four Polymarket contracts carry his name or Nvidia's top job, one of them pricing a new Nvidia CEO named by December 31 at 99.95 percent. Above all of it on Wikipedia, with no echo on any other feed, sits Ramayana: Part 1 at 365,685 views, 1.4 times the traffic of Grand Theft Auto VI just below it.",
+  "date": "2026-11-26",
+  "generated_at": "2026-11-26T06:17:01.740Z",
+  "lede": "The web spent the day at the movies. The final trailer for Avengers: Doomsday drew 55,201,638 views on YouTube ahead of its December 18 release, and Grand Theft Auto VI turned up on Wikipedia, YouTube and Google Trends at once, a title that moves every kind of feed. Away from the screen, Miss Universe 2026 led Wikipedia with 394,056 reads, and Nvidia chief Jensen Huang surfaced across a news wire and Wikipedia both.",
   "throughlines": [
     {
-      "title": "Ternary Bonsai 2.5 27B",
-      "gist": "A 27-billion-parameter open model that broke onto Hacker News and Hugging Face on the same day, a pairing that usually means developers are downloading and running it, not just discussing it.",
-      "sources": [
-        "hackernews",
-        "huggingface"
-      ],
-      "url": "https://news.ycombinator.com/item?id=50633922",
-      "kind": "cluster",
-      "topic_id": "ternary-bonsai-2-5-27b",
-      "phase": "new",
-      "days_seen": 1,
-      "first_seen": "2026-11-25",
-      "why": null,
-      "explainer_url": "https://nnnsightnnn.github.io/web-pulse/topics.html#ternary-bonsai-2-5-27b"
-    },
-    {
-      "title": "GTA 6 #2",
-      "gist": "A second strand of Grand Theft Auto VI attention, live on Google Trends and YouTube together and climbing into its sixth day as search interest and video coverage feed each other.",
-      "sources": [
-        "google-trends",
-        "youtube"
-      ],
-      "url": "https://www.vice.com/en/article/gta-6-trust-halifax-or-not-missable-rewards/",
-      "kind": "cluster",
-      "topic_id": "gta-6",
-      "phase": "climbing",
-      "days_seen": 6,
-      "first_seen": "2026-11-18",
-      "why": null,
-      "explainer_url": "https://nnnsightnnn.github.io/web-pulse/topics.html#gta-6"
-    },
-    {
-      "title": "Grand Theft Auto VI",
-      "gist": "Rockstar's Grand Theft Auto VI launched November 19 on PlayStation 5 and Xbox Series X and S, and eight days on it is still holding near the top of both Wikipedia and YouTube.",
+      "title": "Magneto vs Doctor Doom | Avengers Doomsday New Teaser",
+      "gist": "Marvel’s next crossover is arriving: the final trailer is already past 55 million YouTube views with the film due December 18, and the Wikipedia page is climbing right alongside it.",
       "sources": [
         "wikipedia",
         "youtube"
       ],
-      "url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI",
+      "url": "https://en.wikipedia.org/wiki/Avengers%3A_Doomsday",
       "kind": "cluster",
-      "topic_id": "grand-theft-auto-vi",
-      "phase": "holding",
-      "days_seen": 8,
-      "first_seen": "2026-11-18",
-      "why": "Rockstar's Grand Theft Auto VI launched on November 19, 2026, on PlayStation 5 and Xbox Series X/S, and this weekend is its first on sale.",
-      "explainer_url": "https://nnnsightnnn.github.io/web-pulse/topics.html#grand-theft-auto-vi"
+      "topic_id": "magneto-vs-doctor-doom-avengers-doomsday-new-teaser",
+      "phase": "new",
+      "days_seen": 1,
+      "first_seen": "2026-11-26",
+      "why": null,
+      "explainer_url": "https://nnnsightnnn.github.io/web-pulse/topics.html#magneto-vs-doctor-doom-avengers-doomsday-new-teaser"
+    },
+    {
+      "title": "At AI speed , Nvidia Jensen Huang finds exoneration",
+      "gist": "Nvidia’s chief executive is live on a news wire and Wikipedia in the same window, a sign the company’s story is back near the center of the day.",
+      "sources": [
+        "bluesky",
+        "gdelt-ai",
+        "wikipedia"
+      ],
+      "url": "https://en.wikipedia.org/wiki/Jensen_Huang",
+      "kind": "cluster",
+      "topic_id": "at-ai-speed-nvidia-jensen-huang-finds-exoneration",
+      "phase": "new",
+      "days_seen": 1,
+      "first_seen": "2026-11-26",
+      "why": null,
+      "explainer_url": "https://nnnsightnnn.github.io/web-pulse/topics.html#at-ai-speed-nvidia-jensen-huang-finds-exoneration"
+    },
+    {
+      "title": "Aaron Rodgers was released by the Stealers?",
+      "gist": "The veteran quarterback is pulling Wikipedia traffic and Bluesky chatter at once, an NFL story moving on both the reference and the social side.",
+      "sources": [
+        "bluesky",
+        "wikipedia"
+      ],
+      "url": "https://en.wikipedia.org/wiki/Aaron_Rodgers",
+      "kind": "cluster",
+      "topic_id": "aaron-rodgers-was-released-by-the-stealers",
+      "phase": "new",
+      "days_seen": 1,
+      "first_seen": "2026-11-26",
+      "why": null,
+      "explainer_url": "https://nnnsightnnn.github.io/web-pulse/topics.html#aaron-rodgers-was-released-by-the-stealers"
     }
   ],
-  "strength": 54,
+  "strength": 81,
   "live_sources": 17,
   "total_sources": 17,
   "dashboard_url": "https://nnnsightnnn.github.io/web-pulse/",

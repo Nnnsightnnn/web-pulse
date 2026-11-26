@@ -1,7 +1,67 @@
 {
-  "generated_at": "2026-11-25T06:16:43.641Z",
-  "date": "2026-11-25",
+  "generated_at": "2026-11-26T06:17:01.740Z",
+  "date": "2026-11-26",
   "topics": [
+    {
+      "id": "miss-universe-2026",
+      "name": "Miss Universe 2026",
+      "aliases": [
+        "Miss Universe 2026"
+      ],
+      "phase": "new",
+      "first_seen": "2026-11-26",
+      "last_seen": "2026-11-26",
+      "days_seen": 1,
+      "sources_seen": [
+        "wikipedia"
+      ],
+      "signal": 0.8,
+      "url": "https://en.wikipedia.org/wiki/Miss_Universe_2026",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": true
+    },
+    {
+      "id": "de-anthony-melton",
+      "name": "de'anthony melton",
+      "aliases": [
+        "de'anthony melton"
+      ],
+      "phase": "new",
+      "first_seen": "2026-11-26",
+      "last_seen": "2026-11-26",
+      "days_seen": 1,
+      "sources_seen": [
+        "google-trends"
+      ],
+      "signal": 0.8,
+      "url": "https://www.bignewsnetwork.com/news/279454872/warriors-keep-nba-cup-hopes-alive-with-rout-of-kings",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": true
+    },
+    {
+      "id": "holy-shit-holy-shit-holy-shit-holy-shit-the-magnitude-of-wha",
+      "name": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
+      "aliases": [
+        "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening"
+      ],
+      "phase": "new",
+      "first_seen": "2026-11-26",
+      "last_seen": "2026-11-26",
+      "days_seen": 1,
+      "sources_seen": [
+        "hackernews"
+      ],
+      "signal": 0.8,
+      "url": "https://news.ycombinator.com/item?id=50646108",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": true
+    },
     {
       "id": "grand-theft-auto-vi",
       "name": "Grand Theft Auto VI",
@@ -11,19 +71,66 @@
       ],
       "phase": "holding",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-25",
-      "days_seen": 8,
+      "last_seen": "2026-11-26",
+      "days_seen": 9,
       "sources_seen": [
         "lemmy",
         "steam",
         "wikipedia",
         "youtube"
       ],
-      "signal": 1.011,
+      "signal": 0.471,
       "url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI",
       "summary": "Rockstar's Grand Theft Auto VI launched on November 19, 2026, on PlayStation 5 and Xbox Series X/S, and this weekend is its first on sale.",
       "why_now": "This is launch week. Sony said on November 10 it had become the most pre-ordered game in PlayStation Store history, and digital pre-loads of up to 212 GB opened nine days before release.",
       "researched_at": "2026-11-23T02:22:57.990Z",
+      "needs_research": false
+    },
+    {
+      "id": "gta-6",
+      "name": "gta 6",
+      "aliases": [
+        "gta 6",
+        "PLAYING GTA 6 FOR THE FIRST TIME (PART 1)",
+        "PLAYING GTA 6 FOR THE FIRST TIME (PART 3)",
+        "gta 6 chapter 2 mission list",
+        "vespucci island gta 6",
+        "GTA 6 #2"
+      ],
+      "phase": "holding",
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-26",
+      "days_seen": 7,
+      "sources_seen": [
+        "google-trends",
+        "polymarket",
+        "youtube"
+      ],
+      "signal": 0.46,
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-ocelot-bloodless-jugular-location/",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": true
+    },
+    {
+      "id": "a-fazenda-18-enquetes",
+      "name": "a fazenda 18 enquetes",
+      "aliases": [
+        "a fazenda 18 enquetes"
+      ],
+      "phase": "climbing",
+      "first_seen": "2026-11-13",
+      "last_seen": "2026-11-26",
+      "days_seen": 2,
+      "sources_seen": [
+        "google-trends"
+      ],
+      "signal": 0.4,
+      "url": "https://record.r7.com/a-fazenda/a-fazenda-18/novidades/prova-do-fazendeiro-desta-quarta-25-desafia-peoes-com-pontaria-e-equilibrio-25112026/",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
       "needs_research": false
     },
     {
@@ -34,17 +141,221 @@
       ],
       "phase": "holding",
       "first_seen": "2026-11-09",
-      "last_seen": "2026-11-25",
-      "days_seen": 17,
+      "last_seen": "2026-11-26",
+      "days_seen": 18,
       "sources_seen": [
         "wikipedia",
         "youtube"
       ],
-      "signal": 0.8,
+      "signal": 0.4,
       "url": "https://en.wikipedia.org/wiki/Ramayana%3A_Part_1",
       "summary": "Ramayana: Part 1 is a Hindi-language epic film directed by Nitesh Tiwari, the first of two parts adapting Valmiki's Ramayana. It was released worldwide on November 5, 2026.",
       "why_now": "The film is still drawing attention because of its large box office run, with a reported worldwide gross of about 1,655 crore rupees, and because its sequel has reportedly been pushed back a year.",
       "researched_at": "2026-11-24T14:39:52.304Z",
+      "needs_research": false
+    },
+    {
+      "id": "1password-security-incident",
+      "name": "1Password Security Incident",
+      "aliases": [
+        "1Password Security Incident"
+      ],
+      "phase": "new",
+      "first_seen": "2026-11-26",
+      "last_seen": "2026-11-26",
+      "days_seen": 1,
+      "sources_seen": [
+        "hackernews"
+      ],
+      "signal": 0.4,
+      "url": "https://news.ycombinator.com/item?id=50644817",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "ezra-frech",
+      "name": "Ezra Frech",
+      "aliases": [
+        "Ezra Frech"
+      ],
+      "phase": "new",
+      "first_seen": "2026-11-26",
+      "last_seen": "2026-11-26",
+      "days_seen": 1,
+      "sources_seen": [
+        "wikipedia"
+      ],
+      "signal": 0.267,
+      "url": "https://en.wikipedia.org/wiki/Ezra_Frech",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "much-shorter-version-of-grh-lean-verification-from-anthropic",
+      "name": "Much shorter version of GRH Lean verification from Anthropic",
+      "aliases": [
+        "Much shorter version of GRH Lean verification from Anthropic"
+      ],
+      "phase": "new",
+      "first_seen": "2026-11-26",
+      "last_seen": "2026-11-26",
+      "days_seen": 1,
+      "sources_seen": [
+        "hackernews"
+      ],
+      "signal": 0.267,
+      "url": "https://news.ycombinator.com/item?id=50648050",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "magneto-vs-doctor-doom-avengers-doomsday-new-teaser",
+      "name": "Magneto vs Doctor Doom | Avengers Doomsday New Teaser ",
+      "aliases": [
+        "Magneto vs Doctor Doom | Avengers Doomsday New Teaser "
+      ],
+      "phase": "new",
+      "first_seen": "2026-11-26",
+      "last_seen": "2026-11-26",
+      "days_seen": 1,
+      "sources_seen": [
+        "wikipedia",
+        "youtube"
+      ],
+      "signal": 0.216,
+      "url": "https://en.wikipedia.org/wiki/Avengers%3A_Doomsday",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "at-ai-speed-nvidia-jensen-huang-finds-exoneration",
+      "name": "At AI speed , Nvidia Jensen Huang finds exoneration",
+      "aliases": [
+        "At AI speed , Nvidia Jensen Huang finds exoneration"
+      ],
+      "phase": "new",
+      "first_seen": "2026-11-26",
+      "last_seen": "2026-11-26",
+      "days_seen": 1,
+      "sources_seen": [
+        "bluesky",
+        "gdelt-ai",
+        "wikipedia"
+      ],
+      "signal": 0.212,
+      "url": "https://en.wikipedia.org/wiki/Jensen_Huang",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "aaron-rodgers-was-released-by-the-stealers",
+      "name": "Aaron Rodgers was released by the Stealers?",
+      "aliases": [
+        "Aaron Rodgers was released by the Stealers?"
+      ],
+      "phase": "new",
+      "first_seen": "2026-11-26",
+      "last_seen": "2026-11-26",
+      "days_seen": 1,
+      "sources_seen": [
+        "bluesky",
+        "wikipedia"
+      ],
+      "signal": 0.202,
+      "url": "https://en.wikipedia.org/wiki/Aaron_Rodgers",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "dancing-with-the-stars-american-tv-series-season-35",
+      "name": "Dancing with the Stars (American TV series) season 35",
+      "aliases": [
+        "Dancing with the Stars (American TV series) season 35"
+      ],
+      "phase": "climbing",
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-26",
+      "days_seen": 2,
+      "sources_seen": [
+        "wikipedia"
+      ],
+      "signal": 0.2,
+      "url": "https://en.wikipedia.org/wiki/Dancing_with_the_Stars_(American_TV_series)_season_35",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "jennifer-barreto",
+      "name": "Jennifer Barreto",
+      "aliases": [
+        "Jennifer Barreto"
+      ],
+      "phase": "new",
+      "first_seen": "2026-11-26",
+      "last_seen": "2026-11-26",
+      "days_seen": 1,
+      "sources_seen": [
+        "wikipedia"
+      ],
+      "signal": 0.133,
+      "url": "https://en.wikipedia.org/wiki/Jennifer_Barreto",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "andy-taylor-guitarist",
+      "name": "Andy Taylor (guitarist)",
+      "aliases": [
+        "Andy Taylor (guitarist)"
+      ],
+      "phase": "new",
+      "first_seen": "2026-11-26",
+      "last_seen": "2026-11-26",
+      "days_seen": 1,
+      "sources_seen": [
+        "wikipedia"
+      ],
+      "signal": 0.1,
+      "url": "https://en.wikipedia.org/wiki/Andy_Taylor_(guitarist)",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "mike-mccarthy",
+      "name": "Mike McCarthy",
+      "aliases": [
+        "Mike McCarthy"
+      ],
+      "phase": "new",
+      "first_seen": "2026-11-26",
+      "last_seen": "2026-11-26",
+      "days_seen": 1,
+      "sources_seen": [
+        "wikipedia"
+      ],
+      "signal": 0.089,
+      "url": "https://en.wikipedia.org/wiki/Mike_McCarthy",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
       "needs_research": false
     },
     {
@@ -53,7 +364,7 @@
       "aliases": [
         "bangladesh vs south africa"
       ],
-      "phase": "new",
+      "phase": "fading",
       "first_seen": "2026-11-25",
       "last_seen": "2026-11-25",
       "days_seen": 1,
@@ -73,7 +384,7 @@
       "aliases": [
         "Matrix Multiplication is Θ(n^2.25) [pdf]"
       ],
-      "phase": "new",
+      "phase": "fading",
       "first_seen": "2026-11-25",
       "last_seen": "2026-11-25",
       "days_seen": 1,
@@ -85,7 +396,7 @@
       "summary": null,
       "why_now": null,
       "researched_at": null,
-      "needs_research": true
+      "needs_research": false
     },
     {
       "id": "jensen-huang",
@@ -95,7 +406,7 @@
         "Jensen Huang resigns",
         "Nvidia Reinstates Jensen Huang as CEO"
       ],
-      "phase": "holding",
+      "phase": "fading",
       "first_seen": "2026-11-10",
       "last_seen": "2026-11-25",
       "days_seen": 12,
@@ -115,32 +426,12 @@
       "needs_research": false
     },
     {
-      "id": "royal-derby-hospital-critical-incident",
-      "name": "royal derby hospital critical incident",
-      "aliases": [
-        "royal derby hospital critical incident"
-      ],
-      "phase": "new",
-      "first_seen": "2026-11-25",
-      "last_seen": "2026-11-25",
-      "days_seen": 1,
-      "sources_seen": [
-        "google-trends"
-      ],
-      "signal": 0.4,
-      "url": "https://www.bbc.co.uk/news/articles/cw62pv0g6j12o",
-      "summary": null,
-      "why_now": null,
-      "researched_at": null,
-      "needs_research": true
-    },
-    {
       "id": "button-sounds-collection-of-professionally-recorded-button-c",
       "name": "Button Sounds – collection of professionally-recorded button clicks and presses",
       "aliases": [
         "Button Sounds – collection of professionally-recorded button clicks and presses"
       ],
-      "phase": "new",
+      "phase": "fading",
       "first_seen": "2026-11-25",
       "last_seen": "2026-11-25",
       "days_seen": 1,
@@ -152,34 +443,47 @@
       "summary": null,
       "why_now": null,
       "researched_at": null,
-      "needs_research": true
+      "needs_research": false
     },
     {
-      "id": "gta-6",
-      "name": "gta 6",
+      "id": "royal-derby-hospital-critical-incident",
+      "name": "royal derby hospital critical incident",
       "aliases": [
-        "gta 6",
-        "PLAYING GTA 6 FOR THE FIRST TIME (PART 1)",
-        "PLAYING GTA 6 FOR THE FIRST TIME (PART 3)",
-        "gta 6 chapter 2 mission list",
-        "vespucci island gta 6",
-        "GTA 6 #2"
+        "royal derby hospital critical incident"
       ],
-      "phase": "climbing",
-      "first_seen": "2026-11-18",
+      "phase": "fading",
+      "first_seen": "2026-11-25",
       "last_seen": "2026-11-25",
-      "days_seen": 6,
+      "days_seen": 1,
       "sources_seen": [
-        "google-trends",
-        "polymarket",
-        "youtube"
+        "google-trends"
       ],
-      "signal": 0.377,
-      "url": "https://www.vice.com/en/article/gta-6-trust-halifax-or-not-missable-rewards/",
+      "signal": 0.4,
+      "url": "https://www.bbc.co.uk/news/articles/cw62pv0g6j12o",
       "summary": null,
       "why_now": null,
       "researched_at": null,
-      "needs_research": true
+      "needs_research": false
+    },
+    {
+      "id": "models-can-communicate-via-inference-servers-despite-being-s",
+      "name": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
+      "aliases": [
+        "Models Can Communicate via Inference Servers Despite Being Sandboxed"
+      ],
+      "phase": "fading",
+      "first_seen": "2026-11-25",
+      "last_seen": "2026-11-25",
+      "days_seen": 1,
+      "sources_seen": [
+        "hackernews"
+      ],
+      "signal": 0.267,
+      "url": "https://news.ycombinator.com/item?id=50637686",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
     },
     {
       "id": "ternary-bonsai-2-5-27b",
@@ -187,7 +491,7 @@
       "aliases": [
         "Ternary Bonsai 2.5 27B"
       ],
-      "phase": "new",
+      "phase": "fading",
       "first_seen": "2026-11-25",
       "last_seen": "2026-11-25",
       "days_seen": 1,
@@ -208,7 +512,7 @@
       "aliases": [
         "today gold rate delhi"
       ],
-      "phase": "new",
+      "phase": "fading",
       "first_seen": "2026-11-25",
       "last_seen": "2026-11-25",
       "days_seen": 1,
@@ -223,32 +527,12 @@
       "needs_research": false
     },
     {
-      "id": "models-can-communicate-via-inference-servers-despite-being-s",
-      "name": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
-      "aliases": [
-        "Models Can Communicate via Inference Servers Despite Being Sandboxed"
-      ],
-      "phase": "new",
-      "first_seen": "2026-11-25",
-      "last_seen": "2026-11-25",
-      "days_seen": 1,
-      "sources_seen": [
-        "hackernews"
-      ],
-      "signal": 0.267,
-      "url": "https://news.ycombinator.com/item?id=50637686",
-      "summary": null,
-      "why_now": null,
-      "researched_at": null,
-      "needs_research": false
-    },
-    {
       "id": "moon",
       "name": "Moon",
       "aliases": [
         "Moon"
       ],
-      "phase": "holding",
+      "phase": "fading",
       "first_seen": "2026-11-24",
       "last_seen": "2026-11-25",
       "days_seen": 2,
@@ -268,7 +552,7 @@
       "aliases": [
         "volkswagen ag"
       ],
-      "phase": "new",
+      "phase": "fading",
       "first_seen": "2026-11-25",
       "last_seen": "2026-11-25",
       "days_seen": 1,
@@ -283,32 +567,12 @@
       "needs_research": false
     },
     {
-      "id": "the-hunger-games-sunrise-on-the-reaping",
-      "name": "The Hunger Games: Sunrise on the Reaping",
-      "aliases": [
-        "The Hunger Games: Sunrise on the Reaping"
-      ],
-      "phase": "holding",
-      "first_seen": "2026-11-21",
-      "last_seen": "2026-11-25",
-      "days_seen": 5,
-      "sources_seen": [
-        "wikipedia"
-      ],
-      "signal": 0.16,
-      "url": "https://en.wikipedia.org/wiki/The_Hunger_Games%3A_Sunrise_on_the_Reaping",
-      "summary": null,
-      "why_now": null,
-      "researched_at": null,
-      "needs_research": false
-    },
-    {
       "id": "ben-stiller",
       "name": "ben stiller",
       "aliases": [
         "ben stiller"
       ],
-      "phase": "new",
+      "phase": "fading",
       "first_seen": "2026-11-25",
       "last_seen": "2026-11-25",
       "days_seen": 1,
@@ -323,12 +587,32 @@
       "needs_research": false
     },
     {
+      "id": "the-hunger-games-sunrise-on-the-reaping",
+      "name": "The Hunger Games: Sunrise on the Reaping",
+      "aliases": [
+        "The Hunger Games: Sunrise on the Reaping"
+      ],
+      "phase": "fading",
+      "first_seen": "2026-11-21",
+      "last_seen": "2026-11-25",
+      "days_seen": 5,
+      "sources_seen": [
+        "wikipedia"
+      ],
+      "signal": 0.16,
+      "url": "https://en.wikipedia.org/wiki/The_Hunger_Games%3A_Sunrise_on_the_Reaping",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
       "id": "linux",
       "name": "Linux",
       "aliases": [
         "Linux"
       ],
-      "phase": "holding",
+      "phase": "fading",
       "first_seen": "2026-11-24",
       "last_seen": "2026-11-25",
       "days_seen": 2,
@@ -348,7 +632,7 @@
       "aliases": [
         "Avengers: Doomsday"
       ],
-      "phase": "holding",
+      "phase": "fading",
       "first_seen": "2026-11-24",
       "last_seen": "2026-11-25",
       "days_seen": 2,
@@ -369,7 +653,7 @@
       "aliases": [
         "Blood"
       ],
-      "phase": "holding",
+      "phase": "fading",
       "first_seen": "2026-11-24",
       "last_seen": "2026-11-25",
       "days_seen": 2,
@@ -391,7 +675,7 @@
         "Lean verification of the Riemann Hypothesis",
         "Masullo on the Riemann Hypothesis"
       ],
-      "phase": "holding",
+      "phase": "fading",
       "first_seen": "2026-11-21",
       "last_seen": "2026-11-25",
       "days_seen": 5,
@@ -413,7 +697,7 @@
       "aliases": [
         "Experience machine"
       ],
-      "phase": "holding",
+      "phase": "fading",
       "first_seen": "2026-11-24",
       "last_seen": "2026-11-25",
       "days_seen": 2,
@@ -838,7 +1122,7 @@
         "thinkingmachines/Inkling-2-Mini",
         "Inkling 2 Mini"
       ],
-      "phase": "fading",
+      "phase": "closed",
       "first_seen": "2026-11-21",
       "last_seen": "2026-11-22",
       "days_seen": 2,
@@ -859,7 +1143,7 @@
       "aliases": [
         "keanu reeves"
       ],
-      "phase": "fading",
+      "phase": "closed",
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-22",
       "days_seen": 1,
@@ -879,7 +1163,7 @@
       "aliases": [
         "Toyota, Nissan, and Honda to standardize parts to lower costs"
       ],
-      "phase": "fading",
+      "phase": "closed",
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-22",
       "days_seen": 1,
@@ -899,7 +1183,7 @@
       "aliases": [
         "chris pratt"
       ],
-      "phase": "fading",
+      "phase": "closed",
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-22",
       "days_seen": 1,
@@ -919,7 +1203,7 @@
       "aliases": [
         "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'"
       ],
-      "phase": "fading",
+      "phase": "closed",
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-22",
       "days_seen": 1,
@@ -939,7 +1223,7 @@
       "aliases": [
         "lewis hamilton"
       ],
-      "phase": "fading",
+      "phase": "closed",
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-22",
       "days_seen": 1,
@@ -959,7 +1243,7 @@
       "aliases": [
         "heisman race"
       ],
-      "phase": "fading",
+      "phase": "closed",
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-22",
       "days_seen": 1,
@@ -979,7 +1263,7 @@
       "aliases": [
         "O.M: Operation Mole"
       ],
-      "phase": "fading",
+      "phase": "closed",
       "first_seen": "2026-11-22",
       "last_seen": "2026-11-22",
       "days_seen": 1,
@@ -999,7 +1283,7 @@
       "aliases": [
         "Ansel Adams"
       ],
-      "phase": "fading",
+      "phase": "closed",
       "first_seen": "2026-11-15",
       "last_seen": "2026-11-22",
       "days_seen": 2,
@@ -1020,7 +1304,7 @@
         "Robert Pattinson",
         "Robert Pattinson filmography"
       ],
-      "phase": "fading",
+      "phase": "closed",
       "first_seen": "2026-11-17",
       "last_seen": "2026-11-22",
       "days_seen": 6,
@@ -1534,26 +1818,6 @@
       ],
       "signal": 0.267,
       "url": "https://news.ycombinator.com/item?id=50554038",
-      "summary": null,
-      "why_now": null,
-      "researched_at": null,
-      "needs_research": false
-    },
-    {
-      "id": "dancing-with-the-stars-american-tv-series-season-35",
-      "name": "Dancing with the Stars (American TV series) season 35",
-      "aliases": [
-        "Dancing with the Stars (American TV series) season 35"
-      ],
-      "phase": "closed",
-      "first_seen": "2026-11-19",
-      "last_seen": "2026-11-19",
-      "days_seen": 1,
-      "sources_seen": [
-        "wikipedia"
-      ],
-      "signal": 0.2,
-      "url": "https://en.wikipedia.org/wiki/Dancing_with_the_Stars_(American_TV_series)_season_35",
       "summary": null,
       "why_now": null,
       "researched_at": null,
@@ -2346,213 +2610,12 @@
       "why_now": null,
       "researched_at": null,
       "needs_research": false
-    },
-    {
-      "id": "arshdeep-singh",
-      "name": "arshdeep singh",
-      "aliases": [
-        "arshdeep singh"
-      ],
-      "phase": "closed",
-      "first_seen": "2026-11-15",
-      "last_seen": "2026-11-15",
-      "days_seen": 1,
-      "sources_seen": [
-        "google-trends"
-      ],
-      "signal": 0.8,
-      "url": "https://www.cricbuzz.com/player-match-performance/match/161282/player/8554/bowling?inningsId=1",
-      "summary": null,
-      "why_now": null,
-      "researched_at": null,
-      "needs_research": false
-    },
-    {
-      "id": "spacex-catches-the-starship-to-end-flight-15",
-      "name": "SpaceX catches the Starship to end Flight 15",
-      "aliases": [
-        "SpaceX catches the Starship to end Flight 15"
-      ],
-      "phase": "closed",
-      "first_seen": "2026-11-15",
-      "last_seen": "2026-11-15",
-      "days_seen": 1,
-      "sources_seen": [
-        "hackernews"
-      ],
-      "signal": 0.8,
-      "url": "https://news.ycombinator.com/item?id=50500963",
-      "summary": null,
-      "why_now": null,
-      "researched_at": null,
-      "needs_research": false
-    },
-    {
-      "id": "eng-vs-aus",
-      "name": "eng vs aus",
-      "aliases": [
-        "eng vs aus",
-        "aus vs eng"
-      ],
-      "phase": "closed",
-      "first_seen": "2026-11-15",
-      "last_seen": "2026-11-15",
-      "days_seen": 1,
-      "sources_seen": [
-        "google-trends"
-      ],
-      "signal": 0.6,
-      "url": "https://www.theguardian.com/sport/live/2026/nov/15/australia-vs-england-cricket-second-odi-mens-one-day-international-adelaide-live-scores-updates?page=with:block-6af948db8f089036c711ea29",
-      "summary": null,
-      "why_now": null,
-      "researched_at": null,
-      "needs_research": false
-    },
-    {
-      "id": "lovable-apps-expose-passport-details-and-more-than-200k-priv",
-      "name": "Lovable apps expose passport details and more than 200K private messages",
-      "aliases": [
-        "Lovable apps expose passport details and more than 200K private messages"
-      ],
-      "phase": "closed",
-      "first_seen": "2026-11-15",
-      "last_seen": "2026-11-15",
-      "days_seen": 1,
-      "sources_seen": [
-        "hackernews"
-      ],
-      "signal": 0.4,
-      "url": "https://news.ycombinator.com/item?id=50499017",
-      "summary": null,
-      "why_now": null,
-      "researched_at": null,
-      "needs_research": false
-    },
-    {
-      "id": "daniel-cormier",
-      "name": "daniel cormier",
-      "aliases": [
-        "daniel cormier"
-      ],
-      "phase": "closed",
-      "first_seen": "2026-11-15",
-      "last_seen": "2026-11-15",
-      "days_seen": 1,
-      "sources_seen": [
-        "google-trends"
-      ],
-      "signal": 0.267,
-      "url": "https://www.espn.com/mma/story/_/id/50471378/8-people-get-prison-nurmagomedov-dvalishvili-brawl",
-      "summary": null,
-      "why_now": null,
-      "researched_at": null,
-      "needs_research": false
-    },
-    {
-      "id": "memory-safety-bugs-in-rust-standard-library",
-      "name": "Memory Safety Bugs in Rust Standard Library",
-      "aliases": [
-        "Memory Safety Bugs in Rust Standard Library"
-      ],
-      "phase": "closed",
-      "first_seen": "2026-11-15",
-      "last_seen": "2026-11-15",
-      "days_seen": 1,
-      "sources_seen": [
-        "hackernews"
-      ],
-      "signal": 0.267,
-      "url": "https://news.ycombinator.com/item?id=50478701",
-      "summary": null,
-      "why_now": null,
-      "researched_at": null,
-      "needs_research": false
-    },
-    {
-      "id": "resumo-novela-quem-ama-cuida",
-      "name": "resumo novela quem ama cuida",
-      "aliases": [
-        "resumo novela quem ama cuida"
-      ],
-      "phase": "closed",
-      "first_seen": "2026-11-14",
-      "last_seen": "2026-11-15",
-      "days_seen": 2,
-      "sources_seen": [
-        "google-trends"
-      ],
-      "signal": 0.16,
-      "url": "https://gshow.globo.com/novelas/quem-ama-cuida/video/quem-ama-cuida-confira-cenas-do-proximo-capitulo-dia-1411-15182056.ghtml",
-      "summary": null,
-      "why_now": null,
-      "researched_at": null,
-      "needs_research": false
-    },
-    {
-      "id": "markwayne-mullin",
-      "name": "Markwayne Mullin",
-      "aliases": [
-        "Markwayne Mullin"
-      ],
-      "phase": "closed",
-      "first_seen": "2026-11-15",
-      "last_seen": "2026-11-15",
-      "days_seen": 1,
-      "sources_seen": [
-        "wikipedia"
-      ],
-      "signal": 0.1,
-      "url": "https://en.wikipedia.org/wiki/Markwayne_Mullin",
-      "summary": null,
-      "why_now": null,
-      "researched_at": null,
-      "needs_research": false
-    },
-    {
-      "id": "nvidia",
-      "name": "Nvidia",
-      "aliases": [
-        "Nvidia"
-      ],
-      "phase": "closed",
-      "first_seen": "2026-11-10",
-      "last_seen": "2026-11-15",
-      "days_seen": 4,
-      "sources_seen": [
-        "wikipedia"
-      ],
-      "signal": 0.089,
-      "url": "https://en.wikipedia.org/wiki/Nvidia",
-      "summary": null,
-      "why_now": null,
-      "researched_at": null,
-      "needs_research": false
-    },
-    {
-      "id": "sam-hartman",
-      "name": "Sam Hartman",
-      "aliases": [
-        "Sam Hartman"
-      ],
-      "phase": "closed",
-      "first_seen": "2026-11-14",
-      "last_seen": "2026-11-15",
-      "days_seen": 2,
-      "sources_seen": [
-        "wikipedia"
-      ],
-      "signal": 0.08,
-      "url": "https://en.wikipedia.org/wiki/Sam_Hartman",
-      "summary": null,
-      "why_now": null,
-      "researched_at": null,
-      "needs_research": false
     }
   ],
   "research_queue": [
-    "matrix-multiplication-is-n-2-25-pdf",
-    "royal-derby-hospital-critical-incident",
-    "button-sounds-collection-of-professionally-recorded-button-c",
+    "miss-universe-2026",
+    "de-anthony-melton",
+    "holy-shit-holy-shit-holy-shit-holy-shit-the-magnitude-of-wha",
     "gta-6"
   ]
 }

@@ -1,0 +1,35 @@
+{
+  "id": "mike-mccarthy",
+  "name": "Mike McCarthy",
+  "aliases": [
+    "Mike McCarthy"
+  ],
+  "first_seen": "2026-11-26",
+  "last_seen": "2026-11-26",
+  "days_seen": 1,
+  "phase": "new",
+  "sources_seen": [
+    "wikipedia"
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-26",
+      "sources": [
+        "wikipedia"
+      ],
+      "signal": 0.08888888888888889,
+      "items": [
+        {
+          "source": "wikipedia",
+          "title": "Mike McCarthy",
+          "url": "https://en.wikipedia.org/wiki/Mike_McCarthy",
+          "rank": 9,
+          "movement": "new"
+        }
+      ]
+    }
+  ],
+  "explainer": null,
+  "explainer_history": [],
+  "needs_research": false
+}

@@ -5,8 +5,8 @@
     "Ramayana: Part 1"
   ],
   "first_seen": "2026-11-09",
-  "last_seen": "2026-11-25",
-  "days_seen": 17,
+  "last_seen": "2026-11-26",
+  "days_seen": 18,
   "phase": "holding",
   "sources_seen": [
     "wikipedia",
@@ -297,6 +297,22 @@
           "title": "Ramayana: Part 1",
           "url": "https://en.wikipedia.org/wiki/Ramayana%3A_Part_1",
           "rank": 1,
+          "movement": "holding"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-26",
+      "sources": [
+        "wikipedia"
+      ],
+      "signal": 0.4,
+      "items": [
+        {
+          "source": "wikipedia",
+          "title": "Ramayana: Part 1",
+          "url": "https://en.wikipedia.org/wiki/Ramayana%3A_Part_1",
+          "rank": 2,
           "movement": "holding"
         }
       ]

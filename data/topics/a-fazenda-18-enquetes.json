@@ -5,9 +5,9 @@
     "a fazenda 18 enquetes"
   ],
   "first_seen": "2026-11-13",
-  "last_seen": "2026-11-13",
-  "days_seen": 1,
-  "phase": "closed",
+  "last_seen": "2026-11-26",
+  "days_seen": 2,
+  "phase": "climbing",
   "sources_seen": [
     "google-trends"
   ],
@@ -25,6 +25,22 @@
           "url": "https://f5.folha.uol.com.br/televisao/a-fazenda-18/2026/11/a-fazenda-18-enquete-mostra-quem-deve-ser-eliminado-do-reality.shtml",
           "rank": 4,
           "movement": "new"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-26",
+      "sources": [
+        "google-trends"
+      ],
+      "signal": 0.4,
+      "items": [
+        {
+          "source": "google-trends",
+          "title": "a fazenda 18 enquetes",
+          "url": "https://record.r7.com/a-fazenda/a-fazenda-18/novidades/prova-do-fazendeiro-desta-quarta-25-desafia-peoes-com-pontaria-e-equilibrio-25112026/",
+          "rank": 2,
+          "movement": "returning"
         }
       ]
     }

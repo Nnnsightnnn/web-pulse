@@ -1,0 +1,35 @@
+{
+  "id": "ezra-frech",
+  "name": "Ezra Frech",
+  "aliases": [
+    "Ezra Frech"
+  ],
+  "first_seen": "2026-11-26",
+  "last_seen": "2026-11-26",
+  "days_seen": 1,
+  "phase": "new",
+  "sources_seen": [
+    "wikipedia"
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-26",
+      "sources": [
+        "wikipedia"
+      ],
+      "signal": 0.26666666666666666,
+      "items": [
+        {
+          "source": "wikipedia",
+          "title": "Ezra Frech",
+          "url": "https://en.wikipedia.org/wiki/Ezra_Frech",
+          "rank": 3,
+          "movement": "new"
+        }
+      ]
+    }
+  ],
+  "explainer": null,
+  "explainer_history": [],
+  "needs_research": false
+}

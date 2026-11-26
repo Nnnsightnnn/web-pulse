@@ -10,9 +10,9 @@
     "GTA 6 #2"
   ],
   "first_seen": "2026-11-18",
-  "last_seen": "2026-11-25",
-  "days_seen": 6,
-  "phase": "climbing",
+  "last_seen": "2026-11-26",
+  "days_seen": 7,
+  "phase": "holding",
   "sources_seen": [
     "google-trends",
     "polymarket",
@@ -223,6 +223,37 @@
           "title": "GTA 6 #2",
           "url": "https://www.youtube.com/watch?v=umDq3LY7sFA",
           "rank": 3,
+          "movement": "new"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-26",
+      "sources": [
+        "google-trends",
+        "youtube"
+      ],
+      "signal": 0.4601449275362319,
+      "items": [
+        {
+          "source": "google-trends",
+          "title": "ocelot jugular gta 6",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-ocelot-bloodless-jugular-location/",
+          "rank": 23,
+          "movement": "new"
+        },
+        {
+          "source": "youtube",
+          "title": "GTA 6 #2",
+          "url": "https://www.youtube.com/watch?v=umDq3LY7sFA",
+          "rank": 3,
+          "movement": "holding"
+        },
+        {
+          "source": "youtube",
+          "title": "We need to talk about GTA 6",
+          "url": "https://www.youtube.com/watch?v=NMFn6IjThPk",
+          "rank": 12,
           "movement": "new"
         }
       ]

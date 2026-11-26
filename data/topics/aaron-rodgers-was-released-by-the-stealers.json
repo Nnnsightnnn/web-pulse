@@ -1,0 +1,44 @@
+{
+  "id": "aaron-rodgers-was-released-by-the-stealers",
+  "name": "Aaron Rodgers was released by the Stealers?",
+  "aliases": [
+    "Aaron Rodgers was released by the Stealers?"
+  ],
+  "first_seen": "2026-11-26",
+  "last_seen": "2026-11-26",
+  "days_seen": 1,
+  "phase": "new",
+  "sources_seen": [
+    "bluesky",
+    "wikipedia"
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-26",
+      "sources": [
+        "bluesky",
+        "wikipedia"
+      ],
+      "signal": 0.20202020202020202,
+      "items": [
+        {
+          "source": "wikipedia",
+          "title": "Aaron Rodgers",
+          "url": "https://en.wikipedia.org/wiki/Aaron_Rodgers",
+          "rank": 11,
+          "movement": "new"
+        },
+        {
+          "source": "bluesky",
+          "title": "Aaron Rodgers was released by the Stealers?",
+          "url": "https://bsky.app/profile/artcandee.bsky.social/post/3n36j746vx22j",
+          "rank": 9,
+          "movement": "new"
+        }
+      ]
+    }
+  ],
+  "explainer": null,
+  "explainer_history": [],
+  "needs_research": false
+}

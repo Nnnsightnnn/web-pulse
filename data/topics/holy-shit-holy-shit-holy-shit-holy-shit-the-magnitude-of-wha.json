@@ -1,0 +1,35 @@
+{
+  "id": "holy-shit-holy-shit-holy-shit-holy-shit-the-magnitude-of-wha",
+  "name": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
+  "aliases": [
+    "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening"
+  ],
+  "first_seen": "2026-11-26",
+  "last_seen": "2026-11-26",
+  "days_seen": 1,
+  "phase": "new",
+  "sources_seen": [
+    "hackernews"
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-26",
+      "sources": [
+        "hackernews"
+      ],
+      "signal": 0.8,
+      "items": [
+        {
+          "source": "hackernews",
+          "title": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
+          "url": "https://news.ycombinator.com/item?id=50646108",
+          "rank": 1,
+          "movement": "new"
+        }
+      ]
+    }
+  ],
+  "explainer": null,
+  "explainer_history": [],
+  "needs_research": true
+}

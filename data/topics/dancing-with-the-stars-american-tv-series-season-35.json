@@ -5,15 +5,31 @@
     "Dancing with the Stars (American TV series) season 35"
   ],
   "first_seen": "2026-11-19",
-  "last_seen": "2026-11-19",
-  "days_seen": 1,
-  "phase": "closed",
+  "last_seen": "2026-11-26",
+  "days_seen": 2,
+  "phase": "climbing",
   "sources_seen": [
     "wikipedia"
   ],
   "timeline": [
     {
       "date": "2026-11-19",
+      "sources": [
+        "wikipedia"
+      ],
+      "signal": 0.2,
+      "items": [
+        {
+          "source": "wikipedia",
+          "title": "Dancing with the Stars (American TV series) season 35",
+          "url": "https://en.wikipedia.org/wiki/Dancing_with_the_Stars_(American_TV_series)_season_35",
+          "rank": 4,
+          "movement": "returning"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-26",
       "sources": [
         "wikipedia"
       ],

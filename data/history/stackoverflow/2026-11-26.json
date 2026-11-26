@@ -1,0 +1,411 @@
+{
+  "source": "stackoverflow",
+  "label": "Stack Overflow — hot questions",
+  "fetched_at": "2026-11-26T06:16:16.790Z",
+  "items": [
+    {
+      "rank": 1,
+      "title": "Script to generate and fill a template does not populate",
+      "url": "https://stackoverflow.com/questions/80018752/script-to-generate-and-fill-a-template-does-not-populate",
+      "score": 1,
+      "answers": 0,
+      "views": 48,
+      "tags": [
+        "google-sheets",
+        "google-apps-script"
+      ],
+      "days_on": 1,
+      "prior_rank": null,
+      "movement": "new"
+    },
+    {
+      "rank": 2,
+      "title": "I narrowed a segfault to 22 lines of code but I already accounted for null terminators in dynamic memory and variable limits, what else could it be?",
+      "url": "https://stackoverflow.com/questions/80018742/i-narrowed-a-segfault-to-22-lines-of-code-but-i-already-accounted-for-null-termi",
+      "score": 4,
+      "answers": 1,
+      "views": 91,
+      "tags": [
+        "c",
+        "struct",
+        "buffer-overflow"
+      ],
+      "days_on": 1,
+      "prior_rank": null,
+      "movement": "new"
+    },
+    {
+      "rank": 3,
+      "title": "Why does Milvus 2.4.4 reject a scalar-only collection that worked in 2.4.1?",
+      "url": "https://stackoverflow.com/questions/80018747/why-does-milvus-2-4-4-reject-a-scalar-only-collection-that-worked-in-2-4-1",
+      "score": 0,
+      "answers": 0,
+      "views": 24,
+      "tags": [
+        "python",
+        "database",
+        "vector",
+        "database-schema",
+        "milvus"
+      ],
+      "days_on": 1,
+      "prior_rank": null,
+      "movement": "new"
+    },
+    {
+      "rank": 4,
+      "title": "Integrate a partial that is dedicated to site responsivness through media queries",
+      "url": "https://stackoverflow.com/questions/80018733/integrate-a-partial-that-is-dedicated-to-site-responsivness-through-media-querie",
+      "score": -1,
+      "answers": 0,
+      "views": 53,
+      "tags": [
+        "html",
+        "css",
+        "sass"
+      ],
+      "days_on": 1,
+      "prior_rank": null,
+      "movement": "new"
+    },
+    {
+      "rank": 5,
+      "title": "Mozert Slider (@mozert-studio/mozert-slider) dynamic pagination bullets not updating on responsive breakpoints",
+      "url": "https://stackoverflow.com/questions/80018738/mozert-slider-mozert-studio-mozert-slider-dynamic-pagination-bullets-not-upda",
+      "score": 0,
+      "answers": 0,
+      "views": 50,
+      "tags": [
+        "javascript",
+        "html",
+        "css",
+        "slider",
+        "carousel"
+      ],
+      "days_on": 1,
+      "prior_rank": null,
+      "movement": "new"
+    },
+    {
+      "rank": 6,
+      "title": "Wanted help understanding if these diags are correct?",
+      "url": "https://stackoverflow.com/questions/80018737/wanted-help-understanding-if-these-diags-are-correct",
+      "score": -6,
+      "answers": 0,
+      "views": 53,
+      "tags": [
+        "python",
+        "computer-vision",
+        "erd",
+        "dfd"
+      ],
+      "days_on": 1,
+      "prior_rank": null,
+      "movement": "new"
+    },
+    {
+      "rank": 7,
+      "title": "Why is reveal_type() recognised without import, but not assert_type() or assert_never()?",
+      "url": "https://stackoverflow.com/questions/80018710/why-is-reveal-type-recognised-without-import-but-not-assert-type-or-assert",
+      "score": 0,
+      "answers": 1,
+      "views": 95,
+      "tags": [
+        "python",
+        "python-typing"
+      ],
+      "days_on": 1,
+      "prior_rank": null,
+      "movement": "new"
+    },
+    {
+      "rank": 8,
+      "title": "How to make Pyright obey my annotated type instead of narrowing it?",
+      "url": "https://stackoverflow.com/questions/80018711/how-to-make-pyright-obey-my-annotated-type-instead-of-narrowing-it",
+      "score": 0,
+      "answers": 2,
+      "views": 122,
+      "tags": [
+        "python",
+        "python-typing",
+        "pyright"
+      ],
+      "days_on": 1,
+      "prior_rank": null,
+      "movement": "new"
+    },
+    {
+      "rank": 9,
+      "title": "How do I make a box extend farther down the page in HTML?",
+      "url": "https://stackoverflow.com/questions/80018703/how-do-i-make-a-box-extend-farther-down-the-page-in-html",
+      "score": -2,
+      "answers": 1,
+      "views": 130,
+      "tags": [
+        "html",
+        "css"
+      ],
+      "days_on": 1,
+      "prior_rank": null,
+      "movement": "new"
+    },
+    {
+      "rank": 10,
+      "title": "Delphi Custom Control - Name assignment error at design time",
+      "url": "https://stackoverflow.com/questions/80018684/delphi-custom-control-name-assignment-error-at-design-time",
+      "score": 1,
+      "answers": 1,
+      "views": 47,
+      "tags": [
+        "delphi",
+        "custom-controls",
+        "design-time"
+      ],
+      "days_on": 1,
+      "prior_rank": null,
+      "movement": "new"
+    },
+    {
+      "rank": 11,
+      "title": "Copy text on image click",
+      "url": "https://stackoverflow.com/questions/80018689/copy-text-on-image-click",
+      "score": -2,
+      "answers": 1,
+      "views": 134,
+      "tags": [
+        "javascript",
+        "html",
+        "css"
+      ],
+      "days_on": 1,
+      "prior_rank": null,
+      "movement": "new"
+    },
+    {
+      "rank": 12,
+      "title": "Safe pattern to process multiple files in Awk",
+      "url": "https://stackoverflow.com/questions/80018639/safe-pattern-to-process-multiple-files-in-awk",
+      "score": 3,
+      "answers": 3,
+      "views": 118,
+      "tags": [
+        "bash",
+        "awk",
+        "posix"
+      ],
+      "days_on": 1,
+      "prior_rank": null,
+      "movement": "new"
+    },
+    {
+      "rank": 13,
+      "title": "ServletException during error page processing",
+      "url": "https://stackoverflow.com/questions/80018683/servletexception-during-error-page-processing",
+      "score": 0,
+      "answers": 0,
+      "views": 34,
+      "tags": [
+        "jsf",
+        "payara",
+        "jacc"
+      ],
+      "days_on": 1,
+      "prior_rank": null,
+      "movement": "new"
+    },
+    {
+      "rank": 14,
+      "title": "Overflow: auto doesn't show top part of image",
+      "url": "https://stackoverflow.com/questions/80018677/overflow-auto-doesnt-show-top-part-of-image",
+      "score": 1,
+      "answers": 1,
+      "views": 111,
+      "tags": [
+        "javascript",
+        "html",
+        "css"
+      ],
+      "days_on": 1,
+      "prior_rank": null,
+      "movement": "new"
+    },
+    {
+      "rank": 15,
+      "title": "Transforming batch of vector 4 float using simd",
+      "url": "https://stackoverflow.com/questions/80018671/transforming-batch-of-vector-4-float-using-simd",
+      "score": 1,
+      "answers": 0,
+      "views": 98,
+      "tags": [
+        "c",
+        "gcc",
+        "x86-64",
+        "simd",
+        "intrinsics"
+      ],
+      "days_on": 1,
+      "prior_rank": null,
+      "movement": "new"
+    },
+    {
+      "rank": 16,
+      "title": "Why does the behaviour of the in operator/__contains__ method differ from manual equality checks?",
+      "url": "https://stackoverflow.com/questions/80018665/why-does-the-behaviour-of-the-in-operator-contains-method-differ-from-manual",
+      "score": 1,
+      "answers": 1,
+      "views": 141,
+      "tags": [
+        "python",
+        "list",
+        "numpy"
+      ],
+      "days_on": 1,
+      "prior_rank": null,
+      "movement": "new"
+    },
+    {
+      "rank": 17,
+      "title": "Rust Glancer fails to initialize",
+      "url": "https://stackoverflow.com/questions/80018687/rust-glancer-fails-to-initialize",
+      "score": 0,
+      "answers": 0,
+      "views": 72,
+      "tags": [
+        "vs-code",
+        "rust",
+        "vscode-extensions",
+        "vscodium"
+      ],
+      "days_on": 1,
+      "prior_rank": null,
+      "movement": "new"
+    },
+    {
+      "rank": 18,
+      "title": "Flutter AAB works with Internal App Sharing but crashes when installed from Google Play Closed Testing",
+      "url": "https://stackoverflow.com/questions/80018680/flutter-aab-works-with-internal-app-sharing-but-crashes-when-installed-from-goog",
+      "score": 0,
+      "answers": 0,
+      "views": 56,
+      "tags": [
+        "android",
+        "flutter",
+        "google-play",
+        "google-play-console"
+      ],
+      "days_on": 1,
+      "prior_rank": null,
+      "movement": "new"
+    },
+    {
+      "rank": 19,
+      "title": "Maven distribution verification - should sha256 or sha 512 be used?",
+      "url": "https://stackoverflow.com/questions/80018648/maven-distribution-verification-should-sha256-or-sha-512-be-used",
+      "score": 0,
+      "answers": 1,
+      "views": 89,
+      "tags": [
+        "maven",
+        "maven-3"
+      ],
+      "days_on": 1,
+      "prior_rank": null,
+      "movement": "new"
+    },
+    {
+      "rank": 20,
+      "title": "What is the point of reveal_type?",
+      "url": "https://stackoverflow.com/questions/80018643/what-is-the-point-of-reveal-type",
+      "score": 1,
+      "answers": 1,
+      "views": 178,
+      "tags": [
+        "python",
+        "python-typing"
+      ],
+      "days_on": 1,
+      "prior_rank": null,
+      "movement": "new"
+    },
+    {
+      "rank": 21,
+      "title": "Only calling the framebuffer size callback when the user is done resizing the window?",
+      "url": "https://stackoverflow.com/questions/80018652/only-calling-the-framebuffer-size-callback-when-the-user-is-done-resizing-the-wi",
+      "score": -1,
+      "answers": 1,
+      "views": 183,
+      "tags": [
+        "c++",
+        "glfw",
+        "imgui"
+      ],
+      "days_on": 1,
+      "prior_rank": null,
+      "movement": "new"
+    },
+    {
+      "rank": 22,
+      "title": "A better way to filter dataframe using key words?",
+      "url": "https://stackoverflow.com/questions/80018604/a-better-way-to-filter-dataframe-using-key-words",
+      "score": 1,
+      "answers": 0,
+      "views": 173,
+      "tags": [
+        "python",
+        "pandas",
+        "dataframe"
+      ],
+      "days_on": 1,
+      "prior_rank": null,
+      "movement": "new"
+    },
+    {
+      "rank": 23,
+      "title": "Spring Boot 4.2.0 circular dependency policy",
+      "url": "https://stackoverflow.com/questions/80018672/spring-boot-4-2-0-circular-dependency-policy",
+      "score": -4,
+      "answers": 0,
+      "views": 66,
+      "tags": [
+        "spring",
+        "spring-boot"
+      ],
+      "days_on": 1,
+      "prior_rank": null,
+      "movement": "new"
+    },
+    {
+      "rank": 24,
+      "title": "TIME_DURATION adds one second to pre-trigger pressure span",
+      "url": "https://stackoverflow.com/questions/80018597/time-duration-adds-one-second-to-pre-trigger-pressure-span",
+      "score": -3,
+      "answers": 0,
+      "views": 98,
+      "tags": [
+        "apache-iotdb",
+        "treemodel"
+      ],
+      "days_on": 1,
+      "prior_rank": null,
+      "movement": "new"
+    },
+    {
+      "rank": 25,
+      "title": "Bubble does not sort the array in C",
+      "url": "https://stackoverflow.com/questions/80018517/bubble-does-not-sort-the-array-in-c",
+      "score": 1,
+      "answers": 2,
+      "views": 194,
+      "tags": [
+        "c",
+        "sorting",
+        "nested-loops",
+        "swap",
+        "bubble-sort"
+      ],
+      "days_on": 2,
+      "prior_rank": 14,
+      "movement": "falling"
+    }
+  ]
+}
