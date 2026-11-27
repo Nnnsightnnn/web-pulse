@@ -1,0 +1,35 @@
+{
+  "id": "kuwait-attack-today",
+  "name": "kuwait attack today",
+  "aliases": [
+    "kuwait attack today"
+  ],
+  "first_seen": "2026-11-27",
+  "last_seen": "2026-11-27",
+  "days_seen": 1,
+  "phase": "new",
+  "sources_seen": [
+    "google-trends"
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-27",
+      "sources": [
+        "google-trends"
+      ],
+      "signal": 0.8,
+      "items": [
+        {
+          "source": "google-trends",
+          "title": "kuwait attack today",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/11/27/iran-war-live-irans-araghchi-calls-deadly-kuwait-attack-suspicious",
+          "rank": 1,
+          "movement": "new"
+        }
+      ]
+    }
+  ],
+  "explainer": null,
+  "explainer_history": [],
+  "needs_research": true
+}

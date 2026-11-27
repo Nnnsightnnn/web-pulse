@@ -1,0 +1,35 @@
+{
+  "id": "duran-duran",
+  "name": "Duran Duran",
+  "aliases": [
+    "Duran Duran"
+  ],
+  "first_seen": "2026-11-27",
+  "last_seen": "2026-11-27",
+  "days_seen": 1,
+  "phase": "new",
+  "sources_seen": [
+    "wikipedia"
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-27",
+      "sources": [
+        "wikipedia"
+      ],
+      "signal": 0.16,
+      "items": [
+        {
+          "source": "wikipedia",
+          "title": "Duran Duran",
+          "url": "https://en.wikipedia.org/wiki/Duran_Duran",
+          "rank": 5,
+          "movement": "new"
+        }
+      ]
+    }
+  ],
+  "explainer": null,
+  "explainer_history": [],
+  "needs_research": false
+}

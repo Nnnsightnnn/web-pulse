@@ -5,9 +5,9 @@
     "Andy Taylor (guitarist)"
   ],
   "first_seen": "2026-11-26",
-  "last_seen": "2026-11-26",
-  "days_seen": 1,
-  "phase": "new",
+  "last_seen": "2026-11-27",
+  "days_seen": 2,
+  "phase": "climbing",
   "sources_seen": [
     "wikipedia"
   ],
@@ -27,9 +27,25 @@
           "movement": "new"
         }
       ]
+    },
+    {
+      "date": "2026-11-27",
+      "sources": [
+        "wikipedia"
+      ],
+      "signal": 0.8,
+      "items": [
+        {
+          "source": "wikipedia",
+          "title": "Andy Taylor (guitarist)",
+          "url": "https://en.wikipedia.org/wiki/Andy_Taylor_(guitarist)",
+          "rank": 1,
+          "movement": "climbing"
+        }
+      ]
     }
   ],
   "explainer": null,
   "explainer_history": [],
-  "needs_research": false
+  "needs_research": true
 }

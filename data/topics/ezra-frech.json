@@ -5,9 +5,9 @@
     "Ezra Frech"
   ],
   "first_seen": "2026-11-26",
-  "last_seen": "2026-11-26",
-  "days_seen": 1,
-  "phase": "new",
+  "last_seen": "2026-11-27",
+  "days_seen": 2,
+  "phase": "holding",
   "sources_seen": [
     "wikipedia"
   ],
@@ -25,6 +25,22 @@
           "url": "https://en.wikipedia.org/wiki/Ezra_Frech",
           "rank": 3,
           "movement": "new"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-27",
+      "sources": [
+        "wikipedia"
+      ],
+      "signal": 0.08,
+      "items": [
+        {
+          "source": "wikipedia",
+          "title": "Ezra Frech",
+          "url": "https://en.wikipedia.org/wiki/Ezra_Frech",
+          "rank": 10,
+          "movement": "falling"
         }
       ]
     }

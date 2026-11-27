@@ -7,11 +7,12 @@
     "PLAYING GTA 6 FOR THE FIRST TIME (PART 3)",
     "gta 6 chapter 2 mission list",
     "vespucci island gta 6",
-    "GTA 6 #2"
+    "GTA 6 #2",
+    "gta 6 pc port"
   ],
   "first_seen": "2026-11-18",
-  "last_seen": "2026-11-26",
-  "days_seen": 7,
+  "last_seen": "2026-11-27",
+  "days_seen": 8,
   "phase": "holding",
   "sources_seen": [
     "google-trends",
@@ -257,9 +258,33 @@
           "movement": "new"
         }
       ]
+    },
+    {
+      "date": "2026-11-27",
+      "sources": [
+        "google-trends",
+        "youtube"
+      ],
+      "signal": 0.08893280632411067,
+      "items": [
+        {
+          "source": "google-trends",
+          "title": "gta 6 pc port",
+          "url": "https://www.techpowerup.com/355160/rockstar-squashes-leonida-the-biggest-gta-6-pc-recompilation-effort",
+          "rank": 22,
+          "movement": "new"
+        },
+        {
+          "source": "youtube",
+          "title": "GTA 6 #2",
+          "url": "https://www.youtube.com/watch?v=umDq3LY7sFA",
+          "rank": 23,
+          "movement": "falling"
+        }
+      ]
     }
   ],
   "explainer": null,
   "explainer_history": [],
-  "needs_research": true
+  "needs_research": false
 }

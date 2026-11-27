@@ -1,0 +1,35 @@
+{
+  "id": "wu-tang-clan",
+  "name": "Wu-Tang Clan",
+  "aliases": [
+    "Wu-Tang Clan"
+  ],
+  "first_seen": "2026-11-27",
+  "last_seen": "2026-11-27",
+  "days_seen": 1,
+  "phase": "new",
+  "sources_seen": [
+    "wikipedia"
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-27",
+      "sources": [
+        "wikipedia"
+      ],
+      "signal": 0.13333333333333333,
+      "items": [
+        {
+          "source": "wikipedia",
+          "title": "Wu-Tang Clan",
+          "url": "https://en.wikipedia.org/wiki/Wu-Tang_Clan",
+          "rank": 6,
+          "movement": "new"
+        }
+      ]
+    }
+  ],
+  "explainer": null,
+  "explainer_history": [],
+  "needs_research": false
+}

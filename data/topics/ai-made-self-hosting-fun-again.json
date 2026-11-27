@@ -1,0 +1,35 @@
+{
+  "id": "ai-made-self-hosting-fun-again",
+  "name": "AI made self-hosting fun again",
+  "aliases": [
+    "AI made self-hosting fun again"
+  ],
+  "first_seen": "2026-11-27",
+  "last_seen": "2026-11-27",
+  "days_seen": 1,
+  "phase": "new",
+  "sources_seen": [
+    "hackernews"
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-27",
+      "sources": [
+        "hackernews"
+      ],
+      "signal": 0.8,
+      "items": [
+        {
+          "source": "hackernews",
+          "title": "AI made self-hosting fun again",
+          "url": "https://news.ycombinator.com/item?id=50660180",
+          "rank": 1,
+          "movement": "new"
+        }
+      ]
+    }
+  ],
+  "explainer": null,
+  "explainer_history": [],
+  "needs_research": true
+}

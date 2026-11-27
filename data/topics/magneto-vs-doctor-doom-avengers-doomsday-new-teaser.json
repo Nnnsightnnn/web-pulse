@@ -2,12 +2,13 @@
   "id": "magneto-vs-doctor-doom-avengers-doomsday-new-teaser",
   "name": "Magneto vs Doctor Doom | Avengers Doomsday New Teaser ",
   "aliases": [
-    "Magneto vs Doctor Doom | Avengers Doomsday New Teaser "
+    "Magneto vs Doctor Doom | Avengers Doomsday New Teaser ",
+    "Avengers Doomsday | Magneto vs Doom | Get Your Tickets at TGV Now"
   ],
   "first_seen": "2026-11-26",
-  "last_seen": "2026-11-26",
-  "days_seen": 1,
-  "phase": "new",
+  "last_seen": "2026-11-27",
+  "days_seen": 2,
+  "phase": "climbing",
   "sources_seen": [
     "wikipedia",
     "youtube"
@@ -40,6 +41,37 @@
           "title": "AVENGERS DOOMSDAY NEW TV SPOT ! | THE MASK IS OFF",
           "url": "https://www.youtube.com/watch?v=kBesuEzoMh0",
           "rank": 23,
+          "movement": "new"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-27",
+      "sources": [
+        "wikipedia",
+        "youtube"
+      ],
+      "signal": 0.2871212121212121,
+      "items": [
+        {
+          "source": "wikipedia",
+          "title": "Avengers: Doomsday",
+          "url": "https://en.wikipedia.org/wiki/Avengers%3A_Doomsday",
+          "rank": 24,
+          "movement": "falling"
+        },
+        {
+          "source": "youtube",
+          "title": "Avengers Doomsday | Magneto vs Doom | Get Your Tickets at TGV Now",
+          "url": "https://www.youtube.com/watch?v=DzgorMtx38c",
+          "rank": 5,
+          "movement": "new"
+        },
+        {
+          "source": "youtube",
+          "title": "Avengers: Doomsday All Trailers | IN ORDER THEY APPEAR",
+          "url": "https://www.youtube.com/watch?v=qe5Fr9lw3FE",
+          "rank": 22,
           "movement": "new"
         }
       ]

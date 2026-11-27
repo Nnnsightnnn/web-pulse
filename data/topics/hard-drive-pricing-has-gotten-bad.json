@@ -1,0 +1,35 @@
+{
+  "id": "hard-drive-pricing-has-gotten-bad",
+  "name": "Hard Drive pricing has gotten bad",
+  "aliases": [
+    "Hard Drive pricing has gotten bad"
+  ],
+  "first_seen": "2026-11-27",
+  "last_seen": "2026-11-27",
+  "days_seen": 1,
+  "phase": "new",
+  "sources_seen": [
+    "hackernews"
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-27",
+      "sources": [
+        "hackernews"
+      ],
+      "signal": 0.26666666666666666,
+      "items": [
+        {
+          "source": "hackernews",
+          "title": "Hard Drive pricing has gotten bad",
+          "url": "https://news.ycombinator.com/item?id=50661646",
+          "rank": 3,
+          "movement": "new"
+        }
+      ]
+    }
+  ],
+  "explainer": null,
+  "explainer_history": [],
+  "needs_research": false
+}

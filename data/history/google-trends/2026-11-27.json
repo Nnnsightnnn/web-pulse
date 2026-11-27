@@ -1,0 +1,365 @@
+{
+  "source": "google-trends",
+  "label": "Google Trends — trending searches",
+  "fetched_at": "2026-11-27T06:15:59.567Z",
+  "countries": [
+    "US",
+    "GB",
+    "IN",
+    "JP",
+    "BR",
+    "DE"
+  ],
+  "items": [
+    {
+      "rank": 1,
+      "title": "kuwait attack today",
+      "geos": [
+        "US"
+      ],
+      "traffic_estimate": 10000,
+      "news_title": "Iran war live: Iran’s Araghchi calls deadly Kuwait attack ‘suspicious’",
+      "news_url": "https://www.aljazeera.com/news/liveblog/2026/11/27/iran-war-live-irans-araghchi-calls-deadly-kuwait-attack-suspicious",
+      "news_source": "Al Jazeera",
+      "days_on": 1,
+      "prior_rank": null,
+      "movement": "new"
+    },
+    {
+      "rank": 2,
+      "title": "martin lewis",
+      "geos": [
+        "GB"
+      ],
+      "traffic_estimate": 5000,
+      "news_title": "Martin Lewis’ advice if you can't afford to heat your home",
+      "news_url": "https://www.bbc.co.uk/news/videos/cjr4gw12k2lwo",
+      "news_source": "BBC",
+      "days_on": 1,
+      "prior_rank": null,
+      "movement": "new"
+    },
+    {
+      "rank": 3,
+      "title": "sap layoffs",
+      "geos": [
+        "IN"
+      ],
+      "traffic_estimate": 5000,
+      "news_title": "SAP considers at least 10,000 job cuts in AI restructuring, Bloomberg reports",
+      "news_url": "https://www.reuters.com/technology/sap-considers-least-10000-job-cuts-ai-restructuring-bloomberg-reports-2026-11-26/",
+      "news_source": "Reuters",
+      "days_on": 1,
+      "prior_rank": null,
+      "movement": "new"
+    },
+    {
+      "rank": 4,
+      "title": "競馬 ジャパンカップ",
+      "geos": [
+        "JP"
+      ],
+      "traffic_estimate": 5000,
+      "news_title": "「どしたん？？」 超豪華G1ジャパンC、最新情報に競馬ファン困惑「こうしてみると…」 JRA発表（THE ANSWER）",
+      "news_url": "https://news.yahoo.co.jp/articles/b8bd0a8b9ef41fb3057f75cee2bfd9846fa6e9db",
+      "news_source": "Yahoo!ニュース",
+      "days_on": 1,
+      "prior_rank": null,
+      "movement": "new"
+    },
+    {
+      "rank": 5,
+      "title": "警報",
+      "geos": [
+        "JP"
+      ],
+      "traffic_estimate": 5000,
+      "news_title": "【速報】沖縄県本島北部 「線状降水帯」発生 災害発生の危険度が急激に高まる",
+      "news_url": "https://news.yahoo.co.jp/pickup/6604125",
+      "news_source": "Yahoo!ニュース",
+      "days_on": 1,
+      "prior_rank": null,
+      "movement": "new"
+    },
+    {
+      "rank": 6,
+      "title": "ps5",
+      "geos": [
+        "BR"
+      ],
+      "traffic_estimate": 5000,
+      "news_title": "'GTA 6' zomba do fim do 'sonho americano' com Bonnie e Clyde da era digital",
+      "news_url": "https://www1.folha.uol.com.br/ilustrada/2026/11/gta-6-zomba-do-fim-do-sonho-americano-com-bonnie-e-clyde-da-era-digital.shtml",
+      "news_source": "Folha de S.Paulo",
+      "days_on": 1,
+      "prior_rank": null,
+      "movement": "new"
+    },
+    {
+      "rank": 7,
+      "title": "fc bayern",
+      "geos": [
+        "DE"
+      ],
+      "traffic_estimate": 5000,
+      "news_title": "Musiala-Verletzung brachte Uli Hoeneß „richtig auf die Palme“ – Enthüllt!",
+      "news_url": "https://sportbild.bild.de/fussball/fc-bayern-muenchen/musiala-verletzung-brachte-uli-hoeness-richtig-auf-die-palme-enthuellt-6b086ee209772de371850536",
+      "news_source": "SPORT BILD",
+      "days_on": 1,
+      "prior_rank": null,
+      "movement": "new"
+    },
+    {
+      "rank": 8,
+      "title": "bill murray",
+      "geos": [
+        "US"
+      ],
+      "traffic_estimate": 2000,
+      "news_title": "Bill Murray: ‘I’m not always a good guy. My friends probably suffer a great deal’",
+      "news_url": "https://www.telegraph.co.uk/tv/2026/11/25/bill-murray-tom-coyne-interview/",
+      "news_source": "The Telegraph",
+      "days_on": 1,
+      "prior_rank": null,
+      "movement": "new"
+    },
+    {
+      "rank": 9,
+      "title": "deion sanders",
+      "geos": [
+        "US"
+      ],
+      "traffic_estimate": 2000,
+      "news_title": "Colorado's Deion Sanders shrugs off hot-seat chatter before UCF",
+      "news_url": "https://www.espn.com/college-football/story/_/id/50585728/colorado-sanders-shrugs-hot-seat-chatter-ucf",
+      "news_source": "ESPN",
+      "days_on": 1,
+      "prior_rank": null,
+      "movement": "new"
+    },
+    {
+      "rank": 10,
+      "title": "bank of england",
+      "geos": [
+        "GB"
+      ],
+      "traffic_estimate": 2000,
+      "news_title": "Millions of people to see average monthly mortgage payments rise by £100",
+      "news_url": "https://www.bbc.co.uk/news/articles/cwg5r02zel9qo",
+      "news_source": "BBC",
+      "days_on": 1,
+      "prior_rank": null,
+      "movement": "new"
+    },
+    {
+      "rank": 11,
+      "title": "william, prince of wales",
+      "geos": [
+        "GB"
+      ],
+      "traffic_estimate": 2000,
+      "news_title": "Diana Award charity placed into administration after 27 years",
+      "news_url": "https://www.bbc.co.uk/news/articles/cwvg2nmd9n8yo",
+      "news_source": "BBC",
+      "days_on": 1,
+      "prior_rank": null,
+      "movement": "new"
+    },
+    {
+      "rank": 12,
+      "title": "taiwan index",
+      "geos": [
+        "IN"
+      ],
+      "traffic_estimate": 2000,
+      "news_title": "Asian Regulators Step Up Efforts to Calm AI-Driven Market Turmoil",
+      "news_url": "https://www.wsj.com/finance/stocks/asian-regulators-step-up-efforts-to-calm-ai-driven-market-turmoil-95ea6cf8",
+      "news_source": "WSJ",
+      "days_on": 1,
+      "prior_rank": null,
+      "movement": "returning"
+    },
+    {
+      "rank": 13,
+      "title": "jessica biel",
+      "geos": [
+        "US"
+      ],
+      "traffic_estimate": 1000,
+      "news_title": "Justin Timberlake Documentary Trailer: “He’s Not Who I Thought He Was”",
+      "news_url": "https://www.hollywoodreporter.com/tv/tv-news/justin-timberlake-documentary-trailer-apple-1236761080/",
+      "news_source": "The Hollywood Reporter",
+      "days_on": 1,
+      "prior_rank": null,
+      "movement": "new"
+    },
+    {
+      "rank": 14,
+      "title": "jd",
+      "geos": [
+        "US"
+      ],
+      "traffic_estimate": 1000,
+      "news_title": "US Army releases post-detonation maps of potential lead dust exposure",
+      "news_url": "https://www.wqad.com/article/news/local/public-safety/latest-maps-provided-by-us-army-show-potential-locations-of-lead-exposure-during-wednesdays-controlled-detonation/526-4a4b35c3-242d-44fe-88e5-a5f16ef61311",
+      "news_source": "WQAD",
+      "days_on": 1,
+      "prior_rank": null,
+      "movement": "new"
+    },
+    {
+      "rank": 15,
+      "title": "tyson fury anthony joshua",
+      "geos": [
+        "GB"
+      ],
+      "traffic_estimate": 1000,
+      "news_title": "Tyson Fury vs Anthony Joshua: Paris Fury clarifies fighter did not have schizophrenia diagnosis",
+      "news_url": "https://www.bbc.co.uk/sport/boxing/articles/cwj3klxj10edo",
+      "news_source": "BBC",
+      "days_on": 1,
+      "prior_rank": null,
+      "movement": "new"
+    },
+    {
+      "rank": 16,
+      "title": "black friday 2026",
+      "geos": [
+        "IN"
+      ],
+      "traffic_estimate": 1000,
+      "news_title": "Black Friday Deals 2026: How India Shops and What Brands are Offering New",
+      "news_url": "https://www.localsamosa.com/business/black-friday-deals-2026-12840939",
+      "news_source": "Local Samosa",
+      "days_on": 1,
+      "prior_rank": null,
+      "movement": "new"
+    },
+    {
+      "rank": 17,
+      "title": "thiruparankundram hill",
+      "geos": [
+        "IN"
+      ],
+      "traffic_estimate": 1000,
+      "news_title": "Thirupparankundram Deepam row LIVE: Supreme Court to hear contempt pleas at noon",
+      "news_url": "https://www.thehindu.com/news/national/tamil-nadu/thiruparankundram-deepam-issue-supreme-court-contempt-tamil-nadu-karthigai-deepam-deepathoon-row-live-updates-november-27-2026/article71749336.ece",
+      "news_source": "The Hindu",
+      "days_on": 1,
+      "prior_rank": null,
+      "movement": "new"
+    },
+    {
+      "rank": 18,
+      "title": "札幌市",
+      "geos": [
+        "JP"
+      ],
+      "traffic_estimate": 1000,
+      "news_title": "汚水が混入か 飲食店ビルで食中毒",
+      "news_url": "https://news.yahoo.co.jp/pickup/6604114",
+      "news_source": "Yahoo!ニュース",
+      "days_on": 1,
+      "prior_rank": null,
+      "movement": "new"
+    },
+    {
+      "rank": 19,
+      "title": "マリニン",
+      "geos": [
+        "JP"
+      ],
+      "traffic_estimate": 1000,
+      "news_title": "イリア・マリニンの新アプローチと「侍」のプログラム「最も力強い曲のひとつ」フィギュアスケート",
+      "news_url": "https://www.olympics.com/ja/news/ilia-malinin-new-approach-post-olympic-season-figure-skating",
+      "news_source": "Olympic Channel",
+      "days_on": 1,
+      "prior_rank": null,
+      "movement": "new"
+    },
+    {
+      "rank": 20,
+      "title": "silvia wollnys",
+      "geos": [
+        "DE"
+      ],
+      "traffic_estimate": 1000,
+      "news_title": "Schüsse auf Wollny-Stammlokal in der Türkei: „Ich habe richtig, richtig Angst“",
+      "news_url": "https://www.derwesten.de/region/schuesse-auf-wollny-stammlokal-in-der-tuerkei-ich-habe-richtig-richtig-angst-id302206903.html",
+      "news_source": "DerWesten",
+      "days_on": 1,
+      "prior_rank": null,
+      "movement": "new"
+    },
+    {
+      "rank": 21,
+      "title": "michael douglas",
+      "geos": [
+        "US"
+      ],
+      "traffic_estimate": 500,
+      "news_title": "",
+      "news_url": "",
+      "news_source": "",
+      "days_on": 1,
+      "prior_rank": null,
+      "movement": "new"
+    },
+    {
+      "rank": 22,
+      "title": "gta 6 pc port",
+      "geos": [
+        "US"
+      ],
+      "traffic_estimate": 500,
+      "news_title": "Rockstar Squashes \"Leonida,\" the Biggest GTA 6 PC Recompilation Effort",
+      "news_url": "https://www.techpowerup.com/355160/rockstar-squashes-leonida-the-biggest-gta-6-pc-recompilation-effort",
+      "news_source": "TechPowerUp",
+      "days_on": 1,
+      "prior_rank": null,
+      "movement": "new"
+    },
+    {
+      "rank": 23,
+      "title": "alphonso smith",
+      "geos": [
+        "US"
+      ],
+      "traffic_estimate": 500,
+      "news_title": "Former NFL Player Alphonso Smith Jr. Cause of Death Revealed",
+      "news_url": "https://www.tmz.com/2026/11/24/alphonso-smith-jr-cause-of-death-revealed/",
+      "news_source": "TMZ",
+      "days_on": 1,
+      "prior_rank": null,
+      "movement": "new"
+    },
+    {
+      "rank": 24,
+      "title": "ronnie o'sullivan uk championship draw",
+      "geos": [
+        "GB"
+      ],
+      "traffic_estimate": 500,
+      "news_title": "UK Championship: Mark Selby faces tough opener, with Mark Allen and Ronnie O'Sullivan set to feature",
+      "news_url": "https://www.bbc.co.uk/sport/snooker/articles/cwkgmdryrv4ro",
+      "news_source": "BBC",
+      "days_on": 1,
+      "prior_rank": null,
+      "movement": "new"
+    },
+    {
+      "rank": 25,
+      "title": "bombay high court",
+      "geos": [
+        "IN"
+      ],
+      "traffic_estimate": 500,
+      "news_title": "Tata Trusts Back Lawsuit Against Tata Sons Chair’s Reappointment",
+      "news_url": "https://www.bloomberg.com/news/articles/2026-11-26/tata-trusts-back-lawsuit-against-tata-sons-chair-s-reappointment",
+      "news_source": "Bloomberg.com",
+      "days_on": 2,
+      "prior_rank": 14,
+      "movement": "falling"
+    }
+  ]
+}

@@ -1,11 +1,11 @@
 {
-  "date": "2026-11-26",
-  "generated_at": "2026-11-26T06:17:01.740Z",
-  "lede": "The web spent the day at the movies. The final trailer for Avengers: Doomsday drew 55,201,638 views on YouTube ahead of its December 18 release, and Grand Theft Auto VI turned up on Wikipedia, YouTube and Google Trends at once, a title that moves every kind of feed. Away from the screen, Miss Universe 2026 led Wikipedia with 394,056 reads, and Nvidia chief Jensen Huang surfaced across a news wire and Wikipedia both.",
+  "date": "2026-11-27",
+  "generated_at": "2026-11-27T06:16:44.354Z",
+  "lede": "Grand Theft Auto VI was the most travelled subject of the day, surfacing on Wikipedia, YouTube, Google Trends and Lemmy at once. The loudest of the four was a Lemmy post voted past 670, reporting that reverse engineers had the game running on PC against Rockstar's wishes. Two Avengers: Doomsday TV spots built on Magneto and Doctor Doom drew 3.8 million YouTube views between them. Wikipedia's single most-read article, though, was neither of those: a guitarist, Andy Taylor, at 318,400 views.",
   "throughlines": [
     {
-      "title": "Magneto vs Doctor Doom | Avengers Doomsday New Teaser",
-      "gist": "Marvel’s next crossover is arriving: the final trailer is already past 55 million YouTube views with the film due December 18, and the Wikipedia page is climbing right alongside it.",
+      "title": "Avengers Doomsday | Magneto vs Doom | Get Your Tickets at TGV Now",
+      "gist": "A Magneto versus Doctor Doom teaser for Avengers: Doomsday, climbing in its second day across Wikipedia and YouTube, where the ticket spot alone has drawn 2.76 million views.",
       "sources": [
         "wikipedia",
         "youtube"
@@ -13,47 +13,46 @@
       "url": "https://en.wikipedia.org/wiki/Avengers%3A_Doomsday",
       "kind": "cluster",
       "topic_id": "magneto-vs-doctor-doom-avengers-doomsday-new-teaser",
-      "phase": "new",
-      "days_seen": 1,
+      "phase": "climbing",
+      "days_seen": 2,
       "first_seen": "2026-11-26",
       "why": null,
       "explainer_url": "https://nnnsightnnn.github.io/web-pulse/topics.html#magneto-vs-doctor-doom-avengers-doomsday-new-teaser"
     },
     {
-      "title": "At AI speed , Nvidia Jensen Huang finds exoneration",
-      "gist": "Nvidia’s chief executive is live on a news wire and Wikipedia in the same window, a sign the company’s story is back near the center of the day.",
+      "title": "Grand Theft Auto VI",
+      "gist": "Rockstar's Grand Theft Auto VI, launched November 19 on PlayStation 5 and Xbox Series X/S, is now ten days on the feeds and holding, still pulling readers on Wikipedia and viewers on YouTube.",
       "sources": [
-        "bluesky",
-        "gdelt-ai",
-        "wikipedia"
+        "wikipedia",
+        "youtube"
       ],
-      "url": "https://en.wikipedia.org/wiki/Jensen_Huang",
+      "url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI",
       "kind": "cluster",
-      "topic_id": "at-ai-speed-nvidia-jensen-huang-finds-exoneration",
-      "phase": "new",
-      "days_seen": 1,
-      "first_seen": "2026-11-26",
-      "why": null,
-      "explainer_url": "https://nnnsightnnn.github.io/web-pulse/topics.html#at-ai-speed-nvidia-jensen-huang-finds-exoneration"
+      "topic_id": "grand-theft-auto-vi",
+      "phase": "holding",
+      "days_seen": 10,
+      "first_seen": "2026-11-18",
+      "why": "Rockstar's Grand Theft Auto VI launched on November 19, 2026, on PlayStation 5 and Xbox Series X/S, and this weekend is its first on sale.",
+      "explainer_url": "https://nnnsightnnn.github.io/web-pulse/topics.html#grand-theft-auto-vi"
     },
     {
-      "title": "Aaron Rodgers was released by the Stealers?",
-      "gist": "The veteran quarterback is pulling Wikipedia traffic and Bluesky chatter at once, an NFL story moving on both the reference and the social side.",
+      "title": "gta 6 pc port",
+      "gist": "The separate scramble to get GTA VI running on PC, live on Google Trends and YouTube for eight days, after Rockstar moved to squash the biggest recompilation effort.",
       "sources": [
-        "bluesky",
-        "wikipedia"
+        "google-trends",
+        "youtube"
       ],
-      "url": "https://en.wikipedia.org/wiki/Aaron_Rodgers",
+      "url": "https://www.techpowerup.com/355160/rockstar-squashes-leonida-the-biggest-gta-6-pc-recompilation-effort",
       "kind": "cluster",
-      "topic_id": "aaron-rodgers-was-released-by-the-stealers",
-      "phase": "new",
-      "days_seen": 1,
-      "first_seen": "2026-11-26",
+      "topic_id": "gta-6",
+      "phase": "holding",
+      "days_seen": 8,
+      "first_seen": "2026-11-18",
       "why": null,
-      "explainer_url": "https://nnnsightnnn.github.io/web-pulse/topics.html#aaron-rodgers-was-released-by-the-stealers"
+      "explainer_url": "https://nnnsightnnn.github.io/web-pulse/topics.html#gta-6"
     }
   ],
-  "strength": 81,
+  "strength": 42,
   "live_sources": 17,
   "total_sources": 17,
   "dashboard_url": "https://nnnsightnnn.github.io/web-pulse/",
