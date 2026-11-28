@@ -31,5 +31,9 @@
   ],
   "explainer": null,
   "explainer_history": [],
-  "needs_research": true
+  "needs_research": false,
+  "research_skipped": {
+    "at": "2026-11-28T07:41:10.350Z",
+    "reason": "unkernel.dev did not load; only HN thread and third-party pages available, architecture disputed"
+  }
 }

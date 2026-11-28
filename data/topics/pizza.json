@@ -31,5 +31,9 @@
   ],
   "explainer": null,
   "explainer_history": [],
-  "needs_research": true
+  "needs_research": false,
+  "research_skipped": {
+    "at": "2026-11-28T07:41:10.310Z",
+    "reason": "Only source (Guardian article) could not be fetched; search found no matching story"
+  }
 }

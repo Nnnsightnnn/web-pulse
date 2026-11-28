@@ -18,10 +18,10 @@
       ],
       "signal": 1.35,
       "url": "https://polymarket.com/event/cs2-ast10-imp11-2026-11-28",
-      "summary": null,
-      "why_now": null,
-      "researched_at": null,
-      "needs_research": true
+      "summary": "Counter-Strike 2 is Valve's competitive shooter, and it is the game behind the PGL Major Singapore 2026, the second CS2 Major of the year.",
+      "why_now": "Stage 2 of the PGL Major Singapore began on November 28, so betting markets are listing the day's matches, such as Astralis vs Imperial and G2 vs Liquid.",
+      "researched_at": "2026-11-28T07:41:10.206Z",
+      "needs_research": false
     },
     {
       "id": "joe-milton",
@@ -38,10 +38,10 @@
       ],
       "signal": 0.8,
       "url": "https://en.wikipedia.org/wiki/Joe_Milton",
-      "summary": null,
-      "why_now": null,
-      "researched_at": null,
-      "needs_research": true
+      "summary": "Joe Milton III is a 26-year-old quarterback who played at Michigan and Tennessee and was drafted by the Patriots in 2024. He now plays for the Philadelphia Eagles.",
+      "why_now": "With starter Jalen Hurts sidelined, Milton was reported in early November to be making his first NFL start for the Eagles against the Giants in Week 9.",
+      "researched_at": "2026-11-28T07:41:10.266Z",
+      "needs_research": false
     },
     {
       "id": "pizza",
@@ -61,7 +61,7 @@
       "summary": null,
       "why_now": null,
       "researched_at": null,
-      "needs_research": true
+      "needs_research": false
     },
     {
       "id": "unkernel-real-linux-kernel-compiled-to-webassembly",
@@ -81,7 +81,7 @@
       "summary": null,
       "why_now": null,
       "researched_at": null,
-      "needs_research": true
+      "needs_research": false
     },
     {
       "id": "google-s-deepcrossattention-achieves-comparable-model-qualit",
@@ -2490,10 +2490,5 @@
       "needs_research": false
     }
   ],
-  "research_queue": [
-    "counter-strike-2",
-    "joe-milton",
-    "pizza",
-    "unkernel-real-linux-kernel-compiled-to-webassembly"
-  ]
+  "research_queue": []
 }

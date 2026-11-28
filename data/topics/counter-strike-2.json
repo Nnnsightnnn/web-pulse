@@ -52,7 +52,30 @@
       ]
     }
   ],
-  "explainer": null,
+  "explainer": {
+    "summary": "Counter-Strike 2 is Valve's competitive shooter, and it is the game behind the PGL Major Singapore 2026, the second CS2 Major of the year.",
+    "why_now": "Stage 2 of the PGL Major Singapore began on November 28, so betting markets are listing the day's matches, such as Astralis vs Imperial and G2 vs Liquid.",
+    "background": [
+      "The PGL Major Singapore runs from November 24 or 25 (sources differ) to December 13, 2026, with 32 teams and a prize pool of US$1,250,000. It is billed as the first CS2 Major in Southeast Asia.",
+      "Stage 1 was a 16-team Swiss event, and eight teams advanced. Stage 2 runs November 28 to December 1 with eight invited teams, including G2, THE ONE and Astralis, plus eight qualifiers, and eight teams advance to Stage 3.",
+      "Playoffs are December 10 to 13 at the Singapore Indoor Stadium, with best-of-three quarterfinals and semifinals and a best-of-five Grand Final."
+    ],
+    "sources": [
+      {
+        "url": "https://www.strafe.com/news/read/cs2-singapore-major-2026-format-teams-schedule-and-opening-matches/",
+        "title": "PGL Singapore Major 2026: Format, Teams, Schedule and Opening Matches",
+        "fetched_at": "2026-11-28T07:41:10Z"
+      },
+      {
+        "url": "https://www.thekallang.com.sg/events/pgl-major-singapore-2026",
+        "title": "PGL Major Singapore 2026 (The Kallang)",
+        "fetched_at": "2026-11-28T07:41:10Z"
+      }
+    ],
+    "researched_at": "2026-11-28T07:41:10.206Z",
+    "phase_at_research": "new",
+    "engine": "ai"
+  },
   "explainer_history": [],
-  "needs_research": true
+  "needs_research": false
 }

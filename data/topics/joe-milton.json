@@ -29,7 +29,30 @@
       ]
     }
   ],
-  "explainer": null,
+  "explainer": {
+    "summary": "Joe Milton III is a 26-year-old quarterback who played at Michigan and Tennessee and was drafted by the Patriots in 2024. He now plays for the Philadelphia Eagles.",
+    "why_now": "With starter Jalen Hurts sidelined, Milton was reported in early November to be making his first NFL start for the Eagles against the Giants in Week 9.",
+    "background": [
+      "The Eagles signed him off the Dallas Cowboys practice squad in October. Newsweek reported that Hurts had a superficial blood clot in his calf, and the Inquirer said the Eagles were 2-6 and on a six-game losing streak when Milton was named to replace Tanner McKee.",
+      "Milton was a sixth-round pick by New England in 2024 and was traded to Dallas in April 2025. Before this, he had appeared in five regular-season games, completing 69.8 percent of his passes for 424 yards, two touchdowns and two interceptions. He is 6-foot-5 and known for arm strength.",
+      "The sources here date from early November, so they do not say how the Giants game went."
+    ],
+    "sources": [
+      {
+        "url": "https://www.inquirer.com/eagles/eagles-quarterback-joe-milton-what-to-know-starter-20261104.html",
+        "title": "Eagles quarterback Joe Milton: what to know",
+        "fetched_at": "2026-11-28T07:41:10Z"
+      },
+      {
+        "url": "https://www.newsweek.com/sports/nfl/eagles-turn-to-former-cowboys-qb-after-jalen-hurts-injury-12580042",
+        "title": "Eagles turn to former Cowboys QB after Jalen Hurts injury",
+        "fetched_at": "2026-11-28T07:41:10Z"
+      }
+    ],
+    "researched_at": "2026-11-28T07:41:10.266Z",
+    "phase_at_research": "new",
+    "engine": "ai"
+  },
   "explainer_history": [],
-  "needs_research": true
+  "needs_research": false
 }
