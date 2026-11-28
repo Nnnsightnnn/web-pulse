@@ -53,13 +53,6 @@
       "signal": 0.22698412698412698,
       "items": [
         {
-          "source": "wikipedia",
-          "title": "Grand Theft Auto",
-          "url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto",
-          "rank": 18,
-          "movement": "falling"
-        },
-        {
           "source": "steam",
           "title": "Grand Theft Auto V Enhanced",
           "url": "https://store.steampowered.com/app/3240220",
@@ -72,6 +65,13 @@
           "url": "https://store.steampowered.com/app/271590",
           "rank": 14,
           "movement": "holding"
+        },
+        {
+          "source": "wikipedia",
+          "title": "Grand Theft Auto",
+          "url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto",
+          "rank": 18,
+          "movement": "falling"
         }
       ]
     }

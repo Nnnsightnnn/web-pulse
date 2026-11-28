@@ -22,13 +22,6 @@
       "signal": 1.35,
       "items": [
         {
-          "source": "steam",
-          "title": "Counter-Strike 2",
-          "url": "https://store.steampowered.com/app/730",
-          "rank": 1,
-          "movement": "holding"
-        },
-        {
           "source": "polymarket",
           "title": "Counter-Strike: Astralis vs Imperial (BO1) - PGL Major Singapore Stage 2",
           "url": "https://polymarket.com/event/cs2-ast10-imp11-2026-11-28",
@@ -48,6 +41,13 @@
           "url": "https://polymarket.com/event/cs2-one6-ef1-2026-11-28",
           "rank": 8,
           "movement": "new"
+        },
+        {
+          "source": "steam",
+          "title": "Counter-Strike 2",
+          "url": "https://store.steampowered.com/app/730",
+          "rank": 1,
+          "movement": "holding"
         }
       ]
     }

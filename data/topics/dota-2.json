@@ -4,39 +4,15 @@
   "aliases": [
     "Dota 2"
   ],
-  "first_seen": "2026-11-14",
+  "first_seen": "2026-11-16",
   "last_seen": "2026-11-16",
-  "days_seen": 2,
+  "days_seen": 1,
   "phase": "closed",
   "sources_seen": [
     "polymarket",
     "steam"
   ],
   "timeline": [
-    {
-      "date": "2026-11-14",
-      "sources": [
-        "polymarket",
-        "steam"
-      ],
-      "signal": 0.5285714285714286,
-      "items": [
-        {
-          "source": "polymarket",
-          "title": "Dota 2: potn9ki vs oveA - Game 2 Winner",
-          "url": "https://polymarket.com/event/dota2-p-ovea-2026-11-13",
-          "rank": 14,
-          "movement": "new"
-        },
-        {
-          "source": "steam",
-          "title": "Dota 2",
-          "url": "https://store.steampowered.com/app/570",
-          "rank": 2,
-          "movement": "holding"
-        }
-      ]
-    },
     {
       "date": "2026-11-16",
       "sources": [

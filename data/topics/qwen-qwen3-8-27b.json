@@ -4,46 +4,15 @@
   "aliases": [
     "Qwen/Qwen3.8-27B"
   ],
-  "first_seen": "2026-11-14",
+  "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
-  "days_seen": 2,
+  "days_seen": 1,
   "phase": "closed",
   "sources_seen": [
     "hackernews",
     "huggingface"
   ],
   "timeline": [
-    {
-      "date": "2026-11-14",
-      "sources": [
-        "hackernews",
-        "huggingface"
-      ],
-      "signal": 0.4714285714285714,
-      "items": [
-        {
-          "source": "hackernews",
-          "title": "Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update",
-          "url": "https://news.ycombinator.com/item?id=50491980",
-          "rank": 5,
-          "movement": "new"
-        },
-        {
-          "source": "huggingface",
-          "title": "Qwen/Qwen3.8-27B",
-          "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
-          "rank": 5,
-          "movement": "holding"
-        },
-        {
-          "source": "huggingface",
-          "title": "unsloth/Qwen3.8-27B-GGUF",
-          "url": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
-          "rank": 14,
-          "movement": "holding"
-        }
-      ]
-    },
     {
       "date": "2026-11-24",
       "sources": [

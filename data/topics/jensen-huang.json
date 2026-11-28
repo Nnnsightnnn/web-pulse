@@ -3,12 +3,12 @@
   "name": "Jensen Huang",
   "aliases": [
     "Jensen Huang",
-    "Jensen Huang resigns",
-    "Nvidia Reinstates Jensen Huang as CEO"
+    "Nvidia Reinstates Jensen Huang as CEO",
+    "BREAKING: jensen huang to steelers"
   ],
-  "first_seen": "2026-11-10",
-  "last_seen": "2026-11-25",
-  "days_seen": 12,
+  "first_seen": "2026-11-15",
+  "last_seen": "2026-11-26",
+  "days_seen": 8,
   "phase": "fading",
   "sources_seen": [
     "bluesky",
@@ -19,150 +19,6 @@
     "wikipedia"
   ],
   "timeline": [
-    {
-      "date": "2026-11-10",
-      "sources": [
-        "polymarket",
-        "wikipedia"
-      ],
-      "signal": 0.6173913043478261,
-      "items": [
-        {
-          "source": "polymarket",
-          "title": "Jensen Huang divorce by December 31, 2026?",
-          "url": "https://polymarket.com/event/jensen-huang-divorce-in-2026",
-          "rank": 23,
-          "movement": "new"
-        },
-        {
-          "source": "wikipedia",
-          "title": "Jensen Huang",
-          "url": "https://en.wikipedia.org/wiki/Jensen_Huang",
-          "rank": 3,
-          "movement": "new"
-        }
-      ]
-    },
-    {
-      "date": "2026-11-11",
-      "sources": [
-        "wikipedia"
-      ],
-      "signal": 0.26666666666666666,
-      "items": [
-        {
-          "source": "wikipedia",
-          "title": "Jensen Huang",
-          "url": "https://en.wikipedia.org/wiki/Jensen_Huang",
-          "rank": 3,
-          "movement": "holding"
-        }
-      ]
-    },
-    {
-      "date": "2026-11-12",
-      "sources": [
-        "hackernews",
-        "polymarket",
-        "wikipedia"
-      ],
-      "signal": 0.8235294117647058,
-      "items": [
-        {
-          "source": "hackernews",
-          "title": "Nvidia is preparing to oust Jensen Huang",
-          "url": "https://news.ycombinator.com/item?id=50459703",
-          "rank": 5,
-          "movement": "new"
-        },
-        {
-          "source": "polymarket",
-          "title": "Jensen Huang divorce by December 31, 2026?",
-          "url": "https://polymarket.com/event/jensen-huang-divorce-in-2026",
-          "rank": 17,
-          "movement": "returning"
-        },
-        {
-          "source": "wikipedia",
-          "title": "Jensen Huang",
-          "url": "https://en.wikipedia.org/wiki/Jensen_Huang",
-          "rank": 3,
-          "movement": "holding"
-        }
-      ]
-    },
-    {
-      "date": "2026-11-13",
-      "sources": [
-        "gdelt-ai",
-        "hackernews",
-        "lemmy",
-        "polymarket",
-        "wikipedia"
-      ],
-      "signal": 4.936363636363636,
-      "items": [
-        {
-          "source": "gdelt-ai",
-          "title": "Who could replace the departed Jensen Huang as Nvidia CEO ?",
-          "url": "https://www.theguardian.com/technology/2026/nov/12/jensen-huang-nvidia-ceo-replacement",
-          "rank": 5,
-          "movement": "new"
-        },
-        {
-          "source": "hackernews",
-          "title": "Jensen Huang resigns",
-          "url": "https://news.ycombinator.com/item?id=50467087",
-          "rank": 1,
-          "movement": "new"
-        },
-        {
-          "source": "hackernews",
-          "title": "Nvidia employees petition to bring back Jensen Huang",
-          "url": "https://news.ycombinator.com/item?id=50477231",
-          "rank": 10,
-          "movement": "new"
-        },
-        {
-          "source": "lemmy",
-          "title": "Jensen Huang resigns as Nvidia CEO immediately",
-          "url": "https://lemmy.world/post/54323761",
-          "rank": 1,
-          "movement": "new"
-        },
-        {
-          "source": "wikipedia",
-          "title": "Jensen Huang",
-          "url": "https://en.wikipedia.org/wiki/Jensen_Huang",
-          "rank": 1,
-          "movement": "climbing"
-        }
-      ]
-    },
-    {
-      "date": "2026-11-14",
-      "sources": [
-        "polymarket",
-        "wikipedia"
-      ],
-      "signal": 1.82,
-      "items": [
-        {
-          "source": "polymarket",
-          "title": "Will Jensen Huang rejoin NVIDIA by November 30, 2026?",
-          "url": "https://polymarket.com/event/jensen-huang-rejoins-nvidia-byptptpt",
-          "rank": 20,
-          "movement": "new"
-        },
-        {
-          "source": "wikipedia",
-          "title": "Jensen Huang",
-          "url": "https://en.wikipedia.org/wiki/Jensen_Huang",
-          "rank": 1,
-          "movement": "holding"
-        }
-      ]
-    },
     {
       "date": "2026-11-15",
       "sources": [
@@ -302,6 +158,34 @@
       "signal": 4.283333333333333,
       "items": [
         {
+          "source": "bluesky",
+          "title": "BREAKING: Lauren Boebert offers to give Jensen Huang a hand at Nvidia.",
+          "url": "https://bsky.app/profile/covie93.bsky.social/post/3n2zczefbt22j",
+          "rank": 21,
+          "movement": "new"
+        },
+        {
+          "source": "gdelt-ai",
+          "title": "Asian stocks rally after Wall Street rebound as Jensen Huang returns as Nvidia CEO | World News",
+          "url": "http://www.thegazette.com/news/world/asian-stocks-rally-after-wall-street-rebound-as-jensen-huang-returns-as-nvidia-s-ceo/article_94740cc8-d0c4-5e46-b00f-cb99732875a6.html",
+          "rank": 4,
+          "movement": "new"
+        },
+        {
+          "source": "gdelt-ai",
+          "title": "Asian stocks rally after Wall Street rebound as Jensen Huang returns as Nvidia CEO | News",
+          "url": "http://www.wdtimes.com/news/world/asian-stocks-rally-after-wall-street-rebound-as-jensen-huang-returns-as-nvidia-s-ceo/article_f60054c1-1fe0-5ae9-b220-8d4f328a1e42.html",
+          "rank": 5,
+          "movement": "new"
+        },
+        {
+          "source": "gdelt-ai",
+          "title": "Nvidia reinstates Jensen Huang as CEO : Trump , Musk , Altman react while the internet has jokes",
+          "url": "https://mashable.com/tech/nvidia-ceo-huang-reinstated-back-reactions-trump-musk-altman",
+          "rank": 6,
+          "movement": "new"
+        },
+        {
           "source": "wikipedia",
           "title": "Jensen Huang",
           "url": "https://en.wikipedia.org/wiki/Jensen_Huang",
@@ -313,20 +197,6 @@
           "title": "Nvidia Reinstates Jensen Huang as CEO",
           "url": "https://news.ycombinator.com/item?id=50611576",
           "rank": 1,
-          "movement": "new"
-        },
-        {
-          "source": "lemmy",
-          "title": "Nvidia reinstates Jensen Huang as CEO",
-          "url": "https://lemmy.world/post/54756585",
-          "rank": 1,
-          "movement": "new"
-        },
-        {
-          "source": "lemmy",
-          "title": "NVIDIA Board reinstates Jensen Huang as President, CEO and Board Director.",
-          "url": "https://lemmy.world/post/54756595",
-          "rank": 21,
           "movement": "new"
         }
       ]
@@ -340,18 +210,42 @@
       "signal": 0.6833333333333333,
       "items": [
         {
-          "source": "wikipedia",
-          "title": "Jensen Huang",
-          "url": "https://en.wikipedia.org/wiki/Jensen_Huang",
-          "rank": 3,
-          "movement": "holding"
-        },
-        {
           "source": "gdelt-ai",
           "title": "At AI speed , Nvidia Jensen Huang finds exoneration",
           "url": "https://www.asiaone.com:443/world/ai-speed-nvidias-jensen-huang-finds-exoneration",
           "rank": 12,
           "movement": "new"
+        },
+        {
+          "source": "wikipedia",
+          "title": "Jensen Huang",
+          "url": "https://en.wikipedia.org/wiki/Jensen_Huang",
+          "rank": 3,
+          "movement": "holding"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-26",
+      "sources": [
+        "bluesky",
+        "wikipedia"
+      ],
+      "signal": 0.12916666666666665,
+      "items": [
+        {
+          "source": "bluesky",
+          "title": "BREAKING: jensen huang to steelers",
+          "url": "https://bsky.app/profile/jcsalterego.bsky.social/post/3n363w34g222o",
+          "rank": 15,
+          "movement": "new"
+        },
+        {
+          "source": "wikipedia",
+          "title": "Jensen Huang",
+          "url": "https://en.wikipedia.org/wiki/Jensen_Huang",
+          "rank": 16,
+          "movement": "falling"
         }
       ]
     }

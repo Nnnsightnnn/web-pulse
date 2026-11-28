@@ -1,51 +1,18 @@
 {
-  "id": "pakistan-vs-sri-lanka",
-  "name": "pakistan vs sri lanka",
+  "id": "sri-lanka-vs-pakistan",
+  "name": "sri lanka vs pakistan",
   "aliases": [
-    "pakistan vs sri lanka",
     "sri lanka vs pakistan",
     "sri lanka a vs hong kong"
   ],
-  "first_seen": "2026-11-11",
+  "first_seen": "2026-11-17",
   "last_seen": "2026-11-21",
-  "days_seen": 5,
+  "days_seen": 3,
   "phase": "closed",
   "sources_seen": [
     "google-trends"
   ],
   "timeline": [
-    {
-      "date": "2026-11-11",
-      "sources": [
-        "google-trends"
-      ],
-      "signal": 0.4,
-      "items": [
-        {
-          "source": "google-trends",
-          "title": "pakistan vs sri lanka",
-          "url": "https://www.cricinfo.com/story/pak-vs-sl-wtc-second-tier-finds-its-purpose-in-the-next-generation-1562044",
-          "rank": 2,
-          "movement": "climbing"
-        }
-      ]
-    },
-    {
-      "date": "2026-11-12",
-      "sources": [
-        "google-trends"
-      ],
-      "signal": 0.8,
-      "items": [
-        {
-          "source": "google-trends",
-          "title": "pakistan vs sri lanka",
-          "url": "https://www.cricinfo.com/story/pak-vs-sl-wtc-second-tier-finds-its-purpose-in-the-next-generation-1562044",
-          "rank": 1,
-          "movement": "holding"
-        }
-      ]
-    },
     {
       "date": "2026-11-17",
       "sources": [

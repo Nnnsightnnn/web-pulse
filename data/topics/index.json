@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T06:17:14.996Z",
+  "generated_at": "2026-11-28T06:15:00.000Z",
   "date": "2026-11-28",
   "topics": [
     {
@@ -17,7 +17,7 @@
         "steam"
       ],
       "signal": 1.35,
-      "url": "https://store.steampowered.com/app/730",
+      "url": "https://polymarket.com/event/cs2-ast10-imp11-2026-11-28",
       "summary": null,
       "why_now": null,
       "researched_at": null,
@@ -84,20 +84,20 @@
       "needs_research": true
     },
     {
-      "id": "xxx",
-      "name": ".xxx",
+      "id": "google-s-deepcrossattention-achieves-comparable-model-qualit",
+      "name": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
       "aliases": [
-        ".xxx"
+        "Google's DeepCrossAttention achieves comparable model quality up to 3x faster"
       ],
-      "phase": "climbing",
-      "first_seen": "2026-11-09",
+      "phase": "new",
+      "first_seen": "2026-11-28",
       "last_seen": "2026-11-28",
-      "days_seen": 14,
+      "days_seen": 1,
       "sources_seen": [
-        "wikipedia"
+        "hackernews"
       ],
       "signal": 0.4,
-      "url": "https://en.wikipedia.org/wiki/.xxx",
+      "url": "https://news.ycombinator.com/item?id=50672565",
       "summary": null,
       "why_now": null,
       "researched_at": null,
@@ -124,20 +124,20 @@
       "needs_research": false
     },
     {
-      "id": "google-s-deepcrossattention-achieves-comparable-model-qualit",
-      "name": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
+      "id": "xxx",
+      "name": ".xxx",
       "aliases": [
-        "Google's DeepCrossAttention achieves comparable model quality up to 3x faster"
+        ".xxx"
       ],
-      "phase": "new",
-      "first_seen": "2026-11-28",
+      "phase": "climbing",
+      "first_seen": "2026-11-15",
       "last_seen": "2026-11-28",
-      "days_seen": 1,
+      "days_seen": 8,
       "sources_seen": [
-        "hackernews"
+        "wikipedia"
       ],
       "signal": 0.4,
-      "url": "https://news.ycombinator.com/item?id=50672565",
+      "url": "https://en.wikipedia.org/wiki/.xxx",
       "summary": null,
       "why_now": null,
       "researched_at": null,
@@ -150,9 +150,9 @@
         "Ramayana: Part 1"
       ],
       "phase": "holding",
-      "first_seen": "2026-11-09",
+      "first_seen": "2026-11-15",
       "last_seen": "2026-11-28",
-      "days_seen": 20,
+      "days_seen": 14,
       "sources_seen": [
         "wikipedia",
         "youtube"
@@ -617,9 +617,9 @@
       ],
       "signal": 0.089,
       "url": "https://www.techpowerup.com/355160/rockstar-squashes-leonida-the-biggest-gta-6-pc-recompilation-effort",
-      "summary": null,
-      "why_now": null,
-      "researched_at": null,
+      "summary": "Grand Theft Auto VI, Rockstar's open-world game, is now being played and covered with guides.",
+      "why_now": "Players are working through its story, and outlets are publishing quest guides, such as a VICE guide dated November 22, 2026 on a Chapter 3 quest.",
+      "researched_at": "2026-11-25T07:32:47.125Z",
       "needs_research": false
     },
     {
@@ -729,9 +729,9 @@
         "a fazenda 18 enquetes"
       ],
       "phase": "fading",
-      "first_seen": "2026-11-13",
+      "first_seen": "2026-11-26",
       "last_seen": "2026-11-26",
-      "days_seen": 2,
+      "days_seen": 1,
       "sources_seen": [
         "google-trends"
       ],
@@ -757,28 +757,6 @@
       ],
       "signal": 0.267,
       "url": "https://news.ycombinator.com/item?id=50648050",
-      "summary": null,
-      "why_now": null,
-      "researched_at": null,
-      "needs_research": false
-    },
-    {
-      "id": "at-ai-speed-nvidia-jensen-huang-finds-exoneration",
-      "name": "At AI speed , Nvidia Jensen Huang finds exoneration",
-      "aliases": [
-        "At AI speed , Nvidia Jensen Huang finds exoneration"
-      ],
-      "phase": "fading",
-      "first_seen": "2026-11-26",
-      "last_seen": "2026-11-26",
-      "days_seen": 1,
-      "sources_seen": [
-        "bluesky",
-        "gdelt-ai",
-        "wikipedia"
-      ],
-      "signal": 0.212,
-      "url": "https://en.wikipedia.org/wiki/Jensen_Huang",
       "summary": null,
       "why_now": null,
       "researched_at": null,
@@ -825,6 +803,33 @@
       "needs_research": false
     },
     {
+      "id": "jensen-huang",
+      "name": "Jensen Huang",
+      "aliases": [
+        "Jensen Huang",
+        "Nvidia Reinstates Jensen Huang as CEO",
+        "BREAKING: jensen huang to steelers"
+      ],
+      "phase": "fading",
+      "first_seen": "2026-11-15",
+      "last_seen": "2026-11-26",
+      "days_seen": 8,
+      "sources_seen": [
+        "bluesky",
+        "gdelt-ai",
+        "hackernews",
+        "lemmy",
+        "polymarket",
+        "wikipedia"
+      ],
+      "signal": 0.129,
+      "url": "https://bsky.app/profile/jcsalterego.bsky.social/post/3n363w34g222o",
+      "summary": "Jensen Huang is the co-founder of Nvidia. The company's board reinstated him as president, CEO and director on November 23, 2026, eleven days after announcing his resignation.",
+      "why_now": "The reversal came after a sharp drop in Nvidia's stock and after the board said it had received input from senior US government officials. Huang is also scheduled to face congressional questioning in early December.",
+      "researched_at": "2026-11-24T14:39:52.252Z",
+      "needs_research": false
+    },
+    {
       "id": "bangladesh-vs-south-africa",
       "name": "bangladesh vs south africa",
       "aliases": [
@@ -859,36 +864,9 @@
       ],
       "signal": 0.8,
       "url": "https://news.ycombinator.com/item?id=50637220",
-      "summary": null,
-      "why_now": null,
-      "researched_at": null,
-      "needs_research": false
-    },
-    {
-      "id": "jensen-huang",
-      "name": "Jensen Huang",
-      "aliases": [
-        "Jensen Huang",
-        "Jensen Huang resigns",
-        "Nvidia Reinstates Jensen Huang as CEO"
-      ],
-      "phase": "fading",
-      "first_seen": "2026-11-10",
-      "last_seen": "2026-11-25",
-      "days_seen": 12,
-      "sources_seen": [
-        "bluesky",
-        "gdelt-ai",
-        "hackernews",
-        "lemmy",
-        "polymarket",
-        "wikipedia"
-      ],
-      "signal": 0.683,
-      "url": "https://en.wikipedia.org/wiki/Jensen_Huang",
-      "summary": "Jensen Huang is the co-founder of Nvidia. The company's board reinstated him as president, CEO and director on November 23, 2026, eleven days after announcing his resignation.",
-      "why_now": "The reversal came after a sharp drop in Nvidia's stock and after the board said it had received input from senior US government officials. Huang is also scheduled to face congressional questioning in early December.",
-      "researched_at": "2026-11-24T14:39:52.252Z",
+      "summary": "A Hacker News post of a PDF from OpenAI's math repository about the matrix multiplication exponent being 9/4, tied to a claimed upper bound of n^2.25.",
+      "why_now": "The post follows OpenAI's October 2026 preprints on faster matrix multiplication, which it says an unreleased internal model helped produce. Hacker News commenters disagree about whether the new PDF proves a matching lower bound.",
+      "researched_at": "2026-11-25T07:32:47.050Z",
       "needs_research": false
     },
     {
@@ -906,9 +884,9 @@
       ],
       "signal": 0.4,
       "url": "https://news.ycombinator.com/item?id=50638032",
-      "summary": null,
-      "why_now": null,
-      "researched_at": null,
+      "summary": "Button Sounds is a free collection of recorded button clicks and presses for use in user interfaces, made by developer Josh W. Comeau.",
+      "why_now": "It was posted to Hacker News, where commenters praised the polish and discussed pitch, iOS audio limits and requests such as toggle switch sounds.",
+      "researched_at": "2026-11-25T07:32:47.090Z",
       "needs_research": false
     },
     {
@@ -1284,9 +1262,9 @@
         "Qwen/Qwen3.8-27B"
       ],
       "phase": "closed",
-      "first_seen": "2026-11-14",
+      "first_seen": "2026-11-24",
       "last_seen": "2026-11-24",
-      "days_seen": 2,
+      "days_seen": 1,
       "sources_seen": [
         "hackernews",
         "huggingface"
@@ -1454,7 +1432,7 @@
         "wikipedia"
       ],
       "signal": 0.227,
-      "url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto",
+      "url": "https://store.steampowered.com/app/3240220",
       "summary": null,
       "why_now": null,
       "researched_at": null,
@@ -1805,17 +1783,16 @@
       "needs_research": false
     },
     {
-      "id": "pakistan-vs-sri-lanka",
-      "name": "pakistan vs sri lanka",
+      "id": "sri-lanka-vs-pakistan",
+      "name": "sri lanka vs pakistan",
       "aliases": [
-        "pakistan vs sri lanka",
         "sri lanka vs pakistan",
         "sri lanka a vs hong kong"
       ],
       "phase": "closed",
-      "first_seen": "2026-11-11",
+      "first_seen": "2026-11-17",
       "last_seen": "2026-11-21",
-      "days_seen": 5,
+      "days_seen": 3,
       "sources_seen": [
         "google-trends"
       ],
@@ -2437,9 +2414,9 @@
         "taiwan index"
       ],
       "phase": "closed",
-      "first_seen": "2026-11-12",
+      "first_seen": "2026-11-18",
       "last_seen": "2026-11-18",
-      "days_seen": 2,
+      "days_seen": 1,
       "sources_seen": [
         "google-trends"
       ],

@@ -4,30 +4,14 @@
   "aliases": [
     "taiwan index"
   ],
-  "first_seen": "2026-11-12",
+  "first_seen": "2026-11-18",
   "last_seen": "2026-11-18",
-  "days_seen": 2,
+  "days_seen": 1,
   "phase": "closed",
   "sources_seen": [
     "google-trends"
   ],
   "timeline": [
-    {
-      "date": "2026-11-12",
-      "sources": [
-        "google-trends"
-      ],
-      "signal": 0.16,
-      "items": [
-        {
-          "source": "google-trends",
-          "title": "taiwan index",
-          "url": "https://in.investing.com/news/stock-market-news/why-is-taiwan-semiconductor-manufacturing-stock-surging-today-93CH-5690136",
-          "rank": 5,
-          "movement": "returning"
-        }
-      ]
-    },
     {
       "date": "2026-11-18",
       "sources": [
