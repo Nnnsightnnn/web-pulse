@@ -29,7 +29,30 @@
       ]
     }
   ],
-  "explainer": null,
+  "explainer": {
+    "summary": "A Hacker News post of a PDF from OpenAI's math repository about the matrix multiplication exponent being 9/4, tied to a claimed upper bound of n^2.25.",
+    "why_now": "The post follows OpenAI's October 2026 preprints on faster matrix multiplication, which it says an unreleased internal model helped produce. Hacker News commenters disagree about whether the new PDF proves a matching lower bound.",
+    "background": [
+      "OpenAI's earlier preprint, dated October 2, 2026, claims the matrix multiplication exponent is at most 9/4, so the product can be computed in about n^2.25 operations. A September 24 paper claimed a bound below 2.258. Both were released in a batch of 722 manuscripts that OpenAI said an unreleased model helped produce. The 9/4 result comes with a Lean proof, but the earlier paper is not peer reviewed.",
+      "The title with the Theta symbol would mean the bound is tight. The coverage fetched here does not mention any lower bound beyond the trivial one of 2, and one commenter says the PDF proves a lower bound of n^2.25 while others discuss the notation. This could not be checked against the PDF itself.",
+      "The results are asymptotic. The coverage says the proof does not give a competitive matrix size and that nothing here makes AI faster today."
+    ],
+    "sources": [
+      {
+        "url": "https://news.ycombinator.com/item?id=50637220",
+        "title": "Matrix Multiplication is Θ(n^2.25) [pdf] | Hacker News",
+        "fetched_at": "2026-11-25T07:32:46Z"
+      },
+      {
+        "url": "https://officechai.com/ai/openai-has-found-a-far-faster-way-to-multiply-matrices-the-math-that-underpins-all-of-modern-ai/",
+        "title": "OpenAI Has Found A Far Faster Way To Multiply Matrices",
+        "fetched_at": "2026-11-25T07:32:46Z"
+      }
+    ],
+    "researched_at": "2026-11-25T07:32:47.050Z",
+    "phase_at_research": "new",
+    "engine": "ai"
+  },
   "explainer_history": [],
   "needs_research": false
 }

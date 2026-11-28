@@ -284,7 +284,24 @@
       ]
     }
   ],
-  "explainer": null,
+  "explainer": {
+    "summary": "Grand Theft Auto VI, Rockstar's open-world game, is now being played and covered with guides.",
+    "why_now": "Players are working through its story, and outlets are publishing quest guides, such as a VICE guide dated November 22, 2026 on a Chapter 3 quest.",
+    "background": [
+      "The VICE guide covers a missable quest called Dubious Provenance, which begins after the mission Dealer's Choice. It advises trusting the con artist Halifax for rewards including cash, sellable jewelry and a car, and says skipping the follow-up before Chapter 3 ends forfeits the later parts.",
+      "The guide also says sparing Halifax helps reach the Professional criminal rating, which it says can help with the best ending."
+    ],
+    "sources": [
+      {
+        "url": "https://www.vice.com/en/article/gta-6-trust-halifax-or-not-missable-rewards/",
+        "title": "VICE: GTA 6 Trust Halifax or not, missable rewards",
+        "fetched_at": "2026-11-25T07:32:46Z"
+      }
+    ],
+    "researched_at": "2026-11-25T07:32:47.125Z",
+    "phase_at_research": "climbing",
+    "engine": "ai"
+  },
   "explainer_history": [],
   "needs_research": false
 }

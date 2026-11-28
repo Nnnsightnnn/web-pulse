@@ -7,7 +7,7 @@
   "first_seen": "2026-11-25",
   "last_seen": "2026-11-25",
   "days_seen": 1,
-  "phase": "fading",
+  "phase": "new",
   "sources_seen": [
     "google-trends"
   ],
@@ -31,5 +31,9 @@
   ],
   "explainer": null,
   "explainer_history": [],
-  "needs_research": false
+  "needs_research": false,
+  "research_skipped": {
+    "at": "2026-11-25T07:32:47.155Z",
+    "reason": "BBC page not fetchable and no other source found for the incident"
+  }
 }

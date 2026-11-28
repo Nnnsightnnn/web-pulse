@@ -29,7 +29,29 @@
       ]
     }
   ],
-  "explainer": null,
+  "explainer": {
+    "summary": "Button Sounds is a free collection of recorded button clicks and presses for use in user interfaces, made by developer Josh W. Comeau.",
+    "why_now": "It was posted to Hacker News, where commenters praised the polish and discussed pitch, iOS audio limits and requests such as toggle switch sounds.",
+    "background": [
+      "According to the Hacker News thread, the sounds were recorded in a sound-treated room with a Zoom H4 and cleaned up in Adobe Audition, while the synth sounds were made digitally. All are stereo.",
+      "Commenters noted that iOS Safari blocks audio until the user interacts and that the silent-mode switch also mutes it. One said some variants sound about a semitone off."
+    ],
+    "sources": [
+      {
+        "url": "https://news.ycombinator.com/item?id=50638032",
+        "title": "Button Sounds | Hacker News",
+        "fetched_at": "2026-11-25T07:32:46Z"
+      },
+      {
+        "url": "https://buttons.joshwcomeau.com",
+        "title": "Button Sounds: tactile SFX for your UI",
+        "fetched_at": "2026-11-25T07:32:46Z"
+      }
+    ],
+    "researched_at": "2026-11-25T07:32:47.090Z",
+    "phase_at_research": "new",
+    "engine": "ai"
+  },
   "explainer_history": [],
   "needs_research": false
 }
