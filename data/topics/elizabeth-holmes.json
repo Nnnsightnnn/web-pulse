@@ -1,0 +1,35 @@
+{
+  "id": "elizabeth-holmes",
+  "name": "Elizabeth Holmes",
+  "aliases": [
+    "Elizabeth Holmes"
+  ],
+  "first_seen": "2026-11-28",
+  "last_seen": "2026-11-28",
+  "days_seen": 1,
+  "phase": "new",
+  "sources_seen": [
+    "wikipedia"
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-28",
+      "sources": [
+        "wikipedia"
+      ],
+      "signal": 0.13333333333333333,
+      "items": [
+        {
+          "source": "wikipedia",
+          "title": "Elizabeth Holmes",
+          "url": "https://en.wikipedia.org/wiki/Elizabeth_Holmes",
+          "rank": 6,
+          "movement": "climbing"
+        }
+      ]
+    }
+  ],
+  "explainer": null,
+  "explainer_history": [],
+  "needs_research": false
+}

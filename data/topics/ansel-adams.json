@@ -5,9 +5,9 @@
     "Ansel Adams"
   ],
   "first_seen": "2026-11-15",
-  "last_seen": "2026-11-22",
-  "days_seen": 2,
-  "phase": "closed",
+  "last_seen": "2026-11-28",
+  "days_seen": 3,
+  "phase": "climbing",
   "sources_seen": [
     "wikipedia"
   ],
@@ -41,6 +41,22 @@
           "url": "https://en.wikipedia.org/wiki/Ansel_Adams",
           "rank": 9,
           "movement": "climbing"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-28",
+      "sources": [
+        "wikipedia"
+      ],
+      "signal": 0.1,
+      "items": [
+        {
+          "source": "wikipedia",
+          "title": "Ansel Adams",
+          "url": "https://en.wikipedia.org/wiki/Ansel_Adams",
+          "rank": 8,
+          "movement": "returning"
         }
       ]
     }

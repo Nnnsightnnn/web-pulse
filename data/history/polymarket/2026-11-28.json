@@ -1,0 +1,532 @@
+{
+  "source": "polymarket",
+  "label": "Polymarket — top 24h volume",
+  "fetched_at": "2026-11-28T06:16:30.935Z",
+  "items": [
+    {
+      "rank": 1,
+      "title": "Will the Fed decrease interest rates by 25 bps after the December 2026 meeting?",
+      "url": "https://polymarket.com/event/fed-decision-in-december-20260729232808632",
+      "volume_24h": 2836693.81118,
+      "volume_total": 14025523.083564002,
+      "liquidity": 1451967.47729,
+      "yes_price": 0.0015,
+      "leader": {
+        "name": "No",
+        "price": 0.9985
+      },
+      "end_date": "2026-12-09T23:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "days_on": 1,
+      "prior_rank": null,
+      "movement": "returning"
+    },
+    {
+      "rank": 2,
+      "title": "Counter-Strike: Astralis vs Imperial (BO1) - PGL Major Singapore Stage 2",
+      "url": "https://polymarket.com/event/cs2-ast10-imp11-2026-11-28",
+      "volume_24h": 1455420.0286879994,
+      "volume_total": 1423499.198688,
+      "liquidity": 1004767.44939,
+      "yes_price": 0.9995,
+      "leader": {
+        "name": "Astralis",
+        "price": 0.9995
+      },
+      "end_date": "2026-11-28T11:10:00Z",
+      "outcomes": [
+        "Astralis",
+        "Imperial"
+      ],
+      "days_on": 1,
+      "prior_rank": null,
+      "movement": "new"
+    },
+    {
+      "rank": 3,
+      "title": "Will Chiang Wan-an win the next Taipei Mayor election?",
+      "url": "https://polymarket.com/event/taipei-mayor-election-winner-20260813125857100",
+      "volume_24h": 1249864.9140710002,
+      "volume_total": 5545573.9204710005,
+      "liquidity": 190349.5048,
+      "yes_price": 0.575,
+      "leader": {
+        "name": "Yes",
+        "price": 0.575
+      },
+      "end_date": "2026-11-29T04:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "days_on": 4,
+      "prior_rank": 5,
+      "movement": "climbing"
+    },
+    {
+      "rank": 4,
+      "title": "Counter-Strike: G2 vs Liquid (BO1) - PGL Major Singapore Stage 2",
+      "url": "https://polymarket.com/event/cs2-g2-tl1-2026-11-28",
+      "volume_24h": 904825.977394,
+      "volume_total": 151371.642586,
+      "liquidity": 657114.2175,
+      "yes_price": 0.545,
+      "leader": {
+        "name": "G2",
+        "price": 0.545
+      },
+      "end_date": "2026-11-28T12:15:00Z",
+      "outcomes": [
+        "G2",
+        "Liquid"
+      ],
+      "days_on": 1,
+      "prior_rank": null,
+      "movement": "new"
+    },
+    {
+      "rank": 5,
+      "title": "Will Hakeem Jeffries win the 2028 Democratic presidential nomination?",
+      "url": "https://polymarket.com/event/democratic-presidential-nominee-2028",
+      "volume_24h": 552661.24,
+      "volume_total": 3199792.248166,
+      "liquidity": 384905.85391,
+      "yes_price": 0.0005,
+      "leader": {
+        "name": "No",
+        "price": 0.9995
+      },
+      "end_date": "2028-11-08T04:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "days_on": 1,
+      "prior_rank": null,
+      "movement": "new"
+    },
+    {
+      "rank": 6,
+      "title": "Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?",
+      "url": "https://polymarket.com/event/uefa-champions-league-2027-champion-20260701202025549",
+      "volume_24h": 408655,
+      "volume_total": 49225583.35830601,
+      "liquidity": 251938.82182,
+      "yes_price": 0.0015,
+      "leader": {
+        "name": "No",
+        "price": 0.9985
+      },
+      "end_date": "2027-05-30T23:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "days_on": 15,
+      "prior_rank": 4,
+      "movement": "falling"
+    },
+    {
+      "rank": 7,
+      "title": "Will Pedro Sánchez be the next Prime Minister of Spain?",
+      "url": "https://polymarket.com/event/next-prime-minister-of-spain-20260625005215443",
+      "volume_24h": 375531.417989,
+      "volume_total": 2259615.5061749998,
+      "liquidity": 418897.92648,
+      "yes_price": 0.1185,
+      "leader": {
+        "name": "No",
+        "price": 0.8815
+      },
+      "end_date": "2026-11-30T04:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "days_on": 2,
+      "prior_rank": 12,
+      "movement": "climbing"
+    },
+    {
+      "rank": 8,
+      "title": "Counter-Strike: THE ONE vs Eternal Fire (BO1) - PGL Major Singapore Stage 2",
+      "url": "https://polymarket.com/event/cs2-one6-ef1-2026-11-28",
+      "volume_24h": 278702.368423,
+      "volume_total": 132257.692372,
+      "liquidity": 393287.6006,
+      "yes_price": 0.525,
+      "leader": {
+        "name": "THE ONE",
+        "price": 0.525
+      },
+      "end_date": "2026-11-28T12:15:00Z",
+      "outcomes": [
+        "THE ONE",
+        "Eternal Fire"
+      ],
+      "days_on": 1,
+      "prior_rank": null,
+      "movement": "new"
+    },
+    {
+      "rank": 9,
+      "title": "Counter-Strike: MIBR vs 100 Thieves (BO1) - PGL Major Singapore Stage 2",
+      "url": "https://polymarket.com/event/cs2-mibr-100t-2026-11-28",
+      "volume_24h": 266092.98298900004,
+      "volume_total": 264088.792395,
+      "liquidity": 676975.3148,
+      "yes_price": 0.505,
+      "leader": {
+        "name": "MIBR",
+        "price": 0.505
+      },
+      "end_date": "2026-11-28T13:00:00Z",
+      "outcomes": [
+        "MIBR",
+        "100 Thieves"
+      ],
+      "days_on": 1,
+      "prior_rank": null,
+      "movement": "new"
+    },
+    {
+      "rank": 10,
+      "title": "Will Marco Rubio win the 2028 Republican presidential nomination?",
+      "url": "https://polymarket.com/event/republican-presidential-nominee-2028",
+      "volume_24h": 199671.96172400002,
+      "volume_total": 12420018.013466,
+      "liquidity": 263564.93154,
+      "yes_price": 0.2335,
+      "leader": {
+        "name": "No",
+        "price": 0.7665
+      },
+      "end_date": "2028-11-08T04:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "days_on": 1,
+      "prior_rank": null,
+      "movement": "returning"
+    },
+    {
+      "rank": 11,
+      "title": "Will Bitcoin dip to $45,000 by December 31, 2026?",
+      "url": "https://polymarket.com/event/what-price-will-bitcoin-hit-before-2027",
+      "volume_24h": 175941.06060599998,
+      "volume_total": 11228262.146425,
+      "liquidity": 192499.51818,
+      "yes_price": 0.1315,
+      "leader": {
+        "name": "No",
+        "price": 0.8685
+      },
+      "end_date": "2027-01-01T05:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "days_on": 1,
+      "prior_rank": null,
+      "movement": "returning"
+    },
+    {
+      "rank": 12,
+      "title": "Will Bournemouth win the 2026-27 English Premier League (EPL) Championship?",
+      "url": "https://polymarket.com/event/epl-2027-champion-20260701200428749",
+      "volume_24h": 173596.175834,
+      "volume_total": 2170896.5856690006,
+      "liquidity": 606903.93734,
+      "yes_price": 0.0025,
+      "leader": {
+        "name": "No",
+        "price": 0.9975
+      },
+      "end_date": "2027-05-30T23:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "days_on": 1,
+      "prior_rank": null,
+      "movement": "new"
+    },
+    {
+      "rank": 13,
+      "title": "Israel x Iran ceasefire continues through November 30?",
+      "url": "https://polymarket.com/event/israel-x-iran-ceasefire-continues-throughptptpt-20260716224448963",
+      "volume_24h": 172389.29933,
+      "volume_total": 3206200.8719470003,
+      "liquidity": 77930.74485,
+      "yes_price": 0.965,
+      "leader": {
+        "name": "Yes",
+        "price": 0.965
+      },
+      "end_date": "2026-11-30T20:29:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "days_on": 2,
+      "prior_rank": 14,
+      "movement": "holding"
+    },
+    {
+      "rank": 14,
+      "title": "Jensen Huang announced resignation or removal again by December 31, 2026?",
+      "url": "https://polymarket.com/event/jensen-huang-out-as-nvidia-ceo-again-byptptpt",
+      "volume_24h": 169186.579846,
+      "volume_total": 900440.9870589998,
+      "liquidity": 179953.87504,
+      "yes_price": 0.065,
+      "leader": {
+        "name": "No",
+        "price": 0.935
+      },
+      "end_date": "2027-01-01T04:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "days_on": 1,
+      "prior_rank": null,
+      "movement": "returning"
+    },
+    {
+      "rank": 15,
+      "title": "Creighton Bluejays vs. Gonzaga Bulldogs",
+      "url": "https://polymarket.com/event/cbb-creigh-gnzg-2026-11-27",
+      "volume_24h": 163497.57159199996,
+      "volume_total": 155847.763964,
+      "liquidity": 163113.7719,
+      "yes_price": 0.045,
+      "leader": {
+        "name": "Gonzaga Bulldogs",
+        "price": 0.955
+      },
+      "end_date": "2026-11-28T04:00:00Z",
+      "outcomes": [
+        "Creighton Bluejays",
+        "Gonzaga Bulldogs"
+      ],
+      "days_on": 1,
+      "prior_rank": null,
+      "movement": "new"
+    },
+    {
+      "rank": 16,
+      "title": "Will Huang Shih-chieh win the next Taoyuan Mayor election?",
+      "url": "https://polymarket.com/event/taoyuan-mayor-election-winner-20260813125857300",
+      "volume_24h": 158000.15022300003,
+      "volume_total": 320440.11947600014,
+      "liquidity": 157935.81697,
+      "yes_price": 0.0915,
+      "leader": {
+        "name": "No",
+        "price": 0.9085
+      },
+      "end_date": "2026-11-29T04:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "days_on": 1,
+      "prior_rank": null,
+      "movement": "new"
+    },
+    {
+      "rank": 17,
+      "title": "Will Manchester United FC win on 2026-11-28?",
+      "url": "https://polymarket.com/event/epl-mun-bre-2026-11-28",
+      "volume_24h": 156853.60821700003,
+      "volume_total": 161931.422632,
+      "liquidity": 301800.2616,
+      "yes_price": 0.435,
+      "leader": {
+        "name": "No",
+        "price": 0.565
+      },
+      "end_date": "2026-11-28T15:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "days_on": 1,
+      "prior_rank": null,
+      "movement": "new"
+    },
+    {
+      "rank": 18,
+      "title": "Will Orlando Magic win the 2027 NBA Finals?",
+      "url": "https://polymarket.com/event/nba-2027-champion",
+      "volume_24h": 152702.83000000002,
+      "volume_total": 1652734.0554580004,
+      "liquidity": 264555.29517,
+      "yes_price": 0.0055,
+      "leader": {
+        "name": "No",
+        "price": 0.9945
+      },
+      "end_date": "2027-07-01T03:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "days_on": 1,
+      "prior_rank": null,
+      "movement": "new"
+    },
+    {
+      "rank": 19,
+      "title": "Will Celje win the 2026-27 UEFA Europa League Championship?",
+      "url": "https://polymarket.com/event/uefa-europa-league-2027-champion-20260701202403681",
+      "volume_24h": 147767.24000000005,
+      "volume_total": 153259.329,
+      "liquidity": 3945.74761,
+      "yes_price": 0.001,
+      "leader": {
+        "name": "No",
+        "price": 0.999
+      },
+      "end_date": "2027-05-30T23:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "days_on": 1,
+      "prior_rank": null,
+      "movement": "new"
+    },
+    {
+      "rank": 20,
+      "title": "Will the average Ornn B300 rental price in January 2027 be above $12.50?",
+      "url": "https://polymarket.com/event/b300-average-rental-price-in-january-2027",
+      "volume_24h": 147697.87103,
+      "volume_total": 171643.067025,
+      "liquidity": 34675.4863,
+      "yes_price": 0.275,
+      "leader": {
+        "name": "No",
+        "price": 0.725
+      },
+      "end_date": "2027-02-01T04:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "days_on": 1,
+      "prior_rank": null,
+      "movement": "new"
+    },
+    {
+      "rank": 21,
+      "title": "Will Benjamin Netanyahu be the next Prime Minister of Israel?",
+      "url": "https://polymarket.com/event/who-will-be-the-next-prime-minister-of-israel-after-the-next-election",
+      "volume_24h": 145548.48020800002,
+      "volume_total": 36622240.01211,
+      "liquidity": 252204.71848,
+      "yes_price": 0.1435,
+      "leader": {
+        "name": "No",
+        "price": 0.8565
+      },
+      "end_date": "2026-10-28T03:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "days_on": 2,
+      "prior_rank": 7,
+      "movement": "falling"
+    },
+    {
+      "rank": 22,
+      "title": "Will Su Chiao-hui win the next New Taipei Mayor election?",
+      "url": "https://polymarket.com/event/new-taipei-mayor-election-winner-20260813125857200",
+      "volume_24h": 136942.11324799998,
+      "volume_total": 646737.98571,
+      "liquidity": 71174.1139,
+      "yes_price": 0.74,
+      "leader": {
+        "name": "Yes",
+        "price": 0.74
+      },
+      "end_date": "2026-11-29T04:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "days_on": 1,
+      "prior_rank": null,
+      "movement": "new"
+    },
+    {
+      "rank": 23,
+      "title": "Will Recoleta FC win on 2026-11-25?",
+      "url": "https://polymarket.com/event/par1-tri-rec-2026-11-25",
+      "volume_24h": 135690.219091,
+      "volume_total": 179622.37474299996,
+      "liquidity": 65916.68164,
+      "yes_price": 0.0005,
+      "leader": {
+        "name": "No",
+        "price": 0.9995
+      },
+      "end_date": "2026-11-25T22:00:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "days_on": 1,
+      "prior_rank": null,
+      "movement": "new"
+    },
+    {
+      "rank": 24,
+      "title": "Will François Asselineau win the 2027 French presidential election?",
+      "url": "https://polymarket.com/event/next-french-presidential-election",
+      "volume_24h": 133895.148334,
+      "volume_total": 6517394.207451,
+      "liquidity": 421539.54104,
+      "yes_price": 0.0005,
+      "leader": {
+        "name": "No",
+        "price": 0.9995
+      },
+      "end_date": "2027-04-19T03:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "days_on": 1,
+      "prior_rank": null,
+      "movement": "new"
+    },
+    {
+      "rank": 25,
+      "title": "Will the average Ornn H100 rental price in January 2027 be above $2.80?",
+      "url": "https://polymarket.com/event/h100-average-rental-price-in-january-2027",
+      "volume_24h": 129444.07011300001,
+      "volume_total": 336114.611593,
+      "liquidity": 31908.2813,
+      "yes_price": 0.645,
+      "leader": {
+        "name": "Yes",
+        "price": 0.645
+      },
+      "end_date": "2027-02-01T04:59:00Z",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "days_on": 1,
+      "prior_rank": null,
+      "movement": "returning"
+    }
+  ]
+}

@@ -6,8 +6,8 @@
     "Grand Theft Auto"
   ],
   "first_seen": "2026-11-18",
-  "last_seen": "2026-11-27",
-  "days_seen": 10,
+  "last_seen": "2026-11-28",
+  "days_seen": 11,
   "phase": "holding",
   "sources_seen": [
     "lemmy",
@@ -288,6 +288,22 @@
           "url": "https://www.youtube.com/watch?v=jPU38VyVVgE",
           "rank": 17,
           "movement": "falling"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-28",
+      "sources": [
+        "wikipedia"
+      ],
+      "signal": 0.08,
+      "items": [
+        {
+          "source": "wikipedia",
+          "title": "Grand Theft Auto VI",
+          "url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI",
+          "rank": 10,
+          "movement": "holding"
         }
       ]
     }

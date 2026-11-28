@@ -1,46 +1,376 @@
 {
-  "generated_at": "2026-11-27T06:16:44.354Z",
-  "date": "2026-11-27",
+  "generated_at": "2026-11-28T06:17:14.996Z",
+  "date": "2026-11-28",
   "topics": [
     {
-      "id": "andy-taylor-guitarist",
-      "name": "Andy Taylor (guitarist)",
+      "id": "counter-strike-2",
+      "name": "Counter-Strike 2",
       "aliases": [
-        "Andy Taylor (guitarist)"
+        "Counter-Strike 2"
       ],
-      "phase": "climbing",
-      "first_seen": "2026-11-26",
-      "last_seen": "2026-11-27",
-      "days_seen": 2,
+      "phase": "new",
+      "first_seen": "2026-11-28",
+      "last_seen": "2026-11-28",
+      "days_seen": 1,
       "sources_seen": [
-        "wikipedia"
+        "polymarket",
+        "steam"
       ],
-      "signal": 0.8,
-      "url": "https://en.wikipedia.org/wiki/Andy_Taylor_(guitarist)",
+      "signal": 1.35,
+      "url": "https://store.steampowered.com/app/730",
       "summary": null,
       "why_now": null,
       "researched_at": null,
       "needs_research": true
     },
     {
-      "id": "kuwait-attack-today",
-      "name": "kuwait attack today",
+      "id": "joe-milton",
+      "name": "Joe Milton",
       "aliases": [
-        "kuwait attack today"
+        "Joe Milton"
       ],
       "phase": "new",
-      "first_seen": "2026-11-27",
-      "last_seen": "2026-11-27",
+      "first_seen": "2026-11-28",
+      "last_seen": "2026-11-28",
+      "days_seen": 1,
+      "sources_seen": [
+        "wikipedia"
+      ],
+      "signal": 0.8,
+      "url": "https://en.wikipedia.org/wiki/Joe_Milton",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": true
+    },
+    {
+      "id": "pizza",
+      "name": "pizza",
+      "aliases": [
+        "pizza"
+      ],
+      "phase": "new",
+      "first_seen": "2026-11-28",
+      "last_seen": "2026-11-28",
       "days_seen": 1,
       "sources_seen": [
         "google-trends"
       ],
       "signal": 0.8,
-      "url": "https://www.aljazeera.com/news/liveblog/2026/11/27/iran-war-live-irans-araghchi-calls-deadly-kuwait-attack-suspicious",
+      "url": "https://www.theguardian.com/business/2026/nov/27/ai-agent-cardless-transaction-pizza-papa-john-uk-fca-truelayer",
       "summary": null,
       "why_now": null,
       "researched_at": null,
       "needs_research": true
+    },
+    {
+      "id": "unkernel-real-linux-kernel-compiled-to-webassembly",
+      "name": "Unkernel: Real Linux kernel, compiled to WebAssembly",
+      "aliases": [
+        "Unkernel: Real Linux kernel, compiled to WebAssembly"
+      ],
+      "phase": "new",
+      "first_seen": "2026-11-28",
+      "last_seen": "2026-11-28",
+      "days_seen": 1,
+      "sources_seen": [
+        "hackernews"
+      ],
+      "signal": 0.8,
+      "url": "https://news.ycombinator.com/item?id=50674218",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": true
+    },
+    {
+      "id": "xxx",
+      "name": ".xxx",
+      "aliases": [
+        ".xxx"
+      ],
+      "phase": "climbing",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-28",
+      "days_seen": 14,
+      "sources_seen": [
+        "wikipedia"
+      ],
+      "signal": 0.4,
+      "url": "https://en.wikipedia.org/wiki/.xxx",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "new-zealand-national-cricket-team-vs-india-national-cricket",
+      "name": "new zealand national cricket team vs india national cricket team",
+      "aliases": [
+        "new zealand national cricket team vs india national cricket team"
+      ],
+      "phase": "new",
+      "first_seen": "2026-11-28",
+      "last_seen": "2026-11-28",
+      "days_seen": 1,
+      "sources_seen": [
+        "google-trends"
+      ],
+      "signal": 0.4,
+      "url": "https://www.cricinfo.com/series/india-in-new-zealand-2026-27-1539421/new-zealand-vs-india-2nd-test-1539443/ball-by-ball-commentary",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "google-s-deepcrossattention-achieves-comparable-model-qualit",
+      "name": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
+      "aliases": [
+        "Google's DeepCrossAttention achieves comparable model quality up to 3x faster"
+      ],
+      "phase": "new",
+      "first_seen": "2026-11-28",
+      "last_seen": "2026-11-28",
+      "days_seen": 1,
+      "sources_seen": [
+        "hackernews"
+      ],
+      "signal": 0.4,
+      "url": "https://news.ycombinator.com/item?id=50672565",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "ramayana-part-1",
+      "name": "Ramayana: Part 1",
+      "aliases": [
+        "Ramayana: Part 1"
+      ],
+      "phase": "holding",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-28",
+      "days_seen": 20,
+      "sources_seen": [
+        "wikipedia",
+        "youtube"
+      ],
+      "signal": 0.267,
+      "url": "https://en.wikipedia.org/wiki/Ramayana%3A_Part_1",
+      "summary": "Ramayana: Part 1 is a Hindi-language epic film directed by Nitesh Tiwari, the first of two parts adapting Valmiki's Ramayana. It was released worldwide on November 5, 2026.",
+      "why_now": "The film is still drawing attention because of its large box office run, with a reported worldwide gross of about 1,655 crore rupees, and because its sequel has reportedly been pushed back a year.",
+      "researched_at": "2026-11-24T14:39:52.304Z",
+      "needs_research": false
+    },
+    {
+      "id": "the-balatro-timeline",
+      "name": "The Balatro Timeline",
+      "aliases": [
+        "The Balatro Timeline"
+      ],
+      "phase": "new",
+      "first_seen": "2026-11-28",
+      "last_seen": "2026-11-28",
+      "days_seen": 1,
+      "sources_seen": [
+        "hackernews"
+      ],
+      "signal": 0.267,
+      "url": "https://news.ycombinator.com/item?id=50657346",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "lotto",
+      "name": "lotto",
+      "aliases": [
+        "lotto"
+      ],
+      "phase": "new",
+      "first_seen": "2026-11-28",
+      "last_seen": "2026-11-28",
+      "days_seen": 1,
+      "sources_seen": [
+        "google-trends"
+      ],
+      "signal": 0.2,
+      "url": "https://www.berliner-zeitung.de/article/was-chico-mit-dem-gewinn-macht-genau-das-wovor-jeder-warnt-lotto-koenig-aus-dortmund-raeumt-schon-wieder-ab-10643875",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "mason-rudolph-american-football",
+      "name": "Mason Rudolph (American football)",
+      "aliases": [
+        "Mason Rudolph (American football)"
+      ],
+      "phase": "new",
+      "first_seen": "2026-11-28",
+      "last_seen": "2026-11-28",
+      "days_seen": 1,
+      "sources_seen": [
+        "wikipedia"
+      ],
+      "signal": 0.16,
+      "url": "https://en.wikipedia.org/wiki/Mason_Rudolph_(American_football)",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "mega-millions-winning-numbers",
+      "name": "mega millions winning numbers",
+      "aliases": [
+        "mega millions winning numbers"
+      ],
+      "phase": "new",
+      "first_seen": "2026-11-28",
+      "last_seen": "2026-11-28",
+      "days_seen": 1,
+      "sources_seen": [
+        "google-trends"
+      ],
+      "signal": 0.16,
+      "url": "https://www.forbes.com/sites/siladityaray/2026/11/25/mega-millions-jackpot-rises-to-673-million-heres-what-the-winner-could-take-home/",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "elizabeth-holmes",
+      "name": "Elizabeth Holmes",
+      "aliases": [
+        "Elizabeth Holmes"
+      ],
+      "phase": "new",
+      "first_seen": "2026-11-28",
+      "last_seen": "2026-11-28",
+      "days_seen": 1,
+      "sources_seen": [
+        "wikipedia"
+      ],
+      "signal": 0.133,
+      "url": "https://en.wikipedia.org/wiki/Elizabeth_Holmes",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "states-sue-spacex-to-stop-grok-from-generating-child-sex-ima",
+      "name": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+      "aliases": [
+        "States sue SpaceX to stop Grok from generating child sex images, revenge porn"
+      ],
+      "phase": "new",
+      "first_seen": "2026-11-28",
+      "last_seen": "2026-11-28",
+      "days_seen": 1,
+      "sources_seen": [
+        "hackernews",
+        "lemmy"
+      ],
+      "signal": 0.111,
+      "url": "https://news.ycombinator.com/item?id=50670855",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "ansel-adams",
+      "name": "Ansel Adams",
+      "aliases": [
+        "Ansel Adams"
+      ],
+      "phase": "climbing",
+      "first_seen": "2026-11-15",
+      "last_seen": "2026-11-28",
+      "days_seen": 3,
+      "sources_seen": [
+        "wikipedia"
+      ],
+      "signal": 0.1,
+      "url": "https://en.wikipedia.org/wiki/Ansel_Adams",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "avengers-doomsday",
+      "name": "Avengers: Doomsday",
+      "aliases": [
+        "Avengers: Doomsday"
+      ],
+      "phase": "climbing",
+      "first_seen": "2026-11-24",
+      "last_seen": "2026-11-28",
+      "days_seen": 3,
+      "sources_seen": [
+        "wikipedia",
+        "youtube"
+      ],
+      "signal": 0.093,
+      "url": "https://en.wikipedia.org/wiki/Avengers%3A_Doomsday",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "aaron-rodgers-was-released-by-the-stealers",
+      "name": "Aaron Rodgers was released by the Stealers?",
+      "aliases": [
+        "Aaron Rodgers was released by the Stealers?",
+        "Aaron Rodgers"
+      ],
+      "phase": "holding",
+      "first_seen": "2026-11-26",
+      "last_seen": "2026-11-28",
+      "days_seen": 3,
+      "sources_seen": [
+        "bluesky",
+        "wikipedia"
+      ],
+      "signal": 0.089,
+      "url": "https://en.wikipedia.org/wiki/Aaron_Rodgers",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "grand-theft-auto-vi",
+      "name": "Grand Theft Auto VI",
+      "aliases": [
+        "Grand Theft Auto VI",
+        "Grand Theft Auto"
+      ],
+      "phase": "holding",
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-28",
+      "days_seen": 11,
+      "sources_seen": [
+        "lemmy",
+        "steam",
+        "wikipedia",
+        "youtube"
+      ],
+      "signal": 0.08,
+      "url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI",
+      "summary": "Rockstar's Grand Theft Auto VI launched on November 19, 2026, on PlayStation 5 and Xbox Series X/S, and this weekend is its first on sale.",
+      "why_now": "This is launch week. Sony said on November 10 it had become the most pre-ordered game in PlayStation Store history, and digital pre-loads of up to 212 GB opened nine days before release.",
+      "researched_at": "2026-11-23T02:22:57.990Z",
+      "needs_research": false
     },
     {
       "id": "ai-made-self-hosting-fun-again",
@@ -48,7 +378,7 @@
       "aliases": [
         "AI made self-hosting fun again"
       ],
-      "phase": "new",
+      "phase": "fading",
       "first_seen": "2026-11-27",
       "last_seen": "2026-11-27",
       "days_seen": 1,
@@ -60,27 +390,46 @@
       "summary": null,
       "why_now": null,
       "researched_at": null,
-      "needs_research": true
+      "needs_research": false
     },
     {
-      "id": "ramayana-part-1",
-      "name": "Ramayana: Part 1",
+      "id": "andy-taylor-guitarist",
+      "name": "Andy Taylor (guitarist)",
       "aliases": [
-        "Ramayana: Part 1"
+        "Andy Taylor (guitarist)"
       ],
-      "phase": "holding",
-      "first_seen": "2026-11-09",
+      "phase": "fading",
+      "first_seen": "2026-11-26",
       "last_seen": "2026-11-27",
-      "days_seen": 19,
+      "days_seen": 2,
       "sources_seen": [
-        "wikipedia",
-        "youtube"
+        "wikipedia"
       ],
-      "signal": 0.4,
-      "url": "https://en.wikipedia.org/wiki/Ramayana%3A_Part_1",
-      "summary": "Ramayana: Part 1 is a Hindi-language epic film directed by Nitesh Tiwari, the first of two parts adapting Valmiki's Ramayana. It was released worldwide on November 5, 2026.",
-      "why_now": "The film is still drawing attention because of its large box office run, with a reported worldwide gross of about 1,655 crore rupees, and because its sequel has reportedly been pushed back a year.",
-      "researched_at": "2026-11-24T14:39:52.304Z",
+      "signal": 0.8,
+      "url": "https://en.wikipedia.org/wiki/Andy_Taylor_(guitarist)",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
+      "needs_research": false
+    },
+    {
+      "id": "kuwait-attack-today",
+      "name": "kuwait attack today",
+      "aliases": [
+        "kuwait attack today"
+      ],
+      "phase": "fading",
+      "first_seen": "2026-11-27",
+      "last_seen": "2026-11-27",
+      "days_seen": 1,
+      "sources_seen": [
+        "google-trends"
+      ],
+      "signal": 0.8,
+      "url": "https://www.aljazeera.com/news/liveblog/2026/11/27/iran-war-live-irans-araghchi-calls-deadly-kuwait-attack-suspicious",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
       "needs_research": false
     },
     {
@@ -89,7 +438,7 @@
       "aliases": [
         "martin lewis"
       ],
-      "phase": "new",
+      "phase": "fading",
       "first_seen": "2026-11-27",
       "last_seen": "2026-11-27",
       "days_seen": 1,
@@ -101,7 +450,7 @@
       "summary": null,
       "why_now": null,
       "researched_at": null,
-      "needs_research": true
+      "needs_research": false
     },
     {
       "id": "the-need-for-a-formally-verifiable-mainstream-programming-la",
@@ -109,7 +458,7 @@
       "aliases": [
         "The need for a formally verifiable mainstream programming language"
       ],
-      "phase": "new",
+      "phase": "fading",
       "first_seen": "2026-11-27",
       "last_seen": "2026-11-27",
       "days_seen": 1,
@@ -130,7 +479,7 @@
         "Magneto vs Doctor Doom | Avengers Doomsday New Teaser ",
         "Avengers Doomsday | Magneto vs Doom | Get Your Tickets at TGV Now"
       ],
-      "phase": "climbing",
+      "phase": "fading",
       "first_seen": "2026-11-26",
       "last_seen": "2026-11-27",
       "days_seen": 2,
@@ -146,54 +495,12 @@
       "needs_research": false
     },
     {
-      "id": "aaron-rodgers-was-released-by-the-stealers",
-      "name": "Aaron Rodgers was released by the Stealers?",
-      "aliases": [
-        "Aaron Rodgers was released by the Stealers?",
-        "Aaron Rodgers"
-      ],
-      "phase": "climbing",
-      "first_seen": "2026-11-26",
-      "last_seen": "2026-11-27",
-      "days_seen": 2,
-      "sources_seen": [
-        "bluesky",
-        "wikipedia"
-      ],
-      "signal": 0.267,
-      "url": "https://en.wikipedia.org/wiki/Aaron_Rodgers",
-      "summary": null,
-      "why_now": null,
-      "researched_at": null,
-      "needs_research": false
-    },
-    {
-      "id": "sap-layoffs",
-      "name": "sap layoffs",
-      "aliases": [
-        "sap layoffs"
-      ],
-      "phase": "new",
-      "first_seen": "2026-11-27",
-      "last_seen": "2026-11-27",
-      "days_seen": 1,
-      "sources_seen": [
-        "google-trends"
-      ],
-      "signal": 0.267,
-      "url": "https://www.reuters.com/technology/sap-considers-least-10000-job-cuts-ai-restructuring-bloomberg-reports-2026-11-26/",
-      "summary": null,
-      "why_now": null,
-      "researched_at": null,
-      "needs_research": false
-    },
-    {
       "id": "hard-drive-pricing-has-gotten-bad",
       "name": "Hard Drive pricing has gotten bad",
       "aliases": [
         "Hard Drive pricing has gotten bad"
       ],
-      "phase": "new",
+      "phase": "fading",
       "first_seen": "2026-11-27",
       "last_seen": "2026-11-27",
       "days_seen": 1,
@@ -208,27 +515,23 @@
       "needs_research": false
     },
     {
-      "id": "grand-theft-auto-vi",
-      "name": "Grand Theft Auto VI",
+      "id": "sap-layoffs",
+      "name": "sap layoffs",
       "aliases": [
-        "Grand Theft Auto VI",
-        "Grand Theft Auto"
+        "sap layoffs"
       ],
-      "phase": "holding",
-      "first_seen": "2026-11-18",
+      "phase": "fading",
+      "first_seen": "2026-11-27",
       "last_seen": "2026-11-27",
-      "days_seen": 10,
+      "days_seen": 1,
       "sources_seen": [
-        "lemmy",
-        "steam",
-        "wikipedia",
-        "youtube"
+        "google-trends"
       ],
-      "signal": 0.259,
-      "url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI",
-      "summary": "Rockstar's Grand Theft Auto VI launched on November 19, 2026, on PlayStation 5 and Xbox Series X/S, and this weekend is its first on sale.",
-      "why_now": "This is launch week. Sony said on November 10 it had become the most pre-ordered game in PlayStation Store history, and digital pre-loads of up to 212 GB opened nine days before release.",
-      "researched_at": "2026-11-23T02:22:57.990Z",
+      "signal": 0.267,
+      "url": "https://www.reuters.com/technology/sap-considers-least-10000-job-cuts-ai-restructuring-bloomberg-reports-2026-11-26/",
+      "summary": null,
+      "why_now": null,
+      "researched_at": null,
       "needs_research": false
     },
     {
@@ -237,7 +540,7 @@
       "aliases": [
         "Mike McCarthy"
       ],
-      "phase": "climbing",
+      "phase": "fading",
       "first_seen": "2026-11-26",
       "last_seen": "2026-11-27",
       "days_seen": 2,
@@ -257,7 +560,7 @@
       "aliases": [
         "Duran Duran"
       ],
-      "phase": "new",
+      "phase": "fading",
       "first_seen": "2026-11-27",
       "last_seen": "2026-11-27",
       "days_seen": 1,
@@ -277,7 +580,7 @@
       "aliases": [
         "Wu-Tang Clan"
       ],
-      "phase": "new",
+      "phase": "fading",
       "first_seen": "2026-11-27",
       "last_seen": "2026-11-27",
       "days_seen": 1,
@@ -303,7 +606,7 @@
         "GTA 6 #2",
         "gta 6 pc port"
       ],
-      "phase": "holding",
+      "phase": "fading",
       "first_seen": "2026-11-18",
       "last_seen": "2026-11-27",
       "days_seen": 8,
@@ -325,7 +628,7 @@
       "aliases": [
         "Ezra Frech"
       ],
-      "phase": "holding",
+      "phase": "fading",
       "first_seen": "2026-11-26",
       "last_seen": "2026-11-27",
       "days_seen": 2,
@@ -790,27 +1093,6 @@
       "needs_research": false
     },
     {
-      "id": "avengers-doomsday",
-      "name": "Avengers: Doomsday",
-      "aliases": [
-        "Avengers: Doomsday"
-      ],
-      "phase": "fading",
-      "first_seen": "2026-11-24",
-      "last_seen": "2026-11-25",
-      "days_seen": 2,
-      "sources_seen": [
-        "wikipedia",
-        "youtube"
-      ],
-      "signal": 0.117,
-      "url": "https://en.wikipedia.org/wiki/Avengers%3A_Doomsday",
-      "summary": null,
-      "why_now": null,
-      "researched_at": null,
-      "needs_research": false
-    },
-    {
       "id": "blood",
       "name": "Blood",
       "aliases": [
@@ -880,7 +1162,7 @@
       "aliases": [
         "uae vs india a"
       ],
-      "phase": "fading",
+      "phase": "closed",
       "first_seen": "2026-11-24",
       "last_seen": "2026-11-24",
       "days_seen": 1,
@@ -900,7 +1182,7 @@
       "aliases": [
         "full moon beaver moon"
       ],
-      "phase": "fading",
+      "phase": "closed",
       "first_seen": "2026-11-24",
       "last_seen": "2026-11-24",
       "days_seen": 1,
@@ -920,7 +1202,7 @@
       "aliases": [
         "Stalwart is now a drop-in replacement for Microsoft Exchange"
       ],
-      "phase": "fading",
+      "phase": "closed",
       "first_seen": "2026-11-24",
       "last_seen": "2026-11-24",
       "days_seen": 1,
@@ -940,7 +1222,7 @@
       "aliases": [
         "Ladybird is now in alpha"
       ],
-      "phase": "fading",
+      "phase": "closed",
       "first_seen": "2026-11-24",
       "last_seen": "2026-11-24",
       "days_seen": 1,
@@ -961,7 +1243,7 @@
         "lakers vs jazz",
         "lakers x jazz"
       ],
-      "phase": "fading",
+      "phase": "closed",
       "first_seen": "2026-11-19",
       "last_seen": "2026-11-24",
       "days_seen": 2,
@@ -981,7 +1263,7 @@
       "aliases": [
         "bolsa familia dezembro"
       ],
-      "phase": "fading",
+      "phase": "closed",
       "first_seen": "2026-11-24",
       "last_seen": "2026-11-24",
       "days_seen": 1,
@@ -1001,7 +1283,7 @@
       "aliases": [
         "Qwen/Qwen3.8-27B"
       ],
-      "phase": "fading",
+      "phase": "closed",
       "first_seen": "2026-11-14",
       "last_seen": "2026-11-24",
       "days_seen": 2,
@@ -1239,26 +1521,6 @@
       "needs_research": false
     },
     {
-      "id": "xxx",
-      "name": ".xxx",
-      "aliases": [
-        ".xxx"
-      ],
-      "phase": "closed",
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-23",
-      "days_seen": 13,
-      "sources_seen": [
-        "wikipedia"
-      ],
-      "signal": 0.089,
-      "url": "https://en.wikipedia.org/wiki/.xxx",
-      "summary": null,
-      "why_now": null,
-      "researched_at": null,
-      "needs_research": false
-    },
-    {
       "id": "the-body-tv-series",
       "name": "The Body (TV series)",
       "aliases": [
@@ -1435,26 +1697,6 @@
       ],
       "signal": 0.114,
       "url": "https://en.wikipedia.org/wiki/O.M%3A_Operation_Mole",
-      "summary": null,
-      "why_now": null,
-      "researched_at": null,
-      "needs_research": false
-    },
-    {
-      "id": "ansel-adams",
-      "name": "Ansel Adams",
-      "aliases": [
-        "Ansel Adams"
-      ],
-      "phase": "closed",
-      "first_seen": "2026-11-15",
-      "last_seen": "2026-11-22",
-      "days_seen": 2,
-      "sources_seen": [
-        "wikipedia"
-      ],
-      "signal": 0.089,
-      "url": "https://en.wikipedia.org/wiki/Ansel_Adams",
       "summary": null,
       "why_now": null,
       "researched_at": null,
@@ -2269,214 +2511,12 @@
       "why_now": null,
       "researched_at": null,
       "needs_research": false
-    },
-    {
-      "id": "carnegie-mellon-is-putting-computer-science-courses-on-youtu",
-      "name": "Carnegie Mellon is putting computer science courses on YouTube for free",
-      "aliases": [
-        "Carnegie Mellon is putting computer science courses on YouTube for free"
-      ],
-      "phase": "closed",
-      "first_seen": "2026-11-17",
-      "last_seen": "2026-11-17",
-      "days_seen": 1,
-      "sources_seen": [
-        "hackernews"
-      ],
-      "signal": 0.8,
-      "url": "https://news.ycombinator.com/item?id=50522980",
-      "summary": null,
-      "why_now": null,
-      "researched_at": null,
-      "needs_research": false
-    },
-    {
-      "id": "bavendorf",
-      "name": "bavendorf",
-      "aliases": [
-        "bavendorf"
-      ],
-      "phase": "closed",
-      "first_seen": "2026-11-17",
-      "last_seen": "2026-11-17",
-      "days_seen": 1,
-      "sources_seen": [
-        "google-trends"
-      ],
-      "signal": 0.4,
-      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/friedrichshafen/toedlicher-unfall-bei-bavendorf-nach-frontalkollision-100.html",
-      "summary": null,
-      "why_now": null,
-      "researched_at": null,
-      "needs_research": false
-    },
-    {
-      "id": "windows-11-is-collecting-data-on-which-coding-agents-and-dev",
-      "name": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
-      "aliases": [
-        "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use"
-      ],
-      "phase": "closed",
-      "first_seen": "2026-11-17",
-      "last_seen": "2026-11-17",
-      "days_seen": 1,
-      "sources_seen": [
-        "hackernews"
-      ],
-      "signal": 0.4,
-      "url": "https://news.ycombinator.com/item?id=50524736",
-      "summary": null,
-      "why_now": null,
-      "researched_at": null,
-      "needs_research": false
-    },
-    {
-      "id": "archive-of-our-own",
-      "name": "Archive of Our Own",
-      "aliases": [
-        "Archive of Our Own"
-      ],
-      "phase": "closed",
-      "first_seen": "2026-11-16",
-      "last_seen": "2026-11-17",
-      "days_seen": 2,
-      "sources_seen": [
-        "wikipedia"
-      ],
-      "signal": 0.267,
-      "url": "https://en.wikipedia.org/wiki/Archive_of_Our_Own",
-      "summary": null,
-      "why_now": null,
-      "researched_at": null,
-      "needs_research": false
-    },
-    {
-      "id": "bugmenot-has-closed",
-      "name": "BugMeNot has closed",
-      "aliases": [
-        "BugMeNot has closed"
-      ],
-      "phase": "closed",
-      "first_seen": "2026-11-17",
-      "last_seen": "2026-11-17",
-      "days_seen": 1,
-      "sources_seen": [
-        "hackernews"
-      ],
-      "signal": 0.267,
-      "url": "https://news.ycombinator.com/item?id=50523601",
-      "summary": null,
-      "why_now": null,
-      "researched_at": null,
-      "needs_research": false
-    },
-    {
-      "id": "saqib-khan",
-      "name": "saqib khan",
-      "aliases": [
-        "saqib khan"
-      ],
-      "phase": "closed",
-      "first_seen": "2026-11-17",
-      "last_seen": "2026-11-17",
-      "days_seen": 1,
-      "sources_seen": [
-        "google-trends"
-      ],
-      "signal": 0.267,
-      "url": "https://www.cricinfo.com/story/are-saqib-khan-s-bowling-figures-the-best-on-test-debut-for-pakistan-ask-steven-1562824",
-      "summary": null,
-      "why_now": null,
-      "researched_at": null,
-      "needs_research": false
-    },
-    {
-      "id": "athletico-x-parana-clube-copa-parana",
-      "name": "athletico x parana clube copa parana",
-      "aliases": [
-        "athletico x parana clube copa parana"
-      ],
-      "phase": "closed",
-      "first_seen": "2026-11-17",
-      "last_seen": "2026-11-17",
-      "days_seen": 1,
-      "sources_seen": [
-        "google-trends"
-      ],
-      "signal": 0.2,
-      "url": "https://ge.globo.com/pr/futebol/taca-fpf/jogo/16-11-2026/atletico-pr-parana.ghtml",
-      "summary": null,
-      "why_now": null,
-      "researched_at": null,
-      "needs_research": false
-    },
-    {
-      "id": "nba-2k27-x-gta-6-grand-theft-auto-6-official-vice-city-cross",
-      "name": "NBA 2K27 x GTA 6 (Grand Theft Auto 6) - Official Vice City Crossover Trailer",
-      "aliases": [
-        "NBA 2K27 x GTA 6 (Grand Theft Auto 6) - Official Vice City Crossover Trailer"
-      ],
-      "phase": "closed",
-      "first_seen": "2026-11-17",
-      "last_seen": "2026-11-17",
-      "days_seen": 1,
-      "sources_seen": [
-        "wikipedia",
-        "youtube"
-      ],
-      "signal": 0.13,
-      "url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI",
-      "summary": null,
-      "why_now": null,
-      "researched_at": null,
-      "needs_research": false
-    },
-    {
-      "id": "saturn-devouring-his-son",
-      "name": "Saturn Devouring His Son",
-      "aliases": [
-        "Saturn Devouring His Son"
-      ],
-      "phase": "closed",
-      "first_seen": "2026-11-17",
-      "last_seen": "2026-11-17",
-      "days_seen": 1,
-      "sources_seen": [
-        "wikipedia"
-      ],
-      "signal": 0.114,
-      "url": "https://en.wikipedia.org/wiki/Saturn_Devouring_His_Son",
-      "summary": null,
-      "why_now": null,
-      "researched_at": null,
-      "needs_research": false
-    },
-    {
-      "id": "august-holmgren",
-      "name": "august holmgren",
-      "aliases": [
-        "august holmgren"
-      ],
-      "phase": "closed",
-      "first_seen": "2026-11-17",
-      "last_seen": "2026-11-17",
-      "days_seen": 1,
-      "sources_seen": [
-        "google-trends",
-        "polymarket"
-      ],
-      "signal": 0.113,
-      "url": "https://robinhood.com/us/en/prediction-markets/tennis/events/3aad038e-7138-40b0-ab13-71d2a25d41cf/",
-      "summary": null,
-      "why_now": null,
-      "researched_at": null,
-      "needs_research": false
     }
   ],
   "research_queue": [
-    "andy-taylor-guitarist",
-    "kuwait-attack-today",
-    "ai-made-self-hosting-fun-again",
-    "martin-lewis"
+    "counter-strike-2",
+    "joe-milton",
+    "pizza",
+    "unkernel-real-linux-kernel-compiled-to-webassembly"
   ]
 }

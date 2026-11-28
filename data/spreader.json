@@ -1,58 +1,58 @@
 {
-  "date": "2026-11-27",
-  "generated_at": "2026-11-27T06:16:44.354Z",
-  "lede": "Grand Theft Auto VI was the most travelled subject of the day, surfacing on Wikipedia, YouTube, Google Trends and Lemmy at once. The loudest of the four was a Lemmy post voted past 670, reporting that reverse engineers had the game running on PC against Rockstar's wishes. Two Avengers: Doomsday TV spots built on Magneto and Doctor Doom drew 3.8 million YouTube views between them. Wikipedia's single most-read article, though, was neither of those: a guitarist, Andy Taylor, at 318,400 views.",
+  "date": "2026-11-28",
+  "generated_at": "2026-11-28T06:17:14.996Z",
+  "lede": "Counter-Strike 2 is the day's clearest cross-feed signal, turning up in two places with real money behind it: 1,206,781 concurrent players on Steam, and the PGL Major Singapore playoffs trading on Polymarket, where the Astralis versus Imperial match alone drew roughly $1.45M in 24-hour volume. Wikipedia went its own way, sending 385,182 readers to Joe Milton, its most-viewed article by a wide margin. The heavier story crossed Hacker News and Lemmy at once: a group of state attorneys general suing SpaceX's X and xAI over Grok generating child sexual abuse and non-consensual images.",
   "throughlines": [
     {
-      "title": "Avengers Doomsday | Magneto vs Doom | Get Your Tickets at TGV Now",
-      "gist": "A Magneto versus Doctor Doom teaser for Avengers: Doomsday, climbing in its second day across Wikipedia and YouTube, where the ticket spot alone has drawn 2.76 million views.",
+      "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+      "gist": "State attorneys general are suing SpaceX's X and xAI to stop Grok from producing child sexual abuse images and non-consensual sexual content; the filing surfaced on Hacker News and Lemmy the same day.",
+      "sources": [
+        "hackernews",
+        "lemmy"
+      ],
+      "url": "https://news.ycombinator.com/item?id=50670855",
+      "kind": "cluster",
+      "topic_id": "states-sue-spacex-to-stop-grok-from-generating-child-sex-ima",
+      "phase": "new",
+      "days_seen": 1,
+      "first_seen": "2026-11-28",
+      "why": null,
+      "explainer_url": "https://nnnsightnnn.github.io/web-pulse/topics.html#states-sue-spacex-to-stop-grok-from-generating-child-sex-ima"
+    },
+    {
+      "title": "Avengers: Doomsday",
+      "gist": "Marvel's next Avengers film is still climbing on Wikipedia while trailer breakdowns and TV spots crowd YouTube's charts.",
       "sources": [
         "wikipedia",
         "youtube"
       ],
       "url": "https://en.wikipedia.org/wiki/Avengers%3A_Doomsday",
       "kind": "cluster",
-      "topic_id": "magneto-vs-doctor-doom-avengers-doomsday-new-teaser",
+      "topic_id": "avengers-doomsday",
       "phase": "climbing",
-      "days_seen": 2,
-      "first_seen": "2026-11-26",
+      "days_seen": 3,
+      "first_seen": "2026-11-24",
       "why": null,
-      "explainer_url": "https://nnnsightnnn.github.io/web-pulse/topics.html#magneto-vs-doctor-doom-avengers-doomsday-new-teaser"
+      "explainer_url": "https://nnnsightnnn.github.io/web-pulse/topics.html#avengers-doomsday"
     },
     {
-      "title": "Grand Theft Auto VI",
-      "gist": "Rockstar's Grand Theft Auto VI, launched November 19 on PlayStation 5 and Xbox Series X/S, is now ten days on the feeds and holding, still pulling readers on Wikipedia and viewers on YouTube.",
+      "title": "Counter-Strike 2",
+      "gist": "The PGL Major Singapore playoffs put Counter-Strike 2 at the top of Steam's live player counts and onto Polymarket's most-traded board on the same day.",
       "sources": [
-        "wikipedia",
-        "youtube"
+        "polymarket",
+        "steam"
       ],
-      "url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI",
+      "url": "https://store.steampowered.com/app/730",
       "kind": "cluster",
-      "topic_id": "grand-theft-auto-vi",
-      "phase": "holding",
-      "days_seen": 10,
-      "first_seen": "2026-11-18",
-      "why": "Rockstar's Grand Theft Auto VI launched on November 19, 2026, on PlayStation 5 and Xbox Series X/S, and this weekend is its first on sale.",
-      "explainer_url": "https://nnnsightnnn.github.io/web-pulse/topics.html#grand-theft-auto-vi"
-    },
-    {
-      "title": "gta 6 pc port",
-      "gist": "The separate scramble to get GTA VI running on PC, live on Google Trends and YouTube for eight days, after Rockstar moved to squash the biggest recompilation effort.",
-      "sources": [
-        "google-trends",
-        "youtube"
-      ],
-      "url": "https://www.techpowerup.com/355160/rockstar-squashes-leonida-the-biggest-gta-6-pc-recompilation-effort",
-      "kind": "cluster",
-      "topic_id": "gta-6",
-      "phase": "holding",
-      "days_seen": 8,
-      "first_seen": "2026-11-18",
+      "topic_id": "counter-strike-2",
+      "phase": "new",
+      "days_seen": 1,
+      "first_seen": "2026-11-28",
       "why": null,
-      "explainer_url": "https://nnnsightnnn.github.io/web-pulse/topics.html#gta-6"
+      "explainer_url": "https://nnnsightnnn.github.io/web-pulse/topics.html#counter-strike-2"
     }
   ],
-  "strength": 42,
+  "strength": 66,
   "live_sources": 17,
   "total_sources": 17,
   "dashboard_url": "https://nnnsightnnn.github.io/web-pulse/",

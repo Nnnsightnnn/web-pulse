@@ -1,0 +1,35 @@
+{
+  "id": "lotto",
+  "name": "lotto",
+  "aliases": [
+    "lotto"
+  ],
+  "first_seen": "2026-11-28",
+  "last_seen": "2026-11-28",
+  "days_seen": 1,
+  "phase": "new",
+  "sources_seen": [
+    "google-trends"
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-28",
+      "sources": [
+        "google-trends"
+      ],
+      "signal": 0.2,
+      "items": [
+        {
+          "source": "google-trends",
+          "title": "lotto",
+          "url": "https://www.berliner-zeitung.de/article/was-chico-mit-dem-gewinn-macht-genau-das-wovor-jeder-warnt-lotto-koenig-aus-dortmund-raeumt-schon-wieder-ab-10643875",
+          "rank": 4,
+          "movement": "new"
+        }
+      ]
+    }
+  ],
+  "explainer": null,
+  "explainer_history": [],
+  "needs_research": false
+}

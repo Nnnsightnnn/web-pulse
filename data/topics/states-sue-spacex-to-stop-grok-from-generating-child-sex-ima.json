@@ -1,0 +1,44 @@
+{
+  "id": "states-sue-spacex-to-stop-grok-from-generating-child-sex-ima",
+  "name": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+  "aliases": [
+    "States sue SpaceX to stop Grok from generating child sex images, revenge porn"
+  ],
+  "first_seen": "2026-11-28",
+  "last_seen": "2026-11-28",
+  "days_seen": 1,
+  "phase": "new",
+  "sources_seen": [
+    "hackernews",
+    "lemmy"
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-28",
+      "sources": [
+        "hackernews",
+        "lemmy"
+      ],
+      "signal": 0.11145510835913312,
+      "items": [
+        {
+          "source": "hackernews",
+          "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+          "url": "https://news.ycombinator.com/item?id=50670855",
+          "rank": 19,
+          "movement": "new"
+        },
+        {
+          "source": "lemmy",
+          "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+          "url": "https://lemmy.world/post/54927024",
+          "rank": 17,
+          "movement": "new"
+        }
+      ]
+    }
+  ],
+  "explainer": null,
+  "explainer_history": [],
+  "needs_research": false
+}

@@ -6,9 +6,9 @@
     "Aaron Rodgers"
   ],
   "first_seen": "2026-11-26",
-  "last_seen": "2026-11-27",
-  "days_seen": 2,
-  "phase": "climbing",
+  "last_seen": "2026-11-28",
+  "days_seen": 3,
+  "phase": "holding",
   "sources_seen": [
     "bluesky",
     "wikipedia"
@@ -51,6 +51,22 @@
           "url": "https://en.wikipedia.org/wiki/Aaron_Rodgers",
           "rank": 3,
           "movement": "climbing"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-28",
+      "sources": [
+        "wikipedia"
+      ],
+      "signal": 0.08888888888888889,
+      "items": [
+        {
+          "source": "wikipedia",
+          "title": "Aaron Rodgers",
+          "url": "https://en.wikipedia.org/wiki/Aaron_Rodgers",
+          "rank": 9,
+          "movement": "falling"
         }
       ]
     }

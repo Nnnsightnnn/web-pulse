@@ -1,0 +1,35 @@
+{
+  "id": "unkernel-real-linux-kernel-compiled-to-webassembly",
+  "name": "Unkernel: Real Linux kernel, compiled to WebAssembly",
+  "aliases": [
+    "Unkernel: Real Linux kernel, compiled to WebAssembly"
+  ],
+  "first_seen": "2026-11-28",
+  "last_seen": "2026-11-28",
+  "days_seen": 1,
+  "phase": "new",
+  "sources_seen": [
+    "hackernews"
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-28",
+      "sources": [
+        "hackernews"
+      ],
+      "signal": 0.8,
+      "items": [
+        {
+          "source": "hackernews",
+          "title": "Unkernel: Real Linux kernel, compiled to WebAssembly",
+          "url": "https://news.ycombinator.com/item?id=50674218",
+          "rank": 1,
+          "movement": "new"
+        }
+      ]
+    }
+  ],
+  "explainer": null,
+  "explainer_history": [],
+  "needs_research": true
+}

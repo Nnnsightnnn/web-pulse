@@ -1,0 +1,35 @@
+{
+  "id": "joe-milton",
+  "name": "Joe Milton",
+  "aliases": [
+    "Joe Milton"
+  ],
+  "first_seen": "2026-11-28",
+  "last_seen": "2026-11-28",
+  "days_seen": 1,
+  "phase": "new",
+  "sources_seen": [
+    "wikipedia"
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-28",
+      "sources": [
+        "wikipedia"
+      ],
+      "signal": 0.8,
+      "items": [
+        {
+          "source": "wikipedia",
+          "title": "Joe Milton",
+          "url": "https://en.wikipedia.org/wiki/Joe_Milton",
+          "rank": 1,
+          "movement": "climbing"
+        }
+      ]
+    }
+  ],
+  "explainer": null,
+  "explainer_history": [],
+  "needs_research": true
+}

@@ -1,0 +1,35 @@
+{
+  "id": "mason-rudolph-american-football",
+  "name": "Mason Rudolph (American football)",
+  "aliases": [
+    "Mason Rudolph (American football)"
+  ],
+  "first_seen": "2026-11-28",
+  "last_seen": "2026-11-28",
+  "days_seen": 1,
+  "phase": "new",
+  "sources_seen": [
+    "wikipedia"
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-28",
+      "sources": [
+        "wikipedia"
+      ],
+      "signal": 0.16,
+      "items": [
+        {
+          "source": "wikipedia",
+          "title": "Mason Rudolph (American football)",
+          "url": "https://en.wikipedia.org/wiki/Mason_Rudolph_(American_football)",
+          "rank": 5,
+          "movement": "new"
+        }
+      ]
+    }
+  ],
+  "explainer": null,
+  "explainer_history": [],
+  "needs_research": false
+}

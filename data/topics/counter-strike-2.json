@@ -1,0 +1,58 @@
+{
+  "id": "counter-strike-2",
+  "name": "Counter-Strike 2",
+  "aliases": [
+    "Counter-Strike 2"
+  ],
+  "first_seen": "2026-11-28",
+  "last_seen": "2026-11-28",
+  "days_seen": 1,
+  "phase": "new",
+  "sources_seen": [
+    "polymarket",
+    "steam"
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-28",
+      "sources": [
+        "polymarket",
+        "steam"
+      ],
+      "signal": 1.35,
+      "items": [
+        {
+          "source": "steam",
+          "title": "Counter-Strike 2",
+          "url": "https://store.steampowered.com/app/730",
+          "rank": 1,
+          "movement": "holding"
+        },
+        {
+          "source": "polymarket",
+          "title": "Counter-Strike: Astralis vs Imperial (BO1) - PGL Major Singapore Stage 2",
+          "url": "https://polymarket.com/event/cs2-ast10-imp11-2026-11-28",
+          "rank": 2,
+          "movement": "new"
+        },
+        {
+          "source": "polymarket",
+          "title": "Counter-Strike: G2 vs Liquid (BO1) - PGL Major Singapore Stage 2",
+          "url": "https://polymarket.com/event/cs2-g2-tl1-2026-11-28",
+          "rank": 4,
+          "movement": "new"
+        },
+        {
+          "source": "polymarket",
+          "title": "Counter-Strike: THE ONE vs Eternal Fire (BO1) - PGL Major Singapore Stage 2",
+          "url": "https://polymarket.com/event/cs2-one6-ef1-2026-11-28",
+          "rank": 8,
+          "movement": "new"
+        }
+      ]
+    }
+  ],
+  "explainer": null,
+  "explainer_history": [],
+  "needs_research": true
+}

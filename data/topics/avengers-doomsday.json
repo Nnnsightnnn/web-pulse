@@ -5,9 +5,9 @@
     "Avengers: Doomsday"
   ],
   "first_seen": "2026-11-24",
-  "last_seen": "2026-11-25",
-  "days_seen": 2,
-  "phase": "fading",
+  "last_seen": "2026-11-28",
+  "days_seen": 3,
+  "phase": "climbing",
   "sources_seen": [
     "wikipedia",
     "youtube"
@@ -58,6 +58,30 @@
           "url": "https://www.youtube.com/watch?v=tYsEP6Z6jyM",
           "rank": 20,
           "movement": "holding"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-28",
+      "sources": [
+        "wikipedia",
+        "youtube"
+      ],
+      "signal": 0.09307359307359307,
+      "items": [
+        {
+          "source": "wikipedia",
+          "title": "Avengers: Doomsday",
+          "url": "https://en.wikipedia.org/wiki/Avengers%3A_Doomsday",
+          "rank": 21,
+          "movement": "climbing"
+        },
+        {
+          "source": "youtube",
+          "title": "Avengers: Doomsday All Trailers & TV Spots | IN ORDER THEY APPEAR",
+          "url": "https://www.youtube.com/watch?v=JFStr4Tvur0",
+          "rank": 22,
+          "movement": "new"
         }
       ]
     }
